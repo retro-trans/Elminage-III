@@ -1,0 +1,359 @@
+[
+ {
+  "en": "\"We've got plenty, so no need to rush. Line up in two rows in front of us, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You took your place at the back of the line. Electra's group was lined up just ahead of you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I was going to start by hunting down the ore to make an Angel's Window myself, but they're handing them out? How generous.\"{w}",
+  "kind": "msg",
+  "note": "New item name: Angel's Window (ITEM.CSV 460, max 20)."
+ },
+ {
+  "en": "Natori and Mayleen began handing out the Angel's Windows one by one.{w}",
+  "kind": "msg",
+  "note": "te-watashi = handed over personally, rendered \"one by one\"."
+ },
+ {
+  "en": "\"Here you go.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Would you be so kind as to hold out your hand?\"{w}",
+  "kind": "msg",
+  "note": "Mayleen's ojou-sama politeness; she gets curter with each adventurer (645 > 647 > 649)."
+ },
+ {
+  "en": "\"Here, good luck!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Hold out your hand.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mayleen, smile, smile!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Paw.\"{w}",
+  "kind": "msg",
+  "note": "o-te = the command for a dog to give its paw; \"Paw.\" keeps the dog-command joke."
+ },
+ {
+  "en": "\"Ah, that one's in a bad mood, but don't let it bother you.{w}I'm gonna hand these out nice and fast!{w}Here, here, and here... Huh?\"{w}",
+  "kind": "msg",
+  "note": "sono hito (Mayleen) rendered \"that one\" to avoid a pronoun; Mayleen's gender is not in the glossary."
+ },
+ {
+  "en": "\"Is something the matter?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...We've run out of Angel's Windows!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Angel's Windows ran out right in front of you and Electra.{w}",
+  "kind": "msg",
+  "note": "zaiko = stock; \"ran out\" covers it."
+ },
+ {
+  "en": "\"How odd.{w}We should have prepared more than enough...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah. Uh-oh.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"'Uh-oh'? Don't tell me you...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"N-no! It's nothing!{w}What'll I do, this is a real pickle... Ahaha...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Are there any materials left?{w}If you have Dvel Soft Steel and Frozen Elven Iron, I can make them myself...\"{w}",
+  "kind": "msg",
+  "note": "New item names: Dvel Soft Steel (doveru nankou, ITEM.CSV 434), Frozen Elven Iron (hyouka eruben tetsu, ITEM.CSV 437). Both max 20 incl. \"+2\"."
+ },
+ {
+  "en": "\"Ooh, how reliable! I'll have someone look for some.{w}",
+  "kind": "msg",
+  "note": "Sentence continues in the echo row 660 (opening quote left open, as in the source)."
+ },
+ {
+  "en": "{0E}\"Ooh, how reliable! I'll have someone look for some.{0F}\nHey, King Balgert. Got any ore?\"{w}",
+  "kind": "msg",
+  "note": "Balgert-sama rendered \"King Balgert\" (Natori's casual nee + honorific). {0E}..{0F} repeats row 659 verbatim."
+ },
+ {
+  "en": "\"Hmph! We've got that stuff coming out of our ears!{w}As for where it is... er...{w}",
+  "kind": "msg",
+  "note": "kusaru hodo aru = so much it rots; idiom swapped for an English one of the same force."
+ },
+ {
+  "en": "{0E}\"Hmph! We've got that stuff coming out of our ears!\nAs for where it is... er...{0F}\nGuard! Go fetch it for 'em!!\"{w}",
+  "kind": "msg",
+  "note": "Echo of 661 with its {w} turned into \\n, as the source does. One guard answers and leaves, so singular."
+ },
+ {
+  "en": "\"As you command!!\"{w}",
+  "kind": "msg",
+  "note": "Avoided \"sir\" (Balgert's gender is not in the glossary)."
+ },
+ {
+  "en": "The guard scurried out of the room.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I have brought the Dvel Soft Steel and Frozen Elven Iron!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Good, hand it over to 'em!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank goodness.{w}If I combine these two through alchemy, it should make an Angel's Window.\"{w}{p}\"You should all find an alchemist friend too, and have them make one in the Alchemy Storage at the inn from earlier.\"{w}",
+  "kind": "msg",
+  "note": "gousei renkin = alchemical combination. renkin souko = \"Alchemy Storage\" (new UI term; HELP_TEXT 166). sakihodo no yadoya = the inn where the party met Electra (Zeppo's Inn) -- kept vague as in source."
+ },
+ {
+  "en": "\"Why are you telling these guys!?{w}They're our rivals!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"None of that, now. When someone's in a bind, we help each other out.\"{w}",
+  "kind": "msg",
+  "note": "komatta toki wa otagai-sama."
+ },
+ {
+  "en": "\"All right, all right!\nEveryone's got a compass and an Angel's Window now, yeah?{w}...And you two groups there, you're fine too, since you got the materials, right?\"{w}",
+  "kind": "msg",
+  "note": "sono futakumi = the player party and Electra's party."
+ },
+ {
+  "en": "\"Yes. Thank you for your kindness.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Me, I'm a king built for wartime.{w}My policy is to leave the complicated stuff to the scholars and the spellcasters.\"{w}{p}\"In return, I won't get in your way! Go at it all you want!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"With that, you're dismissed!!{w}Once you've managed to find the Lightstair Ruins, come report to me here in the audience chamber!\"{w}",
+  "kind": "msg",
+  "note": "hikari no kaiseki: coined word (kaidan + ato, \"site of the stairway\", glossed by Mayleen in row 627). Rendered \"Stairway Ruins of Light\" to pair with \"Stairway of Light\" (hikari no kaidan). Must be unified with slice_08."
+ },
+ {
+  "en": "\"I'm expecting good news!{w}Nwahahahaha!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "With a booming laugh, King Balgert left the audience chamber.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well then, we'll head back into town.{w}Let's both pray for a safe journey.\"{w}",
+  "kind": "msg",
+  "note": "otagai no tabi no buji = each other's safe journeys."
+ },
+ {
+  "en": "Electra and Mig left the room.{w}Only a scattering of adventurers remained.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"By the way, Natori.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Urk!\"{w}",
+  "kind": "msg",
+  "note": "giku = a guilty start, spoken aloud."
+ },
+ {
+  "en": "\"I had my suspicions.{w}...You sold off the supplies again, didn't you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"T-ten of them... or so...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sigh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But the dealer was being mean to me, okay!?{w}And it's not like I was cheating!!\"{w}",
+  "kind": "msg",
+  "note": "dealer = gambling dealer; Natori sold the stock to fund gambling (implied by source, not stated)."
+ },
+ {
+  "en": "\"I suppose this must be reported to the Council Chair.\"{w}",
+  "kind": "msg",
+  "note": "gichou = chairperson of an assembly; \"Council Chair\" is gender-neutral. Identity unknown (possibly Wattner, row 723 -- not verified). New term."
+ },
+ {
+  "en": "\"Uuuu...\"{w}",
+  "kind": "msg",
+  "note": "eu- = whimper."
+ },
+ {
+  "en": "Natori was all but dragged out by Mayleen.{w}{p}You decided to leave the audience chamber as well.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You came to the audience chamber, but you still haven't found the 'Lightstair Ruins'.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you told them you had found the Lightstair Ruins, the guards went to fetch King Balgert.{w}{p}After a while, King Balgert appeared, all smiles.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I heard, you lot! You found it, didn't you!!{w}Good work, good work!!{w}So, how do we make the Stairway of Light appear!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You explained about the hollows in the three altars.{w}",
+  "kind": "msg",
+  "note": "kubomi = hollows/recesses (sockets for the stones)."
+ },
+ {
+  "en": "\"Huh? Three altars and hollows?{w}Never heard of any such thing.{w}...No, wait a sec.\"{w}{p}\"Maybe you mean the Three Phantom Stones? The Hemaid Red Stone, the Green Plakio and the Blue Menon?\"{w}{p}\"They're the three shining magic stones that come up in the legend of the Stairway of Light.\"{w}",
+  "kind": "msg",
+  "note": "New terms: sangenseki = \"Three Mystic Stones\", genseki = \"Mystic Stones\"; Hemaid Red Stone (hemaido no akaishi). Green Plakio / Blue Menon from pilot rows 3-4."
+ },
+ {
+  "en": "\"If they've gone missing, that's a job for the compass.\"{w}{p}\"Go see Natori, and have the compass imbued with the power to search for the Three Phantom Stones.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Natori's at the Temple of Rafa in Lumisthenes.{w}I've got other business in Lumisthenes myself.{w}It's about time I got ready for it.\"{w}{p}\"You lot go about it however you like. Once you've got the Three Phantom Stones, come back here!{w}I'll be waiting for good news!!\"{w}",
+  "kind": "msg",
+  "note": "Temple of Rafa as in pilot row 1."
+ },
+ {
+  "en": "\"What, you still haven't been to Lumisthenes?{w}It's the Temple of Rafa, don't get it wrong, okay?\"{w}{p}\"Or are you gonna tag along behind me?{w}Nwahahahaha!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well? Found the Three Phantom Stones yet?\nPut your backs into the adventuring, and put your backs into finding 'em, eh?\nNwahahahaha!!\"{w}",
+  "kind": "msg",
+  "note": "shikkari x2 kept as a repeated phrase."
+ },
+ {
+  "en": "You showed the Hemaid Red Stone to Balgert.{w}",
+  "kind": "msg",
+  "note": "Full-width space after the item name in source (item-name padding) dropped."
+ },
+ {
+  "en": "\"Huh? What's that pebble?{w}...Wait, isn't that the Hemaid Red Stone!?{w}Lemme see!\"{w}{p}\"...Right.{w}This is... uh...{w}It's red!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Good job, you lot!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You showed the Green Plakio to Balgert.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...What, that's the Green Plakio?{w}Smells kinda fishy to me...{w}Isn't it just an emerald?\"{w}{p}\"Lemme borrow that a sec.{w}Aaaah...\"{w}",
+  "kind": "msg",
+  "note": "a-n = opening the mouth wide (to bite it), set up by row 701."
+ },
+ {
+  "en": "Balgert snatched the Green Plakio from you and popped it straight into the royal mouth!{w}",
+  "kind": "msg",
+  "note": "\"the royal mouth\" avoids a possessive pronoun for Balgert (gender not in glossary); source just says \"into the mouth\"."
+ },
+ {
+  "en": "\"Gwoh!?{w}Th-thish ish harrrrd...!?\"{w}{p}\"M-my teefh... fhought fey'd shnapped...{w}Hah, fhish might be fhe real fing!\"{w}{p}\"Goob jobh, you lomph!!\"{w}",
+  "kind": "msg",
+  "note": "Mouth-full mumbling. Decoded source: \"ha, ha ga oreccatta ka to... aa, korya honmono kamo shirenee na! ... yoku yatta zo, omeera!!\" = \"My t-teeth, I thought they'd broken... ah, this might be the real thing! ... Good job, you lot!!\". English garbled to stay decodable."
+ },
+ {
+  "en": "\"Ahh, but still, I just can't find the Blue Menon...{w}What am I supposed to do, honestly?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You showed the Blue Menon to Balgert.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah, it's a blue thing, kinda like this,\nit's all Menon-y, and the Menon's...{w}",
+  "kind": "msg",
+  "note": "Balgert rambling; sentence continues in echo row 706."
+ },
+ {
+  "en": "{0E}\"Yeah, it's a blue thing, kinda like this,\nit's all Menon-y, and the Menon's...{0F}\nWait, that's the Blue Menon!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What're you lot playing at? Great job!!\"{w}",
+  "kind": "msg",
+  "note": "nani shiten da = mock-reproach turned praise; kept the comic turn."
+ },
+ {
+  "en": "\"Mm, good, you're on a roll!{w}We've got the army out searching too, but keep riding this momentum and carry on with your investigation!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, so you've finally got all the Phantom Stones!{w}You lot are amazing!!\"{w}{p}\"And the army, by comparison... honestly.{w}You lot are a disgrace, you hear me!?\"{w}",
+  "kind": "msg",
+  "note": "Second \"omeera\" is aimed at the soldiers (the soldier apologizes in 710); \"And the army\" signals the switch."
+ },
+ {
+  "en": "\"We're sorry!\"{w}",
+  "kind": "msg",
+  "note": "Soldier apologizing for the army; \"we\" chosen since Balgert scolds the army as a group."
+ },
+ {
+  "en": "\"Eh, never mind!\"{w}{p}\"Right then, put the Phantom Stones back in the Lightstair Ruins and make the stairway appear.{w}We're all taking back the sun together!!\"{w}{p}\"Hey, send letters to the Council Chair and Rianna's people.{w}Tell 'em: 'The Stairway of Light is back!'\"{w}",
+  "kind": "msg",
+  "note": "gichou ya Rianna-tachi = the Chair and Rianna's people."
+ },
+ {
+  "en": "\"Understood!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...No, hang on a sec.{w}Just on the one going to Roscadil, add a 'Niiin!' at the end.\"{w}",
+  "kind": "msg",
+  "note": "ni-n! is a silly sound with no fixed meaning (a teasing tag for Roscadil); romanized rather than given an invented meaning."
+ },
+ {
+  "en": "\"Er, uh...? As you command, but...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah, I'm counting on you! Heh heh heh!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Riiight then, put the Phantom Stones back in the Lightstair Ruins and make the stairway appear.{w}We're all taking back the sun together!!\"{w}",
+  "kind": "msg",
+  "note": "Repeat-visit version of the 711 instruction; wording kept identical apart from the opener."
+ },
+ {
+  "en": "\"Never thought I'd be told I'm not qualified.{w}I'm ashamed of myself...{w}I'm the king, and I'm not even qualified to bring back peace...\"{w}{p}\"I'm sorry. All I can do is leave it to you lot.{w}Sorry about this...\"{w}",
+  "kind": "msg",
+  "note": "Who judged Balgert unqualified is not stated here (later story); kept the passive."
+ },
+ {
+  "en": "\"Well, when you come home safe, I'll throw you one heck of a celebration!{w}We'll drink and sing and party like crazy! Right!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You lot did good.\"{w}",
+  "kind": "msg"
+ }
+]

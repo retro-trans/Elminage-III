@@ -1,0 +1,349 @@
+[
+ {
+  "en": "\"What's wrong?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, it's nothing.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"No, it's nothing.{0F}\nYou lot look like a pretty good party.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, duh. It's parties like ours, with a unicorn,\nthat are the rare ones, y'know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Having me around proves you've got an Innocent, after all!\"{w}",
+  "kind": "msg",
+  "note": "Innocent = never changed class (cf. Innocent series, pilot row 33); a unicorn stays only with an Innocent, which drives Mig's fear of Electra changing class later in the scene. Mig: no pronoun used (gender unknown)."
+ },
+ {
+  "en": "\"Yeah, yeah, sure, you're right.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Miss! It's about time we...\"{w}",
+  "kind": "msg",
+  "note": "o-jou = 'Miss' as in wmap slice_04 (a form of address; Electra's gender stays unassumed)."
+ },
+ {
+  "en": "\"You're right.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"You're right.{0F}\nWe won't lose next time, you hear? See you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmm...\"",
+  "kind": "data"
+ },
+ {
+  "en": "\"But I really do need to study...{w}Even you can read and write, right, Yamuru?\"{w}",
+  "kind": "msg",
+  "note": "Addressed to Yamuru: the reply ('harsh way to put it') settles it."
+ },
+ {
+  "en": "\"That's a harsh way to put it.\nWhat good's a bounty hunter who can't read a wanted poster?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I can't read, but\nit's never been a problem, y'know?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then I'll teach you.{w}Perhaps we'll hold a little study session one of these days, hm?\"{w}",
+  "kind": "msg",
+  "note": "Korbitz answers Maniron (who can't read)."
+ },
+ {
+  "en": "\"I hate studyyying...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But what about textbooks and... how would we pay for it all?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, we'll manage somehow.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Electra, Electra, look!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my! You again, and in a place like this!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We must be tied together by quite some fate, eh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We've been getting stronger too, you know,\nso we won't lose this time!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right then,{w}let's go, everyone!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mighty impressive, you lot, same as ever!\"{w}",
+  "kind": "msg",
+  "note": "Post-battle line: Mokero praises the winning player party (same pattern as row 290 'You guys are amazing')."
+ },
+ {
+  "en": "\"Oh, that reminds me.\nDo you guys know anything about the Moonlight Spirit?\"{w}",
+  "kind": "msg",
+  "note": "Maniron asks the player party (kimitachi). Moonlight Spirit / Sun Spirit as in wmap slices 02/10."
+ },
+ {
+  "en": "\"You really do go at your own pace.{w}The Moonlight Spirit? Don't you mean the Sun Spirit?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nope, the Moonlight Spirit.{w}I've been sorta-kinda looking for it.{w}And not finding it just makes me even more curious~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"For all that, you guys sure know a lot too...{w}I really do have to study.{w}",
+  "kind": "msg",
+  "note": "anata-tachi here = Electra's own companions (Yamuru/Maniron just showed off their knowledge); 'you guys' keeps it open."
+ },
+ {
+  "en": "{0E}\"For all that, you guys sure know a lot too...\nI really do have to study.{0F}\nAnd I need to work harder at alchemy, too...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then just change classes.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ninja! You should be a ninja!{w}YAMURU IS DECAPITATED!{w}",
+  "kind": "msg",
+  "note": "Wizardry-style critical-hit message in caps (source in kana, system-message style)."
+ },
+ {
+  "en": "{0E}\"Ninja! You should be a ninja!\nYAMURU IS DECAPITATED!{0F}\n*Diiing* Rest in peace~!\"{w}",
+  "kind": "msg",
+  "note": "chiin = the Buddhist altar bell rung for the dead; 'Rest in peace' added to carry the death-bell sense."
+ },
+ {
+  "en": "\"Why's it gotta be me!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, pipe down.{w}Nobody needs a thief who can't even\ndisarm traps!\"{w}",
+  "kind": "msg",
+  "note": "Aimed at Yamuru (has thief skills and misjudged a trap in pilot row 362)."
+ },
+ {
+  "en": "\"You can just go end up\n    *INSIDE THE ROCK*\nall by yourself!\"{w}",
+  "kind": "msg",
+  "note": "Wizardry homage: ishi no naka ni iru is the teleport-into-rock wipe message. Centered line kept on its own line with a few spaces."
+ },
+ {
+  "en": "\"W-wait a minute...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's right! Electra, don't give up!{w}You're going to make loads of money as an alchemist, right?{w}Don't go bending your convictions!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mig...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Listen.{w}Electra, you need to cut it out too.{w}If you're going to keep wavering, I'm out.\"{w}",
+  "kind": "msg",
+  "note": "ore wa oriru = quit the party."
+ },
+ {
+  "en": "\"Wh-what... Yamuru...{w}What's gotten into you all of a sudden...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Someone who does things by halves drags everyone else down too.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aw, don't go sayin' that, chief!{w}I'll just dig in twice as hard to make up for it, I will!\"{w}",
+  "kind": "msg",
+  "note": "nii-san -> 'chief' (wmap slice_05 choice; gender-neutral, Yamuru's gender is unknown)."
+ },
+ {
+  "en": "\"That's right!\nElectra's trying really hard too, you know!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You ought to think a little harder{w}about what you're actually\nsaying.\"{w}",
+  "kind": "msg",
+  "note": "Yamuru to Mig: Mig's cheering keeps Electra from changing class, which also suits Mig (see row 324)."
+ },
+ {
+  "en": "\"Big talk from someone who's changed class before!\"{w}",
+  "kind": "msg",
+  "note": "Mig retorts that Yamuru has changed class (tenshoku keikensha)."
+ },
+ {
+  "en": "\"...Mig.\"{w}",
+  "kind": "msg",
+  "note": "Mild reproach to Mig."
+ },
+ {
+  "en": "\"...I'll stick with you a little longer, at least.{w}You can start studying bit by bit, too.{w}So make up your mind.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......Yeah... You're right...\nI'll try a little longer...{w}...Is that okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Fine.{w}Anyway, let's move on.{w}Hanging around here forever won't get us anywhere.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Okay!{w}Well then, you guys take care too, okay?\"{w}",
+  "kind": "msg",
+  "note": "Electra to the player party."
+ },
+ {
+  "en": "\"Dvel Soft Steel and Frozen Elven Iron...\"",
+  "kind": "data",
+  "note": "Item names: 'Dvel Soft Steel' (wmap slice_09 x3; wmap slice_05 has 'Mild Steel' once), 'Frozen Elven Iron'. ITEM.CSV not yet translated (max 20)."
+ },
+ {
+  "en": "\"Those two together make an Angel's Window...{w}I know that one, since I've made it before.{w}",
+  "kind": "msg",
+  "note": "Electra reading a recipe list (RENKIN_TXT: Dvel Soft Steel x Frozen Elven Iron = Angel's Window)."
+ },
+ {
+  "en": "{0E}\"Those two together make an Angel's Window...\nI know that one, since I've made it before.{0F}\nAnd then... Ma... Maz... Mazzu-ritty?\"{w}",
+  "kind": "msg",
+  "note": "Mazurite (wmap slice_05 coinage; ITEM.CSV 443 untranslated). JP gag: she misreads the middle kanji as 'ao'; English: she mangles the end of the word. Mokero corrects the fumbled part next row."
+ },
+ {
+  "en": "\"Miss, that bit's read 'rite'...\"{w}",
+  "kind": "msg",
+  "note": "Mokero gives the correct reading of the part she fumbled (JP: 'sou')."
+ },
+ {
+  "en": "\"Huh? Oh, so this is read 'Mazurite'!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Heyyy, and you call yourself an alchemist~~...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"B-but I know the actual stuff, and I can do the alchemy with it,{w}and I even know what it's called!{w}...Even if I didn't know how to read it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's that sort of carelessness, you see,{w}that gets you embarrassed in front of others like this...{w}Now, can you write 'Mazurite'?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Um... 'Mazuright'...\"{w}",
+  "kind": "msg",
+  "note": "JP: wrong kanji with the same reading; English: homophone misspelling."
+ },
+ {
+  "en": "\"Ooh, that's our Miss! Bang on, it is!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Isn't something kinda off?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"'Mazurite'... Like this.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It looks close and it's pronounced the same, so what's the big deal!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, now, take your time learning it.{w}Sixty out of a hundred... I'd say, hm?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Way to go, Electra!\nThat's a higher score than last time!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I guess.........{w}Hmm, with this stuff, I guess the only way\nis to write it out a lot until it sticks...\"{w}",
+  "kind": "msg",
+  "note": "Distracted, flat reply; it makes Mig feel brushed off (rows 385-388)."
+ },
+ {
+  "en": "\"...Electra?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ahahahaha!\nMig, Electra thinks you're a pain!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh!? That's not true, Mig!\nThank you, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Am I getting in your way, Electra?\"{w}",
+  "kind": "msg",
+  "note": "Mig names Electra while speaking to Electra; rendered as direct address."
+ },
+ {
+  "en": "\"You're overthinking it. It's fine!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"You're overthinking it. It's fine!{0F}\nOh, so it is you guys.{w}Sorry I'm always so slow to notice!\"{w}",
+  "kind": "msg",
+  "note": "Electra greets the player party, who walked up unnoticed; this sets up the ninja/thief jokes."
+ },
+ {
+  "en": "\"Maybe they're all ninjas?{w}",
+  "kind": "msg",
+  "note": "Maniron: they sneak up like ninjas."
+ },
+ {
+  "en": "{0E}\"Maybe they're all ninjas?{0F}\nOff with their heads, chop!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nah, nah, maybe{w}every last one of 'em's a thief,\nsame as me, eh?\"{w}",
+  "kind": "msg",
+  "note": "Mokero is a thief."
+ },
+ {
+  "en": "\"Okay, okay, that's enough!{w}Now then, let's put all that studying to the test!{w}...Mig?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, it's nothing, Electra!\nLet's show them what we can do!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah, let's!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Heeeads!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Electra, am I really not getting in your way?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Seriously, what's wrong?{w}Of course you're not.\"{w}",
+  "kind": "msg"
+ }
+]

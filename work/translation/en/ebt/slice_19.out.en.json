@@ -1,0 +1,360 @@
+[
+ {
+  "en": "Make blue clear",
+  "kind": "ui",
+  "note": "Value of 1482 'transparency setting: %s'. HELP_TEXT 349/378: treat blue as the transparent (key) colour when importing Face Load/Style Load BMPs. Pairs with 1484."
+ },
+ {
+  "en": "Keep as is",
+  "kind": "ui",
+  "note": "Other value of the 1482 transparency setting (no colour keyed out)."
+ },
+ {
+  "en": "Saving...\nDo not remove the Memory Stick.",
+  "kind": "ui",
+  "note": "Matches ebt slice_03 rows 232/233."
+ },
+ {
+  "en": "The image is not 256 colors. If imported as is, it will be automatically converted to the colors above.",
+  "kind": "ui",
+  "note": "Face/Style Load BMP import. No line break in source (78 JP columns), so the box wraps or is wide; kept as one line."
+ },
+ {
+  "en": "The image is not 48x48 pixels.",
+  "kind": "ui",
+  "note": "'dots' rendered as pixels."
+ },
+ {
+  "en": "Overwrite the selected data. Are you sure?",
+  "kind": "ui"
+ },
+ {
+  "en": "Importing dungeon data...",
+  "kind": "ui"
+ },
+ {
+  "en": "Importing sound data...",
+  "kind": "ui"
+ },
+ {
+  "en": "No images to import.",
+  "kind": "ui"
+ },
+ {
+  "en": "No data to import.",
+  "kind": "ui"
+ },
+ {
+  "en": "No sound data found.",
+  "kind": "ui"
+ },
+ {
+  "en": "  No Memory Stick is inserted.  ",
+  "kind": "ui",
+  "note": "Source is padded with one full-width space each side; kept as two ASCII spaces each side."
+ },
+ {
+  "en": "Add New",
+  "kind": "ui"
+ },
+ {
+  "en": "Reset the music settings to default. Are you sure?",
+  "kind": "ui",
+  "note": "Custom BGM replacement (HELP_TEXT 392)."
+ },
+ {
+  "en": "Delete the selected data. Are you sure?",
+  "kind": "ui"
+ },
+ {
+  "en": "Export and overwrite the existing data. Are you sure?",
+  "kind": "ui"
+ },
+ {
+  "en": "Export the selected data. Are you sure?",
+  "kind": "ui"
+ },
+ {
+  "en": "Replacing dungeon data...",
+  "kind": "ui"
+ },
+ {
+  "en": "Exporting dungeon data...",
+  "kind": "ui"
+ },
+ {
+  "en": "Deleting dungeon data...",
+  "kind": "ui"
+ },
+ {
+  "en": "Resetting the music settings to default...",
+  "kind": "ui"
+ },
+ {
+  "en": "Failed to search for data.",
+  "kind": "ui"
+ },
+ {
+  "en": "No PICTURE folder found.",
+  "kind": "ui",
+  "note": "PICTURE is the Memory Stick folder name the game reads: left in Latin caps."
+ },
+ {
+  "en": "Searching for Dungeon Load data...",
+  "kind": "ui",
+  "note": "TERM: 'Dungeon Load' = the custom-menu feature that imports/exports dungeon data to the Memory Stick (HELP_TEXT 385/396-398), parallel to Face Load / Style Load. CONFLICT: ebt slice_07 rows 553/587 used 'Dungeon Road'; chap slice_012 rows 940-941 used 'dungeon load data'."
+ },
+ {
+  "en": "No Dungeon Load data found.",
+  "kind": "ui",
+  "note": "See 1506."
+ },
+ {
+  "en": "No MUSIC folder found.",
+  "kind": "ui",
+  "note": "MUSIC is a folder name: left as is."
+ },
+ {
+  "en": "                        Elminage III",
+  "kind": "credits",
+  "note": "Credits title, centred on the JP centre (col ~30)."
+ },
+ {
+  "en": "        ~The Dark Apostle and the Palace of the Sun~",
+  "kind": "credits",
+  "note": "Subtitle 'Ankoku no Shito to Taiyou no Kyuuden'. 'Palace of the Sun' per glossary."
+ },
+ {
+  "en": "                      Production Staff",
+  "kind": "credits"
+ },
+ {
+  "en": "                    Scenario    Takahiro Matsutani",
+  "kind": "credits",
+  "note": "Layout: job title right-aligned to end at col 28, name at col 32 (JP grid, 1 full-width = 2 columns). Names in Western order, Hepburn without macrons."
+ },
+ {
+  "en": "                                Yuko Tanaka",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Yuri Murakami",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Shinji Iwase",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Masayuki Ishikawa",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Takahiro Kogo",
+  "kind": "credits",
+  "note": "Surname reading Kogo (alt. Kougo)."
+ },
+ {
+  "en": "              Dungeon Design    Yutaka Kurosawa",
+  "kind": "credits"
+ },
+ {
+  "en": "           Encyclopedia Text    Junichi Sogawa",
+  "kind": "credits",
+  "note": "zukan = the in-game monster/item/people encyclopedias."
+ },
+ {
+  "en": "                 Programming    Hiroyuki Fujiwara",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Makoto Ichinoseki",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Yutaka Yamaguchi",
+  "kind": "credits",
+  "note": "Given name single kanji: reading Yutaka is a guess (alt. Hiroshi, Yu)."
+ },
+ {
+  "en": "                                Yusuke Yamane",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Akinori Tomonaga",
+  "kind": "credits",
+  "note": "Reading unverified (alt. Asanaga)."
+ },
+ {
+  "en": "                 Character &    Sachiko Koriyama",
+  "kind": "credits",
+  "note": "JP title split over two rows ('Character-' / 'Item Design'); English cut at the same point."
+ },
+ {
+  "en": "                 Item Design    Satomi Onodera",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Daijiro Kataoka",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Masaki Hirauchi",
+  "kind": "credits",
+  "note": "Reading unverified (alt. Masanori; Hiranai)."
+ },
+ {
+  "en": "                                Koji Igusa",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Tatsuya Higashisakihara",
+  "kind": "credits",
+  "note": "Rare surname; reading unverified."
+ },
+ {
+  "en": "                                Yu Nakajima",
+  "kind": "credits",
+  "note": "Given name single kanji: reading Yu is a guess (alt. Haruka, Hisashi)."
+ },
+ {
+  "en": "                                Tatsuya Megumi",
+  "kind": "credits",
+  "note": "Single-kanji surname; reading unverified (alt. Kei)."
+ },
+ {
+  "en": "                 2D Graphics    Sachiko Koriyama",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Satomi Onodera",
+  "kind": "credits"
+ },
+ {
+  "en": "         Background Graphics    Koji Akagi",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Ken Takagi",
+  "kind": "credits"
+ },
+ {
+  "en": "                 3D Graphics    Yohei Matsuo",
+  "kind": "credits"
+ },
+ {
+  "en": "               Opening Movie    Satomi Onodera",
+  "kind": "credits"
+ },
+ {
+  "en": "                 Main Visual",
+  "kind": "credits",
+  "note": "Three-row credit: Main Visual / Monster & / Item Design, name on the middle row (1540), as in JP."
+ },
+ {
+  "en": "                   Monster &    Ken Miyauchi",
+  "kind": "credits"
+ },
+ {
+  "en": "                 Item Design",
+  "kind": "credits"
+ },
+ {
+  "en": "            Sound Production    Sound Tech",
+  "kind": "credits",
+  "note": "Studio name (katakana 'Saundo Tekku')."
+ },
+ {
+  "en": "                    Composer    Yusuke Wakebe",
+  "kind": "credits",
+  "note": "Surname reading Wakebe unverified (alt. Betsubu)."
+ },
+ {
+  "en": "                                Takanori Mashiko",
+  "kind": "credits"
+ },
+ {
+  "en": "               Sound Effects    Masahiro Ito",
+  "kind": "credits"
+ },
+ {
+  "en": "     Preset Character Design  (honorifics omitted)",
+  "kind": "credits",
+  "note": "keishou-ryaku = honorifics omitted; placed 2 columns after the title as in JP."
+ },
+ {
+  "en": "                       Grace    Kikuya",
+  "kind": "credits",
+  "note": "Rows 1547-1556: preset character name, then its artist (mostly online handles). Character names follow ebt slice_04 rows 276-295."
+ },
+ {
+  "en": "                    Kanosuke    Yutaka Nakamura",
+  "kind": "credits",
+  "note": "NEW NAME: preset character Kanosuke (kanji ka-no-suke)."
+ },
+ {
+  "en": "                       Aruna    Enocchi",
+  "kind": "credits"
+ },
+ {
+  "en": "                 Meme Stampy    Yodozumi",
+  "kind": "credits",
+  "note": "NEW NAME: preset character 'Meme(star)Stampy': the star glyph is not ASCII, replaced by a space. Artist handle reading unverified (alt. Orizumi)."
+ },
+ {
+  "en": "                       Green    Ojii",
+  "kind": "credits",
+  "note": "Handle 'ojii' (old man)."
+ },
+ {
+  "en": "                      Froila    Enocchi",
+  "kind": "credits"
+ },
+ {
+  "en": "                     Garveon    Tongari Corn",
+  "kind": "credits",
+  "note": "Handle 'tongari(star)koon' (pointy corn): star replaced by a space."
+ },
+ {
+  "en": "                      Common    IPPY",
+  "kind": "credits"
+ },
+ {
+  "en": "                    Fujiyama    Komii",
+  "kind": "credits",
+  "note": "Source already 'Fujiyama' in full-width Latin. Handle 'komii' (alt. Komy/Commie)."
+ },
+ {
+  "en": "                      Hiyora    Tongari Corn",
+  "kind": "credits",
+  "note": "Hiyora per ebt slice_04 (alt. Hiyorer)."
+ },
+ {
+  "en": "                   Publicity    Hiroshi Kunihara",
+  "kind": "credits"
+ },
+ {
+  "en": "          Assistant Director    Yohei Matsuo",
+  "kind": "credits"
+ },
+ {
+  "en": "                    Director    Shingo Magota",
+  "kind": "credits",
+  "note": "Surname reading unverified (alt. Mageta)."
+ },
+ {
+  "en": "    Dev. Support  Priocine Inc.",
+  "kind": "credits",
+  "note": "Company block: label at col 4, company at col 18 as in JP (slice_20 rows 1563-1565 use the same columns). 'kaihatsu kyouryoku' shortened to 'Dev. Support' to keep col 18. Company 'Purioshiinu' romanized Priocine (no English name found)."
+ },
+ {
+  "en": "                  Bunshoya Ltd.",
+  "kind": "credits",
+  "note": "yuugen-gaisha = Ltd."
+ },
+ {
+  "en": "                  Lago Inc.",
+  "kind": "credits",
+  "note": "Company 'Raago' romanized Lago (unverified; alt. Largo)."
+ }
+]

@@ -1,0 +1,1442 @@
+[
+ {
+  "id": "EVENT_TEXT.CSV:1:2",
+  "en": "Find the Light Ruins",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:1:6",
+  "en": "When you meet King Balgert, he tells you to\nfind the Light Ruins and hands you a\ncompass.\nAnd so you set out for the Konnu Plains Ruins.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:1:7",
+  "en": "Molder: Find the Light Ruins",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:1:8",
+  "en": "Haven't you already done this one? Your\nadventure's only just getting started.\nGood luck!",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:2:2",
+  "en": "Gathering of Rulers",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:2:6",
+  "en": "Following King Balgert's suggestion,\nyou head for the Temple of Rafa.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:2:7",
+  "en": "Molder: Gathering of Rulers",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:2:8",
+  "en": "So, wasn't that fun? With that many exalted\npeople in one place, it was quite a sight,\nwasn't it? You don't get to see that every\nday, so you'd better thank big sis here,\nokay?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:3:2",
+  "en": "Hemaid Red Stone",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:3:6",
+  "en": "You have found the Lightstair Ruins, but its\nlight is already gone. To restore it, you\nmust place the Three Phantom Stones\nin the three altars.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:3:7",
+  "en": "Molder: Hemaid Red Stone",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:3:8",
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to King Balgert.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:4:2",
+  "en": "Green Plakio",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:4:6",
+  "en": "You have found the Lightstair Ruins, but its\nlight is already gone. To restore it, you\nmust place the Three Phantom Stones\nin the three altars.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:4:7",
+  "en": "Molder: Green Plakio",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:4:8",
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to King Balgert.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:5:2",
+  "en": "Blue Menon",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:5:6",
+  "en": "You have found the Lightstair Ruins, but its\nlight is already gone. To restore it, you\nmust place the Three Phantom Stones\nin the three altars.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:5:7",
+  "en": "Molder: Blue Menon",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:5:8",
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to King Balgert.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:6:2",
+  "en": "Selcoa Paint",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:6:6",
+  "en": "Empress Rianna is building a magic airship to\nfly straight into the Palace of the Sun and\ntake it back from the Kin of Darkness. But\nthe work is proving very hard, and you are\nordered to get the 'Selcoa Paint' needed to\ncoat the hull.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:6:7",
+  "en": "Molder: Selcoa Paint",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:6:8",
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to Her Majesty Rianna.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:7:2",
+  "en": "Celestial Readings",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:7:6",
+  "en": "To keep the magic airship out of unforeseen\ntrouble, the movements of the heavens must\nbe predicted. You are ordered to report\nthe 'Celestial Readings'.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:7:7",
+  "en": "Molder: Celestial Readings",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:7:8",
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to Her Majesty Rianna.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:8:2",
+  "en": "Wing Soul",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:8:6",
+  "en": "The last material needed to fly the magic\nairship: the 'Wing Soul'. Said to be a\nshining wing that gained a soul, it is also\ncalled the wings of all beings. Empress\nRianna has tried everything but has yet to\nfind it. You are ordered to seek it\nyour own way.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:8:7",
+  "en": "Molder: Wing Soul",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:8:8",
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to Her Majesty Rianna.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:9:2",
+  "en": "Old Man's Plans",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:9:6",
+  "en": "Ogre Bay, led by King Fulgrant, has a bold\nplan: shoot down the Palace of the Sun with\na cannon. But the cannon design drawn by\nthe King's father, 'The Old Man's\nBlueprints', has been lost. You are to find\nit using the compass.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:9:7",
+  "en": "Molder: Old Man's Plans",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:9:8",
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to King Fulgrant.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:10:2",
+  "en": "Cannon Tools",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:10:6",
+  "en": "You found 'Old Man's Plans', but it\nturns out the 'Cannon Tools' needed to build\nthe cannon were lost too.\nOnce again, you must search, this time for\nthe 'Cannon Tools'.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:10:7",
+  "en": "Molder: Cannon Tools",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:10:8",
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to King Fulgrant.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:11:2",
+  "en": "Seasoned Snacks",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:11:6",
+  "en": "With 'Old Man's Plans' and the\n'Cannon Tools' in hand, only the building is\nleft. But King Fulgrant declares that the\ncannon's debut must be a big festival, with\n'Seasoned Snacks' to nibble on. And so\nyou must search yet again.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:11:7",
+  "en": "Molder: Seasoned Snacks",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:11:8",
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to King Fulgrant.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:12:2",
+  "en": "Save Perpeco Village",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:12:6",
+  "en": "Perpeco Village in the Perpeco Forest is under\nattack by monsters. You can't just leave it.\nHurry, adventurers!",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:12:7",
+  "en": "Molder: Save Perpeco Village",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:12:8",
+  "en": "There's a place called Perpeco Village in\nPerpeco Forest, and it looks like monsters\nare attacking it. Go help them out.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:13:2",
+  "en": "Chatty Sapling",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:13:6",
+  "en": "A chatty sapling with plenty of demands about\nwhere it will put down roots. Where could\nthere be a place that satisfies it?",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:13:7",
+  "en": "Molder: Chatty Sapling",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:13:8",
+  "en": "A sapling with a lot of demands, hm? Why not\njust toss it? ...Kidding, kidding! Let's see,\nisn't there a kid in Perpeco Village who's\ngood at growing plants? Why not ask them?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:14:2",
+  "en": "I Love Farming!",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:14:6",
+  "en": "The sapling says it needs some wonderful\nfertilizer in order to grow.\nWhere could you possibly get some,\nand how?",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:14:7",
+  "en": "Molder: I Love Farming!",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:14:8",
+  "en": "The reading's come out, but I can't quite\nmake sense of it. It says: Wonderful\nTurmeric, the girl of Perpeco Forest, and a\ngirl stuck fast, unable to move. Huh?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:15:2",
+  "en": "Attack on Lumisthenes",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:15:6",
+  "en": "Lumisthenes has been attacked by an unknown\nfoe. Join forces with everyone and defend\nthe city!",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:15:7",
+  "en": "Molder: Attack on Lumisthenes",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:15:8",
+  "en": "This one's already settled, right? Thanks\nfor what you did back then.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:16:2",
+  "en": "Sun Prison Shrine",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:16:6",
+  "en": "The far, far distant tale of certain fairies,\nheld within the Sun Prison Shrine.\nAnd the one who tells it is...",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:16:7",
+  "en": "Molder: Sun Prison Shrine",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:16:8",
+  "en": "How do you read this? 'Sun... Prison...\nShrine'? Huh. Something this old, only a\nbeing that's lived just as long would\nunderstand it, I bet. And that one is high\nup in the sky.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:17:2",
+  "en": "Retake the Sun Palace",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:17:6",
+  "en": "Humans, elves, ogres, and... Bearing all of\ntheir hopes, the adventurers have at last\nreached the Palace of the Sun.\nCan you save the land?",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:17:7",
+  "en": "Molder: Retake the Palace of the Sun",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:17:8",
+  "en": "Humans, elves, ogres... I'm leaving all\ntheir hopes in your hands. Do your best,\nokay?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:18:2",
+  "en": "Hail Great Adventurers",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:18:6",
+  "en": "You have retaken the Palace of the Sun and\nspared the land from collapse. Evil beings,\nmonsters, the scars of past tragedy: these\nwill never vanish, but your deeds were\nbeyond doubt. Hail the great\nadventurers!",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:18:7",
+  "en": "Molder: Hail the Great Adventurers",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:18:8",
+  "en": "Thank you! Now the land is saved! I can't\nthank you enough!\n",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:19:2",
+  "en": "Truth of the Sun",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:19:6",
+  "en": "King Balgert still seems concerned about the\nPalace of the Sun. Once again you head for\nthe stage of the final battle,\nthe Palace of the Sun.\nAnd there...",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:19:7",
+  "en": "Molder: Truth of the Sun",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:19:8",
+  "en": "It seems the Palace of the Sun's role isn't\nover yet. It's a dangerous place, but go\nback once more and search every corner.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:20:2",
+  "en": "Land of the Next Age",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:20:6",
+  "en": "You passed through the door the librarian\nled you to. Beyond it spread a land you had\nnever seen.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:20:7",
+  "en": "Molder: Land of the Next Age",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:20:8",
+  "en": "I sense a mighty power somewhere other than\nhere. One, two... lots. It'll be a dangerous\nbattle, far worse than any so far. ...What?\nLet me say something fortune-teller-ish for\nonce!",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:21:2",
+  "en": "Bring a New Light",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:21:6",
+  "en": "The Palace of the Sun, thought to be the\nbeginning and the end of everything.\nBut its role was not yet over. Yes, there\nare still those who cannot let their\nstory end...",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:21:7",
+  "en": "Molder: Bring a New Light",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:21:8",
+  "en": "Somewhere far, far away from here, far, far\nhigher than the Palace of the Sun. It seems\nyou can head there from a land other than\nthis one... Sorry, that's all I can tell.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:22:2",
+  "en": "Makana Essence",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:22:6",
+  "en": "\"You'll cause trouble in the shop!\" -- and\nso you aren't allowed to form a mixed party\nof Good and Evil. Just then, Mucha sets\nyou a challenge.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:22:7",
+  "en": "Molder: Makana Essence",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:22:8",
+  "en": "Ahh, personalities that don't mesh... Nobody\nwants brawls in the tavern, huh. All right!\nWith a mixed party of Good and Evil, go get\nthe Makana Essence and show off how well\nyou get along!",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:23:2",
+  "en": "A Gift for a Late Wife",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:23:6",
+  "en": "Old Zeppo the dragonewt asks you to gather\na Crystal Flower \"for my late wife.\"",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:23:7",
+  "en": "Molder: A Gift for a Late Wife",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:23:8",
+  "en": "It's called a Crystal Flower, so it should\nbe near the Crystal Labyrinth's entrance.\nBringing his old lady her favorite flower...\nwhat a good husband he is, huh?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:24:2",
+  "en": "Toner's Checkup",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:24:6",
+  "en": "Since Gia is injured, you are more or less\nforced to go with Toner to a health checkup\nin her place.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:24:7",
+  "en": "Molder: Toner's Checkup",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:24:8",
+  "en": "Why do skilled people always want to live\nsomewhere so remote? Go to the Leanmakana\nMountains and Toner can get the checkup. I\nhope the results are good.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:25:2",
+  "en": "Life and Money",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:25:6",
+  "en": "Word is that Hardy the Money-Grubber is\nlooking after a graveyard.\nWhy do something that earns no money?",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:25:7",
+  "en": "Molder: Life and Money",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:25:8",
+  "en": "That money-grubber caring about a nameless\ncemetery that earns nothing? Weird, huh? But\ngo chase off those graveyard vandals right\naway! Off to the Crotoa City Ruins, let's\ngo!",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:26:2",
+  "en": "Fena's Thoughts",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:26:6",
+  "en": "King Balgert is pushing Fena to train more\nadventurers, but the Training Hall is\nunderstaffed. You are asked to find someone\nideal for training the rookies. There seems\nto be more on Fena's mind.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:26:7",
+  "en": "Molder: Fena's Thoughts",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:26:8",
+  "en": "True, Abi would make a good practice\npartner. Abi's in the Konnu Plains Ruins.\nOh, but it's no good unless you can use\nsummoning spells, okay?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:27:2",
+  "en": "How Utterly Exquisite!",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:27:6",
+  "en": "He claims that prosperity shows most in\namusements and luxuries. Right or not, he\nseems, in his own way, to be worried about\nthe state of the town.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:27:7",
+  "en": "Molder: How Utterly Exquisite!",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:27:8",
+  "en": "Speaking of outlandish: Joker Land!\nActually, the souvenir shop in Joker Land\nhas a secret recipe.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:28:2",
+  "en": "Madulay's Request",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:28:6",
+  "en": "Madulay, the artisan who builds the magic\nairship, asks you to go and get whetstones\nfor the job.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:28:7",
+  "en": "Molder: Madulay's Request",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:28:8",
+  "en": "They should be in the Rinos Sea Volcano, but\ndo you know the way? You can get there from\nbeneath Joker Land, but only after helping a\nkid in trouble there. Also, it was two,\nright? Medium and Fine Whetstone. Make sure\nyou bring back both!",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:29:2",
+  "en": "The Midnight Hunter",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:29:6",
+  "en": "Every night Shimerief sits in the watchtower\nand will not budge. Asked why, she dodges\nthe question, but...",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:29:7",
+  "en": "Molder: The Midnight Hunter",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:29:8",
+  "en": "That old lady climbs the watchtower every\nnight and won't budge. Is something up? The\nspot is under the Blue Cave, I hear... What\nis she up to?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:30:2",
+  "en": "Forbidden Blue Rain",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:30:6",
+  "en": "Toner is looking for Blue Rain. Blue Rain\nseems to be very important to Toner.\nBlue Rain is apparently 'something exciting.'\nBlue Rain, Blue Rain,\nexciting Blue Rain...",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:30:7",
+  "en": "Molder: The Forbidden Blue Rain",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:30:8",
+  "en": "Blue Rain? Huh...? That kid wants it? Wait,\nisn't that kid... Well, it's not okay, but\nfine. You can steal it from a guy called\nPhantom. ...You could also steal some off\nthe Santorea Academy girls... but I don't\nrecommend it...",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:31:2",
+  "en": "Plan: Hug Decoykins",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:31:6",
+  "en": "Out of her obsessive devotion to Decoy,\nshe hits on the idea of setting a trap.\nAll for love's sake...",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:31:7",
+  "en": "Molder: Operation Hug Decoykins",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:31:8",
+  "en": "Oh, that one who's always running around?\nFor a weird thing like that, there's a\ndoctor in Ogre Bay who only makes weird\nstuff, I hear. Try asking that doctor.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:32:2",
+  "en": "Don't Call Me Cute!",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:32:6",
+  "en": "He surely never wished to look\nthe way he does.\nThat is why he hatches a plan.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:32:7",
+  "en": "Molder: Don't Call Me Cute!",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:32:8",
+  "en": "Being cute is rough, huh. I'm jealous...\nNobody's called me cute lately... Oh, sorry.\nUm, search Joker Land and you should find\nwhere the Jokers keep their costumes.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:33:2",
+  "en": "Formless Treasure",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:33:6",
+  "en": "Knowledge, however much you store, takes up\nno space and can be carried anywhere. And\ntoday, as ever, the old man passes it on.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:33:7",
+  "en": "Molder: Formless Treasure",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:33:8",
+  "en": "Everyone's fed up with those thieves. It\nhasn't been long since the theft, so you\nshould find them at the Crotoa City Ruins.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:34:2",
+  "en": "The Emera Program",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:34:6",
+  "en": "Counselor Emera's healing program.\nAll who carry darkness in their hearts,\ncome along now.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:34:7",
+  "en": "Molder: The Emera Program",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:34:8",
+  "en": "Have you met that girl Necrophilis yet? If\nso, you're all set. Just go to Emera's place\nin the Leanmakana Mountains at night.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:35:2",
+  "en": "An Outcast's Path",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:35:6",
+  "en": "They should have shared the same lot, so why\ndid they turn out so different?\nA thief and a girl. What was it that set\nthe two apart?\nLearning the answer, what will\nthe thief think?",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:35:7",
+  "en": "Molder: An Outcast's Path",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:35:8",
+  "en": "A Soleil Stone: a stone for praying for\nsomeone's safety and happiness. But it's\nvery rare and hard to find. The mimics in\nthe Blue Cave are hoarding some, I think,\nbut mimics in numbers are tough.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:36:2",
+  "en": "Martial Arts Tourney",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:36:6",
+  "en": "In the Martial Arts Building of Santorea\nAcademy, you can fight Professor Rombino!\nWin it all, and something good\nmight happen.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:36:7",
+  "en": "Molder: Martial Arts Tournament",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:36:8",
+  "en": "There's a martial arts tournament at the\nSantorea Academy Martial Arts Building. Win\nit, and something good might happen, maybe?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:37:2",
+  "en": "Magical Party",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:37:6",
+  "en": "In the Magic Building of Santorea Academy,\nyou can fight Professor Nambino!\nWin it all, and something good\nmight happen.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:37:7",
+  "en": "Molder: Magical Party",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:37:8",
+  "en": "There's a Magical Party at the Santorea\nAcademy Magic Building. Win it, and\nsomething good might happen, maybe?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:38:2",
+  "en": "What Makes a King",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:38:6",
+  "en": "Ghosts have appeared, troubling the fairy\nvillage. On the orders of Meem, the Fairy\nKing, you are to drive them out.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:38:7",
+  "en": "Molder: What Makes a King",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:38:8",
+  "en": "The fairy village, huh. In a place like\nthat, it's easy to wander in by mistake.\nIt's a bit mean to them, but go tell them\nthey've come to the wrong place, okay?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:39:2",
+  "en": "LooKing foR SomeOne...",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:39:6",
+  "en": "A woman of broken speech and a foul-mouthed\nman. The pair ask you to help find someone.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:39:7",
+  "en": "Molder: I'm LooKing foR SomeOne...",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:39:8",
+  "en": "A short girl with blue hair, huh. She seems\nto be deep in the Crystal Labyrinth... but\nthat pair looking for her, are they all\nright? They don't seem like ordinary folk...",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:40:2",
+  "en": "Strange Box Garden",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:40:6",
+  "en": "A strange box garden: set it up in 'a certain\nplace' and it activates, drawing you into the\nlittle garden for all kinds of exploring.\nNow, where might 'a certain place' be?",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:40:7",
+  "en": "Molder: Strange Box Garden",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:40:8",
+  "en": "That Box Garden: there's a spot northeast in\nthe Crotoa City Ruins where it can be set,\nand placed there, its power awakens. That\nbox... something wonderful will come of it,\nso take good care of it, okay?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:41:2",
+  "en": "Dice of Fate Jackpot",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:41:6",
+  "en": "What is gambling? Numbers adding up, or\nsomething decided by fate?\nThat eternal question is about to be settled\nby the fortune-teller Natori.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:41:7",
+  "en": "Molder: Dice of Fate Jackpot",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:41:8",
+  "en": "That's MY request! Ehh, you forgot? Geez, I\nasked you, didn't I? You can synthesize it\nif you have Mazurite and Millstone, okay?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:42:2",
+  "en": "Geezers' Wand",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:42:6",
+  "en": "The Central Council, where many views are\ngathered and debated. Its Council Chair is\nWattner.\nLately he seems rather worn out.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:42:7",
+  "en": "Endless, fruitless council sessions are hard\non old bones. We seek the Geezers' Wand,\nsaid to restore vigor to the elderly.",
+  "max": 151,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:42:8",
+  "en": "Eh, someone asked you for the Geezers' Wand?\nEhh... I don't wanna tell... Mmm, the\nmonsters in the fairy village have one, I\nhear, so you should get it there...",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:43:2",
+  "en": "A Clouded Heart",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:43:6",
+  "en": "Driven by ambition and a thirst for knowledge,\nshe carries on her research. And her dislike\nof adventurers had its reasons.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:43:7",
+  "en": "Not urgent, merely handy: we need a Vision\nCrystal for our observing device. If found,\nbring it to the Stargazing Lighthouse,\nStar Capital Lumisthenes.",
+  "max": 151,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:43:8",
+  "en": "She's a bit uptight, but she's honest and a\ngood girl, so don't hate her, okay? Bring\nher the Vision Crystal from the Crystal\nLabyrinth and she'll rethink a lot. But\nwatch out for the Doppelganger.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:44:2",
+  "en": "The Aging Songstress",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:44:6",
+  "en": "'Let song speak, let verse sing.' A singer\nshould speak through song, yet from her lips\ncome only words of longing for the old days.\nWhat is on the aging songstress's mind?",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:44:7",
+  "en": "Seeking something to restore strength to an\nold, failing throat. That is a little too\nconvenient a wish, I suppose...",
+  "max": 151,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:44:8",
+  "en": "I used to hear her sing whenever I went to\nTeridon. Search the Giaf Dunes and you\nshould find a cactus, so take it to her.\nStill, singers sure have it rough too, huh.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:45:2",
+  "en": "Yo! Bunch of Softies!",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:45:6",
+  "en": "She has values of her own. That blatant lie\nmay have some purpose behind it.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:45:7",
+  "en": "wanted: sumbody who will lend me munny.\nzonette",
+  "max": 151,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:45:8",
+  "en": "Is she straightforward, or just twisted? Who\nknows. But try to believe what she says as\nmuch as you can, okay?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:46:2",
+  "en": "Love's Smuggling Run",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:46:6",
+  "en": "A man living out 'love saves the world'\nto the letter. He plotted to smuggle love.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:46:7",
+  "en": "To Her Majesty the Empress, with love.\nSeeking adventurers to deliver a confidential\nparcel. -- Chief Barjeff",
+  "max": 151,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:46:8",
+  "en": "First you need to be able to get an audience\nwith Her Majesty Rianna, or you can't hand\nover what you've got. But I've got a baaad\nfeeling about this...",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:47:2",
+  "en": "Casino",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:47:6",
+  "en": "Good day to you,\nand welcome to MILL.GP.\nHonored guest, might I interest you in a\ngame with me today?",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:47:7",
+  "en": "MILL.GP. looks forward to your visit and\nyour challenge.",
+  "max": 151,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:47:8",
+  "en": "Beat the dealer at blackjack! It's the only\nway! Think of it as avenging me, and wipe\nthe floor with them!!",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:48:2",
+  "en": "Secret Service",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:48:6",
+  "en": "The Love Jacuzzi has a special service of its\nown for valued customers.\nBut for that, something is needed.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:48:7",
+  "en": "We're out of Stonemelt Water for guests and\nI'm in a bind. If you have extra, please\nshare some. In return, I'll give you special\nservice at the shop!",
+  "max": 151,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:48:8",
+  "en": "A special service~? You're thinking\nsomething naughty, aren't you? Stonemelt\nWater? Buy it at a shop or pick it up in\ndungeons and you'll have enough in no time,\nwon't you?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:49:2",
+  "en": "Put Something On!!",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:49:6",
+  "en": "Do different races have different senses of\nshame? Nora doesn't mind at all, but\nher coworker Yuna fusses over Nora's\nunderwear.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:49:7",
+  "en": "My coworker... um... well... she won't wear\nany... panties... and it's a problem. Her\nbottom is extra big, so I'm looking for\nbig panties.",
+  "max": 151,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:49:8",
+  "en": "Panties that big probably aren't sold in\nstores... but handmade ones might exist. Why\nnot visit the Sewing Club at Santorea\nAcademy?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:50:2",
+  "en": "Tarrit's Close Call!",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:50:6",
+  "en": "Her ordeals never end.\nOr are the ordeals really falling on you,\nthe ones mixed up with her...?",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:50:7",
+  "en": "Molder: Tarrit's Close Call!",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:50:8",
+  "en": "Ummm... I see signs of hardship...\nSpecifically, the Konnu Plains Ruins, B2F.\nThat noisy girl is in trouble, it seems.\nWell, I know it'll be rough, but... hang in\nthere~.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:51:2",
+  "en": "Mandelgius's Trial 1",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:51:6",
+  "en": "Mandelgius orders you to bring back an Azure\nFish, calling it training to become heroes.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:51:7",
+  "en": "Molder: Mandelgius's Trial 1",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:51:8",
+  "en": "So it's Professor Mandelgius, Santorea\nAcademy's famous special lecturer. You can\ncatch Azure Fish in the Blue Cave at night,\nbut there are dangerous fish too, so be\ncareful, okay?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:52:2",
+  "en": "Mandelgius's Trial 2",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:52:6",
+  "en": "Mandelgius orders you to bring back the\nProof of Endurance, calling it training to\nbecome heroes.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:52:7",
+  "en": "Molder: Mandelgius's Trial 2",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:52:8",
+  "en": "The Rinos Sea Volcano, huh? Just the place\nthat intense one would name. The Proof of\nEndurance is to the south, but be sure to\nuse Sosareo or something to get there, okay?",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:53:2",
+  "en": "Mandelgius's Trial 3",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:53:6",
+  "en": "Mandelgius orders you to bring the Evil\nMagistrate to justice, calling it training\nto become heroes.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:53:7",
+  "en": "Molder: Mandelgius's Trial 3",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:53:8",
+  "en": "An even greater evil pulling the strings\nbehind every misdeed... sounds fake. Isn't\nthat just talk to fit the mood... oh, there\nreally is one. ...Um, it's in Miasuna's\nCastle Keep.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:54:2",
+  "en": "Mandelgius's Trial 4",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:54:6",
+  "en": "Mandelgius orders you to defeat the Tiger\nCentaur, calling it training to become heroes.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:54:7",
+  "en": "Molder: Mandelgius's Trial 4",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:54:8",
+  "en": "This time it's for real: Tiger Centaur III\nis deep in the Giaf Dunes. But it's a tough\nfoe, so be careful, okay? Mandelgius... just\nwho is that, I wonder...",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:55:2",
+  "en": "Can't Get Out~",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:55:6",
+  "en": "Can people never resist temptation?\nThe realization always comes too late.\nHer cries for help fade away into the\nforest.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:55:7",
+  "en": "Molder: Can't Get Out~",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:55:8",
+  "en": "I see a girl named Tarrit stuck in the Konnu\nPlains Ruins... Besides pulling, kicking\nmight change something... but I don't think\nyou should do that to a girl.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:56:2",
+  "en": "Crumbling Stone Tablet",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:56:6",
+  "en": "A teacher and scholar at Santorea Academy\nasks you to survey some ruins.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:56:7",
+  "en": "Molder: Crumbling Stone Tablet",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:56:8",
+  "en": "Just go to the basement of the Konnu Plains\nRuins on a rainy day and examine the stone\ntablet, that's all. Even that is a real help\nto a scholar who's always cooped up.",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:57:2",
+  "en": "Old School Ghost Story",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:57:6",
+  "en": "It's Santorea Academy's welcome party for\nnew students, in the old school building~!",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:57:7",
+  "en": "Molder: Old School Ghost Story",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:57:8",
+  "en": "A test of courage? How nostalgic! I did one\ntoo. Clinging to the one I liked with a\n'Kyaa!'... ahem. Talk to the Santorea\nAcademy kid, then go to the haunted mansion,\nleave a mark and come back to report. No\nrunning away if you get scared!",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:58:2",
+  "en": "Don't Pick on Me",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:58:6",
+  "en": "Paralyzed, put to sleep, sometimes even\npetrified and then swallowed by a fissure:\nsuch is his lot, poor unlucky soul.\nAnd now, for some reason, he's digging a\nhole...?",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:58:7",
+  "en": "Molder: Don't Pick on Me",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:58:8",
+  "en": "So the Picnicker wants a Garden Keeper.\nYou're always paralyzing it, putting it to\nsleep, petrifying it... You put it through\nso much, so why not help it out for once?\nSomething good might come of it, like new\nplaces to go!",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:59:2",
+  "en": "Ogre Bay Cleanup Op.",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:59:6",
+  "en": "They say if you find one, there are thirty\nmore around... You know. THOSE.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:59:7",
+  "en": "Molder: Operation Ogre Bay Cleanup",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:59:8",
+  "en": "Ultimate... ugh, geez! I hate even saying\nthe name! Go wipe out every last one!!",
+  "max": 242,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:60:2",
+  "en": "The Ruler's Amusement",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:60:6",
+  "en": "Know too much of everything, and boredom\nsets in. To kill time, the ruler has chosen\nyou.",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "EVENT_TEXT.CSV:60:7",
+  "en": "Molder: The Ruler's Amusement",
+  "max": 151,
+  "used": true
+ },
+ {
+  "id": "EVENT_TEXT.CSV:60:8",
+  "en": "...Hmm, well, once you've done something\nlike going around saving the world, maybe go\ntell them about that? ...I mean, I can't see\na thing! Who is that!? What on earth are\nthey!?",
+  "max": 242,
+  "used": false
+ }
+]

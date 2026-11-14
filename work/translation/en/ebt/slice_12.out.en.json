@@ -1,0 +1,366 @@
+[
+ {
+  "en": "Rand(0,%d)=%d",
+  "kind": "ui",
+  "note": "Debug readout (random roll)."
+ },
+ {
+  "en": "Withstood the pull",
+  "kind": "ui",
+  "note": "Battle-log line; the affected character/monster is named on a separate line at runtime, so no subject (same as slice_11 rows 905-906). Pull = an effect that drags a target in."
+ },
+ {
+  "en": "The ranks were swapped",
+  "kind": "ui",
+  "note": "Tairetsu = party formation/ranks."
+ },
+ {
+  "en": "HP was halved",
+  "kind": "ui",
+  "note": "Tairyoku = HP."
+ },
+ {
+  "en": "The wish was granted",
+  "kind": "ui",
+  "note": "Likely the alchemy wish spell (SPELL_TEXT 77)."
+ },
+ {
+  "en": "Sent back to its own world",
+  "kind": "ui",
+  "note": "Banishing a summoned/otherworldly being; subject (caster) left to the log's name line."
+ },
+ {
+  "en": "Attempted a contract",
+  "kind": "ui",
+  "note": "Summoner/Spirit Contract flow, rows 919-925."
+ },
+ {
+  "en": "Success=%d, Resist=%d",
+  "kind": "ui",
+  "note": "Debug readout."
+ },
+ {
+  "en": "Cannot form a contract",
+  "kind": "ui"
+ },
+ {
+  "en": "Contract failed",
+  "kind": "ui"
+ },
+ {
+  "en": "Contract succeeded",
+  "kind": "ui"
+ },
+ {
+  "en": "A monster appeared",
+  "kind": "ui"
+ },
+ {
+  "en": "No contract has been made",
+  "kind": "ui",
+  "note": "e.g. trying to summon with no contracted monster."
+ },
+ {
+  "en": "Absorbed magic power",
+  "kind": "ui"
+ },
+ {
+  "en": "Negated the resistance",
+  "kind": "ui"
+ },
+ {
+  "en": "Spirit Contract",
+  "kind": "ui",
+  "note": "NEW TERM: skill name (JOB_EX 63)."
+ },
+ {
+  "en": "Swallowed by a fissure",
+  "kind": "ui"
+ },
+ {
+  "en": "Compel=%d, Resist=%d",
+  "kind": "ui",
+  "note": "Debug readout; kyouseiryoku = compelling force."
+ },
+ {
+  "en": "The power of life overflows",
+  "kind": "ui"
+ },
+ {
+  "en": "Attack",
+  "kind": "ui",
+  "note": "Battle command menu 932-939."
+ },
+ {
+  "en": "Spell",
+  "kind": "ui"
+ },
+ {
+  "en": "Special",
+  "kind": "ui",
+  "note": "Special actions/skills (cf. row 954)."
+ },
+ {
+  "en": "Item",
+  "kind": "ui"
+ },
+ {
+  "en": "Equip",
+  "kind": "ui"
+ },
+ {
+  "en": "Guard",
+  "kind": "ui",
+  "note": "mamoru = guard/protect an ally (row 971 picks who)."
+ },
+ {
+  "en": "Run",
+  "kind": "ui"
+ },
+ {
+  "en": "Ambush",
+  "kind": "ui",
+  "note": "kishuu = surprise attack (offered when the party surprises monsters, assumed)."
+ },
+ {
+  "en": "Inspect",
+  "kind": "ui",
+  "note": "Treasure chest menu 940-945."
+ },
+ {
+  "en": "Disarm Trap",
+  "kind": "ui"
+ },
+ {
+  "en": "Portal",
+  "kind": "ui",
+  "note": "NEW TERM: alchemy spell that identifies chest traps (SPELL_TEXT 58)."
+ },
+ {
+  "en": "High Portal",
+  "kind": "ui",
+  "note": "NEW TERM. Source reads haipooturu ('High'); the SPELL csv spell that disarms chest traps is baipooturu (SPELL_TEXT 76). Keep in sync with the spell-name translation; may need 'Bi-Portol' if the label should match."
+ },
+ {
+  "en": "Open",
+  "kind": "ui"
+ },
+ {
+  "en": "Leave",
+  "kind": "ui"
+ },
+ {
+  "en": "%s can't be used",
+  "kind": "ui",
+  "note": "%s = command/ability name (assumed)."
+ },
+ {
+  "en": "Not enough skill points",
+  "kind": "ui"
+ },
+ {
+  "en": "There are no corpses",
+  "kind": "ui",
+  "note": "For Corpse Throw (row 979)."
+ },
+ {
+  "en": "The Empress tarot prevents physical attacks.",
+  "kind": "ui",
+  "note": "NEW TERM: Empress (tarot III; TAROT_TEXT 7 forbids physical attacks)."
+ },
+ {
+  "en": "There is no weapon to attack with",
+  "kind": "ui"
+ },
+ {
+  "en": "Spells cannot be used on this floor.",
+  "kind": "ui"
+ },
+ {
+  "en": "Spells cannot be used",
+  "kind": "ui"
+ },
+ {
+  "en": "Spells cannot be used due to \"Silence\"",
+  "kind": "ui",
+  "note": "Status name Silence; source ASCII quotes kept."
+ },
+ {
+  "en": "The Hierophant tarot prevents special actions.",
+  "kind": "ui",
+  "note": "NEW TERM: Hierophant (tarot V, kyoukou; TAROT_TEXT 9 forbids skill actions). Standard English card name used instead of 'Pope'."
+ },
+ {
+  "en": "There are no items.",
+  "kind": "ui"
+ },
+ {
+  "en": "Running away is forbidden in this battle.",
+  "kind": "ui"
+ },
+ {
+  "en": "Dispel cannot be used",
+  "kind": "ui",
+  "note": "Dispel = class ability (JOB_EX 12), as in wmap slice_08."
+ },
+ {
+  "en": "The enemy is out of sight",
+  "kind": "ui",
+  "note": "Lit. '(the actor) has lost sight of the enemy'; impersonal since the actor is not settled."
+ },
+ {
+  "en": "Cannot be used during this battle",
+  "kind": "ui"
+ },
+ {
+  "en": "Steal cannot be used",
+  "kind": "ui",
+  "note": "NEW TERM: Steal (JOB_EX 46)."
+ },
+ {
+  "en": "Strip Gear cannot be used",
+  "kind": "ui",
+  "note": "NEW TERM: Strip Gear = soubi kaijo, ability that removes a target's equipment (JOB_EX 45). Not 'Disarm', which is the chest-trap command (row 941)."
+ },
+ {
+  "en": "Breath can't be used due to racial restrictions.",
+  "kind": "ui",
+  "note": "NEW TERM: Breath (ability)."
+ },
+ {
+  "en": "Breath cannot be used",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a command. Square: All-Out Attack, R: Command Repeat, L: Normal Mode ",
+  "kind": "ui",
+  "note": "Shown in action-order mode. Trailing full-width space -> one ASCII space. Terms as slice_11 rows 891-894: All-Out Attack, Command Repeat, Normal Mode."
+ },
+ {
+  "en": "Choose a command. Square: All-Out Attack, R: Command Repeat, L: Action Order ",
+  "kind": "ui",
+  "note": "Shown in normal mode; L switches to the action-order mode (koudoujun shitei, slice_13 row 1032). NEW TERM: Action Order."
+ },
+ {
+  "en": "Choose a target to attack",
+  "kind": "ui",
+  "note": "Prompts 966-985: source has no final period, so none added."
+ },
+ {
+  "en": "Choose a spell type",
+  "kind": "ui",
+  "note": "Spell school (Mage/Priest/Alchemy/Summon)."
+ },
+ {
+  "en": "Choose a spell target",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a skill",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose an equipment slot to change",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose who to guard",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a target to steal from",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a target for Strip Gear",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a tarot card",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a Breath target",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a First Strike target",
+  "kind": "ui",
+  "note": "NEW TERM: Quick Strike = sokkou (JOB_EX 22)."
+ },
+ {
+  "en": "Choose a Drain target",
+  "kind": "ui",
+  "note": "NEW TERM: Drain (JOB_EX 94)."
+ },
+ {
+  "en": "Choose a Malediction target",
+  "kind": "ui",
+  "note": "NEW TERM: Hex = jugon, spoken curse (JOB_EX 67)."
+ },
+ {
+  "en": "Choose a Corpse Throw target",
+  "kind": "ui",
+  "note": "NEW TERM: Corpse Throw = shitai nage (JOB_EX 75)."
+ },
+ {
+  "en": "Choose a Mimicry target",
+  "kind": "ui",
+  "note": "NEW TERM: Mimic = monomane (JOB_EX 79)."
+ },
+ {
+  "en": "Choose a Ki Blast target",
+  "kind": "ui",
+  "note": "NEW TERM: Ki Blast = kikouha (JOB_EX 83; source define ENERGY_LAY)."
+ },
+ {
+  "en": "Choose a Haughty Laugh target",
+  "kind": "ui",
+  "note": "NEW TERM: Cackle = takawarai, haughty laugh (JOB_EX 85)."
+ },
+ {
+  "en": "Choose a target for the item",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a piece of equipment",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a command",
+  "kind": "ui"
+ },
+ {
+  "en": "Who will inspect the trap?",
+  "kind": "ui",
+  "note": "Treasure chest prompts 986-990."
+ },
+ {
+  "en": "Who will cast %s?",
+  "kind": "ui",
+  "note": "%s = spell name (Portol etc.)."
+ },
+ {
+  "en": "Who will disarm the trap?",
+  "kind": "ui"
+ },
+ {
+  "en": "Who will open the chest?",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a trap",
+  "kind": "ui",
+  "note": "Naming the trap before disarming (Wizardry style)."
+ },
+ {
+  "en": "Mg",
+  "kind": "ui",
+  "note": "Spell-school abbreviation (Mage), one kanji = 2 columns; set continues in slice_13 rows 993-994 (suggest 'Al' Alchemy, 'Su' Summon)."
+ },
+ {
+  "en": "Pr",
+  "kind": "ui",
+  "note": "Spell-school abbreviation (Priest), 2 columns."
+ }
+]

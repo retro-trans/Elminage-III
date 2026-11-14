@@ -1,0 +1,192 @@
+{
+ "note": "Opening movie OP_01.pmf: English captions over the burned-in Japanese. Times in seconds (decoded frame time), boxes in 480x272 pixels [x0, y0, x1, y1]. Each item fades in/out over 'fade' seconds and covers its box with a blurred, darkened band.",
+ "font_line": "C:/Windows/Fonts/georgiaz.ttf",
+ "font_small": "C:/Windows/Fonts/georgiai.ttf",
+ "font_name": "C:/Windows/Fonts/georgiab.ttf",
+ "items": [
+  {
+   "t0": 21.4,
+   "t1": 28.4,
+   "box": [
+    24,
+    56,
+    312,
+    132
+   ],
+   "size": 14,
+   "align": "center",
+   "lines": [
+    "Adventurers!",
+    "Restore the legendary Stairway of Light",
+    "and reclaim the Palace of the Sun!"
+   ]
+  },
+  {
+   "t0": 21.4,
+   "t1": 28.4,
+   "box": [
+    40,
+    180,
+    276,
+    246
+   ],
+   "plate": [
+    "Fortress City Algrantz",
+    "King Balgert"
+   ]
+  },
+  {
+   "t0": 28.2,
+   "t1": 35.4,
+   "box": [
+    172,
+    52,
+    462,
+    136
+   ],
+   "size": 14,
+   "align": "center",
+   "lines": [
+    "We now board the magic airship Meatrif",
+    "for the Palace of the Sun.",
+    "Let us go, everyone!!"
+   ]
+  },
+  {
+   "t0": 28.2,
+   "t1": 35.4,
+   "box": [
+    232,
+    182,
+    422,
+    248
+   ],
+   "plate": [
+    "Roscadil Empire",
+    "Empress Rianna"
+   ]
+  },
+  {
+   "t0": 35.3,
+   "t1": 42.1,
+   "box": [
+    4,
+    42,
+    366,
+    138
+   ],
+   "size": 14,
+   "align": "center",
+   "lines": [
+    "...Why not build a giant cannon and",
+    "blast the whole Palace of the Sun down?",
+    "That's our boss, brilliant!!"
+   ]
+  },
+  {
+   "t0": 35.3,
+   "t1": 42.1,
+   "box": [
+    36,
+    178,
+    296,
+    246
+   ],
+   "plate": [
+    "Ogre Bay",
+    "Boss Fulgrant"
+   ]
+  },
+  {
+   "t0": 42.0,
+   "t1": 48.3,
+   "box": [
+    100,
+    92,
+    380,
+    148
+   ],
+   "size": 14,
+   "align": "center",
+   "lines": [
+    "The Moonlight Spirit Yorfa?",
+    "...Hmm, I couldn't say."
+   ]
+  },
+  {
+   "t0": 42.0,
+   "t1": 48.3,
+   "box": [
+    118,
+    178,
+    362,
+    246
+   ],
+   "plate": [
+    "Star Capital Lumisthenes",
+    "Council Chair Wattner"
+   ]
+  },
+  {
+   "t0": 48.8,
+   "t1": 52.7,
+   "box": [
+    140,
+    134,
+    344,
+    170
+   ],
+   "size": 15,
+   "align": "center",
+   "lines": [
+    "My precious Rafa"
+   ]
+  },
+  {
+   "t0": 52.6,
+   "t1": 55.9,
+   "box": [
+    70,
+    134,
+    412,
+    170
+   ],
+   "size": 15,
+   "align": "center",
+   "lines": [
+    "I won't let you suffer any longer"
+   ]
+  },
+  {
+   "t0": 55.9,
+   "t1": 59.2,
+   "box": [
+    96,
+    134,
+    388,
+    170
+   ],
+   "size": 15,
+   "align": "center",
+   "lines": [
+    "If it means losing you..."
+   ]
+  },
+  {
+   "t0": 59.5,
+   "t1": 61.0,
+   "box": [
+    96,
+    134,
+    394,
+    170
+   ],
+   "size": 15,
+   "align": "center",
+   "lines": [
+    "...let the land be swallowed by darkness"
+   ]
+  }
+ ],
+ "fade": 0.3
+}

@@ -1,0 +1,235 @@
+[
+ {
+  "en": "\"I have nothing to discuss with you people.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Elminage is the place that remembers every event that has ever happened in the worlds the gods brought into being.\"{w}{p}\"I'm sure this sounds unthinkable to you, but there are many other realms and lands besides Rainal Manoza.\"{w}{p}\"My role is to keep Elminage's information in order.\"{w}{p}\"So much information washes up here... Even while I'm looking at you, right here in front of me, and listening to what you say,\"{w}{p}\"one of my eyes and one of my ears keeps taking in an endless stream of facts. Even now, right here, in this very place.\"{w}{p}\"From every war ever fought in those realms to the first person you ever fell in love with...\"{w}{p}\"All of it is recorded in Elminage, and all of it converges here.\"{w}{p}\"Ufufu, did I surprise you? But don't worry. I'm only an onlooker.\"{w}{p}\"The System allows no interference with the physical world. That is the law of Elminage.\"{w}{p}\"Whatever calamity or tragedy happens, all I can do is watch... that's all.\"{w}{p}\"But... I'm sorry. It's nothing.\"{w}{p}\"Instead, even if the gods forsake you, I will never take my eyes off you.\"{w}{p}\"I'll always be watching over you, okay?\"{w}{p}\"Now then, shall we go on talking? There's lots you want to ask, isn't there?\"{w}",
+  "kind": "msg",
+  "note": "Hisbert explaining Elminage. Rainal Manoza = new name ([JP]), the party's world. [JP] = \"the System\" (cf. row 1482 [JP], Elminage System). Trailing ……[JP] kept as a hesitant \"...that's all.\""
+ },
+ {
+  "en": "\"A great being.{w}But not one I could call your ally.\"{w}{p}\"You are permitted to exist because of 'a certain one's remorse.'\"{w}{p}\"I can't tell you any more than that. I'm sorry.\"{w}",
+  "kind": "msg",
+  "note": "Answer to a menu topic not in this slice; the [JP] is unidentified, so no pronoun/gender. [JP] rendered as a quoted phrase."
+ },
+ {
+  "en": "\"The Kin of Darkness...{w}What exactly makes someone Kin of Darkness is hard to say, but\"{w}{p}\"they are those born into darkness and destined for destruction.\"{w}{p}\"Whenever the gods bring a new world into being, they come with all their might to conquer it.\"{w}{p}\"You must have seen plenty of crises besides the business with the Palace of the Sun, haven't you?\"{w}{p}\"Stay on your guard.{w}Let it slip, and Void's hounds will devour your land down to the last scrap.\"{w}{p}\"...Though I believe you'll surely overcome them.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = \"kin of darkness\" (new term). [JP] = \"Lord Void\" (new name; [JP] honorific as Lord, gender not implied by text). [JP] read as \"destined for destruction\" (doomed to destroy / be destroyed is ambiguous; this keeps both)."
+ },
+ {
+  "en": "\"It's an old land, steeped in history.\"{w}{p}\"The gods had high hopes for that land, but it ended up being declared a wasteland.\"{w}{p}\"Because of that, the land was supposed to fall under the rule of the Kin of Darkness, but...\"{w}{p}\"thanks to the people living in Rainal Manoza working together and taking action, they managed to bring the light back to it.\"{w}{p}\"Even so, for some reason the light is still unstable.\nI wonder why that is.\"{w}",
+  "kind": "msg",
+  "note": "Topic is probably Rainal Manoza itself (menu not in slice). [JP] = \"declared a wasteland\" -- may be a lore term; flag for glossary."
+ },
+ {
+  "en": "\"I'm sorry.\nThat's something I can't tell you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Beyond this door, you see...{w}there is a land where the next generation...{w}the Fourth Generation lives.\"{w}{p}\"Oh, I know!{w}How would you like to put your skills to the test?\"{w}{p}\"Lately the forces of the Dark Realm have been growing in the land beyond here.{w}It's the perfect place to test what you can do.\"{w}{p}\"I'm only Elminage's librarian, after all.{w}I have no need for that myself.\"{w}{p}\"You'd be helping people too, so it's two birds with one stone!{w}You're the ones who saved that land, after all.\nI think you can do it.\"{w}{p}\"And I'm sure it will help that Sun Spirit, too.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = \"the Dark Realm\" (new term). [JP] = \"the Fourth Generation\" (meta nod to the next title?). The \"I have no need for that\" line seems to answer an unseen question (why not go yourself?); kept literal."
+ },
+ {
+  "en": "\"Cute. Very cute indeed.\"{w}",
+  "kind": "msg",
+  "note": "Answer to an unseen menu topic; the thing called cute is unknown, so subject left out deliberately."
+ },
+ {
+  "en": "\"Who knows?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hevayur",
+  "kind": "name",
+  "note": "New name: [JP] romanized Hevayur (male: called [JP] in row 1513/1515 context)."
+ },
+ {
+  "en": "\"So you're going.{w}Go and see with your own eyes what lies there.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This? This door?{w}Oh my, are you curious about it? Fufu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's this? You let adventurers through to the back?\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? (unknown, gender-neutral throughout)."
+ },
+ {
+  "en": "\"Oh, welcome. My dear wicked mage.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: playful epithet; [JP] = Mage per glossary. \"My dear\" carries the teasing [JP] without assigning gender."
+ },
+ {
+  "en": "\"Why let them through?{w}That place is Ryug's land, is it not?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Ryug (new name, unknown type)."
+ },
+ {
+  "en": "\"I thought I'd leave this one to those kids.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the party."
+ },
+ {
+  "en": "\"Hoh. Then I'll make use of that myself.{w}Not that there's any guarantee it'll go well.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Contrary as ever, aren't you,{w}my wicked mage?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmph.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you do your part and come through all right,\nI'll give you a pat on the head!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Idiot.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I have nothing to say to you.\"{w}",
+  "kind": "msg",
+  "note": "Source has no closing quote bracket; closed in English. Note Hevayur uses casual [JP] here vs polite [JP] in 1520."
+ },
+ {
+  "en": "Hevayur appeared to have been checking the bookshelves.{w}{p}At your feet lay a single old, worn book.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wait just a moment, okay?\"{w}",
+  "kind": "msg",
+  "note": "Source has no closing quote bracket; closed in English."
+ },
+ {
+  "en": "Hisbert appeared to have been tidying the bookshelves.{w}{p}At your feet lay a single old, worn book.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Pick it up?",
+  "kind": "data"
+ },
+ {
+  "en": "\"If you have no business here, get out!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry to keep you waiting.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You wretches!\nDon't touch that!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: hostile; \"wretches\" keeps the force."
+ },
+ {
+  "en": "\"Ah! No! Not that book!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you picked up the book, darkness swallowed everything.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "In the darkness, someone whispered.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is it?{w}You feel like we've met somewhere before?{w}Hmm, who knows? Ufufu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Maybe we had some connection,\nonce upon a time.\"{w}{p}\"Oh, I know. Since you're here,\nI'll give you this as a keepsake.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This wand is something special.{w}I'm sure it will help you feel that your journey wasn't for nothing.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is a reward for all your hard work.\nYou did so well to make it this far.{w}Here, take it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh dear.\nYou really should keep your things in order.{w}I'll leave it here, so come back for it later.\"{w}",
+  "kind": "msg",
+  "note": "Inventory-full message."
+ },
+ {
+  "en": "Raise the rare item drop rate?",
+  "kind": "data",
+  "note": "Menu prompt, 30 chars."
+ },
+ {
+  "en": "{0E}\n          *  Rare item drop rate increased  *{0F}{w}",
+  "kind": "msg",
+  "note": "Boxed notice; layout follows slice_07/10 pattern."
+ },
+ {
+  "en": "{0E}\n       *  Rare item drop rate greatly increased  *{0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*        Enemies have grown stronger.        *\n*   To return them to their normal strength,   *\n*      offer a prayer at the temple.      *{0F}{w}",
+  "kind": "msg",
+  "note": "Three-line box kept as three lines."
+ },
+ {
+  "en": "{0E}*   Carrying over the map will not count as   *\n*   full exploration, but you will be able to   *\n*    see the terrain of the parts you mapped.    *{0F}{w}",
+  "kind": "msg",
+  "note": "[JP] = counted as fully explored."
+ },
+ {
+  "en": "Carry over the map?",
+  "kind": "data"
+ },
+ {
+  "en": "\"How foolish, repeating the same thing over again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What will you do?\"",
+  "kind": "data"
+ },
+ {
+  "en": "\"If you have no business here, kindly disappear.\"{w}",
+  "kind": "msg",
+  "note": "Polite-but-scornful [JP] register kept with \"kindly\"."
+ },
+ {
+  "en": "\"Kindly be quick about it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"These are your memories.{w}Everything you have experienced is written here.\"{w}{p}\"If you wish, you can retrace these memories once more.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Retrace these memories?\"",
+  "kind": "data"
+ },
+ {
+  "en": "\"I see. That's fine, either way.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right.{w}Then off you go,\ninto your own memories.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you are finished here, kindly disappear at once.\"{w}",
+  "kind": "msg",
+  "note": "Source has no closing quote bracket; closed in English."
+ },
+ {
+  "en": "\"There, good work.{w}How was it? Did you get anything out of it?\"{w}",
+  "kind": "msg"
+ }
+]

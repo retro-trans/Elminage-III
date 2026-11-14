@@ -1,0 +1,386 @@
+[
+ {
+  "en": "A follower of the Demon Duke Hilde, though not a very loyal one. Once an undead thing of nothing but bones, Makakuri traveled in search of a body of flesh and blood. With that goal achieved, Makakuri now only gets moving, grudgingly, when Ruu nags. Lazy, and quick to run away.",
+  "kind": "desc",
+  "note": "No pronoun for Makakuri (source gives none)."
+ },
+ {
+  "en": "A follower of the Demon Duke Hilde. Under the law of the wasteland, where the weak are culled, she lost her place in the world, and she has sworn loyalty to Hilde, who gave her a safe haven. This time she has been asked to search for a certain woman. But who could that be?",
+  "kind": "desc",
+  "note": "Gender: the source says [JP] here (evidence for the glossary, which has Ruu as unknown). [JP] = 'wasteland' as in wmap slice_20."
+ },
+ {
+  "en": "A tiger lord of majestic bearing. Mandelgius was apparently roaming the land for some purpose with a friend named Rondelgius, but the two got separated along the way.",
+  "kind": "desc",
+  "note": "New name: Rondelgius ([JP], mirrors Mandelgius). No pronoun for Mandelgius: the source gives none."
+ },
+ {
+  "en": "A Valkyrie girl. She once guarded the Temple of Rafa, but her habit of doing things at her own pace led to failure after failure, and she was thrown out. Since then, she seems to be scraping by as an adventurer.",
+  "kind": "desc"
+ },
+ {
+  "en": "A girl raised in the Perpeco Forest. An alchemist, she came to Algrantz seeking the money and know-how to rebuild her village, which was attacked by monsters.",
+  "kind": "desc",
+  "note": "The source itself calls Electra [JP] (girl), so 'girl'/'she' translate this row; the glossary still lists Electra's gender as unknown and could be updated from this row. 'her village' (Perpeco Village) is implied."
+ },
+ {
+  "en": "A unicorn who has been with Electra since they were both little. Having always eaten and slept alongside people, Mig is convinced of deserving the same treatment as any human.",
+  "kind": "desc",
+  "note": "No pronoun for Mig (glossary gender unknown)."
+ },
+ {
+  "en": "An adventurer working as a bounty hunter. Yamuru teamed up with Electra because they shared the same interest: making money. Lately, though, Electra has been holding Yamuru back, and with the bounty hunting so inefficient, Yamuru has begun to wonder if going solo would be better.",
+  "kind": "desc",
+  "note": "No pronoun for Yamuru (glossary gender unknown)."
+ },
+ {
+  "en": "A girl fascinated by the legends of the Moonlight Spirit. Puzzled that there are so many legends of the Sun Spirit and almost none of the Moonlight Spirit, she set out to find them herself. Caught in a trap and unable to move, she was rescued by Yamuru, and has traveled with Yamuru ever since.",
+  "kind": "desc",
+  "note": "The source calls Maniron [JP] (girl)."
+ },
+ {
+  "en": "An old bishop who lay collapsed after a monster attack until Electra came to the rescue. Partly out of gratitude, Korbitz now travels with Electra, meaning to spend the years left supporting someone so accident-prone. Korbitz thinks of Electra as a grandchild and holds Electra very dear.",
+  "kind": "desc",
+  "note": "No pronouns for Korbitz or Electra (glossary genders unknown); 'old bishop' is gender-neutral."
+ },
+ {
+  "en": "Mokero ran with a gang of thieves in the Crotoa City Ruins, but after attacking Electra's party, got beaten back, was lectured by Electra and turned over a new leaf. Ever since, Mokero has called Electra 'Miss' and has been with Electra's party, putting skills from those thieving days to use.",
+  "kind": "desc",
+  "note": "[JP] = 'Miss' (glossary), in single quotes for the source's brackets. No pronouns for Mokero/Electra."
+ },
+ {
+  "en": "Tiny Reckdas look-alikes emerging from deep in the fog Reckdas gives off. Don't drop your guard because they're small or mere illusions. The land's common sense doesn't apply to Demon Dukes. Treat each as the Demon Duke in person, only smaller, or countless Petitdas will swarm you, leaving you a pitiful sight.",
+  "kind": "desc",
+  "note": "Source line breaks fall every 12 full-width chars (ruler wrap, mid-word) and stop after line 7, so they are wrap points, not meaningful lines; English is left unbroken like the other MON_TEXT/ITEM_TEXT rows. New name: Petitdas ([JP] = petit + Reckdas)."
+ },
+ {
+  "en": "A beastman of bizarre appearance.\nOn first meeting, all are shocked by... First?\nPerhaps you have met him before. He has come back here now, far more powerful than he ever was. Whether you knew him before or are seeing him for the first time, you would do well to be very careful.",
+  "kind": "desc",
+  "note": "Kept the source's two line breaks (they carry the interrupted 'shocked by...' gag). Line 3 is one long unbroken line, as in the source, so it relies on the game's wrapping like the other rows. [JP] = he."
+ },
+ {
+  "en": "Mockricketta",
+  "kind": "key?",
+  "note": "Same name as MONSTER1 row 2701 'Mockricketta?' (slice_32), without the question mark, as in the source."
+ },
+ {
+  "en": "Hammerhead",
+  "kind": "key?"
+ },
+ {
+  "en": "Sarijany",
+  "kind": "key?",
+  "note": "New name ([JP]), romanized; not found elsewhere."
+ },
+ {
+  "en": "Yobient of Oblivion",
+  "kind": "key?",
+  "note": "Pattern of slice_37 row 3086 [JP] = 'Sanafeet of Oblivion'. New name: Yobient ([JP], the god of death per MON_TEXT row 3584)."
+ },
+ {
+  "en": "War Master",
+  "kind": "key?"
+ },
+ {
+  "en": "Holly",
+  "kind": "key?",
+  "note": "[JP] here is a person (dark-world female doctor, MON_TEXT row 3597), so the given name 'Holly', not 'Holy' as in item names. Uncertain."
+ },
+ {
+  "en": "Dark Gen. Welsconi",
+  "kind": "key?",
+  "note": "Source spells [JP], but [JP] + -[JP] is Welsconi (EBOOT [JP] = 'Dark Generalissimo Welsconi'; KIROKU 'Demon Gen. Welsconi'); treated as a variant spelling. The full title is 27 bytes > 24, so 'Gen.' as in slice_31. If the designers meant a distinct name, use 'Dark Gen. Belsconi'."
+ },
+ {
+  "en": "Progenitor Asunamuchi",
+  "kind": "key?",
+  "note": "[JP] ('true-illusion first ancestor') compressed to 'Progenitor' (21 bytes). Asunamuchi per chap slice_016. The MONSTER3 form is [JP] (slice_38, not yet translated)."
+ },
+ {
+  "en": "Solvanonno",
+  "kind": "key?",
+  "note": "New name ([JP]), romanized. Its bestiary entry (row 3626) reveals it is Ponyapo."
+ },
+ {
+  "en": "Endaria",
+  "kind": "key?",
+  "note": "New name ([JP]), romanized."
+ },
+ {
+  "en": "Joker Clown",
+  "kind": "key?",
+  "note": "[JP] read as clown (jester theme, cf. Joker Land, Clown Garb); 'Joker Crown' is possible. Uncertain."
+ },
+ {
+  "en": "Ryug",
+  "kind": "key?",
+  "note": "Glossary."
+ },
+ {
+  "en": "Red Prisma",
+  "kind": "key?",
+  "note": "New term: Prisma ([JP]), kept as a name."
+ },
+ {
+  "en": "Blue Prisma",
+  "kind": "key?"
+ },
+ {
+  "en": "Green Prisma",
+  "kind": "key?"
+ },
+ {
+  "en": "Yellow Prisma",
+  "kind": "key?"
+ },
+ {
+  "en": "White Prisma",
+  "kind": "key?"
+ },
+ {
+  "en": "Black Prisma",
+  "kind": "key?"
+ },
+ {
+  "en": "Zanu",
+  "kind": "key?",
+  "note": "Per chap slice_021 rows 1703-1704 (the wicked mage Zanu)."
+ },
+ {
+  "en": "Description",
+  "kind": "desc",
+  "note": "Placeholder [JP] ('description text'), probably unused."
+ },
+ {
+  "en": "Mucha's Tavern",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Zeppo's Inn",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Alchemy Storage",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Kembeck's Shop",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Rust Temple",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Algrantz Castle",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Training Hall",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Roscadil Empire",
+  "kind": "name"
+ },
+ {
+  "en": "Wells Garden",
+  "kind": "name",
+  "note": "Glossary. (The designer copy in c2 says [JP], an older name; the display text is [JP].)"
+ },
+ {
+  "en": "Shipyard",
+  "kind": "name"
+ },
+ {
+  "en": "Toner's Armory",
+  "kind": "name",
+  "note": "Glossary ([JP])."
+ },
+ {
+  "en": "Roscadil Palace",
+  "kind": "name",
+  "note": "Cf. wmap slice_18 row 1396 'the Roscadil palace'."
+ },
+ {
+  "en": "Watchtower",
+  "kind": "name",
+  "note": "As in EVENT_TEXT rows 268/382."
+ },
+ {
+  "en": "Lumisthenes",
+  "kind": "name",
+  "note": "[JP] ('Star Capital') dropped: 'Star Capital Lumisthenes' is 24 bytes > 16."
+ },
+ {
+  "en": "Sundial Plaza",
+  "kind": "name"
+ },
+ {
+  "en": "Jakobis Sp. Hall",
+  "kind": "name",
+  "note": "Glossary 'Jakobis Spell Hall' is 18 bytes > 16; abbreviated."
+ },
+ {
+  "en": "Temple of Rafa",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Central Council",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Star Lighthouse",
+  "kind": "name",
+  "note": "Glossary 'Stargazing Lighthouse' is 21 bytes > 16; shortened."
+ },
+ {
+  "en": "Teridon",
+  "kind": "name",
+  "note": "[JP] ('Highway City') dropped: 'Highway City Teridon' is 20 bytes > 16."
+ },
+ {
+  "en": "Highway Market",
+  "kind": "name",
+  "note": "[JP] read as a roadside market ([JP] = market) in Teridon; could also mean 'Highway Town'. Uncertain."
+ },
+ {
+  "en": "Guard Station",
+  "kind": "name",
+  "note": "Source [JP] (the designer copy says [JP]); cf. glossary [JP] 'Captain of the Guard'."
+ },
+ {
+  "en": "Mafdsalim House",
+  "kind": "name",
+  "note": "New name: Mafdsalim ([JP]), romanized; not found elsewhere."
+ },
+ {
+  "en": "MILL.GP",
+  "kind": "name",
+  "note": "As in EVENT_TEXT row 286 (the casino)."
+ },
+ {
+  "en": "Love Jacuzzi",
+  "kind": "name",
+  "note": "New name ([JP], a bathhouse in Teridon, cf. MON_TEXT row 3670)."
+ },
+ {
+  "en": "Grace",
+  "kind": "name",
+  "note": "As in the EBOOT credit list."
+ },
+ {
+  "en": "Decisive",
+  "kind": "name",
+  "note": "Epithet [JP] ('the decisive man'); 'Decisive Man' is 12 bytes > 10, so the noun is dropped."
+ },
+ {
+  "en": "Naked King",
+  "kind": "name",
+  "note": "[JP]: nod to 'The Emperor's New Clothes' ([JP])."
+ },
+ {
+  "en": "Kanosuke",
+  "kind": "name",
+  "note": "As in the EBOOT credit list."
+ },
+ {
+  "en": "Kanosuke",
+  "kind": "name",
+  "note": "The nickname is the hiragana form of the same name; same romanization."
+ },
+ {
+  "en": "Ever-Troubled",
+  "kind": "name"
+ },
+ {
+  "en": "Hard Worker",
+  "kind": "name"
+ },
+ {
+  "en": "Aruna",
+  "kind": "name",
+  "note": "As in EBOOT."
+ },
+ {
+  "en": "Last Wonder",
+  "kind": "name",
+  "note": "[JP] ('the last curiosity'); 'Last Curiosity' is 14 bytes > 12. Uncertain."
+ },
+ {
+  "en": "Childish",
+  "kind": "name",
+  "note": "[JP] = immature."
+ },
+ {
+  "en": "Meme Stampy",
+  "kind": "name",
+  "note": "As in the EBOOT credit list; the star is not ASCII and is dropped."
+ },
+ {
+  "en": "Meme",
+  "kind": "name"
+ },
+ {
+  "en": "Selfish",
+  "kind": "name"
+ },
+ {
+  "en": "Selfish",
+  "kind": "name",
+  "note": "Same word as the epithet in the source ([JP] / [JP])."
+ },
+ {
+  "en": "Green",
+  "kind": "name",
+  "note": "As in EBOOT."
+ },
+ {
+  "en": "Touch!",
+  "kind": "name"
+ },
+ {
+  "en": "Drunkard",
+  "kind": "name",
+  "note": "[JP] = always soaked in drink."
+ },
+ {
+  "en": "Froila",
+  "kind": "name",
+  "note": "As in EBOOT."
+ },
+ {
+  "en": "Awkward Grin",
+  "kind": "name",
+  "note": "[JP] ('inconvenient smile'); 'Awkward Smile' is 13 bytes > 12."
+ },
+ {
+  "en": "Yanderella",
+  "kind": "name",
+  "note": "Pun: yandere + Cinderella, kept."
+ },
+ {
+  "en": "Garveon",
+  "kind": "name",
+  "note": "As in EBOOT."
+ },
+ {
+  "en": "Ore Licky-Licky",
+  "kind": "name",
+  "note": "[JP]: ore + licking sound with a cutesy ending."
+ },
+ {
+  "en": "Lickerist",
+  "kind": "name",
+  "note": "[JP]: [JP] (lick) + -ist, echoing [JP] (terrorist)."
+ }
+]

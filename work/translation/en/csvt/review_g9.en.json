@@ -1,0 +1,1837 @@
+[
+ {
+  "en": "One of the four great elements of all things: the elemental of earth. Spirits are not harmful, but they act by their own laws, so you may offend one without meaning to. It is not that strong, but if one attacks you, you should pay close attention to why it did.",
+  "kind": "desc"
+ },
+ {
+  "en": "A dwarf fairy living in the forest. It loves to dance, and draws passing travelers into its dancing ring, making them dance until they drop. When alone, however, it turns extremely timid.",
+  "kind": "desc"
+ },
+ {
+  "en": "A magic plant used in all sorts of secret arts. Gathering it takes some care: pulled from the soil, a mandragora lets out \"a horrid scream that makes all who hear it go mad and die\" and runs away. ...Some say this rumor is a lie merchants spread to raise its price. So which is it?",
+  "kind": "desc",
+  "note": "Inner quote marks (double angle quotes in source) kept as double quotes. 'shinsou ya ikani' = So which is it?"
+ },
+ {
+  "en": "One of the four great elements of all things: the elemental of water. A spirit found everywhere; those who can feel the mystical close at hand are said to be able to find it in any place.",
+  "kind": "desc"
+ },
+ {
+  "en": "Fairy folk and spirits, with the Fairy as the best-known example, are at root a system that keeps the land's magic flowing. So although they do have personalities, to humans and others they come across as very aloof.",
+  "kind": "desc",
+  "note": "'Fairy ni daihyou sareru yousei, seirei' = fairies and spirits, the fairy foremost among them. Editorial: 'Fairies ... the fairy foremost among them' repeated the noun and read as a loop; reworded."
+ },
+ {
+  "en": "A water sprite known alongside the Water Elemental. Beautiful in form, modest and very gentle by nature. They often fall in love with humans or elves, but betray their devotion and the water clan will use every means at hand to come for revenge.",
+  "kind": "desc",
+  "note": "'water clan' as in ITEM_TEXT 2342 (Undine's sword). Undine plural 'they' (species)."
+ },
+ {
+  "en": "A mountain fairy who grows turnips. It goes around handing out turnip and radish seeds to children, but they are not very welcome, so it is always grumpy. Its sack, naturally, holds turnip seeds, radish seeds and the like. Its hobby is strolling about counting the turnips it has grown.",
+  "kind": "desc"
+ },
+ {
+  "en": "One of the four great elements of all things: the elemental of wind. As if to say \"nothing in this world stays the same,\" it keeps bringing change to the land. Yet now and then even a wind spirit stops. If the wind around you suddenly dies on an adventure, a wind spirit may be near you.",
+  "kind": "desc"
+ },
+ {
+  "en": "On a misty purple night, they say, a seed that falls at a wolf's howl becomes a Yugdrias. The moment its bud opens, its eyeball starts rolling around. Once in bloom, the flower never closes until it dies. And when it dies, the eyeball drops off and becomes the next seed.",
+  "kind": "desc"
+ },
+ {
+  "en": "One of the four great elements of all things: the elemental of fire. Fire at times warms body and soul, at times burns all to ash. When gratitude and awe for fire are forgotten, the Fire Elemental turns into a purging flame.",
+  "kind": "desc"
+ },
+ {
+  "en": "A monster born when snow, rounded up like a rabbit, came to life. It is gentle by nature, but when it senses danger it unleashes the magic hidden inside and launches merciless attacks. Be on your guard when a pack of them attacks.",
+  "kind": "desc"
+ },
+ {
+  "en": "A wind spirit. It flits round and round, carrying breezes everywhere. It is free-spirited by nature and hurls vacuum blades when in a foul mood. They say if it takes a liking to you, it carries you off in a whirlwind and you can never come back.",
+  "kind": "desc",
+  "note": "kamaitachi = 'vacuum blades' (ITEM 1408 Vacuum Blade)."
+ },
+ {
+  "en": "A fairy said to know where gold, silver and treasure lie. It looks stubborn, but rumor says it is really a timid old man. It is also a shoemaker, able to make shoes for all kinds of races, from fairies to giants. When a traveler is stuck with broken shoes, it seems to pop up and mend them.",
+  "kind": "desc",
+  "note": "'timid old man' is the content of the rumor (roujin); otherwise 'it'."
+ },
+ {
+  "en": "It will appear before you out of nowhere. Speak and it won't answer; stare and you still can't make out its form. A fragment of a higher being, a demon's kin in a god's guise, a mere weather event... Many tales are told, but lately some whisper it may be \"a warning of some kind.\"",
+  "kind": "desc",
+  "note": "bunrei = fragment of a higher being; ma no kenzoku = a demon's kin."
+ },
+ {
+  "en": "A strange light drifting in many places, also called a ghost light. Reach for it carelessly and the strange waves its glowing body gives off will leave you unable to move. Its stamina is modest, but neither magic nor physical attacks work well on it: a tough foe.",
+  "kind": "desc",
+  "note": "onibi = 'demon fire'. Editorial: [JP] is idiomatically 'ghost light' in English; 'demon fire' suggests an actual demon."
+ },
+ {
+  "en": "An elemental that rules darkness. It moves through shadows, wandering in search of deeper dark. Though dark, it is kin to the spirits, so it is normally very docile. But the miasma of evil can drive it to attack people. If you see one, you would do well to keep away.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bewitching flower that blooms in deep forests. It moves its leaves and vines at will to entangle travelers it takes a fancy to. Any poor adventurer it catches will be digested as nourishment.",
+  "kind": "desc"
+ },
+ {
+  "en": "A lovely woman of the snowy peaks, with translucent white skin and a bewitching smile. She is cold inside too, so her breath never turns white: that is how to tell her from a normal woman, they say. Rumors range from her killing the lost in the snow to her falling in love and marrying.",
+  "kind": "desc",
+  "note": "Female per source (yuki-onna, 'beautiful woman')."
+ },
+ {
+  "en": "A spirit that rules the wind. It raises wind from the bag in its hand and gathers clouds to bring rain. Loosen one mouth of the bag and wind blows out; loosen the other and wind rushes in. It loves nature's beauty and cheers up when trees bud after winter. It prizes elegance and hates noisy folk.",
+  "kind": "desc",
+  "note": "kachou fuugetsu = nature's beauty; miyabi = elegance. Compressed to fit."
+ },
+ {
+  "en": "A spirit that rules thunder. The drums on its back call down lightning; beat them in a lively festival rhythm and it can deal even fiercer bolts. It loves sake, drums and karuta, and lives to party all night with friends. It prizes a flashy, bold life and hates sissy, stuck-up types.",
+  "kind": "desc",
+  "note": "memeshiku kidotta yatsu = sissy, stuck-up types (force kept)."
+ },
+ {
+  "en": "Legend says a carefully made snowman gains a heart and helps mind the children until it melts in spring. But if no one notices its new heart and it is left neglected, its loneliness draws an evil will, and it becomes a fiend that freezes children solid to keep them by its side forever.",
+  "kind": "desc"
+ },
+ {
+  "en": "A knight that symbolizes death. It does not come to deal death; it is a monster that visits those whose death draws near. Though undead, it is closer to a fairy. To defeat a Dullahan is also to overcome your own fated death. Steel yourself!",
+  "kind": "desc"
+ },
+ {
+  "en": "A spirit that rules all four great elements of all things. A union of the four elements, fire, water, earth and wind, it embodies the balance of magic that dwells in the world. When that balance breaks, it is said to appear to restore the world to its rightful form.",
+  "kind": "desc"
+ },
+ {
+  "en": "Essentially a giant earthworm, yet a fearsome worm that can sometimes swallow even a small person. Once an Earthworm gets into a field, the root vegetables are ruined across the board. Now and then one is seen chasing a mandragora that popped out in fright.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bug with frightening leg power that can easily leap over a house. That is the Mad Jumper. The ground it kicks off from is left with a round crater from the impact. If, by bad luck, one lands on part of your body, expect a broken bone at the very least.",
+  "kind": "desc"
+ },
+ {
+  "en": "A strange bug that asks all it meets, \"Mockricketta?\" Pick it up and it squeaks, but after thrashing about plenty it calms down and asks \"Mockricketta?\" again. There are all sorts of rumors: answer the question and your wish comes true, or you gain mysterious powers...",
+  "kind": "desc",
+  "note": "Name kept as 'Mockricketta?' (MONSTER1 2701 has the question mark as part of the name)."
+ },
+ {
+  "en": "Its most striking feature is a pair of huge scythes for arms, over 2 m long. The scythes cut better than a long sword and can even behead. It is feared not only by adventurers but by insect monsters too.",
+  "kind": "desc"
+ },
+ {
+  "en": "An insect sealed in amber. Dead insects trapped in amber are common enough, but this one is alive. In gem form you can see it squirm inside; crack it open and it slowly crawls out. It is no larva; this appears to be its adult form. Its biology still awaits explanation.",
+  "kind": "desc"
+ },
+ {
+  "en": "It scurries about at outrageous speed, dodging attacks and calling in swarms of its kin. More of them won't put the party in danger, but a battle that never ends is torture. Just do the sensible thing and burn them away with magic.",
+  "kind": "desc"
+ },
+ {
+  "en": "A fearsome coconut crab. In the forest it comes at you without hiding, snapping branches as it goes. It is slow, but hard to stop, and very dangerous when several surround you. It has instinctive cunning too and is good at driving prey into dead ends, so handle it with care.",
+  "kind": "desc"
+ },
+ {
+  "en": "A scorpion-like monster woman with a lethal venom tail and pincers of fearsome strength. Hard shell covers parts of her, moved by superbly developed muscles. Her body is built for attack, but she is gentle. Tales of her raiding sleepers abound, yet she likely just peeked in, worried as you camped.",
+  "kind": "desc",
+  "note": "Female (kaijo = monster woman). Compressed to fit 312."
+ },
+ {
+  "en": "A giant centipede that coils around a shield and lives in it like a hermit crab. Its defense is tough enough already, yet it hardens its allies even further with spells. Some adventurers mistake the centipede for the shield's decoration and pay dearly for it.",
+  "kind": "desc"
+ },
+ {
+  "en": "Cordyceps are fungi that have taken over larvae in the soil; the true body is the plant part. But this cordyceps is a rare kind in which the host also lives on in symbiosis. The flower gathers the tiny flying bugs that serve as food, and the insect preys on them.",
+  "kind": "desc"
+ },
+ {
+  "en": "Not content with scurrying, they now even fly. The terror of having one leap at you is said to be beyond imagining. They have nests, which you may find on your adventures. If so, the wise move is to leave quietly. Poke one for fun, and a black terror will engulf you.",
+  "kind": "desc"
+ },
+ {
+  "en": "A strange creature that seizes prey with two oddly shaped jaws. The accordion-like, arm-shaped upper jaw is stronger than it looks; once it gets a firm grip, even a human will find it hard to escape. If you hear a grating \"bzzzt,\" you had best be on your guard.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mighty queen bee. It often rules a corner of the forest and shows no mercy to those who run wild in its territory. If you meet it, take care not to upset it. Being a bee, it adores flower nectar. At harvest time it can reportedly be seen flying about merrily in search of flowers itself.",
+  "kind": "desc",
+  "note": "'it' for Royal Honey, as in ITEM_TEXT 2247."
+ },
+ {
+  "en": "A giant poison moth monster. A single beat of its wings fills the area with a deadly toxic miasma. It waits for its poisoned prey to weaken bit by bit, then, once they can no longer move, drives its needle-like mouth into the nape of their neck.",
+  "kind": "desc"
+ },
+ {
+  "en": "King of the flies, the VIP of the insect world. It sits on a throne and has its fly subjects pull it. These flies are called \"fly knights\" and are fiercely loyal. To protect their lord, it is said they think nothing of their own lives.",
+  "kind": "desc",
+  "note": "Monster name is 'Insector Lord' (MONSTER1 2726); 'fly knights' as in ITEM 1400 / ITEM_TEXT 2221. Name not repeated in text."
+ },
+ {
+  "en": "A creature with a hard hide and spines grown to fend off predators. Even when it means no harm, you can be hurt by stepping on one by mistake, so watch out. The hide is tough and stretchy, and widely used in everyday goods such as shoes and belts.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bird that beats its small wings rapidly to fly as if hanging still in midair. It flits about sipping nectar through a straw-like mouth. It speeds up and slows down at will; novice adventurers will find its movements hard to follow.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bird known for its chunky body and lovable face. Its tiny, shrunken wings can't fly, but in exchange it gained the legs to run around on the ground. Its lower-body muscles are so developed that it is round all over, so it came to be called the meat bomb. Its meat is muscly, so tastes vary.",
+  "kind": "desc",
+  "note": "Name Chick Bomb (MONSTER1 2732); 'meat bomb' = nikubakudan."
+ },
+ {
+  "en": "Camels often carry adventurers, but they walk moving both legs on one side at once, so they are very wobbly. They never asked to be ridden, yet got dumped with \"Who can ride such a shaky thing?\" Those gone feral again are Camel Duffs. Their hate for people is fierce; don't let the dopey face fool you.",
+  "kind": "desc",
+  "note": "Compressed to fit 312."
+ },
+ {
+  "en": "A shark whose head evolved a distinctive shape for a wide field of view. Now it can see all around its sides, but sadly it can no longer see straight ahead. Not that it matters much to them. Once they know where the prey is, they just close in at once and bite.",
+  "kind": "desc",
+  "note": "ctx name Hammerhead is the c2 mirror; MONSTER1 2736 name is 'Wise Hammer'. Text does not name it."
+ },
+ {
+  "en": "An odd animal that walks on its nose, keeping balance with its tail. Standing, it comes up to a person's waist; its body is surprisingly big. It is docile, but when angered it casts the spell Zeo Nadar. If you meet a group of them, why not settle things peacefully?",
+  "kind": "desc",
+  "note": "NEW SPELL NAME: Zeonadal (zeonadaru), romanized; SPELL.CSV row 3974 (slice_48) not translated yet. Align there."
+ },
+ {
+  "en": "A Deathgaroo is a kangaroo taught to fight at the Training Hall. Backed by legs strong enough to kick with, its lower body is rock-steady. The punches it throws from there are heavy; it is said that punching bare-handed shatters not only the foe's bones but its own fists too.",
+  "kind": "desc",
+  "note": "kunrenjo = Training Hall (glossary)."
+ },
+ {
+  "en": "Once Full Moon Rabbits start pounding mochi, they keep on through fifteen nights. The mochi is squishy and superb. It takes ages, but don't think of sneaking a bite: near the full moon they are dazed and can't tell mochi from you. -- Pound-a-pat, knead-knead, pound-a-pat; whose flavor is the crimson mochi?",
+  "kind": "desc",
+  "note": "Jugoya = harvest full moon; name 'Full Moon Rabbit' (MONSTER1 2742). The full-width spaces before the closing song are layout padding; replaced by ' -- '. Mochi-pounding chant rendered 'Pound-a-pat, knead-knead'; red mochi implies blood. Compressed."
+ },
+ {
+  "en": "A giant ape with several arms. You would expect brilliant combination attacks from them, but each arm seems to move on its own whims, with no coordination at all. Even mid-battle, its spare arms pick its nose or hold food, doing as they please.",
+  "kind": "desc"
+ },
+ {
+  "en": "It dwells in a hard spiral shell, drifting in stillness. On land, nothing this big floats in the air or moves so slowly, so seeing one undersea often leaves people spellbound by the wondrous sight. Though mindless, they are philosophical beings; a shared gaze can make you feel enlightened.",
+  "kind": "desc",
+  "note": "Source has no name or subject in sentence 1; 'It dwells'."
+ },
+ {
+  "en": "A turtle bearing a big mass of diamond on its back. The diamond gets brighter and more valuable with age, pushed outward from within as it grows. Odd, since it eats only ordinary shrimp and small fish. Depending on how it forms, the diamond can focus light like a lens and often starts wildfires.",
+  "kind": "desc"
+ },
+ {
+  "en": "In the deep sea, a world all pitch-black, the vivid fins it suddenly spreads catch the eye. But this is nothing less than a declaration of war. It starts circling you to seek an opening to attack, yet there is no end of carefree adventurers who think they are being welcomed.",
+  "kind": "desc"
+ },
+ {
+  "en": "A beast, just as the name says. Savage and aggressive, dim and rash, rude and ungrateful. You wouldn't want it as an enemy, of course, or even by your side as an ally. Yet it seems every rule has exceptions: some women reportedly like the Beast type.",
+  "kind": "desc",
+  "note": "'Beast type' = bi-suto no you na mono (men like the Beast)."
+ },
+ {
+  "en": "A giant flying whale. It feeds by inhaling \"something\" in the air. Its suction is very strong; with bad luck, even a grown adult can be sucked in. It is big enough to make your knees give out when you meet it, yet there are said to be giant birds that prey on Airy Viders.",
+  "kind": "desc",
+  "note": "'something' keeps the source's double brackets as quotes."
+ },
+ {
+  "en": "Tyrant of the forest: a menace that runs about on its huge body, mowing down trees. It needs a long run-up to start \"running,\" but once it does it won't stop, and fairly fast at that. Meet one while camping and there is no time to save your gear: beat it or give up your gear.",
+  "kind": "desc",
+  "note": "Compressed: 'fairly fast at that' = soredo sokudo mo sore nari."
+ },
+ {
+  "en": "Emperor Birds are very intelligent and once had fairly friendly ties with people. But ever since their eggs, being delicious, were hailed as one of the Three Great Delicacies, endless overhunting has soured relations. Their bonds with each other are strong; a drawn-out fight is dangerous.",
+  "kind": "desc",
+  "note": "sandai chinmi = Three Great Delicacies."
+ },
+ {
+  "en": "A savage great boar with fine tusks. Its upper canines grow right through its own flesh; why it hurts itself so is a mystery. The young, unlike adults, are cute and friendly, fondly called Babbies, and famous for growing fast. Rumor has it a Babby called from afar was a babirusa by the time it arrived.",
+  "kind": "desc",
+  "note": "Babby = baby, the nickname bavii. Compressed heavily to fit; all points kept."
+ },
+ {
+  "en": "A giant bird monster with the head and breasts of a human woman. Usually they attack adventurers for their food, but in breeding season they may attack for another purpose.",
+  "kind": "desc"
+ },
+ {
+  "en": "A miraculous mythical beast that always shields the gem in its forehead with both paws. A Carbuncle's gem gives off its own light and has the power to drive away darkness. Large ones can fetch high prices, so adventurers often chase them down.",
+  "kind": "desc"
+ },
+ {
+  "en": "A savage beaver-like beast lurking in clear lakes; it strikes passing prey with long, strong claws. It attacks humans too: poor children's bones have been seen built into its nest. Oddly, the Afanc is weak to maidens. Pamper it a bit and it clings to your breast and won't let go, so be careful.",
+  "kind": "desc",
+  "note": "Afanc (MONSTER1 2767). Breast-clinging line kept at source strength."
+ },
+ {
+  "en": "A lizard full of poison. If its claws so much as graze your skin, venom seeps in and spreads, eating at your whole body. Keep your distance, then? Once basilisks see their claws can't reach, they attack with a deadly poison breath. When the fight is over, you will surely be drenched in poison.",
+  "kind": "desc"
+ },
+ {
+  "en": "A monstrous bird that looks like a deer and a bird combined. For some reason a peryton's shadow is human-shaped, and killing a person lets it regain its own shadow, so it is said to seek out and attack humans.",
+  "kind": "desc"
+ },
+ {
+  "en": "A cat kept in a home for many years may, with age, become a yokai called a nekomata. It speaks human words, gains magic and rules the house, they say. Its nature depends on its owner: without trust, you'll be thrown out of your own house in no time. But dote on it before it turns, and it repays you loyally.",
+  "kind": "desc",
+  "note": "Last sentence: the cat repays the owner's kindness with loyalty."
+ },
+ {
+  "en": "A heavenly steed said to open its heart only to the pure. Like the horn on its brow, it favors those who devote themselves single-mindedly to one thing. If you want to befriend a unicorn, you had better not keep changing class on a whim.",
+  "kind": "desc",
+  "note": "shoku wo kaeru = changing class (game term)."
+ },
+ {
+  "en": "\"Oh my, a lion in the sea? But lo and behold, its lower half's a fish! Holy mackerel!?\" A monster striking enough to excuse such fishermen's babble. It is fairly smart and famously tidy. If you don't want to anger it, don't throw garbage into the sea.",
+  "kind": "desc",
+  "note": "Fisherman pun 'gyogyoo' (gyo = fish) rendered 'Holy mackerel!?'."
+ },
+ {
+  "en": "A monster fusing several animals. Its three heads each attack in their own way: the snake head with breath, the goat head with spells, the lion head with matchless fangs. Whether you can beat a chimera marks the line between novice and intermediate adventurers.",
+  "kind": "desc",
+  "note": "Source typo kyouryoku (cooperation) read as kyouryoku muhi (matchless) = 'matchless fangs'."
+ },
+ {
+  "en": "Glittering wings and a gorgeous crest. A mythical beast with a lavish air, yet it cannot fly. But who needs flight with an inborn power to petrify? Not just its attacks, but the breath it spews can turn you to stone. Take it lightly and you'll be a stone statue in no time.",
+  "kind": "desc"
+ },
+ {
+  "en": "A yokai from a far eastern land, striking for its red face and long nose. A symbol of arrogance too: there, acting pompous is called \"becoming a tengu.\" Yet it truly has mystic powers to match. On a whim, it is said to teach humans wisdom or swordsmanship.",
+  "kind": "desc",
+  "note": "tengu ni naru = becoming a tengu (idiom kept and explained by context)."
+ },
+ {
+  "en": "A demon beast writhing slickly amid columns of water. With the allure only inhuman women have, it draws adventurers in defenseless though they know it's a monster. Then supple, mighty tentacles snare them, and they are swallowed not by the upper mouth but the lower one, lined with jagged fangs.",
+  "kind": "desc",
+  "note": "Kept at source strength (upper vs lower mouth)."
+ },
+ {
+  "en": "A monster famed as the \"Hound of Hell.\" Its eerie, red-glowing eyes drive absolute terror into all who face it, rooting them to the spot. Do the denizens of darkness all keep such vicious beasts as pets?",
+  "kind": "desc",
+  "note": "jigoku no banken (double brackets) = \"Hound of Hell\"."
+ },
+ {
+  "en": "A noble, deeply loyal mythical beast said to let only those whose strength it acknowledges ride on its back. It is sung that one who rides a griffon will rule the land, and many put its image on flags and crests, hoping to borrow a griffon's power.",
+  "kind": "desc"
+ },
+ {
+  "en": "A beauty with a snake's body. Intelligent, she seldom attacks people, but things like \"magic pools\" can make her drunk and violent. Rumor says that if you nurture love with a lamia and are blessed with a child, it will have rare magic and be able to command every mythical beast.",
+  "kind": "desc",
+  "note": "'magic pools' = maryoku damari (no corpus term found). Female per source (bijo)."
+ },
+ {
+  "en": "A fox that lived long and gained mystic powers. Some take human form to beguile the powerful; others shun people and live in tiny shrines deep in the mountains. Angered, it calls heavenly winds, gathers black clouds and strikes foes with eerie lightning. Proud, but fried tofu makes it lose itself.",
+  "kind": "desc",
+  "note": "aburaage = fried tofu. Compressed."
+ },
+ {
+  "en": "If the unicorn is a holy beast that rejects the world to keep its purity, the bicorn accepted the world at the price of defilement. Guarding purity sounds fine, but it also means rejecting others. The bicorn takes others as they are and savors the joy, sorrow, anger, betrayal and love they bring.",
+  "kind": "desc",
+  "note": "Compressed to fit 312."
+ },
+ {
+  "en": "A divine sea fish shining with holy light. Any beast this huge should be slow for its bulk, yet maybe thanks to the light magic it wears, it races about at baffling speed. So adventurers keep dying, unable to keep their distance or thrown off their usual rhythm.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mythical beast long known as a symbol of intellect. When it finds adventurers, it poses puzzles called riddles. Those who can satisfy the sphinx's thirst for knowledge may be able to build a good relationship with it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A ghost that loves pranks. They range from cute ones, like flying plates or doors that open and shut, to dangerous ones, like flying weapons and blades. Sometimes it does this because it wants someone to notice something, so if you scold it and hear it out, you might become friends.",
+  "kind": "desc"
+ },
+ {
+  "en": "The spirit of a warrior who fights on even after falling. It is as strong as in life, but just being a spirit makes it a very troublesome foe. Take it out with spells and the like before it makes you one of its own.",
+  "kind": "desc",
+  "note": "nakama ni sarenai uchi ni = before it makes you one of its own (i.e., another ghost)."
+ },
+ {
+  "en": "The ghost of a sorcerer. A sorcerer alone is a dangerous foe early in the game, and with physical attacks not working on it either, it is a real menace.",
+  "kind": "desc"
+ },
+ {
+  "en": "Driven into the in-between by fierce attachment, grudges or hatred in life: a ghost is a sad heart. Many never realize they're dead and wander on endlessly. Muttering words that never reach anyone, weeping softly... meeting one leaves you more sad than scared. Why not at least be the one who hears them out?",
+  "kind": "desc",
+  "note": "'kimi dake wa' = why not at least be the one who hears them out."
+ },
+ {
+  "en": "A pesky spirit that can't give up thieving even in death. This otherworldly thief is after not your valuables, but the souls of adventurers.",
+  "kind": "desc"
+ },
+ {
+  "en": "A spirit that hangs upside down from the ceiling; who knows what fun it finds in that. The sight of them all dropping from above at once is oddly moving, in its way. Take care not to be startled into letting them strike first.",
+  "kind": "desc",
+  "note": "nani ga tanoshii no ka = who knows what fun it finds in that."
+ },
+ {
+  "en": "A lost nun. She gave her life to the gods, so why does she wander this world in death like this? You may wish to reach her heart, but the gaze she turns on you is empty. At the very least, give her your blessing so she can rest in peace.",
+  "kind": "desc"
+ },
+ {
+  "en": "Novice servants are forever making clumsy blunders. Fine if you can laugh it off, but some can cost a life. The Ghost Maid is one such sorry soul. Unaware she has died, she still busily cleans for her master. Rumor has it an even clumsier maid hasn't noticed her coworker is dead.",
+  "kind": "desc"
+ },
+ {
+  "en": "A ship that lost its master to storms or pirates and, after long years adrift, turned undead. It takes in shipwreck victims and attacks merchant ships to swell its crew. One charm against ghost ships was to 'greet the sea,' though at times some unrelated ghost answered, which was awkward.",
+  "kind": "desc"
+ },
+ {
+  "en": "An odd spirit with a tube-shaped body whose end seems to cross into its own body. Trace its form with your eyes: follow the outside and you're on the inside; follow the inside and you're back outside. A normal shape to higher-dimensional beings, but if we try to grasp it, at worst we go mad.",
+  "kind": "desc",
+  "note": "Klein bottle joke. 'Saiaku de' read as 'at worst'."
+ },
+ {
+  "en": "The ghost of a hunter who grew so absorbed in the hunt that they forgot to eat and starved to death in the forest. The will to keep hunting even after death seems to have become this ghost.",
+  "kind": "desc",
+  "note": "Hunter's gender not given; singular 'they'."
+ },
+ {
+  "en": "The ghost of a female brawler bitterly defeated and killed in a duel. Her body lost, but her soul did not. To prove that her fists are the strongest of all, she challenges adventurers to duels to the death.",
+  "kind": "desc",
+  "note": "Source [JP] read as [JP] (female fighter)."
+ },
+ {
+  "en": "When a Valkyrie dies, her soul is normally called to its rightful place by the god she serves. But some, rejected by their god for deeds in life such as breaking the commandments, wander with nowhere to go. A weak heart seeks a god's salvation, and for that weakness is rejected. How sad.",
+  "kind": "desc",
+  "note": "[JP] = Valkyrie per glossary."
+ },
+ {
+  "en": "An evil spirit that startles adventurers with strange faces and screams. Once you flinch and your guard drops, it devours your soul. They say the way to drive it off is to strike the same pose and scream back.",
+  "kind": "desc"
+ },
+ {
+  "en": "A skull that swims through the air like a ray. Usually it glides lazily at ultra-low altitude just above the ground, like a ray in the sea, but once it spots prey, it closes in on your feet at terrifying speed without a sound, then leaps up to strike all at once.",
+  "kind": "desc"
+ },
+ {
+  "en": "In a land far to the east, the leader of the samurai is called a Daimyo. This samurai is a Daimyo who wanders the world even in death. Having lost a war and his domain, he attacks any adventurer he comes across, seeking to win his lands back.",
+  "kind": "desc"
+ },
+ {
+  "en": "The ghost of a ninja who rose to the rank of Summer, only to lose their life. Less deadly than in life, yet it still hides killing skill not to be taken lightly. If you think you can't win, ask it nicely to pass on to heaven.",
+  "kind": "desc",
+  "note": "Summer = ninja rank, as monster Ghost Summer. [JP] = politely ask it to ascend."
+ },
+ {
+  "en": "A vengeful dog spirit made artificially by a curse called kodoku. Inugami are said to be passed down in certain bloodlines for generations. Often cited as proof that ordinary people, animals and plants can be dragged into the dark arts. How sad, to find no freedom even in death.",
+  "kind": "desc",
+  "note": "[JP] romanized kodoku."
+ },
+ {
+  "en": "Spirit energy gathered and given form. The area around it becomes a special field, where overflowing spirit energy crystallizes. The mist-like stuff drifting about can also become arms that crush foes at Mayokal's will.",
+  "kind": "desc"
+ },
+ {
+  "en": "King of the evil spirits. At this level, it no longer lingers in this world because it is lost, but stays of its own will. Spirits are everywhere, and many are souls with nowhere to go. The king of evil spirits summons such spirits as servants, making its own position rock solid.",
+  "kind": "desc",
+  "note": "[JP] / [JP] as 'king of (the) evil spirits'; the Wraith epithet is 'Overlord' (slice_34)."
+ },
+ {
+  "en": "The lowest class of demon. Even so, it has more than enough power to kill novice adventurers. It moves fast and strikes twice, with fangs and claws.",
+  "kind": "desc"
+ },
+ {
+  "en": "The Bolmophis is a fearsome Kin of Darkness. Its fur makes cheap, handy winter wear; its meat, precious protein. Its head yields fine lamp oil, and amazingly its fangs and claws are prized jewelry. Worse, it curses you to want to nuzzle its fluffy belly. To toy with us so... truly a fearsome Kin of Darkness.",
+  "kind": "desc",
+  "note": "Kin of Darkness per glossary; repetition of the opening line kept as the joke."
+ },
+ {
+  "en": "Temple ornaments that slowly drew magic from worshippers and bishops until they could move freely: these are Gargoyles. They attack adventurers as Kin of Darkness, yet keep the instinct to guard a place. Always claiming a favorite pedestal, they resemble hermit crabs. Do they ever fight over one?",
+  "kind": "desc"
+ },
+ {
+  "en": "A demon bird that races across the wilds at fearsome speed with an odd cry. Speed alone makes a lively beast, but a Karussa can also stop dead. Seen on a far dune, it often breaks the sound barrier and is upon you. A huge eye at your nose. Blink, blink. Your heart leaps. Ah, so this be ye thing called loue, i",
+  "kind": "desc",
+  "note": "Deliberate trail-off kept: the source ends mid-word in archaic kana spelling ([JP] = koi, love); rendered with archaic 'ye'/'loue' and cut mid-word."
+ },
+ {
+  "en": "A lesser demon. Low-ranking, yet it calls its friends and attacks, so it's dangerous unless you wipe them out quickly. It may be good practice for intermediate adventurers, but don't let your guard down.",
+  "kind": "desc"
+ },
+ {
+  "en": "It looks like a smiling bishop, but its true body is the eerily glowing hand behind it. Any adventurer fooled into coming close will be caught in the blink of an eye.",
+  "kind": "desc"
+ },
+ {
+  "en": "A female knight who lives in darkness. One thrust of her matchless spear sends frail spellcasters to the grave. Now, 'Valkyrie' properly means a battle maiden blessed by the gods, yet she is a demon Valkyrie. If even demons have a god they serve, what manner of being is their god?",
+  "kind": "desc"
+ },
+ {
+  "en": "A male dream demon who flaunts his lewd symbol. Incubi prefer violating from within with words over the body. They dig up the desires their prey hides and can tell no one. Once held in their arms, you will never be satisfied by normal acts again, and roam unfulfilled, devouring body after body.",
+  "kind": "desc",
+  "note": "Kept at full strength ([JP] = violation)."
+ },
+ {
+  "en": "A demon who leads adventurers astray with her bewitching form. Even veterans say the Succubus is the one they can't handle, in more ways than one. Her familiar level drain is a real threat. Ah, and yet... to have all your hard-won experience sucked away in sweet dreams... wouldn't that be a fine life?",
+  "kind": "desc"
+ },
+ {
+  "en": "A higher demon than the Lesser Demon. It keeps the habit of calling its friends, but with greater physical strength and magic. It is fairly tough too, so it's dangerous unless you finish it off in one go.",
+  "kind": "desc"
+ },
+ {
+  "en": "A demon posing as an angel. He is kind at first to those who come seeking salvation, but once they are of no use, he steals their souls with a burst of laughter. Watching their faces as absolute peace of mind turns to despair is his greatest pleasure.",
+  "kind": "desc",
+  "note": "[JP] in source: 'he'."
+ },
+ {
+  "en": "A demon ruling witches who forsook the human world for dark laws. It holds rites and lays on feasts for witches barred from the radiant night revels. Destructive of will, yet its pact with the witches binds far tighter than vague feelings. To witches who can't trust people, the pact may be salvation.",
+  "kind": "desc",
+  "note": "[JP] = 'radiant night revels' (Walpurgis Night sabbath). [JP] = 'laws'. Compressed to fit."
+ },
+ {
+  "en": "Hell's jailer, who rules demons with the whip in hand. For a lesser demon, defying him means death. In battle he seldom dirties his own hands, preferring to summon his minions to do the attacking.",
+  "kind": "desc",
+  "note": "Hell Master as item/monster name."
+ },
+ {
+  "en": "A savage she-demon who smashes all with great claws. Famed for cruelty, she torments lovely prey hardest of all, till it breaks pathetically. Ramming claws down the throats of prey begging mercy, forcing out vulgar gags, and peering at faces warped by terror, dripping tears and snot: her daily routine.",
+  "kind": "desc",
+  "note": "Kept at full strength. Ends on [JP] (plural: these she-demons). Editorial: dangling 'Famed for cruelty, the lovelier the prey' fixed; 'their daily routine' -> 'her' to match the singular she-demon."
+ },
+ {
+  "en": "A demon embodying the flames of the underworld. It holds 1,024 legions and leads Demon Valkyries and Hell Masters. Unusually for a demon, it wields priest spells that call down divine miracles. Now, if the gods guarantee our justice, who can prove the justice of the gods?",
+  "kind": "desc",
+  "note": "[JP] = 1,024 legions."
+ },
+ {
+  "en": "A monstrous woman whose gaze turns onlookers to stone with terror. Not only her petrifying spells but her normal attacks are fierce. Few have seen her, but they say that when she laid down her arms, her eyes held a certain sorrow. As if she longed for days gone by.",
+  "kind": "desc"
+ },
+ {
+  "en": "A monster that rules the world of darkness alongside the Vampire Lord, the twin pillars of that realm. They say the Fiend King's blow shatters any holy armor, and the magic it unleashes blasts away any divine grace.",
+  "kind": "desc",
+  "note": "[JP] = Fiend King (item 'Fiend King Armor'). [JP] = divine grace/holy will."
+ },
+ {
+  "en": "A dragon fresh from its egg. As with every creature, the young are very cute. But this Tamagon is more than just cute. Even at this stage, a Tamagon has the power to scatter ordinary adventurers. Let your guard down and you'll be burnt to a crisp.",
+  "kind": "desc",
+  "note": "Editorial: dangling opener 'True of every creature,' fixed."
+ },
+ {
+  "en": "A pterosaur that rules the sky. It can fly by flapping, but it is better at gliding down on prey. Adventurers who stray into Rhamphorhynchus territory unaware are said to fall victim at times without even noticing it approach.",
+  "kind": "desc"
+ },
+ {
+  "en": "A two-headed dragon whose tail is also a head. Strong against attacks from all sides, it assails adventurers with tactics balanced in offense and defense. The two heads are known to get along well. Coiled up asleep with both heads side by side, it is surprisingly adorable.",
+  "kind": "desc",
+  "note": "Editorial: [JP] here = cute; 'lovely' read as 'beautiful'."
+ },
+ {
+  "en": "A dragon covered in red skin, also known as the lava dragon. It can breathe hellfire without end. It is one of the stronger dragons known. When you fight it, block the breath or fortify your front line with fire-resistant gear.",
+  "kind": "desc"
+ },
+ {
+  "en": "A dragon of frigid lands, also called the snow-ice dragon. Its breath freezes everything, turning flimsy weapons and gear to ice in an instant. Scarier still, it can freeze living things solid. Tales of 'What a fine ice statue... oh, a poor victim' never end.",
+  "kind": "desc"
+ },
+ {
+  "en": "A many-headed great serpent. Its breath aside, its number of attacks is staggering. Unless you pin it down well with single-target spells and such, it will steadily wear down your party's HP.",
+  "kind": "desc"
+ },
+ {
+  "en": "A dragon that hates having its back seen or being taken from behind. But it moves so sluggishly that it is always sad. All a Grannada can do is turn its head and glare bitterly at the foe with its one eye. The wistful nursery rhyme 'Behind the Grannada' is quite famous.",
+  "kind": "desc",
+  "note": "Nursery rhyme title echoes Kagome Kagome ('who is behind you')."
+ },
+ {
+  "en": "A dragon born of rainbow light. It swims through light, and when it mingles with clouds, it rains seven-colored diamond dust upon the land. Though a dragon, it is closer to a spirit or ghost.",
+  "kind": "desc"
+ },
+ {
+  "en": "A great dragon that 'swims' through the earth, burrowing into bedrock. Rarely seen, and unlike other dragons, little is known of its habits. Among adventurers there is talk that 'it may not be a dragon at all,' but its roots remain uncertain.",
+  "kind": "desc",
+  "note": "'Roots' pun on the name Rootless Tail kept."
+ },
+ {
+  "en": "A two-headed dragon. It can fly, but usually it slithers over the ground like a snake. Its sight, smell and hearing are keen, so once it targets you, escape is no easy matter. Out of respect for its strength, it is often depicted on emblems.",
+  "kind": "desc"
+ },
+ {
+  "en": "A four-legged dragon called the fire lizard. Rather than kin of dragons, it is really closer to a fire spirit. Its gills hold feelers that sense fire: it absorbs fire magic when there is too much and releases it when there is too little. Yet unaware of this role, it ambles about, tongue darting out to eat.",
+  "kind": "desc"
+ },
+ {
+  "en": "A wyvern holding the power of the earth. From its body, blessed by the spirits, it breathes holy breath. The Elemental Wieg is said to appear when harmony among those who live on that land is disturbed.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mighty wyvern clutching a natural emerald. Its magic is extraordinary too: on top of dragon attacks, it deftly showers foes with magic light amplified by the emerald. It prefers emeralds, but may make do with diamonds or rubies. At times they are seen fighting over a single emerald.",
+  "kind": "desc"
+ },
+ {
+  "en": "Revered by dragonkind as the 'Mother of Dragons' and the 'Dragon Queen.' She alone in this world knows true strength and beauty. She never forgives those who harm her kin; no one who has incurred her wrath has ever survived.",
+  "kind": "desc",
+  "note": "Dragon Queen matches the epithet (slice_35)."
+ },
+ {
+  "en": "Drifters who have lost their pride and goals and make a living just by attacking adventurers. In a sense, they're nastier than Thieves. For now, let's have them serve as stepping stones toward our own goals.",
+  "kind": "desc"
+ },
+ {
+  "en": "A samurai with no master. Their origins vary: some lost their lord, others roamed alone as they pleased from the start. Wanderers they may be, but their skill is real. Take them lightly and you'll become 'rust on the katana,' or whatever it is they call it.",
+  "kind": "desc",
+  "note": "[JP] (katana no sabi, 'rust on the blade' = be cut down) in katakana; [JP] kept as 'or whatever they call it'."
+ },
+ {
+  "en": "A boy swordsman who came to the Santorea Martial Arts Department to master the way of the sword. Picturing an ideal of his own, he tackles his classes with pure eyes.",
+  "kind": "desc"
+ },
+ {
+  "en": "Girl warriors who enrolled bursting with energy to learn martial arts. Weapons come in many kinds, from swords to bows, katana and spears, yet for some reason they chose axes. They look forward to martial arts, but their eyes also sparkle at the lunches the Academy serves.",
+  "kind": "desc",
+  "note": "[JP]: plural girls. [JP] = the Academy."
+ },
+ {
+  "en": "A dad who rose up, farm tools in hand, furious at the Earthworms that ravaged his field. His rage is turned not only on Earthworms but on every intruder in his field. Short of heirs, he seems to have given up on his son taking over the farm. He is now seeking farmhands in Teridon and elsewhere.",
+  "kind": "desc",
+  "note": "[JP] = dad/old man."
+ },
+ {
+  "en": "The sword's way deepens as you learn; 2nd year is when some lose their way. Stop a while and ask, 'Why do I hold a sword?' Even the famous legendary knight Kudmia spent 52 years in 2nd year, wars aside, and graduated from life still held back. But his lost soul kept training and is now a fine evil-spirit king.",
+  "kind": "desc",
+  "note": "New name: Kudmia ([JP]). [JP] read as [JP] (2nd year). [JP] = king of evil spirits (Wraith epithet 'Overlord')."
+ },
+ {
+  "en": "Second-years reveling in the joy of destruction as they swing their axes. This is when they start to handle their weapons as they want and grow sure of themselves in battle. Swinging an axe makes you hungry. Outdoing the boys, they shout 'Seconds!' at lunch.",
+  "kind": "desc"
+ },
+ {
+  "en": "Warriors who have lived off the land, now in forests, now in caves, now in the wilds. Perhaps because they've never known city life, cultural common sense doesn't apply to them. On the other hand, their physical and survival skills are high, so there is much to learn from them.",
+  "kind": "desc"
+ },
+ {
+  "en": "Warriors who train their bodies to the limit and crush foes with their own strength. Their fighting ability is truly remarkable. Their well-built muscles seem to be a point of pride; if they're friendly, they'll show off their physique without holding back.",
+  "kind": "desc"
+ },
+ {
+  "en": "A warrior fused with a chariot by alchemy. It turns tighter than it looks, and when it charges head-on, a good way to take the blow is hard to find. Fleeing isn't easy either: even if you escape onto mountain trails or other unpaved roads, it swaps its wheels for spiked ones and gives chase.",
+  "kind": "desc"
+ },
+ {
+  "en": "Seniors of the Santorea Martial Arts Dept., trained in mind, skill and body, grown as swordsmen and as people. Some become royal knights on merit. Santorea does not promote by years enrolled, so graduating from the Academy is proof of skill. As the teaching was harsh, the bond between graduates is strong.",
+  "kind": "desc",
+  "note": "Compressed to fit 312."
+ },
+ {
+  "en": "Healthy model student, a gold-star 3rd-year. Her endless appetite at last reaches into the lunchroom. \"Seconds aren't enough! Teacher, give me the whole lunch pot!\" \"Not on my watch!\" The axe meant to be swung for the world and its people now swings for her own desires.",
+  "kind": "desc",
+  "note": "[JP] (school award) / [JP] (flower mark on cheek) rendered as 'healthy model student, a gold-star'. [JP] = Teacher; no gender."
+ },
+ {
+  "en": "A high samurai from the eastern land. Fond of all things festive, this one tosses its hair in a dance of joy at any splendid event. That splendid zeal shows in its garb and arms, but is this how eastern nobles look? The curse-like makeup and tattoos on its face terrify all who see them. A child would scream.",
+  "kind": "desc",
+  "note": "No pronoun in source; 'it/this one' used (kabuki-style daimyo)."
+ },
+ {
+  "en": "A Lord fallen into the world of darkness. But even a rotten Lord is still a Lord. Its sword strokes flow without falter, showing the chivalry of darkness. With strong defense and mighty blows, it will surely drive you into a corner.",
+  "kind": "desc",
+  "note": "[JP] (rotten but still a Lord). [JP] = Lord (class)."
+ },
+ {
+  "en": "Royals clad in unfamiliar garb. Hedonists who think anything goes if it's fun, they burst into song and dance for no reason at all. Their mustache is their charm point; lose it and they can't bounce back for a while. In other words, go for the mustache.",
+  "kind": "desc",
+  "note": "Plural 'royals' to avoid gendering."
+ },
+ {
+  "en": "A female fighter who dearly loves to fight. Taking no lover, she satisfies every desire by driving her fists into others' bodies. Her whole body is a weapon, and she excels at close combat. If you want to writhe in agony from her passionate blow to the gut, charge right in.",
+  "kind": "desc",
+  "note": "[JP] = solar plexus, rendered 'gut'."
+ },
+ {
+  "en": "A samurai entrusted with the honored duty of raising the war banner, the army's symbol, in battle. In daily life without war, they also act as advisers on domestic affairs, and so are a bit of an intellectual. Perhaps from handling the real work, their skill is said to surpass their lord's at times.",
+  "kind": "desc"
+ },
+ {
+  "en": "Guard knights serving the Sovereign directly, an honored title only for those both skilled with the sword and sound in body and mind. The skilled tend to grow arrogant or stray. A sound mind in a sound body is rare; hence their worth. Should you touch their training-hardened palms, hold them gently.",
+  "kind": "desc",
+  "note": "[JP] = Sovereign, as epithet 'Sovereign's Sword' (slice_35). [JP] kept as 'their' (female guards)."
+ },
+ {
+  "en": "A lord of a land far to the east, seated on a stacked cushion called a 'zabutoon.' This lord crushes foes with political clout, not brawn, eyes women lewdly and calls them over when possible. For some reason, sweets set on gold coins delight this lord, so bring some if you want to get friendly.",
+  "kind": "desc",
+  "note": "[JP] = stylized 'zabuton' (floor cushion), rendered 'zabutoon'. Gold coins under sweets = bribe gag. No pronoun in source."
+ },
+ {
+  "en": "A Lord of the dragonewts. The ultimate warrior, uniting the power of dragons, magic, and the spirit of a king. It meets every foe with sword, spells and breath.",
+  "kind": "desc",
+  "note": "[JP] = dragonewt per glossary."
+ },
+ {
+  "en": "A samurai who has mastered the finest skills. In a master's hands even a nameless katana is a deadly weapon. Take the katana away, and a lightning-fast dagger will still slash you deep in the side. The subject of many tales, a living legend. If you face it, show it what the living of today can do.",
+  "kind": "desc",
+  "note": "Editorial: 'the strength of you who live now' was ungrammatical; same contrast (living legend vs you living now)."
+ },
+ {
+  "en": "A mage who has just learned spells. All they can do yet is cast fireballs or put you to sleep, but because their attack pattern never changes, adventurers who fall for it fall hard. Better safe than sorry.",
+  "kind": "desc",
+  "note": "[JP]: some parties get caught in the same pattern over and over."
+ },
+ {
+  "en": "Alchemy is often thought of as research into making gold, but refining gold is only one of its results. The alchemists' aim is to unlock the laws of this world and make all things more perfect. The Philosopher's Stone exists as the medium for that.",
+  "kind": "desc"
+ },
+ {
+  "en": "The door to knowledge is open to all. But graduating is no easy feat. Can they hold on to the dreams and hopes they feel now right to the end?",
+  "kind": "desc"
+ },
+ {
+  "en": "Students come from many regions, so their own clothes vary too. The school issues uniforms, but on days off each goes back to their homeland's culture, so the campus apparently turns into an international fashion show.",
+  "kind": "desc"
+ },
+ {
+  "en": "A woman trained in sorcery. She knows her spells better than a Mage does, so stay on your guard.",
+  "kind": "desc"
+ },
+ {
+  "en": "A tarot card user who draws fate in with great power. Depending on the situation, a tarot card may plunge you into unexpected danger. Better to defeat them before they get out of hand.",
+  "kind": "desc",
+  "note": "Gender not given; 'them'."
+ },
+ {
+  "en": "They do study, sort of, but now that they're used to student life, they tend to slack in all sorts of ways. All they've gotten good at is dodging problems and fudging things; no real skill to show. A dangerous age, when temptation easily leads one astray.",
+  "kind": "desc"
+ },
+ {
+  "en": "Schoolgirls who studied hard and can now handle quite a few spells. Compared to boys their age, they're more grown in body and mind. Once they learn how to wrap men around their fingers, they'll make fine High Sorceresses.",
+  "kind": "desc"
+ },
+ {
+  "en": "Sorceresses among the Witches who, with further training, mastered higher magic. Maybe everyone gets this way once they have room to breathe, but High Sorceresses are generally refined in manner. Leading junior Witches, they giggle as they toy with adventurers with their magic.",
+  "kind": "desc"
+ },
+ {
+  "en": "Wielders of more advanced alchemy, with a wider range of spells. At the intermediate level of alchemy, they begin to take an interest in 'the birth of life' as part of their research. Creating life is dogged by the matter of 'bioethics,' but will that ever reach their ears?",
+  "kind": "desc"
+ },
+ {
+  "en": "A witch's pet snail that escaped and gained wisdom. Alas, poor snail, its speed is just what you'd expect. But on top of a sorcerer's gifts, it has hard defense and decent stamina. Don't play 'Snail, snail, where are your eyes?' -- just defeat it quickly.",
+  "kind": "desc",
+  "note": "Nursery-song nod (dendenmushi, 'where are your eyes?')."
+ },
+ {
+  "en": "An alchemist out gathering materials while enjoying a carefree picnic. Gentle by nature, finding small joys in meeting people on the road. But adventurers alone seem to stir up mixed feelings, and on meeting one, the Picnicker flees at full speed.",
+  "kind": "desc",
+  "note": "Picnicker as chap speaker name. Gender not given."
+ },
+ {
+  "en": "Third-years on the eve of graduation, writhing in a storm of remedial classes. The Academy values tradition and pride, so without real skill you're readily held back. Some try to fake it with magic, but the teachers usually see through it and hold them back on the spot. Plan your studies.",
+  "kind": "desc",
+  "note": "[JP] read as [JP] (remedial classes; epithet [JP]). Editorial: 'the usual end is that teachers...' was stiff; meaning unchanged."
+ },
+ {
+  "en": "Third-years about to graduate. Afterward, some will be welcomed into the palace Magic Bureau, some sent to aid small farm villages as mages, others will seek deeper knowledge. What kind of mages will they become as they leave the nest? May happiness be theirs.",
+  "kind": "desc",
+  "note": "[JP] = Magic Bureau per glossary."
+ },
+ {
+  "en": "A fearsome mage who has learned every Mage spell. Naturally, they cast the strongest attack spells. They expect foes to target them first, so they always have a spell ready to go. If they spot a Kannagi among the foes, they pull a very sour face.",
+  "kind": "desc"
+ },
+ {
+  "en": "One who has completed the full course of alchemical study. She has even brought the artificial life 'Homunculus' into being; all that remains is the Philosopher's Stone. People with a goal seem full of life, and this old woman is no exception: she looks very spry.",
+  "kind": "desc"
+ },
+ {
+  "en": "A noisy bard who blares away on an instrument called the bagpipe. With a bellows-like air bag, a tune can be played without a break. But handling it takes real stamina, so by the time you can play it freely, you may have become a muscle-bound spellcaster.",
+  "kind": "desc",
+  "note": "'Bard' for the ctx class; source says [JP] (muscle-type mage); 'spellcaster' kept generic since a Bard is not the Mage class."
+ },
+ {
+  "en": "A mage of unknown identity in a clown's guise. It loves death and decadent games, and once its curiosity is sated, it laughs a shrill, strange laugh. Everyone wonders about its true face, but no one has seen it. It appears from nowhere and vanishes, so it may not even be human.",
+  "kind": "desc",
+  "note": "'it' used: the text itself doubts it is human; gender not given."
+ },
+ {
+  "en": "A priestess serving directly under Ashtel, goddess of growth and love. Her body, which captivates all, man or woman, is truly a divine blessing. But every rose has its thorns. A mistress of tarot arcana, nuclear magic and barriers, she will send you to heaven, body and soul.",
+  "kind": "desc",
+  "note": "Name not in MONSTER tables; romanize Sarijany if needed (not used in text). [JP] = 'love' (carnal sense). [JP] pun (die / ecstasy) kept with 'send you to heaven'. [JP] = 'nuclear magic' (Wizardry-style nuke spell)."
+ },
+ {
+  "en": "Not a few priests turn to evil alignments or seek to serve dark gods. Some Priest spells are frightening, but at this level, you can safely treat them as a not-very-good Fighter.",
+  "kind": "desc"
+ },
+ {
+  "en": "A novice maid with a bucket and a deck brush. Maybe because she is new, she makes blunder after blunder. She is hard to dislike, but you can still get hurt in the fallout, so you had better be careful.",
+  "kind": "desc"
+ },
+ {
+  "en": "Casts both Priest and Mage spells, but at this level, there is nothing much to worry about. Among foes of similar rank, Priests and Mages are scarier than Bishops. Don't let the title fool you into choosing the wrong target first.",
+  "kind": "desc"
+ },
+ {
+  "en": "Said to have gained eternal youth by eating mermaid flesh, but Mermaid meat does no such thing. Those scared by her ageless beauty and odd ways likely spread it. She prefers young female adventurers to mermaid: laughing eerily, she chases them, savors their soft flesh with her long tongue, then eats them.",
+  "kind": "desc",
+  "note": "Heavily compressed to fit 312 bytes; all points kept (rumour, real cause, preference, chase, tongue, eating)."
+ },
+ {
+  "en": "A female priest who lives by an alignment unlike ours. Take her lightly and you will get hurt. Yet one question remains. Any priest must worship some god, but plainly not one of the six. So who lends her power?",
+  "kind": "desc",
+  "note": "[JP] = the six gods (Six Gods of Creation in wmap); 'the six' kept short. [JP] -> 'them'. Editorial: 'them' could be read as the six gods; matched to the singular 'her' used earlier in the row."
+ },
+ {
+  "en": "A maid now trusted with key duties such as hosting guests. Tray of tea things in hand, hand on her hip, she exudes confidence in her work. Why not order something if you feel like it? You will pay with your life.",
+  "kind": "desc"
+ },
+ {
+  "en": "Traveling with adventurers, this one now fights better than a proper bishop. Still, a bishop is a bishop, so some dubious preaching goes on too. After thrashing foes with spells comes the fun, fun sermon time.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ascetic who irons out wrinkles in clothes under extreme conditions. Training spans mountains, seas, woods, rivers, sheer cliffs, even above the clouds. It demands calm, a mind strong enough never to be shaken by any danger... though few would ever attack such a bizarre type.",
+  "kind": "desc",
+  "note": "Extreme ironing parody; 'Ironist' kept."
+ },
+ {
+  "en": "A priest who goes around spreading the gods' teachings. Their faith is so strong that at some point they learned to fly. On finding prey, they creep up without a sound, surround it with their comrades, and begin to speak of love.",
+  "kind": "desc",
+  "note": "[JP] singular/plural unclear; 'the gods' teachings' chosen (six-god pantheon)."
+ },
+ {
+  "en": "A man who rings a bell to celebrate adventurers' departure for the next world. He must really love ringing it: he rings away with a broad (creepy) grin. And though it is very rare, in the dark world people have reportedly had him officiate real ceremonies.",
+  "kind": "desc",
+  "note": "[JP] could be a wedding (chapel); kept 'ceremonies'."
+ },
+ {
+  "en": "A priestly calling from a land far to the east. With strange paper and sticks, they fight undead monsters, spirits among them. But as foes, what you should fear is their 'Barrier'. It reflects most spells, so a party that relies solely on spells will struggle.",
+  "kind": "desc",
+  "note": "[JP] = 'Barrier' (ebt UI term)."
+ },
+ {
+  "en": "One who has reached the highest level of power among priests. A priest's true calling is healing and comfort, but in battle they use instant-death spells. To them, granting death is also a kind of mercy. That mercy, of course, we would rather decline.",
+  "kind": "desc"
+ },
+ {
+  "en": "Head maid of the labyrinth. With calm judgment and precise action, she meets her master's every wish. Her planner reportedly holds the master's schedule in fine detail. Leave it to her and all is well, but she is inflexible, which makes her strict too. In battle, her fierce kicks crush her master's foes.",
+  "kind": "desc",
+  "note": "Editorial: 'rigid, so also strict' was clipped and unclear."
+ },
+ {
+  "en": "'Master Bishop' has two meanings. One is master by trade, trusted with a church; the other is master as an adventurer grown as strong as one can get. It may be none of our business, but for a bishop, which life is more worthwhile?",
+  "kind": "desc"
+ },
+ {
+  "en": "A man who passes every judgment. Good or evil, heads or tails, lie or truth, IN or OUT--they draw a line through anything and settle it. But they are only human; bad calls happen. So when you dispute a call, the 'Challenge' system lets you summon another Linesman to judge again.",
+  "kind": "desc",
+  "note": "Compressed: [JP] (wide range) merged into 'draw a line through anything'; [JP] = 'settle it'. Editorial: [JP] = the party objects to the call; 'a call is unfair' asserted the call was wrong."
+ },
+ {
+  "en": "One who has mastered the way of the battle maiden. Following the gods' teachings, she skewers foes with a holy spear. Her code is very strict; she loathes impurity of body, and above all of soul: heart and faith. Her fixations may look comic to others. But have you found anything you believe in as she does?",
+  "kind": "desc",
+  "note": "Editorial: row switched from 'she' to 'their/they'; unified on the singular used in the first half (source [JP] = the class)."
+ },
+ {
+  "en": "The strongest, most evil pontiff, who cast off his self and gave his soul to evil. He wished his soul enslaved to his god; his self is all but gone. His deeds are bound by that god's doctrine. Knowing no doubt, he seems almost a puppet. Perhaps this is one form of 'ultimate happiness'.",
+  "kind": "desc",
+  "note": "[JP] = pontiff (slice_36 epithet uses 'Arch-Pope'); [JP] in source -> he."
+ },
+ {
+  "en": "A thief after adventurers' belongings. With a full party, they are not much of a problem. Leave them alone and they will run off on their own.",
+  "kind": "desc"
+ },
+ {
+  "en": "Deep in the forest, rangers stalk live animals nearly every day. Their focus and patience on the hunt are formidable, so if poison or paralysis slows you down, be prepared for the worst.",
+  "kind": "desc"
+ },
+ {
+  "en": "The lowest rank of ninja. Being a novice, its moves are still clumsy. At worst, a Fighter or Mage of the same level may even be stronger, but it does still have a small chance to decapitate.",
+  "kind": "desc"
+ },
+ {
+  "en": "A warden of the forest, merciless to any who despoil it. A famous Forest Guard is Polyte, though she is a woman. Her tale became the play 'Periatif'. The scene in which she, in tears, shoots the lover who broke the forest's law is unforgettable once seen.",
+  "kind": "desc",
+  "note": "[JP] = Periatif (chap slice_022)."
+ },
+ {
+  "en": "An elusive gentleman thief, a pest who always gets his prize, but most prizes were seized by force or wrongly taken from owners. After admiring them a while, he returns them to their owners, so he is a noble thief too. His three watchwords: 'Sharp', 'Pervy', 'Great Success'. Have all three and you are one too!",
+  "kind": "desc",
+  "note": "Heavily compressed ([JP] 'a nuisance' and [JP] repeated name folded in). [JP] rendered 'Pervy'; could also be read as 'metamorphosis/disguise' pun - flag."
+ },
+ {
+  "en": "An eastern counterpart of the courtesan. She also serves as an attendant, giving guests all manner of hospitality. The strange notes of her stringed instrument can pin foes down. She is also said to command a mysterious cat that beckons people in.",
+  "kind": "desc",
+  "note": "[JP] read as courtesan/entertainer; [JP] = beckoning cat (maneki-neko)."
+ },
+ {
+  "en": "A Blob that learned to use a bow. Human types have only two arms, but these have many tentacles, so when each one draws a bow and they fire in volleys, they are a handful. Luckily, their aim is poor, so stay calm and seize your chance to win.",
+  "kind": "desc"
+ },
+ {
+  "en": "Appears at night and downs prey in the dark. Its accuracy earned it the name of one who could shoot down the moon. In 'Periatif', it is known as Jenas, Polyte's rival. The scene where their arrows collide over the moon on the lake, sending sparks flying, has even been painted.",
+  "kind": "desc"
+ },
+ {
+  "en": "Some people just have sticky fingers: they pick pockets with no real need, or steal for fun. A Beauty lulls you with her looks and walks off with your valuables. And should she be found out, one stab of a hidden knife settles it.",
+  "kind": "desc",
+  "note": "Beauty treated as female ([JP], appearance-based lure); not explicit in source - flag."
+ },
+ {
+  "en": "A kunoichi who could no longer hold back her wish to show off her beauty to all. Other kunoichi scorn them as heretics, but such words don't reach these wild girls. Kunoichi arts honed even further--can you weather them?",
+  "kind": "desc"
+ },
+ {
+  "en": "A werebeast's special ability lets normal attacks carry poison, and a werebeast Ranger can follow up on itself. An Arc Launcher, being a werebeast, is a dire threat to parties with no poison resistance.",
+  "kind": "desc",
+  "note": "[JP] = self follow-up attack; [JP] = Ranger class. Editorial: lowercase race name werebeast, as in the rest of the file; article added."
+ },
+ {
+  "en": "A ninja holding the title of Summer. Don't underestimate it just because it is alone. Once it hides, you cannot touch it, and one by one your heads will be lopped off.",
+  "kind": "desc",
+  "note": "[JP] = Summa (ebt 'Summa ability', slice_36). | Accuracy: Summa -> Summer to match MONSTER2 row 3030 / glossary [JP] = Summer (ebt 'Summa ability' still unresolved in glossary)."
+ },
+ {
+  "en": "A small, imp-like race common on the continent. Being small, they are not much of a threat even when they attack by force. Just brush them off.",
+  "kind": "desc"
+ },
+ {
+  "en": "A race akin to the werebeasts, but more savage than the other races. They have their own culture and territory, and outside battle they have no contact with humans or elves.",
+  "kind": "desc",
+  "note": "Editorial: race name lowercase, as in rows 3555/3670/3675."
+ },
+ {
+  "en": "Like kobolds, a race akin to the werebeasts. With big appetites, they know 512 kinds of junk food, likely the fruit of chasing their own idea of fine food. The orc king is chosen by this gourmet score: the one who lets everyone eat better is truly king.",
+  "kind": "desc",
+  "note": "[JP] = 512; B[JP] = 'cheap eats'. Editorial: B[JP] = 'junk food', the term fixed for the orc gag in csvt g8 (3037/3049); race names lowercase."
+ },
+ {
+  "en": "A beastfolk girl with skunk blood. Maybe it's her skunk nature, but when worked up, she gasses. When angry, of course, but also when happy or sad; any feeling sets her off. So she is shunned, friendless and lonely. And then, feeling lonely, she gasses again.",
+  "kind": "desc"
+ },
+ {
+  "en": "Among beastfolk and demi-humans, the Ogre has the most commanding presence. Good at swinging axes and hammers, it has the most muscular body of all beastfolk. However sturdy your shield, it can hit you right through it. It often hangs out with goblins.",
+  "kind": "desc"
+ },
+ {
+  "en": "A demi-human that evolved in an odd way. It spears fish, and adventurers, with the spear in its hand. Weak to dryness, it prefers to live in marshes. Lately, orcs taught it about seasonings, and salt-grilled fish is said to be all the rage.",
+  "kind": "desc"
+ },
+ {
+  "en": "Half human, half horse. While toying with you with swift moves, she aims a bow said never to miss. Get behind her and you take a mighty kick. She likes to carry those she fancies on her back and gallop till sunset. If your hearts connect, why not watch the sun set together? How romantic.",
+  "kind": "desc",
+  "note": "Compressed: [JP] and 'adventurers' folded; 'the Centauress herself' -> 'she'."
+ },
+ {
+  "en": "A kobold sergeant. Back when power on the land was unsettled, kobolds had fangs in their hearts. But as territories split and culture grew, they slowly lost their wildness. This Sarge drills body and mind to wake the heart-fangs of soft, complacent kobolds.",
+  "kind": "desc"
+ },
+ {
+  "en": "An orc general. It hangs a big spiked iron ring on itself, believing it boosts defense. In truth, it hampers the close combat it excels at, so it is poor gear. Still, hefting that heavy ring with ease is impressive. Knows 1,000 B- and C-grade eats, and 24 kinds of food poisoning.",
+  "kind": "desc",
+  "note": "Compressed [JP]. B[JP]C[JP] kept as 'B- and C-grade eats' to keep the joke's grading."
+ },
+ {
+  "en": "A lizardman high priest, a king of intellect who reads their future and spreads Lizardmanship. Said to rival the Lizard King. It preaches justice to its kin, yet when it gets rare spices from orcs, it often claims the rites need them so it can hoard them. If caught, it gets a beating.",
+  "kind": "desc",
+  "note": "Heavily compressed: [JP] (guides) and [JP] (morals) folded into 'preaches justice'/'reads their future'. Lizard King = [JP] (not yet in corpus). Editorial: 'lies that rites need them to keep them for itself' was hard to parse."
+ },
+ {
+  "en": "A beautiful monster, human above and fish below. Trespass in their waters and they will come in groups to drive the intruder out. But for all their aggression, they are said to be keenly interested in romance. When they drive off a gentleman, they sigh among the waves.",
+  "kind": "desc"
+ },
+ {
+  "en": "A guard of the Ogre Lord. A trained ogre, it acts with discipline, for an ogre. When ogre brawn and goblin spells attack together, they become tough foes.",
+  "kind": "desc",
+  "note": "[JP] = Ogre Lord (not yet in corpus)."
+ },
+ {
+  "en": "A cute-looking beastfolk girl who hunts those who stray into the woods. Turn it around and ask, 'Why are your hands so hairy?' 'Why do your eyes gleam so?' 'Why are there fangs in your mouth?' She will answer you politely, while edging closer step by step with a hidden knife.",
+  "kind": "desc",
+  "note": "Editorial: 'hunts strays ... with a cute look' read as strays having the look; 'strays' also suggests animals."
+ },
+ {
+  "en": "A girl born to a tiger and a human. She thinks she is a tiger. Get near with ulterior motives and she'll surely bite, taking you for food. She has feline habits; before rain, she rubs her face very hard. But go near thinking 'Aww, cute!' and you will still get eaten.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Goblin whose talent for magic has blossomed. It knows both fire and ice spells, a nuisance when it hangs back. Then again, drag it to the front or poke it with long-reach weapons, and it is no problem at all.",
+  "kind": "desc"
+ },
+ {
+  "en": "Queen of the mermaids, ruler of the sea. In hand she holds a special spear, the 'Holy Sea Trident', and strikes intruders with lightning. She usually sits deep in the sea, but on calm full-moon nights she leads the mermaids up to the surface to enjoy a feast.",
+  "kind": "desc"
+ },
+ {
+  "en": "A dread lord who has lost reason and swings his sword at friend and foe alike. No longer human, he is a mad beast. Yet by chance even a Raver Lord may come to his senses. Then, unable to bear his sins, he will try to destroy himself... dragging those around him along.",
+  "kind": "desc"
+ },
+ {
+  "en": "A giant living in the forest. Not evil, but if you approach, it will usually shoo you away as a nuisance, or attack. If you are unlucky enough to fight it, try using wits, not strength.",
+  "kind": "desc"
+ },
+ {
+  "en": "Bull-headed, closer to a monster than a giant. One tale says a noblewoman pined for a young, sturdy bull, and through a cursed act she conceived and bore this monster. Its body is human, but it attacks with a bull's wits and ferocity.",
+  "kind": "desc"
+ },
+ {
+  "en": "A giant of fire that lives on flames. It prefers natural fire to man-made or spell-made flame. Old friends with Frost Giants. Them being together seems bad, but they are not Elementals, so it's fine. Shaking hands, singing arm in arm: no sweat.",
+  "kind": "desc"
+ },
+ {
+  "en": "A giant girl skilled at smithing. She lives in volcanoes and mountains, quietly making swords and armor. She works alone, and between jobs looks down the slopes hoping someone will come. Become friends and she will teach you her smithing skills.",
+  "kind": "desc"
+ },
+ {
+  "en": "A giant of ice. Fond of the 'Freezing Sword' that freezes what it touches, it likes to freeze foes and shatter them on the spot. It sometimes brings seafood to Fire Giants, but it always gets grilled piping hot. Inwardly, it sighs, 'It's better raw...'",
+  "kind": "desc",
+  "note": "[JP] = Freezing Sword (csvt slice_16 item)."
+ },
+ {
+  "en": "A giant with three faces. The top one thinks, the second moves the arms, the third the legs. Cheerful, it makes friends with anyone, but after a while its pushy nature starts to show. In a good mood, it can be seen racing over hills and fields with a booming laugh.",
+  "kind": "desc"
+ },
+ {
+  "en": "A giant girl who lives in the sea. Despite her huge body, she is shy and bashful. When a tsunami she caused by moving heads for ships or fishing villages, she frets that it will take small lives (which makes more tsunamis). Her dream is to be a lovely bride.",
+  "kind": "desc"
+ },
+ {
+  "en": "A giant cloaked in toxins. One theory says life evolves in many ways in many environments. Did this giant evolve this way to survive in toxic lands? Either way, it became a vicious giant whose very breath inflicts deadly poison.",
+  "kind": "desc"
+ },
+ {
+  "en": "A wounded giant was treated by a passing priest and, deeply moved, began training to be a priest too. That is a Cosplay Priest. But not knowing how to train, it can only swing a club while shouting spell names it picked up. Someone should guide it, don't you think?",
+  "kind": "desc"
+ },
+ {
+  "en": "Once a female spirit ruling the sky, she grew close to a wind spirit and made the other spirits jealous. As a result, she was dragged down from the sky to the ground. Her longing for the sky remains, but now she drifts over the land as one of the wind spirits.",
+  "kind": "desc"
+ },
+ {
+  "en": "God of death, ruling the end of life. Though young, this god grasps life and death deeply, fit to be the last hope of the Divine Realm. Grieving over, cherishing and accepting a body of both sexes, the young god... will the Path of Souls be repaired?",
+  "kind": "desc",
+  "note": "New name: [JP] = Yobient ([JP] pattern 'X of Oblivion', cf. Sanafeet of Oblivion); not named in text. [JP] = both sexes: no he/she used. [JP] = Path of Souls (chap slice_022). [JP] read as 'will the Path of Souls be repaired?'"
+ },
+ {
+  "en": "God of Being, who affirms that all things 'are'. Named Void's aide by the Divine Realm, it took office after Dehain stepped down. Clearing every obstacle to create the Eld, it outdoes all in its love of ruthless rule. Even Void is said to shudder at a will that cares not even for the land.",
+  "kind": "desc",
+  "note": "Fulfaray gender unknown -> 'it' avoided where possible; 'it took office' used for the deity. [JP] = stepped down (abdicated). [JP] (sic, [JP]) = clearing every obstacle. Editorial: [JP]([JP])[JP] = 'Being', as in the MONSTER title 'Fulfaray of Being' and row 3641 'god of Being'."
+ },
+ {
+  "en": "A wind-up doll made by people plagued by evil giants, to drive them off. Giants chosen as her playmates were kept playing until their lives ran out. With the giants gone, the people feared she would turn on them and banished her far away. The doll still wanders, seeking playmates.",
+  "kind": "desc",
+  "note": "[JP] = wind-up (karakuri) doll; source uses [JP] -> her."
+ },
+ {
+  "en": "One who reigns at the very top of the undead, also called a True Ancestor. With vast magic and many minions, it keeps lowly adventurers at bay. Even if you get in close, its sharp fangs are hard to fend off. Do mind your manners.",
+  "kind": "desc",
+  "note": "[JP] = True Ancestor (vampire progenitor)."
+ },
+ {
+  "en": "Narv is a spirit of darkness, but not an evil being. Numbra Narv, however, is another matter. Hailing from a world other than this one, they hold intense hostility toward this world. Meet them and you will be carried off, soul and all, and dyed the color of darkness.",
+  "kind": "desc",
+  "note": "[JP] = Narv (chap/csvt). Number unclear: Narv singular (named character), Numbra Narv plural 'they' per [JP]. Editorial: 'was not evil ... is not so' read as Numbra Narv being not-not-evil; tense matched to the present-tense bestiary."
+ },
+ {
+  "en": "The form that emerges once someone answers the 'Mockricketta?' question. Glowing fluid flows in its clear wings, making the whole Phosphor Moth shine faintly. It is said to forever guard whoever helped it emerge. Some regions call it a holy insect, an omen of good fortune.",
+  "kind": "desc",
+  "note": "[JP] = Mockricketta? (csvt slice_32 monster name, '?' is part of the name). Editorial: '...of a Mockricketta?.' had doubled punctuation and blurred the question/name; quoted as in row 3388."
+ },
+ {
+  "en": "A deep-realm fish that forever swims the world's 'Depths'. Savage, it tolerates no life but its own kind. With eyes beyond space, it attacks any caught in the 'Depths', human or Kin of Darkness. Live a normal life and you'll never meet it. So if this fish attacks you, it's your own fault.",
+  "kind": "desc",
+  "note": "[JP] = 'deep-realm fish' (new term); [JP] = 'Depths' in quotes. [JP] = Kin of Darkness."
+ },
+ {
+  "en": "Legend gives it a monkey's face, a tanuki's body, a tiger's legs and a snake's tail, yet no one has seen a nue's true form. Some say the nue has no form; others say it is because whoever sees its true form dies.",
+  "kind": "desc"
+ },
+ {
+  "en": "Don't keep denying your reflection, saying, 'That isn't me.' The 7th time, you set it free. Freed, the 'something' that played you beyond the glass will grin with your face, then attack to take your place.",
+  "kind": "desc",
+  "note": "Compressed slightly; [JP] kept as the 'something' that played you."
+ },
+ {
+  "en": "Azabas swore he would one day rule all, but as his growth stalled he felt the limits of his talent, and could not hide his fretting at Fendel's steady path to Demon Duke. At last he split with Fendel. As he writhed at his limit, a scorching wind of ruin blew. What power did that price buy?",
+  "kind": "desc",
+  "note": "[JP] = Fendel (chap slice_021). [JP] = Demon Duke (csvt slice_28 / chap slice_019). [JP] = 'scorching winds of destruction' in chap; 'scorching wind of ruin' here to fit. Heavily compressed."
+ },
+ {
+  "en": "Far too bizarre to be called a dragon. Said to be the forebear of dragons, or a monster born of gathered dragon wrath; the truth is unknown. Its round dome serves as an eye, seeing not just light but darkness and magic too. Whoever obtains a Cetus Dragon's eye is said to gain its power.",
+  "kind": "desc"
+ },
+ {
+  "en": "A LEGENDARY GOD OF WAR, SAID TO BE THE FINAL GOAL OF KNIGHTS. ITS GEAR HOLDS MYTHIC BEAST POWER AND RULES 5 AXES: FIRE, WATER, EARTH, METAL, WOOD. IT DESCENDS ON LANDS WHOSE BALANCE HAS BROKEN AND PURGES THE SOURCE OF THE CHAOS WITH RAGING MIGHT.",
+  "kind": "desc",
+  "note": "Source is all hiragana with detached dakuten (retro 8-bit text style, deliberate); rendered in ALL CAPS to echo old-console text. Name not in MONSTER tables (War Master). [JP] read as [JP] 'mythic beast'; 5[JP] = five axes (Chinese five phases)."
+ },
+ {
+  "en": "Boss of the mages. Spell-formula tattoos on his body boost his magic further. Pampered with fine food, carried around and skipping training, he is rather flabby. As he puts it, 'This fat's packed full of magic, y'know.' In battle, he works the earth with one hand and the sky with the other to crush foes.",
+  "kind": "desc"
+ },
+ {
+  "en": "A female doctor of the dark world. In battle she stings like a bee; tending the wounded, she is a lovely butterfly. Her specialty: combo vaccine shots. It is a cure-all that wards off any disease, but between the syringe's size and how she uses it, patients drop out in droves.",
+  "kind": "desc",
+  "note": "Name [JP] not in MONSTER tables (Holly/Holy?) and not used in text. Compressed."
+ },
+ {
+  "en": "A Bow Saint passed down in the tale 'Periatif'. Each shot from her bow surely pierces 5 targets. The bow she is said to have used bears her name and is the dream of every archer. In the Wastelands she hunts Demon Dukes, and she seems to have faced Taizarti before.",
+  "kind": "desc",
+  "note": "[JP] = the Wastelands (chap slice_021); [JP] = Taizarti."
+ },
+ {
+  "en": "A spider-like enchantress. From near her rear she spins sticky thread to snare prey. It is hard to cut, so escape is not easy. But she has a weak spot: thrust an arm into the spinneret and rip out the thread's source to wear Taranti down. Not that she'll easily let you.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bizarre giant of many heads and arms. In the Age of Ada he upheld Kondar's realm with the Aleed Painter and others. Since the dragon age, he curses the gods and the land, and hates the former age's five races, humans, elves and all. 'We lost to such tiny things?' The shock gives him wry laughs and great rage.",
+  "kind": "desc",
+  "note": "New names: [JP] = Ada, [JP] = Kondar, [JP] = Allied Painter(s) (unclear; could be a creature/race name). [JP] read as 'five races of the former age' - uncertain which era [JP] refers to. Source uses [JP] -> 'he'. Compressed: [JP] -> 'since the dragon age'. | Accuracy: [JP] = the Aleed Painter (MONSTER3 row 3166; a single court painter per row 3621) and others, not a group 'Allied Painters'; Kondar is a king (row 3621), so 'Kondar's realm'."
+ },
+ {
+  "en": "Learning her mother's soul was trapped in the Abyss, Sephirine rashly challenged Apasha. As she was nearly absorbed, Rogera, former god of Dark Oblivion, appeared. The unchangeable Path of Souls and a girl's will to save her mother spoke of new hope. Named Demon General of Dark Oblivion, she went to Sanafeet.",
+  "kind": "desc",
+  "note": "New name: [JP] = Sephirine (her name before becoming Sephiriege). [JP] (sic, [JP]) = the Abyss (chap slice_022). [JP] = Demon General of Oblivion (chap slice_022). [JP] -> 'hope' to fit. | Accuracy: glossary [JP] = Dark Oblivion in all compounds ([JP] 'god of Dark Oblivion', [JP] 'Demon General of Dark Oblivion'); trimmed 'about to be' to fit 312."
+ },
+ {
+  "en": "'A shield in my right hand, and in my left, a shield too! ...Huh?' At a cave mouth stands a statue of a boy who carelessly equipped two shields in battle and died. At some point, the statue began to spar with anyone who talks to it, even while dozing off.",
+  "kind": "desc",
+  "note": "Text says [JP] (boy) for the statue's subject; Abi glossary gender unset - not named in this row."
+ },
+ {
+  "en": "Dragons once flourished, but that age ended; now five races, chiefly humans and elves, bear the task of creating the Eld. Forsaken, the dragons rose against the gods, aided, it's said, by other beasts. The revolt was crushed; the dragons and the holy tiger who aided them were cursed to wander the land forever.",
+  "kind": "desc"
+ },
+ {
+  "en": "A phantom said to appear in the exact likeness of whoever stands before it. \"Whoever sees it is near death.\" \"Both are really you; your soul and body have split apart.\" \"A terrible monster is copying your form.\" The rumors never end.",
+  "kind": "desc"
+ },
+ {
+  "en": "The grand professor who takes on challengers at the Magical Party! With a whistle in the mouth, the prof will tweet-tweet everyone's magic away! Show off your amazing magic and maybe you'll get something good~!? Prof. Rombino is the prof's half-sibling: same mother, different father!",
+  "kind": "desc",
+  "note": "Gender of Nambino not settled: the source says the two professors are [JP] (half-siblings, same mother, older sister + younger brother) but does not say which is which, so no pronouns."
+ },
+ {
+  "en": "The grand professor who takes on challengers at the Martial Arts Tourney, rating everyone's attacks with a wave of a war fan~! Physical attacks can't kill the prof, but really strong ones still seem to be a weak spot. Don't bully the prof too much, okay?",
+  "kind": "desc",
+  "note": "[JP] rendered 'war fan' (gunbai). No pronouns for Rombino (see row 2)."
+ },
+ {
+  "en": "A demon who loves corpses. She starves for love, yet madly hates that the world won't bend to her will. An incident gave her power over corpses; the dead, doing her every whim, gave her her first fulfillment and thrill. Now, closer to the dead than the living, she pours a twisted, one-sided love on corpses.",
+  "kind": "desc"
+ },
+ {
+  "en": "A spirit stained by darkness, long serving as Dark Mayer's right hand. As a former spirit, Shaharon wields vast magic and gives every foe a primal vision of death. What feelings might Shaharon hold for fellow spirits Rafa the Sun Spirit and Yorfa the Moonlight Spirit?",
+  "kind": "desc"
+ },
+ {
+  "en": "Kin of Darkness of the Dark Realm's direct line, Dark Mayer worships Numbra Malem, King of the Dark Realm, and enjoys high hopes in return. Given several direct-line lands, Dark Mayer became known as Mayer. Fond of battles of wits, Dark Mayer usually holds back, but none can stop a serious Dark Mayer, they say.",
+  "kind": "desc",
+  "note": "Dark Mayer: no gender in source or glossary; name repeated instead of pronouns."
+ },
+ {
+  "en": "The spirit who rules the moon, known as the Moonlight Spirit. Yorfa became the Moonlight Spirit out of love for Rafa, who became the Sun Spirit for the land's sake, but in single-minded devotion to him, now lends a hand to beings of the Dark Realm...",
+  "kind": "desc",
+  "note": "The source's two \\n are mid-word layout artifacts ([JP] / [JP]) and were dropped. 'him' = Rafa, from the source's [JP]; Yorfa gets no pronoun."
+ },
+ {
+  "en": "Lover of Yorfa the Moonlight Spirit. Sun Spirits rank first to third; higher means a lighter load and more power. Rafa, third rank, is worn ragged by endless overwork; this waning power let the Kin of Darkness in. On Zaalhaut's word, the ruler of old modeled Roscadil Palace on the Palace of the Sun in thanks.",
+  "kind": "desc",
+  "note": "[JP] rendered 'the ruler of old' (sovereign's gender unknown)."
+ },
+ {
+  "en": "Dark Mayer's form with power unleashed, granted strength by the King of the Dark Realm. The cruelty long kept hidden takes shape as a vicious wave of power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Dark Mayer, drawing the power of the Void Axis through Numbra Narv. The spear of dark light that appears, warping the space around it, will shatter your hearts and bodies with ease. Can you protect the land from the encroaching darkness?",
+  "kind": "desc",
+  "note": "ctx name is [JP] (Belsconi) while row 11 and the corpus have [JP] (Welsconi); the description itself names neither."
+ },
+ {
+  "en": "An envoy of Numbra Malem who appeared from the Dark Realm, following Welsconi to aid the drive for supremacy.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Demon Duke who wields many arts of illusion. The eerie fog spewing from its head aids Reckdas' illusions; those caught in it stand no chance unless they escape the fog. Wrapping a whole town in it to destroy it is child's play: the fog is called \"Reckdas' Evil Fog.\" Reckdas recently took a seat on the Yaha.",
+  "kind": "desc",
+  "note": "'Reckdas' Evil Fog' reuses the ITEM.CSV name of the same term. Epithet [JP] in ctx not used. Editorial: possessive matched to the fixed item name \"Reckdas' Evil Fog\" in the same row."
+ },
+ {
+  "en": "A Demon Duke whose castle, Miasuna, lies in the east of the Crestard Continent, yet who prefers to be called a 'Fiend' over 'Demon Duke'. It is said to be the root of the Eastern culture found here and there in the land, and to hold very ancient wisdom... But why is a Demon Duke in a land where people live?",
+  "kind": "desc",
+  "note": "[JP] romanized 'Maen' (a Buddhist term for demonic hindrance); no corpus rendering. No pronouns (Asunamuchi uses the feminine-archaic [JP] in chap slice_016, but no glossary gender). | Accuracy: [JP] = 'Fiend', as glossary [JP] 'the Heavenly Fiend' and MONSTER3 row 3154 'Fiend Asunamuchi'."
+ },
+ {
+  "en": "A song-loving Demon Duke. Once a mere flower, it enjoyed the songs of visiting spirits, but land dwellers took the spirits' homes and hurt them. A spirit's farewell tears for its beloved place gave it life and freedom. Its songs span healing to ruin; it means to ally with spirits in the Divine Realm's stead.",
+  "kind": "desc",
+  "note": "[JP] read as [JP] ('in the Divine Realm's stead'). Editorial: 'enjoyed visiting spirits' songs' read as visiting the songs; trimmed elsewhere to stay within 312."
+ },
+ {
+  "en": "A Demon Duke made of a bizarre lump of flesh. Grotesque, yet its skin is smooth beyond compare; so smooth that just standing still, it slides off down the slightest slope. Its tentacles are vital walking aids for Endwards. If Endwards attacks you, flee uphill and your odds of survival rise sharply.",
+  "kind": "desc"
+ },
+ {
+  "en": "An otherworldly living room drifting among many lands. An old couple who dabble in alchemy live inside and warmly welcome visitors. Its outside is coated in a special material said to \"repel every watcher's eye.\" The mage Zanu once left a daughter here for a while to shield her from the world's eyes.",
+  "kind": "desc"
+ },
+ {
+  "en": "Fanisakil is a Demon Duke that lives as a parasite on creatures of the New Lands. It can remake its form to suit its host's abilities, in a sense achieving immortality. Right now it seems to be living in a bivalve. When you fight it, take care not to be made its next host.",
+  "kind": "desc"
+ },
+ {
+  "en": "A court painter who once served Kondar, King of Ada. Since the dragons seized the ruling race's throne, the painter has coolly kept recording history on canvas, preserving the giants' fate in pictures. These paintings hide nothing of the gods' mercilessness either, so the gods find the painter a nuisance.",
+  "kind": "desc",
+  "note": "[JP] = 'Kondar, King of Ada' (Ada = the giants' age; cf. slice_45 Hecatoncheir row). New names: Aleed Painter (from item 'Aleed Palette'), Kondar, Ada."
+ },
+ {
+  "en": "True name: Saura Rezants Boriam Swiera, \"Foolish yet Great Woman of Mercy, or Milk Queen.\" Mad in mind and body, the queen gives her flowing milk and body to the hungry. Even the Kin of Darkness she nursed; they poured in magic crying \"For the milk! For the milk!\", making her mighty. Yaha member; origins murky.",
+  "kind": "desc",
+  "note": "True name [JP] romanized 'Saura Rezants Boriam Swiera' (new). [JP] = 'Milk Queen'. [JP] compressed to 'the hungry' to fit."
+ },
+ {
+  "en": "A Demon Duke with a distinctive porous, tiered nest called the Hivanask. This burrow has strange powers: a being of any size fits into one hole. In a crisis it can even move with a vast army inside. Even Seot Mar doesn't know who is in it. Its flaw, perhaps: turn it upside down and gravity dumps everyone out.",
+  "kind": "desc",
+  "note": "Accuracy: name matches MONSTER3 row 3171 'Seott Mar' (glossary has [JP] 'Seot's Demon Nest': conflict flagged). Editorial: lead decision Seot (not Seott); inverted clause reordered."
+ },
+ {
+  "en": "A Demon Duke of the Yaha, morbidly obsessed with all things unclean. Abducting women and making love to them, it slowly teaches their bodies how wonderful its tastes are, tearing off the garments of reason one by one to bare the heart's core. And at last the woman herself begs: Please, accept the ultimate love.",
+  "kind": "desc",
+  "note": "Castromandi: no gender in source, 'it'. [JP] kept as the woman's plea 'Please, accept the ultimate love.' Not softened."
+ },
+ {
+  "en": "A Demon Duke of the Yaha, given life when the King of the Dark Realm lit its flame. Menolist prizes gentlemanly conduct and strongly wishes every fight to be a duel, though not when the foe is from the New Lands. Menolist strongly backs restoring Numbra Malem to power through the Phase Shift.",
+  "kind": "desc",
+  "note": "[JP] = 'gentlemanly conduct' (does not assert gender)."
+ },
+ {
+  "en": "Ponyapo, of all things! Why him, now of all times? Speculation abounds, but even past cases yield no convincing answer. Still, that it is Ponyapo has been proven beyond doubt, and we must accept it as reality. But, we say again: Ponyapo, of all things.",
+  "kind": "desc",
+  "note": "'him' follows the source's [JP] for Ponyapo."
+ },
+ {
+  "en": "A direct-line Demon Duke born of the Dark Realm. Deemed legendary, Taizarti is called the mightiest of the Kin of Darkness, and leads well: the skill to unite such colorful types is worth learning, foe or not. The arrow in its head is from a fight with Polyte; pulling it out is a bother, so it stays.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Demon Duke of the so-called direct line. Those swallowed by Danue's blue head are slowly drained of strength as nourishment and waste away. Those swallowed by the red head regain it and are restored. But the moment they leave the red head, the blue one swallows them, so they recover and wither forever.",
+  "kind": "desc",
+  "note": "[JP] romanized 'Danwe' (new; also used in row 40). [JP] rendered 'head' (blue head / red head). | Accuracy: Danue per MONSTER3 row 3181."
+ },
+ {
+  "en": "A direct-line Demon Duke, a dark mentor seeking to bring down and subdue the holy. Its Yoringen lops off the heads of all who defy it. It's usually quiet, but when its jaw drops, \"VAAH!\", the merciless rakshasa's hour comes. Rumor says shutting the jaw by hand, \"FUGO!\", averts carnage, but none has done it.",
+  "kind": "desc",
+  "note": "[JP] rendered 'bring down and subdue the holy' (uncertain). [JP] = 'Yoringen' (ITEM.CSV). [JP] = rakshasa."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Good Effort Award'\nChasing the mystery girl, the odd creature enters the Void Axis. But the King's power: PUGYU~ to bits. Guts out, factors oozing, two gods jolt in shock. Drooly squishy super-solace: Creation Demon Prize, Olpurin! All go home together~ \"Hey hey, Urna. It's Papa, see?\"",
+  "kind": "desc",
+  "note": "Library-card header: [JP] = 'Not for loan:'; the full-width-space padding that makes the 12-char header lines is rendered as \\n (header/call number/title/body). Same format in rows 28-32 and 37-43. The body is deliberate nonsense wordplay ([JP] water-flea pun -> 'to bits', [JP] -> 'Creation Demon Prize'); [JP] 'Olpurin', [JP] 'Urna' romanized (new). ♪ -> '~'."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Holy Selector Argument'\nSystem servants are chosen by holy selection via Arguments: Mirage Ring, Holy Remains, Radiant Scales, Waxstone Seat... With a worthy holder, each calls them to the System; it can't pick librarians itself. Some, like the Holy Wisdom Ring Beldoll, roam the land.",
+  "kind": "desc",
+  "note": "Argument per chap slice_016 ('Arguments'). New item names: [JP] Mirage Ring, [JP] Holy Remains, [JP] Radiant Scales, [JP] Waxstone Seat, [JP] Holy Wisdom Ring Beldoll (Beldoll per chap). 'them' = the worthy holder."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Deltoi'\nAn old couple traveling the lands, after much research, found Deltoi, which evades the System's eyes. It can coat a room or be folded into a Mirage Cloak; handy, with many uses. Those who evade the System's eyes must not be overlooked.",
+  "kind": "desc",
+  "note": "[JP] rendered 'Mirage Cloak' (= item [JP]; inferred from row 76, where Hisbert never parts with hers). Deltoi here is the concealing material itself."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'What the Factor Leads To'\nThe Deprus Factor, an unknown Ashtel left, stirs unseen as the converging world ends. The strange creature: a fount of life. The Cursing Land: a refuge for the defiant. The Fourth Gen: kings of a new world. Will True Crystal sun shine on Radiance's laws?",
+  "kind": "desc",
+  "note": "[JP] 'the Cursing Land' (new, uncertain). [JP] = 'Radiance' (MONSTER3 slice_39 row 3278). [JP] shortened to 'Fourth Gen' to fit. [JP] = 'the defiant'."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'A God of Dark Oblivion's Whim'\nSanafeet, the new god of Dark Oblivion, finds a strange life in the Wastelands: a fluke, dead before birth, astray from the Path of Souls. To protect this rare specimen, Sanafeet descends to the land, moves a corpse, and holy-fuses with the dead son.",
+  "kind": "desc",
+  "note": "[JP]: whose son is not stated; kept as 'the dead son'. | Accuracy: [JP] = god of Dark Oblivion (glossary); [JP] = the Wastelands (glossary proper noun); [JP] = Path of Souls as in row 3584 / chap."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Demonic Power Struggle'\nThe demon lands split in three. This is no cause for joy: they may grow greater than ever. Thus more matters than ever demand haste. We wish to settle every current agenda item at once, then face it.",
+  "kind": "desc",
+  "note": "The source's trailing \\n was dropped. [JP] read as [JP] ('then face it')."
+ },
+ {
+  "en": "Ryug is the collective name for the Fourth Generation people. Improved from the five primal races, the Third Generation, they call themselves perfect beings. They hold a power unlike any weapon or magic before, and those whose power leans toward protection are called Shield Ryug.",
+  "kind": "desc",
+  "note": "[JP] = 'the five primal races'."
+ },
+ {
+  "en": "If those strong at protecting themselves are called Shield Ryug, those strong at healing others are called Healer Ryug. Healer Ryug are said to have the power to instantly heal not only outward wounds but even wounds of the heart.",
+  "kind": "desc",
+  "note": "Accuracy: glossary [JP] = Healer Ryug."
+ },
+ {
+  "en": "Those with extremely strong power to attack foes are called Destroyer Ryug. It's said that when Ryug of shield, healing and destruction appear together, anyone of any power will bow down, so Ryug prefer to act in threes when they can.",
+  "kind": "desc",
+  "note": "Accuracy: glossary [JP] = Destroyer Ryug."
+ },
+ {
+  "en": "A Fourth Generation Ryug man, recommended by Void, god of subspace, and sent to Elminage as a next-librarian candidate. Gifted even among gifted Ryug, Hevayur believes his own race will find the Eld, so he loathes those failures, the giants, dragons and five races, and takes being ranked with them as an insult.",
+  "kind": "desc",
+  "note": "Hevayur male (glossary). [JP] = 'god of subspace' (new). [JP] read as [JP] (typo) = next librarian."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Unknown Power'\nA power emerges from a place unlike light or darkness. Its form closely resembles spirits, and several individuals have been confirmed. Those sent to investigate remain missing. Another survey team must be sent.",
+  "kind": "desc"
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Changing of the Guard'\nDehain's successor upon retirement shall be promoted from Void's aides: Fulfaray is appointed, whose ability and thinking are deemed excellent for a god of Being. Henceforth, Fulfaray's directions are to be followed.",
+  "kind": "desc"
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Swallowed by Many Malices'\nThe many malices squirming in Bernaf draw in even the malice of beings long withered. Living, vicious desires tear the netting of the eternal world they strayed into. The God-Eater now transcends even the Kin of Darkness, reigning as a great calamity.",
+  "kind": "desc",
+  "note": "Title shortened from 'One Swallowed by Many Malices' to fit. [JP] = 'malice', [JP] 'Bernaf', [JP] 'the God-Eater' (new)."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Bringer of the End'\nThe Nonsense Codon that Danue guides pulses on at light's opposite pole, passed on to the Word of Ending. When the Word of Ending slips smoothly into the System, all will halt, and ********. Is this the end the Divine Realm wished for?",
+  "kind": "desc",
+  "note": "[JP] kept as ********. [JP] = 'the Word of Ending' (new). | Accuracy: Danue per MONSTER3 row 3181. Editorial: garden-path ('Codon Danue' read as a name); 'that' added."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'One of the Deep World'\nOne who survived the Great Phase Shift again, still fulfilling a single mission. Heir of an ancient holy age even the gods forgot? One who knows Tonak-Kanacol well takes one fish and gives it to a young heir in beast form. Deep-realm fish to deep-realm beast.",
+  "kind": "desc",
+  "note": "[JP] = 'Great Phase Shift'; [JP] 'Tonak-Kanacol'; [JP]/[JP] 'abyssal fish/beast' (new). | Accuracy: [JP] unified with row 3590 'deep-realm fish' ('abyssal' collides with [JP] the Abyss)."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Law of the Real Axis World'\nWhile this world is this world, it cannot escape light's rule. Light is the absolute law. Space and time, bow to the will of light. The divine might of time is a false authority, a power that does not exist. I am the Opinion of Light, Spectoria!",
+  "kind": "desc",
+  "note": "[JP] = 'Real Axis' (chap slice_017); [JP] = 'Opinion of Light' (chap slice_021)."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'The Librarian's Last Duty'\nHisbert's last duty: naming Hevayur for the next term. The vote: Aznand 2, Hevayur 4, Zoni 1. The expected runoff never came; next is Hevayur. Behind a relieved Void, Fulfaray's heartless smile.",
+  "kind": "desc",
+  "note": "The source's \\n before the last phrase was dropped. [JP] = the runoff people expected did not happen."
+ },
+ {
+  "en": "The poster girl of the tavern in Algrantz. A bright, ever-smiling girl who makes friends with anyone. Her flaw is a sloppy memory: she brings something other than what was ordered and soon forgets what she's told. But once they see her smile, everyone forgives her: \"Oh, well.\"",
+  "kind": "desc"
+ },
+ {
+  "en": "An old dragonewt who has run an inn in Algrantz for years. Lazy, he hates making beds and preparing for guests, so he puts adventurer after adventurer in the no-fuss stable. Since his wife, who kept him in line, passed away, his sloth has grown. Some adventurers resist, but most bow to his brute strength.",
+  "kind": "desc"
+ },
+ {
+  "en": "The woman who owns Kembeck's Shop. She first ran it with her adventurer husband. Nights spent appraising the goods he brought home left her with a hard glare. Though he has passed away, she still keeps the shop full of memories. Her son has a shop in Roscadil.",
+  "kind": "desc"
+ },
+ {
+  "en": "A young bishop with a keen head for business. He openly craves money, rank and fame, all that clergy (at least outwardly) hold taboo. When he sees an injured adventurer, he can't help seeing money. His dream is to build a temple bearing his own name. Go for it, Hardy the philistine!",
+  "kind": "desc"
+ },
+ {
+  "en": "King of Algrantz. He calls himself a wartime king and leaves all but military matters to trusted vassals. He is foul-mouthed and tiresome, but that seems to be his way of communicating.",
+  "kind": "desc"
+ },
+ {
+  "en": "As she won renown as an adventurer, Balgert spotted and hired her for the Training Hall. Polite and caring, she overuses sound effects like \"Zubabaan!\" in lessons, so she's a bit cryptic. Her sword pupils are easy to spot, as the habit rubs off; it has even leapt the Hall to a girl at a certain tavern.",
+  "kind": "desc"
+ },
+ {
+  "en": "A man who enjoys tea time in a corner of Wells Garden from sunrise to sunset. He is in fact the Executor of the Roscadil Empire. Without his approval, no one may meet Her Majesty. Every day, they say, adventurers and notables bearing sweets and tea form a long line to see him.",
+  "kind": "desc",
+  "note": "[JP] rendered 'Executor' to match Branon's title [JP] in wmap; [JP] = Her Majesty (Rianna, female)."
+ },
+ {
+  "en": "The gardener of Wells Garden. In his hands, plants grow lush and lovely as works of art. Lately he found a sapling that talks noisily. It begs to be planted soon, yet gripes endlessly: \"I want somewhere wetter,\" \"Not enough sun.\" Even he seems fed up.",
+  "kind": "desc"
+ },
+ {
+  "en": "The lead developer of the magic airship. Madulay holds that \"technology is meant to save people, not to kill them,\" and is not keen on building the airship, a warship. Yet, trusting Rianna, Madulay pours everything into finishing the airship again today.",
+  "kind": "desc",
+  "note": "Madulay: no gender; name repeated."
+ },
+ {
+  "en": "A swordmaster who mastered the secret arts. She honed her blade traveling from city to city, then one day suddenly lost interest in everything, gave up the sword and took up philosophy. She takes pupils on a whim, but her extreme hands-off style earns only bad press. Her most recent pupil is Milonya.",
+  "kind": "desc"
+ },
+ {
+  "en": "The only son of Gia of Kembeck's Shop. Excitement-loving Toner learned reading, writing and sums, then promptly begged Gia for a little shop in Roscadil. Word of the little shopkeeper spread fast, and before long the shop was one of Roscadil's famous stores, even stocking the knights' surplus gear.",
+  "kind": "desc",
+  "note": "Source says [JP] ('only son') for Toner; glossary leaves Toner's gender unset on purpose (wmap writes [JP]). 'only son' kept as the source's wording; no other pronouns."
+ },
+ {
+  "en": "A girl who appears when Toner's curiosity peaks and a rainbow of excitement envelops Toner's body. Peek into Toner's Armory at night after closing, and you may see the shopkeeper leaping about, swinging a rod and shouting \"Sanafeet Death Motion!\"",
+  "kind": "desc"
+ },
+ {
+  "en": "Empress of Roscadil. As if driven, she pushes mana furnace research, and lost half her body in a failed test. Barred from the site since, she won't listen. Unless she draws power from the furnace every two days, half her body won't move, they say. She loathes crude Balgert and the nature-loving, useless ogres.",
+  "kind": "desc",
+  "note": "[JP] = 'the nature-loving, useless ogres'. Compressed: 'Barred from the site since, she won't listen.'"
+ },
+ {
+  "en": "A girl swordfighter whose splendid beard is adorable. She tore it off Shimerief as a graduation keepsake. Something else was supposed to be given, but Milonya had her eye on that beard all along; she may even have become a pupil just for it. Smitten with Decoy at first sight, she can't hide her lust.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Magic Puppet full of interest in humans ever since an alchemist made it. It pesters humans and dumps trouble on them. Its pranks sometimes go too far, but a real scolding leaves Decoy crestfallen, repenting in the shade of a tree. Maybe it's just lonely, after all. It finds Milonya physically repulsive.",
+  "kind": "desc",
+  "note": "Decoy: glossary gender unknown; 'it' (a magic puppet). Editorial: lead term [JP] = 'Magic Puppet' (capitalised)."
+ },
+ {
+  "en": "An old goblin who runs a magic shop in Lumisthenes. Goblins and ogres form closed societies, so much knowledge stays buried within them. Seeing that as a loss of knowledge, Lotz came to Lumisthenes to put his own to use. Through his knowledge, people learn new sides of the land.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Temple of Rafa fortune-teller. Skilled, but so addicted to gambling she's called \"Lumisthenes' Disgrace.\" Up late at the casino, she often dozes off during day readings. Out of food money, she borrows from those around her, Mayleen first. She even owes Wattner some. Truly hopeless.",
+  "kind": "desc"
+ },
+ {
+  "en": "Lumisthenes has a temple to Rafa, so it is naturally seen as the land's center. When matters affect the land, it hosts the Central Council of rulers from all over, chaired by Wattner. Wattner puts the land first, and perhaps for that reason sees things a bit differently from the other rulers.",
+  "kind": "desc",
+  "note": "Editorial: one run-on sentence split in two; meaning unchanged."
+ },
+ {
+  "en": "Keeper of the Stargazing Lighthouse, a celestial observatory. When young, she caused a ruckus after adventurers teased her; Wattner rebuked her, and she lost her real post. She won back trust over years, but came to hate adventurers for it, and resents that her job forces her to deal with them.",
+  "kind": "desc"
+ },
+ {
+  "en": "A woman called the Queen of Opera. Her fine voice began to shine in nursery school. In early childhood she was already called \"the Goddess's Voice\" and cheered everywhere. Her musical learning is said to be court-orchestra class. She owes her fine education, they say, to someone backing her from the shadows...",
+  "kind": "desc"
+ },
+ {
+  "en": "An ogre woman who raids food stalls in Teridon. She dines and dashes so brazenly that owner after owner is left stunned or gives up as if it were a passing shower (strictly, she doesn't even run, so she eats and strolls). But a nuisance has arisen to rebuke her: Molder.",
+  "kind": "desc"
+ },
+ {
+  "en": "Teridon's Captain of the Guard. Guards in name, nearly vigilantes in fact. With a strong sense of justice, Molder misses no wrong, however small, and shuns force, urging reform by talk. Sounds weak? Being lectured head-on, a finger pointed so close you can see its prints, is tough on the mind.",
+  "kind": "desc",
+  "note": "Molder: no gender; name repeated."
+ },
+ {
+  "en": "The chief who holds real power in Teridon. Not a king, but Barjeff's vast wealth controls most goods flowing in Teridon and across the land. So no nation can ignore Barjeff, who is often called to the continent's Central Council. Barjeff lives by the motto of love and forces it on everyone in sight.",
+  "kind": "desc",
+  "note": "Barjeff: no gender; name repeated. Editorial: 'everyone met' was clipped; [JP] kept as 'everyone in sight'."
+ },
+ {
+  "en": "A werebeast girl with elephant traits who works at the Love Jacuzzi. Like an elephant, she can scoop up water and shower it from her trunk. Teridon's chief Barjeff dotes on her, but to her, Barjeff is just a pushover \"uncle\" who gives her pocket money.",
+  "kind": "desc",
+  "note": "[JP] rendered as a quoted 'uncle' (the glossary keeps Barjeff's gender unknown)."
+ },
+ {
+  "en": "A Devilish woman. Despite her alluring body, Yuna is a pure, modest woman. She always gently reins in the bold Nora. Their exchanges are popular with some customers.",
+  "kind": "desc"
+ },
+ {
+  "en": "One of the deputy librarians, reluctantly left minding the Elminage System on Hisbert's orders. He has no interest in the librarian's overreach, Hevayur's rise or the missing Zoni. His steady work has some calling him Hevayur's rival.",
+  "kind": "desc",
+  "note": "Aznand male (glossary)."
+ },
+ {
+  "en": "A vampire who counsels people burdened with feelings beyond saving. She talks deeply with those who wish to die, and only if they still wish it does she quietly end their lives with her fangs. Her fangs hold a strange power: lives taken by her bite are said never to stray from the Path of Souls.",
+  "kind": "desc",
+  "note": "Accuracy: [JP] = Path of Souls, as rows 3584/3601 and chap."
+ },
+ {
+  "en": "A girl in Perpeco Village. For some reason she was abandoned in a basket near the forest with an Arob, and they were raised like siblings. Her big brother the Arob (or rather, Anib) understands human speech and bravely defended the village when monsters attacked. Bona is proud of great Anib.",
+  "kind": "desc"
+ },
+ {
+  "en": "A werebeast thief. A life of self-reliance gave Brassel very strong willpower, but also no patience for others' softness, so Brassel can be a little hard to approach. Brassel formed a thieves' gang and leads the other thieves as its boss.",
+  "kind": "desc",
+  "note": "Brassel: no gender; name repeated. Editorial: name repeated 4 times in two sentences; reduced, still gender-neutral."
+ },
+ {
+  "en": "The trusty boss of the ogres and goblins. Not the sharpest mind, but Fulgrant's flashes of inspiration are not to be underestimated. The goblins refine those flashes, and the ogres give them form. That, it seems, is how Ogre Bay runs.",
+  "kind": "desc",
+  "note": "Fulgrant: no pronoun."
+ },
+ {
+  "en": "Daughter of the wicked mage who raided an Ice Magic Seal temple somewhere; a cursed child of the mage's lustful assault on a spirit. Heir to both the evil, mighty mage and the spirit, the land's blessing, she became a rare mage. As a child she had no place and stayed at Deltoi, and knows its concealing art.",
+  "kind": "desc",
+  "note": "This entry under [JP] describes Zanu's DAUGHTER ([JP]), who was left at Deltoi (cf. row 16). in chap slice_021 Zaalhaut says 'I am Zaalhaut, the child the wicked mage Zanu left behind', so this may be Zaalhaut's backstory; worth a glossary check on Zaalhaut's gender. [JP] = 'Ice Magic Seal'."
+ },
+ {
+  "en": "A Demon Duke called Radiance, who rose from the Wastelands seeking true justice. Though a Demon Duke, she holds the Radiant Scales, an Argument for choosing librarians. She is said to have some tie to the current librarian Hisbert, and her moves are watched closely.",
+  "kind": "desc",
+  "note": "[JP] = 'Radiance' (MONSTER3). Hilde female (glossary). | Accuracy: [JP] = the Wastelands (glossary proper noun; row 3598)."
+ },
+ {
+  "en": "A mysterious woman traveling the land. Her origins are unknown, and much about her is strange, such as never parting with her Mirage Cloak. Who could she be?",
+  "kind": "desc"
+ },
+ {
+  "en": "The fairy king who rules Nertowayu, which broke away from Nertowa in the Castle of the Wind. Meem seems to know Rafa the Sun Spirit and Yorfa the Moonlight Spirit well, but Meem's lips stay firmly sealed.",
+  "kind": "desc"
+ },
+ {
+  "en": "A dragon living since ancient times in the old cloud castle called the Castle of the Wind. Very long-lived, Agintaitus watched with Zaalhaut as Rafa the Sun Spirit ascended to the Palace of the Sun. Agintaitus seems to know Hisbert...?",
+  "kind": "desc"
+ },
+ {
+  "en": "An info broker who trades all over while gathering information. Hanoi misses no tale, however trivial; it's no stretch to call that store of info the continent's best. Hanoi's home is said to be in Perpeco Village, but Hanoi rarely returns. Inside, papers of info gathered so far are stacked to the ceiling.",
+  "kind": "desc",
+  "note": "Hanoi: no gender; name repeated."
+ },
+ {
+  "en": "A follower of the Demon Duke Hilde, though not a very loyal one. Once an undead thing of nothing but bones, Makakuri traveled in search of a body of flesh and blood. With that goal achieved, Makakuri now only gets moving, grudgingly, when Ruu nags. Lazy, and quick to run away.",
+  "kind": "desc",
+  "note": "No pronoun for Makakuri (source gives none)."
+ },
+ {
+  "en": "A follower of the Demon Duke Hilde. Under the law of the Wastelands, where the weak are culled, she lost her place in the world, and she has sworn loyalty to Hilde, who gave her a safe haven. This time she has been asked to search for a certain woman. But who could that be?",
+  "kind": "desc",
+  "note": "Gender: the source says [JP] here (evidence for the glossary, which has Ruu as unknown). [JP] = 'wasteland' as in wmap slice_20. | Accuracy: [JP] = the Wastelands (glossary proper noun)."
+ },
+ {
+  "en": "A tiger lord of majestic bearing. Mandelgius was apparently roaming the land for some purpose with a friend named Rondelgius, but the two got separated along the way.",
+  "kind": "desc",
+  "note": "New name: Rondelgius ([JP], mirrors Mandelgius). No pronoun for Mandelgius: the source gives none."
+ },
+ {
+  "en": "A Valkyrie girl. She once guarded the Temple of Rafa, but her habit of doing things at her own pace led to failure after failure, and she was thrown out. Since then, she seems to be scraping by as an adventurer.",
+  "kind": "desc"
+ },
+ {
+  "en": "A girl raised in the Perpeco Forest. An alchemist, she came to Algrantz seeking the money and know-how to rebuild her village, which was attacked by monsters.",
+  "kind": "desc",
+  "note": "The source itself calls Electra [JP] (girl), so 'girl'/'she' translate this row; the glossary still lists Electra's gender as unknown and could be updated from this row. 'her village' (Perpeco Village) is implied."
+ },
+ {
+  "en": "A unicorn who has been with Electra since they were both little. Having always eaten and slept alongside people, Mig is convinced of deserving the same treatment as any human.",
+  "kind": "desc",
+  "note": "No pronoun for Mig (glossary gender unknown)."
+ },
+ {
+  "en": "An adventurer working as a bounty hunter. Yamuru teamed up with Electra because they shared the same interest: making money. Lately, though, Electra has been holding Yamuru back, and with the bounty hunting so inefficient, Yamuru has begun to wonder if going solo would be better.",
+  "kind": "desc",
+  "note": "No pronoun for Yamuru (glossary gender unknown)."
+ },
+ {
+  "en": "A girl fascinated by the legends of the Moonlight Spirit. Puzzled that there are so many legends of the Sun Spirit and almost none of the Moonlight Spirit, she set out to find them herself. Caught in a trap and unable to move, she was rescued by Yamuru, and has traveled with Yamuru ever since.",
+  "kind": "desc",
+  "note": "The source calls Maniron [JP] (girl)."
+ },
+ {
+  "en": "An old bishop who lay collapsed after a monster attack until Electra came to the rescue. Partly out of gratitude, Korbitz now travels with Electra, meaning to spend the years left supporting someone so accident-prone. Korbitz thinks of Electra as a grandchild and holds Electra very dear.",
+  "kind": "desc",
+  "note": "No pronouns for Korbitz or Electra (glossary genders unknown); 'old bishop' is gender-neutral."
+ },
+ {
+  "en": "Mokero ran with a gang of thieves in the Crotoa City Ruins, but after attacking Electra's party, got beaten back, was lectured by Electra and turned over a new leaf. Ever since, Mokero has called Electra 'Miss' and has been with Electra's party, putting skills from those thieving days to use.",
+  "kind": "desc",
+  "note": "[JP] = 'Miss' (glossary), in single quotes for the source's brackets. No pronouns for Mokero/Electra."
+ },
+ {
+  "en": "Tiny Reckdas look-alikes emerging from deep in the fog Reckdas gives off. Don't drop your guard because they're small or mere illusions. The land's common sense doesn't apply to Demon Dukes. Treat each as the Demon Duke in person, only smaller, or countless Petit-Das will swarm you, leaving you a pitiful sight.",
+  "kind": "desc",
+  "note": "Source line breaks fall every 12 full-width chars (ruler wrap, mid-word) and stop after line 7, so they are wrap points, not meaningful lines; English is left unbroken like the other MON_TEXT/ITEM_TEXT rows. New name: Petitdas ([JP] = petit + Reckdas). | Accuracy: Petit-Das per MONSTER3 row 3319."
+ },
+ {
+  "en": "A beastfolk of bizarre appearance.\nOn first meeting, all are shocked by... First?\nPerhaps you have met him before. He has come back here now, far more powerful than he ever was. Whether you knew him before or are seeing him for the first time, you would do well to be very careful.",
+  "kind": "desc",
+  "note": "Kept the source's two line breaks (they carry the interrupted 'shocked by...' gag). Line 3 is one long unbroken line, as in the source, so it relies on the game's wrapping like the other rows. [JP] = he. Editorial: lead decision [JP] = Beastfolk."
+ },
+ {
+  "en": "Mockricketta",
+  "kind": "key?",
+  "note": "Same name as MONSTER1 row 2701 'Mockricketta?' (slice_32), without the question mark, as in the source."
+ },
+ {
+  "en": "Hammerhead",
+  "kind": "key?"
+ },
+ {
+  "en": "Sarijany",
+  "kind": "key?",
+  "note": "New name ([JP]), romanized; not found elsewhere."
+ },
+ {
+  "en": "Yobient of Oblivion",
+  "kind": "key?",
+  "note": "Pattern of slice_37 row 3086 [JP] = 'Sanafeet of Oblivion'. New name: Yobient ([JP], the god of death per MON_TEXT row 3584)."
+ },
+ {
+  "en": "War Master",
+  "kind": "key?"
+ },
+ {
+  "en": "Holly",
+  "kind": "key?",
+  "note": "[JP] here is a person (dark-world female doctor, MON_TEXT row 3597), so the given name 'Holly', not 'Holy' as in item names. Uncertain."
+ },
+ {
+  "en": "Dark Gen. Welsconi",
+  "kind": "key?",
+  "note": "Source spells [JP], but [JP] + -[JP] is Welsconi (EBOOT [JP] = 'Dark Generalissimo Welsconi'; KIROKU 'Demon Gen. Welsconi'); treated as a variant spelling. The full title is 27 bytes > 24, so 'Gen.' as in slice_31. If the designers meant a distinct name, use 'Dark Gen. Belsconi'."
+ },
+ {
+  "en": "Progenitor Asunamuchi",
+  "kind": "key?",
+  "note": "[JP] ('true-illusion first ancestor') compressed to 'Progenitor' (21 bytes). Asunamuchi per chap slice_016. The MONSTER3 form is [JP] (slice_38, not yet translated)."
+ },
+ {
+  "en": "Solvanonno",
+  "kind": "key?",
+  "note": "New name ([JP]), romanized. Its bestiary entry (row 3626) reveals it is Ponyapo."
+ },
+ {
+  "en": "Endaria",
+  "kind": "key?",
+  "note": "New name ([JP]), romanized."
+ },
+ {
+  "en": "Joker Clown",
+  "kind": "key?",
+  "note": "[JP] read as clown (jester theme, cf. Joker Land, Clown Garb); 'Joker Crown' is possible. Uncertain."
+ },
+ {
+  "en": "Ryug",
+  "kind": "key?",
+  "note": "Glossary."
+ },
+ {
+  "en": "Red Prisma",
+  "kind": "key?",
+  "note": "New term: Prisma ([JP]), kept as a name."
+ },
+ {
+  "en": "Blue Prisma",
+  "kind": "key?"
+ },
+ {
+  "en": "Green Prisma",
+  "kind": "key?"
+ },
+ {
+  "en": "Yellow Prisma",
+  "kind": "key?"
+ },
+ {
+  "en": "White Prisma",
+  "kind": "key?"
+ },
+ {
+  "en": "Black Prisma",
+  "kind": "key?"
+ },
+ {
+  "en": "Zanu",
+  "kind": "key?",
+  "note": "Per chap slice_021 rows 1703-1704 (the wicked mage Zanu)."
+ },
+ {
+  "en": "Description",
+  "kind": "desc",
+  "note": "Placeholder [JP] ('description text'), probably unused."
+ },
+ {
+  "en": "Mucha's Tavern",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Zeppo's Inn",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Alchemy Storage",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Kembeck's Shop",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Rust Temple",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Algrantz Castle",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Training Hall",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Roscadil Empire",
+  "kind": "name"
+ },
+ {
+  "en": "Wells Garden",
+  "kind": "name",
+  "note": "Glossary. (The designer copy in c2 says [JP], an older name; the display text is [JP].)"
+ },
+ {
+  "en": "Shipyard",
+  "kind": "name"
+ },
+ {
+  "en": "Toner's Armory",
+  "kind": "name",
+  "note": "Glossary ([JP])."
+ },
+ {
+  "en": "Roscadil Palace",
+  "kind": "name",
+  "note": "Cf. wmap slice_18 row 1396 'the Roscadil palace'."
+ },
+ {
+  "en": "Watchtower",
+  "kind": "name",
+  "note": "As in EVENT_TEXT rows 268/382."
+ },
+ {
+  "en": "Lumisthenes",
+  "kind": "name",
+  "note": "[JP] ('Star Capital') dropped: 'Star Capital Lumisthenes' is 24 bytes > 16."
+ },
+ {
+  "en": "Sundial Plaza",
+  "kind": "name"
+ },
+ {
+  "en": "Jakobis Sp. Hall",
+  "kind": "name",
+  "note": "Glossary 'Jakobis Spell Hall' is 18 bytes > 16; abbreviated."
+ },
+ {
+  "en": "Temple of Rafa",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Central Council",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Star Lighthouse",
+  "kind": "name",
+  "note": "Glossary 'Stargazing Lighthouse' is 21 bytes > 16; shortened."
+ },
+ {
+  "en": "Teridon",
+  "kind": "name",
+  "note": "[JP] ('Highway City') dropped: 'Highway City Teridon' is 20 bytes > 16."
+ },
+ {
+  "en": "Highway Market",
+  "kind": "name",
+  "note": "[JP] read as a roadside market ([JP] = market) in Teridon; could also mean 'Highway Town'. Uncertain."
+ },
+ {
+  "en": "Guard Station",
+  "kind": "name",
+  "note": "Source [JP] (the designer copy says [JP]); cf. glossary [JP] 'Captain of the Guard'."
+ },
+ {
+  "en": "Mafdsalim House",
+  "kind": "name",
+  "note": "New name: Mafdsalim ([JP]), romanized; not found elsewhere."
+ },
+ {
+  "en": "MILL.GP",
+  "kind": "name",
+  "note": "As in EVENT_TEXT row 286 (the casino)."
+ },
+ {
+  "en": "Love Jacuzzi",
+  "kind": "name",
+  "note": "New name ([JP], a bathhouse in Teridon, cf. MON_TEXT row 3670)."
+ },
+ {
+  "en": "Grace",
+  "kind": "name",
+  "note": "As in the EBOOT credit list."
+ },
+ {
+  "en": "Decisive",
+  "kind": "name",
+  "note": "Epithet [JP] ('the decisive man'); 'Decisive Man' is 12 bytes > 10, so the noun is dropped."
+ },
+ {
+  "en": "Naked King",
+  "kind": "name",
+  "note": "[JP]: nod to 'The Emperor's New Clothes' ([JP])."
+ },
+ {
+  "en": "Kanosuke",
+  "kind": "name",
+  "note": "As in the EBOOT credit list."
+ },
+ {
+  "en": "Kanosuke",
+  "kind": "name",
+  "note": "The nickname is the hiragana form of the same name; same romanization."
+ },
+ {
+  "en": "Ever-Troubled",
+  "kind": "name"
+ },
+ {
+  "en": "Hard Worker",
+  "kind": "name"
+ },
+ {
+  "en": "Aruna",
+  "kind": "name",
+  "note": "As in EBOOT."
+ },
+ {
+  "en": "Last Wonder",
+  "kind": "name",
+  "note": "[JP] ('the last curiosity'); 'Last Curiosity' is 14 bytes > 12. Uncertain."
+ },
+ {
+  "en": "Childish",
+  "kind": "name",
+  "note": "[JP] = immature."
+ },
+ {
+  "en": "Meme Stampy",
+  "kind": "name",
+  "note": "As in the EBOOT credit list; the star is not ASCII and is dropped."
+ },
+ {
+  "en": "Meme",
+  "kind": "name"
+ },
+ {
+  "en": "Selfish",
+  "kind": "name"
+ },
+ {
+  "en": "Selfish",
+  "kind": "name",
+  "note": "Same word as the epithet in the source ([JP] / [JP])."
+ },
+ {
+  "en": "Green",
+  "kind": "name",
+  "note": "As in EBOOT."
+ },
+ {
+  "en": "Touch!",
+  "kind": "name"
+ },
+ {
+  "en": "Drunkard",
+  "kind": "name",
+  "note": "[JP] = always soaked in drink."
+ },
+ {
+  "en": "Froila",
+  "kind": "name",
+  "note": "As in EBOOT."
+ },
+ {
+  "en": "Awkward Grin",
+  "kind": "name",
+  "note": "[JP] ('inconvenient smile'); 'Awkward Smile' is 13 bytes > 12."
+ },
+ {
+  "en": "Yanderella",
+  "kind": "name",
+  "note": "Pun: yandere + Cinderella, kept."
+ },
+ {
+  "en": "Garveon",
+  "kind": "name",
+  "note": "As in EBOOT."
+ },
+ {
+  "en": "Ore Licky-Licky",
+  "kind": "name",
+  "note": "[JP]: ore + licking sound with a cutesy ending."
+ },
+ {
+  "en": "Lickerist",
+  "kind": "name",
+  "note": "[JP]: [JP] (lick) + -ist, echoing [JP] (terrorist)."
+ }
+]

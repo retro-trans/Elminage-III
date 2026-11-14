@@ -1,0 +1,380 @@
+[
+ {
+  "from": "\\bEntelkmista\\b",
+  "to": "Enterook Mista",
+  "regex": true,
+  "jp": "エンテルクミスタ"
+ },
+ {
+  "from": "\\bHanilastra\\b",
+  "to": "Honey Restorer",
+  "regex": true,
+  "jp": "ハニラストラ"
+ },
+ {
+  "from": "\\bPritektrat\\b",
+  "to": "Protectorate",
+  "regex": true,
+  "jp": "プリテクトラット"
+ },
+ {
+  "from": "\\bHalobkarm\\b",
+  "to": "Hallobukarm",
+  "regex": true,
+  "jp": "ハロブカーム"
+ },
+ {
+  "from": "\\bImlualati\\b",
+  "to": "Immolarati",
+  "regex": true,
+  "jp": "イムルアラティ"
+ },
+ {
+  "from": "\\bMakalacha\\b",
+  "to": "Makaracha",
+  "regex": true,
+  "jp": "マカラチャ"
+ },
+ {
+  "from": "\\bPendeakot\\b",
+  "to": "Pendea Coat",
+  "regex": true,
+  "jp": "ペンデアコット"
+ },
+ {
+  "from": "\\bLamisama\\b",
+  "to": "Ramisama",
+  "regex": true,
+  "jp": "ラミサーマ"
+ },
+ {
+  "from": "\\bJiakalad\\b",
+  "to": "Ziakalad",
+  "regex": true,
+  "jp": "ジアカラド"
+ },
+ {
+  "from": "\\bTiomente\\b",
+  "to": "Diomente",
+  "regex": true,
+  "jp": "ティオメンテ"
+ },
+ {
+  "from": "\\bLatashif\\b",
+  "to": "Latasif",
+  "regex": true,
+  "jp": "ラタシフ"
+ },
+ {
+  "from": "\\bHalobkan\\b",
+  "to": "Hallobukan",
+  "regex": true,
+  "jp": "ハロブカン"
+ },
+ {
+  "from": "\\bLafilima\\b",
+  "to": "Rafelima",
+  "regex": true,
+  "jp": "ラフィリマ"
+ },
+ {
+  "from": "\\bSaibress\\b",
+  "to": "Psi Breath",
+  "regex": true,
+  "jp": "サイブレス"
+ },
+ {
+  "from": "\\bLafilead\\b",
+  "to": "Rafeireed",
+  "regex": true,
+  "jp": "ラフィリード"
+ },
+ {
+  "from": "\\bLizefade\\b",
+  "to": "Rezefeid",
+  "regex": true,
+  "jp": "リゼフェイド"
+ },
+ {
+  "from": "\\bLaskolek\\b",
+  "to": "Lascorek",
+  "regex": true,
+  "jp": "ラスコレク"
+ },
+ {
+  "from": "\\bUnihakot\\b",
+  "to": "Yuniwa Coat",
+  "regex": true,
+  "jp": "ユニハコット"
+ },
+ {
+  "from": "\\bZeonadal\\b",
+  "to": "Zeo Nadar",
+  "regex": true,
+  "jp": "ゼオナダル"
+ },
+ {
+  "from": "\\bBaipotol\\b",
+  "to": "High Portal",
+  "regex": true,
+  "jp": "バイポートル"
+ },
+ {
+  "from": "\\bTioseed\\b",
+  "to": "Dioseed",
+  "regex": true,
+  "jp": "ティオシード"
+ },
+ {
+  "from": "\\bJiakala\\b",
+  "to": "Ziakal",
+  "regex": true,
+  "jp": "ジアカラ"
+ },
+ {
+  "from": "\\bLabinem\\b",
+  "to": "Ravenom",
+  "regex": true,
+  "jp": "ラビネム"
+ },
+ {
+  "from": "\\bSosaleo\\b",
+  "to": "Sosareo",
+  "regex": true,
+  "jp": "ソーサレオ"
+ },
+ {
+  "from": "\\bLabalad\\b",
+  "to": "Rabalad",
+  "regex": true,
+  "jp": "ラバラド"
+ },
+ {
+  "from": "\\bHalobti\\b",
+  "to": "Hallobuti",
+  "regex": true,
+  "jp": "ハロブティ"
+ },
+ {
+  "from": "\\bLastoma\\b",
+  "to": "Rastoma",
+  "regex": true,
+  "jp": "ラストーマ"
+ },
+ {
+  "from": "\\bUlmakul\\b",
+  "to": "Miracle",
+  "regex": true,
+  "jp": "ウルマクル"
+ },
+ {
+  "from": "\\bBinemfi\\b",
+  "to": "Venom-Fei",
+  "regex": true,
+  "jp": "ビネムフィ"
+ },
+ {
+  "from": "\\bZonpeli\\b",
+  "to": "Zomperi",
+  "regex": true,
+  "jp": "ゾンペリ"
+ },
+ {
+  "from": "\\bSamaeis\\b",
+  "to": "Sama Eyes",
+  "regex": true,
+  "jp": "サーマエイス"
+ },
+ {
+  "from": "\\bZefefus\\b",
+  "to": "Zefeifus",
+  "regex": true,
+  "jp": "ゼフェフス"
+ },
+ {
+  "from": "\\bLobkand\\b",
+  "to": "Robukand",
+  "regex": true,
+  "jp": "ロブカンド"
+ },
+ {
+  "from": "\\bSaidray\\b",
+  "to": "Psi Drain",
+  "regex": true,
+  "jp": "サイドレイ"
+ },
+ {
+  "from": "\\bLizefes\\b",
+  "to": "Rizefus",
+  "regex": true,
+  "jp": "リゼフェス"
+ },
+ {
+  "from": "\\bLazefes\\b",
+  "to": "Razefeis",
+  "regex": true,
+  "jp": "ラゼフェス"
+ },
+ {
+  "from": "\\bPamdeun\\b",
+  "to": "Pomedoon",
+  "regex": true,
+  "jp": "パムデウン"
+ },
+ {
+  "from": "\\bKalacha\\b",
+  "to": "Karacha",
+  "regex": true,
+  "jp": "カラチャ"
+ },
+ {
+  "from": "\\bLapolfi\\b",
+  "to": "Rapoolfei",
+  "regex": true,
+  "jp": "ラポールフィ"
+ },
+ {
+  "from": "\\bLapinto\\b",
+  "to": "Rapinto",
+  "regex": true,
+  "jp": "ラピント"
+ },
+ {
+  "from": "\\bLapodos\\b",
+  "to": "Rapidos",
+  "regex": true,
+  "jp": "ラポードス"
+ },
+ {
+  "from": "\\bMagras\\b",
+  "to": "Maglass",
+  "regex": true,
+  "jp": "マグラス"
+ },
+ {
+  "from": "\\bAlgeiz\\b",
+  "to": "Argeiss",
+  "regex": true,
+  "jp": "アルゲイズ"
+ },
+ {
+  "from": "\\bLagras\\b",
+  "to": "Raglass",
+  "regex": true,
+  "jp": "ラグラス"
+ },
+ {
+  "from": "\\bFilima\\b",
+  "to": "Feirima",
+  "regex": true,
+  "jp": "フィリマ"
+ },
+ {
+  "from": "\\bLoidfi\\b",
+  "to": "Roodfei",
+  "regex": true,
+  "jp": "ロイドフィ"
+ },
+ {
+  "from": "\\bMiaeis\\b",
+  "to": "Mirror Eyes",
+  "regex": true,
+  "jp": "ミーアエイス"
+ },
+ {
+  "from": "\\bFilead\\b",
+  "to": "Feireed",
+  "regex": true,
+  "jp": "フィリード"
+ },
+ {
+  "from": "\\bPortol\\b",
+  "to": "Portal",
+  "regex": true,
+  "jp": "ポートル"
+ },
+ {
+  "from": "\\bLaloid\\b",
+  "to": "Rarood",
+  "regex": true,
+  "jp": "ラロイド"
+ },
+ {
+  "from": "\\bBluffy\\b",
+  "to": "Bulafei",
+  "regex": true,
+  "jp": "ブラッフィ"
+ },
+ {
+  "from": "\\bSkolek\\b",
+  "to": "Skorekh",
+  "regex": true,
+  "jp": "スコレク"
+ },
+ {
+  "from": "\\bLamiaf\\b",
+  "to": "Ramialf",
+  "regex": true,
+  "jp": "ラミアーフ"
+ },
+ {
+  "from": "\\bPendek\\b",
+  "to": "Pendeku",
+  "regex": true,
+  "jp": "ペンデク"
+ },
+ {
+  "from": "\\bBinem\\b",
+  "to": "Venom",
+  "regex": true,
+  "jp": "ビネム"
+ },
+ {
+  "from": "\\bLobti\\b",
+  "to": "Robuti",
+  "regex": true,
+  "jp": "ロブティ"
+ },
+ {
+  "from": "\\bFilia\\b",
+  "to": "Feria",
+  "regex": true,
+  "jp": "フィリア"
+ },
+ {
+  "from": "\\bElode\\b",
+  "to": "Erod",
+  "regex": true,
+  "jp": "エロード"
+ },
+ {
+  "from": "\\bEloma\\b",
+  "to": "Eroma",
+  "regex": true,
+  "jp": "エローマ"
+ },
+ {
+  "from": "\\bViffi\\b",
+  "to": "Bifei",
+  "regex": true,
+  "jp": "ヴィッフィ"
+ },
+ {
+  "from": "\\bGras\\b",
+  "to": "Glass",
+  "regex": true,
+  "jp": "グラス"
+ },
+ {
+  "from": "\\bLoid\\b",
+  "to": "Rood",
+  "regex": true,
+  "jp": "ロイド"
+ },
+ {
+  "from": "\\bOlas\\b",
+  "to": "Orath",
+  "regex": true,
+  "jp": "オラース"
+ }
+]

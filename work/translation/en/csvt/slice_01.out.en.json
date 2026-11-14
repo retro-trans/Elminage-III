@@ -1,0 +1,357 @@
+[
+ {
+  "en": "Title",
+  "kind": "name"
+ },
+ {
+  "en": "Gathered Fates",
+  "kind": "name"
+ },
+ {
+  "en": "Memories Handed Down",
+  "kind": "name"
+ },
+ {
+  "en": "The Bustling Town",
+  "kind": "name"
+ },
+ {
+  "en": "Spirit Observation",
+  "kind": "name",
+  "note": "Night town theme; literal."
+ },
+ {
+  "en": "Exotic Hello Paparapo",
+  "kind": "name",
+  "note": "Literal 'Foreign Greeting Paparapo' (25) over limit; 'Exotic Hello' keeps both ideas. Paparapo romanized from the coined word."
+ },
+ {
+  "en": "The Distant Continent",
+  "kind": "name"
+ },
+ {
+  "en": "To Friends Back Safe!",
+  "kind": "name",
+  "note": "Tavern theme; a toast ('Cheers to our friends' safe return!') compressed to fit 22."
+ },
+ {
+  "en": "Blissful Slumber",
+  "kind": "name"
+ },
+ {
+  "en": "Shining Flamberge",
+  "kind": "name",
+  "note": "Flamberge per glossary."
+ },
+ {
+  "en": "O God, Save Us",
+  "kind": "name",
+  "note": "Object restored (the singer asks salvation for us)."
+ },
+ {
+  "en": "Royal Blood",
+  "kind": "name"
+ },
+ {
+  "en": "Signed with Resolve",
+  "kind": "name",
+  "note": "Training Hall theme: [JP] = a stroke of the pen made with resolve (signing up)."
+ },
+ {
+  "en": "Creeping Dread",
+  "kind": "name"
+ },
+ {
+  "en": "Blue Sky March",
+  "kind": "name"
+ },
+ {
+  "en": "Inviolate Sanctuary",
+  "kind": "name"
+ },
+ {
+  "en": "The Twilight Garden",
+  "kind": "name",
+  "note": "[JP] = setting sun and decline (ctx: faded glory); 'Twilight' carries both."
+ },
+ {
+  "en": "Aramitama",
+  "kind": "name",
+  "note": "Shinto term (rough/wild spirit) for the Japanese-style track; romanized rather than translated."
+ },
+ {
+  "en": "Let's Play Together...",
+  "kind": "name",
+  "note": "Haunted house theme; exactly 22 bytes."
+ },
+ {
+  "en": "Into Despair's Domain",
+  "kind": "name"
+ },
+ {
+  "en": "Discord of Lights",
+  "kind": "name"
+ },
+ {
+  "en": "Begone, Faint of Heart",
+  "kind": "name",
+  "note": "[JP]: 'those without courage, scatter/fall'. Read as an order to cowards to get out; exactly 22 bytes."
+ },
+ {
+  "en": "Amid Madness and Death",
+  "kind": "name",
+  "note": "Literal 'I am between madness and death' (25+) over limit; exactly 22 bytes."
+ },
+ {
+  "en": "Floor Master",
+  "kind": "name",
+  "note": "Glossary term."
+ },
+ {
+  "en": "Beyond the Nether Dark",
+  "kind": "name",
+  "note": "[JP] rendered 'Nether' as in glossary [JP] = Nether King. Exactly 22 bytes."
+ },
+ {
+  "en": "Shade Demon Lord Waltz",
+  "kind": "name",
+  "note": "[JP] (baleful shadow) + [JP] (demon lord) + [JP] (waltz). Plays for the Demon Dukes ([JP]); singular/plural not settled by the title. Exactly 22 bytes."
+ },
+ {
+  "en": "Sovereign of All Life",
+  "kind": "name",
+  "note": "Literal 'One who reigns over all life'."
+ },
+ {
+  "en": "Why You! You'll Paaay!",
+  "kind": "name",
+  "note": "[JP] = 'Why you! I won't forgive youuu!'; drawn-out vowel kept as 'Paaay'. Exactly 22 bytes."
+ },
+ {
+  "en": "Downcast Eyes",
+  "kind": "name",
+  "note": "[JP] = dejection."
+ },
+ {
+  "en": "A Suspicious Figure",
+  "kind": "name"
+ },
+ {
+  "en": "A Sunlit Smile",
+  "kind": "name"
+ },
+ {
+  "en": "Dumbass Dance",
+  "kind": "name",
+  "note": "[JP] is a strong 'damn idiot'; not softened."
+ },
+ {
+  "en": "Chests Tell No Tales",
+  "kind": "name"
+ },
+ {
+  "en": "Where All Hearts Sleep",
+  "kind": "name",
+  "note": "Literal 'The room where all feelings sleep' (28+); 'room' dropped to fit."
+ },
+ {
+  "en": "Hum Fighter",
+  "kind": "name",
+  "note": "Debug roster. Pattern 'Race Class'; race cut to 3 letters only where the full form does not fit. Class names follow the UI (ebt slice_16/17). [JP] = Human."
+ },
+ {
+  "en": "Fighter",
+  "kind": "name"
+ },
+ {
+  "en": "Elf Mage",
+  "kind": "name"
+ },
+ {
+  "en": "Mage",
+  "kind": "name"
+ },
+ {
+  "en": "Gnm Priest",
+  "kind": "name",
+  "note": "'Gnome Priest' (12) over limit 10."
+ },
+ {
+  "en": "Priest",
+  "kind": "name"
+ },
+ {
+  "en": "Hobbit Thief",
+  "kind": "name"
+ },
+ {
+  "en": "Thief",
+  "kind": "name"
+ },
+ {
+  "en": "Gnm Alchemist",
+  "kind": "name",
+  "note": "'Gnome Alchemist' (15) over limit 14."
+ },
+ {
+  "en": "Alchemist",
+  "kind": "name"
+ },
+ {
+  "en": "Fairy Servant",
+  "kind": "name",
+  "note": "[JP] = Servant per UI (ebt slice_16)."
+ },
+ {
+  "en": "Maid",
+  "kind": "name"
+ },
+ {
+  "en": "Devilish Bishop",
+  "kind": "name"
+ },
+ {
+  "en": "Bishop",
+  "kind": "name"
+ },
+ {
+  "en": "Elf Ranger",
+  "kind": "name",
+  "note": "[JP] = Ranger per UI (ebt slice_16); glossary has draft 'Hunter' and dialogue uses 'Hunters' -- conflict to resolve."
+ },
+ {
+  "en": "Ranger",
+  "kind": "name"
+ },
+ {
+  "en": "Wrb Gladiator",
+  "kind": "name",
+  "note": "'Werebeast Gladiator' (19) over limit 16."
+ },
+ {
+  "en": "Gladiator",
+  "kind": "name",
+  "note": "[JP] (truncated katakana of 'gladiator')."
+ },
+ {
+  "en": "Hobbit Bard",
+  "kind": "name",
+  "note": "[JP] = Bard per UI (ebt slice_16)."
+ },
+ {
+  "en": "Roma",
+  "kind": "name",
+  "note": "[JP] = Roma (Romani), the nickname paired with the Bard class; kept literal."
+ },
+ {
+  "en": "HumKannagi",
+  "kind": "name",
+  "note": "'Hum Kannagi' (11) over limit 10; space dropped."
+ },
+ {
+  "en": "Kannagi",
+  "kind": "name",
+  "note": "Matches UI [JP] = Kannagi."
+ },
+ {
+  "en": "Devilish Summoner",
+  "kind": "name"
+ },
+ {
+  "en": "Summoner",
+  "kind": "name"
+ },
+ {
+  "en": "Elf Valkyrie",
+  "kind": "name",
+  "note": "[JP] = Valkyrie per UI (ebt slice_17)."
+ },
+ {
+  "en": "Valkyrie",
+  "kind": "name"
+ },
+ {
+  "en": "Dragonewt Lord",
+  "kind": "name"
+ },
+ {
+  "en": "Lord",
+  "kind": "name"
+ },
+ {
+  "en": "DwfSamurai",
+  "kind": "name",
+  "note": "'Dwarf Samurai' (13) over limit 10."
+ },
+ {
+  "en": "Samurai",
+  "kind": "name"
+ },
+ {
+  "en": "Hobbit Ninja",
+  "kind": "name"
+ },
+ {
+  "en": "Ninja",
+  "kind": "name"
+ },
+ {
+  "en": "Joker Land",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Seirion-Daera",
+  "kind": "name",
+  "note": "Not in glossary; romanized from [JP]. chap slice_013 has Menolist say 'Serion-Daera' (source there spells [JP], possibly a typo or his mistake) -- align or keep as deliberate."
+ },
+ {
+  "en": "Test",
+  "kind": "name"
+ },
+ {
+  "en": "1F",
+  "kind": "name"
+ },
+ {
+  "en": "B1F",
+  "kind": "name"
+ },
+ {
+  "en": "B2F",
+  "kind": "name"
+ },
+ {
+  "en": "South 1F",
+  "kind": "name",
+  "note": "Blue Cave south side."
+ },
+ {
+  "en": "South B1F",
+  "kind": "name"
+ },
+ {
+  "en": "North 1F",
+  "kind": "name"
+ },
+ {
+  "en": "North B1F",
+  "kind": "name"
+ },
+ {
+  "en": "2F",
+  "kind": "name"
+ },
+ {
+  "en": "3F",
+  "kind": "name"
+ },
+ {
+  "en": "Northwest",
+  "kind": "name"
+ },
+ {
+  "en": "Northeast",
+  "kind": "name"
+ }
+]

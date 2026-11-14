@@ -1,0 +1,377 @@
+[
+ {
+  "en": "Unused",
+  "kind": "ui",
+  "note": "Placeholder entry 0 of the item-effect table (rows 1075-1130 follow). Literal developer label."
+ },
+ {
+  "en": "[Wpn] Damage Bonus",
+  "kind": "ui",
+  "note": "Adds to damage value."
+ },
+ {
+  "en": "[Arm] Lower AC",
+  "kind": "ui",
+  "note": "AC goes down (lower AC is better, Wizardry-style)."
+ },
+ {
+  "en": "[All] Regen per Turn",
+  "kind": "ui",
+  "note": "Recovery every turn; source does not say HP, so not added."
+ },
+ {
+  "en": "[All] Resist Mage Spells ",
+  "kind": "ui",
+  "note": "Spell schools as in slice_10 debug labels (Mage/Priest/Alchemist). Source has 1 trailing space; kept."
+ },
+ {
+  "en": "[All] Resist Priest Spells",
+  "kind": "ui"
+ },
+ {
+  "en": "[All] Resist Alchemist Spells",
+  "kind": "ui",
+  "note": "Source: renkinjutsu (alchemy) spells; 'Alchemist' parallels Mage/Priest schools."
+ },
+ {
+  "en": "[Wpn] Inflict Sleep         ",
+  "kind": "ui",
+  "note": "tokushu hatsudo (special effect on hit) = 'Inflict X'. Statuses match slice_10 rows 798/805. Trailing space padding: source pads this block to a common width; English padded the same way (block max length + 1)."
+ },
+ {
+  "en": "[Wpn] Inflict Poison        ",
+  "kind": "ui",
+  "note": "Source is moudoku (deadly poison), the game's poison status; slice_10 uses Poison."
+ },
+ {
+  "en": "[Wpn] Inflict Paralysis     ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Inflict Silence       ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Inflict Confusion     ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Inflict Charm         ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Inflict Petrification ",
+  "kind": "ui",
+  "note": "Stone status; slice_10 abbreviates St=Stone."
+ },
+ {
+  "en": "[Wpn] Inflict Decapitation  ",
+  "kind": "ui",
+  "note": "kubikiri = instant-kill decapitation (Wizardry critical hit)."
+ },
+ {
+  "en": "[Arm] Resist Sleep          ",
+  "kind": "ui",
+  "note": "tokushu teikou = special (status) resistance."
+ },
+ {
+  "en": "[Arm] Resist Poison         ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Arm] Resist Paralysis      ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Arm] Resist Silence        ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Arm] Resist Confusion      ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Arm] Resist Charm          ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Arm] Resist Petrification  ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Arm] Resist Decapitation   ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Arm] Resist Drain",
+  "kind": "ui",
+  "note": "Level drain."
+ },
+ {
+  "en": "[All] Fire Attack       ",
+  "kind": "ui",
+  "note": "zokusei kougeki = elemental attack. Trailing space padding: source pads this block to a common width; English padded the same way (block max length + 1)."
+ },
+ {
+  "en": "[All] Ice Attack        ",
+  "kind": "ui"
+ },
+ {
+  "en": "[All] Lightning Attack  ",
+  "kind": "ui",
+  "note": "kaminari; slice_10 debug abbreviates it 'Elec'. 'Lightning' used for player-facing text."
+ },
+ {
+  "en": "[All] Holy Attack       ",
+  "kind": "ui"
+ },
+ {
+  "en": "[All] Dark Attack       ",
+  "kind": "ui"
+ },
+ {
+  "en": "[All] Fire Defense      ",
+  "kind": "ui",
+  "note": "zokusei bougyo = elemental defense; kept 'Defense' to keep it distinct from 'Resist' (teikou)."
+ },
+ {
+  "en": "[All] Ice Defense       ",
+  "kind": "ui"
+ },
+ {
+  "en": "[All] Lightning Defense ",
+  "kind": "ui"
+ },
+ {
+  "en": "[All] Holy Defense      ",
+  "kind": "ui"
+ },
+ {
+  "en": "[All] Dark Defense      ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] No Main/Sub Limit",
+  "kind": "ui",
+  "note": "Lifts the main-hand/sub-hand weapon restriction (cf. slice_01 row 74)."
+ },
+ {
+  "en": "[Wpn] No Range Limit          ",
+  "kind": "ui",
+  "note": "Weapon range restriction lifted (can hit from any row). Trailing space padding: source pads this block to a common width; English padded the same way (block max length + 1)."
+ },
+ {
+  "en": "[All] Curse Lifted            ",
+  "kind": "ui",
+  "note": "noroi kaijo = curse removal."
+ },
+ {
+  "en": "[Wpn] Slay Magical Creatures  ",
+  "kind": "ui",
+  "note": "baida fuka = adds double damage vs a creature type; 'Slay' matches slice_02 row 149 'Slaying'."
+ },
+ {
+  "en": "[Wpn] Slay Undead             ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Slay Spirits            ",
+  "kind": "ui",
+  "note": "seirei; corpus uses 'spirit'."
+ },
+ {
+  "en": "[Wpn] Slay Insects            ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Slay Animals            ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Slay Mythical Beasts    ",
+  "kind": "ui",
+  "note": "genjuu; corpus uses 'mythical beast'."
+ },
+ {
+  "en": "[Wpn] Slay Ghosts             ",
+  "kind": "ui",
+  "note": "rei (ghost/spirit); 'Ghosts' to keep it distinct from seirei 'Spirits' (row 1113)."
+ },
+ {
+  "en": "[Wpn] Slay Demons             ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Slay Dragons            ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Slay Fighters           ",
+  "kind": "ui",
+  "note": "Class name as in chap row 995."
+ },
+ {
+  "en": "[Wpn] Slay Mages              ",
+  "kind": "ui",
+  "note": "Glossary: Mage."
+ },
+ {
+  "en": "[Wpn] Slay Priests            ",
+  "kind": "ui",
+  "note": "Glossary: Priest."
+ },
+ {
+  "en": "[Wpn] Slay Thieves            ",
+  "kind": "ui",
+  "note": "Class name as in chap row 197."
+ },
+ {
+  "en": "[Wpn] Slay Beastfolk          ",
+  "kind": "ui",
+  "note": "juujin (beast-people); new term, gender-neutral 'Beastfolk'."
+ },
+ {
+  "en": "[Wpn] Slay Giants             ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Slay Divine Shadows     ",
+  "kind": "ui",
+  "note": "shin'ei = 'Divine Shadow' as in chap/wmap."
+ },
+ {
+  "en": "[All] Status Recovery Rate Up ",
+  "kind": "ui",
+  "note": "Higher chance to recover from status ailments."
+ },
+ {
+  "en": "[All] No Alignment Limit      ",
+  "kind": "ui",
+  "note": "seikaku = alignment here (slice_01 row 58); equip restriction lifted."
+ },
+ {
+  "en": "[All] No Gender Limit (M/F/?) ",
+  "kind": "ui",
+  "note": "Source starts with male/female symbols and a full-width '?'; non-ASCII symbols rendered as (M/F/?) to keep the detail."
+ },
+ {
+  "en": "[All] No Race Limit           ",
+  "kind": "ui",
+  "note": "Equip race restriction lifted."
+ },
+ {
+  "en": "Algrantz",
+  "kind": "ui",
+  "note": "Glossary. Rows 1131-1151: area-name list (follows 'World Map', row 1073)."
+ },
+ {
+  "en": "Konnu Plains Ruins",
+  "kind": "ui",
+  "note": "Corpus spelling (chap/wmap)."
+ },
+ {
+  "en": "Blue Cave",
+  "kind": "ui",
+  "note": "Corpus spelling."
+ },
+ {
+  "en": "Leanmakana Mountains",
+  "kind": "ui",
+  "note": "Glossary. 20 chars vs 16-column source; no hard limit set."
+ },
+ {
+  "en": "Roscadil",
+  "kind": "ui",
+  "note": "Glossary."
+ },
+ {
+  "en": "Perpeco Forest",
+  "kind": "ui",
+  "note": "Glossary Perpeco + corpus."
+ },
+ {
+  "en": "Crotoa City Ruins",
+  "kind": "ui",
+  "note": "Corpus spelling."
+ },
+ {
+  "en": "Lumisthenes",
+  "kind": "ui",
+  "note": "Glossary."
+ },
+ {
+  "en": "Giaf Dunes",
+  "kind": "ui",
+  "note": "Corpus spelling."
+ },
+ {
+  "en": "Santorea Academy",
+  "kind": "ui",
+  "note": "Glossary Santorea + corpus 'Santorea Academy'."
+ },
+ {
+  "en": "Ogre Bay",
+  "kind": "ui",
+  "note": "Corpus spelling."
+ },
+ {
+  "en": "Teridon",
+  "kind": "ui",
+  "note": "Corpus spelling."
+ },
+ {
+  "en": "Miasuna",
+  "kind": "ui",
+  "note": "Corpus spelling (chap, 11 uses); not in glossary."
+ },
+ {
+  "en": "Crystal Labyrinth",
+  "kind": "ui",
+  "note": "Corpus spelling."
+ },
+ {
+  "en": "Rinos Sea Volcano",
+  "kind": "ui",
+  "note": "Corpus spelling. 22 chars vs 14-column source; no hard limit set."
+ },
+ {
+  "en": "Elminage",
+  "kind": "ui",
+  "note": "Corpus (wmap/chap)."
+ },
+ {
+  "en": "Palace of the Sun",
+  "kind": "ui",
+  "note": "Glossary."
+ },
+ {
+  "en": "Fairy Village",
+  "kind": "ui",
+  "note": "Corpus 'the fairy village' (chap slice_018)."
+ },
+ {
+  "en": "Castle of the Wind",
+  "kind": "ui",
+  "note": "Corpus spelling."
+ },
+ {
+  "en": "Sanctum of Genesis",
+  "kind": "ui",
+  "note": "Corpus majority (8) over 'Holy Creation Sphere' (3); needs unifying."
+ },
+ {
+  "en": "Krypton",
+  "kind": "ui",
+  "note": "Not found elsewhere in the corpus; romanized. New term."
+ },
+ {
+  "en": "  Adventurer",
+  "kind": "ui",
+  "note": "Leading full-width space kept as 2 ASCII spaces (same width). Glossary 'adventurer', capitalized as a label."
+ },
+ {
+  "en": "Monster",
+  "kind": "ui",
+  "note": "Pairs with row 1152 (category toggle)."
+ }
+]

@@ -1,0 +1,266 @@
+[
+ {
+  "id": "TAROT_TEXT.CSV:4:1",
+  "en": "The Fool",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:4:3",
+  "en": "Puts enemies to sleep",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:5:1",
+  "en": "Mage",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:5:3",
+  "en": "Double magic damage",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:6:1",
+  "en": "Priestess",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:6:3",
+  "en": "Poisons enemies",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:7:1",
+  "en": "Empress",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:7:3",
+  "en": "Bans all physical attacks",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:8:1",
+  "en": "Emperor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:8:3",
+  "en": "Silences enemies",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:9:1",
+  "en": "Hierophant",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:9:3",
+  "en": "Bans all skill actions",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:10:1",
+  "en": "The Lovers",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:10:3",
+  "en": "Charms enemies",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:11:1",
+  "en": "Chariot",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:11:3",
+  "en": "Raises evasion",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:12:1",
+  "en": "Justice",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:12:3",
+  "en": "Good-aligned: 2x damage",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:13:1",
+  "en": "The Hermit",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:13:3",
+  "en": "Punishes passive fighting",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:14:1",
+  "en": "Fortune",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:14:3",
+  "en": "Randomizes turn order",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:15:1",
+  "en": "Strength",
+  "max": 10,
+  "used": false
+ },
+ {
+  "id": "TAROT_TEXT.CSV:15:3",
+  "en": "Double attack damage",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:16:1",
+  "en": "Hanged Man",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:16:3",
+  "en": "All evasion checks fail",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:17:1",
+  "en": "Death",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:17:3",
+  "en": "Kills one enemy outright",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:18:1",
+  "en": "Temperance",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:18:3",
+  "en": "Neutral-aligned: 2x damage",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:19:1",
+  "en": "The Devil",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:19:3",
+  "en": "Evil-aligned: 2x damage",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:20:1",
+  "en": "The Tower",
+  "max": 10,
+  "used": false
+ },
+ {
+  "id": "TAROT_TEXT.CSV:20:3",
+  "en": "Confuses enemies",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:21:1",
+  "en": "The Star",
+  "max": 10,
+  "used": false
+ },
+ {
+  "id": "TAROT_TEXT.CSV:21:3",
+  "en": "All attacks hit",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:22:1",
+  "en": "The Moon",
+  "max": 10,
+  "used": false
+ },
+ {
+  "id": "TAROT_TEXT.CSV:22:3",
+  "en": "Enemies flee",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:23:1",
+  "en": "The Sun",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:23:3",
+  "en": "Fully restores allies' HP",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:24:1",
+  "en": "Judgement",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:24:3",
+  "en": "Weak near death; turn ends",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:25:1",
+  "en": "The World",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "TAROT_TEXT.CSV:25:3",
+  "en": "All lose def. resistances",
+  "max": 28,
+  "used": true
+ }
+]

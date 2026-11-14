@@ -1,0 +1,289 @@
+[
+ {
+  "id": "91101-ARG_TOP_IN.bin@864b4",
+  "en": "\"Oh, hi, Hanoi!\nAnd you all are... nice to meet you.{w}I'm Toner! Please be nice to me!\"{w}",
+  "kind": "msg",
+  "note": "Toner's odd polite \"yoroshiku shite kudasai\" rendered as a slightly childlike \"Please be nice to me!\", echoed by Gia in row 334."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8652b",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86534",
+  "en": "\"You're still looking for it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8655f",
+  "en": "Toner",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86568",
+  "en": "\"Yeah. I just can't find it anywhere!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@865a3",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@865ac",
+  "en": "\"Can't be helped. Want me to help you look?\nI was planning to head to Santorea next anyway.\"{w}",
+  "kind": "msg",
+  "note": "New place name: Santorea (romanized; not in glossary). \"Want me to help you look?\" = Hanoi offering (te-tsudatte yarou ka), direction speaker->Toner."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86615",
+  "en": "Toner",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8661e",
+  "en": "\"Really? Thank you, Hanoi!{w}...Mom, can I use the storeroom?\"{w}",
+  "kind": "msg",
+  "note": "Storeroom (souko ii?): literally \"Mom, is the storeroom OK?\". Purpose not stated in the scene; rendered as asking permission to use it."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86677",
+  "en": "Gia",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8667e",
+  "en": "\"Yeah, do as you like.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@866a7",
+  "en": "Toner",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@866b0",
+  "en": "\"Yay!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@866d1",
+  "en": "Gia",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@866d8",
+  "en": "\"Good grief...{w}That one's my kid, by the way.\nThe kid's got a shop somewhere else.\"{w}{p}\"My kid does come home every now and then, though...\nIf you ever run into them, be nice, will you?\"{w}",
+  "kind": "msg",
+  "note": "Toner's gender is not established; avoided he/she: \"that one\" / \"the kid\" / singular \"them\"."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8677b",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86784",
+  "en": "\"Well then, on to the next one.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@867d7",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@867e0",
+  "en": "\"Last stop is Rust Temple.{w}For ordinary folks it's a place of prayer.\nFor adventurers like you, it's where you get healed, but...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8687c",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86885",
+  "en": "\"Oh, welcome, welcome!{w}Welcome to Rust Temple!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@868ce",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@868d7",
+  "en": "\"This is the temple's bishop,\nalso known as Hardy the Money-Grubber.\"{w}",
+  "kind": "msg",
+  "note": "shusendo = miser; used \"Money-Grubber\" to keep the greed jab. Kept Hardy gender-neutral (\"This is\", not \"This guy\")."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86922",
+  "en": "Hardy",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8692f",
+  "en": "\"Hey, Hanoi, what kind of introduction is that!?{w}Don't go putting weird ideas in their heads!\nEven a temple can't operate for free, you know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@869be",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@869c7",
+  "en": "\"Like that's the only reason.\"{w}",
+  "kind": "msg",
+  "note": "Hanoi implying the money is not only for running the temple; answers Hardy's \"can't operate for free\"."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@869f6",
+  "en": "Hardy",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86a03",
+  "en": "\"Urk...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86a24",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86a2d",
+  "en": "\"It's not dirty money, sure, but you've stashed away a big pile of it, haven't you? Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86a82",
+  "en": "Hardy",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86a8f",
+  "en": "\"No, well, like I said, that's...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86ace",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86ad7",
+  "en": "\"Hardy, you here?\"{w}",
+  "kind": "msg",
+  "note": "Unseen speaker; rows 356-358 show it is Maniron (with Korbitz). Kept as ??? per source."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86b02",
+  "en": "Hardy",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86b0f",
+  "en": "\"Yes, I most certainly am!\"{w}{p}\"Why, it's Maniron and Korbitz!\nThank you as always for your patronage.{w}...Oh? Where's Yamuru?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86bac",
+  "en": "Maniron",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86bb7",
+  "en": "\"This.\"{w}",
+  "kind": "msg",
+  "note": "Maniron points at the paralysed Yamuru; kept the curt \"This.\" to keep the deadpan of treating Yamuru as an object."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86be4",
+  "en": "Yamuru",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86bed",
+  "en": "\"Ka... pah... pipepe...\"{w}",
+  "kind": "msg",
+  "note": "Paralysed gibberish; romanized the sounds rather than translating."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86c20",
+  "en": "Korbitz",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86c2d",
+  "en": "\"Yamuru has thief skills and still misjudged a trap.\nSuch an unlucky soul, don't you think?\"{w}",
+  "kind": "msg",
+  "note": "Yamuru gender unknown; named Yamuru instead of using a pronoun. Korbitz speaks politely (desu yo nee), to Hardy."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86c89",
+  "en": "Hardy",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86c96",
+  "en": "\"My, what a splendid case of paralysis!\nIn that case, right this way!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86cdf",
+  "en": "Maniron's voice",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86cee",
+  "en": "\"I told you it was the cobra's curse, didn't I?\"{w}",
+  "kind": "msg",
+  "note": "Listener unclear (Hardy, who just called it paralysis, or Yamuru, who was warned). Kept \"I told you ... didn't I?\" which fits both. \"Cobra's curse\" may be a joke/reference I could not identify."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86d13",
+  "en": "Yamuru's voice",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86d20",
+  "en": "\"Popepe... popeee...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86d4f",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86d58",
+  "en": "\"Looks like they've got their hands full.{w}Guess we'll save the rest of the chat for another time.\"{w}{p}\"Hey, Hardy!{w}We're heading out! See you around!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86dda",
+  "en": "Hardy's voice",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86deb",
+  "en": "\"Okay, take caaare!{w}May the blessings of Ildraha be with youuu!{w}Just enough to keep you from dying, in moderation!\"{w}",
+  "kind": "msg",
+  "note": "New name: Ildraha (deity; \"Ildraha-sama\"). The honorific is not rendered as Lord/Lady because the deity's gender is not established. Long vowels (-) rendered as drawn-out calling-out (\"caaare\", \"youuu\")."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86e74",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86e7d",
+  "en": "\"...What was that supposed to mean?\"{w}",
+  "kind": "msg"
+ }
+]

@@ -1,0 +1,385 @@
+[
+ {
+  "en": "All-Purpose Tail",
+  "kind": "key?",
+  "note": "Designer item-name mirror (c2/c7) for the decorative tail item; literal ([JP] = general-purpose)."
+ },
+ {
+  "en": "Multi-Purpose Shovel",
+  "kind": "key?",
+  "note": "Item-name mirror; literal. 20/20 bytes."
+ },
+ {
+  "en": "Forbidden Paintbrush",
+  "kind": "key?",
+  "note": "Item-name mirror; ITEM c4 has [JP] = 'Forbidden Paintbrush' (csvt slice). Mirror says [JP] (magic brush); literal 'Forbidden Magic Brush' is 21 > 20, so the item's English is reused."
+ },
+ {
+  "en": "Student Handbook",
+  "kind": "key?",
+  "note": "Item-name mirror; literal. The ITEM c4 name is [JP] = 'Santorea Handbook'."
+ },
+ {
+  "en": "Famitsu Promo Item",
+  "kind": "key?",
+  "note": "Designer label in the c7 mirror next to White Fox Gauntlets: item made for Famitsu (magazine promo)."
+ },
+ {
+  "en": "Complete Guidebook",
+  "kind": "key?",
+  "note": "Designer label in the c7 mirror next to Magic Glasses: [JP] = complete strategy guide (tie-in). 'Complete Strategy Guide' is 23 > 20."
+ },
+ {
+  "en": "Mage Spells",
+  "kind": "name",
+  "note": "Class Mage = glossary. JOB_SPL_MAJUTU_org."
+ },
+ {
+  "en": "Mage Spells'",
+  "kind": "name",
+  "note": "Prime marks kept as ASCII apostrophes (designer variant 2 of the spell list)."
+ },
+ {
+  "en": "Mage Spells''",
+  "kind": "name",
+  "note": "Variant 3; two ASCII apostrophes."
+ },
+ {
+  "en": "Priest Spells",
+  "kind": "name",
+  "note": "Class Priest = glossary."
+ },
+ {
+  "en": "Priest Spells'",
+  "kind": "name"
+ },
+ {
+  "en": "Priest Spells''",
+  "kind": "name"
+ },
+ {
+  "en": "Alchemy Spells",
+  "kind": "name",
+  "note": "[JP] = alchemy; matches story 'alchemy spells'."
+ },
+ {
+  "en": "Summon Spells",
+  "kind": "name"
+ },
+ {
+  "en": "Ethereal Strike",
+  "kind": "name",
+  "note": "[JP]: ability to hit spirit/ethereal bodies (Priest, Kannagi, [JP])."
+ },
+ {
+  "en": "Thief Skills+1",
+  "kind": "name",
+  "note": "No space before +1, same style as the other '+1' skills."
+ },
+ {
+  "en": "Thief Skills",
+  "kind": "name"
+ },
+ {
+  "en": "Smithing",
+  "kind": "name",
+  "note": "Matches HELP_TEXT 'smithing'."
+ },
+ {
+  "en": "Alchemy",
+  "kind": "name"
+ },
+ {
+  "en": "Coin Bank",
+  "kind": "name",
+  "note": "Servant skill; matches item names 'Wooden/Iron Coin Bank'."
+ },
+ {
+  "en": "Tea Time",
+  "kind": "name"
+ },
+ {
+  "en": "Lower AC",
+  "kind": "name",
+  "note": "Matches ebt '[Arm] Lower AC'."
+ },
+ {
+  "en": "Multi-Strike",
+  "kind": "name",
+  "note": "[JP] = consecutive strikes (Gladiator)."
+ },
+ {
+  "en": "Play Instrument",
+  "kind": "name"
+ },
+ {
+  "en": "Spec Resist Up",
+  "kind": "name",
+  "note": "[JP] = 'Spec Resist' as in the ebt status screen."
+ },
+ {
+  "en": "Dual Main Weapons",
+  "kind": "name",
+  "note": "Samurai: dual-wield main-hand weapons."
+ },
+ {
+  "en": "Decapitation Up",
+  "kind": "name",
+  "note": "[JP] = decapitation (ebt)."
+ },
+ {
+  "en": "Vigilance",
+  "kind": "name",
+  "note": "Ninja; likely tied to blocking surprise attacks."
+ },
+ {
+  "en": "Phys Attack Up+1",
+  "kind": "name"
+ },
+ {
+  "en": "Phys Attack Up",
+  "kind": "name"
+ },
+ {
+  "en": "Mage Spell Up+1",
+  "kind": "name"
+ },
+ {
+  "en": "Mage Spell Up",
+  "kind": "name"
+ },
+ {
+  "en": "Priest Spell Up+1",
+  "kind": "name"
+ },
+ {
+  "en": "Priest Spell Up",
+  "kind": "name"
+ },
+ {
+  "en": "Alchemy Spell Up+1",
+  "kind": "name",
+  "note": "18/18 bytes."
+ },
+ {
+  "en": "Alchemy Spell Up",
+  "kind": "name",
+  "note": "Marked [JP] (unused) in c24."
+ },
+ {
+  "en": "Spell Power Up+1",
+  "kind": "name",
+  "note": "Unused (c24)."
+ },
+ {
+  "en": "Spell Power Up",
+  "kind": "name",
+  "note": "Unused (c24)."
+ },
+ {
+  "en": "Soul Release",
+  "kind": "name",
+  "note": "[JP] (Priest). [JP] rendered 'soul' (cf. story [JP] = mother's soul); not romanized as Mitama."
+ },
+ {
+  "en": "Dismantle",
+  "kind": "name",
+  "note": "Matches HELP_TEXT 'Dismantle skill'."
+ },
+ {
+  "en": "High-Purity Synth",
+  "kind": "name",
+  "note": "[JP] (Alchemist). 'Synthesis' shortened to fit."
+ },
+ {
+  "en": "Dungeon Tea Party",
+  "kind": "name",
+  "note": "[JP] (Servant). 'Labyrinth Tea Party' is 19 > 18."
+ },
+ {
+  "en": "Fighting Instinct",
+  "kind": "name"
+ },
+ {
+  "en": "Fate Alteration",
+  "kind": "name",
+  "note": "Matches HELP_TEXT 'High Master ability Fate Alteration'."
+ },
+ {
+  "en": "Ancient Rites",
+  "kind": "name",
+  "note": "[JP] (Kannagi). Read as old-style rites; effect text is (Reserve), so meaning unconfirmed."
+ },
+ {
+  "en": "Blood Pact",
+  "kind": "name",
+  "note": "Summoner. Cf. [JP] = Soul Pact (ebt)."
+ },
+ {
+  "en": "Holy Lance Arts",
+  "kind": "name",
+  "note": "[JP] (JOB_HOLY_LANCE)."
+ },
+ {
+  "en": "Temple Sanctuary",
+  "kind": "name",
+  "note": "UNCERTAIN: [JP] (Lord). [JP] not in glossary/story; read as temple/court + protected zone. Effect text is (Reserve)."
+ },
+ {
+  "en": "Swallow Return",
+  "kind": "name",
+  "note": "[JP] (Samurai), classic 'Tsubame Gaeshi'. Same as assumed in slice_30 row 2514; cf. [JP] = Swallow Slayer (ebt)."
+ },
+ {
+  "en": "Shadow Strike",
+  "kind": "name",
+  "note": "[JP] (Ninja). Not 'Ambush' (ebt uses that for [JP]); ebt message 'strikes from the darkness'."
+ },
+ {
+  "en": "Grit",
+  "kind": "name",
+  "note": "[JP]: survive lethal damage once; ebt message 'gritted their teeth and held on'."
+ },
+ {
+  "en": "Firm Ranks",
+  "kind": "name",
+  "note": "[JP]: pull ([JP]) no longer works."
+ },
+ {
+  "en": "High Mana Source",
+  "kind": "name",
+  "note": "[JP]: blocks barriers."
+ },
+ {
+  "en": "Essence of Magic",
+  "kind": "name",
+  "note": "[JP]: ignores spell resistance."
+ },
+ {
+  "en": "Healing Moment",
+  "kind": "name",
+  "note": "[JP]: Tent works like the inn."
+ },
+ {
+  "en": "Hand of Mercy",
+  "kind": "name",
+  "note": "[JP]; JOB_LIST mirror is the older name [JP] (slice_30 'Ward of Creation')."
+ },
+ {
+  "en": "Steal and Pass",
+  "kind": "name",
+  "note": "Matches ebt 'Couldn't carry it, so passed it on'."
+ },
+ {
+  "en": "Treasure Digging",
+  "kind": "name",
+  "note": "[JP]; JOB_LIST copy [JP] = 'Excavation' (slice_30)."
+ },
+ {
+  "en": "Pesky Tackle",
+  "kind": "name",
+  "note": "[JP]; also the c23 battle command (16 bytes). JOB_LIST legacy name [JP] = 'Way of Meddling' (slice_30)."
+ },
+ {
+  "en": "Law of Heaven",
+  "kind": "name",
+  "note": "[JP]/[JP]/[JP] (Alchemist): special effects on same-grade ore explosions."
+ },
+ {
+  "en": "Law of Earth",
+  "kind": "name"
+ },
+ {
+  "en": "Law of Man",
+  "kind": "name"
+ },
+ {
+  "en": "Mana Conversion",
+  "kind": "name",
+  "note": "[JP]: converts spells received into MP."
+ },
+ {
+  "en": "Polymath",
+  "kind": "name",
+  "note": "[JP] ('hundred knowledges'): curse info and ore grades."
+ },
+ {
+  "en": "Good Nature",
+  "kind": "name",
+  "note": "Unused (Reserve)."
+ },
+ {
+  "en": "Bad Nature",
+  "kind": "name",
+  "note": "Unused (Reserve)."
+ },
+ {
+  "en": "Drunken Venom Fist",
+  "kind": "name",
+  "note": "[JP] (drunken fist + poison). 18/18. ebt message 'is drunk on deadly poison'."
+ },
+ {
+  "en": "Sun's Blessing",
+  "kind": "name",
+  "note": "[JP]: HP regen walking by day in clear weather."
+ },
+ {
+  "en": "Master Therion",
+  "kind": "name",
+  "note": "Battle command too (16 bytes); also in EBOOT. Crowley's title, standard spelling."
+ },
+ {
+  "en": "Beacon of Revenge",
+  "kind": "name",
+  "note": "[JP] ('signal smoke of the counterattack'), JOB_EX_REVENGE."
+ },
+ {
+  "en": "Nocturnal",
+  "kind": "name",
+  "note": "[JP]: more damage at night."
+ },
+ {
+  "en": "Assassination",
+  "kind": "name",
+  "note": "[JP] (JOB_EX_ASSASSIN); effect is defense from small party, name kept literal."
+ },
+ {
+  "en": "Sadistic Delight",
+  "kind": "name",
+  "note": "[JP]."
+ },
+ {
+  "en": "Masochistic Bliss",
+  "kind": "name",
+  "note": "[JP]; ebt 'masochistic pleasure'."
+ },
+ {
+  "en": "Brand of Ruin",
+  "kind": "name",
+  "note": "[JP]; ebt 'paid the price of the brand'."
+ },
+ {
+  "en": "Breath+",
+  "kind": "name"
+ },
+ {
+  "en": "Defiled Ground",
+  "kind": "name",
+  "note": "[JP] (monster skill): no healing spells in battle."
+ },
+ {
+  "en": "Dark Torrent",
+  "kind": "name",
+  "note": "[JP] (monster skill); 'Torrent of Darkness' is 19 > 18."
+ },
+ {
+  "en": "Dragon's Roar",
+  "kind": "name",
+  "note": "[JP]; ebt 'dragon's roar'."
+ },
+ {
+  "en": "Dark Realm Wind",
+  "kind": "name",
+  "note": "[JP] = Dark Realm (story). JOB_LIST mirror [JP] = 'Dark Realm Torrent' (slice_30)."
+ }
+]

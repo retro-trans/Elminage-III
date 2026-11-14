@@ -1,0 +1,379 @@
+[
+ {
+  "en": "Southwest",
+  "kind": "name"
+ },
+ {
+  "en": "Southeast",
+  "kind": "name"
+ },
+ {
+  "en": "Fun & Games",
+  "kind": "name",
+  "note": "Joker Land secret area reached by the staff's teleporter trap ('a fun, fuuun little treat', chap slice_011 row 894); idiom keeps the ironic 'treat'."
+ },
+ {
+  "en": "Entrance",
+  "kind": "name"
+ },
+ {
+  "en": "Center",
+  "kind": "name"
+ },
+ {
+  "en": "Deep Dunes",
+  "kind": "name",
+  "note": "oku-chi = the remote interior of the dunes."
+ },
+ {
+  "en": "Sword Bldg",
+  "kind": "name",
+  "note": "Santorea Academy wing; 'Bldg' abbreviation to fit 12 (cf. Faculty Building, chap slice_014 row 1151)."
+ },
+ {
+  "en": "Central Bldg",
+  "kind": "name"
+ },
+ {
+  "en": "Magic Bldg",
+  "kind": "name",
+  "note": "Matches the academy's 'Magic Department' (chap slice_013)."
+ },
+ {
+  "en": "Faculty Bldg",
+  "kind": "name",
+  "note": "Dialogue has 'Santorea Academy Faculty Building' (chap slice_014 row 1151); abbreviated to fit 12."
+ },
+ {
+  "en": "W. Tower 1F",
+  "kind": "name"
+ },
+ {
+  "en": "W. Tower 2F",
+  "kind": "name"
+ },
+ {
+  "en": "E. Tower 1F",
+  "kind": "name"
+ },
+ {
+  "en": "E. Tower 2F",
+  "kind": "name",
+  "note": "'West/East Tower 1F' (13) does not fit 12."
+ },
+ {
+  "en": "Meiroin",
+  "kind": "name",
+  "note": "Corpus conflict: chap slice_016 row 1298 'Meirou Prison' (13, does not fit) vs chap slice_019 row 1534 'Meiroin'. Used the romanized 'Meiroin'; one form should be normalised."
+ },
+ {
+  "en": "Castle Halls",
+  "kind": "name",
+  "note": "shiro-uchi = inside the castle; 'Castle Grounds'/'Castle Interior' do not fit 12. Alternative: 'Castle'."
+ },
+ {
+  "en": "Inner Bailey",
+  "kind": "name",
+  "note": "honmaru = the main/inner bailey of a Japanese castle."
+ },
+ {
+  "en": "Castle Keep",
+  "kind": "name",
+  "note": "tenshu = the castle keep (tower)."
+ },
+ {
+  "en": "Lower Level",
+  "kind": "name"
+ },
+ {
+  "en": "Middle Level",
+  "kind": "name"
+ },
+ {
+  "en": "Upper Level",
+  "kind": "name",
+  "note": "'upper level' as in chap slice_020 row 1648."
+ },
+ {
+  "en": "South Peak",
+  "kind": "name"
+ },
+ {
+  "en": "Mid-Slope",
+  "kind": "name",
+  "note": "chuufuku = halfway up the mountain."
+ },
+ {
+  "en": "East Peak",
+  "kind": "name"
+ },
+ {
+  "en": "Crater",
+  "kind": "name"
+ },
+ {
+  "en": "Horizon Arc",
+  "kind": "name",
+  "note": "kan-suihei arc = circumhorizontal arc; full term (20) does not fit 12. Short form parallel to 'Zenith Arc'."
+ },
+ {
+  "en": "Left Sundog",
+  "kind": "name",
+  "note": "gen-jitsu = sundog (parhelion), left of the true sun."
+ },
+ {
+  "en": "True Sun Rm.",
+  "kind": "name",
+  "note": "Glossary 'Chamber of the True Sun' (23) does not fit 12; abbreviated. Alternative: 'True Sun'."
+ },
+ {
+  "en": "Right Sundog",
+  "kind": "name"
+ },
+ {
+  "en": "Zenith Arc",
+  "kind": "name",
+  "note": "Dialogue uses 'Circumzenithal Arc' (chap slice_017 rows 1362, 1419; 18 bytes, does not fit 12); shortened."
+ },
+ {
+  "en": "Nertowayu",
+  "kind": "name",
+  "note": "New name; fairy village floor. Kept distinct from Nertowa (glossary), which is a Castle of the Wind floor (row 129)."
+ },
+ {
+  "en": "Fizion",
+  "kind": "name",
+  "note": "New name (romanized)."
+ },
+ {
+  "en": "Delita",
+  "kind": "name",
+  "note": "New name (romanized)."
+ },
+ {
+  "en": "Nertowa",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Ratopos",
+  "kind": "name",
+  "note": "New name (romanized)."
+ },
+ {
+  "en": "Shiosel",
+  "kind": "name",
+  "note": "New name (romanized)."
+ },
+ {
+  "en": "Zenteres",
+  "kind": "name",
+  "note": "New name (romanized)."
+ },
+ {
+  "en": "Arikes",
+  "kind": "name",
+  "note": "New name (romanized)."
+ },
+ {
+  "en": "South",
+  "kind": "name"
+ },
+ {
+  "en": "West",
+  "kind": "name"
+ },
+ {
+  "en": "East",
+  "kind": "name"
+ },
+ {
+  "en": "North",
+  "kind": "name"
+ },
+ {
+  "en": "test",
+  "kind": "name",
+  "note": "Debug floor written in hiragana; lowercase to set it apart from the dungeon name 'Test'."
+ },
+ {
+  "en": "Seirion-Daera",
+  "kind": "key?",
+  "note": "key?: this spelling (se-ri-on) is translated 'Serion-Daera' in chap slice_013 row 1023. DGN_NAME has the variant se-i-ri-on (slice_01 row 82); if the key must match DGN_NAME, both need the same English."
+ },
+ {
+  "en": "(Test)",
+  "kind": "key?",
+  "note": "key? debug label."
+ },
+ {
+  "en": "Dark Fuhrer",
+  "kind": "name",
+  "note": "As chap slice_018 row 1444."
+ },
+ {
+  "en": "Altar of Light",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Magic Airship Meatrif",
+  "kind": "name",
+  "note": "Glossary: magic airship (source typo kanji also = magic airship) + Meatrif. Capitalised as a title."
+ },
+ {
+  "en": "Ogrebarm, Fire!",
+  "kind": "name",
+  "note": "Gallery title (ogre cannon scene). The cannon's name is not translated anywhere in the corpus; romanized from Ogre (as in Ogre Bay) + 'barm'. Flag: may be a pun not caught."
+ },
+ {
+  "en": "The Sky Seen in Folly",
+  "kind": "name",
+  "note": "'The sky looked up at amid recklessness' (scene inside the ogre cannon); 'Recklessness' does not fit 22."
+ },
+ {
+  "en": "Beneath the Yugdrias",
+  "kind": "name",
+  "note": "Yugdrias = new name (monster tree, MON_TEXT 50). 'Under the Yugdrias Tree' (23) does not fit 22."
+ },
+ {
+  "en": "Wind of Legend, Again",
+  "kind": "name",
+  "note": "Agintaitus takes flight."
+ },
+ {
+  "en": "Blaze Up, Moe Courage",
+  "kind": "name",
+  "note": "Pun: moe-agare (blaze up) written with the moe kanji. Kept both senses. Scene: Lumisthenes attack."
+ },
+ {
+  "en": "Wall-Sprouting Tarrit",
+  "kind": "name",
+  "note": "Tarrit stuck in the crack. Designer's old name was 'Butt'."
+ },
+ {
+  "en": "Kin of Night",
+  "kind": "name",
+  "note": "As 'kin of night' in chap slice_021 row 1733."
+ },
+ {
+  "en": "Eclipsed Sun Spirit",
+  "kind": "name",
+  "note": "mushibamareshi = eaten away; the kanji also means eclipse, so 'Eclipsed' keeps both."
+ },
+ {
+  "en": "All-Knowing Light Rank",
+  "kind": "name",
+  "note": "Light Rank (chap slice_017) of the Light of All Knowledge (chap slice_020)."
+ },
+ {
+  "en": "Guardian of the World",
+  "kind": "name"
+ },
+ {
+  "en": "Radiant Heaven's Blade",
+  "kind": "name",
+  "note": "kouten no ken (Hilde). 'Sword of Radiant Heaven' (23) does not fit. Note for the monster title kouten no kimi (MONSTER3): 'Radiant Heaven' would match."
+ },
+ {
+  "en": "Find the Light Ruins",
+  "kind": "name",
+  "note": "Quest title. iko (remains), not the Lightstair Ruins of the glossary."
+ },
+ {
+  "en": "Gathering of Kings",
+  "kind": "name"
+ },
+ {
+  "en": "Green Plakio",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Save Perpeco Village",
+  "kind": "name",
+  "note": "Glossary Perpeco Village."
+ },
+ {
+  "en": "Chatty Sapling",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "I Love Farming!",
+  "kind": "name"
+ },
+ {
+  "en": "Attack on Lumisthenes",
+  "kind": "name"
+ },
+ {
+  "en": "Sun Prison Shrine",
+  "kind": "name",
+  "note": "Corpus conflict: the [Key Item] line (chap slice_016) has 'Sun Prison Shrine'; chap slice_019 row 1534 has 'Sun Cage Reliquary'. Followed the key-item line; normalise with ITEM_PRIZ."
+ },
+ {
+  "en": "Retake the Sun Palace",
+  "kind": "name",
+  "note": "'Retake the Palace of the Sun' (28) does not fit 22; glossary name shortened to 'Sun Palace'."
+ },
+ {
+  "en": "Hail Great Adventurers",
+  "kind": "name",
+  "note": "Imperative 'praise the great adventurers'; 'Hail, Great Adventurers' (23) is 1 over, so no comma."
+ },
+ {
+  "en": "Truth of the Sun",
+  "kind": "name"
+ },
+ {
+  "en": "Land of the Next Age",
+  "kind": "name",
+  "note": "jidai as in glossary 'Book of the Next Age'."
+ },
+ {
+  "en": "Bring a New Light",
+  "kind": "name",
+  "note": "Trailing -wo implies a verb (bring/seek)."
+ },
+ {
+  "en": "Makana Essence",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "A Gift for a Late Wife",
+  "kind": "name",
+  "note": "Zeppo's Crystal Flower request."
+ },
+ {
+  "en": "Toner's Checkup",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Life and Money",
+  "kind": "name",
+  "note": "Hardy the Money-Grubber's graveyard quest."
+ },
+ {
+  "en": "Fena's Thoughts",
+  "kind": "name",
+  "note": "Fena has something on her mind (event text)."
+ },
+ {
+  "en": "How Utterly Exquisite!",
+  "kind": "name",
+  "note": "Echoes the line in wmap slice_10 ('How utterly exquisite it is!', 28 bytes, too long)."
+ },
+ {
+  "en": "Madulay's Request",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "The Midnight Hunter",
+  "kind": "name",
+  "note": "Shimerief on the watchtower every night. Hunter, not the class name Ranger."
+ }
+]

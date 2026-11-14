@@ -1,0 +1,360 @@
+[
+ {
+  "en": "Agintaitus",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Wind Cstl. Ruler",
+  "kind": "name",
+  "note": "Castle of the Wind (glossary). 'Ruler of the Castle of the Wind' does not fit 16; 'Lord' avoided (gender unknown)."
+ },
+ {
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "en": "Wily Peddler",
+  "kind": "name",
+  "note": "shitataka tabishou = shrewd traveling merchant."
+ },
+ {
+  "en": "Makakuri",
+  "kind": "name"
+ },
+ {
+  "en": "Work's a Drag",
+  "kind": "name",
+  "note": "shigoto shitakunee = rough 'don't wanna work'."
+ },
+ {
+  "en": "Ruu",
+  "kind": "name",
+  "note": "Glossary Ruu (chap slice_012 has 'Lu'; glossary wins)."
+ },
+ {
+  "en": "All for Hilde",
+  "kind": "name"
+ },
+ {
+  "en": "Mandelgius",
+  "kind": "name"
+ },
+ {
+  "en": "So Cruel, Sis!",
+  "kind": "name",
+  "note": "ane-san = big sis / boss lady; hidoi ze = rough 'that's cruel'."
+ },
+ {
+  "en": "Tarrit",
+  "kind": "name",
+  "note": "No glossary entry; spelling from chap slice_002."
+ },
+ {
+  "en": "No-Good Girl",
+  "kind": "name",
+  "note": "Nickname (unidentified) row: Dameko = dame (no-good) + -ko girl suffix. Tarrit is female (EVENT_TEXT kanojo, onna no ko; MON_TEXT valkyrie shoujo)."
+ },
+ {
+  "en": "Sooo Hopeless~",
+  "kind": "name",
+  "note": "Epithet in Tarrit's drawling voice (dame-dame desu na-)."
+ },
+ {
+  "en": "Electra",
+  "kind": "name"
+ },
+ {
+  "en": "Perpeco Alc.Lass",
+  "kind": "name",
+  "note": "Perpeco (glossary) + renkin-jou (alchemy young lady). 'Perpeco Alchemist' is 17 > 16; abbreviated to keep all three parts. The jou is in the source, not inferred."
+ },
+ {
+  "en": "Mig",
+  "kind": "name"
+ },
+ {
+  "en": "Yamuru",
+  "kind": "name"
+ },
+ {
+  "en": "Thief-to-Be",
+  "kind": "name",
+  "note": "kaitou wo mezasu = aims to be a phantom/gentleman thief; 'Phantom Thief' alone is 13 > 12."
+ },
+ {
+  "en": "Maniron",
+  "kind": "name"
+ },
+ {
+  "en": "Behead Ya!",
+  "kind": "name",
+  "note": "kubi haneru zo = 'I'll cut your head off!' (wmap/chap line); threat kept."
+ },
+ {
+  "en": "Korbitz",
+  "kind": "name"
+ },
+ {
+  "en": "Always Cold",
+  "kind": "name",
+  "note": "hieshou de shite = 'I'm sensitive to the cold, you see' (polite)."
+ },
+ {
+  "en": "Mokero",
+  "kind": "name"
+ },
+ {
+  "en": "Only Got Brawn",
+  "kind": "name",
+  "note": "chikara dake ga torie = strength is my only merit."
+ },
+ {
+  "en": "Debug 1",
+  "kind": "name",
+  "note": "Debug placeholder column."
+ },
+ {
+  "en": "Epithet 1",
+  "kind": "name",
+  "note": "Debug placeholder: nitsuna 1."
+ },
+ {
+  "en": "Debug 2",
+  "kind": "name"
+ },
+ {
+  "en": "Epithet 2",
+  "kind": "name"
+ },
+ {
+  "en": "Debug 3",
+  "kind": "name"
+ },
+ {
+  "en": "Epithet 3",
+  "kind": "name"
+ },
+ {
+  "en": "Debug 4",
+  "kind": "name"
+ },
+ {
+  "en": "Epithet 4",
+  "kind": "name"
+ },
+ {
+  "en": "Debug 5",
+  "kind": "name"
+ },
+ {
+  "en": "Epithet 5",
+  "kind": "name"
+ },
+ {
+  "en": "Debug 6",
+  "kind": "name"
+ },
+ {
+  "en": "Epithet 6",
+  "kind": "name"
+ },
+ {
+  "en": "Petit-Das",
+  "kind": "name",
+  "note": "New name: puchi + Das, a tiny Reckdas lookalike (MON_TEXT 3693); Reckdas per ITEM 'Reckdas' Evil Fog'."
+ },
+ {
+  "en": "Evil Fog Kid",
+  "kind": "name",
+  "note": "akumu no moushigo = child of the evil fog; 'Evil Fog' as in Reckdas' Evil Fog. 'Evil Fog Spawn' is 14 > 12."
+ },
+ {
+  "en": "Squeeza",
+  "kind": "name",
+  "note": "New name: romanized sukuwiiza."
+ },
+ {
+  "en": "Seafood Fiend",
+  "kind": "name",
+  "note": "arawareta kaisan majin = 'the seafood demon who appeared'; 'appeared' dropped to fit 14."
+ },
+ {
+  "en": "An amorphous, sticky monster found everywhere. It favors damp places, clinging to prey and trying to digest it with its whole body. Still, barring something truly unusual, it is unlikely to put your life in danger.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mysterious thing sighted in many lands. It is round and cute, so some poke it with a finger for fun, but it resists spells well and fights back a fair bit, so be careful.",
+  "kind": "desc"
+ },
+ {
+  "en": "A slime said to be dyed red with the blood of adventurers... In truth, it is a slime discolored by differences in the soil. Adapted to survive harsher environments, it is stronger than a Slime, but in the end, it is just a slime.",
+  "kind": "desc"
+ },
+ {
+  "en": "A creature that rises from the ground, eyeing prey with its formless body and big eyes. Its thick tentacles are surprisingly strong and reach even the back row, so low-level Mages and the like often fall prey to it. If it looks dangerous, have your front line cover them.",
+  "kind": "desc",
+  "note": "ookina me: number not settled by the source; 'big eyes'."
+ },
+ {
+  "en": "Life that dwells inside a flask, born of the secret arts of alchemy. The vast magic poured into it lets it float, flask and all. Perhaps to protect itself, it attacks even from inside the flask with a strange power called Psi Blade.",
+  "kind": "desc",
+  "note": "Psi Blade = ITEM name (slice_17)."
+ },
+ {
+  "en": "Human figures that people built in awe and worship of nature's might. Given offerings and wished upon, they gained hearts and began to move. Most became giant stone statues guarding villages, but an Inukshuk touched by malice through wicked wishes becomes a menace to people.",
+  "kind": "desc"
+ },
+ {
+  "en": "A magical creature that takes in all kinds of living things and grows ever larger, keeping its shape. Some of those it takes in bond with the Jellita and fuse with it instead of being digested. Touch it bare and digestion starts right there, so armor is a must.",
+  "kind": "desc"
+ },
+ {
+  "en": "A monster with a lion's face and many beastly legs. It looks like nothing but someone's bad joke. Its many legs let it move at frightening speed, but adventurers whisper, \"Sure, it's fast side to side, but isn't it slow going back and forth?\"",
+  "kind": "desc"
+ },
+ {
+  "en": "If a vine coils around you with unreasonable strength as you walk in the forest, it may be a Weird Kelp. Leave it be and it will drag you in, bit by bit, into a pitcher made of leaves and brimming with digestive juices.",
+  "kind": "desc"
+ },
+ {
+  "en": "Plump, sexy lips. A tongue writhing in the mouth, bewitchingly wet. A cute snaggletooth peeking out. Anyone's heart would be stolen... if only they were attached to a human body.",
+  "kind": "desc",
+  "note": "yaeba (snaggletooth) is a cute trait in Japan."
+ },
+ {
+  "en": "A right hand that devours desire. It was once a sort of spirit born from human greed. As it greedily gathered gold, silver and treasure, the treasure stuck to it, forming its current shape. They say the Gold Right Hand steals not only treasure but even the lives of those who own it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A left hand that devours desire. Like the right hand, it was born from human greed and gathers gold, silver and treasure. But after stealing treasure, this left hand also takes the memories etched in the treasure and its owner. With them, it learns where the next treasure lies and flies straight there.",
+  "kind": "desc"
+ },
+ {
+  "en": "A being formed from people's desires, born of the greed of ministers and nobles that outlived them. At first it was a single jewel, but while gathering treasure it found a cool mask and has worn it ever since. More cowardly than the hands, it is seen fleeing battle and leaving them behind.",
+  "kind": "desc",
+  "note": "te wo oite nigete = leaves the hands behind and flees."
+ },
+ {
+  "en": "A knight living in a canvas. What it is after is unknown, but it will see most adventurers as enemies and attack them. It uses no special attacks, so if they surround you, stay calm and burn them away.",
+  "kind": "desc",
+  "note": "Source typo kyanpasu read as kyanbasu (canvas)."
+ },
+ {
+  "en": "A wild beast living in a canvas. Perhaps bored inside the painting, it attacks anyone passing nearby without discrimination. It has no notable traits, so as long as you handle it correctly, it should not be that tough a foe.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mechanical bird. Its ferocity and machine-precise movements torment adventurers. Yet turn that precision against it and you will be the ones running rings around it. Perhaps they look alike, for now and then one mistakes a house's weathercock for a female of its kind and starts courting it.",
+  "kind": "desc"
+ },
+ {
+  "en": "An artist's drawing mannequin that gained a will after its master died. Due to its shape, it cannot move its face freely and cannot look up or down. They have one wish and one alone: to see the blue sky. If you spot one, help it see the blue sky.",
+  "kind": "desc"
+ },
+ {
+  "en": "Also called the Hound of Void. An otherworldly monster said to live by devouring space. Why the Edumo exist is unknown. One theory says they dispose of unneeded space by eating it, and will come in packs when the gods decide the end of the world.",
+  "kind": "desc",
+  "note": "Void = glossary god of space."
+ },
+ {
+  "en": "Every adventurer knows slimes, but in fact little research has been done on their ecology. A slime's lifespan is also unknown, and at times you may meet a giant slime that seems centuries old. Its size is startling at first, but a slime is still a slime.",
+  "kind": "desc",
+  "note": "nan-byaku nen = several hundred years -> 'centuries old'."
+ },
+ {
+  "en": "A bizarre creature that feeds on carrion. The sight of Rags swarming over an adventurer left out in the open is truly revolting. They rarely come down to human settlements, but if civilians ever saw one, it would cause quite a stir.",
+  "kind": "desc"
+ },
+ {
+  "en": "A nasty foe that nests in treasure chests and waits for adventurers. Even at high levels, its \"Miasma Wave\" can halve your HP, so take care. But how do Thieves remove a Mimic's trap? Perhaps it is a creature like a hermit crab.",
+  "kind": "desc",
+  "note": "shoukaiha (enemy-only spell, SPELL.CSV row 3980) not yet translated anywhere; 'Miasma Wave' is a placeholder rendering. Align with the SPELL slice."
+ },
+ {
+  "en": "A monster around which theories swirl: a warrior trapped in a twisted world, a failed Homunculus, discarded and back for revenge, a dream demon's minion, a soldier from another dimension. Its looks are so harsh that it is said to haunt the dreams of those who see it, or drive them mad on the spot.",
+  "kind": "desc",
+  "note": "muma = dream demon (incubus/nightmare)."
+ },
+ {
+  "en": "A Homunculus grown further. Except for its head, its body no longer crumbles on contact with open air. Crack the flask on its head a little, and the protective fluid would spill and it would soon die. But if they are made at whim and killed for no real reason, does their life mean anything?",
+  "kind": "desc",
+  "note": "katte ni umidasare: 'made at whim' (created without consent). kanojora = 'they' (homunculi are female elsewhere)."
+ },
+ {
+  "en": "An Edumo Senior is an Edumo of proven power and record, granted some free will and allowed to act on it. Acting on their own, some reportedly interact with those who dwell on the land and achieve their own inner growth.",
+  "kind": "desc",
+  "note": "Source typo kotai read as individual."
+ },
+ {
+  "en": "For those who wield magic, the Tetramystica is the finest defensive token. It is far harder to build than a golem, but once built it is said to be worth an army of ten thousand. It often outlives its master, and in such cases is said to gain free will.",
+  "kind": "desc"
+ },
+ {
+  "en": "A female zombie. Among those who fall short of their goals are women too. Perhaps pained by her cold body, she seeks out adventurers, craving the warmth of living flesh and blood. But don't embrace her out of pity. A rotten brain and clouded eyes can't know your heart.",
+  "kind": "desc"
+ },
+ {
+  "en": "A skeleton set in motion by someone's curse. Normally, the monsters called undead have no memories of their life. But on rare occasions, one keeps part of its former memories.",
+  "kind": "desc"
+ },
+ {
+  "en": "A zombie dog. Humans have so much needless wisdom that turning zombie seems to strip them of everything, but those with little intellect to begin with seem to act much as they did in life. Zombie Fangs are no exception: they're said to be seen gnawing Skeleton bones for fun.",
+  "kind": "desc"
+ },
+ {
+  "en": "Burial rules say, \"Never bury a shovel with the dead.\" Should the dead lose the soul's true path, they could dig their way back with it. On a windless night, listen closely in a graveyard. You should hear those no longer human squirming to get out of their coffins.",
+  "kind": "desc"
+ },
+ {
+  "en": "A giant fish turned zombie. Mid-level adventurers sometimes fish as one way to get food in a dungeon. But if your catch is a Bass Zombi, what a letdown. If you cast a resurrection spell on it, would the fish meat come back to life?",
+  "kind": "desc",
+  "note": "Bass Zombi = MONSTER1 name (slice_31)."
+ },
+ {
+  "en": "A woman who died giving birth, or who died of grief over a stillbirth, is said to become a Langsuir after death. She drinks blood with a mouth on the back of her head, and perhaps from regret, her prey is always children. Killing another's child won't bring hers back. She must know that, but...",
+  "kind": "desc",
+  "note": "Langsuir is explicitly a woman in the source, so 'she'."
+ },
+ {
+  "en": "The very byword for those who live in darkness. Vampires come in several ranks, and these are the lowest. Even so, ordinary adventurers must be wary of them. If the Priest's drain barrier spell has worn off, fleeing is also the right call.",
+  "kind": "desc",
+  "note": "'drain barrier' as in ebt slice_08."
+ },
+ {
+  "en": "A bizarre tree said to grow in the world of darkness. It latches onto the bodies of sinners and drops its fruit into their mouths. The fruit is terribly bitter, but there is no escaping the Zaqqum; they are said to be force-fed it endlessly.",
+  "kind": "desc"
+ },
+ {
+  "en": "An undead noble who gained the power of darkness. Even as its body rots away, the magic and dignity within it never fade. It saps your party's strength to add to its servants, so finish it off quickly when you meet one.",
+  "kind": "desc",
+  "note": "tairyoku wo kezutte: 'saps strength' (HP)."
+ },
+ {
+  "en": "A holy girl offered up in a vile magic rite. Once the rite ends, it is the custom to dispose of her, yet on rare occasions she is left behind by mistake. When such a victim's body bathes in starlight three times, she rises to a second life... vowing revenge on her killers and all who failed to save her.",
+  "kind": "desc"
+ },
+ {
+  "en": "A burly Skeleton infused with power and strengthened. At this size it is little different from a giant. Many Skeletons go into it, so when a Girou's body is smashed, the shards return to their original Skeleton forms. After a Girou falls, vast numbers of Skeletons are said to lie strewn about.",
+  "kind": "desc"
+ },
+ {
+  "en": "The remains of royalty, crown and all. Still believing in its former rank, it bars adventurers' way with booming, pompous laughter. As it is often seen leading Liches, there are rumors that nobles stick together.",
+  "kind": "desc",
+  "note": "tsurunde iru = hang out together."
+ },
+ {
+  "en": "A knight of the underworld. To guard persons of importance, it stands before you without expression and calmly does its duty. Its otherworldly blows, if poorly blocked, will deal heavy damage to the party.",
+  "kind": "desc"
+ },
+ {
+  "en": "A vampiress who ensnares prey with bewitching beauty. But young women are what she craves. She is not rough like lesser vampires. She draws her prey in by the waist, speaks of love, and waits for her eyes to melt with bliss. Those charmed by her sweet kiss offer up their blood themselves.",
+  "kind": "desc",
+  "note": "Monster name (MONSTER1 row 2641) is not used in this text and not yet translated."
+ },
+ {
+  "en": "A sharp scythe that easily reaps heads in one sweep, a skull head that foretells death, and the body of a vile centipede. While you stand frozen, you find all your allies but you are dead... a frightful monster that makes this commonplace. If you meet one, curse yourself for wandering into such a place.",
+  "kind": "desc",
+  "note": "Samael (ITEM 'Samael's Scythe')."
+ }
+]

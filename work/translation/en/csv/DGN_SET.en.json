@@ -1,0 +1,110 @@
+[
+ {
+  "id": "DGN_SET.CSV:3:1",
+  "en": "Konnu Ruins",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:4:1",
+  "en": "Blue Cave",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:5:1",
+  "en": "Leanmakana Mts.",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:6:1",
+  "en": "Perpeco Forest",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:7:1",
+  "en": "Joker Land",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:8:1",
+  "en": "Crotoa Ruins",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:9:1",
+  "en": "Giaf Dunes",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:10:1",
+  "en": "Santorea Academy",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:11:1",
+  "en": "Ogre Bay",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:12:1",
+  "en": "Miasuna",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:13:1",
+  "en": "Crystal Maze",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:14:1",
+  "en": "Rinos Volcano",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:15:1",
+  "en": "Sun Palace",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:16:1",
+  "en": "Fairy Village",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:17:1",
+  "en": "Wind Castle",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:18:1",
+  "en": "Seirion-Daera",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:19:1",
+  "en": "Genesis Sanctum",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "DGN_SET.CSV:20:1",
+  "en": "(Test)",
+  "max": 16,
+  "used": true
+ }
+]

@@ -1,0 +1,367 @@
+[
+ {
+  "en": "Crested Robe",
+  "kind": "name",
+  "note": "[JP] crest/emblem woven in for magic resistance."
+ },
+ {
+  "en": "Breeze Clothes",
+  "kind": "name",
+  "note": "So light it sways in an imperceptible breeze."
+ },
+ {
+  "en": "Scarlet Robe",
+  "kind": "name"
+ },
+ {
+  "en": "Thunder Guard",
+  "kind": "name",
+  "note": "A robe (lightning resistance); katakana name kept."
+ },
+ {
+  "en": "Moon Feather Robe",
+  "kind": "name",
+  "note": "[JP] = celestial maiden's feathered robe."
+ },
+ {
+  "en": "Bridal Robe",
+  "kind": "name",
+  "note": "Desc calls it a pure white dress; name kept as Robe (category)."
+ },
+ {
+  "en": "Coloratura",
+  "kind": "name",
+  "note": "Bard's costume; operatic term."
+ },
+ {
+  "en": "Pontiff's Robe",
+  "kind": "name",
+  "note": "[JP] = pope/pontiff; Bishop-only robe."
+ },
+ {
+  "en": "Leather Gauntlets",
+  "kind": "name",
+  "note": "[JP] = Gauntlets, matching ebt ?Gauntlets."
+ },
+ {
+  "en": "Fairy Gloves",
+  "kind": "name"
+ },
+ {
+  "en": "Tekko",
+  "kind": "name",
+  "note": "[JP]: eastern hand guard; romanized like Katana. Alt: Hand Guards."
+ },
+ {
+  "en": "Iron Gauntlets",
+  "kind": "name"
+ },
+ {
+  "en": "Shredded Gauntlets",
+  "kind": "name",
+  "note": "Cursed, cut to ribbons."
+ },
+ {
+  "en": "Magic Gloves",
+  "kind": "name",
+  "note": "[JP]: raises spell resistance only."
+ },
+ {
+  "en": "Rose Gauntlets",
+  "kind": "name",
+  "note": "Women-only."
+ },
+ {
+  "en": "Evil Gauntlets",
+  "kind": "name",
+  "note": "[JP] = Evil (glossary alignment), like Evil Saber."
+ },
+ {
+  "en": "Steel Gauntlets",
+  "kind": "name"
+ },
+ {
+  "en": "Lace Gloves",
+  "kind": "name"
+ },
+ {
+  "en": "Mantis Gloves",
+  "kind": "name"
+ },
+ {
+  "en": "Reaper's Gauntlets",
+  "kind": "name",
+  "note": "[JP] rendered Reaper (desc: grim reaper with scythe); tarot card uses Death."
+ },
+ {
+  "en": "Mithril Gauntlets",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Gauntlets",
+  "kind": "name",
+  "note": "[JP] = Holy."
+ },
+ {
+  "en": "Buskins",
+  "kind": "name"
+ },
+ {
+  "en": "Straw Sandals",
+  "kind": "name",
+  "note": "[JP] (waraji); desc explains eastern straw footwear."
+ },
+ {
+  "en": "Forest Walkers",
+  "kind": "name",
+  "note": "Boots."
+ },
+ {
+  "en": "Iron Boots",
+  "kind": "name"
+ },
+ {
+  "en": "Red Shoes",
+  "kind": "name",
+  "note": "Andersen reference (dance until death)."
+ },
+ {
+  "en": "Steel Boots",
+  "kind": "name"
+ },
+ {
+  "en": "Dwarven Shoes",
+  "kind": "name"
+ },
+ {
+  "en": "Evil Boots",
+  "kind": "name",
+  "note": "[JP] category = Boots (ebt ?Boots)."
+ },
+ {
+  "en": "Fire Boots",
+  "kind": "name"
+ },
+ {
+  "en": "Silver Shoes",
+  "kind": "name",
+  "note": "Kept Shoes (Oz echo)."
+ },
+ {
+  "en": "Angel's Sandals",
+  "kind": "name",
+  "note": "Matches glossary Angel's Window style."
+ },
+ {
+  "en": "Platinum Slippers",
+  "kind": "name"
+ },
+ {
+  "en": "Boots of Darkness",
+  "kind": "name"
+ },
+ {
+  "en": "Glass Slippers",
+  "kind": "name",
+  "note": "Cinderella reference (only one is sometimes found)."
+ },
+ {
+  "en": "Holy Boots",
+  "kind": "name"
+ },
+ {
+  "en": "Traveler's Cloak",
+  "kind": "name",
+  "note": "[JP] = Cloak (ebt ?Cloak)."
+ },
+ {
+  "en": "Fallen Cloak",
+  "kind": "name",
+  "note": "max 14. [JP] = depravity; desc speaks of the fallen ([JP]). Alt: Decadent Cloak (14)."
+ },
+ {
+  "en": "Innocent Cloak",
+  "kind": "name",
+  "note": "Glossary Innocent series (cf. Innocent Sword)."
+ },
+ {
+  "en": "New Moon Cloak",
+  "kind": "name",
+  "note": "[JP] = Cloak, as chap 'Forebear's Cloak'."
+ },
+ {
+  "en": "Master Apron",
+  "kind": "name"
+ },
+ {
+  "en": "Midsummer Garb",
+  "kind": "name"
+ },
+ {
+  "en": "Wild Dillon",
+  "kind": "name",
+  "note": "New name: [JP] romanized Dillon; merchant king's mantle granted by Barjeff."
+ },
+ {
+  "en": "Griffin Cloak",
+  "kind": "name",
+  "note": "Name says [JP] (Griffin); desc says Griffon."
+ },
+ {
+  "en": "Black Dream Cloak",
+  "kind": "name"
+ },
+ {
+  "en": "Mirage Cloak",
+  "kind": "name"
+ },
+ {
+  "en": "Fundoshi",
+  "kind": "name",
+  "note": "Eastern loincloth underwear (belt slot)."
+ },
+ {
+  "en": "Fundoshi-1",
+  "kind": "name",
+  "note": "Transformed/unleashed form of Fundoshi; -1 kept as a variant tag, not a minus. Keep in step with [JP] (slice_13)."
+ },
+ {
+  "en": "Blue Rain",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Bat Belt",
+  "kind": "name"
+ },
+ {
+  "en": "Foxtail",
+  "kind": "name",
+  "note": "No description found."
+ },
+ {
+  "en": "Warrior's Black Belt",
+  "kind": "name",
+  "note": "Exactly 20 bytes. [JP] = martial artist/warrior."
+ },
+ {
+  "en": "Bone Belt",
+  "kind": "name"
+ },
+ {
+  "en": "Buster Champ",
+  "kind": "name",
+  "note": "Champion's belt."
+ },
+ {
+  "en": "Tiger Loincloth",
+  "kind": "name",
+  "note": "Oni-style tiger-skin waistcloth; desc suggests a club."
+ },
+ {
+  "en": "Talisman",
+  "kind": "name",
+  "note": "[JP] = ofuda; matches ebt [JP] = Talisman."
+ },
+ {
+  "en": "Exorcism Talisman",
+  "kind": "name",
+  "note": "[JP] = repel demons."
+ },
+ {
+  "en": "Pure Talisman",
+  "kind": "name",
+  "note": "[JP]: purifying ofuda."
+ },
+ {
+  "en": "Fire Magic Seal",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Fire Magic Seal +1",
+  "kind": "name",
+  "note": "+N spaced like Long Sword +1."
+ },
+ {
+  "en": "Fire Magic Seal +2",
+  "kind": "name"
+ },
+ {
+  "en": "Fire Magic Seal +3",
+  "kind": "name"
+ },
+ {
+  "en": "Ice Magic Seal",
+  "kind": "name"
+ },
+ {
+  "en": "Ice Magic Seal +1",
+  "kind": "name"
+ },
+ {
+  "en": "Ice Magic Seal +2",
+  "kind": "name"
+ },
+ {
+  "en": "Ice Magic Seal +3",
+  "kind": "name"
+ },
+ {
+  "en": "Bolt Magic Seal",
+  "kind": "name",
+  "note": "[JP] = Thunder (ebt element name); Lightning would not fit +N."
+ },
+ {
+  "en": "Bolt Magic Seal+1",
+  "kind": "name",
+  "note": "No space before +1 (21 bytes with space; max 20)."
+ },
+ {
+  "en": "Bolt Magic Seal+2",
+  "kind": "name",
+  "note": "No space before +2 (fit)."
+ },
+ {
+  "en": "Bolt Magic Seal+3",
+  "kind": "name",
+  "note": "No space before +3 (fit)."
+ },
+ {
+  "en": "Light Magic Seal",
+  "kind": "name"
+ },
+ {
+  "en": "Light Magic Seal +1",
+  "kind": "name"
+ },
+ {
+  "en": "Light Magic Seal +2",
+  "kind": "name"
+ },
+ {
+  "en": "Light Magic Seal +3",
+  "kind": "name"
+ },
+ {
+  "en": "Dark Magic Seal",
+  "kind": "name"
+ },
+ {
+  "en": "Dark Magic Seal +1",
+  "kind": "name"
+ },
+ {
+  "en": "Dark Magic Seal +2",
+  "kind": "name"
+ },
+ {
+  "en": "Dark Magic Seal +3",
+  "kind": "name"
+ },
+ {
+  "en": "Silence Anklet",
+  "kind": "name",
+  "note": "Pattern '<Status> Anklet' for slice_15 siblings (Sleep/Confusion/Charm...)."
+ }
+]

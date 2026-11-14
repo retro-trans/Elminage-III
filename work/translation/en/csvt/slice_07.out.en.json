@@ -1,0 +1,340 @@
+[
+ {
+  "en": "Please form a party.",
+  "kind": "help",
+  "note": "Shown after Stand By when the party is empty; dupes 16."
+ },
+ {
+  "en": "Check a character's status.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character.",
+  "kind": "help"
+ },
+ {
+  "en": "With a Bishop in the party, list all unidentified items and appraise them in one go.",
+  "kind": "help",
+  "note": "Bishop = glossary class name. 'Appraise' matches the skill/menu term in ebt."
+ },
+ {
+  "en": "There is no one who can appraise.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose who will do the appraising.",
+  "kind": "help"
+ },
+ {
+  "en": "Which item will you appraise?",
+  "kind": "help"
+ },
+ {
+  "en": "Item appraised.",
+  "kind": "help"
+ },
+ {
+  "en": "Change the party's formation.",
+  "kind": "help"
+ },
+ {
+  "en": "Pick who to move, then where. That character's icon leaves the lower row and moves to the upper one. Once all party members have moved, it ends automatically.",
+  "kind": "help",
+  "note": "Compressed to fit 158 bytes; all three sentences kept."
+ },
+ {
+  "en": "Let a character rest. Square repeats the Circle button.",
+  "kind": "help",
+  "note": "Button names spelled out (Circle/Square), as in ebt translations."
+ },
+ {
+  "en": "The whole party rests. Square repeats the Circle button.",
+  "kind": "help"
+ },
+ {
+  "en": "Storage reserved for Alchemists. Smithing and alchemy are done here.",
+  "kind": "help",
+  "note": "Alchemist = class name."
+ },
+ {
+  "en": "Choose a character to stay at the inn.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a room to stay in.",
+  "kind": "help"
+ },
+ {
+  "en": "Unable to stay at the inn in this condition.",
+  "kind": "help",
+  "note": "Subject unclear (character or party); kept impersonal."
+ },
+ {
+  "en": "Choose the character who will pay the fee.",
+  "kind": "help",
+  "note": "Alchemy Storage usage fee."
+ },
+ {
+  "en": "You don't have enough money to pay the fee.",
+  "kind": "help"
+ },
+ {
+  "en": "Fuse an item with ore to give it added effects.",
+  "kind": "help"
+ },
+ {
+  "en": "Combine ores to create alchemy items.",
+  "kind": "help"
+ },
+ {
+  "en": "Restore smithed weapons and armor to their original state.",
+  "kind": "help"
+ },
+ {
+  "en": "Put items you are carrying into storage.",
+  "kind": "help"
+ },
+ {
+  "en": "Take stored items out of storage.",
+  "kind": "help"
+ },
+ {
+  "en": "There are no items in storage.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose who will do the smithing.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose the weapon to enhance.",
+  "kind": "help",
+  "note": "Source says weapon only."
+ },
+ {
+  "en": "Choose the ore to add.",
+  "kind": "help"
+ },
+ {
+  "en": "Allocate the grade points.",
+  "kind": "help",
+  "note": "[JP] = 'grade', as in wmap slice_06 (Madule's ore-grade line). 'points' added for the allocation screen; uncertain."
+ },
+ {
+  "en": "Can't smith without alchemy skills.",
+  "kind": "help",
+  "note": "[JP] = alchemy skills (generic, not a named skill)."
+ },
+ {
+  "en": "There's no base item to smith, so smithing can't be done.",
+  "kind": "help",
+  "note": "Source literally says [JP] (alchemy) can't be done, but the row is in the smithing flow (no base weapon/armor); rendered as smithing. Flag for review."
+ },
+ {
+  "en": "No one is in a condition to perform alchemy.",
+  "kind": "help",
+  "note": "Ctx: shown when status ailments etc. leave no one able."
+ },
+ {
+  "en": "No one is in a condition to do smithing.",
+  "kind": "help"
+ },
+ {
+  "en": "No one is in a condition to dismantle.",
+  "kind": "help"
+ },
+ {
+  "en": "Smithing complete.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose who will perform the alchemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose the first ore.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose the second ore.",
+  "kind": "help"
+ },
+ {
+  "en": "Can't perform alchemy without alchemy skills.",
+  "kind": "help"
+ },
+ {
+  "en": "You have no alchemy materials, so alchemy can't be performed.",
+  "kind": "help"
+ },
+ {
+  "en": "This combination can't be used for alchemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Alchemy requires at least two materials.",
+  "kind": "help"
+ },
+ {
+  "en": "Alchemy complete.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose who will do the dismantling.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose the item to dismantle.",
+  "kind": "help"
+ },
+ {
+  "en": "Can't dismantle without the Dismantle skill.",
+  "kind": "help",
+  "note": "[JP] is a JOB_EX skill name; 'Dismantle' per ebt menu."
+ },
+ {
+  "en": "There are no items to dismantle.",
+  "kind": "help"
+ },
+ {
+  "en": "You can't carry the items that dismantling would produce.",
+  "kind": "help"
+ },
+ {
+  "en": "Dismantling complete.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose the item to store.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose the item to take out.",
+  "kind": "help"
+ },
+ {
+  "en": "This item can't be stored.",
+  "kind": "help"
+ },
+ {
+  "en": "The storage is full. No more items can be stored.",
+  "kind": "help"
+ },
+ {
+  "en": "Item placed in storage.",
+  "kind": "help"
+ },
+ {
+  "en": "Who will take items out of storage?",
+  "kind": "help"
+ },
+ {
+  "en": "Item taken out of storage.",
+  "kind": "help"
+ },
+ {
+  "en": "Buy and sell goods.",
+  "kind": "help"
+ },
+ {
+  "en": "Appraise unidentified items.",
+  "kind": "help"
+ },
+ {
+  "en": "List everyone's unequipped items and sell them in bulk.",
+  "kind": "help"
+ },
+ {
+  "en": "Lift curses from cursed items. Also repairs broken items.",
+  "kind": "help"
+ },
+ {
+  "en": "There are no items to appraise.",
+  "kind": "help"
+ },
+ {
+  "en": "There are no items to sell.",
+  "kind": "help"
+ },
+ {
+  "en": "Nothing needs uncursing or repair.",
+  "kind": "help"
+ },
+ {
+  "en": "Who will trade?",
+  "kind": "help"
+ },
+ {
+  "en": "There is no one who can trade.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an item to appraise.",
+  "kind": "help"
+ },
+ {
+  "en": "Appraising the item.",
+  "kind": "help",
+  "note": "Shown once the item is chosen; same shape as 602."
+ },
+ {
+  "en": "Choose items to sell.",
+  "kind": "help",
+  "note": "Bulk-sell list, so plural."
+ },
+ {
+  "en": "Choose an item to uncurse or repair.",
+  "kind": "help"
+ },
+ {
+  "en": "This item is cursed.",
+  "kind": "help"
+ },
+ {
+  "en": "This item needs repair.",
+  "kind": "help"
+ },
+ {
+  "en": "Uncursing/repairing the item.",
+  "kind": "help",
+  "note": "Slash form matches ebt 'Uncurse/Repair it?'."
+ },
+ {
+  "en": "Buy items.",
+  "kind": "help"
+ },
+ {
+  "en": "Sell items.",
+  "kind": "help"
+ },
+ {
+  "en": "Unidentified items can't be sold.",
+  "kind": "help"
+ },
+ {
+  "en": "Not enough money to buy this.",
+  "kind": "help"
+ },
+ {
+  "en": "Items worth 0 GP can't be sold.",
+  "kind": "help"
+ },
+ {
+  "en": "Items not worth 0 GP can't be sold here.",
+  "kind": "help",
+  "note": "0 GP shop: only 0 GP items can be sold."
+ },
+ {
+  "en": "Choose an item category.",
+  "kind": "help"
+ },
+ {
+  "en": "Circle: Buy. Triangle: View item details.",
+  "kind": "help",
+  "note": "Button format as in ebt ('Triangle: ...')."
+ },
+ {
+  "en": "This item is out of stock.",
+  "kind": "help"
+ }
+]

@@ -1,0 +1,360 @@
+[
+ {
+  "en": "Sleep Anklet",
+  "kind": "name"
+ },
+ {
+  "en": "Confusion Anklet",
+  "kind": "name"
+ },
+ {
+  "en": "Charm Anklet",
+  "kind": "name"
+ },
+ {
+  "en": "Beheading Anklet",
+  "kind": "name",
+  "note": "UI status term is 'Decapitation'; 'Decapitation Anklet' (19) also fits if exact matching is wanted."
+ },
+ {
+  "en": "Mageslayer Anklet",
+  "kind": "name",
+  "note": "[JP]: ITEM_TEXT says the arrows home in on the source of magic power, so 'mage/magic slayer'. Uncertain whether the stat is anti-caster or anti-demon."
+ },
+ {
+  "en": "Water Quartz",
+  "kind": "name"
+ },
+ {
+  "en": "Fringe Choker",
+  "kind": "name"
+ },
+ {
+  "en": "Lucky Charm",
+  "kind": "name",
+  "note": "[JP] (omamori); 'Charm' alone would clash with the Charm status."
+ },
+ {
+  "en": "Lucky Charm +1",
+  "kind": "name",
+  "note": "'+N' written with a space, as 'Long Sword +1' in the finished UI text."
+ },
+ {
+  "en": "Amulet of Life",
+  "kind": "name",
+  "note": "glossary"
+ },
+ {
+  "en": "Pacifier",
+  "kind": "name",
+  "note": "As in chap slice_011."
+ },
+ {
+  "en": "Geo Rune",
+  "kind": "name"
+ },
+ {
+  "en": "Wooden Pillbox",
+  "kind": "name",
+  "note": "14-byte slot; ITEM_TEXT: wooden box that keeps medicine dry."
+ },
+ {
+  "en": "Inro",
+  "kind": "name",
+  "note": "[JP] (Mito Komon reference: brandish it and foes bow)."
+ },
+ {
+  "en": "Reverse Scale",
+  "kind": "name",
+  "note": "[JP]: the backward scale under a dragon's chin; literal rendering keeps the ITEM_TEXT explanation coherent."
+ },
+ {
+  "en": "Vorpal Misanga",
+  "kind": "name",
+  "note": "Vorpal + misanga (friendship bracelet), per ITEM_TEXT."
+ },
+ {
+  "en": "Pearl Ring",
+  "kind": "name"
+ },
+ {
+  "en": "Bone Ring",
+  "kind": "name"
+ },
+ {
+  "en": "Sacred Wood Ring",
+  "kind": "name",
+  "note": "[JP] = sacred tree."
+ },
+ {
+  "en": "Diamond Ring",
+  "kind": "name"
+ },
+ {
+  "en": "Rusted Ring",
+  "kind": "name",
+  "note": "14-byte slot."
+ },
+ {
+  "en": "White Ring",
+  "kind": "name"
+ },
+ {
+  "en": "Fairy Ring",
+  "kind": "name"
+ },
+ {
+  "en": "Cat's Eye Ring",
+  "kind": "name"
+ },
+ {
+  "en": "Ring of Healing",
+  "kind": "name"
+ },
+ {
+  "en": "Ring of Death",
+  "kind": "name"
+ },
+ {
+  "en": "Ring of Fellowship",
+  "kind": "name",
+  "note": "[JP] = sworn friend; ITEM_TEXT: vow of friendship across races."
+ },
+ {
+  "en": "Ankh of Strength",
+  "kind": "name",
+  "note": "Stat names as in the UI (Strength/Intellect/Piety/Vitality/Agility/Luck)."
+ },
+ {
+  "en": "Ankh of Intellect",
+  "kind": "name"
+ },
+ {
+  "en": "Ankh of Piety",
+  "kind": "name"
+ },
+ {
+  "en": "Ankh of Vitality",
+  "kind": "name"
+ },
+ {
+  "en": "Ankh of Agility",
+  "kind": "name"
+ },
+ {
+  "en": "Ankh of Luck",
+  "kind": "name"
+ },
+ {
+  "en": "Revival Elixir",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Flute",
+  "kind": "name"
+ },
+ {
+  "en": "Harp of Sleep",
+  "kind": "name"
+ },
+ {
+  "en": "Startle Trumpet",
+  "kind": "name",
+  "note": "[JP]: a plain very loud trumpet; effect raises enemy AC."
+ },
+ {
+  "en": "Kagura Bells",
+  "kind": "name",
+  "note": "Shrine-dance bells ([JP] = Kannagi class)."
+ },
+ {
+  "en": "Enchanting Lute",
+  "kind": "name"
+ },
+ {
+  "en": "Puppet Maracas",
+  "kind": "name",
+  "note": "[JP] = manipulate; draws enemy attacks onto one ally."
+ },
+ {
+  "en": "Earthsplit Drum",
+  "kind": "name"
+ },
+ {
+  "en": "Zero Flute",
+  "kind": "name"
+ },
+ {
+  "en": "Healing Tuning Fork",
+  "kind": "name"
+ },
+ {
+  "en": "Divine Bolt Harp",
+  "kind": "name",
+  "note": "'Harp of Divine Thunder' (22) does not fit 20."
+ },
+ {
+  "en": "Magic Sitar",
+  "kind": "name"
+ },
+ {
+  "en": "Dvel Soft Steel",
+  "kind": "name",
+  "note": "glossary"
+ },
+ {
+  "en": "Dvel Soft Steel +1",
+  "kind": "name"
+ },
+ {
+  "en": "Dvel Soft Steel +2",
+  "kind": "name"
+ },
+ {
+  "en": "Frozen Elven Iron",
+  "kind": "name",
+  "note": "glossary"
+ },
+ {
+  "en": "Frozen Elven Iron +1",
+  "kind": "name",
+  "note": "20/20 bytes."
+ },
+ {
+  "en": "Frozen Elven Iron +2",
+  "kind": "name",
+  "note": "20/20 bytes."
+ },
+ {
+  "en": "Vectreim",
+  "kind": "name",
+  "note": "New name: romanized [JP] (purple ore)."
+ },
+ {
+  "en": "Vectreim +1",
+  "kind": "name"
+ },
+ {
+  "en": "Vectreim +2",
+  "kind": "name"
+ },
+ {
+  "en": "Mazurite",
+  "kind": "name",
+  "note": "glossary"
+ },
+ {
+  "en": "Mazurite +1",
+  "kind": "name"
+ },
+ {
+  "en": "Mazurite +2",
+  "kind": "name"
+ },
+ {
+  "en": "Tri-Layer Orat",
+  "kind": "name",
+  "note": "New name: [JP] = three-layered (ITEM_TEXT: white ore with ~3 inner layers); [JP] romanized 'Orat'."
+ },
+ {
+  "en": "Tri-Layer Orat +1",
+  "kind": "name"
+ },
+ {
+  "en": "Tri-Layer Orat +2",
+  "kind": "name"
+ },
+ {
+  "en": "Milstone",
+  "kind": "name",
+  "note": "New name: [JP] is a milky-white ([JP]) fragile ore, so 'Mil-' (milk) rather than 'Millstone'. Flag for review."
+ },
+ {
+  "en": "Milstone +1",
+  "kind": "name"
+ },
+ {
+  "en": "Milstone +2",
+  "kind": "name"
+ },
+ {
+  "en": "Wooden Coin Bank",
+  "kind": "name",
+  "note": "'Piggy Bank' kept for [JP]."
+ },
+ {
+  "en": "Iron Coin Bank",
+  "kind": "name"
+ },
+ {
+  "en": "Piggy Bank",
+  "kind": "name"
+ },
+ {
+  "en": "Devil's Coin Bank",
+  "kind": "name"
+ },
+ {
+  "en": "Medal of Power",
+  "kind": "name",
+  "note": "glossary"
+ },
+ {
+  "en": "Tea Leaves",
+  "kind": "name"
+ },
+ {
+  "en": "Air Fruit",
+  "kind": "name",
+  "note": "14-byte slot."
+ },
+ {
+  "en": "Angel's Window",
+  "kind": "name",
+  "note": "glossary; 14/14 bytes."
+ },
+ {
+  "en": "Rock Counter",
+  "kind": "name",
+  "note": "ITEM_TEXT/RENKIN_TXT: counts the floor's stone ([JP]) blocks, so [JP] = rock. CONFLICT: work/translation/en/ebt/slice_02.out.json (and review_g1.json) has 'The Lock Counter reads %03d.' -- that row should become 'Rock Counter'."
+ },
+ {
+  "en": "Dove Bell",
+  "kind": "name",
+  "note": "14-byte slot; [JP] = hand bell."
+ },
+ {
+  "en": "Crow Bell",
+  "kind": "name",
+  "note": "14-byte slot."
+ },
+ {
+  "en": "Sheep's Brush",
+  "kind": "name",
+  "note": "14-byte slot; sheep-hair writing brush."
+ },
+ {
+  "en": "Bone Slippers",
+  "kind": "name"
+ },
+ {
+  "en": "Death Pinwheel",
+  "kind": "name",
+  "note": "14-byte slot: 'Reaper's Pinwheel' (17) does not fit; [JP] = Death as in the tarot UI."
+ },
+ {
+  "en": "Dice of Fate",
+  "kind": "name",
+  "note": "glossary"
+ },
+ {
+  "en": "Philos. Stone",
+  "kind": "name",
+  "note": "14-byte slot: 'Philosopher's Stone' (19) does not fit. Alternative: 'Sage's Stone' (12)."
+ },
+ {
+  "en": "Wand of Records",
+  "kind": "name",
+  "note": "[JP] as in the Recorded History list (EL_KIRO)."
+ }
+]

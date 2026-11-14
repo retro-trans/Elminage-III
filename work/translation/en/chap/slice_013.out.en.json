@@ -1,0 +1,365 @@
+[
+ {
+  "en": "The grotesque monster sank into the sand,\ntaking many mysteries with it.{w}",
+  "kind": "msg",
+  "note": "Follows row 1016 (slice_012): 'igyou no monsutaa' = grotesque monster; align with slice_012's wording if it differs."
+ },
+ {
+  "en": "Suddenly, a voice rang out.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"Come forth, two of you.\"{w}",
+  "kind": "msg",
+  "note": "'futari de maire': imperious order; read as 'only two may come' (party-size restriction?). 'two of you' keeps that reading without asserting the party is two people."
+ },
+ {
+  "en": "And then your bodies were hurled out of the room.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Menolist",
+  "kind": "name",
+  "note": "Spelling from slice_001 'Menolist's Candlestick'. One of the Great Demon Dukes (MON_TEXT 310): gentle, gentlemanly speech, candlestick head."
+ },
+ {
+  "en": "\"Ah, pardon me!{w}My name is Menolist!\"{w}{p}\"The truth is, I have lost my way!{w}Might I ask, incidentally -- Seirion-Daera...\nthat would be this Zefkaka here, would it not?\"{w}",
+  "kind": "msg",
+  "note": "New names: Serion-Daera (dungeon; DGN_SET spells it the same, DGN_NAME/BGM_NAME have the variant Seirion=Daera) and Zefkaka (unknown; apparently what Menolist calls this place). Polite gentleman register per MON_TEXT."
+ },
+ {
+  "en": "\"So you are the new apostles -- the Ryug?\"",
+  "kind": "data",
+  "note": "Yes/no prompt (data row) asked by Menolist ('anata-gata' = the party). 'atarashiki to' = new apostles/disciples; 'apostle' echoes the game subtitle. Ryug per wmap slice_20 (Fourth Generation people, MON_TEXT 321). 41 chars: if this box has the ~30 menu limit, short form: 'You're the new apostles, the Ryug?'."
+ },
+ {
+  "en": "A cactus came up close.{w}Its spines stuck right into you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n              *   Ouch, that hurts!!   *{w}",
+  "kind": "msg",
+  "note": "Centred banner; leading spaces mirror the source frame (style of the wmap banners)."
+ },
+ {
+  "en": "Combat Teacher",
+  "kind": "name",
+  "note": "'bujutsu no sensei' = teacher of the Martial Arts Department; 'Martial Arts Teacher' (20) too long for a name box."
+ },
+ {
+  "en": "\"Show 'em the true grit of the Santorea Martial Arts Department!\"{w}{p}\"How far will your strength get you\nagainst Professor Rombino?{w}Anyone who wants in, take your turns!\"{w}",
+  "kind": "msg",
+  "note": "'sokoiji' read as deep-down grit (not 'malice'). Rombino = monster 'great teacher' of the Martial Arts Tournament (MON_TEXT 285). 'sensei' -> Professor (name box: Prof.)."
+ },
+ {
+  "en": "Will you take part?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Your fighting spirit's way too weak!{w}Don't let Professor Rombino's adorable looks\noverwhelm youuuu!!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"By the way, the last champions were this bunch here!\"{w}",
+  "kind": "msg",
+  "note": "The game presumably shows the previous winners right after."
+ },
+ {
+  "en": "\"All right then, go on, one at a time!!{w}Get fired up, and... GO!\"{w}",
+  "kind": "msg",
+  "note": "'harikitte, go!' rendered the same in 1086."
+ },
+ {
+  "en": "\"Whoa, that's amazing!{w}You won! The championship's yours!!\"{w}",
+  "kind": "msg",
+  "note": "'yours' left number-neutral: entrants go one at a time (1087 uses singular 'anata')."
+ },
+ {
+  "en": "\"No good, no good, no no no good!\nThat's nowhere near enough!\"{w}{p}\"Don't you dare take\nProfessor Rombino lightly!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come back and play again, y'hear!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you were about to leave,\nProfessor Rombino was munching away right in front of you.{w}{p}Something stick-shaped\nwas poking out of the professor's mouth.{w}",
+  "kind": "msg",
+  "note": "No pronoun for Rombino (gender not in glossary). The stick is probably the whistle these Professors hold in their mouths (MON_TEXT 284); kept vague as in the source."
+ },
+ {
+  "en": "Prof. Rombino",
+  "kind": "name",
+  "note": "New name (monster, MONSTER3/MON_TEXT). Name-box form 'Prof.' to stay under 16."
+ },
+ {
+  "en": "\"Gyuuu.\"{w}",
+  "kind": "msg",
+  "note": "Creature noise, kept as sound."
+ },
+ {
+  "en": "\"Booo.\"{w}",
+  "kind": "msg",
+  "note": "Pouty 'boo' noise."
+ },
+ {
+  "en": "\"Grind grind grind grind grind grind...\"{w}",
+  "kind": "msg",
+  "note": "'guriguri' = grinding/twisting noise; six repeats kept."
+ },
+ {
+  "en": "Professor Rombino looked displeased.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Male Student",
+  "kind": "name"
+ },
+ {
+  "en": "\"That special guest lecturer, right?{w}Kinda loud, and way too intense, huh?\"{w}{p}\"Ronde?{w}Oh, it's Professor Mandelgius, isn't it?{w}Can't tell whether even the name sounds impressive or not...\"{w}",
+  "kind": "msg",
+  "note": "'Ronde?' kept as the student's half-remembered guess at the name before correcting to Mandelgius (glossary); uncertain. 'atsukurushii' = stifling/over-intense."
+ },
+ {
+  "en": "3rd-Yr Swords",
+  "kind": "name",
+  "note": "Swordsmanship Department, 3rd year. Speaker is female (her boyfriend is 'kare'). Name boxes in this slice use '<N>-Yr <Dept>'."
+ },
+ {
+  "en": "\"I'm dating a junior from the Magic Department,{w}so wouldn't it be great if he transferred into Swordsmanship?\"{w}{p}\"Then I could help him study,{w}we could eat our packed lunches together,{w}and in an empty classroom once everyone's gone............ you know?\"{w}",
+  "kind": "msg",
+  "note": "'kare' = he (boyfriend), stated in source. Likely the same couple as row 1093."
+ },
+ {
+  "en": "2nd-Year Student",
+  "kind": "name"
+ },
+ {
+  "en": "\"Our swordsmanship teacher is amazing with a blade,{w}but I can never tell what the teacher's saying.\"{w}{p}\"It's all 'Zwaah!' and 'Zweah!' and stuff...{w}But the weird part is, when I yell that too while swinging my sword,\nI kind of get it.\"{w}",
+  "kind": "msg",
+  "note": "Teacher's gender unknown: no pronoun ('the teacher')."
+ },
+ {
+  "en": "3rd-Year Student",
+  "kind": "name"
+ },
+ {
+  "en": "\"Me and some friends are sneaking off\nto the casino in Teridon soon!{w}I'm gonna hit it big!\"{w}",
+  "kind": "msg",
+  "note": "Teridon spelling from wmap slices 17/18."
+ },
+ {
+  "en": "Female Student",
+  "kind": "name",
+  "note": "onna-seito; 1057 joshi-seito also 'Female Student'."
+ },
+ {
+  "en": "\"Welcome to the Sewing Club.{w}We're making pieces to show at the upcoming school festival.{w}The theme is our 'Huge Clothes Even Giants Can Wear' special!\"{w}{p}\"Something a bit outlandish is better\nfor catching the new students' eyes, y'know?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Panties that'll fit a big butt?{w}I happen to be making something big right now, but...{w}Heave... ho! There, here you go.\"{w}",
+  "kind": "msg",
+  "note": "Part of the Teridon panties quest (wmap slices 18/19). 'pantsu' = panties as in wmap slice_18."
+ },
+ {
+  "en": "[Key Item]\nObtained Custom Panties.{w}",
+  "kind": "msg",
+  "note": "Item 'tokuchuu pantsu' = Custom Panties (14 chars; ITEM_PRIZ max 18). Format from slice_001."
+ },
+ {
+  "en": "\"But can anybody actually wear those?{w}In Teridon? Huh, really.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So how were the custom panties I made?{w}Did that kid in Teridon{w}like them, do you think?\"{w}",
+  "kind": "msg",
+  "note": "'ko' = kid, gender-neutral."
+ },
+ {
+  "en": "\"Oh, you're the next challengers, huh?{w}Go on over to the Alchemy Department's lab and...{w}wait, huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Female Student",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh, are you maybe not part of this?{w}...Well, see, we're using our abandoned school building\nfor a test of courage to welcome the new students.\"{w}{p}\"It's at the old mansion in the Perpeco Forest,\nand we hold it at night.\"{w}{p}\"I mean, nobody can handle spirits, right?\nSo it's training to not be scared of ghosts!{w}...That's our excuse for throwing the welcome party, anyway.\"{w}",
+  "kind": "msg",
+  "note": "'haikousha' = the abandoned school building, i.e. the old mansion in Perpeco Forest. 'reitai' = spirit-type monsters."
+ },
+ {
+  "en": "\"Since you're here, you should totally go!{w}All you do is put a mark on the Alchemy Department's blackboard\nand come back!\"{w}{p}\"And of course,\nnoth-ing-is-gon-na-hap-pen.{w}Mm-hm, mm-hm!\"{w}",
+  "kind": "msg",
+  "note": "Syllable-by-syllable 'o-ko-ra-na-i' mirrored with hyphens."
+ },
+ {
+  "en": "Both Students",
+  "kind": "name",
+  "note": "seito futari speaking in unison."
+ },
+ {
+  "en": "\"Just go for it, big time!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Santorea Academy's New Student Welcome~\nNow on at the old mansion in the Perpeco Forest!{w}If you've got guts, come join in, the more the merrier!\"{w}",
+  "kind": "msg",
+  "note": "gakufu = Academy (chap slice_004)."
+ },
+ {
+  "en": "\"Aw, so you weren't new students after all.{w}No wonder you're so strong...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But it was fun, wasn't it?{w}That place has quite the atmosphere, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Man, though, a Mirurubana?\nThat's one elaborate costume you pulled off.\"{w}",
+  "kind": "msg",
+  "note": "Said to the female student (she answers in 1066). New name: Mirurubana (undead-type monster, MONSTER1 next to Lich)."
+ },
+ {
+  "en": "\"Huh? I didn't dress up.{w}Wasn't that you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nuh-uh?{w}..............................Wait.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"AAAAAAAAAGH!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "2nd-Yr Martial",
+  "kind": "name",
+  "note": "Martial Arts Department, 2nd year. Scene is a tabletop-RPG session."
+ },
+ {
+  "en": "\"Game Master,{w}I'll try tapping that wall there with my staff.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Game Master",
+  "kind": "name"
+ },
+ {
+  "en": "\"Nothing happens.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "2nd-Yr Magic",
+  "kind": "name"
+ },
+ {
+  "en": "\"Okay, let's move on, then.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Danger Sense check. The target number is 14.\"{w}",
+  "kind": "msg",
+  "note": "tasseichi = TRPG target number."
+ },
+ {
+  "en": "\"Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You didn't search the floor, did you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heyyy, thief, what've you been doing!?\"{w}",
+  "kind": "msg",
+  "note": "Shouted at the group's thief character, who then rolls 15 (1080) and alone avoids the trap."
+ },
+ {
+  "en": "2nd-Yr Swords",
+  "kind": "name"
+ },
+ {
+  "en": "\"15. That's over the target, so I dodge.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't go dodging it all by yourselfffff!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Organizer",
+  "kind": "name",
+  "note": "Host of the Magical Party (EVENT_TEXT 37)."
+ },
+ {
+  "en": "\"Come one, come all!\nThe Magical Party venue\nis right this way!\"{w}{p}\"Your magic power -- how far will it get you\nagainst Professor Nambino?{w}Anyone who wants to join, take your turns, please~\"{w}",
+  "kind": "msg",
+  "note": "Mirrors 1028. Nambino = monster 'great teacher' of the Magical Party (MON_TEXT 284)."
+ },
+ {
+  "en": "\"We'll be waiting, so come play anytime~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, and our previous champions are... right here!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right then, go ahead, one at a time!{w}Get fired up, and... GO!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wow, wow! You're the champion!\"{w}",
+  "kind": "msg",
+  "note": "anata singular."
+ },
+ {
+  "en": "\"Fu fu fu~\nThat's nowhere near enough!\"{w}{p}\"Don't you dare take\nProfessor Nambino lightly!\"{w}",
+  "kind": "msg",
+  "note": "Music-note symbol replaced by '~' (ASCII only)."
+ },
+ {
+  "en": "\"Come play again, okay!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you were about to leave,\nProfessor Nambino was munching away right in front of you.{w}{p}Something stick-shaped\nwas poking out of the professor's mouth.{w}",
+  "kind": "msg",
+  "note": "Same as 1036; MON_TEXT says Nambino holds a whistle in the mouth."
+ },
+ {
+  "en": "Prof. Nambino",
+  "kind": "name",
+  "note": "New name (monster, MONSTER3/MON_TEXT)."
+ },
+ {
+  "en": "Professor Nambino looked displeased.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm going out with an upperclassman from Swordsmanship, but{w}...well, it's kind of hard to hold my head up.\"{w}{p}\"Stuff like 'What do you see in a muscle-woman?'{w}or 'She's got you under her thumb, huh?'...{w}that's what everyone says to me.\"{w}{p}\"If she'd at least put on some glasses\nand fake looking a little brainy...{w}N-not that I've got a thing for girls in glasses or anything!\"{w}",
+  "kind": "msg",
+  "note": "Partner is female (kinniku-onna). Read the glasses wish as about her, then the speaker's flustered denial. Speaker's own gender not needed in English. Probably the boyfriend from 1045."
+ },
+ {
+  "en": "Troubled Girl",
+  "kind": "name",
+  "note": "nayameru onna-seito; 'Troubled Female Student' too long."
+ },
+ {
+  "en": "\"Studying magic is such a pain...{w}I can do it without knowing\nthe theory anyway...\"{w}",
+  "kind": "msg",
+  "note": "Subject restored as 'I' (her own grumbling)."
+ },
+ {
+  "en": "New Student",
+  "kind": "name",
+  "note": "Speaker of row 1097 (slice_014)."
+ }
+]

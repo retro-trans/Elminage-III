@@ -1,0 +1,357 @@
+[
+ {
+  "en": "Medium Whetstone",
+  "kind": "name"
+ },
+ {
+  "en": "Fine Whetstone",
+  "kind": "name",
+  "note": "Glossary; 'Finishing Whetstone' (19) does not fit 18."
+ },
+ {
+  "en": "Vision Crystal",
+  "kind": "name",
+  "note": "chap slice_016 [Key Item] line."
+ },
+ {
+  "en": "Beard Glasses",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Magic Puppet Trap",
+  "kind": "name",
+  "note": "chap slice_015 [Key Item] line says 'Magic Puppet Capture Trap' (25), which exceeds 18. Short form; the chap line should be aligned if the names are matched."
+ },
+ {
+  "en": "Mujirod Manuscript",
+  "kind": "name",
+  "note": "chap slice_012 [Key Item] line; exactly 18 bytes."
+ },
+ {
+  "en": "Cactus Pulp",
+  "kind": "name",
+  "note": "chap slice_012."
+ },
+ {
+  "en": "Custom Panties",
+  "kind": "name",
+  "note": "chap slice_013."
+ },
+ {
+  "en": "Soleil Stone",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Azure Fish",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Proof of Training",
+  "kind": "name",
+  "note": "chap slice_014/016."
+ },
+ {
+  "en": "Proof of Endurance",
+  "kind": "name",
+  "note": "chap slice_014/016; exactly 18."
+ },
+ {
+  "en": "Joker Medal",
+  "kind": "name",
+  "note": "chap slice_011."
+ },
+ {
+  "en": "Right to Challenge",
+  "kind": "name",
+  "note": "Row marked scrapped ([JP]); no other use found. Literal rendering."
+ },
+ {
+  "en": "Instruction Notes",
+  "kind": "name",
+  "note": "Row marked scrapped; designer note says it was a mistaken copy of Milonya's martial-arts manual. 'Training' avoided to keep it apart from Proof of Training."
+ },
+ {
+  "en": "Reservoir Key",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Contraband?",
+  "kind": "name",
+  "note": "Glossary; the question mark is part of the name."
+ },
+ {
+  "en": "Likely the first weapon a fighter ever holds. It's called \"long\" next to the short sword, but isn't really that long. Its length, weight and grip are tuned so even a novice can wield it. It's cheap, but grip it again after using other swords and you'll notice the smith's care. Then you've come of age.",
+  "kind": "desc"
+ },
+ {
+  "en": "A distinctive sword with a curved, single-edged blade, said to come from a culture apart from straight swords. The curve has no standard, so lined up they reveal each smith's quirks and pet ideas, which is fun. Some collect them as a hobby or use them in guess-the-smith party games.",
+  "kind": "desc"
+ },
+ {
+  "en": "Perhaps it was once a keen sword, but in this state it can neither cut nor stab. A sword that endured many battles now sleeps quietly with its owner's memories.",
+  "kind": "desc"
+ },
+ {
+  "en": "By nature it's closer to an axe than a sword: a blade made purely for smashing down. Its swings are easy to read. But just imagine the terror of brawny fighters bringing this sword down on you with all their might.",
+  "kind": "desc",
+  "note": "[JP] rendered as the reader 'you'."
+ },
+ {
+  "en": "Improved over and over to merge the strengths of many swords into the ultimate blade, it came full circle back to an ordinary shape. It lacks the star quality first aimed for, but it became a versatile weapon that does what's expected in most situations.",
+  "kind": "desc"
+ },
+ {
+  "en": "Made of finer ore than a normal long sword, then fired and hammered for three days and nights. The result is a tougher blade than the standard long sword. It looks almost unchanged, but use it once and you'll be amazed at how much better it cuts.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bit ungainly for a knight to carry. Yet despite its looks, it's no bad sword. Its edge is ground sharp so it can cut. Unlike other swords it is made almost entirely of bone, so it's light and easy to handle.",
+  "kind": "desc"
+ },
+ {
+  "en": "The sword adventurers dream of. Even at a low level it delivers steady power. But that's not its only appeal: it holds magic, and one stroke sends a wave of flame at the enemy. Once you own it, the danger may lie less in monsters than in the weak spots of your own heart.",
+  "kind": "desc",
+  "note": "The source's last sentence is garbled ([JP]); read as 'what to beware of shifts from monsters to the openings in your own heart'."
+ },
+ {
+  "en": "A sword only those who keep to a single path may bear. In an age when anyone can freely change their path, following one path to its end may be hard and harsh. Yet there truly is a view seen only by those who master one path without ever looking aside.",
+  "kind": "desc",
+  "note": "Innocent series: unusable after a class change (HELP_TEXT). [JP] kept as 'bear'."
+ },
+ {
+  "en": "A sword said to hold the power of the wind spirit. It is always wreathed in lightning, and when swung down at a target it calls a mighty thunderbolt from the sky. It's strong as is, but in the hands of one with lightning magic it may do even more.",
+  "kind": "desc"
+ },
+ {
+  "en": "In every age, some are bewitched by the allure of evil. This sword too was forged by a smith drawn to the dark alignment. It should be made of the same material as a long sword, yet in sharpness and power it became an entirely different blade.",
+  "kind": "desc",
+  "note": "[JP] = 'the dark alignment' (Evil)."
+ },
+ {
+  "en": "A sword with a double-edged blade; think of it as a shortened bastard sword. Yet it weighs about the same as a bastard sword, so using it one-handed takes strength. Its thick, heavy blade is designed to make good use of centrifugal force when swung.",
+  "kind": "desc"
+ },
+ {
+  "en": "A famed sword whose name is carved into legend. Since it became known, many adventurers have tried to get it, but few have been lucky enough. True to a legendary sword, it also has the welcome power to prevent confusion.",
+  "kind": "desc"
+ },
+ {
+  "en": "Ordinary weapons can't scratch a dragon's huge, hard scales. By specializing against dragons, the Dragon Killer gained the means to pierce their hide. It is unwieldy, so it slightly hampers defense.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword only a Lord may own. It's said the unworthy cannot even touch it. Yet its power as a sword is only upper-middle, and some voice doubts that it may be a fake.",
+  "kind": "desc",
+  "note": "[JP] = Lord (class name, ebt)."
+ },
+ {
+  "en": "A lavish sword cut from a long, huge diamond ore, a true miracle of nature. Besides its power it is worth a lot as a gem, so even classes that can't use swords want it to sell. Parties that find it often fall into bloody fights over it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword with a bird-shaped ornament on its hilt. In its center is set a gem named Alverstar, said to lend strength to its wielder. One theory holds that the Alverstar's true worth is this sword's protection.",
+  "kind": "desc",
+  "note": "Last sentence kept as ambiguous as the source (the gem's worth vs the sword's blessing). Source [JP] read as [JP] (hilt)."
+ },
+ {
+  "en": "A blade of sacred power, purified by holy force. Weak demons are said to flee from anyone who merely holds it. It's also said that some who spend time with it turn from Evil to Good. Might its holy light reach even into people's hearts?",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword made to sever the world of the dead from this one. Its task done, it now sleeps quietly. The air around it is the miasma of the underworld, and its blade is said to show every evil deed of this world. One without will who wields it will be cursed and taken to the land of the dead.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword said to appear when a true sovereign rises in the world. Borders no longer matter. Wherever this sword is, there is the kingdom, and whoever holds it is the one, absolute king.",
+  "kind": "desc"
+ },
+ {
+  "en": "A knife-like weapon that many classes can use, not just fighter types. But it also has the drawback of low power. Unless you're facing lots of enemies, equipping a shield instead may be wiser.",
+  "kind": "desc"
+ },
+ {
+  "en": "A shorter sword that exists as the long sword's partner. As a sub-weapon for beginners, it's decent.",
+  "kind": "desc"
+ },
+ {
+  "en": "A short blade known for its bent shape. Used not only as a weapon but often for farming and everyday chores.",
+  "kind": "desc"
+ },
+ {
+  "en": "A short blade rusted by wind and rain. Nothing remains of how it once looked. It is said misfortune befalls whoever takes it up.",
+  "kind": "desc"
+ },
+ {
+  "en": "At first glance an ordinary dagger. But fine patterns carved on the blade scatter light, making the tip's movement hard to follow. Those it cuts won't know why they're hurt and will fall into confusion.",
+  "kind": "desc"
+ },
+ {
+  "en": "Like a chimera, its marbled blade is an alloy of three metals: Dvel Soft Steel, Frozen Elven Iron and Mazurite. It amplifies each ore's magic and guards the owner against \"Poison,\" \"Paralysis\" and \"Silence.\"",
+  "kind": "desc",
+  "note": "Material names from glossary; status names from ebt."
+ },
+ {
+  "en": "A dagger that has drunk adventurers' blood for ages. Its thirst never ends; it even craves its owner's blood. It is cursed: it sells high, but equip it by mistake and you're in for a nasty time.",
+  "kind": "desc"
+ },
+ {
+  "en": "This sword is a symbol of beginning and end. It is said only an Alchemist can draw out its true worth.",
+  "kind": "desc"
+ },
+ {
+  "en": "A short blade made to handle any situation. Used right, the many varied blades that come out of its one sheath make it a powerful weapon. But if you can't master them all, it's a treasure gone to waste. A tricky weapon to handle. ...Weapon?",
+  "kind": "desc"
+ },
+ {
+  "en": "The ultimate small blade every thief dreams of. It's first-rate as a weapon, but they say its greatest appeal is its simple look, pursuing functional beauty. Its gleaming silver edge never chips, and it makes beastmen flinch.",
+  "kind": "desc",
+  "note": "[JP] = beastmen (ebt Beastman)."
+ },
+ {
+  "en": "A good blade must not break, must not bend, and must cut. The katana has all three to a high degree and excels at killing people and monsters. It's also beautiful. So many want one not only for its sheer fighting power but because they've fallen for its looks.",
+  "kind": "desc"
+ },
+ {
+  "en": "A blade said to cut down a hundred bamboo leaves in one stroke. Its accuracy is uncannily high, so even a novice Samurai can shine with it. Many Samurai can't part with it even after getting finer katana.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bold weapon meant to smash the foe's skull right through the helmet. Katana are meant to \"cut,\" but this one works more as a blunt weapon. Unusually for a katana, it is handled like a Western sword.",
+  "kind": "desc"
+ },
+ {
+  "en": "A katana so famous in a far eastern land that Kogarasumaru became a brand. It was first the name of one katana with a double-edged tip, but later katana of the same make were called Kogarasumaru too. Those sold in this country are made the same way as the original.",
+  "kind": "desc"
+ },
+ {
+  "en": "Grip the hilt with both hands and swing its long, huge blade, and you'll hear a sound as if the sword were roaring. The poor prey before you can only tremble.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sacred katana used with song and dance when offering a dance to the gods. It is usually enshrined amid nature, deep in forests or by lakes, so its spiritual power is higher than a normal katana's.",
+  "kind": "desc"
+ },
+ {
+  "en": "To atone for a crime, or to guard one's honor: a samurai at times takes their own life. To spare a dying samurai pain, custom had a second cut off the head after the self-inflicted cut. This katana long served that role and holds not only grudges but all manner of passions.",
+  "kind": "desc",
+  "note": "[JP] explained as 'a second cut off the head'. Gender-neutral 'their'."
+ },
+ {
+  "en": "A katana that unites sharpness, toughness and beauty at an even higher level is called a masterwork. And this Odenta surely is one. It is said to be sharp enough to cut two people in half at once. An edge that never dulls however many it cuts is also the mark of a masterwork.",
+  "kind": "desc"
+ },
+ {
+  "en": "Its blade is studded with gemstones, and each swing leaves a ribbon of light in the air. Beautiful though it is, it has the added effect of surely poisoning anyone it cuts.",
+  "kind": "desc",
+  "note": "[JP] = Poison (ebt); rendered as 'poisoning' in running text."
+ },
+ {
+  "en": "To samurai this katana's name stirs both longing and dread. The strongest katana in name and deed. Yet many samurai are said to become obsessed with its edge and fall into wickedness. That is why Muramasa is called a cursed blade. What new legend will this storied katana create next?",
+  "kind": "desc",
+  "note": "[JP] = 'cursed blade'."
+ },
+ {
+  "en": "A standard spear. Any fighter-type class can use it, but its power is low. Its merit is reaching the enemy's back row. It widens toward the grip to shield the hand, lowering the risk of a foe hitting your hand and making you drop the lance when you thrust.",
+  "kind": "desc"
+ },
+ {
+  "en": "Don't scoff at it as mere cleaning gear. A familiar tool is the best partner. It has a spear's traits too, of course, and back-row attacks are its specialty. Some Servants reportedly keep using the mop even after getting strong weapons.",
+  "kind": "desc",
+  "note": "[JP] = Servant (class, ebt)."
+ },
+ {
+  "en": "A sword of unusual design, with curved, flexing blades at both ends. Until you're used to it, it's very hard to handle, and you may cut yourself with the other blade. But masters twirl it deftly around the grip and attack in ever-shifting ways.",
+  "kind": "desc"
+ },
+ {
+  "en": "A foreign spear painted vermilion all over. Fitting for a weapon that flaunts itself, it performs well. But if its bearer doesn't live up to it, the monsters it draws will gang up and beat them to a pulp.",
+  "kind": "desc"
+ },
+ {
+  "en": "Kavirane is an old word meaning \"the unforgivable\" or \"eternal sin.\" They say it comes to those who have long lived keeping the fire of a grudge alive. Take it, and you can settle your grudge, but you too will wander as a spite spear.",
+  "kind": "desc"
+ },
+ {
+  "en": "A spear made by drawing out rare, precious mithril. Light, sharp and yet sturdy, it truly is an ideal spear. It's easy to strike foes with even from horseback, and you can picture it shining in all sorts of situations.",
+  "kind": "desc"
+ },
+ {
+  "en": "Fruit grown up high? Harvest it with ease using this! A tool in everyday use on farms and orchards, but handle with care. After all, it has a slight power to behead.",
+  "kind": "desc",
+  "note": "[JP] = decapitation; 'behead' in running text."
+ },
+ {
+  "en": "Here lies one possibility. A blade of rebellion, allowed only to those close to the gods. Whether to wield it is up to you. But what awaits beyond will not welcome you.",
+  "kind": "desc",
+  "note": "Polite [JP] kept as 'you'."
+ },
+ {
+  "en": "A spear forged from Frozen Elven Iron and Mazurite. Pale blue all over, it glows softly, flickering in the dark. Its tip is reinforced with frost magic and protects the owner from fire.",
+  "kind": "desc"
+ },
+ {
+  "en": "A spear said to come only to Valkyries the gods have acknowledged. To a master it accepts, it lends equal strength whatever their skill. Now, battle maidens! Face the darkness and offer the gods your finest dance!",
+  "kind": "desc",
+  "note": "[JP] = 'battle maidens' (addresses Valkyries)."
+ },
+ {
+  "en": "Axes come in many forms, which changed with the way they were used. An axe in the orthodox sense means a weapon like this hand axe, with a wooden haft and a metal head.",
+  "kind": "desc"
+ },
+ {
+  "en": "A war axe evolved from the hand axe into a shape more practical in real combat. The blade on its long haft can \"cut,\" \"thrust\" and \"sweep.\"",
+  "kind": "desc"
+ },
+ {
+  "en": "Bones of the dead fused together into a great axe. Not even Dispel works on it anymore; it thinks only of absorbing the foes it fells and growing mightier. And when its owner falls, it absorbs them too and awaits its next master.",
+  "kind": "desc",
+  "note": "Dispel = glossary ability name."
+ },
+ {
+  "en": "A hand axe said to belong to giants. But its size is no joke; even a dwarf might not handle it properly. If you get it but doubt your strength, be sensible and hang it on a wall or sell it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A hammer adjusted for use in battle. It has the traits of a blunt weapon and takes some strength to wield. Its simple appeal, clubbing foes until they drop, makes it popular.",
+  "kind": "desc"
+ },
+ {
+  "en": "You batter them single-mindedly till they're drenched in blood, and suddenly only a lump of flesh lies before you. Loving the slick feel of your weapon, you slide your fingers along it forever, grinning. Do people create the Blood Hammer, or does the Blood Hammer change people?",
+  "kind": "desc"
+ },
+ {
+  "en": "Deathdeath pikopiko, bloodshed! Deathdeath pikopiko, boom! Hitting hurts, My Darling, but don't run, fall in HELL! I'll haunt you anywhere, love's range limit OFF! (zing!) Deathdeath pikopiko, fresh blood! Deathdeath pikopiko, precious! Even if I burn to ash, with love's special POW-WER! I L-O-V-E U... smooch~",
+  "kind": "desc",
+  "note": "Song parody. [JP] puns follow/haunt: 'haunt you anywhere'. [JP] = '(zing!)'. ♪ dropped (ASCII only), '~' used."
+ },
+ {
+  "en": "A very precious hammer made only of pure, unmixed mithril. Nothing can withstand it, and it's a great help in mining too. But given what it's made of, they say it won't pay for itself unless you strike rich veins again and again.",
+  "kind": "desc"
+ },
+ {
+  "en": "The ultimate hammer, said to be something a demon god left behind. An amateur can't handle it, but if you have a veteran fighter, by all means give it to them. One swing will make a pile of mincemeat.",
+  "kind": "desc"
+ },
+ {
+  "en": "This weapon is used mainly by clergy. Clergy are forbidden to use blades that shed others' blood. So they carry the mace, which lets them defend themselves without spilling a foe's blood.",
+  "kind": "desc"
+ },
+ {
+  "en": "An enhanced mace. It's even deadlier; a priest attacking with it could give you a hard fight. Still, picturing clergy pondering how to kill people more efficiently is a bit comical.",
+  "kind": "desc",
+  "note": "[JP] here is generic ('a priest'), not capitalised as the class."
+ },
+ {
+  "en": "Swords deal damage mainly by cutting, so if the blade can't get through armor, damage inevitably drops. Striking weapons like this one deal damage by impact instead, so they easily hurt even foes covered head to toe in armor.",
+  "kind": "desc"
+ },
+ {
+  "en": "Use it to save those who have strayed, and they stray even further. Maybe that's why it's called the Mace of Straying. After all, if it could save the lost, it would be named something like the Mace of Salvation. Or maybe the one who's straying is the cleric holding it.",
+  "kind": "desc",
+  "note": "[JP] wordplay carried by 'stray/straying' to match the item name 'Mace of Straying'."
+ }
+]

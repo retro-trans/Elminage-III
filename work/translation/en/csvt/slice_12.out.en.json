@@ -1,0 +1,368 @@
+[
+ {
+  "en": "Whip of Silence",
+  "kind": "name",
+  "note": "Desc: a lash silences the target."
+ },
+ {
+  "en": "Fanged Serpent",
+  "kind": "name",
+  "note": "Kiba Orochi: red whip like a great serpent's tongue; inflicts poison."
+ },
+ {
+  "en": "Angel Ribbon",
+  "kind": "name"
+ },
+ {
+  "en": "Queen Beat",
+  "kind": "name",
+  "note": "Steel whip evolved from the Iron Whip; 'beat' kept as in the katakana (strike/pun)."
+ },
+ {
+  "en": "Hell Master",
+  "kind": "name",
+  "note": "max 12. Named after the hell jailer Hell Master (desc). Slice_16 has the +1 version."
+ },
+ {
+  "en": "Ringstetza",
+  "kind": "name",
+  "note": "New name; plain romanization of the katakana (chain of bladed rings)."
+ },
+ {
+  "en": "Staff",
+  "kind": "name",
+  "note": "Matches ?Staff (ebt slice_17)."
+ },
+ {
+  "en": "Fairy Staff",
+  "kind": "name",
+  "note": "Fairy-only staff."
+ },
+ {
+  "en": "Gohei",
+  "kind": "name",
+  "note": "Shinto paper-streamer wand; main weapon of the Kannagi class (desc)."
+ },
+ {
+  "en": "Rotten Staff",
+  "kind": "name"
+ },
+ {
+  "en": "Trick Rod",
+  "kind": "name"
+ },
+ {
+  "en": "Iron Mallet",
+  "kind": "name"
+ },
+ {
+  "en": "Flame Rod",
+  "kind": "name"
+ },
+ {
+  "en": "Great Tree Staff",
+  "kind": "name",
+  "note": "Taiju = great tree; staff still alive with leaves."
+ },
+ {
+  "en": "Holy Rod",
+  "kind": "name"
+ },
+ {
+  "en": "Reaper's Staff",
+  "kind": "name",
+  "note": "Shinigami: desc speaks of the soul-reaping death god; ebt tarot uses 'Death' for the card, 'Reaper' chosen for the item."
+ },
+ {
+  "en": "Star Rod",
+  "kind": "name"
+ },
+ {
+  "en": "Elemental Wand",
+  "kind": "name"
+ },
+ {
+  "en": "Welish Staff",
+  "kind": "name",
+  "note": "New name Welish: a holy plant, spicy, green-smelling (likely a pun on Welsh onion); romanized, not assumed."
+ },
+ {
+  "en": "Rabbit Wand",
+  "kind": "name",
+  "note": "Topped with a plush of teacher Nambino (desc); name not in glossary."
+ },
+ {
+  "en": "Weasel Wand",
+  "kind": "name",
+  "note": "Topped with a plush of teacher Lombino (desc)."
+ },
+ {
+  "en": "White Ash",
+  "kind": "name",
+  "note": "Glossary. Desc: an ash-wood stake."
+ },
+ {
+  "en": "Archmage's Staff",
+  "kind": "name",
+  "note": "Daihoutei = 'great law emperor', a title for a master of all spells; rendered Archmage. Uncertain."
+ },
+ {
+  "en": "Hand Wraps",
+  "kind": "name",
+  "note": "Bantage = boxing hand wraps; desc: the weapon of the toushi (martial-artist) class."
+ },
+ {
+  "en": "Tonfa",
+  "kind": "name"
+ },
+ {
+  "en": "Hawk Talon",
+  "kind": "name",
+  "note": "Desc: claw of the monster bird Balteris, not an ordinary hawk. (Also a chili-pepper pun in JP; not carried.)"
+ },
+ {
+  "en": "Vector Knuckle",
+  "kind": "name"
+ },
+ {
+  "en": "Boomerang",
+  "kind": "name"
+ },
+ {
+  "en": "Iron Boomerang",
+  "kind": "name"
+ },
+ {
+  "en": "Obsidian Boomerang",
+  "kind": "name"
+ },
+ {
+  "en": "Double Cropping",
+  "kind": "name",
+  "note": "Nimousaku = the farming method; desc is a joke about it. Literal."
+ },
+ {
+  "en": "Pirate Pick",
+  "kind": "name",
+  "note": "Hook-hand prosthetic weapon; katakana 'pick' kept."
+ },
+ {
+  "en": "Life Stealer",
+  "kind": "name",
+  "note": "A scythe."
+ },
+ {
+  "en": "Iron Maiden",
+  "kind": "name"
+ },
+ {
+  "en": "Ladle +1",
+  "kind": "name",
+  "note": "Otama = soup ladle."
+ },
+ {
+  "en": "Frying Pan +1",
+  "kind": "name"
+ },
+ {
+  "en": "Thousand-Sheet Awl",
+  "kind": "name",
+  "note": "Senmaidoshi = awl, lit. 'pierces a thousand sheets' (desc plays on it). Plain 'Awl' if a shorter name is preferred."
+ },
+ {
+  "en": "Mage's Crystal",
+  "kind": "name",
+  "note": "Majutsushi = Mage class (glossary)."
+ },
+ {
+  "en": "Kunai",
+  "kind": "name"
+ },
+ {
+  "en": "Three-Ray Star",
+  "kind": "name",
+  "note": "Sankouken: thrown blade with three points; 'Star' = throwing star."
+ },
+ {
+  "en": "Steel Crane",
+  "kind": "name",
+  "note": "Folded paper crane woven from steel (desc)."
+ },
+ {
+  "en": "Azure Sky Snowflake",
+  "kind": "name",
+  "note": "Souten rikka: rikka = poetic 'six-petal flower' = snowflake."
+ },
+ {
+  "en": "Wild-Ray Star",
+  "kind": "name",
+  "note": "Rankouken: the Three-Ray Star with blades sprouting every which way; paired with 977."
+ },
+ {
+  "en": "Shuriken",
+  "kind": "name"
+ },
+ {
+  "en": "Long-Nosed Prince",
+  "kind": "name",
+  "note": "Children's picture book (hiragana title); prince Notice, mocked for his long nose."
+ },
+ {
+  "en": "Eastern Yokai Tales",
+  "kind": "name",
+  "note": "Touhou kaibun hyakumonogatari: book of eastern monsters (oni, tengu, kappa). 'Hundred tales' dropped for fit."
+ },
+ {
+  "en": "Lopez's Magiconomics",
+  "kind": "name",
+  "note": "New name Lopez (Ropesu). Madou keizai souron = general theory of magic economics; exactly 20 bytes."
+ },
+ {
+  "en": "Secret Book",
+  "kind": "name",
+  "note": "Hiragana title, kept simple."
+ },
+ {
+  "en": "Torikaebaya Tale II",
+  "kind": "name",
+  "note": "Zoku = sequel to the classical Torikaebaya Monogatari; the desc explains the word, so it is kept romanized."
+ },
+ {
+  "en": "Great Crestard Hist.",
+  "kind": "name",
+  "note": "wmap slice_07 shop line says 'Great History of Crestard' (25 bytes, too long); abbreviated to 20."
+ },
+ {
+  "en": "Book of the Next Age",
+  "kind": "name",
+  "note": "Glossary; exactly 20 bytes."
+ },
+ {
+  "en": "Encyc. of All Things",
+  "kind": "name",
+  "note": "wmap slice_07 shop line uses 'Encyclopedia of All Things' (26 bytes); abbreviated to 20."
+ },
+ {
+  "en": "Black Scripture",
+  "kind": "name",
+  "note": "Kuro no seiten."
+ },
+ {
+  "en": "Libretto of Prayer",
+  "kind": "name",
+  "note": "Opera libretto said to be granted by the moon; for the yuurakusha (entertainer) class, whose English name is not in the glossary."
+ },
+ {
+  "en": "Buckler",
+  "kind": "name"
+ },
+ {
+  "en": "Targe",
+  "kind": "name"
+ },
+ {
+  "en": "Iron Shield",
+  "kind": "name"
+ },
+ {
+  "en": "Varios Shield",
+  "kind": "name",
+  "note": "Matches Varios Sword (slice_10)."
+ },
+ {
+  "en": "Knight Shield",
+  "kind": "name"
+ },
+ {
+  "en": "Cursed Shield",
+  "kind": "name"
+ },
+ {
+  "en": "Beast-Bone Shield",
+  "kind": "name",
+  "note": "Matches Beast-Bone Sword (slice_10)."
+ },
+ {
+  "en": "Knight Shield +1",
+  "kind": "name"
+ },
+ {
+  "en": "Innocent Shield",
+  "kind": "name",
+  "note": "Innocent series (glossary)."
+ },
+ {
+  "en": "Exorcist Shield",
+  "kind": "name",
+  "note": "Youbarai = warding off spirits/yokai."
+ },
+ {
+  "en": "Holy Guard",
+  "kind": "name"
+ },
+ {
+  "en": "Evil Shield",
+  "kind": "name",
+  "note": "Matches Evil Saber (slice_10); Evil-alignment only."
+ },
+ {
+  "en": "Tri-Shield",
+  "kind": "name"
+ },
+ {
+  "en": "Truth Shield",
+  "kind": "name",
+  "note": "max 14: 'Shield of Truth' (15) does not fit."
+ },
+ {
+  "en": "Demon Wing",
+  "kind": "name",
+  "note": "Mayoku: shield made from a demon's wing."
+ },
+ {
+  "en": "Mithril Shield",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Shield",
+  "kind": "name"
+ },
+ {
+  "en": "Goddess's Shield",
+  "kind": "name",
+  "note": "Style follows ebt 'Goddess's Kiss'."
+ },
+ {
+  "en": "Leather Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Kettle Hat",
+  "kind": "name"
+ },
+ {
+  "en": "Ashigaru Helm",
+  "kind": "name",
+  "note": "Ashigaru = Japanese foot soldier; kept for eastern flavor ('Foot Soldier Helm' also fits)."
+ },
+ {
+  "en": "Coif",
+  "kind": "name"
+ },
+ {
+  "en": "Bascinet",
+  "kind": "name"
+ },
+ {
+  "en": "Skull Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Flower Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Evil Helm",
+  "kind": "name"
+ }
+]

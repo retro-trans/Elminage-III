@@ -1,0 +1,4508 @@
+[
+ {
+  "id": "ITEM_HELP.CSV:5:1",
+  "en": "(Not Set)",
+  "max": 20,
+  "used": false
+ },
+ {
+  "id": "ITEM_HELP.CSV:6:1",
+  "en": "Long Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:7:1",
+  "en": "Scimitar",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:8:1",
+  "en": "Rusty Long Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:9:1",
+  "en": "Chopper Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:10:1",
+  "en": "Bastard Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:11:1",
+  "en": "Long Sword +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:12:1",
+  "en": "Beast-Bone Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:13:1",
+  "en": "Flamberge",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:13:3",
+  "en": "Attacks one enemy row with fire.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:14:1",
+  "en": "Innocent Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:15:1",
+  "en": "Thunderbolt Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:15:3",
+  "en": "Strikes one enemy with lightning.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:16:1",
+  "en": "Evil Saber",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:17:1",
+  "en": "Broadsword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:18:1",
+  "en": "Sagabringer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:19:1",
+  "en": "Dragon Killer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:20:1",
+  "en": "King's Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:21:1",
+  "en": "Diamond Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:22:1",
+  "en": "Alverstar",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:23:1",
+  "en": "Holy Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:24:1",
+  "en": "Blade of the Nether",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:25:1",
+  "en": "Crimson Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:26:1",
+  "en": "Dagger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:27:1",
+  "en": "Short Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:28:1",
+  "en": "Kukri",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:29:1",
+  "en": "Rusty Dagger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:30:1",
+  "en": "Dazzling Dagger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:31:1",
+  "en": "Chimera Dagger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:32:1",
+  "en": "Blood-Soaked Dagger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:33:1",
+  "en": "Sword of Azoth",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:34:1",
+  "en": "Happy Seven",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:35:1",
+  "en": "Silver Rapier",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:36:1",
+  "en": "Katana",
+  "max": 20,
+  "used": false
+ },
+ {
+  "id": "ITEM_HELP.CSV:37:1",
+  "en": "Hundred Bamboo Edge",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:38:1",
+  "en": "Helm Splitter",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:39:1",
+  "en": "Kogarasumaru",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:40:1",
+  "en": "Oni Slayer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:41:1",
+  "en": "Dancing Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:42:1",
+  "en": "Embraced Head",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:43:1",
+  "en": "Odenta",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:44:1",
+  "en": "Mikaboshi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:45:1",
+  "en": "Muramasa",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:46:1",
+  "en": "Lance",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:47:1",
+  "en": "Mop",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:48:1",
+  "en": "Palindroma",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:49:1",
+  "en": "Vermilion Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:50:1",
+  "en": "Spite Spear Kavirane",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:51:1",
+  "en": "Mithril Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:52:1",
+  "en": "High Branch Basher",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:53:1",
+  "en": "Godslayer Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:54:1",
+  "en": "Ice Magic Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:55:1",
+  "en": "Holy Maiden's Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:56:1",
+  "en": "Hand Axe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:57:1",
+  "en": "Battle Axe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:58:1",
+  "en": "Greataxe of the Dead",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:59:1",
+  "en": "Giant's Axe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:60:1",
+  "en": "War Hammer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:61:1",
+  "en": "Blood Hammer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:62:1",
+  "en": "Death Piko Hammer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:63:1",
+  "en": "Mithril Hammer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:64:1",
+  "en": "Great Wrecking Maul",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:65:1",
+  "en": "Mace",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:66:1",
+  "en": "Mace +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:67:1",
+  "en": "Morning Star",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:68:1",
+  "en": "Mace of Straying",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:69:1",
+  "en": "Serpent Mace",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:70:1",
+  "en": "Mace of Destruction",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:71:1",
+  "en": "Holy Mace",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:72:1",
+  "en": "Sheep's Silver Ladle",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:72:3",
+  "en": "Creates a barrier that blocks one drain attack. Can be stacked.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:73:1",
+  "en": "Wood Club",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:74:1",
+  "en": "Iron Club",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:75:1",
+  "en": "Club of Frenzy",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:76:1",
+  "en": "Crystal Club",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:77:1",
+  "en": "Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:78:1",
+  "en": "Longbow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:79:1",
+  "en": "Twisted Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:80:1",
+  "en": "Demonbane Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:81:1",
+  "en": "Violent Arrow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:82:1",
+  "en": "Holy Bow of Polyte",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:83:1",
+  "en": "Diamond Shower",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:84:1",
+  "en": "Spirit Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:85:1",
+  "en": "Whip",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:86:1",
+  "en": "Iron Whip",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:87:1",
+  "en": "Whip of Silence",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:88:1",
+  "en": "Fanged Serpent",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:89:1",
+  "en": "Queen Beat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:90:1",
+  "en": "Hell Master",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:91:1",
+  "en": "Staff",
+  "max": 20,
+  "used": false
+ },
+ {
+  "id": "ITEM_HELP.CSV:92:1",
+  "en": "Fairy Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:93:1",
+  "en": "Gohei",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:94:1",
+  "en": "Rotten Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:95:1",
+  "en": "Flame Rod",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:95:3",
+  "en": "Attacks one enemy row with fire.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:96:1",
+  "en": "Great Tree Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:97:1",
+  "en": "Holy Rod",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:98:1",
+  "en": "Reaper's Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:98:3",
+  "en": "High chance to instantly kill one enemy.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:99:1",
+  "en": "Elemental Wand",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:100:1",
+  "en": "Spell Emperor Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:101:1",
+  "en": "Hand Wraps",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:102:1",
+  "en": "Boomerang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:103:1",
+  "en": "Kunai",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:104:1",
+  "en": "Iron Maiden",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:105:1",
+  "en": "Hawk Talon",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:106:1",
+  "en": "Mage's Crystal",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:106:3",
+  "en": "Rainbow light hits one enemy; stronger per spell cast this battle.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:107:1",
+  "en": "Vector Knuckle",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:108:1",
+  "en": "Shuriken",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:109:1",
+  "en": "Long-Nosed Prince",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:110:1",
+  "en": "Eastern Yokai Tales",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:111:1",
+  "en": "Lopez's Magiconomics",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:112:1",
+  "en": "Torikaebaya Tale II",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:113:1",
+  "en": "Secret Book",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:114:1",
+  "en": "Great Crestard Hist.",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:115:1",
+  "en": "Book of the Next Age",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:116:1",
+  "en": "Encyc. of All Things",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:117:1",
+  "en": "Buckler",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:118:1",
+  "en": "Iron Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:119:1",
+  "en": "Knight Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:120:1",
+  "en": "Cursed Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:121:1",
+  "en": "Beast-Bone Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:122:1",
+  "en": "Knight Shield +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:123:1",
+  "en": "Innocent Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:124:1",
+  "en": "Exorcist Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:125:1",
+  "en": "Holy Guard",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:126:1",
+  "en": "Evil Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:127:1",
+  "en": "Truth Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:128:1",
+  "en": "Demon Wing",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:129:1",
+  "en": "Mithril Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:130:1",
+  "en": "Dragon Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:131:1",
+  "en": "Goddess's Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:131:3",
+  "en": "Asks the gods to work a mighty miracle at the cost of one level.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:132:1",
+  "en": "Leather Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:133:1",
+  "en": "Ashigaru Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:134:1",
+  "en": "Hyakka Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:135:1",
+  "en": "Bascinet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:136:1",
+  "en": "Skull Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:137:1",
+  "en": "Flower Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:138:1",
+  "en": "Evil Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:139:1",
+  "en": "Star Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:140:1",
+  "en": "Iron Mask",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:141:1",
+  "en": "Phantom Mask",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:142:1",
+  "en": "Magic Laurel Wreath",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:143:1",
+  "en": "Dragon Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:143:3",
+  "en": "Unleashes a breath attack.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:144:1",
+  "en": "Silver Tiara",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:145:1",
+  "en": "Golden Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:146:1",
+  "en": "Mithril Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:147:1",
+  "en": "Fur Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:148:1",
+  "en": "Eboshi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:149:1",
+  "en": "Bandana",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:150:1",
+  "en": "Torn Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:151:1",
+  "en": "Wing Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:151:3",
+  "en": "Grants all allies the Inf Range status.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:152:1",
+  "en": "Bald Wig",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:153:1",
+  "en": "Steel Hairband",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:154:1",
+  "en": "Mage's Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:155:1",
+  "en": "Laughing Hood",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:156:1",
+  "en": "Bandana Soul",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:157:1",
+  "en": "Archmage's Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:158:1",
+  "en": "Plate Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:159:1",
+  "en": "Knight's Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:160:1",
+  "en": "Chipped Plate Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:161:1",
+  "en": "Varios Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:162:1",
+  "en": "Plate Mail +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:163:1",
+  "en": "Neutral Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:164:1",
+  "en": "Magic Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:165:1",
+  "en": "Evil Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:166:1",
+  "en": "Crystal Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:167:1",
+  "en": "Mithril Plate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:168:1",
+  "en": "Holy Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:169:1",
+  "en": "Breastplate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:170:1",
+  "en": "Ashigaru Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:171:1",
+  "en": "Fallen Samurai Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:172:1",
+  "en": "Hunter Guard",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:173:1",
+  "en": "Jeweled Breastplate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:174:1",
+  "en": "Sakimori Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:175:1",
+  "en": "Silver Breastplate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:176:1",
+  "en": "Icing Heart",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:177:1",
+  "en": "Goddess Breastplate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:178:1",
+  "en": "Kuroito Odoshi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:179:1",
+  "en": "Chain Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:180:1",
+  "en": "Scale Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:181:1",
+  "en": "Elven Chain",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:182:1",
+  "en": "Flame Chain Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:183:1",
+  "en": "Ice Chain Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:184:1",
+  "en": "Cursed Chain Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:185:1",
+  "en": "Holy Chain Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:186:1",
+  "en": "Frostfire Chain Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:187:1",
+  "en": "Leather Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:188:1",
+  "en": "Hard Leather Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:189:1",
+  "en": "Rotten Leather Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:190:1",
+  "en": "Jewel Leather",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:191:1",
+  "en": "Dragon Leather",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:192:1",
+  "en": "Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:193:1",
+  "en": "Fairy Clothes",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:194:1",
+  "en": "Ninja Garb",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:195:1",
+  "en": "Holey Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:196:1",
+  "en": "Green Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:197:1",
+  "en": "Robe Gladi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:198:1",
+  "en": "Blue Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:199:1",
+  "en": "Chihaya Benizakura",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:200:1",
+  "en": "Crested Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:201:1",
+  "en": "Breeze Clothes",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:202:1",
+  "en": "Scarlet Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:203:1",
+  "en": "Thunder Guard",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:204:1",
+  "en": "Moon Feather Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:205:1",
+  "en": "Pontiff's Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:206:1",
+  "en": "Leather Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:207:1",
+  "en": "Fairy Gloves",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:208:1",
+  "en": "Tekko",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:209:1",
+  "en": "Iron Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:210:1",
+  "en": "Shredded Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:211:1",
+  "en": "Magic Gloves",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:212:1",
+  "en": "Rose Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:213:1",
+  "en": "Steel Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:214:1",
+  "en": "Lace Gloves",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:215:1",
+  "en": "Mantis Gloves",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:216:1",
+  "en": "Reaper's Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:217:1",
+  "en": "Mithril Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:218:1",
+  "en": "Holy Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:219:1",
+  "en": "Buskins",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:220:1",
+  "en": "Straw Sandals",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:221:1",
+  "en": "Boots",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:222:1",
+  "en": "Forest Walkers",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:223:1",
+  "en": "Iron Boots",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:224:1",
+  "en": "Red Shoes",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:225:1",
+  "en": "Steel Boots",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:226:1",
+  "en": "Dwarven Shoes",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:227:1",
+  "en": "Fire Boots",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:228:1",
+  "en": "Silver Shoes",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:229:1",
+  "en": "Angel's Sandals",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:230:1",
+  "en": "Platinum Slippers",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:231:1",
+  "en": "Boots of Darkness",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:232:1",
+  "en": "Glass Slippers",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:233:1",
+  "en": "Holy Boots",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:234:1",
+  "en": "Traveler's Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:235:1",
+  "en": "Warrior's Black Belt",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:236:1",
+  "en": "Fallen Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:237:1",
+  "en": "Claymore",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:238:1",
+  "en": "Innocent Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:239:1",
+  "en": "New Moon Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:240:1",
+  "en": "Master Apron",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:241:1",
+  "en": "Griffin Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:242:1",
+  "en": "Black Dream Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:243:1",
+  "en": "Mirage Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:244:1",
+  "en": "Stiletto",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:245:1",
+  "en": "Fundoshi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:246:1",
+  "en": "Bat Belt",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:247:1",
+  "en": "Fundoshi-1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:248:1",
+  "en": "Geo Rune",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:249:1",
+  "en": "Bone Belt",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:250:1",
+  "en": "Buster Champ",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:251:1",
+  "en": "Talisman",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:252:1",
+  "en": "Fire Magic Seal",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:253:1",
+  "en": "Ice Magic Seal",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:254:1",
+  "en": "Bolt Magic Seal",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:255:1",
+  "en": "Jamadhar",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:256:1",
+  "en": "Defensive Dagger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:257:1",
+  "en": "Circle Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:258:1",
+  "en": "Scramasax",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:259:1",
+  "en": "Silberam",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:260:1",
+  "en": "Wooden Pillbox",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:261:1",
+  "en": "Reverse Scale",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:262:1",
+  "en": "Vorpal Misanga",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:263:1",
+  "en": "Pure Talisman",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:264:1",
+  "en": "Inro",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:264:3",
+  "en": "Lowers all enemies' spell resistance. Stackable.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:265:1",
+  "en": "Pearl Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:265:3",
+  "en": "Shows the map of every floor of the current dungeon.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:266:1",
+  "en": "Sacred Sword of Dawn",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:267:1",
+  "en": "Bone Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:268:1",
+  "en": "Sacred Wood Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:269:1",
+  "en": "Diamond Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:270:1",
+  "en": "Rusted Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:271:1",
+  "en": "Fairy Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:272:1",
+  "en": "Cat's Eye Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:273:1",
+  "en": "Ring of Healing",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:273:3",
+  "en": "Heals all allies a little.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:274:1",
+  "en": "Ring of Death",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:275:1",
+  "en": "Ring of Fellowship",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:276:1",
+  "en": "Ankh of Strength",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:277:1",
+  "en": "Ankh of Intellect",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:278:1",
+  "en": "Ankh of Piety",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:279:1",
+  "en": "Ankh of Vitality",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:280:1",
+  "en": "Ankh of Agility",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:281:1",
+  "en": "Ankh of Luck",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:282:1",
+  "en": "Salve",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:282:3",
+  "en": "Heals one ally a little.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:283:1",
+  "en": "Full Heal Potion",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:283:3",
+  "en": "Fully restores one ally's HP.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:284:1",
+  "en": "Wake-Up Potion",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:284:3",
+  "en": "Cures one ally of Sleep.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:285:1",
+  "en": "Antidote",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:285:3",
+  "en": "Cures one ally of Poison.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:286:1",
+  "en": "Paralysis Cure",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:286:3",
+  "en": "Cures one ally of Paralysis.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:287:1",
+  "en": "Nightdew Lozenge",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:287:3",
+  "en": "Cures one ally of Silence.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:288:1",
+  "en": "Calming Herb",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:288:3",
+  "en": "Cures one ally of Confusion.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:289:1",
+  "en": "First Love Gem",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:289:3",
+  "en": "Cures one ally of Charm.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:290:1",
+  "en": "Stonemelt Water",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:290:3",
+  "en": "Cures one ally of Petrification.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:291:1",
+  "en": "Revival Elixir",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:291:3",
+  "en": "Has a chance to revive one dead ally.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:292:1",
+  "en": "Headache Remedy",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:292:3",
+  "en": "Cures one ally of Sleep, Silence, Confusion and Charm.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:293:1",
+  "en": "Retort Pike",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:294:1",
+  "en": "Furiwells",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:295:1",
+  "en": "Francisca",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:296:1",
+  "en": "Colmet Hammer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:297:1",
+  "en": "Mond Mace",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:298:1",
+  "en": "Quenzstein",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:299:1",
+  "en": "Cudgel",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:300:1",
+  "en": "Asuna's Battledore",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:301:1",
+  "en": "Atlatl",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:302:1",
+  "en": "Meltscorm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:303:1",
+  "en": "Holy Flute",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:303:3",
+  "en": "[Instrument] Lifts the curse on spirit and undead monsters.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:304:1",
+  "en": "Harp of Sleep",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:304:3",
+  "en": "[Instrument] High chance to put one enemy to sleep.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:305:1",
+  "en": "Startle Trumpet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:305:3",
+  "en": "[Instrument] Raises all enemies' AC by 4. Stackable.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:306:1",
+  "en": "Kagura Bells",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:306:3",
+  "en": "[Instrument] Blesses all allies' weapons so they can hit spirits.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:307:1",
+  "en": "Enchanting Lute",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:307:3",
+  "en": "[Instrument] High chance to charm one enemy.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:308:1",
+  "en": "Puppet Maracas",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:308:3",
+  "en": "[Instrument] Draws enemy attacks onto one ally.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:309:1",
+  "en": "Earthsplit Drum",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:309:3",
+  "en": "[Instrument] A fissure damages foes; low chance to swallow them.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:310:1",
+  "en": "Zero Flute",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:310:3",
+  "en": "[Instrument] Resets stat changes made in battle for friend and foe.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:311:1",
+  "en": "Healing Tuning Fork",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:311:3",
+  "en": "[Instrument] Cures minor status ailments for all allies.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:312:1",
+  "en": "Divine Bolt Harp",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:312:3",
+  "en": "[Instrument] Strikes one enemy with lightning.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:313:1",
+  "en": "Ringstetza",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:314:1",
+  "en": "Iron Mallet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:315:1",
+  "en": "Geezers' Wand",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:316:1",
+  "en": "Tonfa",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:317:1",
+  "en": "Double Cropping",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:318:1",
+  "en": "Pirate Pick",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:319:1",
+  "en": "Life Stealer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:320:1",
+  "en": "Azure Sky Snowflake",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:321:1",
+  "en": "Black Scripture",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:322:1",
+  "en": "Targe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:323:1",
+  "en": "Varios Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:324:1",
+  "en": "Tri-Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:325:1",
+  "en": "Kettle Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:326:1",
+  "en": "Coif",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:327:1",
+  "en": "Sugarloaf",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:328:1",
+  "en": "Red Hood",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:329:1",
+  "en": "Blue Rain-1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:330:1",
+  "en": "Lorica Segmentata",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:331:1",
+  "en": "Brigandine",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:332:1",
+  "en": "Swan Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:333:1",
+  "en": "Cuirass",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:334:1",
+  "en": "Lamellar Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:335:1",
+  "en": "Dvel Soft Steel",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:336:1",
+  "en": "Dvel Soft Steel +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:337:1",
+  "en": "Dvel Soft Steel +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:338:1",
+  "en": "Frozen Elven Iron",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:339:1",
+  "en": "Frozen Elven Iron +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:340:1",
+  "en": "Frozen Elven Iron +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:341:1",
+  "en": "Vectreim",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:342:1",
+  "en": "Vectreim +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:343:1",
+  "en": "Vectreim +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:344:1",
+  "en": "Mazurite",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:345:1",
+  "en": "Mazurite +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:346:1",
+  "en": "Mazurite +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:347:1",
+  "en": "Tri-Layer Orat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:348:1",
+  "en": "Tri-Layer Orat +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:349:1",
+  "en": "Tri-Layer Orat +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:350:1",
+  "en": "Milstone",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:351:1",
+  "en": "Milstone +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:352:1",
+  "en": "Milstone +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:353:1",
+  "en": "Wooden Coin Bank",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:353:3",
+  "en": "[Servant] Spends money to deal up to 100 damage to one enemy.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:354:1",
+  "en": "Iron Coin Bank",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:354:3",
+  "en": "[Servant] Spends money to deal up to 200 damage to one enemy.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:355:1",
+  "en": "Piggy Bank",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:355:3",
+  "en": "[Servant] Spends all your money for limitless damage to one enemy.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:356:1",
+  "en": "Medal of Power",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:357:1",
+  "en": "Tea Leaves",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:357:3",
+  "en": "[Servant] Restores 1 MP to all allies.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:358:1",
+  "en": "Air Fruit",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:359:1",
+  "en": "Angel's Window",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:360:1",
+  "en": "Rock Counter",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:361:1",
+  "en": "Dove Bell",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:362:1",
+  "en": "Crow Bell",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:363:1",
+  "en": "Sheep's Brush",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:364:1",
+  "en": "Bone Slippers",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:365:1",
+  "en": "Death Pinwheel",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:366:1",
+  "en": "Philos. Stone",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:367:1",
+  "en": "Fiery Soul",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:368:1",
+  "en": "Nudie Heart",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:369:1",
+  "en": "Side Deathscythe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:370:1",
+  "en": "Ring of Otherspace",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:371:1",
+  "en": "Water of Return",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:372:1",
+  "en": "Gauze of Eternity",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:373:1",
+  "en": "Junk",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:374:1",
+  "en": "Fire Magic Seal +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:375:1",
+  "en": "Ice Magic Seal +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:376:1",
+  "en": "Bolt Magic Seal +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:377:1",
+  "en": "Fire Magic Seal +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:378:1",
+  "en": "Ice Magic Seal +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:379:1",
+  "en": "Bolt Magic Seal +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:380:1",
+  "en": "Fire Magic Seal +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:381:1",
+  "en": "Ice Magic Seal +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:382:1",
+  "en": "Bolt Magic Seal +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:383:1",
+  "en": "Marquise Knife",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:384:1",
+  "en": "Kodachi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:385:1",
+  "en": "Demon Soul Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:385:3",
+  "en": "Attacks one enemy with holy power.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:386:1",
+  "en": "Yasha Princess",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:386:3",
+  "en": "Has a chance to inflict Poison on one enemy row.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:387:1",
+  "en": "Longbow +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:388:1",
+  "en": "Expert's Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:389:1",
+  "en": "Trick Rod",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:390:1",
+  "en": "Star Rod",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:391:1",
+  "en": "Iron Boomerang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:392:1",
+  "en": "Obsidian Boomerang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:393:1",
+  "en": "Sword Saint's Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:394:1",
+  "en": "Elven Chain +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:395:1",
+  "en": "Morning Glory Garb",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:396:1",
+  "en": "Midsummer Garb",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:396:3",
+  "en": "Attacks one enemy row with fire.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:397:1",
+  "en": "Exorcism Talisman",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:398:1",
+  "en": "Silence Anklet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:399:1",
+  "en": "Dice of Fate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:400:1",
+  "en": "Wand of Records",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:401:1",
+  "en": "Rabbit Wand",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:401:3",
+  "en": "Raises all allies' spell resistance. Stackable.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:402:1",
+  "en": "Weasel Wand",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:402:3",
+  "en": "Raises an ally's number of attacks by 1. Stackable.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:403:1",
+  "en": "Light Magic Seal",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:404:1",
+  "en": "Dark Magic Seal",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:405:1",
+  "en": "Light Magic Seal +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:406:1",
+  "en": "Dark Magic Seal +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:407:1",
+  "en": "Light Magic Seal +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:408:1",
+  "en": "Dark Magic Seal +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:409:1",
+  "en": "Light Magic Seal +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:410:1",
+  "en": "Dark Magic Seal +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:411:1",
+  "en": "Neil Amues",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:412:1",
+  "en": "Evening Calm Foil",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:413:1",
+  "en": "Forebear's Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:414:1",
+  "en": "Discipline",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:415:1",
+  "en": "Swift Dagger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:416:1",
+  "en": "Dagger of Kelhens",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:417:1",
+  "en": "Vile Blade Ramshanok",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:418:1",
+  "en": "Dolk Paccano",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:419:1",
+  "en": "Pearl Jamas",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:420:1",
+  "en": "Karasu Tengu",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:421:1",
+  "en": "Fretful Aramisaki",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:422:1",
+  "en": "Bridal Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:423:1",
+  "en": "Evil Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:424:1",
+  "en": "Evil Boots",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:425:1",
+  "en": "Wild Dillon",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:426:1",
+  "en": "Blue Rain",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:427:1",
+  "en": "Rainy Four Lights",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:428:1",
+  "en": "Foxtail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:429:1",
+  "en": "Gowen's Wringer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:430:1",
+  "en": "Tonbokiri",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:431:1",
+  "en": "Double-Bladed Axe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:432:1",
+  "en": "Savage Axe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:433:1",
+  "en": "Hinged Headcraze",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:434:1",
+  "en": "Entraie",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:435:1",
+  "en": "Camel Mace",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:436:1",
+  "en": "Mace of Lapsed Faith",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:437:1",
+  "en": "Water Quartz",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:438:1",
+  "en": "Runed Flail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:439:1",
+  "en": "Shamrock",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:440:1",
+  "en": "Wizard's Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:441:1",
+  "en": "Skylark Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:442:1",
+  "en": "Angel Ribbon",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:443:1",
+  "en": "Forebear's Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:444:1",
+  "en": "Fringe Choker",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:445:1",
+  "en": "White Ash",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:446:1",
+  "en": "Welish Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:447:1",
+  "en": "Forebear's Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:448:1",
+  "en": "Amulet of Life",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:449:1",
+  "en": "Ladle +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:450:1",
+  "en": "Pacifier",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:451:1",
+  "en": "Three-Ray Star",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:452:1",
+  "en": "Steel Crane",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:453:1",
+  "en": "Wild-Ray Star",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:454:1",
+  "en": "Thousand-Sheet Awl",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:455:1",
+  "en": "Libretto of Prayer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:456:1",
+  "en": "Forebear's Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:457:1",
+  "en": "White Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:458:1",
+  "en": "Frying Pan +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:459:1",
+  "en": "Black Bull Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:460:1",
+  "en": "Bahamut Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:461:1",
+  "en": "Magic Sitar",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:461:3",
+  "en": "[Instrument] Has a chance to confuse one enemy row.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:462:1",
+  "en": "Holy Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:463:1",
+  "en": "Straw Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:464:1",
+  "en": "Tent",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:464:3",
+  "en": "The whole party rests until the next night or morning.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:465:1",
+  "en": "Forebear's Cuirass",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:466:1",
+  "en": "Devil's Coin Bank",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:467:1",
+  "en": "Koinunu",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:468:1",
+  "en": "Luci Koinunu",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:469:1",
+  "en": "Forebear's Sash",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:470:1",
+  "en": "Ragnas Garb",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:471:1",
+  "en": "Leaf Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:472:1",
+  "en": "Coloratura",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:473:1",
+  "en": "Walmy Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:474:1",
+  "en": "Shock Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:475:1",
+  "en": "Spiritual Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:476:1",
+  "en": "Sleep Anklet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:477:1",
+  "en": "Confusion Anklet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:478:1",
+  "en": "Charm Anklet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:479:1",
+  "en": "Beheading Anklet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:480:1",
+  "en": "Mageslayer Anklet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:481:1",
+  "en": "Bungee Belt",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:482:1",
+  "en": "Holy Heavy Sash",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:483:1",
+  "en": "Lucky Charm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:484:1",
+  "en": "Lucky Charm +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:485:1",
+  "en": "Wave Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:486:1",
+  "en": "Superstring Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:487:1",
+  "en": "Adelheid",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:488:1",
+  "en": "Altouche",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:489:1",
+  "en": "Helix Spear Euphoron",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:490:1",
+  "en": "Magic Gun Boanilus",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:491:1",
+  "en": "Everblade Einblau",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:492:1",
+  "en": "Tiger Loincloth",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:493:1",
+  "en": "Fried Rice",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:493:3",
+  "en": "Fully restores one ally's HP. Not for those with the Cook skill.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:494:1",
+  "en": "Strawberry Shortcake",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:494:3",
+  "en": "Restores one ally's MP. Not for those with the Cook skill.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:495:1",
+  "en": "Hand-Rolled Sushi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:495:3",
+  "en": "Restores one ally's SP. Not for those with the Cook skill.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:496:1",
+  "en": "White Fox Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:497:1",
+  "en": "Politan Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:498:1",
+  "en": "Maid's Pride",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:499:1",
+  "en": "Turtle Bikini",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:500:1",
+  "en": "Geimaga",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:501:1",
+  "en": "Magic Glasses",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:502:1",
+  "en": "(Reserve)",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:503:1",
+  "en": "(Reserve)",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:504:1",
+  "en": "Lucky Bag",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:505:1",
+  "en": "(Enemy-only below)",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:506:1",
+  "en": "Ooze",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:507:1",
+  "en": "Mist",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:508:1",
+  "en": "Sharp Fang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:509:1",
+  "en": "Cold Hand",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:510:1",
+  "en": "Sharp Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:511:1",
+  "en": "Poison Fang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:512:1",
+  "en": "Tentacle",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:513:1",
+  "en": "Spirit Rock",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:514:1",
+  "en": "Psi Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:515:1",
+  "en": "Fist",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:516:1",
+  "en": "Old Tree Vine",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:517:1",
+  "en": "Sharp Horn",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:518:1",
+  "en": "Demon Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:519:1",
+  "en": "Water Shot",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:520:1",
+  "en": "Paralytic Thread",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:521:1",
+  "en": "Sharp Claw +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:522:1",
+  "en": "Cold Hand +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:523:1",
+  "en": "Great Wheel",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:524:1",
+  "en": "Mantis Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:525:1",
+  "en": "Tentacle +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:526:1",
+  "en": "Vacuum Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:527:1",
+  "en": "Sharp Fang +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:528:1",
+  "en": "Wraith Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:529:1",
+  "en": "Thorn Vine",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:530:1",
+  "en": "Brutal Hoof",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:531:1",
+  "en": "Poison Fang +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:532:1",
+  "en": "Demon-Rend Pincers",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:533:1",
+  "en": "Poison Tail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:534:1",
+  "en": "Dragon Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:535:1",
+  "en": "Wicked French Kiss",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:536:1",
+  "en": "Flame Arm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:537:1",
+  "en": "Paralyzing Fang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:538:1",
+  "en": "Phantom Prow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:539:1",
+  "en": "Drain Fang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:540:1",
+  "en": "Sharp Fang +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:541:1",
+  "en": "Beak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:542:1",
+  "en": "Freezing Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:542:3",
+  "en": "Attacks one enemy row with freezing cold.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:543:1",
+  "en": "Silver Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:544:1",
+  "en": "Paint Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:545:1",
+  "en": "Paint Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:546:1",
+  "en": "Fiend Beast Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:547:1",
+  "en": "Ogre Broadblade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:548:1",
+  "en": "Fist +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:549:1",
+  "en": "Shining Finger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:550:1",
+  "en": "Tentacle +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:551:1",
+  "en": "Silken Fingers",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:552:1",
+  "en": "Sultry Sigh",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:553:1",
+  "en": "Dragon Claw +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:554:1",
+  "en": "Drift Ice",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:555:1",
+  "en": "Antique Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:556:1",
+  "en": "Wraith Claw +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:557:1",
+  "en": "Mysterious Wave",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:558:1",
+  "en": "Joker Rod",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:559:1",
+  "en": "Spike Heel",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:560:1",
+  "en": "Lich's Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:561:1",
+  "en": "Bone Scythe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:562:1",
+  "en": "Shadow Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:563:1",
+  "en": "Sharp Fang +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:564:1",
+  "en": "Demon Claw +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:565:1",
+  "en": "Holy Sea Trident",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:565:3",
+  "en": "Strikes one enemy with lightning.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:566:1",
+  "en": "Fist +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:567:1",
+  "en": "Alraune Vine",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:568:1",
+  "en": "Poison Moth Dust",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:569:1",
+  "en": "Dragon Claw +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:570:1",
+  "en": "Takasago Fan",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:571:1",
+  "en": "Armrest",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:572:1",
+  "en": "Fiend Beast Claw +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:573:1",
+  "en": "Dragon Emperor Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:573:3",
+  "en": "Unleashes a breath attack.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:574:1",
+  "en": "Brass Lightning",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:575:1",
+  "en": "Ooze +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:576:1",
+  "en": "Evilcalibur",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:577:1",
+  "en": "Vibration Wave",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:578:1",
+  "en": "Swallow Whole",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:579:1",
+  "en": "Demon Halo",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:580:1",
+  "en": "Hydra Fang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:581:1",
+  "en": "Lamia Tail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:582:1",
+  "en": "Fly Knight Shot",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:583:1",
+  "en": "Spirit-Calling Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:584:1",
+  "en": "Air Distortion",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:585:1",
+  "en": "Imperial Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:586:1",
+  "en": "Hell Master +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:587:1",
+  "en": "Rainbow Fang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:588:1",
+  "en": "Psi Blade +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:589:1",
+  "en": "Flame Arm +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:590:1",
+  "en": "Swallow Whole +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:591:1",
+  "en": "Crimson Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:592:1",
+  "en": "Flame Whip",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:593:1",
+  "en": "Great Wheel +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:594:1",
+  "en": "Samael's Scythe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:595:1",
+  "en": "Fiend Beast Claw +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:596:1",
+  "en": "Wraith Claw +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:597:1",
+  "en": "Dragon Claw +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:598:1",
+  "en": "Dark Saber",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:599:1",
+  "en": "Demon Claw +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:600:1",
+  "en": "Alchemy Flask Alpha",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:601:1",
+  "en": "Paint Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:602:1",
+  "en": "Scourge",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:603:1",
+  "en": "Alchemy Flask Beta",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:604:1",
+  "en": "Cocktail Dress",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:605:1",
+  "en": "Progenitor Vestment",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:606:1",
+  "en": "Spirit Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:607:1",
+  "en": "Rose Headband",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:608:1",
+  "en": "Honey Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:609:1",
+  "en": "Loser's Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:610:1",
+  "en": "Rime Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:611:1",
+  "en": "Evil Breastplate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:612:1",
+  "en": "Midnight Silk",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:613:1",
+  "en": "White Night Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:614:1",
+  "en": "Serpent Deity Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:615:1",
+  "en": "Fiend King Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:616:1",
+  "en": "Cheap Iron",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:617:1",
+  "en": "Garden Keeper",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:618:1",
+  "en": "Clown Garb",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:619:1",
+  "en": "Celestia Belly",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:620:1",
+  "en": "Tin Bucket",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:621:1",
+  "en": "Greater Pekoe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:621:3",
+  "en": "[Servant] Restores 1 MP to all allies.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:622:1",
+  "en": "Rationalist Planner",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:623:1",
+  "en": "Shell Breastplate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:624:1",
+  "en": "Shell Breastplate +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:625:1",
+  "en": "Raver Plate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:626:1",
+  "en": "Black Lightspear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:627:1",
+  "en": "Demon Lord Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:628:1",
+  "en": "Identita",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:629:1",
+  "en": "Demon God's Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:630:1",
+  "en": "Fallen Tree",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:631:1",
+  "en": "Dish Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:632:1",
+  "en": "Finger Shot",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:633:1",
+  "en": "Forbidden Paintbrush",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:634:1",
+  "en": "Joker Knife",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:635:1",
+  "en": "Body-Pounding Pestle",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:636:1",
+  "en": "Flower King's Leaf",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:637:1",
+  "en": "Abi Buckler",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:638:1",
+  "en": "Abi Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:639:1",
+  "en": "Reckdas' Evil Fog",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:640:1",
+  "en": "Fist +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:641:1",
+  "en": "Ooze +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:642:1",
+  "en": "Crystal Ray",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:643:1",
+  "en": "Progenitor Fang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:644:1",
+  "en": "Deprus Factor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:645:1",
+  "en": "Strange Rock Shot",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:646:1",
+  "en": "Dark Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:647:1",
+  "en": "Calamity Pistil",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:648:1",
+  "en": "Milky Way",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:649:1",
+  "en": "Oath Breastplate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:650:1",
+  "en": "Alabaster Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:651:1",
+  "en": "Elsoavice",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:652:1",
+  "en": "Clown Garb +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:653:1",
+  "en": "Atrorubens",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:654:1",
+  "en": "Netherlord's Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:655:1",
+  "en": "Foul Water Shot",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:656:1",
+  "en": "Nonsense Codon",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:657:1",
+  "en": "Ooze +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:658:1",
+  "en": "Snowball",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:659:1",
+  "en": "Icicle Arrow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:660:1",
+  "en": "Fish Buster",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:661:1",
+  "en": "Stomp",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:662:1",
+  "en": "Twelve-Layer Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:663:1",
+  "en": "Bronze Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:664:1",
+  "en": "Bronze Kick",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:665:1",
+  "en": "Feireed",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:666:1",
+  "en": "Rezefeid",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:667:1",
+  "en": "Santorea Handbook",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:668:1",
+  "en": "Sonic Boom",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:669:1",
+  "en": "Kotetsu",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:670:1",
+  "en": "Yoringen",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:671:1",
+  "en": "Caesarean Burst",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:672:1",
+  "en": "Blue Strike",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:673:1",
+  "en": "Iron Hoe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:674:1",
+  "en": "Gravity Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:675:1",
+  "en": "Dropkick",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:675:3",
+  "en": "Knocks an enemy's gear loose, or steals an item it is carrying.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:676:1",
+  "en": "Wings of Destruction",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:677:1",
+  "en": "Three-Year Death",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:678:1",
+  "en": "O.P.I.",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:679:1",
+  "en": "Clamshell Pinch",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:680:1",
+  "en": "Tengu Fan",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:680:3",
+  "en": "The whole party is guaranteed to escape from battle.",
+  "max": 67,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:681:1",
+  "en": "Black Lightning",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:682:1",
+  "en": "Swallow Whole +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:683:1",
+  "en": "Beast-Hide Gloves",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:684:1",
+  "en": "War Banner: Wasabi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:685:1",
+  "en": "War Banner: Blitz",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:686:1",
+  "en": "Shining Wizard",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:687:1",
+  "en": "Unicorn Horn",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:688:1",
+  "en": "Bicorn Horn",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:689:1",
+  "en": "Five-Inch Nail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:690:1",
+  "en": "Atonewolo's Hot Jug",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:691:1",
+  "en": "Hivanask",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:692:1",
+  "en": "Punishment Whip",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:693:1",
+  "en": "Oh, Who Is It?",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:694:1",
+  "en": "Come Again!",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:695:1",
+  "en": "Destruction Leotard",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:696:1",
+  "en": "Aura Steeda",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:697:1",
+  "en": "Tuna Edict",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:698:1",
+  "en": "Taizary Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:699:1",
+  "en": "Hitai-Eboshi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:700:1",
+  "en": "Imperial Garb",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:701:1",
+  "en": "Obsidian Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM_HELP.CSV:702:1",
+  "en": "Big Daddy",
+  "max": 20,
+  "used": true
+ }
+]

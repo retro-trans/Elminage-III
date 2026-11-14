@@ -1,0 +1,66 @@
+[
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@784e",
+  "en": "\"Oh ho, I never expected to run into you so suddenly.{w}But tell me, how do you differ from the five primal races?\nWhat was this generational succession even for!\"{w}{p}\"Come, let us have a little bout, shall we?{w}This power of the Ryug I have heard such rumors of --\nshow it to me!!\"{w}"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2837",
+  "en": "It's creepy how he grins every so often, even with nobody around.{w}"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2b9c",
+  "en": "\"We found the Lightstair Ruins, y'know!{w}The site of the Stairway of Light -- the one you lot loudly swore\n'could never be found'!\"{w}"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2f0c",
+  "en": "\"Yeah, I'm bursting with energy!!\"{w}"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2f7c",
+  "en": "'That's Chief Barjeff.{w}The ruler of Teridon, and a fabulously rich tycoon.{w}One with a bit of a troublesome habit, though...'{w}"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c32ff",
+  "en": "\"Now, now, Rianna, you're next!{w}Today, at long last,\nlet us share a hug, shall weeeee!!\"{w}"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3377",
+  "en": "\"...Just try laying a single finger on me.{w}I will shoot you clean through with the magic gun that sleeps in my arm.\"{w}"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3538",
+  "en": "'And last but not least, this distinguished figure.{w}The ruler of Lumisthenes --\nour very own Council Chair Wattner~!'{w}"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3841",
+  "en": "'They already have~ Teehee.'{w}"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3e11",
+  "en": "\"We'll build a great big cannon!{w}Let's do it big and flashy -- 'KA-BOOOOOM!!'\"{w}"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c4243",
+  "en": "\"...They could probably build that cannon.\"{w}{p}\"The technology of ogres and goblins\nholds a great deal of ancient wisdom that has otherwise been lost.{w}It is not to be taken lightly.\"{w}"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c4901",
+  "en": "\"Y-yeah, that's right, I was totally awake, good morning!{w}Welcome to the temple of entertainment, MILL.GP...{w}Huh? Star Capital Double-Up...?\"{w}"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c49c3",
+  "en": "\"D-don't tell Council Chair Wattner\nor Mayleen! Please!\"{w}{p}\"I'll get my pay docked again...{w}If I starved to death out on the street,\nyou'd feel sorry for me, right? That'd be bad, right? Right!?\"{w}"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3390",
+  "en": "\"Your cards are...{w}first, the {0C:0003:0013} of {0C:0001:000E},\nsecond, the {0C:0003:0014} of {0C:0001:000F}!?\"{w}{p}\"My word...!!{w}You have a blackjack!\nA clean win for you!!\"{w}{p}\"Congratulations!\nA 5x bonus payout! 2500 GP!\nPlease, take your winnings.\"{w}"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e34ba",
+  "en": "\"Your cards are...{w}first, the {0C:0003:0013} of {0C:0001:000E},\nsecond, the {0C:0003:0014} of {0C:0001:000F}!?\"{w}{p}\"However, my cards are...{w}first, the {0C:0003:0016} of {0C:0001:0011},\nsecond, the {0C:0003:0017} of {0C:0001:0012}!!!\"{w}{p}\"I have blackjack!{w}I'm afraid you lose.\"{w}{p}\"That's skill for you.{w}I'll be taking your bet,\nbut please don't hold it against me.\"{w}"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3ad0",
+  "en": "\"Sorry about this -- I have 21,\nwhich means you lose.\"{w}{p}\"Well, that's skill for you.{w}My apologies, but I'll be taking your bet.\"{w}"
+ }
+]

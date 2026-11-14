@@ -1,0 +1,348 @@
+[
+ {
+  "en": "Abi Shield",
+  "kind": "name",
+  "note": "Abi = glossary name; description is Abi's shield."
+ },
+ {
+  "en": "Ooze",
+  "kind": "name",
+  "note": "Sticky fluid monsters produce (sometimes acidic); 'Slime' avoided to not clash with the monster name."
+ },
+ {
+  "en": "Ooze +1",
+  "kind": "name"
+ },
+ {
+  "en": "Ooze +2",
+  "kind": "name"
+ },
+ {
+  "en": "Ooze +3",
+  "kind": "name"
+ },
+ {
+  "en": "Mist",
+  "kind": "name",
+  "note": "Literally 'spray'; the description is a thick sleep-inducing mist."
+ },
+ {
+  "en": "Poison Moth Dust",
+  "kind": "name",
+  "note": "Moth scale-powder; 'Dust' for [JP]."
+ },
+ {
+  "en": "Reckdas' Evil Fog",
+  "kind": "name",
+  "note": "Reckdas: new romanization of the monster name (no glossary entry). [JP] = evil fog."
+ },
+ {
+  "en": "Sharp Horn",
+  "kind": "name"
+ },
+ {
+  "en": "Sharp Fang",
+  "kind": "name"
+ },
+ {
+  "en": "Sharp Fang +1",
+  "kind": "name"
+ },
+ {
+  "en": "Sharp Fang +2",
+  "kind": "name"
+ },
+ {
+  "en": "Sharp Fang +3",
+  "kind": "name"
+ },
+ {
+  "en": "Poison Fang",
+  "kind": "name"
+ },
+ {
+  "en": "Poison Fang +1",
+  "kind": "name"
+ },
+ {
+  "en": "Paralyzing Fang",
+  "kind": "name",
+  "note": "Fang with nerve venom."
+ },
+ {
+  "en": "Drain Fang",
+  "kind": "name"
+ },
+ {
+  "en": "Hydra Fang",
+  "kind": "name"
+ },
+ {
+  "en": "Rainbow Fang",
+  "kind": "name"
+ },
+ {
+  "en": "Progenitor's Fang",
+  "kind": "name",
+  "note": "[JP] = the progenitor vampire at the top of the night kin (desc). 'True Ancestor Fang' is the literal alternative."
+ },
+ {
+  "en": "Cold Hand",
+  "kind": "name"
+ },
+ {
+  "en": "Cold Hand +1",
+  "kind": "name"
+ },
+ {
+  "en": "Sharp Claw",
+  "kind": "name"
+ },
+ {
+  "en": "Sharp Claw +1",
+  "kind": "name"
+ },
+ {
+  "en": "Demon Claw",
+  "kind": "name"
+ },
+ {
+  "en": "Demon Claw +1",
+  "kind": "name"
+ },
+ {
+  "en": "Demon Claw +2",
+  "kind": "name"
+ },
+ {
+  "en": "Wraith Claw",
+  "kind": "name",
+  "note": "[JP] = incorporeal spirit (desc); 'Wraith' chosen."
+ },
+ {
+  "en": "Wraith Claw +1",
+  "kind": "name"
+ },
+ {
+  "en": "Wraith Claw +2",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Claw",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Claw +1",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Claw +2",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Claw +3",
+  "kind": "name"
+ },
+ {
+  "en": "Fiend Beast Claw",
+  "kind": "name",
+  "note": "[JP] = beasts that gained dark power; 'Fiend Beast' keeps it distinct from [JP] 'Demon'."
+ },
+ {
+  "en": "Fiend Beast Claw +1",
+  "kind": "name"
+ },
+ {
+  "en": "Fiend Beast Claw +2",
+  "kind": "name"
+ },
+ {
+  "en": "Paint Claw",
+  "kind": "name",
+  "note": "Claw of a beast painted on a canvas."
+ },
+ {
+  "en": "Crimson Claw",
+  "kind": "name"
+ },
+ {
+  "en": "Demon Lord Claw",
+  "kind": "name",
+  "note": "[JP] = Demon Lord, as in csvt slice_01."
+ },
+ {
+  "en": "Alabaster Claw",
+  "kind": "name",
+  "note": "[JP] = chalk-white; desc compares it to marble."
+ },
+ {
+  "en": "Dark Claw",
+  "kind": "name"
+ },
+ {
+  "en": "Tentacle",
+  "kind": "name"
+ },
+ {
+  "en": "Tentacle +1",
+  "kind": "name"
+ },
+ {
+  "en": "Tentacle +2",
+  "kind": "name"
+ },
+ {
+  "en": "Calamity Pistil",
+  "kind": "name",
+  "note": "[JP] read as [JP] (pistil) + suffix; desc describes pistil-like tips on the tentacles. Could be meant as a coined name 'Mesibel'."
+ },
+ {
+  "en": "Spirit Rock",
+  "kind": "name"
+ },
+ {
+  "en": "Water Shot",
+  "kind": "name",
+  "note": "[JP]: condensed water fired like a bullet. '-[JP]' rendered 'Shot' throughout this slice."
+ },
+ {
+  "en": "Drift Ice",
+  "kind": "name"
+ },
+ {
+  "en": "Fly Knight Shot",
+  "kind": "name",
+  "note": "The fly knights guarding the Insector Lord; category is bow (projectile)."
+ },
+ {
+  "en": "Strange Rock Shot",
+  "kind": "name",
+  "note": "[JP] = oddly shaped rock."
+ },
+ {
+  "en": "Milky Way",
+  "kind": "name"
+ },
+ {
+  "en": "Foul Water Shot",
+  "kind": "name",
+  "note": "[JP] = unclean water/mud; pairs with 1398 Water Shot."
+ },
+ {
+  "en": "Deprus Factor",
+  "kind": "name",
+  "note": "[JP]: new romanization, no source."
+ },
+ {
+  "en": "Nonsense Codon",
+  "kind": "name"
+ },
+ {
+  "en": "Mysterious Wave",
+  "kind": "name",
+  "note": "[JP]: shockwave that also carries emotions."
+ },
+ {
+  "en": "Vibration Wave",
+  "kind": "name"
+ },
+ {
+  "en": "Vacuum Blade",
+  "kind": "name",
+  "note": "[JP]: wind/vacuum-vortex cut; 'Vacuum Blade' instead of the romanized 'Kamaitachi'."
+ },
+ {
+  "en": "Sonic Boom",
+  "kind": "name"
+ },
+ {
+  "en": "Psi Blade",
+  "kind": "name"
+ },
+ {
+  "en": "Psi Blade +1",
+  "kind": "name"
+ },
+ {
+  "en": "Caesarean Burst",
+  "kind": "name",
+  "note": "[JP] puns on [JP] (Caesarean section): a cursed child bursting out of the womb (desc)."
+ },
+ {
+  "en": "Blue Strike",
+  "kind": "name"
+ },
+ {
+  "en": "Fist",
+  "kind": "name",
+  "note": "[JP] = a clenched-fist blow."
+ },
+ {
+  "en": "Fist +1",
+  "kind": "name"
+ },
+ {
+  "en": "Fist +2",
+  "kind": "name"
+ },
+ {
+  "en": "Fist +3",
+  "kind": "name"
+ },
+ {
+  "en": "Great Wheel",
+  "kind": "name",
+  "note": "[JP]: spinning attack using centrifugal force."
+ },
+ {
+  "en": "Great Wheel +1",
+  "kind": "name"
+ },
+ {
+  "en": "Mantis Blade",
+  "kind": "name"
+ },
+ {
+  "en": "Demon-Rend Pincers",
+  "kind": "name",
+  "note": "[JP]: crustacean pincers that cut anything; [JP] kept as 'Demon-Rend'."
+ },
+ {
+  "en": "Bone Scythe",
+  "kind": "name",
+  "note": "[JP] = remains/skeleton; 'Corpse Scythe' is the alternative."
+ },
+ {
+  "en": "Samael's Scythe",
+  "kind": "name",
+  "note": "Samael: standard spelling of the angel of death; here a mantis-like skeleton monster."
+ },
+ {
+  "en": "Iron Hoe",
+  "kind": "name"
+ },
+ {
+  "en": "Poison Tail",
+  "kind": "name"
+ },
+ {
+  "en": "Lamia Tail",
+  "kind": "name"
+ },
+ {
+  "en": "Flame Arm",
+  "kind": "name"
+ },
+ {
+  "en": "Flame Arm +1",
+  "kind": "name"
+ },
+ {
+  "en": "Beak",
+  "kind": "name"
+ },
+ {
+  "en": "Shining Finger",
+  "kind": "name"
+ }
+]

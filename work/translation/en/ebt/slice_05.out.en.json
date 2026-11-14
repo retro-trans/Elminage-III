@@ -1,0 +1,364 @@
+[
+ {
+  "en": "Enough. Kindly get out of here at once.\"",
+  "kind": "ui",
+  "note": "Tail of a quote whose opening quote is in another string; closing quote bracket kept as \". Pompous -tamae register ('kindly'). Exactly 40/40 bytes."
+ },
+ {
+  "en": "A new light now dwells in the Compass.",
+  "kind": "ui",
+  "note": "Compass = the temple's Fame compass (wmap: 'the Compass')."
+ },
+ {
+  "en": "You already have it.",
+  "kind": "ui",
+  "note": "Neighbours (321-323) are the Compass/Fame menu; object left as 'it' (item not named in source)."
+ },
+ {
+  "en": "You don't have enough Fame.",
+  "kind": "ui"
+ },
+ {
+  "en": "This is the current weather.",
+  "kind": "ui",
+  "note": "Help/label line for the weather display."
+ },
+ {
+  "en": "Data error",
+  "kind": "ui"
+ },
+ {
+  "en": "Installation failed.\nAborting the installation.k",
+  "kind": "ui",
+  "note": "Trailing ASCII 'k' after the Japanese full stop kept as in source (looks like a stray byte; do not strip without checking)."
+ },
+ {
+  "en": "Writing data...",
+  "kind": "ui"
+ },
+ {
+  "en": "Stable",
+  "kind": "ui",
+  "note": "Inn room grade (Zeppo's Inn; wmap uses 'the stable')."
+ },
+ {
+  "en": "Economy",
+  "kind": "ui",
+  "note": "Inn room grade; matches wmap 'Economy'."
+ },
+ {
+  "en": "Suite",
+  "kind": "ui",
+  "note": "Inn room grade."
+ },
+ {
+  "en": "Tent",
+  "kind": "ui",
+  "note": "Inn/rest option."
+ },
+ {
+  "en": "-Storage-",
+  "kind": "ui",
+  "note": "Hiragana spelling of souko; same label as slice_03 row 167 (kanji); use the same English there."
+ },
+ {
+  "en": "* Alchemy Storage Use *",
+  "kind": "ui",
+  "note": "Alchemy Storage = established term (wmap/PLACE_NM). Header of the fee notice 333-337."
+ },
+ {
+  "en": "Smith/Alchemy/Dismantle/Storage",
+  "kind": "ui",
+  "note": "31 chars vs 22-column source; no hard limit but the notice box may be narrow -- check in game. Fallback: 'Smith/Alch/Dismantle/Store'."
+ },
+ {
+  "en": "Per use %6d GP",
+  "kind": "ui"
+ },
+ {
+  "en": "If an explosion occurs,",
+  "kind": "ui",
+  "note": "Continues into 337."
+ },
+ {
+  "en": "all GP on hand is seized.",
+  "kind": "ui",
+  "note": "Completes 336. botsushuu = confiscated; zengaku = the whole amount."
+ },
+ {
+  "en": "For the next level,",
+  "kind": "ui",
+  "note": "Continues into 339."
+ },
+ {
+  "en": "you need %d more EXP.",
+  "kind": "ui"
+ },
+ {
+  "en": "Level is already at max",
+  "kind": "ui",
+  "note": "max 24 (23 used). Literal: 'the level will not go up any more'."
+ },
+ {
+  "en": "%s leveled up!",
+  "kind": "ui"
+ },
+ {
+  "en": "Gained Summa ability",
+  "kind": "ui",
+  "note": "NEW TERM: Summa = katakana 'samaa', a rank above High Master (JOBABL header 'High Master / Summa ability'; MON_TEXT: a ninja ghost that rose to the rank of Summa). Romanization uncertain ('Summer' is the literal reading). Subject omitted as in source: log line following '%s leveled up!'."
+ },
+ {
+  "en": "Gained High Master ability",
+  "kind": "ui",
+  "note": "NEW TERM: High Master (rank). Subject omitted as in 342."
+ },
+ {
+  "en": "%s %s",
+  "kind": "ui",
+  "note": "First %s = what changed, second %s = row 345 'gained' / 346 'lost' -> e.g. 'Poison Resist gained'. Placeholder order kept; the particle wo is absorbed."
+ },
+ {
+  "en": "gained",
+  "kind": "ui",
+  "note": "Fills the 2nd %s of row 344; lower case on purpose."
+ },
+ {
+  "en": "lost",
+  "kind": "ui",
+  "note": "Fills the 2nd %s of row 344; lower case on purpose."
+ },
+ {
+  "en": "Learned new spells.",
+  "kind": "ui",
+  "note": "Number not shown in source; plural chosen (may be one spell). Subject omitted as in 342."
+ },
+ {
+  "en": "HP increased by %4d",
+  "kind": "ui"
+ },
+ {
+  "en": "%s went to sleep.",
+  "kind": "ui",
+  "note": "Probably inn rest message."
+ },
+ {
+  "en": "Happy birthday!",
+  "kind": "ui"
+ },
+ {
+  "en": "%s died of old age.",
+  "kind": "ui"
+ },
+ {
+  "en": "( Died at age %d )",
+  "kind": "ui",
+  "note": "kyounen = age at death; spaced parentheses kept."
+ },
+ {
+  "en": "There is no save data on the Memory Stick.\n",
+  "kind": "ui",
+  "note": "The box-drawing char after the Memory Stick name (probably a custom TM/Duo glyph in the font) was DROPPED to stay ASCII-only. Re-add the game's glyph at build time if the font needs it (TRC wording)."
+ },
+ {
+  "en": "No Memory Stick is inserted.\n",
+  "kind": "ui",
+  "note": "Box-drawing glyph after the Memory Stick name dropped (see 353)."
+ },
+ {
+  "en": "Failed to load.\n",
+  "kind": "ui"
+ },
+ {
+  "en": "Deleting corrupted save data.\nDo not remove the Memory Stick.",
+  "kind": "ui",
+  "note": "Box-drawing glyph dropped (see 353)."
+ },
+ {
+  "en": "\nDeleted.",
+  "kind": "ui"
+ },
+ {
+  "en": "\nFailed to delete.",
+  "kind": "ui"
+ },
+ {
+  "en": "Installed data is corrupted\nand will be deleted.",
+  "kind": "ui",
+  "note": "max 53 (48 used)."
+ },
+ {
+  "en": "Deleting corrupted install data.\nDo not remove the Memory Stick.",
+  "kind": "ui",
+  "note": "Box-drawing glyph dropped (see 353)."
+ },
+ {
+  "en": " 3.Char Image View",
+  "kind": "ui",
+  "note": "Debug menu; numbering and leading space kept."
+ },
+ {
+  "en": " 5.New Game",
+  "kind": "ui",
+  "note": "Debug menu: saisho kara = start from the beginning."
+ },
+ {
+  "en": "13.Battle Effects",
+  "kind": "ui",
+  "note": "Debug menu."
+ },
+ {
+  "en": "16.Load Save Data",
+  "kind": "ui",
+  "note": "Debug menu."
+ },
+ {
+  "en": "Adv=%d",
+  "kind": "ui",
+  "note": "Debug: bou = adventurer count (inferred)."
+ },
+ {
+  "en": "Mon=%d",
+  "kind": "ui",
+  "note": "Debug: mo = monster count (inferred)."
+ },
+ {
+  "en": "MonRow=%03d",
+  "kind": "ui",
+  "note": "Debug: monster row/group (retsu)."
+ },
+ {
+  "en": "[Normal]",
+  "kind": "ui"
+ },
+ {
+  "en": "[Phys]",
+  "kind": "ui"
+ },
+ {
+  "en": "[Spell]",
+  "kind": "ui"
+ },
+ {
+  "en": "( Regular )",
+  "kind": "ui",
+  "note": "seiki = regular/legitimate (vs the all-character debug mode in 372). Uncertain."
+ },
+ {
+  "en": "All Characters Mode",
+  "kind": "ui",
+  "note": "Character viewer debug."
+ },
+ {
+  "en": "Defeated Monsters Only",
+  "kind": "ui",
+  "note": "Character viewer filter."
+ },
+ {
+  "en": "Opening 01",
+  "kind": "ui"
+ },
+ {
+  "en": "Opening 02",
+  "kind": "ui"
+ },
+ {
+  "en": "Ending",
+  "kind": "ui"
+ },
+ {
+  "en": "(Single Row)",
+  "kind": "ui",
+  "note": "Debug: tanretsu = single monster row."
+ },
+ {
+  "en": "(Normal)",
+  "kind": "ui"
+ },
+ {
+  "en": "TrsTBL=#%3d",
+  "kind": "ui",
+  "note": "Debug: treasure table number."
+ },
+ {
+  "en": "Press the Cross button to go back.",
+  "kind": "ui",
+  "note": "Cross button written as X."
+ },
+ {
+  "en": "<-                ->",
+  "kind": "ui",
+  "note": "Full-width arrows (2 columns) -> '<-' / '->'; the 16 spaces kept so the total width stays the same."
+ },
+ {
+  "en": "SQJingle-Int",
+  "kind": "ui",
+  "note": "Debug sound-test label."
+ },
+ {
+  "en": "STR-BGM: ",
+  "kind": "ui",
+  "note": "max 9: full-width colon (2 cols) -> ': '."
+ },
+ {
+  "en": "Int-SE: ",
+  "kind": "ui",
+  "note": "max 8."
+ },
+ {
+  "en": "BVOL  : ",
+  "kind": "ui",
+  "note": "max 8."
+ },
+ {
+  "en": "Monsters defeated=%d",
+  "kind": "ui"
+ },
+ {
+  "en": "Elminage Character Viewer",
+  "kind": "ui"
+ },
+ {
+  "en": "Left/Right:ID+-1, Up/Down:ID+-10, LStick up/down:Pan, Cross button:Quit.",
+  "kind": "ui",
+  "note": "Debug help; plus-minus sign -> '+-'."
+ },
+ {
+  "en": "Left/Right:ID+-1, Up/Down:ID+-10, L/R:Change anim, Stick up/down:Pan, Cross:Quit.",
+  "kind": "ui",
+  "note": "Debug help."
+ },
+ {
+  "en": "SCERR:CALL instruction nested too deep(SC:%05d)",
+  "kind": "ui",
+  "note": "Script-engine error; 'SCERR:' prefix and '(SC:%05d)' kept."
+ },
+ {
+  "en": "SCERR:Invalid RET instruction(SC:%05d)",
+  "kind": "ui"
+ },
+ {
+  "en": "Above the Clouds",
+  "kind": "ui",
+  "note": "Area name (also MONAPP/MONRAW area); wmap row 42 uses 'Above the clouds' (op label). Title case here as a place name."
+ },
+ {
+  "en": "You can't create that here.",
+  "kind": "ui",
+  "note": "What is being created is not stated (alchemy/character); object left as 'that'."
+ },
+ {
+  "en": "SCERR:CALL instruction nesting error(SC:%05d)",
+  "kind": "ui"
+ },
+ {
+  "en": "?",
+  "kind": "ui",
+  "note": "Full-width -> ASCII."
+ },
+ {
+  "en": "!",
+  "kind": "ui",
+  "note": "Full-width -> ASCII."
+ }
+]

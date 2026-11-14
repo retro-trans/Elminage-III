@@ -1,0 +1,740 @@
+[
+ {
+  "id": "SP_TEXT.CSV:5:4",
+  "en": "Class changed to Fighter",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:6:4",
+  "en": "Class changed to Mage",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:7:4",
+  "en": "Class changed to Priest",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:8:4",
+  "en": "Class changed to Thief",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:9:4",
+  "en": "Class changed to Alchemist",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:10:4",
+  "en": "Class changed to Servant",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:11:4",
+  "en": "Class changed to Bishop",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:12:4",
+  "en": "Class changed to Ranger",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:13:4",
+  "en": "Class changed to Gladiator",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:14:4",
+  "en": "Class changed to Bard",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:15:4",
+  "en": "Class changed to Kannagi",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:16:4",
+  "en": "Class changed to Summoner",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:17:4",
+  "en": "Class changed to Valkyrie",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:18:4",
+  "en": "Class changed to Lord",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:19:4",
+  "en": "Class changed to Samurai",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:20:4",
+  "en": "Class changed to Ninja",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:21:4",
+  "en": "Class changed",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:22:4",
+  "en": "Class changed",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:23:4",
+  "en": "Class changed",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:24:4",
+  "en": "Class changed",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:25:4",
+  "en": "Race changed to Human",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:26:4",
+  "en": "Race changed to Elf",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:27:4",
+  "en": "Race changed to Dwarf",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:28:4",
+  "en": "Race changed to Gnome",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:29:4",
+  "en": "Race changed to Hobbit",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:30:4",
+  "en": "Race changed to Fairy",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:31:4",
+  "en": "Race changed to Werebeast",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:32:4",
+  "en": "Race changed to Dragonewt",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:33:4",
+  "en": "Race changed to Devilish",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:34:4",
+  "en": "Race changed to Magic Puppet",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:35:4",
+  "en": "Race changed to Ogre",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:36:4",
+  "en": "Race changed to Goblin",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:37:4",
+  "en": "Race changed",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:38:4",
+  "en": "Race changed",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:39:4",
+  "en": "Race changed",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:40:4",
+  "en": "Received the Blessing of Life",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:40:5",
+  "en": "Cannot receive the gods' blessing",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:41:4",
+  "en": "Received the Blessing of Change",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:41:5",
+  "en": "Cannot receive the gods' blessing",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:42:4",
+  "en": "Received the Blessing of Dark Oblivion",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:42:5",
+  "en": "Cannot receive the gods' blessing",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:43:4",
+  "en": "Received the Blessing of Space",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:43:5",
+  "en": "Cannot receive the gods' blessing",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:44:4",
+  "en": "Received the Blessing of Time",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:44:5",
+  "en": "Cannot receive the gods' blessing",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:45:4",
+  "en": "Received the Blessing of Existence",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:45:5",
+  "en": "Cannot receive the gods' blessing",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:46:4",
+  "en": "Gender changed to Male",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:47:4",
+  "en": "Gender changed to Female",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:48:4",
+  "en": "Alignment changed to Good",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:49:4",
+  "en": "Alignment changed to Neutral",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:50:4",
+  "en": "Alignment changed to Evil",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:51:4",
+  "en": "Strength increased",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:52:4",
+  "en": "Intellect increased",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:53:4",
+  "en": "Piety increased",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:54:4",
+  "en": "Vitality increased",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:55:4",
+  "en": "Agility increased",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:56:4",
+  "en": "Luck increased",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:57:4",
+  "en": "Strength decreased",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:58:4",
+  "en": "Intellect decreased",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:59:4",
+  "en": "Piety decreased",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:60:4",
+  "en": "Vitality decreased",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:61:4",
+  "en": "Agility decreased",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:62:4",
+  "en": "Luck decreased",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:63:4",
+  "en": "Aged 1 year",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:64:4",
+  "en": "Grew 1 year younger",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:65:4",
+  "en": "Aged 10 years",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:66:4",
+  "en": "Gained purity",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:67:4",
+  "en": "Breath element changed to Fire",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:68:4",
+  "en": "Breath element changed to Ice",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:69:4",
+  "en": "Breath element changed to Lightning",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:70:4",
+  "en": "Breath element changed to Holy",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:71:4",
+  "en": "Breath element changed to Dark",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:72:4",
+  "en": "Breath element changed to Sleep",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:73:4",
+  "en": "Breath element changed to Poison",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:74:4",
+  "en": "Breath element changed to Paralysis",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:75:4",
+  "en": "Breath element changed to Silence",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:76:4",
+  "en": "Breath element changed to Confusion",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:77:4",
+  "en": "Breath element changed to Charm",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:78:4",
+  "en": "Breath element changed to Stone",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:79:4",
+  "en": "Breath element changed to Death",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:80:4",
+  "en": "Breath element changed",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:81:4",
+  "en": "Forgot all spells",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:82:4",
+  "en": "All maps reverted to unexplored",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:83:4",
+  "en": "Max HP increased",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:84:4",
+  "en": "MP was fully restored",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:85:4",
+  "en": "Everyone's MP was fully restored",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:86:4",
+  "en": "MP dropped to 0",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:87:4",
+  "en": "Everyone's MP dropped to 0",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:88:4",
+  "en": "Everyone's HP restored, ailments cured",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:89:4",
+  "en": "was petrified",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:90:4",
+  "en": "Died",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:91:4",
+  "en": "Turned to ash",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:92:4",
+  "en": "It turned into Frostfire Chain Mail",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:92:5",
+  "en": "Nothing happened. Something's missing.",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:93:4",
+  "en": "It turned into Frostfire Chain Mail",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:93:5",
+  "en": "Nothing happened. Something's missing.",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:94:4",
+  "en": "It turned into Goddess's Shield",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:94:5",
+  "en": "Nothing happened. Something's missing.",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:95:4",
+  "en": "It turned into Black Dream Cloak",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:95:5",
+  "en": "Nothing happened. Something's missing.",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:96:4",
+  "en": "It turned into Crimson Blade",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:96:5",
+  "en": "Nothing happened. Something's missing.",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:97:4",
+  "en": "It turned into Ring of Fellowship",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:97:5",
+  "en": "Nothing happened. Something's missing.",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:98:4",
+  "en": "It turned into Inro",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:98:5",
+  "en": "Nothing happened. Something's missing.",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:99:4",
+  "en": "It turned into Fundoshi-1",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:100:4",
+  "en": "Blessed at the cost of their life",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:101:4",
+  "en": "Someone's gender was swapped",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:102:4",
+  "en": "Mysterious letters rose into view",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:103:4",
+  "en": "Magic light enveloped their body",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:103:5",
+  "en": "Nothing happened",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:104:4",
+  "en": "Went bald",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:106:4",
+  "en": "Flames of passion engulfed the two",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:106:5",
+  "en": "Someone is missing",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:107:4",
+  "en": "The Wand of Records glowed with Fame",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:107:5",
+  "en": "Fame cannot be offered yet",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:108:4",
+  "en": "Gained the power of contract",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:108:5",
+  "en": "Already has the power of contract",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:109:4",
+  "en": "A mysterious urge welled up",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:110:4",
+  "en": "Traded all past experience for GP.",
+  "max": 40,
+  "used": true
+ },
+ {
+  "id": "SP_TEXT.CSV:111:4",
+  "en": "What will it be?",
+  "max": 40,
+  "used": true
+ }
+]

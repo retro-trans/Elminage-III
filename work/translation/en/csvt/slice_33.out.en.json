@@ -1,0 +1,377 @@
+[
+ {
+  "en": "Ancient-Born",
+  "kind": "name",
+  "note": "Epithet of Twin Scovil (row 2720, slice_32). 'Born of ancient times'; Cambrian-style creature."
+ },
+ {
+  "en": "Royal Honey",
+  "kind": "name"
+ },
+ {
+  "en": "Queen Bee's Heir",
+  "kind": "name",
+  "note": "Lit. 'one who inherits the princess-bee's blood'. 'Princess Bee's Heir' is 19 bytes; MON_TEXT calls it a queen bee."
+ },
+ {
+  "en": "Frasteria",
+  "kind": "name"
+ },
+ {
+  "en": "Eerie Glow",
+  "kind": "name",
+  "note": "Lit. 'uncanny phosphorescence'."
+ },
+ {
+  "en": "Insector Lord",
+  "kind": "name",
+  "note": "Kept the coined 'Insector' from the katakana (not 'Insect Lord'). Also mirrored in MSP_TEXT."
+ },
+ {
+  "en": "King of Fly Manor",
+  "kind": "name",
+  "note": "Lit. 'king of the house of flies' (Beelzebub nod)."
+ },
+ {
+  "en": "Wiwaxia",
+  "kind": "name",
+  "note": "Real Cambrian animal name."
+ },
+ {
+  "en": "Spiky Bun",
+  "kind": "name",
+  "note": "Lit. 'moving spiky manju bun'; 'moving' dropped to fit 12 bytes."
+ },
+ {
+  "en": "Hovering Straw",
+  "kind": "name"
+ },
+ {
+  "en": "Slurp-Slurp",
+  "kind": "name",
+  "note": "Onomatopoeia chu-chu (sucking nectar)."
+ },
+ {
+  "en": "Chick Bomb",
+  "kind": "name",
+  "note": "'Chicken Bomb' is 12 bytes, max 10."
+ },
+ {
+  "en": "Meat Racer",
+  "kind": "name",
+  "note": "Lit. 'running meat-bullet bird'; MON_TEXT says it is called a meat bomb. Compressed to 10 bytes."
+ },
+ {
+  "en": "Camel Duff",
+  "kind": "name",
+  "note": "'Duff' romanizes daffu; spelling uncertain."
+ },
+ {
+  "en": "Camel Revenge",
+  "kind": "name",
+  "note": "'Camel's Revenge' is 15 bytes, max 14."
+ },
+ {
+  "en": "Wise Hammer",
+  "kind": "name",
+  "note": "Hammerhead shark (its MON_TEXT mirror is hammerhead). 'Waizu' read as Wise; could be a pun on 'wide' (wide field of view)."
+ },
+ {
+  "en": "Blind Only Ahead",
+  "kind": "name",
+  "note": "Lit. 'no blind spot except straight ahead' (hammerhead eyes)."
+ },
+ {
+  "en": "Tonafel",
+  "kind": "name"
+ },
+ {
+  "en": "Nosewalker",
+  "kind": "name",
+  "note": "Lit. 'still nose-walking'; 'still' dropped to fit 10 bytes."
+ },
+ {
+  "en": "Deathgaroo",
+  "kind": "name",
+  "note": "Death + kangaroo."
+ },
+ {
+  "en": "Punch! Kick!",
+  "kind": "name",
+  "note": "Lit. 'it's a punch, it's a kick'."
+ },
+ {
+  "en": "Full Moon Rabbit",
+  "kind": "name",
+  "note": "Jugoya = night of the harvest full moon (mid-autumn moon-viewing); moon rabbits pound mochi."
+ },
+ {
+  "en": "Full Moon Rabbit",
+  "kind": "name",
+  "note": "Nickname is only the kana reading of the name; same English."
+ },
+ {
+  "en": "Red/White Mochi?",
+  "kind": "name",
+  "note": "Lit. 'Red mochi? White mochi?'; 'Red Mochi? White?' is 17 bytes. Red = blood, per MON_TEXT."
+ },
+ {
+  "en": "Armgorion",
+  "kind": "name"
+ },
+ {
+  "en": "Anything Goes",
+  "kind": "name",
+  "note": "Lit. 'doing whatever it pleases' (its arms act on their own)."
+ },
+ {
+  "en": "Vortex Eye",
+  "kind": "name",
+  "note": "Spiral-shelled creature; 'Vortec' read as Vortex."
+ },
+ {
+  "en": "Silent Thinker",
+  "kind": "name",
+  "note": "Lit. 'philosopher of silence'; 'Silent Philosopher' does not fit 14."
+ },
+ {
+  "en": "Diamond Colony",
+  "kind": "name"
+ },
+ {
+  "en": "Eternal Brilliance",
+  "kind": "name",
+  "note": "Lit. 'eternal radiance' (echoes the Japanese diamond slogan)."
+ },
+ {
+  "en": "Deep Dresser",
+  "kind": "name"
+ },
+ {
+  "en": "Deep-Sea Fashion",
+  "kind": "name"
+ },
+ {
+  "en": "Beast",
+  "kind": "name",
+  "note": "Matches 'Werebeast' usage of beast in the UI."
+ },
+ {
+  "en": "Beastlike",
+  "kind": "name",
+  "note": "Lit. 'like a beast'; 'Like a Beast' is 12 bytes."
+ },
+ {
+  "en": "Airy Vider",
+  "kind": "name",
+  "note": "Coined katakana (giant flying whale); 'vider' spelling uncertain."
+ },
+ {
+  "en": "Big Lug",
+  "kind": "name",
+  "note": "Dekabutsu = big hulking thing."
+ },
+ {
+  "en": "Nose Tyrant",
+  "kind": "name"
+ },
+ {
+  "en": "Forest Tyrant",
+  "kind": "name"
+ },
+ {
+  "en": "Emperor Bird",
+  "kind": "name"
+ },
+ {
+  "en": "Pomp and Majesty",
+  "kind": "name",
+  "note": "Ifuu doudou = imposing, majestic bearing (also the Japanese title of Pomp and Circumstance)."
+ },
+ {
+  "en": "Babirusa",
+  "kind": "name",
+  "note": "Real animal name."
+ },
+ {
+  "en": "Holy Fiend",
+  "kind": "name",
+  "note": "Lit. 'holy demon-beast'; keeps the holy/demonic contrast."
+ },
+ {
+  "en": "Harpy",
+  "kind": "name"
+ },
+ {
+  "en": "Sky Frolicker",
+  "kind": "name",
+  "note": "Lit. 'frolicking in the great sky'."
+ },
+ {
+  "en": "Carbuncle",
+  "kind": "name"
+ },
+ {
+  "en": "Gem Beast",
+  "kind": "name",
+  "note": "Lit. 'magic-stone beast'; 'Magic Gem Beast' is 15 bytes."
+ },
+ {
+  "en": "Afanc",
+  "kind": "name",
+  "note": "Welsh water monster; standard English spelling (also seen as Avanc)."
+ },
+ {
+  "en": "Kshaaa!",
+  "kind": "name",
+  "note": "Hissing cry."
+ },
+ {
+  "en": "Basilisk",
+  "kind": "name"
+ },
+ {
+  "en": "Venomous",
+  "kind": "name",
+  "note": "Lit. 'poison lizard'; 'Venom Lizard' is 12 bytes, max 10."
+ },
+ {
+  "en": "Peryton",
+  "kind": "name"
+ },
+ {
+  "en": "Man-Shadow",
+  "kind": "name",
+  "note": "Lit. 'deer-bird, human shadow' (its shadow is human-shaped, per MON_TEXT). Deer-bird part dropped to fit 10 bytes."
+ },
+ {
+  "en": "Nekomata",
+  "kind": "name"
+ },
+ {
+  "en": "Loyal Cat",
+  "kind": "name",
+  "note": "Lit. 'loyal demon cat'; 'Loyal Demon Cat' is 15 bytes, max 10."
+ },
+ {
+  "en": "Unicorn",
+  "kind": "name"
+ },
+ {
+  "en": "Pure Steed",
+  "kind": "name",
+  "note": "Lit. 'undefiled holy horse'. Shared with MONSTER3 c114 r8 and PLAYER c116 r8 (max 12)."
+ },
+ {
+  "en": "Merlion",
+  "kind": "name"
+ },
+ {
+  "en": "Sea Guardian",
+  "kind": "name"
+ },
+ {
+  "en": "Chimera",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Fusion",
+  "kind": "name",
+  "note": "Lit. 'super-demonic fusion'; only 8 bytes, so reduced to 'Fusion'."
+ },
+ {
+  "en": "Cockatrice",
+  "kind": "name"
+ },
+ {
+  "en": "Rock-a-Doodle",
+  "kind": "name",
+  "note": "Pun: sekika de kekkou (petrify, that'll do) + kokekokko rooster crow. English pun on petrify + cock-a-doodle."
+ },
+ {
+  "en": "Tengu",
+  "kind": "name"
+ },
+ {
+  "en": "Geho",
+  "kind": "name",
+  "note": "Gehou-sama: a name for tengu (gehou = heretical arts, -sama = honorific). 6-byte limit; romanized without honorific."
+ },
+ {
+  "en": "Scylla",
+  "kind": "name"
+ },
+ {
+  "en": "Siren",
+  "kind": "name",
+  "note": "Lit. 'bewitchingly beautiful water beast'; 8-byte limit."
+ },
+ {
+  "en": "Cerberus",
+  "kind": "name"
+ },
+ {
+  "en": "Dark Hound",
+  "kind": "name",
+  "note": "Lit. 'watchdog of darkness'; 10-byte limit."
+ },
+ {
+  "en": "Griffon",
+  "kind": "name"
+ },
+ {
+  "en": "Highborn",
+  "kind": "name",
+  "note": "Lit. 'noble mythical beast'; 'Noble Beast' is 11 bytes, max 10."
+ },
+ {
+  "en": "Lamia",
+  "kind": "name",
+  "note": "Matches item 'Lamia Tail'."
+ },
+ {
+  "en": "Snake Lady",
+  "kind": "name",
+  "note": "Lit. 'snake-bodied beauty'; 'Snake Beauty' is 12 bytes, max 10."
+ },
+ {
+  "en": "Tenko",
+  "kind": "name",
+  "note": "As in chap slice_016."
+ },
+ {
+  "en": "Tenko",
+  "kind": "name",
+  "note": "Nickname is only the kana reading; same English."
+ },
+ {
+  "en": "Inari-sama",
+  "kind": "name",
+  "note": "O-Inari-sama = the fox deity Inari (also aburaage / inari sushi, cf. MON_TEXT). Honorific kept to avoid gendering 'Lord'."
+ },
+ {
+  "en": "Bicorn",
+  "kind": "name",
+  "note": "Matches item 'Bicorn Horn'."
+ },
+ {
+  "en": "Foul Beast",
+  "kind": "name",
+  "note": "Lit. 'beast of impurity'; counterpart of Unicorn's 'Pure Steed'."
+ },
+ {
+  "en": "Bahamut",
+  "kind": "name",
+  "note": "Matches item 'Bahamut Helm'."
+ },
+ {
+  "en": "Gleamscale",
+  "kind": "name",
+  "note": "Lit. 'of shining scales' (adjectival); 'Bright-Scaled' is 13 bytes, max 10."
+ },
+ {
+  "en": "Sphinx",
+  "kind": "name"
+ }
+]

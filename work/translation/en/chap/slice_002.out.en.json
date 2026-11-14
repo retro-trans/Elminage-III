@@ -1,0 +1,376 @@
+[
+ {
+  "en": "Friendly foes appear. Fight?",
+  "kind": "data",
+  "note": "Reused from wmap slice_01 (same string)."
+ },
+ {
+  "en": "{0A:0003:0006}'s alignment changed to Good{w}",
+  "kind": "op096",
+  "note": "Reused from wmap slice_01; no period, like the source."
+ },
+ {
+  "en": "{0A:0003:0006}'s alignment changed to Evil{w}",
+  "kind": "op096",
+  "note": "Reused from wmap slice_01."
+ },
+ {
+  "en": "Suddenly, you felt as if your body had grown lighter.{w}",
+  "kind": "msg",
+  "note": "Generic event result (127 dupes); 'you' = the party, as in kimitachi narration elsewhere."
+ },
+ {
+  "en": "This is an altar tied to the Stairway of Light.{w}Hemaid Red Stone has been offered here.{w}",
+  "kind": "msg",
+  "note": "'hikari no kaidan' -> 'Stairway of Light' (wmap slices 02/09; wmap slice_01 used 'Stair of Light' -- unify). Item name as in wmap slice_01 ITEM_PRIZ 'Hemaid's Red Stone' (wmap slice_09 has 'Hemaid Red Stone' -- unify)."
+ },
+ {
+  "en": "Offer Hemaid Red Stone?",
+  "kind": "data"
+ },
+ {
+  "en": "You offered Hemaid Red Stone.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is something like an altar here.{w}In its center is a hollow; something seems to have been set into it once.{w}{p}Looking around, this altar appears to be just one part of a larger altar.{w}The center of this group of altars must lie to the south.{w}{p}Something is written on the altar in weathered letters.{w}",
+  "kind": "msg",
+  "note": "kubomi -> 'hollow' as in wmap slice_09 (the three altars' hollows)."
+ },
+ {
+  "en": "{0E}\n      *   Hemaid, the Red Phantom Stone   *{0F}{w}",
+  "kind": "msg",
+  "note": "Altar inscription (not an echo of the previous row). 'genseki' -> 'Phantom Stone' (wmap slice_01/02); wmap slice_09 used 'Mystic Stone' -- unify. Full-width centering spaces replaced with ASCII spaces."
+ },
+ {
+  "en": "This is an altar tied to the Stairway of Light.{w}The Green Plakio has been offered here.{w}",
+  "kind": "msg",
+  "note": "Green Plakio as in pilot / wmap slice_09."
+ },
+ {
+  "en": "Offer the Green Plakio?",
+  "kind": "data"
+ },
+ {
+  "en": "You offered the Green Plakio.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is something like an altar here.{w}In its center is a hollow; something seems to have been set into it once.{w}{p}Looking around, this altar appears to be just one part of a larger altar.{w}The center of this group of altars must lie to the northeast.{w}{p}Something is written on the altar in weathered letters.{w}",
+  "kind": "msg",
+  "note": "Same text as row 87 except the direction."
+ },
+ {
+  "en": "{0E}\n      *   Plakio, the Green Phantom Stone   *{0F}{w}",
+  "kind": "msg",
+  "note": "Inscription; see row 88."
+ },
+ {
+  "en": "This is an altar tied to the Stairway of Light.{w}The Blue Menon has been offered here.{w}",
+  "kind": "msg",
+  "note": "Blue Menon as in pilot / wmap slice_09."
+ },
+ {
+  "en": "Offer the Blue Menon?",
+  "kind": "data"
+ },
+ {
+  "en": "You offered the Blue Menon.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is something like an altar here.{w}In its center is a hollow; something seems to have been set into it once.{w}{p}Looking around, this altar appears to be just one part of a larger altar.{w}The center of this group of altars must lie to the northwest.{w}{p}Something is written on the altar in weathered letters.{w}",
+  "kind": "msg",
+  "note": "Same text as row 87 except the direction."
+ },
+ {
+  "en": "{0E}\n      *   Menon, the Blue Phantom Stone   *{0F}{w}",
+  "kind": "msg",
+  "note": "Inscription; see row 88."
+ },
+ {
+  "en": "Before you is a spring brimming with blue water.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Drink?",
+  "kind": "data"
+ },
+ {
+  "en": "Who will drink?",
+  "kind": "op093"
+ },
+ {
+  "en": "{0A:0003:0000} drank the water{w}{p}",
+  "kind": "msg",
+  "note": "No period, like the source and the other {0A} status lines (wmap slice_06 'sensed a presence')."
+ },
+ {
+  "en": "{0A:0003:0000} recovered HP{w}",
+  "kind": "msg",
+  "note": "tairyoku -> HP (game stat)."
+ },
+ {
+  "en": "Before you is a spring brimming with red water.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0A:0003:0000} took damage{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Before you is a spring brimming with green water.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0A:0003:0000} was poisoned{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Before you is a spring brimming with silver water.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0A:0003:0000} was decapitated{w}",
+  "kind": "msg",
+  "note": "kubi wo haneru = beheading (Wizardry-style instant kill)."
+ },
+ {
+  "en": "Before you is a spring brimming with shining water.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0A:0003:000F} was fully healed{w}",
+  "kind": "msg",
+  "note": "Insert ends 000F, not 0000 as in the other fountain lines; kept verbatim."
+ },
+ {
+  "en": "{w}",
+  "kind": "msg",
+  "note": "Control code only."
+ },
+ {
+  "en": "# Light spell active",
+  "kind": "op029",
+  "note": "op029 debug print; reused from wmap slice_06."
+ },
+ {
+  "en": "# No light spell",
+  "kind": "op029",
+  "note": "op029 debug print; reused from wmap slice_06."
+ },
+ {
+  "en": "{0A:0003:0000} sensed a presence{w}",
+  "kind": "op031",
+  "note": "Reused from wmap slice_06."
+ },
+ {
+  "en": "Secret Door{w}",
+  "kind": "op096",
+  "note": "Reused from wmap slice_06."
+ },
+ {
+  "en": "There's no one here now.\nThe secret door has already been opened.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Tarrit",
+  "kind": "name",
+  "note": "New name: Taaritto romanized 'Tarrit'. A Valkyrie girl (row 148 shoujo; calls herself onna no ko in row 143)."
+ },
+ {
+  "en": "\"I can't stand it anymooore~!\"{w}",
+  "kind": "msg",
+  "note": "She can no longer resist the fruity smell (rows 124, 149). Tarrit's drawn-out vowel endings rendered with stretched words and '~' (used for similar voices in pilot/wmap)."
+ },
+ {
+  "en": "\"Here goooes~!\"{w}",
+  "kind": "msg",
+  "note": "ei = effort shout as she lunges into the crack."
+ },
+ {
+  "en": "The girl tried to force her way into the crack in the wall.{w}",
+  "kind": "msg",
+  "note": "'her': the source itself calls Tarrit shoujo (girl) here and in row 133, and Tarrit says onna no ko of herself (row 143)."
+ },
+ {
+  "en": "\"Hnngh, hnngh...{w}Squeeeze, squeeeze... creak, crack...\"{w}",
+  "kind": "msg",
+  "note": "unsho = straining grunt; gyumu-gyumu = squeezing; meki-meki = creaking/cracking."
+ },
+ {
+  "en": "Tarrit's Voice",
+  "kind": "name",
+  "note": "Name box while she is inside the crack (14 chars)."
+ },
+ {
+  "en": "\"Just like I thought~.{w}It smells sweet~. Ehehe~\"{w}{p}\"..........\"{w}{p}\"...Nnoh?\"{w}",
+  "kind": "msg",
+  "note": "Music-note symbol dropped (ASCII only); '~' carries the cheerful tone. 'Nnoh?' = her puzzled noise, kept as a sound."
+ },
+ {
+  "en": "\"Wait, don't tell me...\"{w}",
+  "kind": "msg",
+  "note": "kore wa, masaka = she realizes she is stuck."
+ },
+ {
+  "en": "\"Nnoooh, nnoooh~!\"{w}",
+  "kind": "msg",
+  "note": "Struggling noises, same sound as row 124's 'Nnoh'."
+ },
+ {
+  "en": "Right in front of you, a butt is wriggling and flailing about.{w}",
+  "kind": "msg",
+  "note": "shiri = butt; comic register kept."
+ },
+ {
+  "en": "\"Heeelp~! I can't go forward, I can't move~.\nPush me in from your side~.\"{w}{p}\"Oh, but\nno kicking me, and nothing weird, okay~?\"{w}",
+  "kind": "msg",
+  "note": "Source has a stray space before the final {w}; dropped."
+ },
+ {
+  "en": "What will you do?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The crack crumbled away, and a path opened up.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm saaaved~.{w}Thank you, thank you veeery much~.\"{w}{p}\"So that makes us acquaintances now, master~.{w}Traveling alone is all kinds of tough,\nso hang out with me now and then~.\"{w}",
+  "kind": "msg",
+  "note": "aruji -> 'master': Tarrit addresses the party as aruji (lord/master), a playful honorific. Doubled 'gozaimasu' -> 'thank you, thank you veeery much'. kamatte ne -> 'hang out with me / give me some attention'."
+ },
+ {
+  "en": "\"...Also,\nI'd be really happy if you paid off my tavern tab too~.\nEhehe.\"{w}",
+  "kind": "msg",
+  "note": "sakaba no tsuke = her bar tab (tavern not named)."
+ },
+ {
+  "en": "The girl went on her way, beaming and giggling \"ehehe.\"{w}",
+  "kind": "msg",
+  "note": "ehe-ehe hohoemi = grinning with 'ehehe' giggles."
+ },
+ {
+  "en": "You gave it your best shot.{w}",
+  "kind": "msg",
+  "note": "Branch result; script order puts it right before her 'gentler' complaint (row 135), so it is probably the Help or Dropkick result -- 'best shot' fits either reading."
+ },
+ {
+  "en": "\"Nngyaaah!{w}C-could you be a little gentler...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Wonderful Turmeric.{w}",
+  "kind": "msg",
+  "note": "New item name: subarashii ukon -> 'Wonderful Turmeric' (ITEM_PRIZ 35, the Tarrit event item; also named in EVENT_TEXT 79). Turmeric is a Japanese hangover remedy -- likely tied to her tavern tab."
+ },
+ {
+  "en": "\"Uwaaah, don't abandon meee~!\"{w}",
+  "kind": "msg",
+  "note": "uhaa (her tic) -> 'Uwaaah'; probably after choosing Leave."
+ },
+ {
+  "en": "You steadied your breathing and formed a hand seal.{w}A hush fell over the area, and the waves in your heart grew still.{w}",
+  "kind": "msg",
+  "note": "in wo musubu = form a (ninja) hand seal; ITEM_TEXT says the Three-Year Death technique starts with a fingertip seal."
+ },
+ {
+  "en": "{0E}\n            *   Certain Kill   *{0F}{w}",
+  "kind": "msg",
+  "note": "hissatsu banner (not an echo); ASCII spaces for centering."
+ },
+ {
+  "en": "\"Aoooooooh!?\"{w}",
+  "kind": "msg",
+  "note": "Her shriek on being jabbed."
+ },
+ {
+  "en": "\"...Hold it right there.\"{w}",
+  "kind": "msg",
+  "note": "chotto matsu (odd plain form, her quirk) -> 'Hold it right there.'"
+ },
+ {
+  "en": "Tarrit pulled free of the crack unaided\nand stared at you, clearly displeased.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Weeell, that's really going too far, y'know~.{w}Something this awful, even a gentle soul like me won't forgive.{w}No weird pranks on girls, got it?\"{w}{p}\"Hmph, hmph... Okay, take two...{w}Heave, heave...\"{w}",
+  "kind": "msg",
+  "note": "punsuka = huffy-anger mimetic -> 'Hmph, hmph'. shikiri naoshite = starting over (sumo term) -> 'take two'."
+ },
+ {
+  "en": "Tarrit crouched down and got stuck in the crack all over again.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uaaah, I can't get out~, I can't go forward~.\"{w}{p}\"...Huh?{w}Didn't I just get myself out a second ago...?{w}Huh? Huh? Huuuh???\"{w}{p}\"Oh well, whatever.{w}Anyway, heeelp meee~.\"{w}",
+  "kind": "msg",
+  "note": "areeere = escalating confusion."
+ },
+ {
+  "en": "\"Uuu. Maybe I'll keep at it a little longer~.\"{w}",
+  "kind": "msg",
+  "note": "Probably her line after the party chooses Leave."
+ },
+ {
+  "en": "\"Uwaaah, what a stubborn wall~.\"{w}",
+  "kind": "msg",
+  "note": "Speaker shown as ??? (name not yet given); it is Tarrit (row 149)."
+ },
+ {
+  "en": "A Valkyrie girl is peering into a crack in the wall in front of you, looking troubled.{w}",
+  "kind": "msg",
+  "note": "Valkyrie = character class."
+ },
+ {
+  "en": "\"Oh. Well, well, adventurers~.\n...I'm an adventurer too, y'know~.\nThe name's Tarrit~.\"{w}{p}\"There's a crack right here, see,\nand a nice fruity smell's coming from the other side~.{w}There's gotta be some yummy fruit or nuts over there~.\"{w}",
+  "kind": "msg",
+  "note": "ki no mi = nuts/berries/tree fruit -> 'fruit or nuts'."
+ },
+ {
+  "en": "\"...Slurrrp.\"{w}",
+  "kind": "msg",
+  "note": "jururi = drooling sound."
+ },
+ {
+  "en": "\"But I can't get through a gap this narrow~.{w}Uwaaah, what do I dooo~.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A crack like this, I'd love to jab it with my spear\nand pry it wide open~.\"{w}",
+  "kind": "msg",
+  "note": "oppiroge = spread wide open (slightly crude); kept blunt."
+ },
+ {
+  "en": "It looked like a secret door,\nbut the gap didn't seem like it would open.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "What will you do?",
+  "kind": "data"
+ },
+ {
+  "en": "Help",
+  "kind": "data"
+ },
+ {
+  "en": "Dropkick",
+  "kind": "data"
+ },
+ {
+  "en": "Three-Year Death",
+  "kind": "data",
+  "note": "sannen-goroshi: the joke 'killing technique' (a fingertip jab up the backside; per ITEM_TEXT, named for a rumor that losers died three years later). Also an item name in ITEM.CSV (max 20) -- keep the two the same."
+ },
+ {
+  "en": "Leave",
+  "kind": "data",
+  "note": "Reused from wmap slice_04 (menu choice)."
+ },
+ {
+  "en": "There is a weather-beaten signpost here.{w}",
+  "kind": "msg",
+  "note": "amazarashi = exposed to the rain. Next row (slice_003 row 160) asks 'Read it?'."
+ }
+]

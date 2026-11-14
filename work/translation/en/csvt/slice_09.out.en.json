@@ -1,0 +1,336 @@
+[
+ {
+  "en": "Returns to the previous screen.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a destination.",
+  "kind": "help"
+ },
+ {
+  "en": "Saves the game.",
+  "kind": "help"
+ },
+ {
+  "en": "This party suspended its adventure. It can resume.",
+  "kind": "help",
+  "note": "Pattern follows ebt 'This party was wiped out. It cannot resume.'"
+ },
+ {
+  "en": "This is your current party. It cannot resume.",
+  "kind": "help"
+ },
+ {
+  "en": "This is the event list.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the in-game BGM volume.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the in-game SE (sound effect) volume.",
+  "kind": "help",
+  "note": "SE kept as on the option label; expanded once for clarity."
+ },
+ {
+  "en": "Turns the help message animation on or off.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the conversation message speed in 5 steps. 1 is the slowest and 5 is the fastest.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets whether the cursor position is remembered.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets whether nicknames are shown on the party panel.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets whether HP/AC are shown on the party panel.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets blue as the transparent color for images imported with Face Load.",
+  "kind": "help",
+  "note": "Face Load (feature name) romanized from the katakana; same family as Style/Sound/Dungeon Load."
+ },
+ {
+  "en": "Turns the in-game hurt SE on or off.",
+  "kind": "help",
+  "note": "yarare SE = sound played when a character is hit/downed; rendered 'hurt SE'. Unverified in game."
+ },
+ {
+  "en": "Sets the SE for the adventurers' side.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the SE for the monsters' side.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets how effects are displayed during battle.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the battle message speed in 5 steps. 1 is the slowest and 5 is the fastest.",
+  "kind": "help",
+  "note": "Source says only 'message speed'; designer note and Battle tab confirm it is the battle message speed, so 'battle' added to tell it apart from row 704."
+ },
+ {
+  "en": "Renames each of the spells the player can use.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets whether enemy spell names are renamed as well.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the display format of the battle log.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the names shown in the battle log.",
+  "kind": "help"
+ },
+ {
+  "en": "Summoner spell names cannot be changed.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets whether follow-up monsters are shown when they appear.",
+  "kind": "help",
+  "note": "koezoku = monsters arriving after the first group (cf. ebt 'More monsters were called in')."
+ },
+ {
+  "en": "Sets what happens when you press Down on the directional buttons.",
+  "kind": "help"
+ },
+ {
+  "en": "Turns the movement animation on or off.",
+  "kind": "help"
+ },
+ {
+  "en": "Shows or hides the clock.",
+  "kind": "help"
+ },
+ {
+  "en": "Shows or hides the party panel.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets which direction is at the top of the minimap.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the size of the minimap.",
+  "kind": "help"
+ },
+ {
+  "en": "Resets all options, including spell name changes, to their defaults.",
+  "kind": "help"
+ },
+ {
+  "en": "Configures general settings.",
+  "kind": "help"
+ },
+ {
+  "en": "Configures settings mainly used in battle.",
+  "kind": "help"
+ },
+ {
+  "en": "Configures settings mainly used in dungeons.",
+  "kind": "help"
+ },
+ {
+  "en": "Resets all settings to their defaults.",
+  "kind": "help"
+ },
+ {
+  "en": "Configures Face/Style Load settings.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets whether characters with serious status ailments are automatically admitted for treatment when they return to town.",
+  "kind": "help",
+  "note": "nyuuin (hospitalization): healing happens at Rust Temple, but source does not name it, so 'admitted for treatment' is used."
+ },
+ {
+  "en": "When importing BMP data for Face Load, sets whether blue is treated as the transparent color.",
+  "kind": "help"
+ },
+ {
+  "en": "When importing BMP data for Style Load, sets whether blue is treated as the transparent color.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets how style images are shown on the character status screen.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets how style images are shown on the battle screen.",
+  "kind": "help"
+ },
+ {
+  "en": "Imports Face Load data from the Memory Stick.",
+  "kind": "help",
+  "note": "The trailing bar glyph after Memory Stick (trademark mark in the JP font) is dropped, as in the ebt translations."
+ },
+ {
+  "en": "Imports Style Load data from the Memory Stick.",
+  "kind": "help",
+  "note": "Bar glyph dropped as in row 738."
+ },
+ {
+  "en": "Imports Sound Load data from the Memory Stick.",
+  "kind": "help",
+  "note": "Bar glyph dropped as in row 738."
+ },
+ {
+  "en": "Imports Dungeon Load data from, and exports it to, the Memory Stick.",
+  "kind": "help",
+  "note": "Spelling 'Dungeon Load' follows the majority of existing ebt/chap rows (3 'Load' vs 2 'Road' in ebt slice_07); flag for a corpus-wide check. Bar glyph dropped."
+ },
+ {
+  "en": "Installs the game data.",
+  "kind": "help"
+ },
+ {
+  "en": "Enters the password for the Book of the Next Age.",
+  "kind": "help"
+ },
+ {
+  "en": "Select a slot to import into. Square: swap data. Triangle: delete data.",
+  "kind": "help"
+ },
+ {
+  "en": "Select the data to import.",
+  "kind": "help"
+ },
+ {
+  "en": "Select the track to replace. Triangle: restore the original setting.",
+  "kind": "help"
+ },
+ {
+  "en": "Select the sound data to import.",
+  "kind": "help"
+ },
+ {
+  "en": "Select the playback volume to set.",
+  "kind": "help"
+ },
+ {
+  "en": "Use Up/Down to set the playback volume. Triangle: restore the original setting.",
+  "kind": "help"
+ },
+ {
+  "en": "Select the data to work with.",
+  "kind": "help"
+ },
+ {
+  "en": "Exports the selected data to the transfer folder. Any data already in the transfer folder will be lost.",
+  "kind": "help"
+ },
+ {
+  "en": "Imports the data in the transfer folder. Any data in the selected slot will be lost.",
+  "kind": "help"
+ },
+ {
+  "en": "Enters a password.",
+  "kind": "help"
+ },
+ {
+  "en": "Please enter the password.",
+  "kind": "help"
+ },
+ {
+  "en": "Settings for using the effects of the Book of the Next Age.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets up the compass.",
+  "kind": "help"
+ },
+ {
+  "en": "Views the Key Items you are carrying.",
+  "kind": "help"
+ },
+ {
+  "en": "Searches the dungeon for parties that suspended their adventure or were wiped out.",
+  "kind": "help"
+ },
+ {
+  "en": "Offers Fame to the compass.",
+  "kind": "help"
+ },
+ {
+  "en": "Either you lack Fame, or there are no rings within the search range.",
+  "kind": "help"
+ },
+ {
+  "en": "The compass seems to be set to All Altars.",
+  "kind": "help",
+  "note": "Source frames the target with spaces like the ebt '%s' template; 'All Altars' capitalized as a target name."
+ },
+ {
+  "en": "Sets the search target.",
+  "kind": "help"
+ },
+ {
+  "en": "This is the list of your Key Items.",
+  "kind": "help"
+ },
+ {
+  "en": "You have no Key Items.",
+  "kind": "help"
+ },
+ {
+  "en": "A companion was found.",
+  "kind": "help",
+  "note": "nakama rendered 'companion' (cf. pilot 'companions'); this menu finds stranded parties."
+ },
+ {
+  "en": "Where should the companion go?",
+  "kind": "help"
+ },
+ {
+  "en": "No companions were found.",
+  "kind": "help"
+ },
+ {
+  "en": "You cannot meet up with companions on this floor.",
+  "kind": "help"
+ },
+ {
+  "en": "Searching for companions...",
+  "kind": "help"
+ },
+ {
+  "en": "No monster has been summoned.",
+  "kind": "help"
+ },
+ {
+  "en": "The monster set out on a second life as an adventurer.",
+  "kind": "help",
+  "note": "Matches ebt slice_02 wording of the same message."
+ },
+ {
+  "en": "Saves your current progress.",
+  "kind": "help"
+ },
+ {
+  "en": "Leaves the current party waiting where it is and returns to Algrantz.",
+  "kind": "help"
+ },
+ {
+  "en": "Opens the options screen.",
+  "kind": "help"
+ },
+ {
+  "en": "You cannot save on this floor.",
+  "kind": "help"
+ }
+]

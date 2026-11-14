@@ -1,0 +1,1809 @@
+[
+ {
+  "en": "Kodachi",
+  "kind": "name",
+  "note": "Short katana (desc: longer than a dagger, shorter than a katana)."
+ },
+ {
+  "en": "Hundred Bamboo Edge",
+  "kind": "name",
+  "note": "Desc: a blade said to cut a hundred bamboo leaves in one swing. 'Blue/green' dropped for fit."
+ },
+ {
+  "en": "Kogarasumaru",
+  "kind": "name",
+  "note": "Real famous sword; romanized."
+ },
+ {
+  "en": "Dancing Blade",
+  "kind": "name",
+  "note": "Sacred blade used in dance offerings to the gods."
+ },
+ {
+  "en": "Karasu Tengu",
+  "kind": "name",
+  "note": "Crow tengu, the mythical beast whose power the blade holds; romanized."
+ },
+ {
+  "en": "Sacred Sword of Dawn",
+  "kind": "name",
+  "note": "Shinonome = dawn; mitsurugi = sacred sword. Exactly 20 bytes. Alt: Shinonome Mitsurugi (19)."
+ },
+ {
+  "en": "Fretful Aramisaki",
+  "kind": "name",
+  "note": "Desc reads the second part as Aramisaki (a female spirit fretting about being unmarried). 'Benten' dropped for fit; 'Vexed Benten Aramisaki' = 22."
+ },
+ {
+  "en": "Mikaboshi",
+  "kind": "name",
+  "note": "Star-god name; romanized."
+ },
+ {
+  "en": "Helm Splitter",
+  "kind": "name",
+  "note": "Kabuto-wari."
+ },
+ {
+  "en": "Odenta",
+  "kind": "name",
+  "note": "Real famous sword (Odenta Mitsuyo); romanized."
+ },
+ {
+  "en": "Oni Slayer",
+  "kind": "name"
+ },
+ {
+  "en": "Embraced Head",
+  "kind": "name",
+  "note": "Dakikubi: kaishaku cut that leaves the head falling into the arms; desc says this blade served as a kaishaku sword. Literal; alt romanization Dakikubi."
+ },
+ {
+  "en": "Rainy Four Lights",
+  "kind": "name",
+  "note": "Hanafuda yaku 'Ame-shiko' (desc: eastern tarot, four light cards incl. the rain card)."
+ },
+ {
+  "en": "Muramasa",
+  "kind": "name",
+  "note": "Matches chap slice_016."
+ },
+ {
+  "en": "Lance",
+  "kind": "name"
+ },
+ {
+  "en": "Mop",
+  "kind": "name"
+ },
+ {
+  "en": "Retort Pike",
+  "kind": "name",
+  "note": "Desc: wooden spear that softens in hot water to carry -- retort-pouch pun."
+ },
+ {
+  "en": "Vermilion Spear",
+  "kind": "name"
+ },
+ {
+  "en": "Spite Spear Kavirane",
+  "kind": "name",
+  "note": "New name Kavirane (romanization of the invented word; desc: ancient word for 'unforgivable thing'). Exactly 20 bytes; 'Grudge Spear Kavirane' = 21."
+ },
+ {
+  "en": "Gowen's Wringer",
+  "kind": "name",
+  "note": "New name Gowen. Reverse-wring: barbed tip that twists out flesh; 'Reverse' dropped for natural fit."
+ },
+ {
+  "en": "Demon Soul Spear",
+  "kind": "name",
+  "note": "Desc: a demon's soul dwells in it."
+ },
+ {
+  "en": "Mithril Spear",
+  "kind": "name"
+ },
+ {
+  "en": "High Branch Basher",
+  "kind": "name",
+  "note": "Desc: orchard pole tool for high fruit (with slight decapitation ability)."
+ },
+ {
+  "en": "Tonbokiri",
+  "kind": "name",
+  "note": "Real famous spear (dragonfly cutter); romanized."
+ },
+ {
+  "en": "Godslayer Spear",
+  "kind": "name"
+ },
+ {
+  "en": "Yasha Princess",
+  "kind": "name",
+  "note": "Desc: a princess who became a yasha with this naginata."
+ },
+ {
+  "en": "Ice Magic Spear",
+  "kind": "name",
+  "note": "Desc: forged from Frozen Elven Iron and Mazurite, frost-enchanted tip."
+ },
+ {
+  "en": "Furiwells",
+  "kind": "name",
+  "note": "New name; romanized."
+ },
+ {
+  "en": "Holy Maiden's Spear",
+  "kind": "name",
+  "note": "Desc: only Valkyries the gods acknowledge can find it."
+ },
+ {
+  "en": "Hand Axe",
+  "kind": "name"
+ },
+ {
+  "en": "Battle Axe",
+  "kind": "name"
+ },
+ {
+  "en": "Francisca",
+  "kind": "name"
+ },
+ {
+  "en": "Double-Bladed Axe",
+  "kind": "name"
+ },
+ {
+  "en": "Greataxe of the Dead",
+  "kind": "name",
+  "note": "Exactly 20 bytes."
+ },
+ {
+  "en": "Savage Axe",
+  "kind": "name",
+  "note": "Desc: crude build and use; its owner fights more and more savagely."
+ },
+ {
+  "en": "Giant's Axe",
+  "kind": "name"
+ },
+ {
+  "en": "War Hammer",
+  "kind": "name"
+ },
+ {
+  "en": "Blood Hammer",
+  "kind": "name"
+ },
+ {
+  "en": "Hinged Headcraze",
+  "kind": "name",
+  "note": "Kaisetsu-shiki = bending/folding type (desc: hammer that bends partway along the haft). Headcraze is the katakana name, kept as one word."
+ },
+ {
+  "en": "Colmet Hammer",
+  "kind": "name",
+  "note": "New name Colmet; romanized."
+ },
+ {
+  "en": "Death Piko Hammer",
+  "kind": "name",
+  "note": "Piko hammer = squeaky toy hammer (piko-pon); desc is a joke love song."
+ },
+ {
+  "en": "Mithril Hammer",
+  "kind": "name"
+ },
+ {
+  "en": "Entraie",
+  "kind": "name",
+  "note": "New name; plain romanization. Possibly a pun on 'entrails' (desc: second blow crushes bones and innards); not assumed."
+ },
+ {
+  "en": "Great Wrecking Maul",
+  "kind": "name"
+ },
+ {
+  "en": "Mace",
+  "kind": "name"
+ },
+ {
+  "en": "Mace +1",
+  "kind": "name",
+  "note": "Matches the 'Long Sword +1' style (slice_10)."
+ },
+ {
+  "en": "Morning Star",
+  "kind": "name"
+ },
+ {
+  "en": "Mace of Straying",
+  "kind": "name",
+  "note": "Mayoi = straying/lost; desc puns on saving lost souls only making them more lost."
+ },
+ {
+  "en": "Serpent Mace",
+  "kind": "name"
+ },
+ {
+  "en": "Camel Mace",
+  "kind": "name"
+ },
+ {
+  "en": "Mace of Destruction",
+  "kind": "name"
+ },
+ {
+  "en": "Mond Mace",
+  "kind": "name",
+  "note": "New name: katakana Moont, read as German 'Mond'. Desc says it is modeled on the sun, so the word may be irony or just a name."
+ },
+ {
+  "en": "Holy Mace",
+  "kind": "name"
+ },
+ {
+  "en": "Mace of Lapsed Faith",
+  "kind": "name",
+  "note": "Taikyou = abandoned faith; desc: once worshipped, now forgotten. Exactly 20 bytes."
+ },
+ {
+  "en": "Quenzstein",
+  "kind": "name",
+  "note": "New name; romanized (ball-and-chain flail)."
+ },
+ {
+  "en": "Sheep's Silver Ladle",
+  "kind": "name",
+  "note": "Literal: shaku (ladle/dipper). Desc: goblin lore says a great being used it to guide the people of the earth. Could be meant as a crook or scepter; kept literal. Exactly 20 bytes."
+ },
+ {
+  "en": "Wood Club",
+  "kind": "name"
+ },
+ {
+  "en": "Cudgel",
+  "kind": "name",
+  "note": "Katakana kajeru = cudgel."
+ },
+ {
+  "en": "Iron Club",
+  "kind": "name"
+ },
+ {
+  "en": "Shamrock",
+  "kind": "name"
+ },
+ {
+  "en": "Asuna's Battledore",
+  "kind": "name",
+  "note": "New name Asuna: reading of the kanji name is a guess. Hagoita = battledore (desc: a pair, Sun Spirit and Moonlight Spirit boards)."
+ },
+ {
+  "en": "Club of Frenzy",
+  "kind": "name"
+ },
+ {
+  "en": "Runed Flail",
+  "kind": "name"
+ },
+ {
+  "en": "Crystal Club",
+  "kind": "name"
+ },
+ {
+  "en": "Bow",
+  "kind": "name"
+ },
+ {
+  "en": "Longbow",
+  "kind": "name"
+ },
+ {
+  "en": "Atlatl",
+  "kind": "name",
+  "note": "Desc: the ancestor of the bow, a spear-thrower."
+ },
+ {
+  "en": "Twisted Bow",
+  "kind": "name"
+ },
+ {
+  "en": "Longbow +1",
+  "kind": "name"
+ },
+ {
+  "en": "Demonbane Bow",
+  "kind": "name",
+  "note": "Hama = driving out evil; desc: glows near darkness."
+ },
+ {
+  "en": "Skylark Bow",
+  "kind": "name"
+ },
+ {
+  "en": "Violent Arrow",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Bow of Polyte",
+  "kind": "name",
+  "note": "Polyte from glossary (Polyte the Bow Saint)."
+ },
+ {
+  "en": "Meltscorm",
+  "kind": "name",
+  "note": "New name; romanized."
+ },
+ {
+  "en": "Expert's Bow",
+  "kind": "name"
+ },
+ {
+  "en": "Wizard's Bow",
+  "kind": "name",
+  "note": "Mahoutsukai = wizard (generic); desc says it is for Mages only."
+ },
+ {
+  "en": "Diamond Shower",
+  "kind": "name"
+ },
+ {
+  "en": "Spirit Bow",
+  "kind": "name"
+ },
+ {
+  "en": "Whip",
+  "kind": "name"
+ },
+ {
+  "en": "Iron Whip",
+  "kind": "name"
+ },
+ {
+  "en": "Whip of Silence",
+  "kind": "name",
+  "note": "Desc: a lash silences the target."
+ },
+ {
+  "en": "Fanged Serpent",
+  "kind": "name",
+  "note": "Kiba Orochi: red whip like a great serpent's tongue; inflicts poison."
+ },
+ {
+  "en": "Angel Ribbon",
+  "kind": "name"
+ },
+ {
+  "en": "Queen Beat",
+  "kind": "name",
+  "note": "Steel whip evolved from the Iron Whip; 'beat' kept as in the katakana (strike/pun)."
+ },
+ {
+  "en": "Hell Master",
+  "kind": "name",
+  "note": "max 12. Named after the hell jailer Hell Master (desc). Slice_16 has the +1 version."
+ },
+ {
+  "en": "Ringstetza",
+  "kind": "name",
+  "note": "New name; plain romanization of the katakana (chain of bladed rings)."
+ },
+ {
+  "en": "Staff",
+  "kind": "name",
+  "note": "Matches ?Staff (ebt slice_17)."
+ },
+ {
+  "en": "Fairy Staff",
+  "kind": "name",
+  "note": "Fairy-only staff."
+ },
+ {
+  "en": "Gohei",
+  "kind": "name",
+  "note": "Shinto paper-streamer wand; main weapon of the Kannagi class (desc)."
+ },
+ {
+  "en": "Rotten Staff",
+  "kind": "name"
+ },
+ {
+  "en": "Trick Rod",
+  "kind": "name"
+ },
+ {
+  "en": "Iron Mallet",
+  "kind": "name"
+ },
+ {
+  "en": "Flame Rod",
+  "kind": "name"
+ },
+ {
+  "en": "Great Tree Staff",
+  "kind": "name",
+  "note": "Taiju = great tree; staff still alive with leaves."
+ },
+ {
+  "en": "Holy Rod",
+  "kind": "name"
+ },
+ {
+  "en": "Reaper's Staff",
+  "kind": "name",
+  "note": "Shinigami: desc speaks of the soul-reaping death god; ebt tarot uses 'Death' for the card, 'Reaper' chosen for the item."
+ },
+ {
+  "en": "Star Rod",
+  "kind": "name"
+ },
+ {
+  "en": "Elemental Wand",
+  "kind": "name"
+ },
+ {
+  "en": "Welish Staff",
+  "kind": "name",
+  "note": "New name Welish: a holy plant, spicy, green-smelling (likely a pun on Welsh onion); romanized, not assumed."
+ },
+ {
+  "en": "Rabbit Wand",
+  "kind": "name",
+  "note": "Topped with a plush of teacher Nambino (desc); name not in glossary."
+ },
+ {
+  "en": "Weasel Wand",
+  "kind": "name",
+  "note": "Topped with a plush of teacher Lombino (desc)."
+ },
+ {
+  "en": "White Ash",
+  "kind": "name",
+  "note": "Glossary. Desc: an ash-wood stake."
+ },
+ {
+  "en": "Spell Emperor Staff",
+  "kind": "name",
+  "note": "Daihoutei = 'great law emperor', a title for a master of all spells; rendered Archmage. Uncertain. ACCURACY: changed from 'Archmage's Staff' -- row 1042 ([JP]) is the literal archmage and already uses 'Archmage's Hat'; two different titles must not merge. [JP] = 'great emperor of the (magic) law'; desc: staff for a caster versed in every spell. 19 bytes. Editorial may polish (e.g. 'Grand Magus Staff', 17), but keep it distinct from Archmage."
+ },
+ {
+  "en": "Hand Wraps",
+  "kind": "name",
+  "note": "Bantage = boxing hand wraps; desc: the weapon of the toushi (martial-artist) class."
+ },
+ {
+  "en": "Tonfa",
+  "kind": "name"
+ },
+ {
+  "en": "Hawk Talon",
+  "kind": "name",
+  "note": "Desc: claw of the monster bird Balteris, not an ordinary hawk. (Also a chili-pepper pun in JP; not carried.)"
+ },
+ {
+  "en": "Vector Knuckle",
+  "kind": "name"
+ },
+ {
+  "en": "Boomerang",
+  "kind": "name"
+ },
+ {
+  "en": "Iron Boomerang",
+  "kind": "name"
+ },
+ {
+  "en": "Obsidian Boomerang",
+  "kind": "name"
+ },
+ {
+  "en": "Double Cropping",
+  "kind": "name",
+  "note": "Nimousaku = the farming method; desc is a joke about it. Literal."
+ },
+ {
+  "en": "Pirate Pick",
+  "kind": "name",
+  "note": "Hook-hand prosthetic weapon; katakana 'pick' kept."
+ },
+ {
+  "en": "Life Stealer",
+  "kind": "name",
+  "note": "A scythe."
+ },
+ {
+  "en": "Iron Maiden",
+  "kind": "name"
+ },
+ {
+  "en": "Ladle +1",
+  "kind": "name",
+  "note": "Otama = soup ladle."
+ },
+ {
+  "en": "Frying Pan +1",
+  "kind": "name"
+ },
+ {
+  "en": "Thousand-Sheet Awl",
+  "kind": "name",
+  "note": "Senmaidoshi = awl, lit. 'pierces a thousand sheets' (desc plays on it). Plain 'Awl' if a shorter name is preferred."
+ },
+ {
+  "en": "Mage's Crystal",
+  "kind": "name",
+  "note": "Majutsushi = Mage class (glossary)."
+ },
+ {
+  "en": "Kunai",
+  "kind": "name"
+ },
+ {
+  "en": "Three-Ray Star",
+  "kind": "name",
+  "note": "Sankouken: thrown blade with three points; 'Star' = throwing star."
+ },
+ {
+  "en": "Steel Crane",
+  "kind": "name",
+  "note": "Folded paper crane woven from steel (desc)."
+ },
+ {
+  "en": "Azure Sky Snowflake",
+  "kind": "name",
+  "note": "Souten rikka: rikka = poetic 'six-petal flower' = snowflake."
+ },
+ {
+  "en": "Wild-Ray Star",
+  "kind": "name",
+  "note": "Rankouken: the Three-Ray Star with blades sprouting every which way; paired with 977."
+ },
+ {
+  "en": "Shuriken",
+  "kind": "name"
+ },
+ {
+  "en": "Long-Nosed Prince",
+  "kind": "name",
+  "note": "Children's picture book (hiragana title); prince Notice, mocked for his long nose."
+ },
+ {
+  "en": "Eastern Yokai Tales",
+  "kind": "name",
+  "note": "Touhou kaibun hyakumonogatari: book of eastern monsters (oni, tengu, kappa). 'Hundred tales' dropped for fit."
+ },
+ {
+  "en": "Lopez's Magiconomics",
+  "kind": "name",
+  "note": "New name Lopez (Ropesu). Madou keizai souron = general theory of magic economics; exactly 20 bytes."
+ },
+ {
+  "en": "Secret Book",
+  "kind": "name",
+  "note": "Hiragana title, kept simple."
+ },
+ {
+  "en": "Torikaebaya Tale II",
+  "kind": "name",
+  "note": "Zoku = sequel to the classical Torikaebaya Monogatari; the desc explains the word, so it is kept romanized."
+ },
+ {
+  "en": "Great Crestard Hist.",
+  "kind": "name",
+  "note": "wmap slice_07 shop line says 'Great History of Crestard' (25 bytes, too long); abbreviated to 20."
+ },
+ {
+  "en": "Book of the Next Age",
+  "kind": "name",
+  "note": "Glossary; exactly 20 bytes."
+ },
+ {
+  "en": "Encyc. of All Things",
+  "kind": "name",
+  "note": "wmap slice_07 shop line uses 'Encyclopedia of All Things' (26 bytes); abbreviated to 20."
+ },
+ {
+  "en": "Black Scripture",
+  "kind": "name",
+  "note": "Kuro no seiten."
+ },
+ {
+  "en": "Libretto of Prayer",
+  "kind": "name",
+  "note": "Opera libretto said to be granted by the moon; for the yuurakusha (entertainer) class, whose English name is not in the glossary."
+ },
+ {
+  "en": "Buckler",
+  "kind": "name"
+ },
+ {
+  "en": "Targe",
+  "kind": "name"
+ },
+ {
+  "en": "Iron Shield",
+  "kind": "name"
+ },
+ {
+  "en": "Varios Shield",
+  "kind": "name",
+  "note": "Matches Varios Sword (slice_10)."
+ },
+ {
+  "en": "Knight Shield",
+  "kind": "name"
+ },
+ {
+  "en": "Cursed Shield",
+  "kind": "name"
+ },
+ {
+  "en": "Beast-Bone Shield",
+  "kind": "name",
+  "note": "Matches Beast-Bone Sword (slice_10)."
+ },
+ {
+  "en": "Knight Shield +1",
+  "kind": "name"
+ },
+ {
+  "en": "Innocent Shield",
+  "kind": "name",
+  "note": "Innocent series (glossary)."
+ },
+ {
+  "en": "Exorcist Shield",
+  "kind": "name",
+  "note": "Youbarai = warding off spirits/yokai."
+ },
+ {
+  "en": "Holy Guard",
+  "kind": "name"
+ },
+ {
+  "en": "Evil Shield",
+  "kind": "name",
+  "note": "Matches Evil Saber (slice_10); Evil-alignment only."
+ },
+ {
+  "en": "Tri-Shield",
+  "kind": "name"
+ },
+ {
+  "en": "Truth Shield",
+  "kind": "name",
+  "note": "max 14: 'Shield of Truth' (15) does not fit."
+ },
+ {
+  "en": "Demon Wing",
+  "kind": "name",
+  "note": "Mayoku: shield made from a demon's wing."
+ },
+ {
+  "en": "Mithril Shield",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Shield",
+  "kind": "name"
+ },
+ {
+  "en": "Goddess's Shield",
+  "kind": "name",
+  "note": "Style follows ebt 'Goddess's Kiss'."
+ },
+ {
+  "en": "Leather Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Kettle Hat",
+  "kind": "name"
+ },
+ {
+  "en": "Ashigaru Helm",
+  "kind": "name",
+  "note": "Ashigaru = Japanese foot soldier; kept for eastern flavor ('Foot Soldier Helm' also fits)."
+ },
+ {
+  "en": "Coif",
+  "kind": "name"
+ },
+ {
+  "en": "Bascinet",
+  "kind": "name"
+ },
+ {
+  "en": "Skull Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Flower Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Evil Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Star Helm",
+  "kind": "name",
+  "note": "[JP] = hoshi-kabuto (riveted Eastern helm)."
+ },
+ {
+  "en": "Iron Mask",
+  "kind": "name"
+ },
+ {
+  "en": "Sugarloaf",
+  "kind": "name",
+  "note": "Sugarloaf = historical great-helm type; kept as the bare name."
+ },
+ {
+  "en": "Phantom Mask",
+  "kind": "name"
+ },
+ {
+  "en": "Black Bull Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Magic Laurel Wreath",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Silver Tiara",
+  "kind": "name"
+ },
+ {
+  "en": "Bahamut Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Golden Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Mithril Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Fur Hat",
+  "kind": "name"
+ },
+ {
+  "en": "Eboshi",
+  "kind": "name",
+  "note": "Eastern court/shrine cap; romanized (desc calls it formal wear of the [JP] class)."
+ },
+ {
+  "en": "Bandana",
+  "kind": "name"
+ },
+ {
+  "en": "Red Hood",
+  "kind": "name",
+  "note": "[JP]: hood worn by Red Caps; also the Little Red Riding Hood word."
+ },
+ {
+  "en": "Torn Hat",
+  "kind": "name"
+ },
+ {
+  "en": "Wing Hat",
+  "kind": "name"
+ },
+ {
+  "en": "Bald Wig",
+  "kind": "name"
+ },
+ {
+  "en": "Straw Hat",
+  "kind": "name"
+ },
+ {
+  "en": "Steel Hairband",
+  "kind": "name"
+ },
+ {
+  "en": "Mage's Hat",
+  "kind": "name",
+  "note": "[JP] = Mage (glossary)."
+ },
+ {
+  "en": "Laughing Hood",
+  "kind": "name"
+ },
+ {
+  "en": "Bandana Soul",
+  "kind": "name",
+  "note": "New name. Desc pun: 'soul of a bandana, so [JP]'; 'Bander Soul' is the literal alternative."
+ },
+ {
+  "en": "Archmage's Hat",
+  "kind": "name",
+  "note": "[JP] = archmage."
+ },
+ {
+  "en": "Blue Rain-1",
+  "kind": "name",
+  "note": "Glossary: [JP] = Blue Rain; -1 kept as in source."
+ },
+ {
+  "en": "Plate Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Knight's Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Chipped Plate Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Lorica Segmentata",
+  "kind": "name",
+  "note": "Real Roman armor name; source spelling [JP] is a short form."
+ },
+ {
+  "en": "Plate Mail +1",
+  "kind": "name"
+ },
+ {
+  "en": "Neutral Armor",
+  "kind": "name",
+  "note": "[JP] = Neutral (glossary)."
+ },
+ {
+  "en": "Brigandine",
+  "kind": "name"
+ },
+ {
+  "en": "Magic Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Evil Armor",
+  "kind": "name",
+  "note": "[JP] = Evil (glossary); matches 'Evil Saber' in slice_10."
+ },
+ {
+  "en": "Crystal Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Swan Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Mithril Plate",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Breastplate",
+  "kind": "name",
+  "note": "Matches ?Breastplate (ebt slice_17) and chap 'Forebear's Breastplate'."
+ },
+ {
+  "en": "Ashigaru Armor",
+  "kind": "name",
+  "note": "[JP] = low-rank Eastern foot soldier; romanized."
+ },
+ {
+  "en": "Cuirass",
+  "kind": "name"
+ },
+ {
+  "en": "Fallen Samurai Armor",
+  "kind": "name",
+  "note": "[JP] = defeated samurai on the run; exactly 20 bytes. Alt: 'Ochimusha Armor'."
+ },
+ {
+  "en": "Hunter Guard",
+  "kind": "name"
+ },
+ {
+  "en": "Jeweled Breastplate",
+  "kind": "name"
+ },
+ {
+  "en": "Sakimori Armor",
+  "kind": "name",
+  "note": "[JP] = Eastern coastal/border guard (desc); romanized like Ashigaru."
+ },
+ {
+  "en": "Silver Breastplate",
+  "kind": "name",
+  "note": "[JP] = (pure) silver."
+ },
+ {
+  "en": "Icing Heart",
+  "kind": "name"
+ },
+ {
+  "en": "Goddess Breastplate",
+  "kind": "name",
+  "note": "'Goddess's Breastplate' is 21 bytes; possessive dropped."
+ },
+ {
+  "en": "Kuroito Odoshi",
+  "kind": "name",
+  "note": "[JP] = black-laced Japanese armor; romanized because the desc treats it as a foreign Eastern style. Alt: 'Black-Laced Armor'."
+ },
+ {
+  "en": "Sword Saint's Armor",
+  "kind": "name",
+  "note": "[JP] = sword saint (desc: title for sword masters); kept distinct from glossary [JP] 'Swordsage'."
+ },
+ {
+  "en": "Chain Mail",
+  "kind": "name",
+  "note": "Matches ?Chain Mail."
+ },
+ {
+  "en": "Scale Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Elven Chain",
+  "kind": "name",
+  "note": "Matches wmap 'Elven Chain +1'."
+ },
+ {
+  "en": "Lamellar Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Elven Chain +1",
+  "kind": "name",
+  "note": "Matches wmap slice_12."
+ },
+ {
+  "en": "Flame Chain Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Ice Chain Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Cursed Chain Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Chain Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Frostfire Chain Mail",
+  "kind": "name",
+  "note": "[JP] = ice+flame; exactly 20 bytes. Also used in SP_TEXT 4132 transform message."
+ },
+ {
+  "en": "Dolk Paccano",
+  "kind": "name",
+  "note": "New name, romanized; [JP] could also be Durk."
+ },
+ {
+  "en": "Leather Armor",
+  "kind": "name",
+  "note": "Matches ?Leather Armor."
+ },
+ {
+  "en": "Hard Leather Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Rotten Leather Armor",
+  "kind": "name",
+  "note": "[JP]: desc says rotted to tatters; exactly 20 bytes."
+ },
+ {
+  "en": "Koinunu",
+  "kind": "name",
+  "note": "New name, romanized (hunting-tribe hide armor)."
+ },
+ {
+  "en": "Jewel Leather",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Leather",
+  "kind": "name"
+ },
+ {
+  "en": "Luci Koinunu",
+  "kind": "name",
+  "note": "New name: [JP] romanized as Luci (alt Rushi/Lusi); chieftain's Koinunu."
+ },
+ {
+  "en": "Discipline",
+  "kind": "name",
+  "note": "Bondage-armor pun kept as the plain word."
+ },
+ {
+  "en": "Robe",
+  "kind": "name",
+  "note": "Matches ?Robe."
+ },
+ {
+  "en": "Fairy Clothes",
+  "kind": "name",
+  "note": "[JP] = fairy (race-only item)."
+ },
+ {
+  "en": "Ninja Garb",
+  "kind": "name"
+ },
+ {
+  "en": "Holey Robe",
+  "kind": "name",
+  "note": "[JP] = full of holes."
+ },
+ {
+  "en": "Green Robe",
+  "kind": "name"
+ },
+ {
+  "en": "Pearl Jamas",
+  "kind": "name",
+  "note": "New name. [JP] puns on [JP] (pajamas; desc: puts the wearer into a dream). 'Pearl Jamas' keeps the pun; literal 'Pearl Jaman'."
+ },
+ {
+  "en": "Robe Gladi",
+  "kind": "name",
+  "note": "New name. [JP] likely from gladiator (desc: dogi worn by fighters); literal 'Robe Gradi'."
+ },
+ {
+  "en": "Blue Robe",
+  "kind": "name"
+ },
+ {
+  "en": "Morning Glory Garb",
+  "kind": "name",
+  "note": "[JP] = morning glory (fairy-sized clothes)."
+ },
+ {
+  "en": "Chihaya Benizakura",
+  "kind": "name",
+  "note": "[JP] = shrine-maiden overgarment, [JP] = crimson cherry blossom (desc: formal wear of the [JP] class); romanized. Alt: 'Crimson Sakura Robe'."
+ },
+ {
+  "en": "Crested Robe",
+  "kind": "name",
+  "note": "[JP] crest/emblem woven in for magic resistance."
+ },
+ {
+  "en": "Breeze Clothes",
+  "kind": "name",
+  "note": "So light it sways in an imperceptible breeze."
+ },
+ {
+  "en": "Scarlet Robe",
+  "kind": "name"
+ },
+ {
+  "en": "Thunder Guard",
+  "kind": "name",
+  "note": "A robe (lightning resistance); katakana name kept."
+ },
+ {
+  "en": "Moon Feather Robe",
+  "kind": "name",
+  "note": "[JP] = celestial maiden's feathered robe."
+ },
+ {
+  "en": "Bridal Robe",
+  "kind": "name",
+  "note": "Desc calls it a pure white dress; name kept as Robe (category)."
+ },
+ {
+  "en": "Coloratura",
+  "kind": "name",
+  "note": "Bard's costume; operatic term."
+ },
+ {
+  "en": "Pontiff's Robe",
+  "kind": "name",
+  "note": "[JP] = pope/pontiff; Bishop-only robe."
+ },
+ {
+  "en": "Leather Gauntlets",
+  "kind": "name",
+  "note": "[JP] = Gauntlets, matching ebt ?Gauntlets."
+ },
+ {
+  "en": "Fairy Gloves",
+  "kind": "name"
+ },
+ {
+  "en": "Tekko",
+  "kind": "name",
+  "note": "[JP]: eastern hand guard; romanized like Katana. Alt: Hand Guards."
+ },
+ {
+  "en": "Iron Gauntlets",
+  "kind": "name"
+ },
+ {
+  "en": "Shredded Gauntlets",
+  "kind": "name",
+  "note": "Cursed, cut to ribbons."
+ },
+ {
+  "en": "Magic Gloves",
+  "kind": "name",
+  "note": "[JP]: raises spell resistance only."
+ },
+ {
+  "en": "Rose Gauntlets",
+  "kind": "name",
+  "note": "Women-only."
+ },
+ {
+  "en": "Evil Gauntlets",
+  "kind": "name",
+  "note": "[JP] = Evil (glossary alignment), like Evil Saber."
+ },
+ {
+  "en": "Steel Gauntlets",
+  "kind": "name"
+ },
+ {
+  "en": "Lace Gloves",
+  "kind": "name"
+ },
+ {
+  "en": "Mantis Gloves",
+  "kind": "name"
+ },
+ {
+  "en": "Reaper's Gauntlets",
+  "kind": "name",
+  "note": "[JP] rendered Reaper (desc: grim reaper with scythe); tarot card uses Death."
+ },
+ {
+  "en": "Mithril Gauntlets",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Gauntlets",
+  "kind": "name",
+  "note": "[JP] = Holy."
+ },
+ {
+  "en": "Buskins",
+  "kind": "name"
+ },
+ {
+  "en": "Straw Sandals",
+  "kind": "name",
+  "note": "[JP] (waraji); desc explains eastern straw footwear."
+ },
+ {
+  "en": "Forest Walkers",
+  "kind": "name",
+  "note": "Boots."
+ },
+ {
+  "en": "Iron Boots",
+  "kind": "name"
+ },
+ {
+  "en": "Red Shoes",
+  "kind": "name",
+  "note": "Andersen reference (dance until death)."
+ },
+ {
+  "en": "Steel Boots",
+  "kind": "name"
+ },
+ {
+  "en": "Dwarven Shoes",
+  "kind": "name"
+ },
+ {
+  "en": "Evil Boots",
+  "kind": "name",
+  "note": "[JP] category = Boots (ebt ?Boots)."
+ },
+ {
+  "en": "Fire Boots",
+  "kind": "name"
+ },
+ {
+  "en": "Silver Shoes",
+  "kind": "name",
+  "note": "Kept Shoes (Oz echo)."
+ },
+ {
+  "en": "Angel's Sandals",
+  "kind": "name",
+  "note": "Matches glossary Angel's Window style."
+ },
+ {
+  "en": "Platinum Slippers",
+  "kind": "name"
+ },
+ {
+  "en": "Boots of Darkness",
+  "kind": "name"
+ },
+ {
+  "en": "Glass Slippers",
+  "kind": "name",
+  "note": "Cinderella reference (only one is sometimes found)."
+ },
+ {
+  "en": "Holy Boots",
+  "kind": "name"
+ },
+ {
+  "en": "Traveler's Cloak",
+  "kind": "name",
+  "note": "[JP] = Cloak (ebt ?Cloak)."
+ },
+ {
+  "en": "Fallen Cloak",
+  "kind": "name",
+  "note": "max 14. [JP] = depravity; desc speaks of the fallen ([JP]). Alt: Decadent Cloak (14)."
+ },
+ {
+  "en": "Innocent Cloak",
+  "kind": "name",
+  "note": "Glossary Innocent series (cf. Innocent Sword)."
+ },
+ {
+  "en": "New Moon Cloak",
+  "kind": "name",
+  "note": "[JP] = Cloak, as chap 'Forebear's Cloak'."
+ },
+ {
+  "en": "Master Apron",
+  "kind": "name"
+ },
+ {
+  "en": "Midsummer Garb",
+  "kind": "name"
+ },
+ {
+  "en": "Wild Dillon",
+  "kind": "name",
+  "note": "New name: [JP] romanized Dillon; merchant king's mantle granted by Barjeff."
+ },
+ {
+  "en": "Griffin Cloak",
+  "kind": "name",
+  "note": "Name says [JP] (Griffin); desc says Griffon."
+ },
+ {
+  "en": "Black Dream Cloak",
+  "kind": "name"
+ },
+ {
+  "en": "Mirage Cloak",
+  "kind": "name"
+ },
+ {
+  "en": "Fundoshi",
+  "kind": "name",
+  "note": "Eastern loincloth underwear (belt slot)."
+ },
+ {
+  "en": "Fundoshi-1",
+  "kind": "name",
+  "note": "Transformed/unleashed form of Fundoshi; -1 kept as a variant tag, not a minus. Keep in step with [JP] (slice_13)."
+ },
+ {
+  "en": "Blue Rain",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Bat Belt",
+  "kind": "name"
+ },
+ {
+  "en": "Foxtail",
+  "kind": "name",
+  "note": "No description found."
+ },
+ {
+  "en": "Warrior's Black Belt",
+  "kind": "name",
+  "note": "Exactly 20 bytes. [JP] = martial artist/warrior."
+ },
+ {
+  "en": "Bone Belt",
+  "kind": "name"
+ },
+ {
+  "en": "Buster Champ",
+  "kind": "name",
+  "note": "Champion's belt."
+ },
+ {
+  "en": "Tiger Loincloth",
+  "kind": "name",
+  "note": "Oni-style tiger-skin waistcloth; desc suggests a club."
+ },
+ {
+  "en": "Talisman",
+  "kind": "name",
+  "note": "[JP] = ofuda; matches ebt [JP] = Talisman."
+ },
+ {
+  "en": "Exorcism Talisman",
+  "kind": "name",
+  "note": "[JP] = repel demons."
+ },
+ {
+  "en": "Pure Talisman",
+  "kind": "name",
+  "note": "[JP]: purifying ofuda."
+ },
+ {
+  "en": "Fire Magic Seal",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Fire Magic Seal +1",
+  "kind": "name",
+  "note": "+N spaced like Long Sword +1."
+ },
+ {
+  "en": "Fire Magic Seal +2",
+  "kind": "name"
+ },
+ {
+  "en": "Fire Magic Seal +3",
+  "kind": "name"
+ },
+ {
+  "en": "Ice Magic Seal",
+  "kind": "name"
+ },
+ {
+  "en": "Ice Magic Seal +1",
+  "kind": "name"
+ },
+ {
+  "en": "Ice Magic Seal +2",
+  "kind": "name"
+ },
+ {
+  "en": "Ice Magic Seal +3",
+  "kind": "name"
+ },
+ {
+  "en": "Bolt Magic Seal",
+  "kind": "name",
+  "note": "[JP] = Thunder (ebt element name); Lightning would not fit +N. EDITORIAL: lead decision kaminari = Lightning; 20/20 bytes. The +N rows use 'Bolt' because 'Lightning Magic Seal +N' (23) does not fit."
+ },
+ {
+  "en": "Bolt Magic Seal +1",
+  "kind": "name",
+  "note": "No space before +1 (21 bytes with space; max 20). EDITORIAL: lead decision kaminari = Lightning; 'Lightning Magic Seal +1' (23) does not fit 20, so the shortest clear form 'Bolt' is used across the +N rows, with the series-standard space before +N."
+ },
+ {
+  "en": "Bolt Magic Seal +2",
+  "kind": "name",
+  "note": "No space before +2 (fit). EDITORIAL: as 1167 (Bolt, space before +N)."
+ },
+ {
+  "en": "Bolt Magic Seal +3",
+  "kind": "name",
+  "note": "No space before +3 (fit). EDITORIAL: as 1167 (Bolt, space before +N)."
+ },
+ {
+  "en": "Light Magic Seal",
+  "kind": "name"
+ },
+ {
+  "en": "Light Magic Seal +1",
+  "kind": "name"
+ },
+ {
+  "en": "Light Magic Seal +2",
+  "kind": "name"
+ },
+ {
+  "en": "Light Magic Seal +3",
+  "kind": "name"
+ },
+ {
+  "en": "Dark Magic Seal",
+  "kind": "name"
+ },
+ {
+  "en": "Dark Magic Seal +1",
+  "kind": "name"
+ },
+ {
+  "en": "Dark Magic Seal +2",
+  "kind": "name"
+ },
+ {
+  "en": "Dark Magic Seal +3",
+  "kind": "name"
+ },
+ {
+  "en": "Silence Anklet",
+  "kind": "name",
+  "note": "Pattern '<Status> Anklet' for slice_15 siblings (Sleep/Confusion/Charm...)."
+ },
+ {
+  "en": "Sleep Anklet",
+  "kind": "name"
+ },
+ {
+  "en": "Confusion Anklet",
+  "kind": "name"
+ },
+ {
+  "en": "Charm Anklet",
+  "kind": "name"
+ },
+ {
+  "en": "Beheading Anklet",
+  "kind": "name",
+  "note": "UI status term is 'Decapitation'; 'Decapitation Anklet' (19) also fits if exact matching is wanted."
+ },
+ {
+  "en": "Mageslayer Anklet",
+  "kind": "name",
+  "note": "[JP]: ITEM_TEXT says the arrows home in on the source of magic power, so 'mage/magic slayer'. Uncertain whether the stat is anti-caster or anti-demon."
+ },
+ {
+  "en": "Water Quartz",
+  "kind": "name"
+ },
+ {
+  "en": "Fringe Choker",
+  "kind": "name"
+ },
+ {
+  "en": "Lucky Charm",
+  "kind": "name",
+  "note": "[JP] (omamori); 'Charm' alone would clash with the Charm status."
+ },
+ {
+  "en": "Lucky Charm +1",
+  "kind": "name",
+  "note": "'+N' written with a space, as 'Long Sword +1' in the finished UI text."
+ },
+ {
+  "en": "Amulet of Life",
+  "kind": "name",
+  "note": "glossary"
+ },
+ {
+  "en": "Pacifier",
+  "kind": "name",
+  "note": "As in chap slice_011."
+ },
+ {
+  "en": "Geo Rune",
+  "kind": "name"
+ },
+ {
+  "en": "Wooden Pillbox",
+  "kind": "name",
+  "note": "14-byte slot; ITEM_TEXT: wooden box that keeps medicine dry."
+ },
+ {
+  "en": "Inro",
+  "kind": "name",
+  "note": "[JP] (Mito Komon reference: brandish it and foes bow)."
+ },
+ {
+  "en": "Reverse Scale",
+  "kind": "name",
+  "note": "[JP]: the backward scale under a dragon's chin; literal rendering keeps the ITEM_TEXT explanation coherent."
+ },
+ {
+  "en": "Vorpal Misanga",
+  "kind": "name",
+  "note": "Vorpal + misanga (friendship bracelet), per ITEM_TEXT."
+ },
+ {
+  "en": "Pearl Ring",
+  "kind": "name"
+ },
+ {
+  "en": "Bone Ring",
+  "kind": "name"
+ },
+ {
+  "en": "Sacred Wood Ring",
+  "kind": "name",
+  "note": "[JP] = sacred tree."
+ },
+ {
+  "en": "Diamond Ring",
+  "kind": "name"
+ },
+ {
+  "en": "Rusted Ring",
+  "kind": "name",
+  "note": "14-byte slot."
+ },
+ {
+  "en": "White Ring",
+  "kind": "name"
+ },
+ {
+  "en": "Fairy Ring",
+  "kind": "name"
+ },
+ {
+  "en": "Cat's Eye Ring",
+  "kind": "name"
+ },
+ {
+  "en": "Ring of Healing",
+  "kind": "name"
+ },
+ {
+  "en": "Ring of Death",
+  "kind": "name"
+ },
+ {
+  "en": "Ring of Fellowship",
+  "kind": "name",
+  "note": "[JP] = sworn friend; ITEM_TEXT: vow of friendship across races."
+ },
+ {
+  "en": "Ankh of Strength",
+  "kind": "name",
+  "note": "Stat names as in the UI (Strength/Intellect/Piety/Vitality/Agility/Luck)."
+ },
+ {
+  "en": "Ankh of Intellect",
+  "kind": "name"
+ },
+ {
+  "en": "Ankh of Piety",
+  "kind": "name"
+ },
+ {
+  "en": "Ankh of Vitality",
+  "kind": "name"
+ },
+ {
+  "en": "Ankh of Agility",
+  "kind": "name"
+ },
+ {
+  "en": "Ankh of Luck",
+  "kind": "name"
+ },
+ {
+  "en": "Revival Elixir",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Flute",
+  "kind": "name"
+ },
+ {
+  "en": "Harp of Sleep",
+  "kind": "name"
+ },
+ {
+  "en": "Startle Trumpet",
+  "kind": "name",
+  "note": "[JP]: a plain very loud trumpet; effect raises enemy AC."
+ },
+ {
+  "en": "Kagura Bells",
+  "kind": "name",
+  "note": "Shrine-dance bells ([JP] = Kannagi class)."
+ },
+ {
+  "en": "Enchanting Lute",
+  "kind": "name"
+ },
+ {
+  "en": "Puppet Maracas",
+  "kind": "name",
+  "note": "[JP] = manipulate; draws enemy attacks onto one ally."
+ },
+ {
+  "en": "Earthsplit Drum",
+  "kind": "name"
+ },
+ {
+  "en": "Zero Flute",
+  "kind": "name"
+ },
+ {
+  "en": "Healing Tuning Fork",
+  "kind": "name"
+ },
+ {
+  "en": "Divine Bolt Harp",
+  "kind": "name",
+  "note": "'Harp of Divine Thunder' (22) does not fit 20. EDITORIAL: lead decision kaminari = Lightning; 'Divine Lightning Harp' (21) does not fit 20, so 'Bolt' as in the Bolt Magic Seal +N rows."
+ },
+ {
+  "en": "Magic Sitar",
+  "kind": "name"
+ },
+ {
+  "en": "Dvel Soft Steel",
+  "kind": "name",
+  "note": "glossary"
+ },
+ {
+  "en": "Dvel Soft Steel +1",
+  "kind": "name"
+ },
+ {
+  "en": "Dvel Soft Steel +2",
+  "kind": "name"
+ },
+ {
+  "en": "Frozen Elven Iron",
+  "kind": "name",
+  "note": "glossary"
+ },
+ {
+  "en": "Frozen Elven Iron +1",
+  "kind": "name",
+  "note": "20/20 bytes."
+ },
+ {
+  "en": "Frozen Elven Iron +2",
+  "kind": "name",
+  "note": "20/20 bytes."
+ },
+ {
+  "en": "Vectreim",
+  "kind": "name",
+  "note": "New name: romanized [JP] (purple ore)."
+ },
+ {
+  "en": "Vectreim +1",
+  "kind": "name"
+ },
+ {
+  "en": "Vectreim +2",
+  "kind": "name"
+ },
+ {
+  "en": "Mazurite",
+  "kind": "name",
+  "note": "glossary"
+ },
+ {
+  "en": "Mazurite +1",
+  "kind": "name"
+ },
+ {
+  "en": "Mazurite +2",
+  "kind": "name"
+ },
+ {
+  "en": "Tri-Layer Orat",
+  "kind": "name",
+  "note": "New name: [JP] = three-layered (ITEM_TEXT: white ore with ~3 inner layers); [JP] romanized 'Orat'."
+ },
+ {
+  "en": "Tri-Layer Orat +1",
+  "kind": "name"
+ },
+ {
+  "en": "Tri-Layer Orat +2",
+  "kind": "name"
+ },
+ {
+  "en": "Milstone",
+  "kind": "name",
+  "note": "New name: [JP] is a milky-white ([JP]) fragile ore, so 'Mil-' (milk) rather than 'Millstone'. Flag for review."
+ },
+ {
+  "en": "Milstone +1",
+  "kind": "name"
+ },
+ {
+  "en": "Milstone +2",
+  "kind": "name"
+ },
+ {
+  "en": "Wooden Coin Bank",
+  "kind": "name",
+  "note": "'Piggy Bank' kept for [JP]."
+ },
+ {
+  "en": "Iron Coin Bank",
+  "kind": "name"
+ },
+ {
+  "en": "Piggy Bank",
+  "kind": "name"
+ },
+ {
+  "en": "Devil's Coin Bank",
+  "kind": "name"
+ },
+ {
+  "en": "Medal of Power",
+  "kind": "name",
+  "note": "glossary"
+ },
+ {
+  "en": "Tea Leaves",
+  "kind": "name"
+ },
+ {
+  "en": "Air Fruit",
+  "kind": "name",
+  "note": "14-byte slot."
+ },
+ {
+  "en": "Angel's Window",
+  "kind": "name",
+  "note": "glossary; 14/14 bytes."
+ },
+ {
+  "en": "Rock Counter",
+  "kind": "name",
+  "note": "ITEM_TEXT/RENKIN_TXT: counts the floor's stone ([JP]) blocks, so [JP] = rock. CONFLICT: work/translation/en/ebt/slice_02.out.json (and review_g1.json) has 'The Lock Counter reads %03d.' -- that row should become 'Rock Counter'."
+ },
+ {
+  "en": "Dove Bell",
+  "kind": "name",
+  "note": "14-byte slot; [JP] = hand bell."
+ },
+ {
+  "en": "Crow Bell",
+  "kind": "name",
+  "note": "14-byte slot."
+ },
+ {
+  "en": "Sheep's Brush",
+  "kind": "name",
+  "note": "14-byte slot; sheep-hair writing brush."
+ },
+ {
+  "en": "Bone Slippers",
+  "kind": "name"
+ },
+ {
+  "en": "Death Pinwheel",
+  "kind": "name",
+  "note": "14-byte slot: 'Reaper's Pinwheel' (17) does not fit; [JP] = Death as in the tarot UI."
+ },
+ {
+  "en": "Dice of Fate",
+  "kind": "name",
+  "note": "glossary"
+ },
+ {
+  "en": "Philos. Stone",
+  "kind": "name",
+  "note": "14-byte slot: 'Philosopher's Stone' (19) does not fit. Alternative: 'Sage's Stone' (12)."
+ },
+ {
+  "en": "Wand of Records",
+  "kind": "name",
+  "note": "[JP] as in the Recorded History list (EL_KIRO)."
+ }
+]

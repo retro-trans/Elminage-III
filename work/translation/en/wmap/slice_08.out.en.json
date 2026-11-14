@@ -1,0 +1,354 @@
+[
+ {
+  "en": "\"...That's the situation, but I'm ashamed to admit that unless it's something healing or Dispel works on, I'm just hopeless at dealing with it......\"{w}{p}\"If it's not too much trouble, could you go chase them off for me?\"{w}",
+  "kind": "msg",
+  "note": "'them' = the stray dogs desecrating the nameless cemetery (slice_07 row 558). 'healing or Dispel works on' = undead; Dispel is the class ability name (JOB_EX [JP])."
+ },
+ {
+  "en": "\"As for your reward: flawless after-sales service! That's my offer.{w}",
+  "kind": "msg",
+  "note": "[JP] kept as 'after-sales service' (sales-pitch joke for a money-grubbing priest; echoes slice_07 row 559 [JP] -- align that row). Rows 561/562/563 share this sentence word-for-word because 562 re-displays 561 inside {0E}..{0F} and 563 is a variant of the same line."
+ },
+ {
+  "en": "{0E}\"As for your reward: flawless after-sales service! That's my offer.{0F}\nI'm counting on you, all right?\"{w}{p}\"I can't let this temple's reputation take a hit.\"{w}{p}\"Oh, and please keep this matter between us.{w}...I am 'Hardy the Money-Grubber,' after all.\"{w}",
+  "kind": "msg",
+  "note": "'Hardy the Money-Grubber' as in pilot row 342."
+ },
+ {
+  "en": "\"As for your reward: flawless after-sales service! That's my offer.\nI'm counting on you, all right?\"{w}{p}\"If the dead can't even rest in peace... this temple's good name will be tarnished.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come right in, welcome to Rust Tem...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Come right in, welcome to Rust Tem...{0F}\nOh! It's you!{w}Thank you so much!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...By the way, are any of you hurt?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, no, you've truly saved me.{w}If I can't even look after the place where they sleep, it would affect the number of corpse-- er, customers brought in to us.\"{w}",
+  "kind": "msg",
+  "note": "Source: Hardy almost says 'corpses' ([JP]) and corrects to 'customers'; kept the slip."
+ },
+ {
+  "en": "\"...Let me see... Money is important.{w}There's a surprising amount you can do with money, you know.{w}A warm meal, a bed where you won't freeze... things like that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But you could also say we're prisoners of money.{w}So at the very least, once people die, whatever their money,{w}I'd like them to rest in peace... That's what I believe.\"{w}{p}\"...That wasn't like me at all, was it?\nPlease forget I said it.\"{w}",
+  "kind": "msg",
+  "note": "'prisoners of money': subject unstated in source; rendered as general 'we' (people in general), which the next sentence about the dead supports."
+ },
+ {
+  "en": "\"Now then... about your reward...\nI've given it a lot of thought since then.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The truth is... the other day, even though it's a nameless cemetery, a bereaved family came to visit -- who knows how they tracked it down.{w}And, well... they actually thanked me...\"{w}{p}\"Then they donated a huge supply of medicine the deceased had left behind... Combined with our own stockpile, there's no way we could ever use it all.\"{w}{p}\"So last night, I quietly dropped it all off at Kembeck's Shop.{w}",
+  "kind": "msg",
+  "note": "'a bereaved family': the family of someone buried there; number/gender unspecified, kept as 'a bereaved family'."
+ },
+ {
+  "en": "{0E}\"So last night, I quietly dropped it all off at Kembeck's Shop.{0F}\n...I do have a reputation as a money-grubber to keep up, after all.\"{w}",
+  "kind": "msg",
+  "note": "Joke: he did it secretly because a known miser can't be seen giving things away."
+ },
+ {
+  "en": "\"I'm sure it's lined up on the shelves by now.{w}Please, make good use of it.{w}Think of it as an advance on that reward.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}Kembeck's Shop stock increased: Full Heal Potion\nKembeck's Shop stock increased: Paralysis Cure\nKembeck's Shop stock increased: Nightdew Lozenge{0F}{w}",
+  "kind": "msg",
+  "note": "Item names are proposals (ITEM.CSV 420/415/416, 16-char limit, not yet translated): [JP] Full Heal Potion (full HP), [JP] Paralysis Cure, [JP] Nightdew Lozenge (cures Silence). Must be synced with the ITEM.CSV translation. Here {0E}..{0F} wraps a fresh notice, not a re-display."
+ },
+ {
+  "en": "{0E}Kembeck's Shop stock increased: Calming Herb\nKembeck's Shop stock increased: First Love Gem\nKembeck's Shop stock increased: Stonemelt Water{0F}{w}",
+  "kind": "msg",
+  "note": "Proposed item names (ITEM.CSV 417/418/419): [JP] Calming Herb (cures Confusion), [JP] First Love Gem (cures Charm; 'First Love Flower Crystal' is 25 chars, over the 16-char item limit), [JP] Stone-Cure Water (cures Stone). Sync with ITEM.CSV."
+ },
+ {
+  "en": "\"Come right in, welcome to Rust Temple!\nHere at our temple we... Ah, it's you!\nHow is everyone feeling? Nobody dead, I hope?\"{w}{p}\"I see... I'm glad to hear it.{w}Did I say something odd?{w}Obviously, it's better when nothing sad happens.\"{w}",
+  "kind": "msg",
+  "note": "The party's answer (nobody dead) happens between pages; 'Did I say something odd?' reacts to the party's look at a bishop being glad of no business."
+ },
+ {
+  "en": "You offered a silent prayer.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Strange Bookmarks tucked into your adventure: {0B:0003:0057}.{w}{p}It seems that by praying, you could remove one of them.{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Strange Bookmark' (ITEM_PRIZ.CSV:20 name, max 18). Sentence rebuilt as 'X: {n}' so it reads correctly for any count, including 1."
+ },
+ {
+  "en": "Remove one Strange Bookmark?",
+  "kind": "data"
+ },
+ {
+  "en": "Who will pay?",
+  "kind": "op093"
+ },
+ {
+  "en": "Not enough money.{w}",
+  "kind": "msg",
+  "note": "dupes=6: kept as a generic system line without a subject so it fits every payer/shop."
+ },
+ {
+  "en": "\"You wish to perform the Rite of Flux?\"{w}{p}\"......{w}My predecessor told me that rite is not something to be done lightly.\"{w}{p}\"If you truly insist, I will perform it, but......\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Rite of Flux' (new term; also HELP_TEXT 256/284/285 menu label)."
+ },
+ {
+  "en": "The Rite of Flux is a ritual that randomly relocates valuable items you have not yet obtained.{w}{p}This cannot be undone, so please be careful.{w}",
+  "kind": "msg",
+  "note": "Source literally 'the current state cannot be restored' -> 'this cannot be undone'."
+ },
+ {
+  "en": "Perform the Rite of Flux?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Just to be sure, I have to ask...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You truly wish to perform the Rite of Flux?\"",
+  "kind": "data",
+  "note": "data row is the yes/no prompt question, not a choice; 45 chars. Short form if needed: '\"Truly perform the Rite of Flux?\"'."
+ },
+ {
+  "en": "\"Very well.{w}The cost will be an offering of 100,000 GP.\"{w}",
+  "kind": "msg",
+  "note": "[JP] written 'GP' as in pilot row 281."
+ },
+ {
+  "en": "Will you pay?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Then let us begin the rite.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The valuables you have not yet obtained scattered once more to places throughout the world.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"May this rite bring light to the road that lies before you all...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Everyone, it seems your offering is... a little short.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see. That may well be a wise decision.{w}Trials are not something to avoid, but something to face.\"{w}{p}\"May the blessings of Ildraha be with you all...\"{w}",
+  "kind": "msg",
+  "note": "Blessing phrased as in pilot row 372."
+ },
+ {
+  "en": "\"Then I can't perform the rite...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The castle is silent.{w}If you linger here any longer, you'll be taken for intruders.{w}It would be better to come back during the day.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you told the guards you had come about the Proclamation, they showed you to the audience chamber.{w}",
+  "kind": "msg",
+  "note": "Source literally 'had seen the Proclamation and come' -> 'had come about the Proclamation'."
+ },
+ {
+  "en": "The audience chamber is already crowded with adventurers.{w}The girls you saw at the inn earlier seem to be here too.{w}",
+  "kind": "msg",
+  "note": "[JP] 'girls' is the source's own word (Electra and company from the inn scene, pilot rows 240-285)."
+ },
+ {
+  "en": "\"...Oh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hello.{w}Sorry you had to see that embarrassing scene earlier.{w}I'm Electra. Nice to meet you.\"{w}",
+  "kind": "msg",
+  "note": "'that embarrassing scene earlier' = the stable squabble with Mig at Zeppo's Inn (pilot rows 241-285)."
+ },
+ {
+  "en": "\"They treat me like a horse here too!\nAlgrantz is a rude city full of rude people!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, let it go already.{w}...I wonder if unicorns are rare?{w}Everyone treats Mig like a horse.\"{w}",
+  "kind": "msg",
+  "note": "First sentence is to Mig, then Electra muses to the party; 'Mig' named instead of a pronoun (gender unknown)."
+ },
+ {
+  "en": "While you were chatting, the entrance doors opened.\nYou heard the guards snap to attention.{w}Soon, one of the guards came up right in front of you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Guard",
+  "kind": "name"
+ },
+ {
+  "en": "\"King Balgert will arrive shortly!\"{w}{p}\"We are also joined, from the Star Capital Lumisthenes, by the fortune-teller Natori and by Mayleen of the Stargazing Lighthouse!\"{w}{p}\"All of you, mind your manners!\nNo idle chatter!\"{w}",
+  "kind": "msg",
+  "note": "[JP] on Natori/Mayleen not rendered as Lady/Lord (genders unknown in glossary); the guard's formal register carries the respect. [JP] = 'Stargazing Lighthouse' (new term)."
+ },
+ {
+  "en": "Then, with a ringing of steel, the king appeared, clad in golden armor.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The fortune-tellers followed.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The two at the back don't seem to be from this city.{w}Amid the murmuring around you, you can make out the word 'Lumisthenes.'{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What? This is all that showed up?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Fewer and fewer come each time, it seems.\"{w}",
+  "kind": "msg",
+  "note": "'each time': the Proclamation summons has been held repeatedly (pilot row 170 'again')."
+ },
+ {
+  "en": "\"Can't be helped...{w}Waitin' around ain't gonna bring in any more,\nso let's just get this started.\"{w}",
+  "kind": "msg",
+  "note": "Balgert's rough [JP] speech rendered with light dropped g's / ain't; keep consistent in later Balgert rows."
+ },
+ {
+  "en": "\"The name's Balgert.\nI'm king of this here fortress city, Algrantz.\"{w}{p}\"...Look at you, all scruffy and grubby.{w}Just like me when I was young! Hahaha!\"{w}{p}\"I called you all here for one reason and one reason only.{w}To help take back the Palace of the Sun!\"{w}{p}\"Now, the Palace of the Sun, see...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Now, the Palace of the Sun, see...{0F}\nIt's... uh... that thing...{w}It's all shiny and glowin'... and it's a palace...\"{w}{p}\"Basically, it's huge... and real tall...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Basically, it's huge... and real tall...{0F}\nNatori! You explain it to 'em!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Oh, right, right.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hi, everyone, nice to meet you!\"{w}{p}\"I'm Natori, from the Temple of Rafa in Lumisthenes. Let's get along!{w}And this grumpy-looking one here is Ms. Mayleen!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Temple of Rafa' (pilot row 1). [JP] is the source's own honorific for a (learned) woman, rendered 'Ms.'; flag for glossary gender of Mayleen (still 'unknown' there)."
+ },
+ {
+  "en": "\"......{w}Enough of this nonsense. Get to the point, would you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aww, what? I was trying to liven things up...{w}...Tch.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ahem. Well then, let's start over.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm going to give you all a quick rundown of the crisis we're facing right now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Since ancient times, this land has prospered under the light of the Palace of the Sun, high up in the heavens.\"{w}{p}\"The sun god Rafa dwells in the Palace of the Sun, shining a purifying light that protects this land from the Kin of Darkness.\"{w}{p}\"We people of Lumisthenes have prayed every single day, keeping watch over how Rafa is faring. But, you see...\"{w}{p}\"That Palace of the Sun has now fallen into the hands of the Kin of Darkness.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'the Dark Kin' (new term; 83 occurrences corpus-wide, needs a glossary entry). [JP] rendered plain 'Rafa' (no Lord/Lady: gender unknown). 'keeping watch over how Rafa is faring' = literally inquiring after Rafa's condition."
+ },
+ {
+  "en": "\"With the Palace of the Sun in the hands of the Kin of Darkness, all sorts of effects are starting to show across the land.\"{w}{p}\"The purifying light has gone murky, and the power that protects the land is fading away.\"{w}{p}\"Lately the Kin of Darkness have been showing up more often and getting more vicious than usual,\nand that's probably why.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Recently, we sent envoys to the rulers of every land to inform them of the situation at the Palace of the Sun, and received several proposals for breaking the deadlock.\"{w}{p}\"From King Balgert of Algrantz, we received a proposal to revive the legendary 'Stairway of Light' and storm the Palace of the Sun.\"{w}{p}\"The Stairway of Light is...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Stairway of Light' (new term). [JP] -> 'rulers of every land' (neutral)."
+ },
+ {
+  "en": "\"How about that!\nPretty good idea, don'tcha think!?\"{w}{p}\"The legendary Palace of the Sun, reached by the legendary Stairway of Light!{w}Go on, Mayleen, keep it goin'!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......I shall continue.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The Stairway of Light is the stairway Rafa is said to have used when ascending to the Palace of the Sun.\"{w}{p}\"We were aware of the legend that it lies in Konnu, but its existence has yet to be confirmed.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Konnu' (new name; dungeon [JP] = Konnu Grassland Ruins in DGN_NAME). Subject of 'were aware' (unstated) taken as 'we' (Lumisthenes), matching row 622's 'we sent envoys'."
+ },
+ {
+  "en": "\"So that's why you've all been called here.{w}We in Lumisthenes will cooperate in every way we can to get this situation under control, too.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We will now hand out compasses for finding the site where the Stairway of Light once stood -- in other words, the 'Lightstair Ruins.'\"{w}",
+  "kind": "msg",
+  "note": "[JP]: coined word with a reading gloss; the gloss is dropped in English. 'Lightstair Ruins' (16 chars) chosen to fit ITEM_PRIZ.CSV:4 compass-target name (max 18) -- the camp menu label must use the same string (rows 635 and slice_09+)."
+ },
+ {
+  "en": "\"Normally, you'd have to come to Lumisthenes for us to give a compass its power, you know?\"{w}{p}\"But today, we've prepared them specially.{w}So take one home with you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A compass was placed in each of your hands.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hahaha!!{w}You lot, this compass is somethin' else, y'know!?\"{w}{p}\"This compass, see...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"This compass, see...{0F}\nThe compass... it's... uh... that thing...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"This compass, see...\nThe compass... it's... uh... that thing...{0F}\nMayleen! You explain it to 'em!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why, I have been explaining it all along, have I not?\"{w}",
+  "kind": "msg",
+  "note": "Mayleen already explained the compass (row 627); dry put-down."
+ },
+ {
+  "en": "\"Uh, r-right...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now then, everyone.{w}I will say this only once, so listen carefully.\"{w}{p}\"Once you enter the ruins at Konnu, the first thing to do is set up camp.\"{w}{p}\"In camp, be sure to set your compass's search target to the 'Lightstair Ruins.'\"{w}{p}\"If there are any clues nearby, the light should point you to where they are.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The light changes color depending on how far you are from what you're looking for.\"{w}{p}\"Red means you're in the wrong place entirely.{w}Blue means it's the right place but the wrong floor.{w}Yellow means it's right nearby!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You can turn off the compass's light by setting the search target to 'None.'{w}Feel free to turn it off whenever you don't need it.\"{w}",
+  "kind": "msg",
+  "note": "'None' ([JP]) must match the camp compass menu label once the UI is translated."
+ },
+ {
+  "en": "\"And that's the briefing!\nDon't worry, with this many people we'll manage somehow.{w}Good luck!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There is one more item being issued.{w}That would be this: the Angel's Window.{w}A handy device that shows you your surroundings.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Angel's Window' (proposed item name, ITEM.CSV 460, max 16; automap gem)."
+ }
+]

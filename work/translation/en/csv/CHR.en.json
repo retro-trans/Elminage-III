@@ -1,0 +1,206 @@
+[
+ {
+  "id": "CHR.CSV:5:4",
+  "en": "Hum Fighter",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:5",
+  "en": "Hum Fighter",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:6",
+  "en": "Elf Mage",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:7",
+  "en": "Gnm Priest",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:8",
+  "en": "Hobbit Thief",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:9",
+  "en": "Gnm Alchemist",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:10",
+  "en": "Fairy Servant",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:11",
+  "en": "Devilish Bishop",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:12",
+  "en": "Elf Ranger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:13",
+  "en": "Wrb Gladiator",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:14",
+  "en": "Hobbit Bard",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:15",
+  "en": "HumKannagi",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:16",
+  "en": "Devilish Summoner",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:17",
+  "en": "Elf Valkyrie",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:18",
+  "en": "Dragonewt Lord",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:19",
+  "en": "DwfSamurai",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:5:20",
+  "en": "Hobbit Ninja",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:4",
+  "en": "Fighter",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:5",
+  "en": "Fighter",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:6",
+  "en": "Mage",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:7",
+  "en": "Priest",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:8",
+  "en": "Thief",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:9",
+  "en": "Alchemist",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:10",
+  "en": "Maid",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:11",
+  "en": "Bishop",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:12",
+  "en": "Ranger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:13",
+  "en": "Gladiator",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:14",
+  "en": "Roma",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:15",
+  "en": "Kannagi",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:16",
+  "en": "Summoner",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:17",
+  "en": "Valkyrie",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:18",
+  "en": "Lord",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:19",
+  "en": "Samurai",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "CHR.CSV:6:20",
+  "en": "Ninja",
+  "max": 12,
+  "used": true
+ }
+]

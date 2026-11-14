@@ -1,0 +1,362 @@
+[
+ {
+  "en": "Infinite Magic",
+  "kind": "ui"
+ },
+ {
+  "en": "Cure Level Drain",
+  "kind": "ui"
+ },
+ {
+  "en": "Cure & Heal",
+  "kind": "ui",
+  "note": "Kenkou to kaifuku: kenkou = 'healthy' status (cure ailments), kaifuku = HP recovery."
+ },
+ {
+  "en": "Enemy Loses Spell Resist",
+  "kind": "ui",
+  "note": "Rows 1154-1160 look like a list of effect labels (context unconfirmed); kept as short noun phrases."
+ },
+ {
+  "en": "Party Fully Resists Spells",
+  "kind": "ui",
+  "note": "mikata = own side; rendered 'Party'."
+ },
+ {
+  "en": "Party Evasion Up",
+  "kind": "ui"
+ },
+ {
+  "en": "Enemy Teleport",
+  "kind": "ui",
+  "note": "Ambiguous in source (teleports the enemy vs. enemy's teleport); kept ambiguous."
+ },
+ {
+  "en": "Mimic",
+  "kind": "ui",
+  "note": "Probably also the shared string for the Mimic trap: the trap-name block (rows 1201-1210) has no gap where Mimic would sit, so the compiler likely pooled it here."
+ },
+ {
+  "en": "Strength",
+  "kind": "ui",
+  "note": "Bare 'chikara'. The Tarot list in slice_16 (rows 1268-1287) lacks the card 'chikara', with no gap for it, so this pooled string is very likely the Tarot card Strength too. 'Strength' fits both readings. Stat Strength (wanryoku) is row 1164."
+ },
+ {
+  "en": "Intellect",
+  "kind": "ui"
+ },
+ {
+  "en": "Strength",
+  "kind": "ui",
+  "note": "Stat wanryoku = Strength (as slice_01 row 56)."
+ },
+ {
+  "en": "Piety",
+  "kind": "ui"
+ },
+ {
+  "en": "Vitality",
+  "kind": "ui"
+ },
+ {
+  "en": "Agility",
+  "kind": "ui"
+ },
+ {
+  "en": "Luck",
+  "kind": "ui"
+ },
+ {
+  "en": "None",
+  "kind": "ui",
+  "note": "Element list: none/ice/thunder/holy/dark (fire pooled elsewhere)."
+ },
+ {
+  "en": "Ice",
+  "kind": "ui"
+ },
+ {
+  "en": "Thunder",
+  "kind": "ui",
+  "note": "kaminari; 'Thunder' chosen over 'Lightning' for width."
+ },
+ {
+  "en": "Holy",
+  "kind": "ui"
+ },
+ {
+  "en": "Dark",
+  "kind": "ui"
+ },
+ {
+  "en": "Low    ",
+  "kind": "ui",
+  "note": "Chance labels: source pads 'kanarazu' with a full-width space so all four are 6 columns wide. English pads all four to 7 columns (trailing spaces) so they stay equal-width and leave a space before any text that follows."
+ },
+ {
+  "en": "Med    ",
+  "kind": "ui",
+  "note": "See row 1174."
+ },
+ {
+  "en": "High   ",
+  "kind": "ui",
+  "note": "See row 1174."
+ },
+ {
+  "en": "Always ",
+  "kind": "ui",
+  "note": "kanarazu + full-width space; see row 1174."
+ },
+ {
+  "en": "Sleep",
+  "kind": "ui"
+ },
+ {
+  "en": "Poison",
+  "kind": "ui",
+  "note": "moudoku (deadly poison) is the game's poison ailment."
+ },
+ {
+  "en": "Paralysis",
+  "kind": "ui"
+ },
+ {
+  "en": "Silence",
+  "kind": "ui"
+ },
+ {
+  "en": "Confusion",
+  "kind": "ui"
+ },
+ {
+  "en": "Charm",
+  "kind": "ui"
+ },
+ {
+  "en": "Petrify",
+  "kind": "ui"
+ },
+ {
+  "en": "Curse",
+  "kind": "ui"
+ },
+ {
+  "en": "Death",
+  "kind": "ui"
+ },
+ {
+  "en": "Ash",
+  "kind": "ui",
+  "note": "haika = turned to ash."
+ },
+ {
+  "en": "Fear",
+  "kind": "ui"
+ },
+ {
+  "en": "OK",
+  "kind": "ui",
+  "note": "Hiragana status labels (party status column, Wizardry style). kenkou = healthy; 'OK' is the genre convention. Alternative: 'Healthy'."
+ },
+ {
+  "en": "Asleep",
+  "kind": "ui"
+ },
+ {
+  "en": "Poisoned",
+  "kind": "ui"
+ },
+ {
+  "en": "Paralyzed",
+  "kind": "ui",
+  "note": "9 chars vs 8-column source width of the longest label in this list; fallback 'Paralyzd' if the column clips."
+ },
+ {
+  "en": "Silenced",
+  "kind": "ui"
+ },
+ {
+  "en": "Confused",
+  "kind": "ui"
+ },
+ {
+  "en": "Charmed",
+  "kind": "ui"
+ },
+ {
+  "en": "Stoned",
+  "kind": "ui",
+  "note": "sekika = petrified; Wizardry-style 'Stoned' keeps it within 8 columns."
+ },
+ {
+  "en": "Cursed",
+  "kind": "ui"
+ },
+ {
+  "en": "Dead",
+  "kind": "ui"
+ },
+ {
+  "en": "Ashes",
+  "kind": "ui",
+  "note": "haika; Wizardry-style status 'Ashes'."
+ },
+ {
+  "en": "Afraid",
+  "kind": "ui"
+ },
+ {
+  "en": "Flying Stones",
+  "kind": "ui",
+  "note": "Trap names (TRAP.CSV). ishitsubute = thrown stones; damage to one character."
+ },
+ {
+  "en": "Poison Needle",
+  "kind": "ui"
+ },
+ {
+  "en": "Poison Gas",
+  "kind": "ui"
+ },
+ {
+  "en": "Bomb",
+  "kind": "ui"
+ },
+ {
+  "en": "Ghost Horde",
+  "kind": "ui",
+  "note": "bourei no mure; trap drops everyone's HP to one digit."
+ },
+ {
+  "en": "Cobra's Curse",
+  "kind": "ui",
+  "note": "Glossary."
+ },
+ {
+  "en": "Demon's Eye",
+  "kind": "ui",
+  "note": "akuma no medama (eyeball); trap petrifies the party."
+ },
+ {
+  "en": "Urashima's Box",
+  "kind": "ui",
+  "note": "tamatebako: the box from the Urashima Taro tale that ages whoever opens it; this trap adds 1-5 years of age. Alternative: 'Tamatebako'."
+ },
+ {
+  "en": "Goddess's Kiss",
+  "kind": "ui",
+  "note": "Trap: age -1."
+ },
+ {
+  "en": "Teleporter",
+  "kind": "ui"
+ },
+ {
+  "en": "Drain",
+  "kind": "ui",
+  "note": "Skill: lowers the target's level (JOB_EX 94)."
+ },
+ {
+  "en": "Hide",
+  "kind": "ui",
+  "note": "Rows 1212-1233: skill / battle-command names (JOB_EX.CSV)."
+ },
+ {
+  "en": "Steal",
+  "kind": "ui"
+ },
+ {
+  "en": "Strip Gear",
+  "kind": "ui",
+  "note": "soubi kaijo = remove equipment. Sits next to Steal in the thief-type skills, so read as stripping the target's gear. 'Disarm' avoided so it is not confused with trap disarm (row 1243). Unconfirmed."
+ },
+ {
+  "en": "Tarot",
+  "kind": "ui"
+ },
+ {
+  "en": "First Strike",
+  "kind": "ui",
+  "note": "sokkou: lets the Ranger act before the enemy (ITEM_TEXT 393)."
+ },
+ {
+  "en": "Cook",
+  "kind": "ui"
+ },
+ {
+  "en": "Malediction",
+  "kind": "ui",
+  "note": "jugon (spoken curse); inflicts Fear."
+ },
+ {
+  "en": "Corpse Throw",
+  "kind": "ui"
+ },
+ {
+  "en": "Mimicry",
+  "kind": "ui",
+  "note": "monomane: copies an enemy action. 'Mimicry' keeps it distinct from the monster Mimic (row 1161)."
+ },
+ {
+  "en": "War Rite",
+  "kind": "ui",
+  "note": "ikusa no gishiki: raises party attack for that turn."
+ },
+ {
+  "en": "Ki Blast",
+  "kind": "ui",
+  "note": "kikouha: non-elemental damage to one enemy."
+ },
+ {
+  "en": "Haughty Laugh",
+  "kind": "ui",
+  "note": "takawarai: may inflict Fear on all enemies."
+ },
+ {
+  "en": "Song of Healing",
+  "kind": "ui"
+ },
+ {
+  "en": "Song of Ruin",
+  "kind": "ui",
+  "note": "hakai no uta: damages enemies."
+ },
+ {
+  "en": "Song of Warding",
+  "kind": "ui",
+  "note": "mamori no uta: reduces damage."
+ },
+ {
+  "en": "Song of Hope",
+  "kind": "ui",
+  "note": "kibou no uta: cures ailments."
+ },
+ {
+  "en": "Sacrifice",
+  "kind": "ui"
+ },
+ {
+  "en": "Absolute Guard",
+  "kind": "ui",
+  "note": "zettai bouheki (internal name ALL_GUARD): nullifies enemy attacks."
+ },
+ {
+  "en": "Sever Summon",
+  "kind": "ui",
+  "note": "shoukan-dan: kills a summoned monster in one blow."
+ },
+ {
+  "en": "Clone",
+  "kind": "ui",
+  "note": "bunshin: summons your own double into the summon slot."
+ },
+ {
+  "en": "Soul Pact",
+  "kind": "ui"
+ },
+ {
+  "en": "Appraise",
+  "kind": "ui"
+ }
+]

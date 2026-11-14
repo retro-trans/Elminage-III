@@ -1,0 +1,337 @@
+[
+ {
+  "en": "The sound of a drum is often described as deep and rumbling in the gut, and the phrase fits perfectly. Even an ordinary drum sounds as if it could shake the ground and crack it, but this drum amplifies that power until it truly shakes the earth and splits the land.",
+  "kind": "desc"
+ },
+ {
+  "en": "A flute whose clear tone can return space warped by spells to normal. The effect reaches allies as well as enemies, so use it with care.",
+  "kind": "desc"
+ },
+ {
+  "en": "A tool that sets a reference pitch, correcting the drift in tone that creeps in with long use. This fork does more than tune: it can also restore a person's body to good health, and it does wonders for staying healthy.",
+  "kind": "desc"
+ },
+ {
+  "en": "Pluck the first string, and black clouds gather. The second, and heavy rain falls. The third, and thunder roars. The fourth, and divine lightning strikes. The fifth, and the foe is charred black. Pluck the last, and the foe's hair frizzes up as they breathe their last.",
+  "kind": "desc"
+ },
+ {
+  "en": "A whip made of many linked rings. Whips normally deal blunt blows, but every ring on this one bears a blade, making it superbly sharp. It has a serious flaw, though: with all those rings linked together, it always jangles loudly as you walk with it.",
+  "kind": "desc"
+ },
+ {
+  "en": "It sits among the weapons in shops, but it was apparently made for some golf-like sport. Still, in shape and material alike, it is a lightweight hammer any way you look at it. Even weak adventurers can swing it around easily, so it is very effective.",
+  "kind": "desc",
+  "note": "Source typo [JP] read as [JP] (sits among the weapons in shops)."
+ },
+ {
+  "en": "Old as these geezers are, their tenacity dwells in the wand, becoming a stubborn power whose effects linger. Being old, though, it has no explosive force. Yet with dozens of them together, the danger would grow. Perhaps it means they won't lose to the young'uns just yet.",
+  "kind": "desc",
+  "note": "Item name Geezers' Wand (EVENT_TEXT slice_03). Subject of the opening clause is the old folk of the name; 'these geezers' restored."
+ },
+ {
+  "en": "Anyone who sees a tonfa will wonder if such a weapon can really work. Yet the tonfa excels at both offense and defense. On attack, a slight twist of the grip suddenly extends its reach; on defense, you can take the blow head-on and easily slip inside the foe's guard.",
+  "kind": "desc"
+ },
+ {
+  "en": "A farming method devised by agri-artisan Sukebeios: growing two crops in one field in staggered seasons would surely be the best. Hailed as revolutionary, it caught many farmers' eye. In practice the fields grew ever poorer, and most failed, save three farms. Those three are the Double Crop Three.",
+  "kind": "desc",
+  "note": "New name: Sukebeios ([JP], romanized; a pun on sukebe). [JP] -> 'Double Crop Three'."
+ },
+ {
+  "en": "A prosthetic hand favored by adventurers who lost a hand to an accident or a monster. As it looks, the Pirate Pick is deadlier than a normal prosthesis. It may seem awkward, but it can hook things, and its claw even lets you cling to walls.",
+  "kind": "desc"
+ },
+ {
+  "en": "Thief of lives. This is no mere weapon. As if by its own will, the scythe kills foe after foe regardless of its wielder's wishes, and in time it reaps even its wielder's life. True to its name, the Life Stealer is a scythe that wants only to reap lives not its own.",
+  "kind": "desc"
+ },
+ {
+  "en": "A snow crystal of beautiful, balanced shape. Because it falls from the sky looking like a flower with six petals, it is called the Azure Sky Snowflake. It is rarely seen, and those who do see one are said to be showered with happiness all their lives.",
+  "kind": "desc"
+ },
+ {
+  "en": "A book indispensable to the black arts and black magic. Wherever it is placed, it gives off a faint black aura and makes its presence felt. It is said that one look inside turns even the purest heart bitter at once, until it can trust nothing at all.",
+  "kind": "desc"
+ },
+ {
+  "en": "The spike in the center is not for striking the foe. It is mainly used to disperse the force of the foe's attacks and to throw them off balance. You can deliberately make them stagger left or right, which lets you follow up with another attack at once.",
+  "kind": "desc"
+ },
+ {
+  "en": "A shield designed simply to block enemy attacks. Cheap, yet with above-average defense, it is widely used, by palace soldiers among others, and is said to be perhaps the most widely used shield on the continent.",
+  "kind": "desc"
+ },
+ {
+  "en": "You may picture this shield hanging on a noble's wall more than in an adventurer's hands. Indeed, most buyers are nobles, but it is by no means for show. Long ago, it was regarded as the finest shield for protecting kings and high-ranking knights.",
+  "kind": "desc"
+ },
+ {
+  "en": "A round piece of iron armor worn on the head. Its round shape keeps enemy blows from landing squarely, letting them glance off to the front, back or sides. It is very sturdy and reassuring, but sadly it is heavy and puts a great strain on the neck.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor made of silk and iron woven together. It is sturdy but breathes poorly, so from the head down to the chest it is always stuffy and damp. Recommended for adventurers who often stay in the back row, but please air it out and wash it often if you can.",
+  "kind": "desc"
+ },
+ {
+  "en": "When wearing this helm, it is best to pair it with heavy body armor worthy of it. That way you get defense true to its looks and seem even more intimidating to foes. But the weight becomes enormous too, so the wearer must be a very big man.",
+  "kind": "desc"
+ },
+ {
+  "en": "The hood worn by Redcaps. Its bright red stands out even from afar, so foes target it easily. Redcaps make themselves seen this way, then cut down foes who let their guard down. If you're good at such tactics too, why not try wearing it?",
+  "kind": "desc",
+  "note": "[JP] -> Redcap (monster name not yet fixed in MONSTER tables; check when translated)."
+ },
+ {
+  "en": "What will you want next? Can't guess, Blue Rain. Passersby's stares hurt. Me, I'm getting dumb and dumberrr. I can't tell what's really you, even beside you my heart spins. My eyes blur, I can't walk on. Blue Rain, blue stripes, your heart and mine in turns. Blue Rain, I'll bear it, so don't let go of my hand.",
+  "kind": "desc",
+  "note": "Song-like lyric for the Blue Rain item (blue-striped underwear per glossary). Compressed to fit 312 (311 bytes). [JP] baby-talk kept as 'dumberrr'. 'Can't guess' keeps the impersonal [JP]."
+ },
+ {
+  "en": "Armor once worn by kings, nobles and others of rank. Its defense is thus less than you'd expect, but its value is tremendous. That said, only flawless pieces without a single scratch are truly valuable. Then again, no scratch also means no one ever valued it as armor.",
+  "kind": "desc"
+ },
+ {
+  "en": "It looks like leather armor, but its defense is far beyond any leather armor's. The secret is iron plates packed inside it without the slightest gap. Since it isn't made entirely of iron, it still allows a fair degree of freedom of movement.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor you could wear straight onto a ballet stage. The first thing anyone notices is the swan's head on the crotch, and therein lies its secret. There is said to be an unspoken rule that if this head is cut off in battle, the wearer must admit defeat.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor with iron plates on the front only, favored by hunters who draw bows. The back is nearly unprotected, of course, so archers must always watch behind them. Wearing it shows trust in the front line: the enemy will never get behind you.",
+  "kind": "desc",
+  "note": "Source [JP] read as [JP] (unprotected)."
+ },
+ {
+  "en": "Armor made lavishly of dragon scales. The scales packed tightly over the torso give high defense and are said to stand up well to enemy breath. The torso draws the eye, but highly durable material is used on the arms and other parts too.",
+  "kind": "desc"
+ },
+ {
+  "en": "A reddish ore. It can be worked into weapons and armor, or turned into various items by alchemy. It is slightly softer than other ores and easily crushed to bits with a hammer or the like.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of higher grade and greater value than ordinary Dvel Soft Steel. At this grade, it becomes goods you can sell to mining towns and the like.",
+  "kind": "desc",
+  "note": "[JP] -> 'grade' as in wmap slice_06 (alchemy ore grade)."
+ },
+ {
+  "en": "An ore of even higher grade than Dvel Soft Steel +1, prized for its rarity. Hold it and you'll find it much heavier than plain Dvel Soft Steel; the stone's density differs. Even when making the same thing, the quality of the result varies greatly with the ore's grade.",
+  "kind": "desc"
+ },
+ {
+  "en": "A green ore. It can be worked into weapons and armor, or turned into various items by alchemy. The ore itself gives off cold, so it is cold and hard. For that reason, scrap unfit for alchemy is used as a cooling material.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of higher grade and greater value than ordinary Frozen Elven Iron. It is said that if it suddenly turns cold as you dig deeper into a mine, Frozen Elven Iron is close by.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of even higher grade than Frozen Elven Iron +1, prized for its rarity. If you mean to dig up lots of Frozen Elven Iron, bring a coat into the mine. It is merely cool at first, but where it clusters in large masses, the area suddenly turns as cold as winter.",
+  "kind": "desc"
+ },
+ {
+  "en": "A purple ore. It can be worked into weapons and armor, or turned into various items by alchemy. Its dark color makes it easy to miss when mining unless you look closely.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of higher grade than ordinary Vectreim, prized for its rarity. Vectreim itself gives off an aura, but the aura can only be seen when the air around it is clear.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of even higher grade than Vectreim +1, prized for its rarity. At this class, however dark its color, the light of its aura lets you find it. Before mining starts and the dust flies, it shows quite a fine gleam.",
+  "kind": "desc"
+ },
+ {
+  "en": "A light-blue ore. It can be worked into weapons and armor, or turned into various items by alchemy. As it is charged with magic power, it is often used in crafting meant to raise magic power.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of higher grade than ordinary Mazurite, prized for its rarity. Its magic power is stronger too, and it glows a quiet blue. With a mage in the party, you might be able to find it by sensing its magic power.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of even higher grade than Mazurite +1, prized for its rarity. It holds so much magic power that only a mage of real power can sense it. So at this level, all you can do is search as for any other ore and pray it turns up by chance.",
+  "kind": "desc"
+ },
+ {
+  "en": "A white ore. It can be worked into weapons and armor, or turned into various items by alchemy. Split one cleanly in two and you'll see about three layers inside. The surface is white, but the color shifts toward the core with its mineral content.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of higher grade than ordinary Tri-Layer Orat, prized for its rarity. Minerals settled in its core make all its layers tighter and more distinct. Despite the name, from about this grade it starts to split into more than three layers.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of even higher grade than Tri-Layer Orat +1, prized for its rarity. Its minerals have settled, making it easier to use. Miners play a game with it, 'Layer Guess': from the outside of an Orat that looks like scrap, they guess the number and colors of its layers.",
+  "kind": "desc"
+ },
+ {
+  "en": "A milky-white ore. It can be worked into weapons and armor, or turned into various items by alchemy. Milstone calls for the most care of any ore when digging. It is delicate and crumbles at a touch, so be extra careful when digging with a pickaxe.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of higher grade than ordinary Milstone, prized for its rarity. But it is twice as brittle, too. If you think you've hit a large Milstone vein, swing the pickaxe carefully. Sometimes you'll need to dig by hand.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of even higher grade than Milstone +1, prized for its rarity. Young miners are often lectured, 'Dig up a Milstone +2 cleanly and you're a full-fledged miner,' but in truth that makes you not merely full-fledged, but first-rate.",
+  "kind": "desc"
+ },
+ {
+  "en": "A coin bank made of wood. It can hold a small amount of money, and it can also be thrown to deal damage matching the money saved. Save a little at a time every day, and when the moment comes, it may help you in an unexpected way.",
+  "kind": "desc"
+ },
+ {
+  "en": "A coin bank made of iron. It holds more money than the Wooden Coin Bank, so throwing it promises more damage. But it also hurts your wallet, so take care not to throw it too often.",
+  "kind": "desc"
+ },
+ {
+  "en": "A ceramic piggy bank. Put money in and it goes 'oink.' Pray to defeat a foe, and it cries the gibberish 'Oink-oink, kill ya!', deals heavy damage and shatters in glory. It takes all your money with it, so if your servant holds the purse, beware.",
+  "kind": "desc"
+ },
+ {
+  "en": "\"If only I had chosen a different path back then...\" Surely everyone has thought that at some point. This medal grants that very wish. But a life chosen anew is not always a happy one. If you still want it, take a chance on this small possibility in your hand.",
+  "kind": "desc"
+ },
+ {
+  "en": "Tea leaves for brewing black tea. Brewed well, it relaxes the mind and restores a little magic power. Botch it, though, and you get tea too bitter or too weak to drink. This is one job best left to your servant.",
+  "kind": "desc"
+ },
+ {
+  "en": "A fruit packed with a mass of air. Take the air inside into your mouth and it supplies air, letting you act underwater. The amount of air depends on the materials and the alchemist's skill. A skilled alchemist using good materials makes underwater exploration easier.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mysterious gem that shows the scenery around you. The view from above appears in the gem just as if an angel were looking down at you, hence its name. Among adventurers it is called an essential item.",
+  "kind": "desc"
+ },
+ {
+  "en": "When used, it senses the surrounding space and tells you how many 'rock' blocks are on that floor. Lords everywhere first had their alchemists make them to know their lands better for war. As the technique spread and needed no more secrecy, it at last reached the common folk.",
+  "kind": "desc",
+  "note": "Item name 'Rock Counter' (ITEM slice_15, and the text counts [JP] 'rock' blocks). Note ebt slice_02 has 'Lock Counter' for the same device - inconsistent, flag for the orchestrator."
+ },
+ {
+  "en": "A bell adorned with a dove. Shake it lightly and it rings with a lovely, clear tone. Monsters hate this sound, and it is said they flee headlong when they hear it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bell adorned with a crow. Its sound is unpleasant to people but seems quite soothing to monsters. Use it to draw monsters to you. It may seem to offer little benefit, but the rare few who make a living slaying monsters prize it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mysterious brush: lightly sweep it over your map, and foes beyond the doors appear on it. Knowing foes lie in ambush, you can recover your strength and go in fully prepared. Then again, try not to despair upon learning you're surrounded.",
+  "kind": "desc"
+ },
+ {
+  "en": "Die holding these, and you'll sit up after death and walk back to where you set out, they say. Nothing is scarier, for your killer and for those you return to. With the dead really walking, ghost-story sales crashed, so 'Hundred Tales of the East' was compiled to win them back. Hang in there, booksellers.",
+  "kind": "desc",
+  "note": "[JP] -> 'Hundred Tales of the East' (new title). [JP] read as the killer and the people the dead return to."
+ },
+ {
+  "en": "It won't turn in an ordinary wind. But when a monster is before you, the pinwheel starts to spin according to the monster's strength. While it turns feebly you may still be fine, but once it starts spinning furiously, get ready to run, and fast.",
+  "kind": "desc"
+ },
+ {
+  "en": "It turns base metals into gold, grants eternal life, draws out infinite magic power... No one knew how to make it, and guesses about the Philosopher's Stone flew far and wide, but at last it has been born here. Now, what will you use its power for?",
+  "kind": "desc",
+  "note": "Item name is abbreviated 'Philos. Stone'; spelled out in the text."
+ },
+ {
+  "en": "A gauntlet that seeks to send blazing life out into the world. What sets this gauntlet aflame is not fire magic, but the 'will to live' that every living thing possesses.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sexy dress with a plunging neckline. Whoever wears it is allowed to cast off reason and live by their heart just as it is. Some say it can even let one share one's heart with the earth itself.",
+  "kind": "desc"
+ },
+ {
+  "en": "A death's scythe tends to be seen as an ill-omened weapon that brings death, but this scythe does not exist to end lives. It is a power wielded to restore things as they should be when someone appears who disturbs the law of life.",
+  "kind": "desc"
+ },
+ {
+  "en": "An oddly warped ring. You may wonder why it is so warped, but think for a moment. Tilt a cube and cast its shadow in two dimensions, and it looks warped into a rectangle or hexagon. It looks warped only in our world; to a higher being it may look beautiful and true.",
+  "kind": "desc"
+ },
+ {
+  "en": "Mysterious water that keeps circling in midair. As it never stops turning, all impurities are said to be flung out. Yet more intriguing is how it keeps turning with nothing driving it. Thanks to this near-eternal cycle, the water apparently stays young forever.",
+  "kind": "desc"
+ },
+ {
+  "en": "An indigo mantle that wraps the wearer's whole body. Its edges are hazy; they are merely unseen, and are there to the touch, they say. Most astonishing, though, is that any dirt on it vanishes instantly. Ever as good as new, this mantle is truly a tool of the gods.",
+  "kind": "desc",
+  "note": "Indigo mantle; 'tool of the gods' for [JP]."
+ },
+ {
+  "en": "'Junk' does not mean anything in particular. It might be a bucket with no bottom, or a pen that no longer writes. One person's junk may be another's priceless treasure. In short, 'junk' is just a label for things you don't need. Got it?",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that boosts elemental attack more than a plain Fire Magic Seal. As an item of fair magic power, only spellcasting classes are allowed to equip it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that boosts elemental attack more than a plain Ice Magic Seal. As an item of fair magic power, only spellcasting classes are allowed to equip it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that boosts elemental attack more than a plain Bolt Magic Seal. As an item of fair magic power, only spellcasting classes are allowed to equip it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that boosts elemental attack even more than a Fire Magic Seal +1. It holds great power, so whether you can master it depends on the owner's aptitude.",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that boosts elemental attack even more than an Ice Magic Seal +1. It holds great power, so whether you can master it depends on the owner's aptitude.",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that boosts elemental attack even more than a Bolt Magic Seal +1. It holds great power, so whether you can master it depends on the owner's aptitude.",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that brings a mage the greatest power. It is said that anyone unfit for it is burned to cinders just by touching it.",
+  "kind": "desc",
+  "note": "Seals +3: only the mage is mentioned in source for fire/ice/thunder."
+ },
+ {
+  "en": "A seal that brings a mage the greatest power. It is said that anyone unfit for it turns to an icicle and shatters just by touching it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that brings a mage the greatest power. It is said that anyone unfit for it evaporates just by touching it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Fairy-only dagger with a blade made of a special gem. The gem is cut so the blade resembles a petal, hence the name 'marquise.' To match, the grip is shaped like leaves. It is very beautiful to look at, and strong in battle as well.",
+  "kind": "desc",
+  "note": "[JP] -> Fairy (race, ebt slice_17)."
+ },
+ {
+  "en": "A blade shorter than a katana but longer than a dagger. It is used mainly for self-defense or to back up a katana. But there are said to be sword styles that make the kodachi their main weapon, and its nimble blade is not to be underestimated.",
+  "kind": "desc"
+ },
+ {
+  "en": "A weapon said to house a demon's soul. Fighting poison with poison, perhaps, it is very effective against demons. One account holds that a powerful Summoner made it through a pact with a demon.",
+  "kind": "desc",
+  "note": "[JP] -> Summoner (class)."
+ },
+ {
+  "en": "An Eastern legend tells of a princess who could not be with her love; she took up this naginata, became a yasha and burned herself with them. So the lovelorn gaze at this spear in rapture. Unleash its hidden power to relive the legend. If a companion is fond of this spear, you'd better talk it over.",
+  "kind": "desc",
+  "note": "[JP] / [JP] gender unknown -> 'her love ... with them'. [JP] kept as 'yasha'. Source calls the naginata a spear ([JP]) later; kept."
+ },
+ {
+  "en": "A bow whose limbs and string are partly reinforced, raising the range and power of its arrows. Compared with the Longbow, it promises steadier attacks.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bow built to suit expert hunters, taking in their every suggestion. It is tuned for precision over ease of handling, so beginners need not apply.",
+  "kind": "desc"
+ }
+]

@@ -1,0 +1,371 @@
+[
+ {
+  "en": "\"CON-GRAT-U-LA-TIONS! You got all three, see!\nNow you can go on to the second floor, yes!\nHooray, hooray!\"{w}{p}\"Now then...\nplease continue to enjoy Joker Land, won't you...\"{w}",
+  "kind": "msg",
+  "note": "Joker's lines end in katakana syllables (ne/yo/i) -- a sing-song clown lilt; rendered with the spelled-out CON-GRAT-U-LA-TIONS and tag words ('see', 'yes'). Second page matches row 857."
+ },
+ {
+  "en": "\"Now then...\nplease continue to enjoy Joker Land, won't you...\"{w}",
+  "kind": "msg",
+  "note": "Re-display of the second page of row 856; identical English."
+ },
+ {
+  "en": "Something is glittering on the ceiling.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Something fell down.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Joker Medal.{w}",
+  "kind": "msg",
+  "note": "Item name: Joker Medal (jokaa medaru, ITEM_PRIZ 60-62). Row 855 calls it the 'Joker Land Medal' in speech."
+ },
+ {
+  "en": "There's nothing on the ceiling anymore.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Something is written on the wall.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}*                               It's pitch dark!                               *{0F}{w}{p}{0E}*   But take a gooood look around, why don't you?    *\n*    The meda... Oops! Can't say any more than that!    *{0F}{w}",
+  "kind": "msg",
+  "note": "Wall sign framed with * and padded with spaces to about 365 px like other signs (wmap slice_06 row 444). {0E}..{0F} wraps a fresh banner here, not a re-display. Oops = established rendering of ookke/oootto (wmap slice_07 row 484)."
+ },
+ {
+  "en": "There's something lying here.{w}",
+  "kind": "msg",
+  "note": "dupes 2: generic, works wherever an item lies on the floor."
+ },
+ {
+  "en": "Baby Orc",
+  "kind": "name",
+  "note": "New name (ooku no akachan, hiragana). Gender unknown -- the baby is never given a pronoun in this slice."
+ },
+ {
+  "en": "\"WAAAAAAAAAAAH!\nAH-AAAH-WAAAAAAAH!\"{w}",
+  "kind": "msg",
+  "note": "Baby crying (ogyaa / uwaa)."
+ },
+ {
+  "en": "Troll",
+  "kind": "name",
+  "note": "dupes 7."
+ },
+ {
+  "en": "\"Would a pacifier get the kid to stop crying?{w}What am I s'posed to do...{w}It's not like they sell 'em in Joker Land...\"{w}{p}\"Oh, hey, you guys.{w}You wouldn't happen to have a pacifier... nah, guess not, huh.\"{w}{p}\"All right! Here's what we'll do.{w}You're out collecting medals anyway, right?{w}So then...\"{w}{p}\"If you bring me a pacifier,\nI'll open the door across the way for you.{w}How about it?\"{w}{p}\"I'm counting on you, all right?\"{w}",
+  "kind": "msg",
+  "note": "'the kid' avoids a pronoun for the baby. Last two pages identical to row 869."
+ },
+ {
+  "en": "\"If you bring me a pacifier,\nI'll open the door across the way for you.{w}How about it?\"{w}{p}\"I'm counting on you, all right?\"{w}",
+  "kind": "msg",
+  "note": "Re-display of the tail of row 868; identical English. yoroshiku tanomu ze = speaker asking the party: 'I'm counting on you'."
+ },
+ {
+  "en": "\"Oh, you brought one!{w}You're a lifesaver!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heeere ya go, here's your pacifier!\"{w}",
+  "kind": "msg",
+  "note": "Troll to the baby."
+ },
+ {
+  "en": "\"Abu... abu...\"{w}",
+  "kind": "msg",
+  "note": "Baby sucking/babbling sound."
+ },
+ {
+  "en": "\"...Bawling one second, all smiles the next.{w}Knows what it wants, huh.{w}Well, I'm sure the parents'll turn up sooner or later.\"{w}{p}\"The door, right?{w}There ya go, I'll open it for you!\"{w}",
+  "kind": "msg",
+  "note": "Idiom naita karasu ga mou waratta (tears to smiles in no time); genkin na mon da = 'knows what it wants' (fickle/mercenary). 'it' refers to the baby -- gender unknown."
+ },
+ {
+  "en": "\"What!?{w}You're just gonna leave a crying baby like that!?{w}What kind of heartless jerk are you!?!\"{w}",
+  "kind": "msg",
+  "note": "Refusal branch. nante yatsu da at full force."
+ },
+ {
+  "en": "Souvenir Seller",
+  "kind": "name",
+  "note": "New name (omiyageya-san). dupes 7."
+ },
+ {
+  "en": "\"Welcome, welcome!{w}You came all the way to Joker Land,\nso be sure to grab a souvenir to remember it by!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Buy a Joker Land souvenir?",
+  "kind": "data",
+  "note": "Menu prompt (186 px)."
+ },
+ {
+  "en": "Joker Bun",
+  "kind": "data",
+  "note": "New item: Joker manju (steamed bun) -> 'Joker Bun'."
+ },
+ {
+  "en": "Mud Pie",
+  "kind": "data",
+  "note": "New key item (maddo pai; ITEM_PRIZ 46, used for the Branon event -- the sweets lover of wmap slice_10)."
+ },
+ {
+  "en": "Don't buy",
+  "kind": "data"
+ },
+ {
+  "en": "A Joker Bun is\n300 GP, pal.{w}",
+  "kind": "msg",
+  "note": "Shop line with the seller's da ze; GP kept."
+ },
+ {
+  "en": "Who will eat it?",
+  "kind": "op093",
+  "note": "Character-select prompt; pattern of 'Who will pay?' (wmap slice_08 row 580)."
+ },
+ {
+  "en": "{0A:0003:0000} ate the bun.{w}{p}",
+  "kind": "msg",
+  "note": "{0A:0003:0000} = chosen character name; ends {w}{p} as in source."
+ },
+ {
+  "en": "\"Well? Tasty, wasn't it?{w}Drop by again next time you're here, okay?\nI'll be waiting!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No money, huh? Can't be helped, then.{w}Drop by again next time you're here, okay?\nI'll be waiting!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You threw it away on the sly so no one would see.{w}",
+  "kind": "msg",
+  "note": "Subject: the party (narration 'you'); likely the branch where no one is chosen to eat the bun. Seller's next line (887) doubts it was eaten."
+ },
+ {
+  "en": "\"Hm? Did you really eat it?{w}Eh, whatever. Drop by again next time you're here, okay?\nI'll be waiting!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry, we're sold out right now.{w}Drop by again next time you're here, okay?\nI'll be waiting!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A Mud Pie is\n3,000 GP, pal.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Mud Pie.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ooh, you've got a good eye, customer!{w}Those are real hard to come by, y'know?\nCome see me again. I'll be waiting!\"{w}",
+  "kind": "msg",
+  "note": "o-me ga takai = 'you've got a good eye'."
+ },
+ {
+  "en": "\"Drop by again next time you're here, okay?\nI'll be waiting!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*      Authorized personnel only beyond this point      *\n*              Joker Land Administration Office               *\n*                       Office hours: from 7 PM                       *{0F}{w}",
+  "kind": "msg",
+  "note": "Sign, framed like row 863. eigyou jikan 19-ji yori = 'Office hours: from 7 PM' (the joke of an office opening at night kept)."
+ },
+ {
+  "en": "\"Hey, you!{w}This area's off-limits to anyone but staff!\"{w}{p}\"Oh, I get it! You still haven't had enough fun, have you?{w}What a troublesome customer!{w}But...\"{w}{p}\"In that case, allow me to show you somewhere special.{w}To a fun, fuuun little treat...\"{w}{p}\"Oops, a teleporter!{w}Aaand BOOM!\"{w}",
+  "kind": "msg",
+  "note": "'Oops, a teleporter!' = Wizardry trap-message parody (oootto, terepootaa da). hai doon = 'Aaand BOOM!', used consistently for every send-off in rows 894-902. otanoshimi = 'treat' (leads to scene 92016, row 919)."
+ },
+ {
+  "en": "There's a sign here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}*                                  Clown Alley                                  *{0F}{w}",
+  "kind": "msg",
+  "note": "New place: douke no komichi -> 'Clown Alley' (a real circus term for the clowns' backstage area; komichi = lane)."
+ },
+ {
+  "en": "Hanger",
+  "kind": "name",
+  "note": "New name, from MONSTER1/MON_TEXT: a ghost hanging upside down from the ceiling -- so 'Hanger', not 'Hunger'."
+ },
+ {
+  "en": "\"Waaaugh!\nDon't just pop out at me like that!\nOh wait, I'm the one who popped out!\"{w}{p}\"So anyway, too bad for youuu!\nNo getting through heeere!{w}Aaand BOOM!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Gallery Knight",
+  "kind": "name",
+  "note": "New name (MON_TEXT: a knight living inside a painting)."
+ },
+ {
+  "en": "\"Hey, you there.{w}Yeah, yeah, you guys.\"{w}{p}\"This way, see. It's the wrong way. Wrong way.{w}Get it? Wrong way.{w}Road's blocked.\"{w}{p}\"Gonna bust through me? Bust right through me?{w}Well, that'd be a problem.{w}Aaand BOOM!\"{w}",
+  "kind": "msg",
+  "note": "hazure = losing pick / wrong route -> 'wrong way'; tousenbo = 'road's blocked'; kechirasu = 'bust through'."
+ },
+ {
+  "en": "A single troll stands there\nlike an ornament.{w}The troll stares at you in silence.{w}{p}Its huge body fills the whole passage;\nthere's no way to slip past it.{w}{p}The troll looks away from you\nand slowly raises its club.{w}",
+  "kind": "msg",
+  "note": "Narration; troll as 'it' (monster, gender not given). Present tense kept as the scene is described in the moment."
+ },
+ {
+  "en": "\"Aaand BOOM!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Outlandish clothes are strewn about.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Outlandish clothes are strewn about.{w}You found something among them.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Beard Glasses.{w}",
+  "kind": "msg",
+  "note": "Beard Glasses = hige megane (nose-and-mustache novelty glasses), as already used in wmap slice_15 row 1155."
+ },
+ {
+  "en": "Goblin Magician",
+  "kind": "name",
+  "note": "New name (goburin majishan); 'Magician' rather than glossary 'Mage' because it is a monster name, not the class. dupes 4."
+ },
+ {
+  "en": "\"Oh-ho?{w}So the theme of the new attraction is\ndestruction and entertainment, you say?\"{w}",
+  "kind": "msg",
+  "note": "Goblin Magician speaks like an old man (ja nou) -- light 'you say' / 'I'd say' flavour."
+ },
+ {
+  "en": "Vampire",
+  "kind": "name",
+  "note": "dupes 4."
+ },
+ {
+  "en": "\"Precisely.{w}We cut notches into every desk and chair,\nrigged so they split in two -- unnaturally cleanly.\"{w}{p}\"In this way, we produce a show that is safe and yet full of thrills.\"{w}{p}\"And all the bloodshed will be fake.{w}We place capsules of stage blood all over,\nso that as they play, they get bloodier and bloodier...\"{w}",
+  "kind": "msg",
+  "note": "Vampire is formal (sayou, de gozaimasu-style)."
+ },
+ {
+  "en": "\"Hmm.{w}And that is how you stoke fear and a sense of danger?{w}It wants one more twist, I'd say.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then, how might coffins suit you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you get put in a coffin... you lose?\"{w}",
+  "kind": "msg",
+  "note": "Coffins = how dead party members are shown in the genre."
+ },
+ {
+  "en": "\"Precisely.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not bad at all...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh heh heh heh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Rejected! REJECTED!\"{w}",
+  "kind": "msg",
+  "note": "botsu da botsu = scrap the idea."
+ },
+ {
+  "en": "Both",
+  "kind": "name",
+  "note": "Name box for the two planners together (futari)."
+ },
+ {
+  "en": "\"Whaaaaat!?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Deep in the labyrinth, you met a bewitching foe.{w}Intoxicating beauty, a smile that could melt you.{w}A gaze so electrifying it captivates men and women alike.{w}{p}This is a trap!{w}Your heads know it, but you just can't help yourselves.{w}Surely there's nothing to be done about it.{w}",
+  "kind": "msg",
+  "note": "Scene 92016 OTANOSIMI (the 'treat' Joker promised in row 894). nayamashii = bewitching/alluring."
+ },
+ {
+  "en": "You felt a strange warmth on your arms.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Something damp clung to your legs, too.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you went to look down at your feet,\nit appeared before your eyes of its own accord.{w}",
+  "kind": "msg",
+  "note": "mukou kara = it came to you itself; the creature (Charmy Lip) not yet named, so 'it'."
+ },
+ {
+  "en": "Charmy Lip",
+  "kind": "name",
+  "note": "New name (chaamii rippu; MON_TEXT: a pair of disembodied lips)."
+ },
+ {
+  "en": "\"Kyahaa~!\"{w}",
+  "kind": "msg",
+  "note": "Source has a star symbol; replaced with ~ (ASCII only)."
+ },
+ {
+  "en": "There is a clown doll here.{w}{p}When you drew near,\nthe doll clattered up onto its feet.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Clown Doll",
+  "kind": "name",
+  "note": "New name (doukeshi no ningyou). dupes 7."
+ },
+ {
+  "en": "\"Welcome to Joker Land!{w}Having fun? Sure you are!\"{w}{p}\"Anyway!{w}Today I've got a present for every one of you!\"{w}{p}\"Now, now, don't run off, don't mope!{w}I'll even let you pick!{w}Man, I'm just SO nice!!\"{w}",
+  "kind": "msg",
+  "note": "omae ni mo sentakuken wa kurete yaru = 'I'll even let you pick'."
+ },
+ {
+  "en": "\"C'mon, c'mon! Pick one! Ch-o-o-ose~?\"",
+  "kind": "data",
+  "note": "Menu prompt (268 px). e-ra-ve (silly drawn-out 'choose')."
+ },
+ {
+  "en": "Sleepy Flash",
+  "kind": "data",
+  "note": "Flash names: nemunemu/konran/buruburu/dokudoku -> Sleepy/Confusion/Shivery/Poison Flash. Slice_012 row 936 shouts the Poison one (dokudoku-u~ furaaaashu) -- should read e.g. 'Poiiison FLAAAASH!!'."
+ },
+ {
+  "en": "\"Ain't no such thing.\"{w}",
+  "kind": "msg",
+  "note": "Katakana nai -> flat 'Ain't'."
+ },
+ {
+  "en": "Confusion Flash",
+  "kind": "data"
+ },
+ {
+  "en": "\"Whaaat? I can't heeear you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Shivery Flash",
+  "kind": "data",
+  "note": "buruburu = trembling with fear; the doll's reply (934) is about 'just scaring' you."
+ },
+ {
+  "en": "\"Just scaring you? That's nowhere near enough, is it!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Poison Flash",
+  "kind": "data",
+  "note": "Correct pick -- slice_012 row 936 follows."
+ }
+]

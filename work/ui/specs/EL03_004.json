@@ -1,0 +1,587 @@
+{
+ "gim": "ANIME/EL03_004.GIM",
+ "note": "Place/topic buttons (selected / normal / disabled columns, 114px each; rows y=0,20,40,60; same button style and text colours as EL02_001). Reference row = Small Talk (y=60), cleaned by blitting its own clean background from x+44; other rows get x+12..x+110 blitted from it (incl. right-hand swirl). Text kept in x+14..x+90 (left of the swirl). Digits, L/R and icon sprites have no Japanese and are untouched.",
+ "erase": [
+  [
+   12,
+   60,
+   44,
+   78,
+   "blit:44,60"
+  ],
+  [
+   126,
+   60,
+   158,
+   78,
+   "blit:158,60"
+  ],
+  [
+   240,
+   60,
+   272,
+   78,
+   "blit:272,60"
+  ],
+  [
+   12,
+   0,
+   110,
+   18,
+   "blit:12,60"
+  ],
+  [
+   12,
+   20,
+   110,
+   38,
+   "blit:12,60"
+  ],
+  [
+   12,
+   40,
+   110,
+   58,
+   "blit:12,60"
+  ],
+  [
+   126,
+   0,
+   224,
+   18,
+   "blit:126,60"
+  ],
+  [
+   126,
+   20,
+   224,
+   38,
+   "blit:126,60"
+  ],
+  [
+   126,
+   40,
+   224,
+   58,
+   "blit:126,60"
+  ],
+  [
+   240,
+   0,
+   338,
+   18,
+   "blit:240,60"
+  ],
+  [
+   240,
+   20,
+   338,
+   38,
+   "blit:240,60"
+  ],
+  [
+   240,
+   40,
+   338,
+   58,
+   "blit:240,60"
+  ]
+ ],
+ "labels": [
+  {
+   "rect": [
+    14,
+    0,
+    18,
+    18
+   ],
+   "jp": "彩色回廊",
+   "en": "Col",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "note": "part 1 of 'Col. Corridor' (16px spacing 0, hand-set gaps [1, 4]; period would merge with 'l' otherwise)",
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    33,
+    0,
+    2,
+    18
+   ],
+   "jp": "",
+   "en": ".",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "note": "part 2 of 'Col. Corridor' (16px spacing 0, hand-set gaps [1, 4]; period would merge with 'l' otherwise)",
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    39,
+    0,
+    51,
+    18
+   ],
+   "jp": "",
+   "en": "Corridor",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "note": "part 3 of 'Col. Corridor' (16px spacing 0, hand-set gaps [1, 4]; period would merge with 'l' otherwise)",
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    20,
+    80,
+    18
+   ],
+   "jp": "記録された歴史",
+   "en": "Rec. History",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    40,
+    80,
+    18
+   ],
+   "jp": "奥の扉",
+   "en": "Inner Door",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    60,
+    80,
+    18
+   ],
+   "jp": "雑談",
+   "en": "Small Talk",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    128,
+    0,
+    18,
+    18
+   ],
+   "jp": "彩色回廊",
+   "en": "Col",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "note": "part 1 of 'Col. Corridor' (16px spacing 0, hand-set gaps [1, 4]; period would merge with 'l' otherwise)",
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    13,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    147,
+    0,
+    2,
+    18
+   ],
+   "jp": "",
+   "en": ".",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "note": "part 2 of 'Col. Corridor' (16px spacing 0, hand-set gaps [1, 4]; period would merge with 'l' otherwise)",
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    13,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    153,
+    0,
+    51,
+    18
+   ],
+   "jp": "",
+   "en": "Corridor",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "note": "part 3 of 'Col. Corridor' (16px spacing 0, hand-set gaps [1, 4]; period would merge with 'l' otherwise)",
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    13,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    20,
+    80,
+    18
+   ],
+   "jp": "記録された歴史",
+   "en": "Rec. History",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    13,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    40,
+    80,
+    18
+   ],
+   "jp": "奥の扉",
+   "en": "Inner Door",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    13,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    60,
+    80,
+    18
+   ],
+   "jp": "雑談",
+   "en": "Small Talk",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    13,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    242,
+    0,
+    18,
+    18
+   ],
+   "jp": "彩色回廊",
+   "en": "Col",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "note": "part 1 of 'Col. Corridor' (16px spacing 0, hand-set gaps [1, 4]; period would merge with 'l' otherwise)",
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    261,
+    0,
+    2,
+    18
+   ],
+   "jp": "",
+   "en": ".",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "note": "part 2 of 'Col. Corridor' (16px spacing 0, hand-set gaps [1, 4]; period would merge with 'l' otherwise)",
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    267,
+    0,
+    51,
+    18
+   ],
+   "jp": "",
+   "en": "Corridor",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "note": "part 3 of 'Col. Corridor' (16px spacing 0, hand-set gaps [1, 4]; period would merge with 'l' otherwise)",
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    20,
+    80,
+    18
+   ],
+   "jp": "記録された歴史",
+   "en": "Rec. History",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    40,
+    80,
+    18
+   ],
+   "jp": "奥の扉",
+   "en": "Inner Door",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    60,
+    80,
+    18
+   ],
+   "jp": "雑談",
+   "en": "Small Talk",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  }
+ ]
+}

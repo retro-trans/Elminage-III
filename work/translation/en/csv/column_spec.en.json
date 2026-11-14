@@ -1,0 +1,5299 @@
+{
+ "BGM_NAME.CSV": [
+  {
+   "col": 5,
+   "rows": [
+    4,
+    39
+   ],
+   "kind": "name",
+   "note": "BGM display title (header 表示名, ruler 10 full-width chars); cols 3/4/6/7 are designer item/label/previous-title/condition",
+   "max": 22
+  }
+ ],
+ "CHR.CSV": [
+  {
+   "col": 4,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 12
+  },
+  {
+   "col": 5,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 12
+  },
+  {
+   "col": 6,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 12
+  },
+  {
+   "col": 7,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 10
+  },
+  {
+   "col": 8,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 12
+  },
+  {
+   "col": 9,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 14
+  },
+  {
+   "col": 10,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 16
+  },
+  {
+   "col": 11,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 16
+  },
+  {
+   "col": 12,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 10
+  },
+  {
+   "col": 13,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 16
+  },
+  {
+   "col": 14,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 14
+  },
+  {
+   "col": 15,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 10
+  },
+  {
+   "col": 16,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 18
+  },
+  {
+   "col": 17,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 12
+  },
+  {
+   "col": 18,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 18
+  },
+  {
+   "col": 19,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 10
+  },
+  {
+   "col": 20,
+   "rows": [
+    5,
+    6
+   ],
+   "kind": "name",
+   "note": "sample roster character: row5 name, row6 nickname; likely debug/sample data, low priority",
+   "max": 12
+  }
+ ],
+ "CHRTMPLT.CSV": [],
+ "DGN_NAME.CSV": [
+  {
+   "col": 1,
+   "rows": [
+    3,
+    69
+   ],
+   "kind": "name",
+   "note": "dungeon name; 61/62 also in EBOOT -> translate via shared dictionary; row 69 is a test dungeon",
+   "max": 18
+  },
+  {
+   "col": 2,
+   "rows": [
+    3,
+    69
+   ],
+   "kind": "name",
+   "note": "floor name (1F, B1F, named areas); row 69 test",
+   "max": 12
+  }
+ ],
+ "DGN_SET.CSV": [
+  {
+   "col": 1,
+   "rows": [
+    3,
+    20
+   ],
+   "kind": "key?",
+   "note": "dungeon start settings, row label = dungeon name (16/18 equal DGN_NAME col1, 16/18 in EBOOT); probably designer label; translate via shared dictionary",
+   "max": 16
+  }
+ ],
+ "EL_KIRO.CSV": [
+  {
+   "col": 3,
+   "rows": [
+    4,
+    24
+   ],
+   "kind": "name",
+   "note": "Recorded History list display name (boss names); 21/21 in EBOOT -> translate via shared dictionary; col2 is designer content description",
+   "max": 24
+  }
+ ],
+ "EL_SAI.CSV": [
+  {
+   "col": 3,
+   "rows": [
+    4,
+    26
+   ],
+   "kind": "name",
+   "note": "Colored Corridor (gallery) list display name; col2 is designer description",
+   "max": 22
+  }
+ ],
+ "EL_TALK.CSV": [
+  {
+   "col": 3,
+   "rows": [
+    4,
+    11
+   ],
+   "kind": "name",
+   "note": "conversation topic list display name; 7/8 in EBOOT -> translate via shared dictionary",
+   "max": 18
+  }
+ ],
+ "EMPLOY.CSV": [],
+ "EVENT_TEXT.CSV": [
+  {
+   "col": 2,
+   "rows": [
+    1,
+    60
+   ],
+   "kind": "name",
+   "note": "event/quest name (header ruler 12 full-width chars)",
+   "max": 22
+  },
+  {
+   "col": 6,
+   "rows": [
+    1,
+    60
+   ],
+   "kind": "desc",
+   "note": "event list text, multi-line (ruler 14 full-width chars per line)",
+   "max": 260
+  },
+  {
+   "col": 7,
+   "rows": [
+    1,
+    60
+   ],
+   "kind": "desc",
+   "note": "Molder board entry: mostly \"モルダー：<event name>\", 8 rows are full multi-line messages (ruler 14 chars/line)",
+   "max": 151
+  },
+  {
+   "col": 8,
+   "rows": [
+    1,
+    60
+   ],
+   "kind": "desc",
+   "note": "Molder hint text, multi-line (ruler 14 chars/line); price in col9",
+   "max": 242
+  }
+ ],
+ "EXP.CSV": [],
+ "FOGBGCOL.CSV": [],
+ "FOGCOLOR.CSV": [],
+ "HELP_TEXT.CSV": [
+  {
+   "col": 10,
+   "rows": [
+    4,
+    457
+   ],
+   "kind": "help",
+   "note": "PSP help line (col9 is the DS version, skip); rows 60 and 442-457 are marked 仕様削除 (spec deleted) in col7 -> low priority",
+   "max": 158
+  }
+ ],
+ "ITEM.CSV": [
+  {
+   "col": 4,
+   "rows": [
+    8,
+    718
+   ],
+   "kind": "name",
+   "note": "item name (ruler 10 full-width chars = 20 bytes); row 8 = (no setting), 717-718 reserve",
+   "max": 20
+  },
+  {
+   "col": 5,
+   "rows": [
+    9,
+    713
+   ],
+   "kind": "key?",
+   "note": "unidentified item name (?Sword etc.), 36 unique, 566/702 in EBOOT; displayed but likely matched/duplicated by program -> translate via shared dictionary",
+   "max": 10
+  }
+ ],
+ "ITEM_DEF.CSV": [],
+ "ITEM_HELP.CSV": [
+  {
+   "col": 1,
+   "rows": [
+    5,
+    702
+   ],
+   "kind": "key?",
+   "note": "item name mirror (row label for designers, same strings as ITEM col4); translate via shared dictionary",
+   "max": 20
+  },
+  {
+   "col": 3,
+   "rows": [
+    13,
+    680
+   ],
+   "kind": "help",
+   "note": "item use-effect help text, 55 rows (ruler row 4); ~67 bytes",
+   "max": 67
+  }
+ ],
+ "ITEM_PRIZ.CSV": [
+  {
+   "col": 3,
+   "rows": [
+    4,
+    70
+   ],
+   "kind": "name",
+   "note": "valuable/event item name; 13/67 in EBOOT; cols 4/6/7/8/10/11 are designer notes",
+   "max": 18
+  }
+ ],
+ "ITEM_TEXT.CSV": [
+  {
+   "col": 1,
+   "rows": [
+    1,
+    705
+   ],
+   "kind": "desc",
+   "note": "item description (ruler row 0 = 12 full-width chars/line); lazily loaded",
+   "max": 312
+  },
+  {
+   "col": 2,
+   "rows": [
+    1,
+    710
+   ],
+   "kind": "key?",
+   "note": "item name mirror (708/710 equal col7); translate via shared dictionary",
+   "max": 20
+  },
+  {
+   "col": 7,
+   "rows": [
+    1,
+    710
+   ],
+   "kind": "key?",
+   "note": "item name mirror (second copy); translate via shared dictionary",
+   "max": 20
+  }
+ ],
+ "JOBABL.CSV": [
+  {
+   "col": 3,
+   "rows": [
+    6,
+    21
+   ],
+   "kind": "key?",
+   "note": "job name, 13/14 in EBOOT (col4 already holds English job names); row-2 ability headers are designer labels",
+   "max": 8
+  }
+ ],
+ "JOB_EX.CSV": [
+  {
+   "col": 2,
+   "rows": [
+    4,
+    113
+   ],
+   "kind": "name",
+   "note": "skill/ability name (ruler 8 full-width chars = 16 bytes; max 21); also matched by JOB_LIST col4 -> translate via shared dictionary",
+   "max": 18
+  },
+  {
+   "col": 3,
+   "rows": [
+    4,
+    113
+   ],
+   "kind": "desc",
+   "note": "skill effect description; many rows are (リザーブ); the 51 real descriptions are NOT resident in RAM after boot -> possibly designer-only, verify before spending effort",
+   "max": 88
+  },
+  {
+   "col": 23,
+   "rows": [
+    12,
+    113
+   ],
+   "kind": "label",
+   "note": "battle/camp command list name; 28/31 in EBOOT -> translate via shared dictionary",
+   "max": 16
+  }
+ ],
+ "JOB_LIST.CSV": [
+  {
+   "col": 2,
+   "rows": [
+    5,
+    115
+   ],
+   "kind": "key?",
+   "note": "battle command list (names = JOB_EX col23, 24/25 in EBOOT)",
+   "max": 16
+  },
+  {
+   "col": 3,
+   "rows": [
+    20,
+    102
+   ],
+   "kind": "key?",
+   "note": "camp command list (names in EBOOT/JOB_EX)",
+   "max": 8
+  },
+  {
+   "col": 4,
+   "rows": [
+    5,
+    115
+   ],
+   "kind": "key?",
+   "note": "related skill = JOB_EX col2 name (99/107 match)",
+   "max": 18
+  }
+ ],
+ "KIROKU.CSV": [
+  {
+   "col": 1,
+   "rows": [
+    2,
+    22
+   ],
+   "kind": "label",
+   "note": "record title line 1 (\"第 NN の記録\")",
+   "max": 12
+  },
+  {
+   "col": 2,
+   "rows": [
+    2,
+    22
+   ],
+   "kind": "name",
+   "note": "record line 2 (boss name); 20/20 in EBOOT -> translate via shared dictionary",
+   "max": 24
+  }
+ ],
+ "MONAPP.CSV": [],
+ "MONRAW.CSV": [],
+ "MONSTER1.CSV": [
+  {
+   "col": 4,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 5,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 6,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 7,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 8,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 9,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 10,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 11,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 12,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 13,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 14,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 15,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 16,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 17,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 18,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 19,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 20,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 21,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 22,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 23,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 24,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 25,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 26,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 27,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 28,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 29,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 30,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 31,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 32,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 33,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 34,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 35,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 36,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 37,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 38,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 39,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 40,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 41,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 42,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 43,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 44,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 45,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 46,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 47,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 48,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 49,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 50,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 51,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 52,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 53,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 54,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 55,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 56,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 57,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 58,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 59,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 60,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 61,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 62,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 63,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 64,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 65,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 66,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 67,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 68,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 69,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 70,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 71,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 72,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 73,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 22
+  },
+  {
+   "col": 74,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 75,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 76,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 22
+  },
+  {
+   "col": 77,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 78,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 24
+  },
+  {
+   "col": 79,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 80,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 81,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 82,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 83,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 84,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 85,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 86,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 87,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 88,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 89,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 90,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 91,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 92,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 93,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 94,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 95,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 96,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 97,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 98,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 99,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 100,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 101,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 102,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 103,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 104,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 105,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 106,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 107,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 108,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 109,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 110,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 6
+  },
+  {
+   "col": 111,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 112,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 113,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 114,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 115,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 116,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 117,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 118,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 119,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 120,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 121,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 122,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 123,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 124,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 125,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 126,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 127,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 128,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 129,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 130,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 131,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 132,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 133,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 134,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 135,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 136,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 137,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 138,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 139,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 140,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 141,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 142,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 143,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 144,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 145,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 146,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 147,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 148,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 149,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 150,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 151,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 152,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 153,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 154,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 155,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  }
+ ],
+ "MONSTER2.CSV": [
+  {
+   "col": 4,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 5,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 6,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 7,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 8,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 9,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 10,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 11,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 12,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 13,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 14,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 15,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 16,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 17,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 18,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 19,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 20,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 24
+  },
+  {
+   "col": 21,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 24
+  },
+  {
+   "col": 22,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 23,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 24
+  },
+  {
+   "col": 24,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 24
+  },
+  {
+   "col": 25,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 26,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 27,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 28,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 24
+  },
+  {
+   "col": 29,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 24
+  },
+  {
+   "col": 30,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 31,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 32,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 33,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 34,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 35,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 36,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 37,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 38,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 6
+  },
+  {
+   "col": 39,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 40,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 41,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 24
+  },
+  {
+   "col": 42,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 24
+  },
+  {
+   "col": 43,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 44,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 45,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 24
+  },
+  {
+   "col": 46,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 24
+  },
+  {
+   "col": 47,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 48,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 49,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 50,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 51,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 24
+  },
+  {
+   "col": 52,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 24
+  },
+  {
+   "col": 53,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 54,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 55,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 56,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 57,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 58,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 59,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 60,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 61,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 62,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 63,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 64,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 65,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 66,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 67,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 68,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 69,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 70,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 71,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 72,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 73,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 74,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 75,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 6
+  },
+  {
+   "col": 76,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 77,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 78,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 79,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 80,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 81,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 82,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 83,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 84,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 85,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 86,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 87,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 88,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 89,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 90,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 91,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 92,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 93,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 94,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 95,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 96,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 97,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 98,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 99,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 100,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 101,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 102,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 103,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 104,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 105,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 106,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 22
+  },
+  {
+   "col": 107,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 108,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 109,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 110,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 111,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 112,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 113,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  }
+ ],
+ "MONSTER3.CSV": [
+  {
+   "col": 4,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 5,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 6,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 7,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 8,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 9,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 10,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 11,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 12,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 13,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 14,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 15,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 16,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 17,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 18,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 19,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 20,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 21,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 22
+  },
+  {
+   "col": 22,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 23,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 24
+  },
+  {
+   "col": 24,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 25,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 26,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 27,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 28,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 29,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 30,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 31,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 32,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 33,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 34,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 35,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 36,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 37,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 22
+  },
+  {
+   "col": 38,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 39,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 40,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 41,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 42,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 43,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 44,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 45,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 46,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 47,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 48,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 49,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 50,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 51,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 52,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 53,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 54,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 55,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 56,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 57,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 58,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 59,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 60,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 61,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 62,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 63,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 64,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 65,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 66,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 67,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 68,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 69,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 70,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 71,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 72,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 73,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 74,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 75,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 6
+  },
+  {
+   "col": 76,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 77,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 78,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 79,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 80,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 81,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 82,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 83,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 6
+  },
+  {
+   "col": 84,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 6
+  },
+  {
+   "col": 85,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 86,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 87,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 88,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 89,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 90,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 91,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 92,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 93,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 94,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 95,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 96,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 97,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 98,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 99,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 100,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 101,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 102,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 103,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 104,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 8
+  },
+  {
+   "col": 105,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 106,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 18
+  },
+  {
+   "col": 107,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 108,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 109,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 110,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 111,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 112,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 113,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 114,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 115,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 116,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 117,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 118,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 119,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 120,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 121,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 122,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 123,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 124,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 10
+  },
+  {
+   "col": 125,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 20
+  },
+  {
+   "col": 126,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 12
+  },
+  {
+   "col": 127,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 14
+  },
+  {
+   "col": 128,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  },
+  {
+   "col": 129,
+   "rows": [
+    6,
+    8
+   ],
+   "kind": "name",
+   "note": "monster: row6 name, row7 nickname (short/kana form), row8 epithet (二つ名)",
+   "max": 16
+  }
+ ],
+ "MON_TEXT.CSV": [
+  {
+   "col": 1,
+   "rows": [
+    2,
+    394
+   ],
+   "kind": "desc",
+   "note": "monster/NPC bestiary description (ruler row 0 = 12 full-width chars/line); lazily loaded",
+   "max": 312
+  },
+  {
+   "col": 2,
+   "rows": [
+    2,
+    394
+   ],
+   "kind": "key?",
+   "note": "monster name mirror (365 index-aligned with MONSTER1-3 row 6); translate via shared dictionary",
+   "max": 24
+  }
+ ],
+ "MSP_TEXT.CSV": [
+  {
+   "col": 1,
+   "rows": [
+    4,
+    8
+   ],
+   "kind": "key?",
+   "note": "monster name (mirror of MONSTER names)",
+   "max": 18
+  },
+  {
+   "col": 2,
+   "rows": [
+    4,
+    8
+   ],
+   "kind": "key?",
+   "note": "item name (mirror of ITEM names)",
+   "max": 14
+  },
+  {
+   "col": 3,
+   "rows": [
+    4,
+    8
+   ],
+   "kind": "desc",
+   "note": "description, but every row is the placeholder 説明テキスト; probably unused",
+   "max": 12
+  }
+ ],
+ "PARTY.CSV": [],
+ "PLACE_NM.CSV": [
+  {
+   "col": 3,
+   "rows": [
+    4,
+    30
+   ],
+   "kind": "name",
+   "note": "top-right location name (ruler 8 full-width chars = 16 bytes); col2 is a designer copy with C comments",
+   "max": 16
+  }
+ ],
+ "PLAYER.CSV": [
+  {
+   "col": 4,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 10
+  },
+  {
+   "col": 5,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 6,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 12
+  },
+  {
+   "col": 7,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 16
+  },
+  {
+   "col": 8,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 12
+  },
+  {
+   "col": 9,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 12
+  },
+  {
+   "col": 10,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 16
+  },
+  {
+   "col": 11,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 10
+  },
+  {
+   "col": 12,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 16
+  },
+  {
+   "col": 13,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 10
+  },
+  {
+   "col": 14,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 12
+  },
+  {
+   "col": 15,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 16,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 17,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 18,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 19,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 12
+  },
+  {
+   "col": 20,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 16
+  },
+  {
+   "col": 21,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 16
+  },
+  {
+   "col": 22,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 12
+  },
+  {
+   "col": 23,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 12
+  },
+  {
+   "col": 24,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 25,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 26,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 27,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 12
+  },
+  {
+   "col": 28,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 29,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 30,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 31,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 16
+  },
+  {
+   "col": 32,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 8
+  },
+  {
+   "col": 33,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 18
+  },
+  {
+   "col": 34,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 10
+  },
+  {
+   "col": 35,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 12
+  },
+  {
+   "col": 36,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 8
+  },
+  {
+   "col": 37,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 8
+  },
+  {
+   "col": 38,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 8
+  },
+  {
+   "col": 39,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 8
+  },
+  {
+   "col": 40,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 8
+  },
+  {
+   "col": 41,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 10
+  },
+  {
+   "col": 42,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 10
+  },
+  {
+   "col": 43,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 8
+  },
+  {
+   "col": 44,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 8
+  },
+  {
+   "col": 45,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 46,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 47,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 12
+  },
+  {
+   "col": 48,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 12
+  },
+  {
+   "col": 49,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 50,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 51,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 16
+  },
+  {
+   "col": 52,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 16
+  },
+  {
+   "col": 53,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 54,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 55,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 8
+  },
+  {
+   "col": 56,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 8
+  },
+  {
+   "col": 57,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 8
+  },
+  {
+   "col": 58,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 8
+  },
+  {
+   "col": 59,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 10
+  },
+  {
+   "col": 60,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 10
+  },
+  {
+   "col": 111,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  },
+  {
+   "col": 112,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 16
+  },
+  {
+   "col": 113,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 6
+  },
+  {
+   "col": 114,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 10
+  },
+  {
+   "col": 115,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 16
+  },
+  {
+   "col": 116,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 12
+  },
+  {
+   "col": 117,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 12
+  },
+  {
+   "col": 118,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 10
+  },
+  {
+   "col": 119,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 12
+  },
+  {
+   "col": 120,
+   "rows": [
+    6,
+    9
+   ],
+   "kind": "name",
+   "note": "guest/premade character: row6 name, row7 nickname (short), row8 epithet, row9 personality comment",
+   "max": 14
+  }
+ ],
+ "RENKIN_TXT.CSV": [
+  {
+   "col": 1,
+   "rows": [
+    1,
+    10
+   ],
+   "kind": "name",
+   "note": "alchemy shop list heading (item name)",
+   "max": 14
+  },
+  {
+   "col": 3,
+   "rows": [
+    1,
+    10
+   ],
+   "kind": "desc",
+   "note": "alchemy item text, multi-line (ruler 14 full-width chars/line)",
+   "max": 260
+  }
+ ],
+ "ROUTINE.CSV": [
+  {
+   "col": 2,
+   "rows": [
+    4,
+    67
+   ],
+   "kind": "label",
+   "note": "action routine name; 35/65 in EBOOT; visibility uncertain (may be debug/AI setting menu); col4 is designer notes",
+   "max": 28
+  }
+ ],
+ "SPELL.CSV": [
+  {
+   "col": 1,
+   "rows": [
+    9,
+    118
+   ],
+   "kind": "key?",
+   "note": "spell school (魔術師/僧侶/錬金術/召喚師/敵専用), 94/110 in EBOOT",
+   "max": 6
+  },
+  {
+   "col": 3,
+   "rows": [
+    9,
+    118
+   ],
+   "kind": "name",
+   "note": "spell name (header: up to 12 chars); master copy, SPELL_TEXT col3 must stay identical -> translate via shared dictionary",
+   "max": 20
+  }
+ ],
+ "SPELL_TEXT.CSV": [
+  {
+   "col": 1,
+   "rows": [
+    5,
+    98
+   ],
+   "kind": "key?",
+   "note": "spell school, 94/94 in EBOOT",
+   "max": 6
+  },
+  {
+   "col": 3,
+   "rows": [
+    5,
+    98
+   ],
+   "kind": "name",
+   "note": "spell name (94/94 equal SPELL col3) -> translate via shared dictionary",
+   "max": 16
+  },
+  {
+   "col": 4,
+   "rows": [
+    5,
+    98
+   ],
+   "kind": "help",
+   "note": "spell help text (ruler row 4); max 76 bytes",
+   "max": 76
+  }
+ ],
+ "SPLEARN.CSV": [
+  {
+   "col": 4,
+   "rows": [
+    6,
+    99
+   ],
+   "kind": "key?",
+   "note": "spell/skill name mirror (87/94 in SPELL col3); designer row label",
+   "max": 24
+  },
+  {
+   "col": 23,
+   "rows": [
+    6,
+    99
+   ],
+   "kind": "key?",
+   "note": "learning stat (知恵/信仰心/なし), 46/73 in EBOOT",
+   "max": 8
+  }
+ ],
+ "SPMP.CSV": [],
+ "SP_TEXT.CSV": [
+  {
+   "col": 4,
+   "rows": [
+    5,
+    111
+   ],
+   "kind": "desc",
+   "note": "SP effect result message (ruler 20 full-width chars = 40 bytes)",
+   "max": 38
+  },
+  {
+   "col": 5,
+   "rows": [
+    40,
+    108
+   ],
+   "kind": "desc",
+   "note": "SP effect failure message (max 40 bytes)",
+   "max": 40
+  }
+ ],
+ "TAROT_TEXT.CSV": [
+  {
+   "col": 1,
+   "rows": [
+    4,
+    25
+   ],
+   "kind": "name",
+   "note": "tarot card name; 17/18 in EBOOT -> translate via shared dictionary",
+   "max": 10
+  },
+  {
+   "col": 3,
+   "rows": [
+    4,
+    25
+   ],
+   "kind": "desc",
+   "note": "tarot effect text (ruler 14 full-width chars = 28 bytes)",
+   "max": 26
+  }
+ ],
+ "TENKI.CSV": [],
+ "TRAP.CSV": [
+  {
+   "col": 2,
+   "rows": [
+    4,
+    19
+   ],
+   "kind": "name",
+   "note": "trap name; 15/16 in EBOOT -> translate via shared dictionary (could also be a key); cols 3/4/6 are designer effect/target/damage notes",
+   "max": 20
+  }
+ ],
+ "TREASURE.CSV": [],
+ "WARP_SCP.CSV": []
+}

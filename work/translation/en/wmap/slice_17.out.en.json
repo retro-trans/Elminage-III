@@ -1,0 +1,358 @@
+[
+ {
+  "en": "\"And Council Chair Wattner happened to see it...{w}Until just the other day, I was demoted to the provinces.{w}",
+  "kind": "msg",
+  "note": "Mayleen continues row 1279: she yelled at a rude adventurer and Wattner saw it. 'Left-sen' = demoted/sent off to a provincial post."
+ },
+ {
+  "en": "{0E}\"And Council Chair Wattner happened to see it...\nUntil just the other day, I was demoted to the provinces.{0F}\n'The short-tempered have no place in the capital,' I was told.\"{w}{p}\"It's the capital, so I do understand that...{w}But what is so wrong with research for the good of the land!?\"{w}",
+  "kind": "msg",
+  "note": "Chuuou = the central government/capital; rendered 'the capital'. Nested quote from Wattner set in single quotes."
+ },
+ {
+  "en": "\"And besides, all that 'egghead, egghead' --\nwhat exactly is wrong with that?\"{w}{p}\"That word might be a compliment, if anything,\nbut it could never be an insult.........Excuse me.\"{w}",
+  "kind": "msg",
+  "note": "Interi ('intellectual') was evidently the rude adventurer's jibe; rendered 'egghead' so it reads as an insult she insists is a compliment."
+ },
+ {
+  "en": "\"You're right,{w}not everyone is the same, are they?\"{w}",
+  "kind": "msg",
+  "note": "Reply to an unseen player choice/remark (likely that not all adventurers are like that one)."
+ },
+ {
+  "en": "\"Thank you so very much.{w}With this, I can take far more accurate measurements.{w}If you ever want to know the weather, just say so.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, but I will be charging a fee for use of the facility.{w}I never mix business with personal matters.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}  * You can now control the weather *{0F}{w}",
+  "kind": "msg",
+  "note": "System notice; format follows the existing '* ... now in stock *' line."
+ },
+ {
+  "en": "\"I have every confidence in my research.{w}Whenever you want to know the weather, ask me any time.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"I have every confidence in my research.\nWhenever you want to know the weather, ask me any time.{0F}\nThough I will charge the facility fee.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah... and one more thing: watch out for storms.{w}Tornadoes only occur in certain places, but{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Ah... and one more thing: watch out for storms.\nTornadoes only occur in certain places, but{0F}\nthey can easily blow a person away.\"{w}{p}\"...I do worry about you, a little.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is it?\nThis has nothing to do with adventurers.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's still being prepared.\"{w}{p}\"I expect it will be finished\nby the time you're back from Teridon.\"{w}",
+  "kind": "msg",
+  "note": "Teridon = TERIDON (town TRD); new name."
+ },
+ {
+  "en": "\n{0E}  * The weather is now {0C:0001:0001} *{0F}{w}",
+  "kind": "msg",
+  "note": "Insert shows one of rows 1294-1297, so those are adjectives (Clear/Cloudy/Rainy/Stormy) to read 'The weather is now Rainy'."
+ },
+ {
+  "en": "Clear",
+  "kind": "data",
+  "note": "Weather name, also inserted into row 1293."
+ },
+ {
+  "en": "Cloudy",
+  "kind": "data"
+ },
+ {
+  "en": "Rainy",
+  "kind": "data",
+  "note": "Source has a trailing full-width pad space; dropped."
+ },
+ {
+  "en": "Stormy",
+  "kind": "data",
+  "note": "Source has a trailing full-width pad space; dropped."
+ },
+ {
+  "en": "\"Oh? Haven't seen your mugs around before.{w}First time in this town? Yeah? Great!{w}Well, ain't that convenient...\"{w}",
+  "kind": "msg",
+  "note": "Speaker shown as ???? (Zonette before introduction)."
+ },
+ {
+  "en": "Zonette",
+  "kind": "name"
+ },
+ {
+  "en": "\"Whoops, I'm Zonette!{w}Nice. Ta. Meet. Ya!\"{w}{p}\"Okay, let's get right to it! I need a favor.{w}See, the thing is...\"{w}",
+  "kind": "msg",
+  "note": "Yo-ro-shi-ku spelled out syllable by syllable; rendered with full stops between words."
+ },
+ {
+  "en": "Molder",
+  "kind": "name"
+ },
+ {
+  "en": "\"What are you doing, Zonette?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ugh, Molder.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're not{w}up to some scheme again, are you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nah, I was helpin' these folks find somebody.{w}Right?\"{w}{p}\"Sorry, nope,{w}ain't seen anybody with a robe over their head,{w}ain't seen any weirdo like that, nope.\"{w}",
+  "kind": "msg",
+  "note": "Zonette fakes a conversation with the party to fool Molder; the robed person is invented (Molder later learns it was a lie)."
+ },
+ {
+  "en": "\"Oh, perfect timing!{w}Why, here's the honorable Captain of the Guard!\"{w}{p}\"Try askin' this one here!{w}Well, I got stuff to do, so later!\"{w}",
+  "kind": "msg",
+  "note": "Koitsu = Molder; 'this one' avoids a gendered 'guy' (Molder's gender is unknown in the glossary). Keibiheichou = Captain of the Guard."
+ },
+ {
+  "en": "\"Zonette, what stuff? Hey, wait!{w}Ah... you there,{w}just to be sure, you're looking for someone?\"{w}{p}\"...No?{w}Damn it, fooled again!\nZONETTE!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mmf, nom... mm, this is good.{w}",
+  "kind": "msg",
+  "note": "Zonette is eating the stall food Molder accuses her of stealing in row 1311."
+ },
+ {
+  "en": "{0E}\"Mmf, nom... mm, this is good.{0F}\nYo! We meet again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Oh!{w}You can have the rest! Don't leave any, got it?{w}See ya!!\"{w}",
+  "kind": "msg",
+  "note": "Zonette spots Molder coming and dumps the stolen food on the party."
+ },
+ {
+  "en": "\"Huff... huff... Oh, you there,{w}have you seen someone named Zonette!?{w}That thief swiped goods from a stall!\"{w}{p}\"If you see Zonette, tell me!{w}ZONETTE! Where'd you go!?\"{w}",
+  "kind": "msg",
+  "note": "'That thief' and the repeated name avoid a pronoun for Zonette (gender unknown)."
+ },
+ {
+  "en": "\"Yo! You guys dropped your wallet, right?{w}Say it again: you dropped it, right!{w}",
+  "kind": "msg",
+  "note": "Zonette is pressuring the party to agree; the wallet was pickpocketed from someone else (row 1315)."
+ },
+ {
+  "en": "{0E}\"Yo! You guys dropped your wallet, right?\nSay it again: you dropped it, right!{0F}\nRIGHT!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uh-huh, uh-huh. Kind ol' me will give it back to ya.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Found you, Zonette!{w}I saw you lift that wallet!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now hand it over! Hand it over now! Hand it over this instant!\nAnd then get ready for a lecture!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What're you talkin' about?{w}Me? Do a thing like that!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"These eyes don't miss a thing!{w}I'm searching your stuff, all right? Good!{w}...........................................\"{w}",
+  "kind": "msg",
+  "note": "Fushiana ('knotholes for eyes') = unobservant; 'These eyes don't miss a thing' set up so row 1320 can echo it."
+ },
+ {
+  "en": "\"You done yet?{w}I got plans after this, y'know.{w}See ya around, Molderrr.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That can't be... these eyes missed...{w}...What about that wallet?{w}...............What did you say?\"{w}",
+  "kind": "msg",
+  "note": "Molder finds nothing on Zonette, notices the party holding the wallet and hears where it came from."
+ },
+ {
+  "en": "\"...........ZONETTEEEEEEE!!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Got somethin' nice there, don'tcha?{w}Lookin' pretty flush.{w}Truth is, I dropped my money and I'm in a real fix.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lend me 1,000 GP. 'Kay?\"",
+  "kind": "data",
+  "note": "Choice prompt (data row)."
+ },
+ {
+  "en": "\"Thanks a bunch. I'll pay ya back sometime.{w}See ya, you softies!\"{w}",
+  "kind": "msg",
+  "note": "Ohitoyoshi-domo ('you bunch of soft touches') is Zonette's running name for the party; rendered 'softies' throughout."
+ },
+ {
+  "en": "\"None? No way. You're hidin' it, ain'tcha?{w}Jump up and down right there, go on, jump!{w}...Not even a jingle of loose change...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Guess you lot have it rough too, huh.{w}Fine, forget it. Get goin'.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tch...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...You lot, hand over some cash.{w}Yeah, I dropped my wallet.{w}I think. Just now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's 10,000 GP.\"",
+  "kind": "data",
+  "note": "Choice prompt (data row)."
+ },
+ {
+  "en": "\"...Huh, coulda squeezed you for more.{w}Oh well.\"{w}",
+  "kind": "msg",
+  "note": "Fukkakeru = ask an inflated price; she realises they paid without haggling."
+ },
+ {
+  "en": "\"Thank ya kindly, softies!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey! You softies over there!\nYeah, you!{w}Lend me some money! I need it right now!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll pay ya back! Gimme ALL of it!\"",
+  "kind": "data",
+  "note": "Choice prompt (data row); 36 chars, prompt rows elsewhere run to 42. 'Sugu' (right away) compressed out of the promise."
+ },
+ {
+  "en": "\"...Tch, what the hell.{w}You always handed it over before...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shut up, it's nothin'!{w}Just get lost already!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You handed all your money over to Zonette.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...............Right, I'll pay ya back real soon!{w}Wait for me, okay!?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"...............Right, I'll pay ya back real soon!\nWait for me, okay!?{0F}\n...............Don't... get your hopes up, though.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\".............................................\n.............................................\n.............................................\"{w}{p}\".............................................\n.............................................\n.............................................\"{w}{p}\".............................................\n.............................................\n.............................................\"{w}{p}\".............................................\n.............................................\n.............................................\"{w}",
+  "kind": "msg",
+  "note": "Four pages of pure ellipsis (the party waiting); kept as 3 lines of dots per page."
+ },
+ {
+  "en": "\"...Whoo, what a haul, what a haul! Wha--{w}",
+  "kind": "msg",
+  "note": "Tte = cut-off reaction on spotting the party; rendered as an interrupted 'Wha--'."
+ },
+ {
+  "en": "{0E}\"...Whoo, what a haul, what a haul! Wha--{0F}\nHuh!? What, you lot are still here!?{w}...Unbelievable. You shoulda gone home! Are you stupid or what?\"{w}",
+  "kind": "msg",
+  "note": "Zonette gambled the money and won big (oogachi)."
+ },
+ {
+  "en": "\"...............Aw, fine, I get it!{w}I only won thanks to you guys anyway!{w}Here! Take it, ya bandits!!\"{w}",
+  "kind": "msg",
+  "note": "Motteke dorobo = market-stall idiom ('take it, you robber'), kept as 'Take it, ya bandits!!'."
+ },
+ {
+  "en": "Zonette paid you back in full.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..................Fine, fine, I hear ya!{w}From now on, the only one I'll\nmess with is Molder!\"{w}",
+  "kind": "msg",
+  "note": "Answers an unseen player request to stop messing with people."
+ },
+ {
+  "en": "\"But listen up, softies,{w}lemme give ya one bit of advice.\"{w}{p}\"Instead of somebody obvious like me,{w}watch out for the more ordinary types.\"{w}{p}\"The ones puttin' on a good, harmless face,{w}they're the nastiest of the lot. Got it?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"The ones puttin' on a good, harmless face,\nthey're the nastiest of the lot. Got it?{0F}\n...Do ya really get it, though?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honestly...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yo, softies!{w}Lately I gotta say, I've kinda lost my bite.{w}Maybe some softie's rubbed off on me.\"{w}",
+  "kind": "msg",
+  "note": "Doku-ke ga nukeru = lose one's venom/edge."
+ },
+ {
+  "en": "Arlotte",
+  "kind": "data",
+  "note": "New name (aruro-tte). Data row used as the speaker label."
+ },
+ {
+  "en": "\"The finest songstress on the highway,{w}may Arlotte sing a song for you?\"{w}",
+  "kind": "msg",
+  "note": "Kaidou zuiichi = best along the (trade) highway; Teridon sits on that road."
+ },
+ {
+  "en": "\"...No, I suppose I am no longer{w}the finest on the highway.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A singer ought not to pine for the past,\nbut...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Believe it or not, I was once called the finest on the highway,{w}and every day I sang surrounded\nby crowds of patrons.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But that is a tale from long ago.{w}The strength has left my voice,{w}and the notes that once came so easily...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We are living things, after all.{w}I always knew this day would come\nsooner or later...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A singer should speak only through song;{w}I know it is foolish to speak\nany other way, but...\"{w}{p}\"...Just once more...{w}with a soprano that rings out...!\"{w}{p}\"Just once more would be enough --{w}I want to sing...!{w}That is what I find myself thinking.\"{w}{p}\"...Forgive me.{w}",
+  "kind": "msg",
+  "note": "Source page 2 lacks its closing bracket; a closing quote is added in English. Codes unchanged."
+ },
+ {
+  "en": "{0E}\"...Forgive me.{0F}\nNow then, what shall I sing for you today?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Dear adventurers,{w}the other day, I heard from another patron...\"{w}{p}\"...that in the Giaf Dunes there is a bird\nwith a truly powerful cry.\"{w}{p}\"They say those birds\neat the flesh of a plant that grows in the desert{w}to keep their voices strong.\"{w}{p}\"That is what I was told.\"{w}",
+  "kind": "msg",
+  "note": "Giaf Dunes = GIAFU sakyuu; new name."
+ },
+ {
+  "en": "\"Only if it is on your way.{w}Should you ever head to the Giaf Dunes...{w}might you bring back some of that plant for me?\"{w}{p}\"I am well aware how shameful it is for a singer{w}to ask such a favor of adventurers\nwho are among my own patrons...\"{w}{p}\"...If only I could sing with that voice{w}just once more, I thought.{w}...I humbly ask this of you.\"{w}",
+  "kind": "msg",
+  "note": "Okyakusama no hitori de aru boukensha = the party counts as one of the patrons. Page 2 clause order rearranged across its {w} for English word order; meaning unchanged."
+ }
+]

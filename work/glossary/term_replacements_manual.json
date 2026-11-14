@@ -1,0 +1,130 @@
+[
+ {
+  "from": "\\bLock Counter\\b",
+  "to": "Rock Counter",
+  "jp": "ロックカウンタ",
+  "regex": true
+ },
+ {
+  "from": "\\bQueen Rianna\\b",
+  "to": "Empress Rianna",
+  "jp": "女帝リアンナ",
+  "regex": true
+ },
+ {
+  "from": "(?<![?!])\\?!(?![?!])",
+  "to": "!?",
+  "jp": "",
+  "regex": true
+ },
+ {
+  "from": "\\bAlright\\b",
+  "to": "All right",
+  "jp": "",
+  "regex": true
+ },
+ {
+  "from": "\\bcarbuncle\\b",
+  "to": "Carbuncle",
+  "jp": "カーバンクル",
+  "regex": true
+ },
+ {
+  "from": "\\bthe Radiant Rank of the Sun\\b",
+  "to": "the Sun's Light Rank",
+  "jp": "太陽の光位",
+  "regex": true
+ },
+ {
+  "from": "\\bRadiant Rank of the Sun\\b",
+  "to": "Sun's Light Rank",
+  "jp": "太陽の光位",
+  "regex": true
+ },
+ {
+  "from": "\\bthe Sun's Radiant Rank\\b",
+  "to": "the Sun's Light Rank",
+  "jp": "太陽の光位",
+  "regex": true
+ },
+ {
+  "from": "\\bSun's Radiant Rank\\b",
+  "to": "Sun's Light Rank",
+  "jp": "太陽の光位",
+  "regex": true
+ },
+ {
+  "from": "\\bBeastmen\\b",
+  "to": "Beastfolk",
+  "regex": true
+ },
+ {
+  "from": "\\bBeastman\\b",
+  "to": "Beastfolk",
+  "regex": true
+ },
+ {
+  "from": "\\bMagic Being\\b",
+  "to": "Magical Creature",
+  "regex": true
+ },
+ {
+  "from": "\\bLu\\b",
+  "to": "Ruu",
+  "regex": true,
+  "jp": "ルゥ"
+ },
+ {
+  "from": "\\bHunters\\b",
+  "to": "Rangers",
+  "regex": true,
+  "jp": "狩人"
+ },
+ {
+  "from": "Hunter's First Str",
+  "to": "Ranger's First Str",
+  "jp": "狩人"
+ },
+ {
+  "from": "!Hunter",
+  "to": "!Ranger",
+  "jp": "狩人"
+ },
+ {
+  "from": "changed to Hunter",
+  "to": "changed to Ranger",
+  "jp": "狩人"
+ },
+ {
+  "from": "^Hunter$",
+  "to": "Ranger",
+  "regex": true,
+  "jp": "狩人"
+ },
+ {
+  "from": "Blessing of Dark Ruin",
+  "to": "Blessing of Dark Oblivion",
+  "jp": "暗滅の加護"
+ },
+ {
+  "from": "\\b(?:Thunder|Lightning) Magic Seal\\b",
+  "to": "Bolt Magic Seal",
+  "regex": true
+ },
+ {
+  "from": "\\bDivine Thunder Harp\\b",
+  "to": "Divine Bolt Harp",
+  "regex": true
+ },
+ {
+  "from": "\\bSeott\\b",
+  "to": "Seot",
+  "regex": true
+ },
+ {
+  "from": "^Follow-up$",
+  "to": "Pursuit",
+  "regex": true,
+  "jp": "追撃"
+ }
+]

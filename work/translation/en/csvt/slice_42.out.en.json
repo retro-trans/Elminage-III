@@ -1,0 +1,360 @@
+[
+ {
+  "en": "A lost nun. She gave her life to the gods, so why does she wander this world in death like this? You may wish to reach her heart, but the gaze she turns on you is empty. At the very least, give her your blessing so she can rest in peace.",
+  "kind": "desc"
+ },
+ {
+  "en": "Novice servants are forever making clumsy blunders. Fine if you can laugh it off, but some can cost a life. The Ghost Maid is one such sorry soul. Unaware she has died, she still busily cleans for her master. Rumor has it an even clumsier maid hasn't noticed her coworker is dead.",
+  "kind": "desc"
+ },
+ {
+  "en": "A ship that lost its master to storms or pirates and, after long years adrift, turned undead. It takes in shipwreck victims and attacks merchant ships to swell its crew. One charm against ghost ships was to 'greet the sea,' though at times some unrelated ghost answered, which was awkward.",
+  "kind": "desc"
+ },
+ {
+  "en": "An odd spirit with a tube-shaped body whose end seems to cross into its own body. Trace its form with your eyes: follow the outside and you're on the inside; follow the inside and you're back outside. A normal shape to higher-dimensional beings, but if we try to grasp it, at worst we go mad.",
+  "kind": "desc",
+  "note": "Klein bottle joke. 'Saiaku de' read as 'at worst'."
+ },
+ {
+  "en": "The ghost of a hunter who grew so absorbed in the hunt that they forgot to eat and starved to death in the forest. The will to keep hunting even after death seems to have become this ghost.",
+  "kind": "desc",
+  "note": "Hunter's gender not given; singular 'they'."
+ },
+ {
+  "en": "The ghost of a female brawler bitterly defeated and killed in a duel. Her body lost, but her soul did not. To prove that her fists are the strongest of all, she challenges adventurers to duels to the death.",
+  "kind": "desc",
+  "note": "Source [JP] read as [JP] (female fighter)."
+ },
+ {
+  "en": "When a Valkyrie dies, her soul is normally called to its rightful place by the god she serves. But some, rejected by their god for deeds in life such as breaking the commandments, wander with nowhere to go. A weak heart seeks a god's salvation, and for that weakness is rejected. How sad.",
+  "kind": "desc",
+  "note": "[JP] = Valkyrie per glossary."
+ },
+ {
+  "en": "An evil spirit that startles adventurers with strange faces and screams. Once you flinch and your guard drops, it devours your soul. They say the way to drive it off is to strike the same pose and scream back.",
+  "kind": "desc"
+ },
+ {
+  "en": "A skull that swims through the air like a ray. Usually it glides lazily at ultra-low altitude just above the ground, like a ray in the sea, but once it spots prey, it closes in on your feet at terrifying speed without a sound, then leaps up to strike all at once.",
+  "kind": "desc"
+ },
+ {
+  "en": "In a land far to the east, the leader of the samurai is called a Daimyo. This samurai is a Daimyo who wanders the world even in death. Having lost a war and his domain, he attacks any adventurer he comes across, seeking to win his lands back.",
+  "kind": "desc"
+ },
+ {
+  "en": "The ghost of a ninja who rose to the rank of Summer, only to lose their life. Less deadly than in life, yet it still hides killing skill not to be taken lightly. If you think you can't win, ask it nicely to pass on to heaven.",
+  "kind": "desc",
+  "note": "Summer = ninja rank, as monster Ghost Summer. [JP] = politely ask it to ascend."
+ },
+ {
+  "en": "A vengeful dog spirit made artificially by a curse called kodoku. Inugami are said to be passed down in certain bloodlines for generations. Often cited as proof that ordinary people, animals and plants can be dragged into the dark arts. How sad, to find no freedom even in death.",
+  "kind": "desc",
+  "note": "[JP] romanized kodoku."
+ },
+ {
+  "en": "Spirit energy gathered and given form. The area around it becomes a special field, where overflowing spirit energy crystallizes. The mist-like stuff drifting about can also become arms that crush foes at Mayokal's will.",
+  "kind": "desc"
+ },
+ {
+  "en": "King of the evil spirits. At this level, it no longer lingers in this world because it is lost, but stays of its own will. Spirits are everywhere, and many are souls with nowhere to go. The king of evil spirits summons such spirits as servants, making its own position rock solid.",
+  "kind": "desc",
+  "note": "[JP] / [JP] as 'king of (the) evil spirits'; the Wraith epithet is 'Overlord' (slice_34)."
+ },
+ {
+  "en": "The lowest class of demon. Even so, it has more than enough power to kill novice adventurers. It moves fast and strikes twice, with fangs and claws.",
+  "kind": "desc"
+ },
+ {
+  "en": "The Bolmophis is a fearsome Kin of Darkness. Its fur makes cheap, handy winter wear; its meat, precious protein. Its head yields fine lamp oil, and amazingly its fangs and claws are prized jewelry. Worse, it curses you to want to nuzzle its fluffy belly. To toy with us so... truly a fearsome Kin of Darkness.",
+  "kind": "desc",
+  "note": "Kin of Darkness per glossary; repetition of the opening line kept as the joke."
+ },
+ {
+  "en": "Temple ornaments that slowly drew magic from worshippers and bishops until they could move freely: these are Gargoyles. They attack adventurers as Kin of Darkness, yet keep the instinct to guard a place. Always claiming a favorite pedestal, they resemble hermit crabs. Do they ever fight over one?",
+  "kind": "desc"
+ },
+ {
+  "en": "A demon bird that races across the wilds at fearsome speed with an odd cry. Speed alone makes a lively beast, but a Karussa can also stop dead. Seen on a far dune, it often breaks the sound barrier and is upon you. A huge eye at your nose. Blink, blink. Your heart leaps. Ah, so this be ye thing called loue, i",
+  "kind": "desc",
+  "note": "Deliberate trail-off kept: the source ends mid-word in archaic kana spelling ([JP] = koi, love); rendered with archaic 'ye'/'loue' and cut mid-word."
+ },
+ {
+  "en": "A lesser demon. Low-ranking, yet it calls its friends and attacks, so it's dangerous unless you wipe them out quickly. It may be good practice for intermediate adventurers, but don't let your guard down.",
+  "kind": "desc"
+ },
+ {
+  "en": "It looks like a smiling bishop, but its true body is the eerily glowing hand behind it. Any adventurer fooled into coming close will be caught in the blink of an eye.",
+  "kind": "desc"
+ },
+ {
+  "en": "A female knight who lives in darkness. One thrust of her matchless spear sends frail spellcasters to the grave. Now, 'Valkyrie' properly means a battle maiden blessed by the gods, yet she is a demon Valkyrie. If even demons have a god they serve, what manner of being is their god?",
+  "kind": "desc"
+ },
+ {
+  "en": "A male dream demon who flaunts his lewd symbol. Incubi prefer violating from within with words over the body. They dig up the desires their prey hides and can tell no one. Once held in their arms, you will never be satisfied by normal acts again, and roam unfulfilled, devouring body after body.",
+  "kind": "desc",
+  "note": "Kept at full strength ([JP] = violation)."
+ },
+ {
+  "en": "A demon who leads adventurers astray with her bewitching form. Even veterans say the Succubus is the one they can't handle, in more ways than one. Her familiar level drain is a real threat. Ah, and yet... to have all your hard-won experience sucked away in sweet dreams... wouldn't that be a fine life?",
+  "kind": "desc"
+ },
+ {
+  "en": "A higher demon than the Lesser Demon. It keeps the habit of calling its friends, but with greater physical strength and magic. It is fairly tough too, so it's dangerous unless you finish it off in one go.",
+  "kind": "desc"
+ },
+ {
+  "en": "A demon posing as an angel. He is kind at first to those who come seeking salvation, but once they are of no use, he steals their souls with a burst of laughter. Watching their faces as absolute peace of mind turns to despair is his greatest pleasure.",
+  "kind": "desc",
+  "note": "[JP] in source: 'he'."
+ },
+ {
+  "en": "A demon ruling witches who forsook the human world for dark laws. It holds rites and lays on feasts for witches barred from the radiant night revels. Destructive of will, yet its pact with the witches binds far tighter than vague feelings. To witches who can't trust people, the pact may be salvation.",
+  "kind": "desc",
+  "note": "[JP] = 'radiant night revels' (Walpurgis Night sabbath). [JP] = 'laws'. Compressed to fit."
+ },
+ {
+  "en": "Hell's jailer, who rules demons with the whip in hand. For a lesser demon, defying him means death. In battle he seldom dirties his own hands, preferring to summon his minions to do the attacking.",
+  "kind": "desc",
+  "note": "Hell Master as item/monster name."
+ },
+ {
+  "en": "A savage she-demon who smashes all with great claws. Famed for cruelty, the lovelier the prey, the more she torments it till it breaks pathetically. Ramming claws down the throats of prey begging mercy, forcing out vulgar gags, and peering at faces warped by terror, dripping tears and snot: their daily routine.",
+  "kind": "desc",
+  "note": "Kept at full strength. Ends on [JP] (plural: these she-demons)."
+ },
+ {
+  "en": "A demon embodying the flames of the underworld. It holds 1,024 legions and leads Demon Valkyries and Hell Masters. Unusually for a demon, it wields priest spells that call down divine miracles. Now, if the gods guarantee our justice, who can prove the justice of the gods?",
+  "kind": "desc",
+  "note": "[JP] = 1,024 legions."
+ },
+ {
+  "en": "A monstrous woman whose gaze turns onlookers to stone with terror. Not only her petrifying spells but her normal attacks are fierce. Few have seen her, but they say that when she laid down her arms, her eyes held a certain sorrow. As if she longed for days gone by.",
+  "kind": "desc"
+ },
+ {
+  "en": "A monster that rules the world of darkness alongside the Vampire Lord, the twin pillars of that realm. They say the Fiend King's blow shatters any holy armor, and the magic it unleashes blasts away any divine grace.",
+  "kind": "desc",
+  "note": "[JP] = Fiend King (item 'Fiend King Armor'). [JP] = divine grace/holy will."
+ },
+ {
+  "en": "A dragon fresh from its egg. True of every creature, the young are very cute. But this Tamagon is more than just cute. Even at this stage, a Tamagon has the power to scatter ordinary adventurers. Let your guard down and you'll be burnt to a crisp.",
+  "kind": "desc"
+ },
+ {
+  "en": "A pterosaur that rules the sky. It can fly by flapping, but it is better at gliding down on prey. Adventurers who stray into Rhamphorhynchus territory unaware are said to fall victim at times without even noticing it approach.",
+  "kind": "desc"
+ },
+ {
+  "en": "A two-headed dragon whose tail is also a head. Strong against attacks from all sides, it assails adventurers with tactics balanced in offense and defense. The two heads are known to get along well. Coiled up asleep with both heads side by side, it is surprisingly lovely.",
+  "kind": "desc"
+ },
+ {
+  "en": "A dragon covered in red skin, also known as the lava dragon. It can breathe hellfire without end. It is one of the stronger dragons known. When you fight it, block the breath or fortify your front line with fire-resistant gear.",
+  "kind": "desc"
+ },
+ {
+  "en": "A dragon of frigid lands, also called the snow-ice dragon. Its breath freezes everything, turning flimsy weapons and gear to ice in an instant. Scarier still, it can freeze living things solid. Tales of 'What a fine ice statue... oh, a poor victim' never end.",
+  "kind": "desc"
+ },
+ {
+  "en": "A many-headed great serpent. Its breath aside, its number of attacks is staggering. Unless you pin it down well with single-target spells and such, it will steadily wear down your party's HP.",
+  "kind": "desc"
+ },
+ {
+  "en": "A dragon that hates having its back seen or being taken from behind. But it moves so sluggishly that it is always sad. All a Grannada can do is turn its head and glare bitterly at the foe with its one eye. The wistful nursery rhyme 'Behind the Grannada' is quite famous.",
+  "kind": "desc",
+  "note": "Nursery rhyme title echoes Kagome Kagome ('who is behind you')."
+ },
+ {
+  "en": "A dragon born of rainbow light. It swims through light, and when it mingles with clouds, it rains seven-colored diamond dust upon the land. Though a dragon, it is closer to a spirit or ghost.",
+  "kind": "desc"
+ },
+ {
+  "en": "A great dragon that 'swims' through the earth, burrowing into bedrock. Rarely seen, and unlike other dragons, little is known of its habits. Among adventurers there is talk that 'it may not be a dragon at all,' but its roots remain uncertain.",
+  "kind": "desc",
+  "note": "'Roots' pun on the name Rootless Tail kept."
+ },
+ {
+  "en": "A two-headed dragon. It can fly, but usually it slithers over the ground like a snake. Its sight, smell and hearing are keen, so once it targets you, escape is no easy matter. Out of respect for its strength, it is often depicted on emblems.",
+  "kind": "desc"
+ },
+ {
+  "en": "A four-legged dragon called the fire lizard. Rather than kin of dragons, it is really closer to a fire spirit. Its gills hold feelers that sense fire: it absorbs fire magic when there is too much and releases it when there is too little. Yet unaware of this role, it ambles about, tongue darting out to eat.",
+  "kind": "desc"
+ },
+ {
+  "en": "A wyvern holding the power of the earth. From its body, blessed by the spirits, it breathes holy breath. The Elemental Wieg is said to appear when harmony among those who live on that land is disturbed.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mighty wyvern clutching a natural emerald. Its magic is extraordinary too: on top of dragon attacks, it deftly showers foes with magic light amplified by the emerald. It prefers emeralds, but may make do with diamonds or rubies. At times they are seen fighting over a single emerald.",
+  "kind": "desc"
+ },
+ {
+  "en": "Revered by dragonkind as the 'Mother of Dragons' and the 'Dragon Queen.' She alone in this world knows true strength and beauty. She never forgives those who harm her kin; no one who has incurred her wrath has ever survived.",
+  "kind": "desc",
+  "note": "Dragon Queen matches the epithet (slice_35)."
+ },
+ {
+  "en": "Drifters who have lost their pride and goals and make a living just by attacking adventurers. In a sense, they're nastier than Thieves. For now, let's have them serve as stepping stones toward our own goals.",
+  "kind": "desc"
+ },
+ {
+  "en": "A samurai with no master. Their origins vary: some lost their lord, others roamed alone as they pleased from the start. Wanderers they may be, but their skill is real. Take them lightly and you'll become 'rust on the katana,' or whatever it is they call it.",
+  "kind": "desc",
+  "note": "[JP] (katana no sabi, 'rust on the blade' = be cut down) in katakana; [JP] kept as 'or whatever they call it'."
+ },
+ {
+  "en": "A boy swordsman who came to the Santorea Martial Arts Department to master the way of the sword. Picturing an ideal of his own, he tackles his classes with pure eyes.",
+  "kind": "desc"
+ },
+ {
+  "en": "Girl warriors who enrolled bursting with energy to learn martial arts. Weapons come in many kinds, from swords to bows, katana and spears, yet for some reason they chose axes. They look forward to martial arts, but their eyes also sparkle at the lunches the Academy serves.",
+  "kind": "desc",
+  "note": "[JP]: plural girls. [JP] = the Academy."
+ },
+ {
+  "en": "A dad who rose up, farm tools in hand, furious at the Earthworms that ravaged his field. His rage is turned not only on Earthworms but on every intruder in his field. Short of heirs, he seems to have given up on his son taking over the farm. He is now seeking farmhands in Teridon and elsewhere.",
+  "kind": "desc",
+  "note": "[JP] = dad/old man."
+ },
+ {
+  "en": "The sword's way deepens as you learn; 2nd year is when some lose their way. Stop a while and ask, 'Why do I hold a sword?' Even the famous legendary knight Kudmia spent 52 years in 2nd year, wars aside, and graduated from life still held back. But his lost soul kept training and is now a fine evil-spirit king.",
+  "kind": "desc",
+  "note": "New name: Kudmia ([JP]). [JP] read as [JP] (2nd year). [JP] = king of evil spirits (Wraith epithet 'Overlord')."
+ },
+ {
+  "en": "Second-years reveling in the joy of destruction as they swing their axes. This is when they start to handle their weapons as they want and grow sure of themselves in battle. Swinging an axe makes you hungry. Outdoing the boys, they shout 'Seconds!' at lunch.",
+  "kind": "desc"
+ },
+ {
+  "en": "Warriors who have lived off the land, now in forests, now in caves, now in the wilds. Perhaps because they've never known city life, cultural common sense doesn't apply to them. On the other hand, their physical and survival skills are high, so there is much to learn from them.",
+  "kind": "desc"
+ },
+ {
+  "en": "Warriors who train their bodies to the limit and crush foes with their own strength. Their fighting ability is truly remarkable. Their well-built muscles seem to be a point of pride; if they're friendly, they'll show off their physique without holding back.",
+  "kind": "desc"
+ },
+ {
+  "en": "A warrior fused with a chariot by alchemy. It turns tighter than it looks, and when it charges head-on, a good way to take the blow is hard to find. Fleeing isn't easy either: even if you escape onto mountain trails or other unpaved roads, it swaps its wheels for spiked ones and gives chase.",
+  "kind": "desc"
+ },
+ {
+  "en": "Seniors of the Santorea Martial Arts Dept., trained in mind, skill and body, grown as swordsmen and as people. Some become royal knights on merit. Santorea does not promote by years enrolled, so graduating from the Academy is proof of skill. As the teaching was harsh, the bond between graduates is strong.",
+  "kind": "desc",
+  "note": "Compressed to fit 312."
+ },
+ {
+  "en": "Healthy model student, a gold-star 3rd-year. Her endless appetite at last reaches into the lunchroom. \"Seconds aren't enough! Teacher, give me the whole lunch pot!\" \"Not on my watch!\" The axe meant to be swung for the world and its people now swings for her own desires.",
+  "kind": "desc",
+  "note": "[JP] (school award) / [JP] (flower mark on cheek) rendered as 'healthy model student, a gold-star'. [JP] = Teacher; no gender."
+ },
+ {
+  "en": "A high samurai from the eastern land. Fond of all things festive, this one tosses its hair in a dance of joy at any splendid event. That splendid zeal shows in its garb and arms, but is this how eastern nobles look? The curse-like makeup and tattoos on its face terrify all who see them. A child would scream.",
+  "kind": "desc",
+  "note": "No pronoun in source; 'it/this one' used (kabuki-style daimyo)."
+ },
+ {
+  "en": "A Lord fallen into the world of darkness. But even a rotten Lord is still a Lord. Its sword strokes flow without falter, showing the chivalry of darkness. With strong defense and mighty blows, it will surely drive you into a corner.",
+  "kind": "desc",
+  "note": "[JP] (rotten but still a Lord). [JP] = Lord (class)."
+ },
+ {
+  "en": "Royals clad in unfamiliar garb. Hedonists who think anything goes if it's fun, they burst into song and dance for no reason at all. Their mustache is their charm point; lose it and they can't bounce back for a while. In other words, go for the mustache.",
+  "kind": "desc",
+  "note": "Plural 'royals' to avoid gendering."
+ },
+ {
+  "en": "A female fighter who dearly loves to fight. Taking no lover, she satisfies every desire by driving her fists into others' bodies. Her whole body is a weapon, and she excels at close combat. If you want to writhe in agony from her passionate blow to the gut, charge right in.",
+  "kind": "desc",
+  "note": "[JP] = solar plexus, rendered 'gut'."
+ },
+ {
+  "en": "A samurai entrusted with the honored duty of raising the war banner, the army's symbol, in battle. In daily life without war, they also act as advisers on domestic affairs, and so are a bit of an intellectual. Perhaps from handling the real work, their skill is said to surpass their lord's at times.",
+  "kind": "desc"
+ },
+ {
+  "en": "Guard knights serving the Sovereign directly, an honored title only for those both skilled with the sword and sound in body and mind. The skilled tend to grow arrogant or stray. A sound mind in a sound body is rare; hence their worth. Should you touch their training-hardened palms, hold them gently.",
+  "kind": "desc",
+  "note": "[JP] = Sovereign, as epithet 'Sovereign's Sword' (slice_35). [JP] kept as 'their' (female guards)."
+ },
+ {
+  "en": "A lord of a land far to the east, seated on a stacked cushion called a 'zabutoon.' This lord crushes foes with political clout, not brawn, eyes women lewdly and calls them over when possible. For some reason, sweets set on gold coins delight this lord, so bring some if you want to get friendly.",
+  "kind": "desc",
+  "note": "[JP] = stylized 'zabuton' (floor cushion), rendered 'zabutoon'. Gold coins under sweets = bribe gag. No pronoun in source."
+ },
+ {
+  "en": "A Lord of the dragonewts. The ultimate warrior, uniting the power of dragons, magic, and the spirit of a king. It meets every foe with sword, spells and breath.",
+  "kind": "desc",
+  "note": "[JP] = dragonewt per glossary."
+ },
+ {
+  "en": "A samurai who has mastered the finest skills. In a master's hands even a nameless katana is a deadly weapon. Take the katana away, and a lightning-fast dagger will still slash you deep in the side. The subject of many tales, a living legend. If you face off, show it the strength of you who live now.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mage who has just learned spells. All they can do yet is cast fireballs or put you to sleep, but because their attack pattern never changes, adventurers who fall for it fall hard. Better safe than sorry.",
+  "kind": "desc",
+  "note": "[JP]: some parties get caught in the same pattern over and over."
+ },
+ {
+  "en": "Alchemy is often thought of as research into making gold, but refining gold is only one of its results. The alchemists' aim is to unlock the laws of this world and make all things more perfect. The Philosopher's Stone exists as the medium for that.",
+  "kind": "desc"
+ },
+ {
+  "en": "The door to knowledge is open to all. But graduating is no easy feat. Can they hold on to the dreams and hopes they feel now right to the end?",
+  "kind": "desc"
+ },
+ {
+  "en": "Students come from many regions, so their own clothes vary too. The school issues uniforms, but on days off each goes back to their homeland's culture, so the campus apparently turns into an international fashion show.",
+  "kind": "desc"
+ },
+ {
+  "en": "A woman trained in sorcery. She knows her spells better than a Mage does, so stay on your guard.",
+  "kind": "desc"
+ },
+ {
+  "en": "A tarot card user who draws fate in with great power. Depending on the situation, a tarot card may plunge you into unexpected danger. Better to defeat them before they get out of hand.",
+  "kind": "desc",
+  "note": "Gender not given; 'them'."
+ },
+ {
+  "en": "They do study, sort of, but now that they're used to student life, they tend to slack in all sorts of ways. All they've gotten good at is dodging problems and fudging things; no real skill to show. A dangerous age, when temptation easily leads one astray.",
+  "kind": "desc"
+ },
+ {
+  "en": "Schoolgirls who studied hard and can now handle quite a few spells. Compared to boys their age, they're more grown in body and mind. Once they learn how to wrap men around their fingers, they'll make fine High Sorceresses.",
+  "kind": "desc"
+ },
+ {
+  "en": "Sorceresses among the Witches who, with further training, mastered higher magic. Maybe everyone gets this way once they have room to breathe, but High Sorceresses are generally refined in manner. Leading junior Witches, they giggle as they toy with adventurers with their magic.",
+  "kind": "desc"
+ },
+ {
+  "en": "Wielders of more advanced alchemy, with a wider range of spells. At the intermediate level of alchemy, they begin to take an interest in 'the birth of life' as part of their research. Creating life is dogged by the matter of 'bioethics,' but will that ever reach their ears?",
+  "kind": "desc"
+ },
+ {
+  "en": "A witch's pet snail that escaped and gained wisdom. Alas, poor snail, its speed is just what you'd expect. But on top of a sorcerer's gifts, it has hard defense and decent stamina. Don't play 'Snail, snail, where are your eyes?' -- just defeat it quickly.",
+  "kind": "desc",
+  "note": "Nursery-song nod (dendenmushi, 'where are your eyes?')."
+ },
+ {
+  "en": "An alchemist out gathering materials while enjoying a carefree picnic. Gentle by nature, finding small joys in meeting people on the road. But adventurers alone seem to stir up mixed feelings, and on meeting one, the Picnicker flees at full speed.",
+  "kind": "desc",
+  "note": "Picnicker as chap speaker name. Gender not given."
+ },
+ {
+  "en": "Third-years on the eve of graduation, writhing in a storm of remedial classes. The Academy values tradition and pride, so without real skill you're readily held back. Some try to fake it with magic, but the usual end is that teachers see through it and hold them back on the spot. Plan your studies.",
+  "kind": "desc",
+  "note": "[JP] read as [JP] (remedial classes; epithet [JP])."
+ },
+ {
+  "en": "Third-years about to graduate. Afterward, some will be welcomed into the palace Magic Bureau, some sent to aid small farm villages as mages, others will seek deeper knowledge. What kind of mages will they become as they leave the nest? May happiness be theirs.",
+  "kind": "desc",
+  "note": "[JP] = Magic Bureau per glossary."
+ }
+]

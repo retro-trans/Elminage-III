@@ -1,0 +1,1900 @@
+[
+ {
+  "en": "There's no one here.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_07 row 509; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 1; reused the reviewed English after re-checking against the source. Prior note: [JP] rendered \"Temple of Rafa\" (not in glossary; glossary uses \"Rust Temple\" for [JP]). Passive kept: the buyer is the party, but the notice is impersonal system text."
+ },
+ {
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "note": "Same source string as pilot_all.json row 2; reused the reviewed English after re-checking against the source. Prior note: Full-width spaces around the number insert dropped (ASCII only); single spaces kept."
+ },
+ {
+  "en": "Green Plakio",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 3; reused the reviewed English after re-checking against the source. Prior note: Romanized; meaning of [JP] unknown (not [JP]/brachio). Likely a clue/treasure name inserted into row 1."
+ },
+ {
+  "en": "Blue Menon",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 4; reused the reviewed English after re-checking against the source. Prior note: Romanized [JP]; split as Blue + Menon to pair with Green Plakio. Could also be read \"Blumenon\"."
+ },
+ {
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 5; reused the reviewed English after re-checking against the source. Prior note: [JP] romanized \"Selcoa\"."
+ },
+ {
+  "en": "Celestial Readings",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 6; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Wing Soul",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 7; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 8; reused the reviewed English after re-checking against the source. Prior note: [JP] could be a specific NPC nicknamed \"the old man\"/\"Pop\"; kept generic."
+ },
+ {
+  "en": "Cannon Tools",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 9; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 10; reused the reviewed English after re-checking against the source. Prior note: [JP] = expert/veteran; \"Seasoned\" keeps that sense (and fits food)."
+ },
+ {
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 11; reused the reviewed English after re-checking against the source. Prior note: [JP] romanized \"Alton\"."
+ },
+ {
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 12; reused the reviewed English after re-checking against the source. Prior note: [JP] romanized \"Behiem\"."
+ },
+ {
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 13; reused the reviewed English after re-checking against the source. Prior note: [JP] romanized \"Gamea\"."
+ },
+ {
+  "en": "Obtained {12:0003:0018}.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 14; reused the reviewed English after re-checking against the source. Prior note: Full-width space after the item insert dropped."
+ },
+ {
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 15; pilot_all.json row 16; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Hanoi",
+  "kind": "name",
+  "note": "Same source string as pilot_all.json row 19; pilot_all.json row 23; pilot_all.json row 26 (+52 more); reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Oh, so you guys came too?{w}Me? Oh, this and that. Work, you know.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 20; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Need something from me?",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 21; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "About equipment",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 22; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"By the way, have you got your gear sorted out properly?{w}Items don't do a thing unless you equip them.\"{w}{p}\"If you've got a mage with you, I'd say you need to equip the Magic Seals, or they won't have any effect.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 24; reused the reviewed English after re-checking against the source. Prior note: [JP] rendered \"mage\" (class name not in glossary; check against the class UI terms). [JP] rendered as a hedge."
+ },
+ {
+  "en": "Recommended spots",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 25; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Recommended spots?{w}Well, there's Abi, west of the forest, I guess.\"{w}{p}\"Who's Abi, you ask?{w}Well, you'll see when you meet Abi. Yep.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 27; reused the reviewed English after re-checking against the source. Prior note: Abi gender unknown: no pronoun used. Source [JP] is a typo for [JP] (meet). [JP] read as \"west of the forest\"; could also mean the western part of the forest. | Editorial: 'once you meet' lacked an object; named Abi rather than 'him' (Abi's gender is unset in the glossary)."
+ },
+ {
+  "en": "About dangers",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 28; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Watch out for Floor Masters.{w}The ones out for blood are usually red. If you spot a red shadow, be careful.\"{w}{p}\"As long as you don't attack a Floor Master first or get in its way, it won't come to a fight.\"{w}{p}\"But if you mean to block its path, you'll earn the wrath of the floor's boss, so you'd better be prepared for what comes.\"{w}{p}\"Some of them are a real pain and'll chase you, but the rest are all gentle types who walk a set route.\"{w}{p}\"Oh, and even if it does come to a fight, don't give up, okay?{w}If you're lucky, you can get away.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 30; reused the reviewed English after re-checking against the source. Prior note: [JP] (\"all of them are gentle\") contradicts the preceding \"some chase you\"; rendered \"the rest are all\" to keep both clauses coherent. Floor Masters referred to as \"it\" (monsters)."
+ },
+ {
+  "en": "Other info",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 31; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Hmm, nothing in particular, but...\"{w}{p}\"Ever heard of the Innocent series?{w}There's a sword, a shield and a cloak.\"{w}{p}\"They're pretty powerful, but only someone who's never changed class can equip them.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 33; reused the reviewed English after re-checking against the source. Prior note: [JP] = class change."
+ },
+ {
+  "en": "\"Well then, take care.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 35; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Heeey!\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 37; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Hanoi called out to you.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 38; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"You guys...{w}Are you actually making progress on the Proclamation?\"{w}{p}\"I dunno, man.{w}From the outside, it doesn't look like it's going too well.\"{w}{p}\"If you're stuck, it's farming. Nothing else for it.{w}Why not get Chirocco to share some saplings and try growing them in Perpeco?\"{w}{p}\"Maybe some way to break the deadlock will come to you, huh?\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 40; reused the reviewed English after re-checking against the source. Prior note: Chirocco gender unknown: no pronoun used. \"I dunno, man\" for [JP] (vague dissatisfied muttering)."
+ },
+ {
+  "en": "\"Hey, long time no see!\"{w}{p}\"I hear you've been doing great things. Something about taking back the Palace of the Sun?{w}Knowing I helped out a little makes me proud.{w}Keep the business coming my way!\"{w}{p}\"Oh, that reminds me. I had kind of a strange experience.{w}Just as I reached the Leanmakana Mountains, I got caught in this massive storm.\"{w}{p}\"I mean, look at me. I'm pretty slim, right?{w}I got blown clean away.\"{w}{p}\"Even I figured I was dead for sure, but then, believe it or not...\"{w}{p}\"I was in a castle floating in the sky.\"{w}{p}\"And there I met a woman wearing a hood.\"{w}{p}\"I didn't ask her name, but she told me all kinds of interesting stories.\"{w}{p}\"Why don't you go and meet her too, if you get the chance?\"{w}{p}\"You might get something useful out of it.\"{w}{p}\"Well, I'll be going now. See you.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 42; reused the reviewed English after re-checking against the source. Prior note: [JP] = slim (Japanese sense), not clever. [JP] = merchant asking for continued patronage. Hanoi switches first-person pronoun from [JP] to [JP] in the last line and says [JP] instead of [JP]; no English equivalent, flagged in report. \"she told me\" for [JP] (I got to hear) -- the hooded woman is the only source in the scene."
+ },
+ {
+  "en": "When you stepped out into the square, you saw Hanoi deep in thought.{w}{p}Hanoi noticed you as well, shouldered a backpack and came over.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 43; reused the reviewed English after re-checking against the source. Prior note: Narration in past tense to match rows 48/51. Hanoi gender unknown in glossary: name repeated instead of a pronoun."
+ },
+ {
+  "en": "\"Looks like you're still alive.\nGood to see you're so hard to kill. Yep, yep.{w}Anyway...\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 45; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Ever heard the rumors about the Mine Trapper?{w}A weird thing with a squid for a head.\"{w}{p}\"It looks ridiculous, but apparently it's not to be underestimated. People in the know are pretty scared of it.\"{w}{p}\"I hadn't heard anything about it for a while, but just lately the sightings have started piling up.\"{w}{p}\"...Ah! Don't get the wrong idea, okay?\nI'm not asking you to go hunt it down.{w}I'm not expecting that much from you, so relax.\"{w}{p}\"I'm just saying we should both be careful out there.{w}Well then...\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 47; reused the reviewed English after re-checking against the source. Prior note: \"out there\" added for natural rhythm only; no new information."
+ },
+ {
+  "en": "Hanoi left.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 48; pilot_all.json row 58; pilot_all.json row 180; reused the reviewed English after re-checking against the source. Prior note: Avoided a pronoun for Hanoi (glossary gender unknown)."
+ },
+ {
+  "en": "???",
+  "kind": "name",
+  "note": "Same source string as pilot_all.json row 49; pilot_all.json row 64; pilot_all.json row 81 (+15 more); reused the reviewed English after re-checking against the source. Prior note: Speaker is Electra (named at row 262); ??? kept because the game hides the name here."
+ },
+ {
+  "en": "\"Ah, there you are... Heeey!\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 50; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Back in town, you were stopped by a familiar voice.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 51; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Yo. Adventuring going well?{w}I've got a soft spot for you guys, so don't go dying in a ditch on me, okay?\"{w}{p}\"...Though honestly, I'd rather you had a soft spot for me.{w}Ah well, I won't expect much from you lot.\"{w}{p}\"By the way, I'm holding a package for you.{w}Hold out your hands.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 53; reused the reviewed English after re-checking against the source. Prior note: [JP] used twice as a pun: Hanoi favours the party; Hanoi (a merchant) wants the party to favour/patronize him. \"soft spot\" repeated to keep the parallel; the trade sense surfaces in row 55 ([JP])."
+ },
+ {
+  "en": "\"Hey, that looks like pretty good stuff.{w}With this, maybe you'll turn into adventurers who actually earn a bit. I'd appreciate that... business-wise.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 55; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Well, see you around.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 57; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Oh, and this too.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 60; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"...Huh? You can't carry it?\"{w}{p}\"You're still pretty green, huh?{w}You never know what shape treasure'll come in. Always keep some room in your pack.\"{w}{p}\"Can't be helped. I'll sell it to Gia's place, so buy it back if you want it.\"{w}{p}\"Don't go selling other people's stuff without asking, you say?{w}Ha ha, don't worry about it. It's no big deal. Yep.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 62; reused the reviewed English after re-checking against the source. Prior note: [JP] = \"Gia's place\"; row 63 places the item at Kembeck's Shop, so Gia works there. Gia gender unknown: no pronoun."
+ },
+ {
+  "en": "{12:0003:0018} is now in stock at Kembeck's Shop.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 63; reused the reviewed English after re-checking against the source. Prior note: Full-width space after insert and the \\n dropped; word wrap handles it."
+ },
+ {
+  "en": "There is a statue of a young man, carved from marble.{w}The brass nameplate on its pedestal reads \"Abi\".{w}",
+  "kind": "msg",
+  "note": "Abi gender: glossary unknown; the statue is described as a young man (seinen), translated as written, no pronoun added. Present tense for a standing description (cf. \"There's no one here.\")."
+ },
+ {
+  "en": "Touch it?",
+  "kind": "data",
+  "note": "Choice prompt (data row); short form. Fuller: \"Will you touch it?\""
+ },
+ {
+  "en": "You touched it gently, and the statue suddenly began to move!{w}",
+  "kind": "msg",
+  "note": "Past tense to match the pilot's event narration (\"Hanoi noticed you...\")."
+ },
+ {
+  "en": "Abi",
+  "kind": "name"
+ },
+ {
+  "en": "\n{0E}                    * Hello! *{0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner: full-width padding replaced by leading ASCII spaces only (20 spaces, ~50-char line), as in wmap slice_07 rows 483-485. Here {0E}..{0F} wraps a fresh banner, not a re-display of the previous row. Check rendering of leading spaces."
+ },
+ {
+  "en": "Yes",
+  "kind": "data",
+  "note": "Same source string as slice_01 row 38; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "No",
+  "kind": "data",
+  "note": "Same source string as slice_01 row 39; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "note": "Same source string as slice_01 row 9; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "[Key Item]\nObtained Ninja Fiend's Helm.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 10; reused the reviewed English after re-checking against the source. Prior note: Key item (ITEM_PRIZ 25:3, trophy of an Archduke boss). 'ninma no tetsuzu' = ninja-fiend's iron head -> 'Ninja Fiend's Helm' (18 chars = ITEM_PRIZ name max). Frame follows pilot style 'Obtained X.'"
+ },
+ {
+  "en": "[Key Item]\nObtained Song of Spirits.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 11; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 27:3."
+ },
+ {
+  "en": "[Key Item]\nObtained Flesh-Lump Flower.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 12; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 28:3; 'nikukai' = lump of flesh, kept grotesque."
+ },
+ {
+  "en": "[Key Item]\nObtained Deltoi Empty Room.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 13; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 29:3. Joke on its boss, a monster named 'Deltoi's Living Room'. 19 chars: one over ITEM_PRIZ max 18 if that table reuses it ('Deltoi Empty Room' = 17)."
+ },
+ {
+  "en": "[Key Item]\nObtained Dark Sakil Shell.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 14; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 30:3; boss 'Fanisakil' -> romanized 'Sakil'."
+ },
+ {
+  "en": "[Key Item]\nObtained Aleed Palette.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 15; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 31:3; boss 'Aleed Painter' (romanized; possibly a pun on 'arid')."
+ },
+ {
+  "en": "[Key Item]\nObtained Demon-Boob Undies.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 16; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 32:3; boss 'Manyuu Salebos'. 'manyuu' is slang for monstrously big breasts; kept the crude-comic register. Source lacks the final period (typo); period added to match the other 19 key-item lines."
+ },
+ {
+  "en": "[Key Item]\nObtained Seot's Demon Nest.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 17; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 33:3; boss 'Seot Mar'."
+ },
+ {
+  "en": "[Key Item]\nObtained Unclean Water.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 18; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 34:3."
+ },
+ {
+  "en": "[Key Item]\nObtained Menolist's Candle.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 19; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 35:3; boss 'Menolist'. 22 chars -- over ITEM_PRIZ max 18; short form 'Menolist's Candle' (17) if that table must match."
+ },
+ {
+  "en": "[Key Item]\nObtained Ponya Sausage.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 20; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 36:3; boss 'Ponyapo'."
+ },
+ {
+  "en": "[Key Item]\nObtained Taizarti Lamp.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 21; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 37:3; boss 'Taizarti' (Archduke)."
+ },
+ {
+  "en": "[Key Item]\nObtained Glittering Scale.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 22; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 38:3."
+ },
+ {
+  "en": "[Key Item]\nObtained Swordsage's Beard.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 23; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 39:3; 'kenrou' = aged sword master. 19 chars (ITEM_PRIZ max 18: 'Swordsage's Beard' = 17)."
+ },
+ {
+  "en": "[Key Item]\nObtained Red Light Rank.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 24; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 41:3; '<color>-kou no i' -> '<Color> Light Rank' series (6 colors, Qualia battles, post-game)."
+ },
+ {
+  "en": "[Key Item]\nObtained Blue Light Rank.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 25; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "[Key Item]\nObtained Green Light Rank.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 26; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "[Key Item]\nObtained Yellow Light Rank.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 27; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "[Key Item]\nObtained Black Light Rank.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 28; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "[Key Item]\nObtained White Light Rank.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 29; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "After defeating the mighty Duke of the Demon World,\nyou found something.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 30; reused the reviewed English after re-checking against the source. Prior note: Generic line reused after every Archduke trophy fight (11 places), so no specific name."
+ },
+ {
+  "en": "After winning the battle,\nyou found something.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 31; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "# Current floor: {0B:0003:0000}",
+  "kind": "op029",
+  "note": "Same source string as slice_01 row 32; reused the reviewed English after re-checking against the source. Prior note: op029 debug print. Full-width black square -> '#' (ASCII rule)."
+ },
+ {
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "note": "Same source string as slice_01 row 33; reused the reviewed English after re-checking against the source. Prior note: op029 debug print. 'shin'ei' (god-shadow encounter) -> 'Divine Shadow' (new term)."
+ },
+ {
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 34; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 35; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "The great shadow fades away{w}",
+  "kind": "msg",
+  "note": "Source lacks the final period (variant of row 77); period added, as wmap slice_01 did for the key-item line in row 59. NOTE: wmap slice_01 kept this same string without the period -- reconcile. [accuracy] Aligned to wmap review_gg1 row 36 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "Friendly foes appear. Fight?",
+  "kind": "data",
+  "note": "Reused from wmap slice_01 (same string)."
+ },
+ {
+  "en": "{0A:0003:0006}'s alignment changed to Good{w}",
+  "kind": "op096",
+  "note": "Reused from wmap slice_01; no period, like the source."
+ },
+ {
+  "en": "{0A:0003:0006}'s alignment changed to Evil{w}",
+  "kind": "op096",
+  "note": "Reused from wmap slice_01."
+ },
+ {
+  "en": "Suddenly, your bodies seemed to grow lighter.{w}",
+  "kind": "msg",
+  "note": "Generic event result (127 dupes); 'you' = the party, as in kimitachi narration elsewhere. [accuracy] Aligned to wmap review_gg1 row 44 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "This is an altar tied to the Stairway of Light.{w}Hemaid Red Stone has been offered here.{w}",
+  "kind": "msg",
+  "note": "'hikari no kaidan' -> 'Stairway of Light' (wmap slices 02/09; wmap slice_01 used 'Stair of Light' -- unify). Item name as in wmap slice_01 ITEM_PRIZ 'Hemaid's Red Stone' (wmap slice_09 has 'Hemaid Red Stone' -- unify)."
+ },
+ {
+  "en": "Offer Hemaid Red Stone?",
+  "kind": "data"
+ },
+ {
+  "en": "You offered Hemaid Red Stone.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is something like an altar here.{w}In its center is a hollow; something seems to have been set into it once.{w}{p}Looking around, this altar appears to be just one part of a larger altar.{w}The center of this group of altars must lie to the south.{w}{p}Something is written on the altar in weathered letters.{w}",
+  "kind": "msg",
+  "note": "kubomi -> 'hollow' as in wmap slice_09 (the three altars' hollows)."
+ },
+ {
+  "en": "{0E}\n      *   Hemaid, the Red Phantom Stone   *{0F}{w}",
+  "kind": "msg",
+  "note": "Altar inscription (not an echo of the previous row). 'genseki' -> 'Phantom Stone' (wmap slice_01/02); wmap slice_09 used 'Mystic Stone' -- unify. Full-width centering spaces replaced with ASCII spaces."
+ },
+ {
+  "en": "This is an altar tied to the Stairway of Light.{w}Green Plakio has been offered here.{w}",
+  "kind": "msg",
+  "note": "Green Plakio as in pilot / wmap slice_09. | Editorial: dropped 'the' before the stone name to match the item-name style of rows 84-86 (Hemaid Red Stone) and key-item messages."
+ },
+ {
+  "en": "Offer Green Plakio?",
+  "kind": "data",
+  "note": "Editorial: dropped 'the' before the stone name to match the item-name style of rows 84-86 (Hemaid Red Stone) and key-item messages."
+ },
+ {
+  "en": "You offered Green Plakio.{w}",
+  "kind": "msg",
+  "note": "Editorial: dropped 'the' before the stone name to match the item-name style of rows 84-86 (Hemaid Red Stone) and key-item messages."
+ },
+ {
+  "en": "There is something like an altar here.{w}In its center is a hollow; something seems to have been set into it once.{w}{p}Looking around, this altar appears to be just one part of a larger altar.{w}The center of this group of altars must lie to the northeast.{w}{p}Something is written on the altar in weathered letters.{w}",
+  "kind": "msg",
+  "note": "Same text as row 87 except the direction."
+ },
+ {
+  "en": "{0E}\n      *   Plakio, the Green Phantom Stone   *{0F}{w}",
+  "kind": "msg",
+  "note": "Inscription; see row 88."
+ },
+ {
+  "en": "This is an altar tied to the Stairway of Light.{w}Blue Menon has been offered here.{w}",
+  "kind": "msg",
+  "note": "Blue Menon as in pilot / wmap slice_09. | Editorial: dropped 'the' before the stone name to match the item-name style of rows 84-86 (Hemaid Red Stone) and key-item messages."
+ },
+ {
+  "en": "Offer Blue Menon?",
+  "kind": "data",
+  "note": "Editorial: dropped 'the' before the stone name to match the item-name style of rows 84-86 (Hemaid Red Stone) and key-item messages."
+ },
+ {
+  "en": "You offered Blue Menon.{w}",
+  "kind": "msg",
+  "note": "Editorial: dropped 'the' before the stone name to match the item-name style of rows 84-86 (Hemaid Red Stone) and key-item messages."
+ },
+ {
+  "en": "There is something like an altar here.{w}In its center is a hollow; something seems to have been set into it once.{w}{p}Looking around, this altar appears to be just one part of a larger altar.{w}The center of this group of altars must lie to the northwest.{w}{p}Something is written on the altar in weathered letters.{w}",
+  "kind": "msg",
+  "note": "Same text as row 87 except the direction."
+ },
+ {
+  "en": "{0E}\n      *   Menon, the Blue Phantom Stone   *{0F}{w}",
+  "kind": "msg",
+  "note": "Inscription; see row 88."
+ },
+ {
+  "en": "Before you is a spring brimming with blue water.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Drink?",
+  "kind": "data"
+ },
+ {
+  "en": "Who will drink?",
+  "kind": "op093"
+ },
+ {
+  "en": "{0A:0003:0000} drank the water{w}{p}",
+  "kind": "msg",
+  "note": "No period, like the source and the other {0A} status lines (wmap slice_06 'sensed a presence')."
+ },
+ {
+  "en": "{0A:0003:0000} recovered HP{w}",
+  "kind": "msg",
+  "note": "tairyoku -> HP (game stat)."
+ },
+ {
+  "en": "Before you is a spring brimming with red water.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0A:0003:0000} took damage{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Before you is a spring brimming with green water.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0A:0003:0000} was poisoned{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Before you is a spring brimming with silver water.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0A:0003:0000} was decapitated{w}",
+  "kind": "msg",
+  "note": "kubi wo haneru = beheading (Wizardry-style instant kill)."
+ },
+ {
+  "en": "Before you is a spring brimming with shining water.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0A:0003:000F} was fully healed{w}",
+  "kind": "msg",
+  "note": "Insert ends 000F, not 0000 as in the other fountain lines; kept verbatim."
+ },
+ {
+  "en": "{w}",
+  "kind": "msg",
+  "note": "Control code only."
+ },
+ {
+  "en": "# Light spell active",
+  "kind": "op029",
+  "note": "op029 debug print; reused from wmap slice_06."
+ },
+ {
+  "en": "# No light spell",
+  "kind": "op029",
+  "note": "op029 debug print; reused from wmap slice_06."
+ },
+ {
+  "en": "{0A:0003:0000} sensed a presence{w}",
+  "kind": "op031",
+  "note": "Reused from wmap slice_06."
+ },
+ {
+  "en": "Secret Door{w}",
+  "kind": "op096",
+  "note": "Reused from wmap slice_06."
+ },
+ {
+  "en": "There's no one here now.\nThe secret door has already been opened.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Tarrit",
+  "kind": "name",
+  "note": "New name: Taaritto romanized 'Tarrit'. A Valkyrie girl (row 148 shoujo; calls herself onna no ko in row 143)."
+ },
+ {
+  "en": "\"I can't stand it anymooore~!\"{w}",
+  "kind": "msg",
+  "note": "She can no longer resist the fruity smell (rows 124, 149). Tarrit's drawn-out vowel endings rendered with stretched words and '~' (used for similar voices in pilot/wmap)."
+ },
+ {
+  "en": "\"Here goooes~!\"{w}",
+  "kind": "msg",
+  "note": "ei = effort shout as she lunges into the crack."
+ },
+ {
+  "en": "The girl tried to force her way into the crack in the wall.{w}",
+  "kind": "msg",
+  "note": "'her': the source itself calls Tarrit shoujo (girl) here and in row 133, and Tarrit says onna no ko of herself (row 143)."
+ },
+ {
+  "en": "\"Hnngh, hnngh...{w}Squeeeze, squeeeze... creak, crack...\"{w}",
+  "kind": "msg",
+  "note": "unsho = straining grunt; gyumu-gyumu = squeezing; meki-meki = creaking/cracking."
+ },
+ {
+  "en": "Tarrit's Voice",
+  "kind": "name",
+  "note": "Name box while she is inside the crack (14 chars)."
+ },
+ {
+  "en": "\"Just like I thought~.{w}It smells sweet~. Ehehe~\"{w}{p}\"..........\"{w}{p}\"...Nnoh?\"{w}",
+  "kind": "msg",
+  "note": "Music-note symbol dropped (ASCII only); '~' carries the cheerful tone. 'Nnoh?' = her puzzled noise, kept as a sound."
+ },
+ {
+  "en": "\"Wait, don't tell me...\"{w}",
+  "kind": "msg",
+  "note": "kore wa, masaka = she realizes she is stuck."
+ },
+ {
+  "en": "\"Nnoooh, nnoooh~!\"{w}",
+  "kind": "msg",
+  "note": "Struggling noises, same sound as row 124's 'Nnoh'."
+ },
+ {
+  "en": "Right in front of you, a butt is wriggling and flailing about.{w}",
+  "kind": "msg",
+  "note": "shiri = butt; comic register kept."
+ },
+ {
+  "en": "\"Heeelp~! I can't go forward, I can't move~.\nPush me in from your side~.\"{w}{p}\"Oh, but\nno kicking me, and nothing weird, okay~?\"{w}",
+  "kind": "msg",
+  "note": "Source has a stray space before the final {w}; dropped."
+ },
+ {
+  "en": "What will you do?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The crack crumbled away, and a path opened up.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm saaaved~.{w}Thank you, thank you veeery much~.\"{w}{p}\"So that makes us acquaintances now, Master~.{w}Traveling alone is all kinds of tough,\nso hang out with me now and then~.\"{w}",
+  "kind": "msg",
+  "note": "aruji -> 'master': Tarrit addresses the party as aruji (lord/master), a playful honorific. Doubled 'gozaimasu' -> 'thank you, thank you veeery much'. kamatte ne -> 'hang out with me / give me some attention'. | Editorial: capitalised 'Master' to match the glossary and Tarrit's later rows 230-246."
+ },
+ {
+  "en": "\"...Also,\nI'd be really happy if you paid off my tavern tab too~.\nEhehe.\"{w}",
+  "kind": "msg",
+  "note": "sakaba no tsuke = her bar tab (tavern not named)."
+ },
+ {
+  "en": "The girl went on her way, beaming and giggling \"ehehe.\"{w}",
+  "kind": "msg",
+  "note": "ehe-ehe hohoemi = grinning with 'ehehe' giggles."
+ },
+ {
+  "en": "You gave it your best shot.{w}",
+  "kind": "msg",
+  "note": "Branch result; script order puts it right before her 'gentler' complaint (row 135), so it is probably the Help or Dropkick result -- 'best shot' fits either reading."
+ },
+ {
+  "en": "\"Nngyaaah!{w}C-could you be a little gentler...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Wonderful Turmeric.{w}",
+  "kind": "msg",
+  "note": "New item name: subarashii ukon -> 'Wonderful Turmeric' (ITEM_PRIZ 35, the Tarrit event item; also named in EVENT_TEXT 79). Turmeric is a Japanese hangover remedy -- likely tied to her tavern tab."
+ },
+ {
+  "en": "\"Uwaaah, don't abandon meee~!\"{w}",
+  "kind": "msg",
+  "note": "uhaa (her tic) -> 'Uwaaah'; probably after choosing Leave."
+ },
+ {
+  "en": "You steadied your breathing and formed a hand seal.{w}A hush fell over the area, and the waves in your heart grew still.{w}",
+  "kind": "msg",
+  "note": "in wo musubu = form a (ninja) hand seal; ITEM_TEXT says the Three-Year Death technique starts with a fingertip seal."
+ },
+ {
+  "en": "{0E}\n            *   Certain Kill   *{0F}{w}",
+  "kind": "msg",
+  "note": "hissatsu banner (not an echo); ASCII spaces for centering."
+ },
+ {
+  "en": "\"Aoooooooh!?\"{w}",
+  "kind": "msg",
+  "note": "Her shriek on being jabbed."
+ },
+ {
+  "en": "\"...Hold it right there.\"{w}",
+  "kind": "msg",
+  "note": "chotto matsu (odd plain form, her quirk) -> 'Hold it right there.'"
+ },
+ {
+  "en": "Tarrit pulled free of the crack unaided\nand stared at you, clearly displeased.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Weeell, that's really going too far, y'know~.{w}Something this awful, even a gentle soul like me won't forgive.{w}No weird pranks on girls, got it?\"{w}{p}\"Hmph, hmph... Okay, take two...{w}Heave, heave...\"{w}",
+  "kind": "msg",
+  "note": "punsuka = huffy-anger mimetic -> 'Hmph, hmph'. shikiri naoshite = starting over (sumo term) -> 'take two'."
+ },
+ {
+  "en": "Tarrit crouched down and got stuck in the crack all over again.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uaaah, I can't get out~, I can't go forward~.\"{w}{p}\"...Huh?{w}Didn't I just get myself out a second ago...?{w}Huh? Huh? Huuuh???\"{w}{p}\"Oh well, whatever.{w}Anyway, heeelp meee~.\"{w}",
+  "kind": "msg",
+  "note": "areeere = escalating confusion."
+ },
+ {
+  "en": "\"Uuu. Maybe I'll keep at it a little longer~.\"{w}",
+  "kind": "msg",
+  "note": "Probably her line after the party chooses Leave."
+ },
+ {
+  "en": "\"Uwaaah, what a stubborn wall~.\"{w}",
+  "kind": "msg",
+  "note": "Speaker shown as ??? (name not yet given); it is Tarrit (row 149)."
+ },
+ {
+  "en": "A Valkyrie girl is peering into a crack in the wall in front of you, looking troubled.{w}",
+  "kind": "msg",
+  "note": "Valkyrie = character class."
+ },
+ {
+  "en": "\"Oh. Well, well, adventurers~.\n...I'm an adventurer too, y'know~.\nMy name's Tarrit~.\"{w}{p}\"There's a crack right here, see,\nand a nice fruity smell's coming from the other side~.{w}There's gotta be some yummy fruit or nuts over there~.\"{w}",
+  "kind": "msg",
+  "note": "ki no mi = nuts/berries/tree fruit -> 'fruit or nuts'. | Editorial: 'The name's' is a tough-guy register (Mokero's line); Tarrit's voice is airy."
+ },
+ {
+  "en": "\"...Slurrrp.\"{w}",
+  "kind": "msg",
+  "note": "jururi = drooling sound."
+ },
+ {
+  "en": "\"But I can't get through a gap this narrow~.{w}Uwaaah, what do I dooo~.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A crack like this, I'd love to jab it with my spear\nand pry it wide open~.\"{w}",
+  "kind": "msg",
+  "note": "oppiroge = spread wide open (slightly crude); kept blunt."
+ },
+ {
+  "en": "It looked like a secret door,\nbut the gap didn't seem like it would open.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "What will you do?",
+  "kind": "data"
+ },
+ {
+  "en": "Help",
+  "kind": "data"
+ },
+ {
+  "en": "Dropkick",
+  "kind": "data"
+ },
+ {
+  "en": "Three-Year Death",
+  "kind": "data",
+  "note": "sannen-goroshi: the joke 'killing technique' (a fingertip jab up the backside; per ITEM_TEXT, named for a rumor that losers died three years later). Also an item name in ITEM.CSV (max 20) -- keep the two the same."
+ },
+ {
+  "en": "Leave",
+  "kind": "data",
+  "note": "Reused from wmap slice_04 (menu choice)."
+ },
+ {
+  "en": "There is a weather-beaten signpost here.{w}",
+  "kind": "msg",
+  "note": "amazarashi = exposed to the rain. Next row (slice_003 row 160) asks 'Read it?'."
+ },
+ {
+  "en": "Read it?",
+  "kind": "data"
+ },
+ {
+  "en": "{0E}*            Night is dangerous            *\n*    When the sun goes down, go on home    *\n*                                          *{0F}{w}{p}{0E}*            Night is dangerous            *\n*    When the sun goes down, go on home    *\n*         Or you'll die, you know          *{0F}{w}",
+  "kind": "msg",
+  "note": "Sign gag: page 1 leaves the third line blank, page 2 fills it with the punchline. Box lines centred with ASCII spaces inside '*...*', 44 chars wide."
+ },
+ {
+  "en": "There's a signpost.{w}You could probably read it from the front.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Adventurer",
+  "kind": "name"
+ },
+ {
+  "en": "\"Damn it, what IS that freak!?\nIf we fight it head-on, we'll get wiped out...{w}Maybe it'll go to sleep if we wait till night?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That freak's gone to sleep...{w}Now we can probably get past it, but moving around at night is dangerous.\n...Wait, so we STILL can't go on!? Ugh, man...\"{w}",
+  "kind": "msg",
+  "note": "tohoho -> 'Ugh, man...'. The joke: they waited for night so the monster would sleep, but night travel is too risky."
+ },
+ {
+  "en": "\"That stone statue over there is a real trickster.\nIt's fine while it's asleep, but once it wakes up...\"{w}",
+  "kind": "msg",
+  "note": "kuwasemono = something not as harmless as it looks."
+ },
+ {
+  "en": "\"I-I feel sick...\nWhy is there a spinning floor in a place like this...\"{w}",
+  "kind": "msg",
+  "note": "Rows 167-192: two unnamed adventurers. A (ore, rough) and B (atashi, gets dizzy and throws up). Speakers alternate as noted; no pronouns used for either, since neither has a glossary gender."
+ },
+ {
+  "en": "\"Didn't I tell you?\nDon't rush in. You've gotta be more careful.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "(...Not that any of that is sinking in, I bet.){w}",
+  "kind": "msg",
+  "note": "A's thought. Japanese has no subject ('kiitya inee'); rendered impersonally to avoid a he/she for B."
+ },
+ {
+  "en": "\"My head's spinning... Urp...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Night's already fallen.\nIt's dangerous, so let's stop moving and camp out here.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'm sorry.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm always causing you trouble, aren't I?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-what's gotten into you all of a sudden!?{w}You, apologizing to me? That's not normal!{w}Did you hit your head or something?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is how everyone ends up leaving me.{w}In the end I'll be traveling all alone!{w}And then I'll die in a ditch somewhere! Uuu...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You've got me, so...\nyou won't be all alone...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I-I mean, well... y'know!\"{w}{p}\"You don't listen, you're pushy, you're an idiot,\nyou've got nothing going for you at all.{w}But strong-willed types... I don't hate 'em.\"{w}",
+  "kind": "msg",
+  "note": "A. 'ki no tsuyoi yatsu, kirai ja... nai shi' = a fumbled confession; kept the hesitation before the admission."
+ },
+ {
+  "en": "\"...Ugh... Uuuuugh...\"{w}",
+  "kind": "msg",
+  "note": "B is about to vomit; A mistakes it for crying (row 181). Kept the sound ambiguous between a sob and a retch."
+ },
+ {
+  "en": "\"Hey, hey~ No need to cry, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Urp...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How do I put it? It's not like I mind, either...\"{w}",
+  "kind": "msg",
+  "note": "A. 'manzara demo...' (not entirely unwilling) -- interrupted, kept trailing. | Editorial: 'against it' had no clear referent (accuracy note 5); 'mind' carries manzara demo without the vague 'it'."
+ },
+ {
+  "en": "\"Nope. Gonna puke.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......\"{w}",
+  "kind": "msg",
+  "note": "Shared line (dupes 7)."
+ },
+ {
+  "en": "\"Phew, that feels so much better.{w}...Ew, what's with that robe!? It's filthy!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-y-y-YOU DID THIIIS!!\"{w}",
+  "kind": "msg",
+  "note": "A: 'o-oooo, omae ga--!!' = 'you (did this)!' Rendered as the accusation it implies."
+ },
+ {
+  "en": "\"You stink, so stay away from me. Honestly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why, you little...{w}Hey... wait, not that way!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa-a-a-a-a~?\"{w}",
+  "kind": "msg",
+  "note": "B: 'aaare--?' = the classic cry of someone being swept/spun away; B wanders onto the spinning floor again."
+ },
+ {
+  "en": "\"Who am I supposed to take all this rage out on...\"{w}",
+  "kind": "msg",
+  "note": "Editorial: literal 'take all this rage' was unidiomatic; same sense (no outlet for the anger)."
+ },
+ {
+  "en": "As you stand before the door,\nit begins to open with a rumble that shakes the ground.{w}",
+  "kind": "msg",
+  "note": "Generic door line (dupes 72). [accuracy] Aligned to wmap review_gg2 row 431 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "There is a tightly sealed door.\nThere is nothing that looks like a keyhole.{w}",
+  "kind": "msg",
+  "note": "Generic door line (dupes 70). [accuracy] Aligned to wmap review_gg2 row 432 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "Mage",
+  "kind": "name"
+ },
+ {
+  "en": "\"Something's off.\nThere's a patch around here I can't fill in on the map.{w}Have we overlooked something?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Thief",
+  "kind": "name"
+ },
+ {
+  "en": "\"Sounds to me like\nwe oughta suspect a secret door.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A hidden door, hm...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My gut says it's gotta be real close by.\nLet's go look for it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's an altar.{w}It's the perfect place to throw yourself down and grovel.{w}",
+  "kind": "msg",
+  "note": "dogeza = kneeling bow to the floor (abject apology/begging). Joke sign-off kept."
+ },
+ {
+  "en": "There's a signpost that reads \"Kembeck's Shop\".{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}*          To all you adventurers          *{0F}{w}{p}{0E}*       First, check your equipment        *\n* Have you equipped your swords and armor? *\n*  Get potions and such at Kembeck's Shop  *{0F}{w}{p}{0E}*   Mages w/o a Magic Seal have it rough   *\n*     If there's a mage in your party,     *\n*      get one at Kembeck's Shop too       *{0F}{w}{p}{0E}*     Next, let's set up your compass      *\n*      Just carrying it isn't enough       *\n*      Open Camp and use the compass       *{0F}{w}{p}{0E}* Make an Angel's Window to find your way  *\n*      You'll get lost way less often      *\n*  Get home without string or breadcrumbs  *{0F}{w}{p}{0E}*   Head west down the road to find Abi    *\n*   Near the entrance: a healing spring    *\n*       In Roscadil: Toner's Armory!       *{0F}{w}{p}{0E}\n*      Good luck out there, everyone       *{0F}{w}",
+  "kind": "msg",
+  "note": "Tutorial sign. Angel's Window and compass as in wmap slices 05/09; 'Toner's Armory' = Tonaa bugu-ten (new shop name, Toner from glossary). 'Abi-san ga' = Abi is there. Kept source layout: leading blank line, page 1 one line, last page on line 2."
+ },
+ {
+  "en": "A huge flood of water came surging in.{w}The water, pumped up from underground, swept you away before you could do a thing.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Water came crashing down from overhead.{w}The water pumped up from underground became a raging torrent and blasted you away with overwhelming force!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Water came flowing out of the room.{w}You tried to hold your ground but slipped,\nand the water carried you away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's a crumbling stone tablet.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Examine it?",
+  "kind": "data"
+ },
+ {
+  "en": "As you brushed away the thick heaps of dust, barely legible letters came into view.{w}{p}'Sudden** light was lost from the l*nd, and those born of dark*** be*an to run ram*ant.'{w}{p}'Even with the ** power of the wind, we could n** hold back the encroachment of ****.'{w}{p}'Among the fiends that welled up from the earth*** was the form ** the Progenitor.{w}Though a fi**, ** held ** in high regard.'{w}{p}'*e made the **priest and the daughter of the *icked **mage Zanu** our proxies for the land, and negotiated with the Pro*****.'{w}{p}'Through the work of the * priest and the daughter, ** welcomed the Progenitor's ** true ** as the new ** light.'{w}{p}'From among the spirits dwelling in *****rtowa, a suitable guard*** was led **.'{w}{p}'By some means, the daughter guided the guardian's ***stal and crowned the Sun Spirit.{w}The sunlight was succes*fully reg*ined.'{w}{p}'*light shall pour down upon the land ** dispel the darkness and drive back evil.'{w}{p}'However, not all came to a goo* end ***.'{w}{p}'Those wh* cared for the guardian thought ill of the coronation.{w}In response, the spirits ** the wind broke away, and built an otherworldly realm in the gap betw*en heaven ** earth.'{w}{p}'And the Progenitor did not return, but descended upon the eastern lands. **s intent is beyond fathoming.'{w}{p}'We earnestly ** that this ** decision of ours will lead to a ***ght future.'{w}{p}The inscription ends there.{w}",
+  "kind": "msg",
+  "note": "Damaged inscription: '*' marks missing letters, placed at roughly the same points as the source gaps. taiso -> 'the Progenitor' (new term; a demonic being the land's people negotiated with, later 'new light'). Zanu** = partial name of a (wicked?) mage whose daughter was the proxy. '*****rtowa' = most likely Nertowa (wmap slice_02). taiyousei = Sun Spirit (wmap). 'tsukasa' read as priest (sai-shi?) -- could be another office. Gaps used to avoid a pronoun for the Progenitor."
+ },
+ {
+  "en": "Graffiti-like letters were carved into the crusty old stone desk.{w}{p}'Patrol outside on a stormy day!? You've gotta be kidding me!\nO great Agin, won't you come down here...'{w}",
+  "kind": "msg",
+  "note": "Agin (Agin-sama) = new name, apparently a deity (asked to 'come down'); 'O great' used instead of 'Lord' to avoid assuming gender. 'urotsuke' read as an order the writer was given (guard on patrol)."
+ },
+ {
+  "en": "Sluice Room{w}",
+  "kind": "op031",
+  "note": "op031 map/room label (cf. wmap 'Rotating Floor'). housui-beya = water-discharge room."
+ },
+ {
+  "en": "The hole in the wall is pumping up the water at your feet.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's a strange mechanism in the wall,\nand a hole just above the floor.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The hole in the wall began pumping up the water at your feet.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's a switch. Press it?",
+  "kind": "data"
+ },
+ {
+  "en": "The switch turned off.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The switch turned on.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's a slimy signpost.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You tried to read it, but the water had risen too high to make it out.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*      Safety check! One, two, Konnu!      *\n*   Mind your head! Three, four, Konnu!    *\n*  Mind the water level when discharging   *{0F}{w}",
+  "kind": "msg",
+  "note": "Konnu -> 'Connu' (new name; the dungeon files are named FM_CONNU, so probably the place). Workplace safety-chant parody. 'chuui saretashi' (archaic notice style) -> plain notice wording."
+ },
+ {
+  "en": "On the stone desk lies a weathered parchment document.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Read it?",
+  "kind": "data"
+ },
+ {
+  "en": "'Incident Report of Koreapper, Reservoir Guard'{w}{p}'I, Koreapper, charged with guarding the reservoir, have lost the key to the reservoir pump.'{w}{p}--Why did you lose it?{w}{p}'It seems I dropped it somewhere while making my rounds. I am terribly sorry.'{w}{p}--Where did you lose it?{w}{p}'Well... I was short on sleep, so I don't remember last night very well.'{w}{p}--Stayed up late, did you?{w}{p}'Yes.'{w}{p}--Doing what?{w}{p}'Huh? ...Oh, this and that.'{w}{p}--No hiding. Be specific.{w}{p}'W-well, it doesn't really matter what, does it?'{w}{p}--I hear you borrowed the new one from Ildam.{w}{p}'*gulp*!?'{w}{p}--You borrowed it, I hear?{w}{p}'...Yes. That's what did it.'{w}{p}--So how was it?{w}{p}'Oh, it was just... hee hee hee...'{w}{p}--Lend it to me next!{w}{p}'Ehh, should I? I dunno~'{w}{p}--I'll throw you in jail, y'know?{w}{p}'W-wait, please!\nAll right, all right,\nI'll lend it to you the day after tomorrow!!'{w}{p}After that, the record went on and on with a largely pointless back-and-forth.{w}",
+  "kind": "msg",
+  "note": "shimatsu-roku -> 'Incident Report' (written account of a blunder). Koreapper (Koreappaa) and Ildam (Irudamu) = new names. shinsaku = 'the new one' (a new work -- book or similar, left vague as in source). '--' lines are the interrogator. | Editorial: clumsy word order in the closing narration."
+ },
+ {
+  "en": "You found something in a corner of the passage.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Reservoir Key.{w}",
+  "kind": "msg",
+  "note": "New key item: Reservoir Key (chosuichi no kagi)."
+ },
+ {
+  "en": "There's nothing in particular here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "On the stone desk lies a weathered parchment document.{w}{p}'The same menu up to three times, I can forgive. But...'{w}{p}It went on and on with gripes about the wife's cooking.{w}",
+  "kind": "msg",
+  "note": "'the wife's' keeps the writer's gender open."
+ },
+ {
+  "en": "On the stone desk lies a weathered parchment document.{w}{p}'Today's weather: sunny.{w}Seems like a good time to sow the regie seeds...'{w}{p}It was crammed with records of the weather and the crops.{w}",
+  "kind": "msg",
+  "note": "Rejie -> 'regie' (new term: a crop; lowercase as a plant name)."
+ },
+ {
+  "en": "Tarrit is surrounded by monsters.{w}",
+  "kind": "msg",
+  "note": "Tarrit (Taaritto) = new name, Valkyrie girl met in slice_002 rows 118-153. Calls the player 'aruji' -> 'Master'."
+ },
+ {
+  "en": "\"GYAAAH! He-e-elp me-e-e-e!{w}Ooh! Passing by over there -- it's Master!{w}",
+  "kind": "msg",
+  "note": "No closing quote: the line continues in row 231 (as in the source)."
+ },
+ {
+  "en": "{0E}\"GYAAAH! He-e-elp me-e-e-e!\nOoh! Passing by over there -- it's Master!{0F}\nI'm Tarrit, by the way... wait, did I say that already?\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} repeats row 230 exactly ({w} of row 230 shown as \\n here, matching the source)."
+ },
+ {
+  "en": "\"GYAAH! This is no time for that!{w}Master, as you can see, I'm in a real pickle!{w}Help me out heeere! GEEEEEH!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..........Okay! Playing dead!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm leaving the rest to you, Master!{w}I'm gonna play dead till it all blows over!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "More and more monsters keep appearing.{w}",
+  "kind": "msg",
+  "note": "Shared line (dupes 7)."
+ },
+ {
+  "en": "\"...I'm dead and all, but go get 'em~...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..........I'm dead and all, but is it over yet?{w}",
+  "kind": "msg",
+  "note": "No closing quote: continues in row 238."
+ },
+ {
+  "en": "{0E}\"..........I'm dead and all, but is it over yet?{0F}\nAah, I'm saved! Thank you, Master!\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} repeats row 237 exactly."
+ },
+ {
+  "en": "\"Boy, traveling alone sure is dangerous~{w}It's way better to be with somebody!{w}",
+  "kind": "msg",
+  "note": "No closing quote: continues in slice_004 row 240, whose {0E}..{0F} part must repeat this text exactly (with \\n in place of the {w})."
+ },
+ {
+  "en": "{0E}\"Boy, traveling alone sure is dangerous~\nIt's way better to be with somebody!{0F}\n.....................*staaare*\"{w}{p}\"I'm looking at you like I want to join your party!\"{w}",
+  "kind": "msg",
+  "note": "Tarit narrates her own body language, parodying the Dragon Quest \"looks at you as if it wants to join\" message; same English as row 246. {0E} part must match row 239 (slice_003) -- sync when that slice lands. [accuracy] {0E}..{0F} part re-synced to row 239 English (was \"Phew... dangerous!\")."
+ },
+ {
+  "en": "Let Tarrit join your party?",
+  "kind": "data",
+  "note": "Menu prompt; subject (Tarit) made explicit."
+ },
+ {
+  "en": "\"I'm looking all happy!{w}Take good care of me, Masterrr!!\"{w}",
+  "kind": "msg",
+  "note": "Self-narration again (\"looks happy\" parody). aruji -> \"Master\". | Editorial: 'Nice to meetcha' is wrong for yoroshiku here; they have already met several times and she is joining the party."
+ },
+ {
+  "en": "\n{0E} *  Tarrit has been registered at the Training Hall  *  {0F}{w}",
+  "kind": "msg",
+  "note": "System-style notice in asterisks; leading \\n kept from source."
+ },
+ {
+  "en": "\"...Okay, let's take it from the top!{w}",
+  "kind": "msg",
+  "note": "Shown after the player declines: Tarit restarts the recruit gag."
+ },
+ {
+  "en": "{0E}\"...Okay, let's take it from the top!{0F}\nGyaaah! ...*flop*{w}And then I slowly sat back up!\"{w}",
+  "kind": "msg",
+  "note": "She re-enacts the defeat (scream, collapse) and the DQ \"monster gets up\" beat; {0E} part = row 244."
+ },
+ {
+  "en": "\"I'm looking at you like I want to join your party!\"{w}",
+  "kind": "msg",
+  "note": "Same Japanese as the 2nd page of row 240; same English."
+ },
+ {
+  "en": "Perhaps you were a little careless.{w}You have blocked the path of a mythical beast striding through the forest.{w}{p}You could stand and fight, but there is also a way to retreat.{w}{p}If you get even one member away, the party might at least avoid being wiped out.{w}Should you brace yourselves, or secure your retreat...?{w}{p}But the Chimera is under no obligation to wait for your decision.{w}Glaring at you in displeasure, it attacks without giving you any say.{w}",
+  "kind": "msg",
+  "note": "genjuu -> \"mythical beast\" (new term, not in glossary). Chimera -> \"it\". Escape advice = flee with one member to avoid a total party wipe. | Editorial: 'let even one of you escape' was garbled (you/you); keeps the deliberate act of getting someone out."
+ },
+ {
+  "en": "{0C:0001:0001}{w}",
+  "kind": "msg",
+  "note": "Runtime insert only; kept verbatim."
+ },
+ {
+  "en": "With a strange whirring, a Tetramystica glides across the floor.{w}{p}A Tetramystica specialized for guard duty -- a \"Guard Mystica,\" you might call it.{w}{p}Here and there the students have scrawled on it: \"Idiot,\" \"Moron,\" even doodled nose hairs.{w}Even so, its function of guarding the Academy is still fully intact.{w}{p}So it is only natural that, on spotting you outsiders who don't belong to the Academy, it moves to eliminate you.{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_01.out.json row 0; reused for consistency."
+ },
+ {
+  "en": "You have run into a foe you never expected.{w}A vast form, its whole body blazing with light.{w}{p}Without a sound, the very air shudders and trembles.{w}With the word \"alien\" lodged in your hearts, you stand exposed to its savage power.{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_01.out.json row 1; reused for consistency."
+ },
+ {
+  "en": "Suddenly, a gigantic beast appears before you.{w}Half tiger and half horse, it is wildly flailing its arms and its whole body.{w}{p}And now its fury turns on you as well.{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_01.out.json row 2; reused for consistency."
+ },
+ {
+  "en": "Darkness within darkness.{w}Welling up from the abode of the Nether King, it fills the air around it with an incomprehensible tongue.{w}{p}What it is saying: unknown.{w}What it is even trying to do: unknown.{w}{p}But one thing is clear:\nit means to destroy you.{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_01.out.json row 3; reused for consistency."
+ },
+ {
+  "en": "A giant leaps out in front of you.{w}It seems to be distracted by something else.{w}{p}It doesn't appear able to tell whether you are enemies or mere visitors.{w}{p}No -- for just a moment it seemed to give it some thought, but\n'Eh, I'll just punch them for now and...'{w}seems to be the conclusion it reached.{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_01.out.json row 4; reused for consistency."
+ },
+ {
+  "en": "You succeeded in driving off the fearsome enemy.",
+  "kind": "data",
+  "note": "Same wording as the damaged copy (row 257 / wmap slice_01 row 5)."
+ },
+ {
+  "en": "You fled from the Floor Master.",
+  "kind": "data"
+ },
+ {
+  "en": "Fearsome mythical beasts let out a growl.{w}You must have strayed into their territory.{w}Unfortunately, it looks like there is no avoiding their attack.{w}",
+  "kind": "msg",
+  "note": "genjuu -> \"mythical beasts\"."
+ },
+ {
+  "en": "You succeeded in driving off the fearsome enemy.",
+  "kind": "msg",
+  "note": "Source string is damaged (pointer lands on the 2nd byte of the first kanji of \"fearsome\"; stray half-width mark). Translated the evident full meaning, same as wmap slice_01 row 5 and row 254 here. Verify the game really displays this string."
+ },
+ {
+  "en": "Electra",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh, it's you guys again!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 242; reused for consistency."
+ },
+ {
+  "en": "\"How's it going?\"",
+  "kind": "data",
+  "note": "Identical source line already translated in slice_04.out.json row 243; reused for consistency."
+ },
+ {
+  "en": "Talk",
+  "kind": "data",
+  "note": "Identical source line already translated in slice_04.out.json row 244; reused for consistency."
+ },
+ {
+  "en": "Mig",
+  "kind": "name"
+ },
+ {
+  "en": "\"Electra, come on, let's get going!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 245; reused for consistency."
+ },
+ {
+  "en": "\"Wait, I haven't introduced everyone yet.{w}This is Mig.{w}A unicorn, as you can see.\"{w}{p}\"Mig and I have been together since birth,{w}and Mig travels with me like this.{w}And...........\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 246; reused for consistency."
+ },
+ {
+  "en": "Yamuru",
+  "kind": "name"
+ },
+ {
+  "en": "\"Yamuru. I'm a bounty hunter.{w}I hear the Proclamation pays a pretty good sum,{w}so I've been let in on this party.\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 247; reused for consistency."
+ },
+ {
+  "en": "Maniron",
+  "kind": "name"
+ },
+ {
+  "en": "\"I'm Maniron~! Nice ta meetcha~!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 248; reused for consistency."
+ },
+ {
+  "en": "Korbitz",
+  "kind": "name"
+ },
+ {
+  "en": "\"My name is Korbitz.{w}We may end up relying on each other from here on,{w}so let's look out for one another, eh?\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 249; reused for consistency."
+ },
+ {
+  "en": "Mokero",
+  "kind": "name"
+ },
+ {
+  "en": "\"The name's Mokero, it is!{w}The Miss has done a whole heap for me,{w}and I'll be followin' the Miss for the rest o' my days!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 251; reused for consistency."
+ },
+ {
+  "en": "\"Mokero, I keep telling you,\nyou don't have to be so formal...\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 252; reused for consistency."
+ },
+ {
+  "en": "\"Miss! Don't go sayin' such cold things!{w}The debt I owe you, Miss, is............\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 253; reused for consistency."
+ },
+ {
+  "en": "\"Electra's a kind child, you see,{w}took us in, just like this.{w}So please, all of you, be good to Electra.\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 254; reused for consistency."
+ },
+ {
+  "en": "\"Ugh, honestly! You're all exaggerating!{w}If someone's in trouble, I help them.{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 255; reused for consistency."
+ },
+ {
+  "en": "{0E}\"Ugh, honestly! You're all exaggerating!\nIf someone's in trouble, I help them.{0F}\nThat's only natural, right?\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 256; reused for consistency."
+ },
+ {
+  "en": "\"Me too, y'know~ Electra once~\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 257; reused for consistency."
+ },
+ {
+  "en": "\"Okay, okay, I get it!{w}Anyway, that's how it is, so be nice to all of us, okay?\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 258; reused for consistency."
+ },
+ {
+  "en": "\"By the way... yours looks\nlike a pretty decent party.\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 259; reused for consistency."
+ },
+ {
+  "en": "\"We might end up competing with each other in all kinds of ways.{w}What do you say? How about you lot\nand us have a little test of skill?\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 260; reused for consistency."
+ },
+ {
+  "en": "\"Hey, Yamuru!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 261; reused for consistency."
+ },
+ {
+  "en": "\"These are the people who'll be our rivals from here on.{w}We need to see what they can do now, don't we?\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 262; reused for consistency."
+ },
+ {
+  "en": "\"Well, that's...\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 263; reused for consistency."
+ },
+ {
+  "en": "\"Besides, you need the bounty money, right?{w}Or was this something you started half-heartedly?\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 264; reused for consistency."
+ },
+ {
+  "en": "\"Electra, what'll we do?\nIf you're going to fight, I'll help, okay?\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 265; reused for consistency."
+ },
+ {
+  "en": "\"............Okay, I've made up my mind!\"{w}{p}\"You guys, let's have a match!{w}All right, everyone, let's go!!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 266; reused for consistency."
+ },
+ {
+  "en": "\"Ooh~ I'm gonna lop off some heads~!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 267; reused for consistency."
+ },
+ {
+  "en": "You sent Electra's party packing.{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 269; reused for consistency."
+ },
+ {
+  "en": "\"Ow ow ow...{w}You guys are amazing...\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 270; reused for consistency."
+ },
+ {
+  "en": "\"Not bad at all.{w}Still, Electra,{w}your alchemy spells are as half-baked as ever.\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 271; reused for consistency."
+ },
+ {
+  "en": "\"I wanted a Bulafei~~!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 272; reused for consistency."
+ },
+ {
+  "en": "\"Th-then go hide yourself!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 273; reused for consistency."
+ },
+ {
+  "en": "\"It's okay, Electra!\nYour alchemy spells will get better from here on!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 274; reused for consistency."
+ },
+ {
+  "en": "\"Th... thank you, Mig...\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 275; reused for consistency."
+ },
+ {
+  "en": "\"It's all right,{w}there's no need to rush.\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 276; reused for consistency."
+ },
+ {
+  "en": "\"I'll be lendin' a hand too, I will!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 277; reused for consistency."
+ },
+ {
+  "en": "\"Everyone... thank you.{w}Okay, so that's how it is,{w}next time I'll be able to do a lot more!\"{w}{p}\"See you!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 278; reused for consistency."
+ },
+ {
+  "en": "Electra and the others went on their way.{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 279; reused for consistency."
+ },
+ {
+  "en": "\"............\"",
+  "kind": "data",
+  "note": "Identical source line already translated in slice_04.out.json row 280; reused for consistency."
+ },
+ {
+  "en": "Talk to them",
+  "kind": "data",
+  "note": "Identical source line already translated in slice_04.out.json row 281; reused for consistency."
+ },
+ {
+  "en": "\"Look, alchemy spells and Rangers go well together.{w}But if your success rate's low, it's pointless.\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 282; reused for consistency."
+ },
+ {
+  "en": "\"I know that already!{w}That's why I'm studying like this, okay!?\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 283; reused for consistency."
+ },
+ {
+  "en": "\"Don't be so hard on the Miss!{w}I'll be pitchin' in too, I will!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 284; reused for consistency."
+ },
+ {
+  "en": "\"Maniron's gonna try hard too~!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 285; reused for consistency."
+ },
+ {
+  "en": "\"That's right, Electra!{w}You mustn't live a life where you bend your convictions!{w}You can still do it! Hang in there!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 286; reused for consistency."
+ },
+ {
+  "en": "\"You're right... I'll try a little harder!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 287; reused for consistency."
+ },
+ {
+  "en": "\"There's no need to hurry, just go at your own pace...{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 288; reused for consistency."
+ },
+ {
+  "en": "{0E}\"There's no need to hurry, just go at your own pace...{0F}\nOh?\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 289; reused for consistency."
+ },
+ {
+  "en": "\"Oh, it's you guys! What a coincidence!{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 290; reused for consistency."
+ },
+ {
+  "en": "{0E}\"Oh, it's you guys! What a coincidence!{0F}\nHow's it going? Things are going great for us!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 291; reused for consistency."
+ },
+ {
+  "en": "\"Come to think of it, you got the better of us last time.{w}It won't go that way this time, got it?\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 292; reused for consistency."
+ },
+ {
+  "en": "\"Yamuru, you're more hot-blooded than you look.{w}Didn't you have a rule about never doing anything that doesn't pay?\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 293; reused for consistency."
+ },
+ {
+  "en": "\"There's something I want to check...\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 294; reused for consistency."
+ },
+ {
+  "en": "\"I'll be showin' what I'm made of too!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 295; reused for consistency."
+ },
+ {
+  "en": "\"Chop-chop, off with their heads~~~!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 296; reused for consistency."
+ },
+ {
+  "en": "\"Hm? Fine by me, but...?{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 297; reused for consistency."
+ },
+ {
+  "en": "{0E}\"Hm? Fine by me, but...{0F}\nOkay, everyone, let's go!\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 298; reused for consistency."
+ },
+ {
+  "en": "\"...Just as I thought.\"{w}",
+  "kind": "msg",
+  "note": "Identical source line already translated in slice_04.out.json row 299; reused for consistency."
+ },
+ {
+  "en": "\"What's wrong?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, it's nothing.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"No, it's nothing.{0F}\nYou lot look like a pretty good party.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, it's parties like ours, with a unicorn,\nthat are the rare ones, y'know.\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 303 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Having me around is proof of Innocence, after all!\"{w}",
+  "kind": "msg",
+  "note": "Innocent = never changed class (cf. Innocent series, pilot row 33); a unicorn stays only with an Innocent, which drives Mig's fear of Electra changing class later in the scene. Mig: no pronoun used (gender unknown). [accuracy] Aligned to wmap review_gg1 row 304 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Yeah, yeah, you're absolutely right.\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 305 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Miss! It's about time we...\"{w}",
+  "kind": "msg",
+  "note": "o-jou = 'Miss' as in wmap slice_04 (a form of address; Electra's gender stays unassumed)."
+ },
+ {
+  "en": "\"You're right.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"You're right.{0F}\nWe won't lose next time, you hear? See you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmm...\"",
+  "kind": "data"
+ },
+ {
+  "en": "\"But I really do need to study...{w}Even you can read and write, right, Yamuru?\"{w}",
+  "kind": "msg",
+  "note": "Addressed to Yamuru: the reply ('harsh way to put it') settles it."
+ },
+ {
+  "en": "\"That's a harsh way to put it.\nWhat good is a bounty hunter who can't read a wanted poster?\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 311 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"I can't read, but\nit's never been a problem, y'know?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll teach you, then.{w}Perhaps we'll hold a little study session one of these days, hm?\"{w}",
+  "kind": "msg",
+  "note": "Korbitz answers Maniron (who can't read). [accuracy] Aligned to wmap review_gg1 row 313 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"I hate studyyying...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But what about textbooks... and the money for them?\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 315 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Oh, we'll manage somehow.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Electra, Electra, look!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh! You again, in a place like this!\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 318 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"We must share quite the bond of fate, eh?\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 319 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"We've been getting stronger too, you know,\nso we won't lose this time!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right then,{w}let's go, everyone!\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 321 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Mighty impressive, as always!\"{w}",
+  "kind": "msg",
+  "note": "Post-battle line: Mokero praises the winning player party (same pattern as row 290 'You guys are amazing'). [accuracy] Aligned to wmap review_gg1 row 322 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Oh, that reminds me.\nDo you guys know anything about the Moonlight Spirit?\"{w}",
+  "kind": "msg",
+  "note": "Maniron asks the player party (kimitachi). Moonlight Spirit / Sun Spirit as in wmap slices 02/10."
+ },
+ {
+  "en": "\"You really do march to your own beat.{w}The Moonlight Spirit? Don't you mean the Sun Spirit?\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 324 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Nope, the Moonlight Spirit.{w}I've been kinda sorta looking for it.{w}And since I can't find it, it bugs me even more~\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 325 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"One way or another, you guys sure know a lot...{w}I really do need to study.{w}",
+  "kind": "msg",
+  "note": "anata-tachi here = Electra's own companions (Yamuru/Maniron just showed off their knowledge); 'you guys' keeps it open. [accuracy] Aligned to wmap review_gg1 row 326 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "{0E}\"One way or another, you guys sure know a lot...\nI really do need to study.{0F}\nAnd I have to work harder at alchemy, too...\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 327 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Then just change classes.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ninja! Ninja's the way to go!{w}YAMURU IS DECAPITATED!{w}",
+  "kind": "msg",
+  "note": "Wizardry-style critical-hit message in caps (source in kana, system-message style). [accuracy] Aligned to wmap review_gg1 row 329 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "{0E}\"Ninja! Ninja's the way to go!\nYAMURU IS DECAPITATED!{0F}\n*ding* R.I.P.!\"{w}",
+  "kind": "msg",
+  "note": "chiin = the Buddhist altar bell rung for the dead; 'Rest in peace' added to carry the death-bell sense. [accuracy] Aligned to wmap review_gg1 row 330 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Why's it gotta be me!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, pipe down.{w}We don't neeeed a thief who can't\neven disarm traps!\"{w}",
+  "kind": "msg",
+  "note": "Aimed at Yamuru (has thief skills and misjudged a trap in pilot row 362). [accuracy] Aligned to wmap review_gg1 row 332 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"You can just go end up\n    *INSIDE THE STONE*\nall by yourself!\"{w}",
+  "kind": "msg",
+  "note": "Wizardry homage: ishi no naka ni iru is the teleport-into-rock wipe message. Centered line kept on its own line with a few spaces. [accuracy] Aligned to wmap review_gg1 row 333 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"W-wait a sec...\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 334 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"That's right! Electra, don't give up!{w}You're gonna make loads of money as an alchemist, right?{w}Don't go bending your convictions!\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 335 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Mig...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Look.{w}Electra, you need to knock it off too.{w}If you keep wavering any longer, I'm out.\"{w}",
+  "kind": "msg",
+  "note": "ore wa oriru = quit the party. [accuracy] Aligned to wmap review_gg1 row 337 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Hold... on, Yamuru...{w}Where's this coming from all of a sudden...?\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 338 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Someone who's half-hearted drags everyone else down too.\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 339 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Aw, don't go sayin' that, chief!{w}I'll just dig in all the harder to make up for it!\"{w}",
+  "kind": "msg",
+  "note": "nii-san -> 'chief' (wmap slice_05 choice; gender-neutral, Yamuru's gender is unknown). [accuracy] Aligned to wmap review_gg1 row 340 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"That's right!\nElectra's working really hard, you know!\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 341 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"You'd better think a little harder{w}about what you're actually\nsaying.\"{w}",
+  "kind": "msg",
+  "note": "Yamuru to Mig: Mig's cheering keeps Electra from changing class, which also suits Mig (see row 324). [accuracy] Aligned to wmap review_gg1 row 342 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Says the one who's already changed classes!\"{w}",
+  "kind": "msg",
+  "note": "Mig retorts that Yamuru has changed class (tenshoku keikensha). [accuracy] Aligned to wmap review_gg1 row 343 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"...Mig.\"{w}",
+  "kind": "msg",
+  "note": "Mild reproach to Mig."
+ },
+ {
+  "en": "\"...I'll stick with you a little longer, at least.{w}Studying's something you can start bit by bit, too.{w}Now give me an answer.\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 345 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"......Yeah... You're right...\nI'll try a little harder...{w}...Is that okay?\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 346 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"...Fine.{w}Anyway, we're moving on.{w}Hanging around here forever won't get us anywhere.\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 347 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Right!{w}Well then, you guys take care too, okay?\"{w}",
+  "kind": "msg",
+  "note": "Electra to the player party. [accuracy] Aligned to wmap review_gg1 row 348 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Dvel Soft Steel and Frozen Elven Iron...\"",
+  "kind": "data",
+  "note": "Item names: 'Dvel Soft Steel' (wmap slice_09 x3; wmap slice_05 has 'Mild Steel' once), 'Frozen Elven Iron'. ITEM.CSV not yet translated (max 20)."
+ },
+ {
+  "en": "\"Those two make an Angel's Window...{w}I know that one, since I've made it before.{w}",
+  "kind": "msg",
+  "note": "Electra reading a recipe list (RENKIN_TXT: Dvel Soft Steel x Frozen Elven Iron = Angel's Window). [accuracy] Aligned to wmap review_gg1 row 350 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "{0E}\"Those two make an Angel's Window...\nI know that one, since I've made it before.{0F}\nAnd then Ma... Mazu... Mazu-ree-tay?\"{w}",
+  "kind": "msg",
+  "note": "Mazurite (wmap slice_05 coinage; ITEM.CSV 443 untranslated). JP gag: she misreads the middle kanji as 'ao'; English: she mangles the end of the word. Mokero corrects the fumbled part next row. [accuracy] Aligned to wmap review_gg1 row 351 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Miss, that'd be '-rite'...\"{w}",
+  "kind": "msg",
+  "note": "Mokero gives the correct reading of the part she fumbled (JP: 'sou'). [accuracy] Aligned to wmap review_gg1 row 352 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Huh? Oh, so it's pronounced 'Mazurite'!\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 353 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"...Heyyy, some alchemist you are~~...\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 354 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"B-but I know the real thing when I see it, and I can transmute it,{w}and I know what it's called and everything!{w}...Even if I didn't know how to read it.\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 355 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"It's that sort of carelessness, you see,{w}that leaves you red-faced in front of others like this...{w}Now, can you spell 'Mazurite'?\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 356 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Um... 'Mazuright'...\"{w}",
+  "kind": "msg",
+  "note": "JP: wrong kanji with the same reading; English: homophone misspelling."
+ },
+ {
+  "en": "\"Ooh, that's our Miss! Beautifully done!\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 358 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"...Isn't that kinda wrong-ish?\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 359 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"'Mazurite'... Like this.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It looks close and it sounds the same, so who cares!\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 361 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Now, now, take your time learning it.{w}I'd call that... sixty out of a hundred, shall we say.\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 362 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Way to go, Electra!\nThat's a better score than last time!\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 363 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"I guess so.........{w}Hmm, with this stuff, I guess the only way\nis to write it out a lot until it sticks...\"{w}",
+  "kind": "msg",
+  "note": "Distracted, flat reply; it makes Mig feel brushed off (rows 385-388). [accuracy] Aligned to wmap review_gg1 row 364 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"...Electra?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ahahahaha!\nMig, Electra thinks you're a pest!\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 366 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Huh!? That's not true, Mig!\nThank you, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Am I getting in your way, Electra?\"{w}",
+  "kind": "msg",
+  "note": "Mig names Electra while speaking to Electra; rendered as direct address."
+ },
+ {
+  "en": "\"You're overthinking it. It's fine!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"You're overthinking it. It's fine!{0F}\nOh, it is you guys.{w}Sorry I'm always so slow to notice!\"{w}",
+  "kind": "msg",
+  "note": "Electra greets the player party, who walked up unnoticed; this sets up the ninja/thief jokes. [accuracy] Aligned to wmap review_gg1 row 370 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Maybe they're all ninjas?{w}",
+  "kind": "msg",
+  "note": "Maniron: they sneak up like ninjas."
+ },
+ {
+  "en": "{0E}\"Maybe they're all ninjas?{0F}\nChop! Off with their heads!\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 372 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"Nah, nah, maybe{w}every last one of 'em's a thief,\nsame as me, eh?\"{w}",
+  "kind": "msg",
+  "note": "Mokero is a thief."
+ },
+ {
+  "en": "\"Okay, okay, that's enough!{w}Now then, let's put all that studying to the test!{w}...Mig?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, it's nothing, Electra!\nLet's show them what we can do!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah, let's!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Heeeads!!\"{w}",
+  "kind": "msg",
+  "note": "[accuracy] Aligned to wmap review_gg1 row 377 (identical Japanese); previous chap wording was a variant of the same meaning."
+ },
+ {
+  "en": "\"...Electra, am I really not getting in your way?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Seriously, what's wrong?{w}Of course you're not.\"{w}",
+  "kind": "msg"
+ }
+]

@@ -1,0 +1,355 @@
+[
+ {
+  "en": "E",
+  "kind": "ui",
+  "note": "Equipped marker in item lists (assumed)."
+ },
+ {
+  "en": "O",
+  "kind": "ui",
+  "note": "Full-width circle -> ASCII 'O' (can-use/available mark). Font may have the real glyph; orchestrator may prefer keeping it."
+ },
+ {
+  "en": "X",
+  "kind": "ui",
+  "note": "Full-width cross -> ASCII 'X' (pairs with row 161)."
+ },
+ {
+  "en": "Sold Out",
+  "kind": "ui"
+ },
+ {
+  "en": "Inf",
+  "kind": "ui",
+  "note": "Infinity sign (unlimited shop stock, assumed). ASCII has no infinity; 'Inf' is 3 chars vs 2 cols in JP -- check column fit."
+ },
+ {
+  "en": "Yes",
+  "kind": "ui",
+  "note": "'ari' = present/yes. Context unseen; could be On/Off if this is an option toggle. Pairs with row 166."
+ },
+ {
+  "en": "None",
+  "kind": "ui",
+  "note": "'nashi' (5 uses): 'None' chosen to cover empty-slot uses; if the pair is an option toggle, 'Off' may read better."
+ },
+ {
+  "en": "-Storage-",
+  "kind": "ui"
+ },
+ {
+  "en": "------",
+  "kind": "ui",
+  "note": "Separator/empty-slot filler; 6 ASCII hyphens for 6 full-width dashes (narrower on screen)."
+ },
+ {
+  "en": "Yes",
+  "kind": "ui"
+ },
+ {
+  "en": "No",
+  "kind": "ui"
+ },
+ {
+  "en": "Return to the inn?",
+  "kind": "ui"
+ },
+ {
+  "en": "Change to this class?",
+  "kind": "ui"
+ },
+ {
+  "en": "Buy this. Are you sure?",
+  "kind": "ui"
+ },
+ {
+  "en": "Sell this. Are you sure?",
+  "kind": "ui"
+ },
+ {
+  "en": "Trade this. Are you sure?",
+  "kind": "ui",
+  "note": "'torihiki' = trade/exchange (trading menu)."
+ },
+ {
+  "en": "Change personality comment?",
+  "kind": "ui"
+ },
+ {
+  "en": "Change Extra Skill?",
+  "kind": "ui",
+  "note": "New term: Extra Skill."
+ },
+ {
+  "en": "Enter personality comment?",
+  "kind": "ui"
+ },
+ {
+  "en": "Register this character?",
+  "kind": "ui"
+ },
+ {
+  "en": "Suspend adventure. Are you sure?",
+  "kind": "ui",
+  "note": "'chuudan' = suspend (quit for now)."
+ },
+ {
+  "en": "Use this?",
+  "kind": "ui",
+  "note": "Facility/service unknown; generic."
+ },
+ {
+  "en": "Is this OK?",
+  "kind": "ui"
+ },
+ {
+  "en": "Dismantle it. Are you sure?",
+  "kind": "ui",
+  "note": "'bunkai' = break an item down (alchemy)."
+ },
+ {
+  "en": "Solve this problem for 'em! Got it!?",
+  "kind": "ui",
+  "note": "Speaker unseen; rough, pushy voice ('yare yo! na!?'). 'soudan' = someone's problem/consultation, pairs with Solved/Unsolved rows 225-226."
+ },
+ {
+  "en": "Buy a hint?",
+  "kind": "ui"
+ },
+ {
+  "en": "Delete this character?",
+  "kind": "ui"
+ },
+ {
+  "en": "Restore all options to default?",
+  "kind": "ui"
+ },
+ {
+  "en": "Request an appraisal?",
+  "kind": "ui"
+ },
+ {
+  "en": "Sell this item. Are you sure?",
+  "kind": "ui"
+ },
+ {
+  "en": "Uncurse/Repair it?",
+  "kind": "ui"
+ },
+ {
+  "en": "Unleash its hidden power?",
+  "kind": "ui"
+ },
+ {
+  "en": "Really discard it?",
+  "kind": "ui"
+ },
+ {
+  "en": "Save to which slot?",
+  "kind": "ui",
+  "note": "Lit. 'Where will you save?'"
+ },
+ {
+  "en": "Is it OK to save your current progress?",
+  "kind": "ui"
+ },
+ {
+  "en": "Resume the game?",
+  "kind": "ui"
+ },
+ {
+  "en": "Are you really sure you want to delete this?",
+  "kind": "ui"
+ },
+ {
+  "en": "Are you sure you want to delete this?",
+  "kind": "ui"
+ },
+ {
+  "en": "Install game data?",
+  "kind": "ui"
+ },
+ {
+  "en": "Spend Fame to imbue it with light?",
+  "kind": "ui",
+  "note": "'hikari wo yadosu': 'it' is assumed to be the compass (wmap rows 1184/1220: Fame turned into compass light). Exactly 34 bytes."
+ },
+ {
+  "en": "Change the icon image and style image?",
+  "kind": "ui",
+  "note": "Icon = small portrait, style = full character art (assumed)."
+ },
+ {
+  "en": "Save your data?",
+  "kind": "ui"
+ },
+ {
+  "en": "No confirmation message available\n",
+  "kind": "ui",
+  "note": "Debug fallback; trailing \n kept (counts 1 byte)."
+ },
+ {
+  "en": "Item sold.",
+  "kind": "ui"
+ },
+ {
+  "en": "Uncursed/Repaired.",
+  "kind": "ui"
+ },
+ {
+  "en": "Strange smoke rises!!",
+  "kind": "ui",
+  "note": "Alchemy Storage mishap."
+ },
+ {
+  "en": "It exploded!!",
+  "kind": "ui",
+  "note": "Subject = the Alchemy Storage (row 207)."
+ },
+ {
+  "en": "You found something in the wreckage.",
+  "kind": "ui",
+  "note": "Full sense 'found something from the exploded Alchemy Storage' does not fit 36; 'wreckage' + row 206 'It exploded!!' carries it. Exactly 36 bytes."
+ },
+ {
+  "en": "Discarded.",
+  "kind": "ui"
+ },
+ {
+  "en": "Donated.",
+  "kind": "ui"
+ },
+ {
+  "en": "Purchased.",
+  "kind": "ui"
+ },
+ {
+  "en": "Select the save data to load.",
+  "kind": "ui"
+ },
+ {
+  "en": "\nPress Triangle to delete this data.",
+  "kind": "ui",
+  "note": "Triangle button glyph spelled out (ASCII only)."
+ },
+ {
+  "en": "Save data loaded.",
+  "kind": "ui"
+ },
+ {
+  "en": "Starting a new game.",
+  "kind": "ui"
+ },
+ {
+  "en": "Installing data will make\nthe game load faster.",
+  "kind": "ui"
+ },
+ {
+  "en": "\n*Existing install data will be deleted.",
+  "kind": "ui",
+  "note": "Reference mark -> '*'."
+ },
+ {
+  "en": "\n*No Memory Stick is inserted.",
+  "kind": "ui",
+  "note": "U+2502 after the Memory Stick name is presumably the TM glyph in the game font; dropped (ASCII only). Same in 232/238/239."
+ },
+ {
+  "en": "Installation failed.\nAborting installation.",
+  "kind": "ui"
+ },
+ {
+  "en": "Bare Hands",
+  "kind": "ui",
+  "note": "Empty weapon slot / unarmed."
+ },
+ {
+  "en": "-",
+  "kind": "ui"
+ },
+ {
+  "en": "Current HP is below ",
+  "kind": "ui",
+  "note": "First half of 'HP below N% of max HP'; a number is assumed to be drawn between 221 and 222. Trailing space kept for the number; 20 chars = JP width."
+ },
+ {
+  "en": "percent of max HP",
+  "kind": "ui",
+  "note": "Second half (see 221). | Orchestrator: no literal % (string may go through printf)."
+ },
+ {
+  "en": "Save          ",
+  "kind": "ui",
+  "note": "'Save' + 10 ASCII spaces = JP width (4 + 5 full-width spaces); padding likely blanks a wider label."
+ },
+ {
+  "en": "Party %3d",
+  "kind": "ui"
+ },
+ {
+  "en": "Solved",
+  "kind": "ui"
+ },
+ {
+  "en": "Unsolved",
+  "kind": "ui"
+ },
+ {
+  "en": "Bought",
+  "kind": "ui",
+  "note": "Hint purchased status (row 185)."
+ },
+ {
+  "en": "????????????????",
+  "kind": "ui",
+  "note": "Unknown/masked field: 16 ASCII '?' for 16 full-width (1:1; narrower on screen)."
+ },
+ {
+  "en": "                ",
+  "kind": "ui",
+  "note": "Blank filler: 16 ASCII spaces for 16 full-width spaces (1:1). If it must blank the same pixel width, use 32."
+ },
+ {
+  "en": "...",
+  "kind": "ui"
+ },
+ {
+  "en": "   ",
+  "kind": "ui",
+  "note": "Blank filler: 3 ASCII spaces for 3 full-width (1:1); pairs with row 230."
+ },
+ {
+  "en": "%s\nDo not remove the Memory Stick.",
+  "kind": "ui"
+ },
+ {
+  "en": "Saving...",
+  "kind": "ui"
+ },
+ {
+  "en": "Save complete.",
+  "kind": "ui",
+  "note": "Exactly 14 bytes."
+ },
+ {
+  "en": "Save failed.",
+  "kind": "ui"
+ },
+ {
+  "en": "Loading data...",
+  "kind": "ui"
+ },
+ {
+  "en": "Save data is corrupt.\nIt will be deleted.",
+  "kind": "ui",
+  "note": "Exactly 41 bytes incl. newline."
+ },
+ {
+  "en": "Deleting corrupt save data.\nDo not remove the Memory Stick.",
+  "kind": "ui"
+ },
+ {
+  "en": "Please insert a Memory Stick with\nat least %dKB of free space.",
+  "kind": "ui"
+ }
+]

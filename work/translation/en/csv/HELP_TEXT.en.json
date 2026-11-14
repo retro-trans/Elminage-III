@@ -1,0 +1,2678 @@
+[
+ {
+  "id": "HELP_TEXT.CSV:4:10",
+  "en": "Select where to load Face Load images from, then press the Circle button.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:5:10",
+  "en": "Select the file name to load.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:6:10",
+  "en": "Loading images from the PICTURE folder...   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:7:10",
+  "en": "Loading the Face Load list...   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:8:10",
+  "en": "Swapping Face Load data...   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:9:10",
+  "en": "Deleting Face Load data...   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:10:10",
+  "en": "Enter the password shown in the Book of the Next Age.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:11:10",
+  "en": "Check your spells.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:12:10",
+  "en": "You cannot move to this location.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:13:10",
+  "en": "You cannot cast that spell here right now.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:14:10",
+  "en": "You have not learned any spells of this level.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:15:10",
+  "en": "This character is in no condition to cast spells.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:16:10",
+  "en": "No uses remain for spells of this level.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:17:10",
+  "en": "You cannot teleport to a place with no floor.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:18:10",
+  "en": "Check the items you are carrying.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:19:10",
+  "en": "Equip an item.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:20:10",
+  "en": "Use an item.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:21:10",
+  "en": "Give an item.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:22:10",
+  "en": "Discard an item.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:23:10",
+  "en": "If you have a Bishop, you can appraise unidentified items.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:24:10",
+  "en": "Choose an equipment slot. Circle: Compare and swap with current gear. Square: Unequip.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:25:10",
+  "en": "Triangle: Item details. Cross: Back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:26:10",
+  "en": "Triangle: Item details. Cross: Back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:27:10",
+  "en": "Choose an equipment slot. Circle: Compare and swap with current gear. Square: Unequip.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:28:10",
+  "en": "Triangle: Item details. Cross: Back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:29:10",
+  "en": "Triangle: Item details. Cross: Back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:30:10",
+  "en": "Select an item to use.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:31:10",
+  "en": "It is cursed and cannot be removed.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:32:10",
+  "en": "Choose an item to give.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:33:10",
+  "en": "Choose who will receive the item.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:34:10",
+  "en": "Choose an item to discard.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:35:10",
+  "en": "This item cannot be used.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:36:10",
+  "en": "It cannot be appraised.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:37:10",
+  "en": "There is no character who can appraise items.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:38:10",
+  "en": "This character is not carrying any items.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:39:10",
+  "en": "The item has been unequipped.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:40:10",
+  "en": "You have been cursed.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:41:10",
+  "en": "It is cursed and cannot be discarded.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:42:10",
+  "en": "This character is in no condition to appraise items.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:43:10",
+  "en": "Oops! You touched it!   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:44:10",
+  "en": "Cannot equip: this character has changed classes before.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:45:10",
+  "en": "There is no one to hand the item to.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:46:10",
+  "en": "This character is in no condition to cast spells.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:47:10",
+  "en": "Unable to use items in this condition.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:48:10",
+  "en": "This item is unidentified. Please have it appraised.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:49:10",
+  "en": "Cannot equip: the equipment requirements are not met.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:50:10",
+  "en": "This item has already been appraised.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:51:10",
+  "en": "This item is broken.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:52:10",
+  "en": "A child born of a cursed act cannot equip this item.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:53:10",
+  "en": "The item slots are full.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:54:10",
+  "en": "Characters with the Cook skill cannot eat this.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:55:10",
+  "en": "Organize the items in the Servant's Bag.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:56:10",
+  "en": ": move it back to the item list. Triangle: Set the recovery timing.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:57:10",
+  "en": "Set when Maid Recover heals from the bag.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:58:10",
+  "en": "The item slots are full, so it cannot be returned to the item list.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:59:10",
+  "en": "This character is not a Servant.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:60:10",
+  "en": "This requires the High Master ability Fate Alteration.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:61:10",
+  "en": ": put it into the Servant's Bag. Triangle: Set the recovery timing.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:62:10",
+  "en": "That item is not in the Servant's Bag.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:63:10",
+  "en": "Check a character's condition in detail.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:64:10",
+  "en": "Split all party members' money evenly.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:65:10",
+  "en": "Collect all party members' money.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:66:10",
+  "en": "Who will you cast the spell on?   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:67:10",
+  "en": "This stat is already at MAX.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:68:10",
+  "en": "That is the same as the current alignment.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:69:10",
+  "en": "Cast the spell?   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:73:10",
+  "en": "Triangle: Resists & Slaying   Cross: Back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:74:10",
+  "en": "Triangle: Special Effects & Resists  Cross: Back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:75:10",
+  "en": "Triangle: Monster Effects  Cross: Back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:76:10",
+  "en": "Triangle: Passives  Cross: Back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:77:10",
+  "en": "Show the list of skills.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:78:10",
+  "en": "A tavern where adventurers gather.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:79:10",
+  "en": "Restore HP and MP, and do smithing and alchemy.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:80:10",
+  "en": "Buy and sell items, or have them appraised.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:81:10",
+  "en": "Provides healing, resurrection and more.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:82:10",
+  "en": "Browse the encyclopedias and report your adventure's progress.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:83:10",
+  "en": "Register characters and more.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:84:10",
+  "en": "Downed characters were carried to the temple.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:85:10",
+  "en": "Who will you talk to?   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:86:10",
+  "en": "Have a conversation.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:87:10",
+  "en": "Ask about the myths.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:88:10",
+  "en": "Imbue the compass with light.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:89:10",
+  "en": "Hear an oracle.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:90:10",
+  "en": "Which oracle will you hear?   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:91:10",
+  "en": "You have already bought this hint.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:92:10",
+  "en": "This is not a 0 GP item, so it cannot be sold here.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:93:10",
+  "en": "View alchemy hints.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:94:10",
+  "en": "Choose an alchemy item.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:95:10",
+  "en": "View the request list.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:96:10",
+  "en": "View the request list.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:97:10",
+  "en": "This request has been solved.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:98:10",
+  "en": "Change today's weather.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:99:10",
+  "en": "Go back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:100:10",
+  "en": "Go to the World Map.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:101:10",
+  "en": "View the request list.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:102:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:103:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:104:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:105:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:106:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:107:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:108:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:109:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:110:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:111:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:112:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:113:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:114:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:115:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:116:10",
+  "en": "Choose where to go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:117:10",
+  "en": "Go to the Colored Corridor.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:118:10",
+  "en": "View the Recorded History.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:119:10",
+  "en": "Look at the Inner Door.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:120:10",
+  "en": "Small talk.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:121:10",
+  "en": "Choose a topic.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:122:10",
+  "en": "Go to Agres Plaza.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:123:10",
+  "en": "Go to Lunea's Shop.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:124:10",
+  "en": "Go to Old Aim.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:125:10",
+  "en": "This is not a 0 GP item, so it cannot be sold here.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:126:10",
+  "en": "Go to Yotel Wharf.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:127:10",
+  "en": "Go to Bilente's Shop.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:128:10",
+  "en": "Go to the Grand Merchant's Office.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:129:10",
+  "en": "View the request list.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:130:10",
+  "en": "This request has been solved.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:131:10",
+  "en": "Go to the Canteen.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:132:10",
+  "en": "Go to Jela's General Store.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:133:10",
+  "en": "Go to the Blast Furnace.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:134:10",
+  "en": "Choose an alchemy item.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:135:10",
+  "en": "Go to Harjiradam.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:136:10",
+  "en": "Go to the Caron Main Store.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:137:10",
+  "en": "Go to Semnadoc Cathedral.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:138:10",
+  "en": "Enter a dungeon, resume an adventure, or save your progress.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:139:10",
+  "en": "Talk to the person on the left.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:140:10",
+  "en": "Talk to the person in the middle.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:141:10",
+  "en": "Talk to the person on the right.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:142:10",
+  "en": "Choose a character from the list and add them to the party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:143:10",
+  "en": "Choose a character to call.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:144:10",
+  "en": "Choose where to place them in the party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:145:10",
+  "en": "The party is full.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:146:10",
+  "en": "There are no characters you can call.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:147:10",
+  "en": "Their alignments differ, so they cannot form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:148:10",
+  "en": "Remove a character from the party and put them on standby.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:149:10",
+  "en": "Choose a character to put on standby.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:150:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:151:10",
+  "en": "Check a character's status.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:152:10",
+  "en": "Choose a character.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:153:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:154:10",
+  "en": "With a Bishop in the party, list all unidentified items and appraise them in one go.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:155:10",
+  "en": "There is no one who can appraise.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:156:10",
+  "en": "Choose who will do the appraising.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:157:10",
+  "en": "Which item will you appraise?   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:158:10",
+  "en": "Item appraised.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:159:10",
+  "en": "It cannot be appraised.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:160:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:161:10",
+  "en": "Change the party's formation.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:162:10",
+  "en": "Pick who to move, then where. That character's icon leaves the lower row and moves to the upper one. Once all party members have moved, it ends automatically.",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:163:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:164:10",
+  "en": "Let a character rest. Square repeats the Circle button.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:165:10",
+  "en": "The whole party rests. Square repeats the Circle button.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:166:10",
+  "en": "Storage reserved for Alchemists. Smithing and alchemy are done here.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:167:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:168:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:169:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:170:10",
+  "en": "Choose a character to stay at the inn.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:171:10",
+  "en": "Choose a room to stay in.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:172:10",
+  "en": "Unable to stay at the inn in this condition.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:173:10",
+  "en": "Choose the character who will pay the fee.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:174:10",
+  "en": "You don't have enough money to pay the fee.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:175:10",
+  "en": "Fuse an item with ore to give it added effects.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:176:10",
+  "en": "Combine ores to create alchemy items.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:177:10",
+  "en": "Restore smithed weapons and armor to their original state.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:178:10",
+  "en": "Put items you are carrying into storage.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:179:10",
+  "en": "Take stored items out of storage.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:180:10",
+  "en": "There are no items in storage.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:181:10",
+  "en": "Choose who will do the smithing.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:182:10",
+  "en": "Choose the weapon to enhance.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:183:10",
+  "en": "Choose the ore to add.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:184:10",
+  "en": "Allocate the grade points.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:185:10",
+  "en": "Can't smith without the Alchemy skill.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:186:10",
+  "en": "There's no base item, so smithing can't be done.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:187:10",
+  "en": "No one is in a condition to perform alchemy.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:188:10",
+  "en": "No one is in a condition to do smithing.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:189:10",
+  "en": "No one is in a condition to dismantle.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:190:10",
+  "en": "Smithing complete.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:191:10",
+  "en": "Choose who will perform the alchemy.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:192:10",
+  "en": "Choose the first ore.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:193:10",
+  "en": "Choose the second ore.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:194:10",
+  "en": "Can't perform alchemy without the Alchemy skill.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:195:10",
+  "en": "You have no alchemy materials, so alchemy can't be performed.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:196:10",
+  "en": "This combination can't be used for alchemy.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:197:10",
+  "en": "Alchemy requires at least two materials.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:198:10",
+  "en": "Alchemy complete.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:199:10",
+  "en": "Choose who will do the dismantling.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:200:10",
+  "en": "Choose the item to dismantle.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:201:10",
+  "en": "Can't dismantle without the Dismantle skill.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:202:10",
+  "en": "There are no items to dismantle.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:203:10",
+  "en": "You can't carry the items that dismantling would produce.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:204:10",
+  "en": "Dismantling complete.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:205:10",
+  "en": "Choose the item to store.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:206:10",
+  "en": "Choose the item to take out.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:207:10",
+  "en": "This item can't be stored.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:208:10",
+  "en": "The storage is full. No more items can be stored.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:209:10",
+  "en": "Item placed in storage.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:210:10",
+  "en": "Who will take items out of storage?   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:211:10",
+  "en": "Item taken out of storage.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:212:10",
+  "en": "Buy and sell goods.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:213:10",
+  "en": "Appraise unidentified items.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:214:10",
+  "en": "List everyone's unequipped items and sell them in bulk.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:215:10",
+  "en": "Lift curses from cursed items. Also repairs broken items.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:216:10",
+  "en": "There are no items to appraise.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:217:10",
+  "en": "There are no items to sell.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:218:10",
+  "en": "Nothing needs uncursing or repair.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:219:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:220:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:221:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:222:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:223:10",
+  "en": "Who will trade?   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:224:10",
+  "en": "There is no one who can trade.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:225:10",
+  "en": "Choose an item to appraise.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:226:10",
+  "en": "Appraising the item.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:227:10",
+  "en": "Choose items to sell.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:228:10",
+  "en": "Choose an item to uncurse or repair.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:229:10",
+  "en": "This item is cursed.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:230:10",
+  "en": "This item needs repair.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:231:10",
+  "en": "Uncursing/repairing the item.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:232:10",
+  "en": "Buy items.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:233:10",
+  "en": "Sell items.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:234:10",
+  "en": "The item slots are full.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:235:10",
+  "en": "Unidentified items can't be sold.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:236:10",
+  "en": "Not enough money to buy this.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:237:10",
+  "en": "Items worth 0 GP can't be sold.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:238:10",
+  "en": "Items not worth 0 GP can't be sold here.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:239:10",
+  "en": "Choose an item category.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:240:10",
+  "en": "Circle: Buy. Triangle: View item details.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:241:10",
+  "en": "This item is out of stock.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:242:10",
+  "en": "You don't have enough money to buy this.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:243:10",
+  "en": "Buying this item.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:244:10",
+  "en": "Selling this item.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:245:10",
+  "en": "Selling this item.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:246:10",
+  "en": "Circle: Sell.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:247:10",
+  "en": "This item can't be sold.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:248:10",
+  "en": "Choose an item and a transaction. Circle: One at a time. Square: Repeat Circle.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:249:10",
+  "en": "The bag can hold up to 99 items.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:250:10",
+  "en": "This item is out of stock.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:251:10",
+  "en": "Only Servants can use the bag.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:252:10",
+  "en": "You don't have that item.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:253:10",
+  "en": "Treat and retrieve characters.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:254:10",
+  "en": "Donate money to gain experience.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:255:10",
+  "en": "Offer a prayer to the gods.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:256:10",
+  "en": "Perform the Rite of Flux.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:257:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:258:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:259:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:260:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:261:10",
+  "en": "Choose who will donate.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:262:10",
+  "en": "Enter the amount to donate. Each 1 GP grants 1 EP of experience.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:263:10",
+  "en": "Not enough money.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:264:10",
+  "en": "Donated.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:265:10",
+  "en": "Cure status ailments.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:266:10",
+  "en": "Take back someone left in the temple's care.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:267:10",
+  "en": "Leave someone who needs treatment in the temple's care.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:268:10",
+  "en": "Request retrieval of characters whose party was wiped out.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:269:10",
+  "en": "No one needs treatment.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:270:10",
+  "en": "No one is in the temple's care.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:271:10",
+  "en": "No one needs to be retrieved.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:272:10",
+  "en": "Choose a character to treat.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:273:10",
+  "en": "Choose who will pay the offering.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:274:10",
+  "en": "Resurrection failed. The character is lost.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:275:10",
+  "en": "Resurrection failed. The character is now ash.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:276:10",
+  "en": "Choose who to take back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:277:10",
+  "en": "Choose where to put them.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:278:10",
+  "en": "Choose who to leave in the temple's care.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:279:10",
+  "en": "Taken back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:280:10",
+  "en": "Left in the temple's care.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:281:10",
+  "en": "Choose a character to retrieve.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:282:10",
+  "en": "Choose who will pay the offering.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:283:10",
+  "en": "Retrieval complete.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:284:10",
+  "en": "The Rite of Flux randomly relocates divine relics and other items you have not yet obtained. This cannot be undone, so be careful.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:285:10",
+  "en": "Perform the Rite of Flux.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:286:10",
+  "en": "Seek an audience with the king.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:287:10",
+  "en": "View details of the monsters you have defeated.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:288:10",
+  "en": "View details of the items you have sold to shops.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:289:10",
+  "en": "* Coming Soon *   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:290:10",
+  "en": "View details of the 0 GP items you have sold to shops.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:291:10",
+  "en": "View details of the people you have met so far.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:292:10",
+  "en": "Please form a party.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:293:10",
+  "en": "Choose a type of monster to view.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:294:10",
+  "en": "Choose a monster to view.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:295:10",
+  "en": "Triangle: Switch view. Cross: Back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:296:10",
+  "en": "No monsters defeated yet.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:297:10",
+  "en": "Triangle: Switch view. Cross: Back. Up/Down on the D-pad or analog pad: Move viewpoint.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:298:10",
+  "en": "Choose an item category to view.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:299:10",
+  "en": "Choose an item to view.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:300:10",
+  "en": "Triangle: Switch view. Cross: Back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:301:10",
+  "en": "Choose a person.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:302:10",
+  "en": "Cross: Back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:303:10",
+  "en": "Register a new character.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:304:10",
+  "en": "View details of registered characters.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:305:10",
+  "en": "Delete a registered character.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:306:10",
+  "en": "Change a registered character's name or icon.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:307:10",
+  "en": "Change the class of a character who meets the requirements.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:308:10",
+  "en": "The adventurer roster is full.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:309:10",
+  "en": "The character list is empty.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:310:10",
+  "en": "An NPC's place in the list can't be changed.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:311:10",
+  "en": "Choose a character to view. Square: Reorder characters.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:312:10",
+  "en": "Circle: Spell List. Triangle: Character Details. Cross: Back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:313:10",
+  "en": "Triangle: Character Details. Cross: Back.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:314:10",
+  "en": "Choose a character to delete. Square: Reorder characters.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:315:10",
+  "en": "Adventurers in an active party can't be deleted.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:316:10",
+  "en": "Character deleted.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:317:10",
+  "en": "Choose a character to rename. Square: Reorder characters.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:318:10",
+  "en": "Choose a character to change class.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:319:10",
+  "en": "Enter a name. A name needs at least one non-space character.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:320:10",
+  "en": "Enter a nickname. A nickname needs at least one non-space character.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:321:10",
+  "en": "Choose a race.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:322:10",
+  "en": "Choose a gender.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:323:10",
+  "en": "Choose an alignment.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:324:10",
+  "en": "Choose an age.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:325:10",
+  "en": "Choose a class. Square: Reroll bonus points.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:326:10",
+  "en": "Allocate the bonus points.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:327:10",
+  "en": "Choose a face icon. To use an icon downloaded with Face Load, select the Face Load button.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:328:10",
+  "en": "Character registered.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:329:10",
+  "en": "At least one non-space character is required.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:330:10",
+  "en": "Choose an Extra Skill.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:331:10",
+  "en": "Choose Face Load data.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:332:10",
+  "en": "Choose Style Load data.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:333:10",
+  "en": "Enter an epithet. It can be left blank if there is none.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:334:10",
+  "en": "Enter a personality comment.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:335:10",
+  "en": "Have a conversation.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:336:10",
+  "en": "Returns to the previous screen.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:337:10",
+  "en": "Choose a destination.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:338:10",
+  "en": "Saves the game.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:339:10",
+  "en": "This party suspended its adventure. It can resume.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:340:10",
+  "en": "This is your current party. It cannot resume.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:341:10",
+  "en": "This is the event list.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:342:10",
+  "en": "Sets the in-game BGM volume.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:343:10",
+  "en": "Sets the in-game SE (sound effect) volume.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:344:10",
+  "en": "Turns the help message animation on or off.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:345:10",
+  "en": "Sets the conversation message speed on a 5-level scale. 1 is the slowest and 5 is the fastest.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:346:10",
+  "en": "Sets whether the cursor position is remembered.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:347:10",
+  "en": "Sets whether nicknames are shown on the party panel.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:348:10",
+  "en": "Sets whether HP/AC are shown on the party panel.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:349:10",
+  "en": "Sets blue as the transparent color for images imported with Face Load.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:351:10",
+  "en": "Turns the in-game hurt SE on or off.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:352:10",
+  "en": "Sets the SE for the adventurers' side.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:353:10",
+  "en": "Sets the SE for the monsters' side.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:354:10",
+  "en": "Sets how effects are displayed during battle.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:355:10",
+  "en": "Sets the battle message speed on a 5-level scale. 1 is the slowest and 5 is the fastest.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:356:10",
+  "en": "Renames each of the spells the player can use.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:357:10",
+  "en": "Sets whether enemy spell names are renamed as well.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:358:10",
+  "en": "Sets the display format of the battle log.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:359:10",
+  "en": "Sets the names shown in the battle log.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:360:10",
+  "en": "Summoner spell names cannot be changed.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:361:10",
+  "en": "Sets whether follow-up monsters are shown when they appear.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:362:10",
+  "en": "Enter the new spell name.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:363:10",
+  "en": "Sets what happens when you press Down on the D-pad.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:364:10",
+  "en": "Turns the movement animation on or off.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:365:10",
+  "en": "Shows or hides the clock.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:366:10",
+  "en": "Shows or hides the party panel.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:367:10",
+  "en": "Sets which direction is at the top of the minimap.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:368:10",
+  "en": "Sets the size of the minimap.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:369:10",
+  "en": "Resets all options, including spell name changes, to their defaults.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:370:10",
+  "en": "Configures general settings.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:371:10",
+  "en": "Configures settings mainly used in battle.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:372:10",
+  "en": "Configures settings mainly used in dungeons.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:373:10",
+  "en": "Resets all settings to their defaults.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:376:10",
+  "en": "Configures Face/Style Load settings.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:377:10",
+  "en": "Sets whether characters with serious status ailments are automatically admitted for treatment when they return to town.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:378:10",
+  "en": "When importing BMP data for Face Load, sets whether blue is treated as the transparent color.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:379:10",
+  "en": "When importing BMP data for Style Load, sets whether blue is treated as the transparent color.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:380:10",
+  "en": "Sets how style images are shown on the character status screen.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:381:10",
+  "en": "Sets how style images are shown on the battle screen.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:382:10",
+  "en": "Imports Face Load data from the Memory Stick.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:383:10",
+  "en": "Imports Style Load data from the Memory Stick.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:384:10",
+  "en": "Imports Sound Load data from the Memory Stick.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:385:10",
+  "en": "Imports Dungeon Load data from, and exports it to, the Memory Stick.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:386:10",
+  "en": "Installs the game data.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:387:10",
+  "en": "Enters the password for the Book of the Next Age.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:388:10",
+  "en": "Select a slot to import into. Square: Swap data. Triangle: Delete data.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:389:10",
+  "en": "Select the data to import.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:390:10",
+  "en": "Select a slot to import into. Square: Swap data. Triangle: Delete data.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:391:10",
+  "en": "Select the data to import.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:392:10",
+  "en": "Select the track to replace. Triangle: Restore the original setting.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:393:10",
+  "en": "Select the sound data to import.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:394:10",
+  "en": "Select the playback volume to set.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:395:10",
+  "en": "Use Up/Down to set the playback volume. Triangle: Restore the original setting.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:396:10",
+  "en": "Select the data to work with.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:397:10",
+  "en": "Exports the selected data to the transfer folder. Any data already in the transfer folder will be lost.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:398:10",
+  "en": "Imports the data in the transfer folder. Any data in the selected slot will be lost.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:399:10",
+  "en": "Enters a password.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:400:10",
+  "en": "Please enter the password.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:401:10",
+  "en": "Settings for using the effects of the Book of the Next Age.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:402:10",
+  "en": "Sets up the compass.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:403:10",
+  "en": "Views the Key Items you are carrying.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:404:10",
+  "en": "Searches the dungeon for parties that suspended their adventure or were wiped out.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:405:10",
+  "en": "Offers Fame to the compass.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:406:10",
+  "en": "Either you lack Fame, or there are no rings within the search range.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:407:10",
+  "en": "The compass seems to be set to All Altars.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:408:10",
+  "en": "Sets the search target.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:409:10",
+  "en": "This is the list of your Key Items.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:410:10",
+  "en": "You have no Key Items.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:411:10",
+  "en": "A companion was found.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:412:10",
+  "en": "Where should the companion go?   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:413:10",
+  "en": "No companions were found.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:414:10",
+  "en": "You cannot meet up with companions on this floor.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:415:10",
+  "en": "Searching for companions...   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:416:10",
+  "en": "No monster has been summoned.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:417:10",
+  "en": "The monster set out on a second life as an adventurer.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:418:10",
+  "en": "Saves your current progress.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:419:10",
+  "en": "Leaves the current party waiting where it is and returns to Algrantz.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:420:10",
+  "en": "Opens the options screen.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:421:10",
+  "en": "You cannot save on this floor.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:422:10",
+  "en": "You can't suspend your adventure on this floor.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:423:10",
+  "en": "You can't cast spells here.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:424:10",
+  "en": "Choose a command. Triangle: All-Out Attack. R: Command Repeat.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:425:10",
+  "en": "Choose a target to attack.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:426:10",
+  "en": "Choose a skill to use.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:427:10",
+  "en": "Select an item to use.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:428:10",
+  "en": "Choose the equipment slot to change.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:429:10",
+  "en": "Choose who to guard.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:431:10",
+  "en": "Choose a tarot card to use.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:432:10",
+  "en": "No enemies found.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:433:10",
+  "en": "It's pitch dark!   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:434:10",
+  "en": "Choose a command.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:435:10",
+  "en": "Who will inspect the trap?   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:436:10",
+  "en": "Who will disarm the trap?   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:437:10",
+  "en": "Choose a trap.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:438:10",
+  "en": "Press Triangle to show the map legend.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:439:10",
+  "en": "Press Triangle to return to the normal map.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:440:10",
+  "en": "In darkness, the map can only be opened with a spell.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:442:10",
+  "en": "You have no money.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:443:10",
+  "en": "It isn't in the bag.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:444:10",
+  "en": "There are no items that need uncursing or repair.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:445:10",
+  "en": "There are no items you can sell.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:446:10",
+  "en": "You can't sort your tarot cards.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:447:10",
+  "en": "You can't go to the Colored Corridor.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:448:10",
+  "en": "You can't go to the Recorded History.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:449:10",
+  "en": "You can't go to the World Map.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:450:10",
+  "en": "You have no cursed items.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:451:10",
+  "en": "You have no items that need repair.   ",
+  "max": 158,
+  "used": true
+ },
+ {
+  "id": "HELP_TEXT.CSV:452:10",
+  "en": "You have no items in the bag.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:453:10",
+  "en": "You have no tarot items.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:454:10",
+  "en": "It can't be taken out.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:455:10",
+  "en": "You don't have the Smithing skill.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:456:10",
+  "en": "You don't have the Alchemy skill.   ",
+  "max": 158,
+  "used": false
+ },
+ {
+  "id": "HELP_TEXT.CSV:457:10",
+  "en": "You don't have the Dismantle skill.   ",
+  "max": 158,
+  "used": false
+ }
+]

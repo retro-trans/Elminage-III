@@ -1,0 +1,5570 @@
+[
+ {
+  "id": "23001.bin@1a4",
+  "en": "Bishop",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "23001.bin@1ab",
+  "en": "\"...Same line of work, huh? How's business on your end?\nUs? Haha, can't complain, I guess.\"{w}",
+  "kind": "msg",
+  "len": 90
+ },
+ {
+  "id": "23001.bin@206",
+  "en": "Fighter",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "23001.bin@20d",
+  "en": "\"C'mon, it's not that great.\nThat weird thing's brought us nothin' but grief.\nLet's just ditch it already, right around here's fine...\"{w}",
+  "kind": "msg",
+  "len": 118
+ },
+ {
+  "id": "23001.bin@284",
+  "en": "Bishop",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "23001.bin@28b",
+  "en": "\"Don't say that. It might be worth somethin', y'know?\"{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "23001.bin@2be",
+  "en": "Fighter",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "23001.bin@2c5",
+  "en": "\"Yeah, right!\nWe got tossed inside it, the terrain changed every single time,\nit put us through hell, y'know!? Toss it, toss it!\"{w}",
+  "kind": "msg",
+  "len": 114
+ },
+ {
+  "id": "23001.bin@338",
+  "en": "Bishop",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "23001.bin@33f",
+  "en": "\"Once we took it out of that place, it stopped doing anything, right?\nIf we just figure out how to use it, it'll be A-OK...\nAh, I said don't throw it away!\"{w}",
+  "kind": "msg",
+  "len": 124
+ },
+ {
+  "id": "23001.bin@3bc",
+  "en": "Fighter",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "23001.bin@3c3",
+  "en": "\"And who's gonna figure that out?\nIf we can't toss it, then we hand it off to somebody... Oh?\nPerfect timing. Hey, you folks want this?\"{w}",
+  "kind": "msg",
+  "len": 114
+ },
+ {
+  "id": "23001.bin@436",
+  "en": "Bishop",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "23001.bin@43d",
+  "en": "\"Whoa, whoa.\"{w}",
+  "kind": "msg",
+  "len": 16
+ },
+ {
+  "id": "23001.bin@44e",
+  "en": "Fighter",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "23001.bin@455",
+  "en": "\"We picked it up in the Crotoa City Ruins, and\nget this! It's a Strange Box Garden -- you can go inside it\nand have all kinds of adventures! Whaddaya say?\"{w}",
+  "kind": "msg",
+  "len": 134
+ },
+ {
+  "id": "23001.bin@4dc",
+  "en": "Bishop",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "23001.bin@4e3",
+  "en": "\"Mind you, it only seems to work\nin the Crotoa City Ruins.\"{w}",
+  "kind": "msg",
+  "len": 66
+ },
+ {
+  "id": "23001.bin@526",
+  "en": "Fighter",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "23001.bin@52d",
+  "en": "\"Right, right, it's safe as long as you just carry it.\nHere, take it!\"{w}",
+  "kind": "msg",
+  "len": 64
+ },
+ {
+  "id": "23001.bin@57f",
+  "en": "[Key Item]\nObtained Strange Box Garden.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "23001.bin@5ac",
+  "en": "Bishop",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "23001.bin@5b3",
+  "en": "\"Put it back where it was in the Crotoa City Ruins\nand you can go inside. As for the spot... ...Sorry, I forgot.\"{w}",
+  "kind": "msg",
+  "len": 92
+ },
+ {
+  "id": "23001.bin@610",
+  "en": "Fighter",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "23001.bin@617",
+  "en": "\"But if you're goin' in, watch yourselves.\nIt's a real handful in there.\nSee ya!\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "23001.bin@675",
+  "en": "Bishop",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "23001.bin@67c",
+  "en": "\"If you put that box garden back where it was\nin the Crotoa City Ruins, you can get inside.\nAs for the spot... ...Sorry, I forgot.\"{w}",
+  "kind": "msg",
+  "len": 108
+ },
+ {
+  "id": "23001.bin@6e9",
+  "en": "Fighter",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "23001.bin@6f0",
+  "en": "\"But if you're goin' in, watch yourselves.\nIt's a real handful in there.\nSee ya!\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "23001.bin@ca3",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "23001.bin@db1",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "23001.bin@e38",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "23001.bin@e4a",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "23001.bin@e58",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "23001.bin@e68",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "23001.bin@e76",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "23001.bin@e86",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "23001.bin@e96",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "23001.bin@ea0",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "23001.bin@eb0",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "23001.bin@ec0",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "23001.bin@ed2",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "24001.bin@f10",
+  "en": "*  Desert Wind  *{0F}{w}",
+  "kind": "op096",
+  "len": 22
+ },
+ {
+  "id": "24001.bin@f2b",
+  "en": "{0E}\n                    Desert Wind\n{0F}{w}",
+  "kind": "msg",
+  "len": 152
+ },
+ {
+  "id": "24001.bin@155d",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "24001.bin@166b",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "24001.bin@16f2",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "24001.bin@1704",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "24001.bin@1712",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "24001.bin@1722",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "24001.bin@1730",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "24001.bin@1740",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "24001.bin@1750",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "24001.bin@175a",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "24001.bin@176a",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "24001.bin@177a",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "24001.bin@178c",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "24002.bin@1813",
+  "en": "A plant has taken root here, enduring the dryness of the desert.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "24002.bin@1850",
+  "en": "A plant has taken root here, enduring the dryness of the desert.{w}As you reach out to take it,\nyou hear a bird cry out from somewhere.{w}",
+  "kind": "msg",
+  "len": 104
+ },
+ {
+  "id": "24002.bin@18d4",
+  "en": "Take it?",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "24002.bin@18ea",
+  "en": "Something swooped down from the sky and attacked you!{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "24002.bin@193e",
+  "en": "[Key Item]\nObtained Cactus Pulp.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "24002.bin@1981",
+  "en": "A plant has taken root here, enduring the dryness of the desert.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "24002.bin@1f3a",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "24002.bin@2048",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "24002.bin@2089",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "24002.bin@208f",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "24002.bin@20cf",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "24002.bin@20e1",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "24002.bin@20ef",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "24002.bin@20ff",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "24002.bin@210d",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "24002.bin@211d",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "24002.bin@212d",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "24002.bin@2137",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "24002.bin@2147",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "24002.bin@2157",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "24002.bin@2169",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "24002.bin@2302",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "24002.bin@238e",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "24002.bin@241a",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "24002.bin@24a5",
+  "en": "[Key Item]\nObtained Ninja Fiend's Helm.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "24002.bin@2512",
+  "en": "[Key Item]\nObtained Song of Spirits.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "24002.bin@257d",
+  "en": "[Key Item]\nObtained Flesh-Lump Flower.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "24002.bin@25e8",
+  "en": "[Key Item]\nObtained Deltoi Empty Room.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "24002.bin@265d",
+  "en": "[Key Item]\nObtained Dark Sakil Shell.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "24002.bin@26ce",
+  "en": "[Key Item]\nObtained Aleed Palette.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "24002.bin@2741",
+  "en": "[Key Item]\nObtained Demon-Boob Undies.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "24002.bin@27ac",
+  "en": "[Key Item]\nObtained Seot's Demon Nest.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "24002.bin@281d",
+  "en": "[Key Item]\nObtained Unclean Water.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "24002.bin@288a",
+  "en": "[Key Item]\nObtained Menolist's Candle.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "24002.bin@28fd",
+  "en": "[Key Item]\nObtained Ponya Sausage.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "24002.bin@2970",
+  "en": "[Key Item]\nObtained Taizarti Lamp.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "24002.bin@29e5",
+  "en": "[Key Item]\nObtained Glittering Scale.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "24002.bin@2a52",
+  "en": "[Key Item]\nObtained Swordsage's Beard.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "24002.bin@2abe",
+  "en": "[Key Item]\nObtained Red Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "24002.bin@2b29",
+  "en": "[Key Item]\nObtained Blue Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "24002.bin@2b94",
+  "en": "[Key Item]\nObtained Green Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "24002.bin@2bff",
+  "en": "[Key Item]\nObtained Yellow Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "24002.bin@2c6a",
+  "en": "[Key Item]\nObtained Black Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "24002.bin@2cd5",
+  "en": "[Key Item]\nObtained White Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "24002.bin@2d0d",
+  "en": "After defeating the mighty Duke of the Demon World,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "24002.bin@2d50",
+  "en": "After winning the battle,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "24002.bin@2d8e",
+  "en": "# Current floor: {0B:0003:0000}",
+  "kind": "op029",
+  "len": 22
+ },
+ {
+  "id": "24002.bin@2db3",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "24002.bin@2dfc",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "24002.bin@2e11",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "24002.bin@2e36",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "24002.bin@2e8c",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "24002.bin@2ea1",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "24002.bin@2ec6",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "24002.bin@2f1c",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "24002.bin@2f31",
+  "en": "The great shadow fades away{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "24002.bin@2f54",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "24002.bin@2faa",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "24002.bin@2fbf",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "24002.bin@2fe4",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "24002.bin@3030",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "24002.bin@3045",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "24002.bin@306a",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "24002.bin@30c0",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "24002.bin@30d5",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "24002.bin@30fa",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "24002.bin@31a6",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "24002.bin@31e7",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "24002.bin@3247",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "24002.bin@331f",
+  "en": "Friendly foes appear. Fight?",
+  "kind": "data",
+  "len": 38
+ },
+ {
+  "id": "24002.bin@3345",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "24002.bin@334b",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "24002.bin@33d1",
+  "en": "{0A:0003:0006}'s alignment changed to Good{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "24002.bin@3471",
+  "en": "{0A:0003:0006}'s alignment changed to Evil{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "25000.bin@38ac",
+  "en": "*  Desert Wind  *{0F}{w}",
+  "kind": "op096",
+  "len": 22
+ },
+ {
+  "id": "25000.bin@38c7",
+  "en": "{0E}\n                    Desert Wind\n{0F}{w}",
+  "kind": "msg",
+  "len": 152
+ },
+ {
+  "id": "25000.bin@3ef9",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "25000.bin@4007",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "25000.bin@408e",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "25000.bin@40a0",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "25000.bin@40ae",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25000.bin@40be",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "25000.bin@40cc",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25000.bin@40dc",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25000.bin@40ec",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "25000.bin@40f6",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25000.bin@4106",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25000.bin@4116",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "25000.bin@4128",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25002.bin@41f8",
+  "en": "There's no one here.{w}",
+  "kind": "msg",
+  "len": 14
+ },
+ {
+  "id": "25002.bin@4243",
+  "en": "Deep in the desert,\nthere was a monster of grotesque form.{w}{p}Why did it look this way?{w}Why had it been locked up?{w}Why was it here?{w}{p}All of it was shrouded in mystery.{w}But judging by that raised fist,{w}{p}he (or she),\nas far as you were concerned, at least,{w}was hardly a presence to be welcomed, it is safe to say.{w}",
+  "kind": "msg",
+  "len": 290
+ },
+ {
+  "id": "25002.bin@4387",
+  "en": "The grotesque monster sank into the sand,\ntaking many mysteries with it.{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "25002.bin@43f2",
+  "en": "Suddenly, a voice rang out.{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "25002.bin@4409",
+  "en": "Voice",
+  "kind": "name",
+  "len": 4
+ },
+ {
+  "id": "25002.bin@440e",
+  "en": "\"Come forth, two of you.\"{w}",
+  "kind": "msg",
+  "len": 18
+ },
+ {
+  "id": "25002.bin@4424",
+  "en": "And then your bodies were hurled out of the room.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "25002.bin@4a0d",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "25002.bin@4b1b",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "25002.bin@4ba2",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "25002.bin@4bb4",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "25002.bin@4bc2",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25002.bin@4bd2",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "25002.bin@4be0",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25002.bin@4bf0",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25002.bin@4c00",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "25002.bin@4c0a",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25002.bin@4c1a",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25002.bin@4c2a",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "25002.bin@4c3c",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25002.bin@4dd5",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "25002.bin@4e61",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "25002.bin@4eed",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "25002.bin@4f78",
+  "en": "[Key Item]\nObtained Ninja Fiend's Helm.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "25002.bin@4fe5",
+  "en": "[Key Item]\nObtained Song of Spirits.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "25002.bin@5050",
+  "en": "[Key Item]\nObtained Flesh-Lump Flower.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "25002.bin@50bb",
+  "en": "[Key Item]\nObtained Deltoi Empty Room.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "25002.bin@5130",
+  "en": "[Key Item]\nObtained Dark Sakil Shell.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "25002.bin@51a1",
+  "en": "[Key Item]\nObtained Aleed Palette.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "25002.bin@5214",
+  "en": "[Key Item]\nObtained Demon-Boob Undies.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "25002.bin@527f",
+  "en": "[Key Item]\nObtained Seot's Demon Nest.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "25002.bin@52f0",
+  "en": "[Key Item]\nObtained Unclean Water.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "25002.bin@535d",
+  "en": "[Key Item]\nObtained Menolist's Candle.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "25002.bin@53d0",
+  "en": "[Key Item]\nObtained Ponya Sausage.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "25002.bin@5443",
+  "en": "[Key Item]\nObtained Taizarti Lamp.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "25002.bin@54b8",
+  "en": "[Key Item]\nObtained Glittering Scale.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "25002.bin@5525",
+  "en": "[Key Item]\nObtained Swordsage's Beard.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "25002.bin@5591",
+  "en": "[Key Item]\nObtained Red Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "25002.bin@55fc",
+  "en": "[Key Item]\nObtained Blue Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "25002.bin@5667",
+  "en": "[Key Item]\nObtained Green Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "25002.bin@56d2",
+  "en": "[Key Item]\nObtained Yellow Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "25002.bin@573d",
+  "en": "[Key Item]\nObtained Black Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "25002.bin@57a8",
+  "en": "[Key Item]\nObtained White Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "25002.bin@57e0",
+  "en": "After defeating the mighty Duke of the Demon World,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "25002.bin@5823",
+  "en": "After winning the battle,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "25002.bin@5861",
+  "en": "# Current floor: {0B:0003:0000}",
+  "kind": "op029",
+  "len": 22
+ },
+ {
+  "id": "25002.bin@5886",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "25002.bin@58cf",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "25002.bin@58e4",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "25002.bin@5909",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "25002.bin@595f",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "25002.bin@5974",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "25002.bin@5999",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "25002.bin@59ef",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "25002.bin@5a04",
+  "en": "The great shadow fades away{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "25002.bin@5a27",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "25002.bin@5a7d",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "25002.bin@5a92",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "25002.bin@5ab7",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "25002.bin@5b03",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "25002.bin@5b18",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "25002.bin@5b3d",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "25002.bin@5b93",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "25002.bin@5ba8",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "25002.bin@5bcd",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "25002.bin@5c79",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "25002.bin@5cba",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "25002.bin@5d1a",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "25002.bin@5df2",
+  "en": "Friendly foes appear. Fight?",
+  "kind": "data",
+  "len": 38
+ },
+ {
+  "id": "25002.bin@5e18",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "25002.bin@5e1e",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "25002.bin@5ea4",
+  "en": "{0A:0003:0006}'s alignment changed to Good{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "25002.bin@5f44",
+  "en": "{0A:0003:0006}'s alignment changed to Evil{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "25002.bin@63c4",
+  "en": "Suddenly, your bodies seemed to grow lighter.{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "25003.bin@6452",
+  "en": "As you stand before the door,\nit begins to open with a rumble that shakes the ground.{w}",
+  "kind": "msg",
+  "len": 56
+ },
+ {
+  "id": "25003.bin@64cb",
+  "en": "There is a tightly sealed door.\nThere is nothing that looks like a keyhole.{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "25003.bin@6a79",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "25003.bin@6b87",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "25003.bin@6c0e",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "25003.bin@6c20",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "25003.bin@6c2e",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25003.bin@6c3e",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "25003.bin@6c4c",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25003.bin@6c5c",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25003.bin@6c6c",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "25003.bin@6c76",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25003.bin@6c86",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25003.bin@6c96",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "25003.bin@6ca8",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25003.bin@6cbf",
+  "en": "As you stand before the door,\nit begins to open with a rumble that shakes the ground.{w}",
+  "kind": "msg",
+  "len": 56
+ },
+ {
+  "id": "25003.bin@6d38",
+  "en": "There is a tightly sealed door.\nThere is nothing that looks like a keyhole.{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "25004.bin@6dc6",
+  "en": "As you stand before the door,\nit begins to open with a rumble that shakes the ground.{w}",
+  "kind": "msg",
+  "len": 56
+ },
+ {
+  "id": "25004.bin@6e3f",
+  "en": "There is a tightly sealed door.\nThere is nothing that looks like a keyhole.{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "25004.bin@73ed",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "25004.bin@74fb",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "25004.bin@7582",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "25004.bin@7594",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "25004.bin@75a2",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25004.bin@75b2",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "25004.bin@75c0",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25004.bin@75d0",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25004.bin@75e0",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "25004.bin@75ea",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25004.bin@75fa",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25004.bin@760a",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "25004.bin@761c",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "25004.bin@7633",
+  "en": "As you stand before the door,\nit begins to open with a rumble that shakes the ground.{w}",
+  "kind": "msg",
+  "len": 56
+ },
+ {
+  "id": "25004.bin@76ac",
+  "en": "There is a tightly sealed door.\nThere is nothing that looks like a keyhole.{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@7733",
+  "en": "Menolist",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@7740",
+  "en": "\"Ah, pardon me!{w}My name is Menolist!\"{w}{p}\"The truth is, I have lost my way!{w}Might I ask, incidentally -- Seirion-Daera...\nthat would be this Zefkaka here, would it not?\"{w}",
+  "kind": "msg",
+  "len": 160
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@77e1",
+  "en": "Menolist",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@7805",
+  "en": "\"So you are the new apostles -- the Ryug?\"",
+  "kind": "data",
+  "len": 44
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@a388",
+  "en": "A cactus came up close.{w}Its spines stuck right into you.{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@a441",
+  "en": "\n              *   Ouch, that hurts!!   *{w}",
+  "kind": "msg",
+  "len": 52
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@a9d0",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@aade",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@ab65",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@ab77",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@ab85",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@ab95",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@aba3",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@abb3",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@abc3",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@abcd",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@abdd",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@abed",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@abff",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b1a1",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b22d",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b2b9",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b344",
+  "en": "[Key Item]\nObtained Ninja Fiend's Helm.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b3b1",
+  "en": "[Key Item]\nObtained Song of Spirits.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b41c",
+  "en": "[Key Item]\nObtained Flesh-Lump Flower.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b487",
+  "en": "[Key Item]\nObtained Deltoi Empty Room.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b4fc",
+  "en": "[Key Item]\nObtained Dark Sakil Shell.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b56d",
+  "en": "[Key Item]\nObtained Aleed Palette.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b5e0",
+  "en": "[Key Item]\nObtained Demon-Boob Undies.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b64b",
+  "en": "[Key Item]\nObtained Seot's Demon Nest.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b6bc",
+  "en": "[Key Item]\nObtained Unclean Water.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b729",
+  "en": "[Key Item]\nObtained Menolist's Candle.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b79c",
+  "en": "[Key Item]\nObtained Ponya Sausage.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b80f",
+  "en": "[Key Item]\nObtained Taizarti Lamp.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b884",
+  "en": "[Key Item]\nObtained Glittering Scale.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b8f1",
+  "en": "[Key Item]\nObtained Swordsage's Beard.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b95d",
+  "en": "[Key Item]\nObtained Red Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@b9c8",
+  "en": "[Key Item]\nObtained Blue Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@ba33",
+  "en": "[Key Item]\nObtained Green Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@ba9e",
+  "en": "[Key Item]\nObtained Yellow Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bb09",
+  "en": "[Key Item]\nObtained Black Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bb74",
+  "en": "[Key Item]\nObtained White Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bbac",
+  "en": "After defeating the mighty Duke of the Demon World,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bbef",
+  "en": "After winning the battle,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bc2d",
+  "en": "# Current floor: {0B:0003:0000}",
+  "kind": "op029",
+  "len": 22
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bc52",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bc9b",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bcb0",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bcd5",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bd2b",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bd40",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bd65",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bdbb",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bdd0",
+  "en": "The great shadow fades away{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bdf3",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@be49",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@be5e",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@be83",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@becf",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bee4",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bf09",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bf5f",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bf74",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@bf99",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@c045",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@c086",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@c0e6",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@c1be",
+  "en": "Friendly foes appear. Fight?",
+  "kind": "data",
+  "len": 38
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@c1e4",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@c1ea",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@c270",
+  "en": "{0A:0003:0006}'s alignment changed to Good{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@c310",
+  "en": "{0A:0003:0006}'s alignment changed to Evil{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@c629",
+  "en": "Obtained {12:0003:0018}.{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@c658",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@c6ad",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@c860",
+  "en": "Suddenly, your bodies seemed to grow lighter.{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@c8d2",
+  "en": "With a strange whirring, a Tetramystica glides across the floor.{w}{p}A Tetramystica specialized for guard duty -- a \"Guard Mystica,\" you might call it.{w}{p}Here and there the students have scrawled on it: \"Idiot,\" \"Moron,\" even doodled nose hairs.{w}Even so, its function of guarding the Academy is still fully intact.{w}{p}So it is only natural that, on spotting you outsiders who don't belong to the Academy, it moves to eliminate you.{w}",
+  "kind": "msg",
+  "len": 362
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@ca41",
+  "en": "You have run into a foe you never expected.{w}A vast form, its whole body blazing with light.{w}{p}Without a sound, the very air shudders and trembles.{w}With the word \"alien\" lodged in your hearts, you stand exposed to its savage power.{w}",
+  "kind": "msg",
+  "len": 168
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@caee",
+  "en": "Suddenly, a gigantic beast appears before you.{w}Half tiger and half horse, it flails its arms and thrashes its whole body wildly.{w}{p}And now its fury turns on you as well.{w}",
+  "kind": "msg",
+  "len": 138
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@cb7d",
+  "en": "Darkness within darkness.{w}Welling up from the abode of the Nether King, it fills the air around it with an incomprehensible tongue.{w}{p}What it is saying: unknown.{w}What it is even trying to do: unknown.{w}{p}But one thing is clear:\nit means to destroy you.{w}",
+  "kind": "msg",
+  "len": 222
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@cc60",
+  "en": "A giant leaps out in front of you.{w}It seems to be distracted by something else.{w}{p}It doesn't appear able to tell whether you are enemies or mere visitors.{w}{p}No -- for just a moment it seemed to give it some thought, but\n'Eh, I'll just punch them for now and...'{w}seems to be the conclusion it reached.{w}",
+  "kind": "msg",
+  "len": 244
+ },
+ {
+  "id": "92024_FM_GIAF_2_SCENE.bin@cd6f",
+  "en": "You succeeded in driving off the fearsome enemy.",
+  "kind": "msg",
+  "len": 35
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@d3bd",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@d4cb",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@d552",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@d564",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@d572",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@d582",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@d590",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@d5a0",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@d5b0",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@d5ba",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@d5ca",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@d5da",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@d5ec",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@db8e",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@dc1a",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@dca6",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@dd31",
+  "en": "[Key Item]\nObtained Ninja Fiend's Helm.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@dd9e",
+  "en": "[Key Item]\nObtained Song of Spirits.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@de09",
+  "en": "[Key Item]\nObtained Flesh-Lump Flower.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@de74",
+  "en": "[Key Item]\nObtained Deltoi Empty Room.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@dee9",
+  "en": "[Key Item]\nObtained Dark Sakil Shell.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@df5a",
+  "en": "[Key Item]\nObtained Aleed Palette.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@dfcd",
+  "en": "[Key Item]\nObtained Demon-Boob Undies.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e038",
+  "en": "[Key Item]\nObtained Seot's Demon Nest.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e0a9",
+  "en": "[Key Item]\nObtained Unclean Water.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e116",
+  "en": "[Key Item]\nObtained Menolist's Candle.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e189",
+  "en": "[Key Item]\nObtained Ponya Sausage.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e1fc",
+  "en": "[Key Item]\nObtained Taizarti Lamp.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e271",
+  "en": "[Key Item]\nObtained Glittering Scale.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e2de",
+  "en": "[Key Item]\nObtained Swordsage's Beard.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e34a",
+  "en": "[Key Item]\nObtained Red Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e3b5",
+  "en": "[Key Item]\nObtained Blue Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e420",
+  "en": "[Key Item]\nObtained Green Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e48b",
+  "en": "[Key Item]\nObtained Yellow Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e4f6",
+  "en": "[Key Item]\nObtained Black Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e561",
+  "en": "[Key Item]\nObtained White Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e599",
+  "en": "After defeating the mighty Duke of the Demon World,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e5dc",
+  "en": "After winning the battle,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e61a",
+  "en": "# Current floor: {0B:0003:0000}",
+  "kind": "op029",
+  "len": 22
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e63f",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e688",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e69d",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e6c2",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e718",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e72d",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e752",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e7a8",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e7bd",
+  "en": "The great shadow fades away{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e7e0",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e836",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e84b",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e870",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e8bc",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e8d1",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e8f6",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e94c",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e961",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@e986",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ea32",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ea73",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ead3",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ebab",
+  "en": "Friendly foes appear. Fight?",
+  "kind": "data",
+  "len": 38
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ebd1",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ebd7",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ec5d",
+  "en": "{0A:0003:0006}'s alignment changed to Good{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ecfd",
+  "en": "{0A:0003:0006}'s alignment changed to Evil{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f016",
+  "en": "Obtained {12:0003:0018}.{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f045",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f09a",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f24d",
+  "en": "Suddenly, your bodies seemed to grow lighter.{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f2bf",
+  "en": "With a strange whirring, a Tetramystica glides across the floor.{w}{p}A Tetramystica specialized for guard duty -- a \"Guard Mystica,\" you might call it.{w}{p}Here and there the students have scrawled on it: \"Idiot,\" \"Moron,\" even doodled nose hairs.{w}Even so, its function of guarding the Academy is still fully intact.{w}{p}So it is only natural that, on spotting you outsiders who don't belong to the Academy, it moves to eliminate you.{w}",
+  "kind": "msg",
+  "len": 362
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f42e",
+  "en": "You have run into a foe you never expected.{w}A vast form, its whole body blazing with light.{w}{p}Without a sound, the very air shudders and trembles.{w}With the word \"alien\" lodged in your hearts, you stand exposed to its savage power.{w}",
+  "kind": "msg",
+  "len": 168
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f4db",
+  "en": "Suddenly, a gigantic beast appears before you.{w}Half tiger and half horse, it flails its arms and thrashes its whole body wildly.{w}{p}And now its fury turns on you as well.{w}",
+  "kind": "msg",
+  "len": 138
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f56a",
+  "en": "Darkness within darkness.{w}Welling up from the abode of the Nether King, it fills the air around it with an incomprehensible tongue.{w}{p}What it is saying: unknown.{w}What it is even trying to do: unknown.{w}{p}But one thing is clear:\nit means to destroy you.{w}",
+  "kind": "msg",
+  "len": 222
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f64d",
+  "en": "A giant leaps out in front of you.{w}It seems to be distracted by something else.{w}{p}It doesn't appear able to tell whether you are enemies or mere visitors.{w}{p}No -- for just a moment it seemed to give it some thought, but\n'Eh, I'll just punch them for now and...'{w}seems to be the conclusion it reached.{w}",
+  "kind": "msg",
+  "len": 244
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f75c",
+  "en": "You succeeded in driving off the fearsome enemy.",
+  "kind": "msg",
+  "len": 35
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f8af",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f8bc",
+  "en": "\"Oh, it's you guys again!\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f8e3",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f907",
+  "en": "\"How's it going?\"",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f919",
+  "en": "Talk",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f930",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f937",
+  "en": "\"Electra, come on, let's get going!\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f968",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f975",
+  "en": "\"Wait, I haven't introduced everyone yet.{w}This is Mig.{w}A unicorn, as you can see.\"{w}{p}\"Mig and I have been together since birth,{w}and Mig travels with me like this.{w}And...........\"{w}",
+  "kind": "msg",
+  "len": 184
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fa3e",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fa47",
+  "en": "\"Yamuru. I'm a bounty hunter.{w}I hear the Proclamation pays a pretty good sum,{w}so they've let me join this party.\"{w}",
+  "kind": "msg",
+  "len": 120
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fad0",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fadb",
+  "en": "\"I'm Maniron~! Nice ta meetcha~!\"{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fb10",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fb1d",
+  "en": "\"My name is Korbitz.{w}We may end up relying on each other from here on,{w}so let's look out for one another, eh?\"{w}",
+  "kind": "msg",
+  "len": 94
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fb8c",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fb97",
+  "en": "\"The name's Mokero, it is!{w}The Miss has done a whole heap for me,{w}and I'll be followin' the Miss for the rest o' my days!\"{w}",
+  "kind": "msg",
+  "len": 122
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fc22",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fc2f",
+  "en": "\"Mokero, I keep telling you,\nyou don't have to be so formal...\"{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fc76",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fc81",
+  "en": "\"Miss! Don't go sayin' such cold things!{w}The debt I owe you, Miss, is............\"{w}",
+  "kind": "msg",
+  "len": 80
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fce2",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fcef",
+  "en": "\"Electra's a kind child, you see,{w}and took us in, just like this.{w}So please, all of you, be good to Electra.\"{w}",
+  "kind": "msg",
+  "len": 108
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fd6c",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fd79",
+  "en": "\"Ugh, honestly! You're all exaggerating!{w}If someone's in trouble, I help them.{w}",
+  "kind": "msg",
+  "len": 70
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fdd0",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fddd",
+  "en": "{0E}\"Ugh, honestly! You're all exaggerating!\nIf someone's in trouble, I help them.{0F}\nThat's only natural, right?\"{w}",
+  "kind": "msg",
+  "len": 92
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fe4a",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fe55",
+  "en": "\"Me too, y'know~ Electra once~\"{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fe8a",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fe97",
+  "en": "\"Okay, okay, I get it!{w}Anyway, that's how it is, so be nice to all of us, okay?\"{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fee4",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@feed",
+  "en": "\"By the way... yours looks\nlike a pretty decent party.\"{w}",
+  "kind": "msg",
+  "len": 58
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ff38",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ff41",
+  "en": "\"We might end up competing with each other in all kinds of ways.{w}What do you say? How about you lot\nand us have a little test of skill?\"{w}",
+  "kind": "msg",
+  "len": 94
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ffb0",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ffbd",
+  "en": "\"Hey, Yamuru!\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ffe6",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ffef",
+  "en": "\"These are the people who'll be our rivals from here on.{w}We need to see what they can do now, don't we?\"{w}",
+  "kind": "msg",
+  "len": 84
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10054",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10061",
+  "en": "\"Well, that's...\"{w}",
+  "kind": "msg",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10084",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1008d",
+  "en": "\"Besides, you need the bounty money, right?{w}Or was this something you started half-heartedly?\"{w}",
+  "kind": "msg",
+  "len": 72
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@100e6",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@100ed",
+  "en": "\"Electra, what'll we do?\nIf you're going to fight, I'll help, okay?\"{w}",
+  "kind": "msg",
+  "len": 72
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10146",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10153",
+  "en": "\"............Okay, I've made up my mind!\"{w}{p}\"You guys, let's have a match!{w}All right, everyone, let's go!!\"{w}",
+  "kind": "msg",
+  "len": 100
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@101cf",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@101da",
+  "en": "\"Ooh~ I'm gonna lop off some heads~!\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10209",
+  "en": "Leave",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10226",
+  "en": "You sent Electra's party packing.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10257",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10264",
+  "en": "\"Ow ow ow...{w}You guys are amazing...\"{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@102a7",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@102b0",
+  "en": "\"Not bad at all.{w}Still, Electra,{w}your alchemy spells are as half-baked as ever.\"{w}",
+  "kind": "msg",
+  "len": 76
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1030d",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10318",
+  "en": "\"I wanted a Bulafei~~!\"{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1034d",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1035a",
+  "en": "\"Th-then go hide yourself!\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1038d",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10394",
+  "en": "\"It's okay, Electra!\nYour alchemy spells will get better from here on!\"{w}",
+  "kind": "msg",
+  "len": 66
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@103e7",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@103f4",
+  "en": "\"Th... thank you, Mig...\"{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10429",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10436",
+  "en": "\"It's all right,{w}there's no need to rush.\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1046f",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1047a",
+  "en": "\"I'll be lendin' a hand too, I will!\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@104ad",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@104ba",
+  "en": "\"Everyone... thank you.{w}Okay, so that's how it is,{w}next time I'll be able to do a lot more!\"{w}{p}\"See you!\"{w}",
+  "kind": "msg",
+  "len": 116
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10537",
+  "en": "Electra and the others went on their way.{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10577",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1059b",
+  "en": "\"............\"",
+  "kind": "data",
+  "len": 30
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@105b9",
+  "en": "Talk to them",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@105d6",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@105df",
+  "en": "\"Look, alchemy spells and Rangers go well together.{w}But if your success rate's low, it's pointless.\"{w}",
+  "kind": "msg",
+  "len": 92
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1064c",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10659",
+  "en": "\"I know that already!{w}That's why I'm studying like this, okay!?\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@106ae",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@106b9",
+  "en": "\"Don't be so hard on the Miss!{w}I'll be pitchin' in too, I will!\"{w}",
+  "kind": "msg",
+  "len": 74
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10714",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1071f",
+  "en": "\"Maniron's gonna try hard too~!\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1074e",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10755",
+  "en": "\"That's right, Electra!{w}You can't go through life bending your convictions!{w}You can still do it! Hang in there!\"{w}",
+  "kind": "msg",
+  "len": 100
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@107ca",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@107d7",
+  "en": "\"You're right... I'll try a little harder!\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10814",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10821",
+  "en": "\"There's no need to hurry, just go at your own pace...{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1085e",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1086b",
+  "en": "{0E}\"There's no need to hurry, just go at your own pace...{0F}\nOh?\"{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@108b8",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@108c5",
+  "en": "\"Oh, it's you guys! What a coincidence!{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@108f2",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@108ff",
+  "en": "{0E}\"Oh, it's you guys! What a coincidence!{0F}\nHow's it going? Things are going great for us!\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10954",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1095d",
+  "en": "\"Come to think of it, you got the better of us last time.{w}It won't go that way this time, got it?\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@109b2",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@109bf",
+  "en": "\"Yamuru, you're more hot-blooded than you look.{w}Didn't you have a rule about never doing anything that doesn't pay?\"{w}",
+  "kind": "msg",
+  "len": 112
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10a40",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10a49",
+  "en": "\"There's something I want to check...\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10a82",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10a8d",
+  "en": "\"I'll be showin' what I'm made of too!\"{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10ace",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10ad9",
+  "en": "\"Chop-chop, off with their heads~~~!\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10b08",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10b15",
+  "en": "\"Hm? Fine by me, but...?{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10b44",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10b51",
+  "en": "{0E}\"Hm? Fine by me, but...{0F}\nOkay, everyone, let's go!\"{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10b9b",
+  "en": "Leave",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10bb8",
+  "en": "You sent Electra's party packing.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10be9",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10bf2",
+  "en": "\"...Just as I thought.\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10c1d",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10c2a",
+  "en": "\"What's wrong?\"{w}",
+  "kind": "msg",
+  "len": 20
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10c4f",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10c58",
+  "en": "\"No, it's nothing.{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10c83",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10c8c",
+  "en": "{0E}\"No, it's nothing.{0F}\nYou lot look like a pretty good party.\"{w}",
+  "kind": "msg",
+  "len": 74
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10ce7",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10cf2",
+  "en": "\"Well, it's parties like ours, with a unicorn,\nthat are the rare ones, y'know.\"{w}",
+  "kind": "msg",
+  "len": 66
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10d45",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10d4c",
+  "en": "\"Having me around is proof of Innocence, after all!\"{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10d8d",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10d96",
+  "en": "\"Yeah, yeah, you're absolutely right.\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10dc5",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10dd0",
+  "en": "\"Miss! It's about time we...\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10dfd",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10e0a",
+  "en": "\"You're right.{w}",
+  "kind": "msg",
+  "len": 14
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10e29",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10e36",
+  "en": "{0E}\"You're right.{0F}\nWe won't lose next time, you hear? See you!\"{w}",
+  "kind": "msg",
+  "len": 52
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10e73",
+  "en": "Electra and the others went on their way.{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10eb3",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10ed7",
+  "en": "\"Hmm...\"",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10ee7",
+  "en": "Talk to them",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10f04",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10f11",
+  "en": "\"But I really do need to study...{w}Even you can read and write, right, Yamuru?\"{w}",
+  "kind": "msg",
+  "len": 80
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10f72",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10f7b",
+  "en": "\"That's a harsh way to put it.\nWhat good is a bounty hunter who can't read a wanted poster?\"{w}",
+  "kind": "msg",
+  "len": 66
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10fce",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10fd9",
+  "en": "\"I can't read, but\nit's never been a problem, y'know?\"{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1101a",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11027",
+  "en": "\"I'll teach you, then.{w}Perhaps we'll hold a little study session one of these days, hm?\"{w}",
+  "kind": "msg",
+  "len": 58
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11072",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1107d",
+  "en": "\"I hate studyyying...\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@110aa",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@110b7",
+  "en": "\"But what about textbooks... and the money for them?\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@110f4",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11101",
+  "en": "\"Oh, we'll manage somehow.\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11130",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11137",
+  "en": "\"Electra, Electra, look!\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1116a",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11177",
+  "en": "\"Oh! You again, in a place like this!\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@111a6",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@111b3",
+  "en": "\"We must share quite the bond of fate, eh?\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@111ea",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@111f1",
+  "en": "\"We've been getting stronger too, you know,\nso we won't lose this time!\"{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11240",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1124d",
+  "en": "\"All right then,{w}let's go, everyone!\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11281",
+  "en": "Leave",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1129e",
+  "en": "You sent Electra's party packing.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@112cf",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@112da",
+  "en": "\"Mighty impressive, as always!\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11303",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1130e",
+  "en": "\"Oh, that reminds me.\nDo you guys know anything about the Moonlight Spirit?\"{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11355",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1135e",
+  "en": "\"You really do march to your own beat.{w}The Moonlight Spirit? Don't you mean the Sun Spirit?\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@113b3",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@113be",
+  "en": "\"Nope, the Moonlight Spirit.{w}I've been kinda sorta looking for it.{w}And since I can't find it, it bugs me even more~\"{w}",
+  "kind": "msg",
+  "len": 98
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11431",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1143e",
+  "en": "\"One way or another, you guys sure know a lot...{w}I really do need to study.{w}",
+  "kind": "msg",
+  "len": 72
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11497",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@114a4",
+  "en": "{0E}\"One way or another, you guys sure know a lot...\nI really do need to study.{0F}\nAnd I have to work harder at alchemy, too...\"{w}",
+  "kind": "msg",
+  "len": 116
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11529",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11532",
+  "en": "\"Then just change classes.\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1155d",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11568",
+  "en": "\"Ninja! Ninja's the way to go!{w}YAMURU IS DECAPITATED!{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@115bb",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@115c6",
+  "en": "{0E}\"Ninja! Ninja's the way to go!\nYAMURU IS DECAPITATED!{0F}\n*ding* R.I.P.!\"{w}",
+  "kind": "msg",
+  "len": 72
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11624",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1162d",
+  "en": "\"Why's it gotta be me!?\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11658",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11663",
+  "en": "\"Oh, pipe down.{w}We don't neeeed a thief who can't\neven disarm traps!\"{w}",
+  "kind": "msg",
+  "len": 70
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@116ba",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@116c5",
+  "en": "\"You can just go end up\n    *INSIDE THE STONE*\nall by yourself!\"{w}",
+  "kind": "msg",
+  "len": 86
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1172c",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11739",
+  "en": "\"W-wait a sec...\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1176c",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11773",
+  "en": "\"That's right! Electra, don't give up!{w}You're gonna make loads of money as an alchemist, right?{w}Don't go bending your convictions!\"{w}",
+  "kind": "msg",
+  "len": 114
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@117f6",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11803",
+  "en": "\"Mig...\"{w}",
+  "kind": "msg",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11824",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1182d",
+  "en": "\"Look.{w}Electra, you need to knock it off too.{w}If you keep wavering any longer, I'm out.\"{w}",
+  "kind": "msg",
+  "len": 86
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11894",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@118a1",
+  "en": "\"Hold... on, Yamuru...{w}Where's this coming from all of a sudden...?\"{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@118e8",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@118f1",
+  "en": "\"Someone who's half-hearted drags everyone else down too.\"{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1192c",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11937",
+  "en": "\"Aw, don't go sayin' that, chief!{w}I'll just dig in all the harder to make up for it!\"{w}",
+  "kind": "msg",
+  "len": 74
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11992",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11999",
+  "en": "\"That's right!\nElectra's working really hard, you know!\"{w}",
+  "kind": "msg",
+  "len": 58
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@119e4",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@119ed",
+  "en": "\"You'd better think a little harder{w}about what you're actually\nsaying.\"{w}",
+  "kind": "msg",
+  "len": 72
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11a4b",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11a52",
+  "en": "\"Says the one who's already changed classes!\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11a7f",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11a8c",
+  "en": "\"...Mig.\"{w}",
+  "kind": "msg",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11aad",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11ab6",
+  "en": "\"...I'll stick with you a little longer, at least.{w}Studying's something you can start bit by bit, too.{w}Now give me an answer.\"{w}",
+  "kind": "msg",
+  "len": 100
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11b2b",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11b38",
+  "en": "\"......Yeah... You're right...\nI'll try a little harder...{w}...Is that okay?\"{w}",
+  "kind": "msg",
+  "len": 82
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11b9b",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11ba4",
+  "en": "\"...Fine.{w}Anyway, we're moving on.{w}Hanging around here forever won't get us anywhere.\"{w}",
+  "kind": "msg",
+  "len": 84
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11c09",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11c16",
+  "en": "\"Right!{w}Well then, you guys take care too, okay?\"{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11c4d",
+  "en": "Electra and the others went on their way.{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11c8d",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11cb1",
+  "en": "\"Dvel Soft Steel and Frozen Elven Iron...\"",
+  "kind": "data",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11cd9",
+  "en": "Talk to them",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11cf6",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11d03",
+  "en": "\"Those two make an Angel's Window...{w}I know that one, since I've made it before.{w}",
+  "kind": "msg",
+  "len": 70
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11d5a",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11d67",
+  "en": "{0E}\"Those two make an Angel's Window...\nI know that one, since I've made it before.{0F}\nAnd then Ma... Mazu... Mazu-ree-tay?\"{w}",
+  "kind": "msg",
+  "len": 108
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11de4",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11def",
+  "en": "\"Miss, that'd be '-rite'...\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11e1c",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11e29",
+  "en": "\"Huh? Oh, so it's pronounced 'Mazurite'!\"{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11e68",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11e73",
+  "en": "\"...Heyyy, some alchemist you are~~...\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11eaf",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11ebc",
+  "en": "\"B-but I know the real thing when I see it, and I can transmute it,{w}and I know what it's called and everything!{w}...Even if I didn't know how to read it.\"{w}",
+  "kind": "msg",
+  "len": 108
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11f39",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11f46",
+  "en": "\"It's that sort of carelessness, you see,{w}that leaves you red-faced in front of others like this...{w}Now, can you spell 'Mazurite'?\"{w}",
+  "kind": "msg",
+  "len": 104
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11fbf",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11fcc",
+  "en": "\"Um... 'Mazuright'...\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11ffd",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12008",
+  "en": "\"Ooh, that's our Miss! Beautifully done!\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12041",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1204c",
+  "en": "\"...Isn't that kinda wrong-ish?\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12079",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12082",
+  "en": "\"'Mazurite'... Like this.\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@120b4",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@120c1",
+  "en": "\"It looks close and it sounds the same, so who cares!\"{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12102",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1210f",
+  "en": "\"Now, now, take your time learning it.{w}I'd call that... sixty out of a hundred, shall we say.\"{w}",
+  "kind": "msg",
+  "len": 76
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1216c",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12173",
+  "en": "\"Way to go, Electra!\nThat's a better score than last time!\"{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@121c0",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@121cd",
+  "en": "\"I guess so.........{w}Hmm, with this stuff, I guess the only way\nis to write it out a lot until it sticks...\"{w}",
+  "kind": "msg",
+  "len": 84
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12232",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12239",
+  "en": "\"...Electra?\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12262",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1226d",
+  "en": "\"Ahahahaha!\nMig, Electra thinks you're a pest!\"{w}",
+  "kind": "msg",
+  "len": 64
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@122be",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@122cb",
+  "en": "\"Huh!? That's not true, Mig!\nThank you, okay?\"{w}",
+  "kind": "msg",
+  "len": 56
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12314",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1231b",
+  "en": "\"...Am I getting in your way, Electra?\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12358",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12365",
+  "en": "\"You're overthinking it. It's fine!{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12390",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1239d",
+  "en": "{0E}\"You're overthinking it. It's fine!{0F}\nOh, it is you guys.{w}Sorry I'm always so slow to notice!\"{w}",
+  "kind": "msg",
+  "len": 98
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12410",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1241b",
+  "en": "\"Maybe they're all ninjas?{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12452",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1245d",
+  "en": "{0E}\"Maybe they're all ninjas?{0F}\nChop! Off with their heads!\"{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@124a0",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@124ab",
+  "en": "\"Nah, nah, maybe{w}every last one of 'em's a thief,\nsame as me, eh?\"{w}",
+  "kind": "msg",
+  "len": 78
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1250a",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12517",
+  "en": "\"Okay, okay, that's enough!{w}Now then, let's put all that studying to the test!{w}...Mig?\"{w}",
+  "kind": "msg",
+  "len": 90
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12582",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12589",
+  "en": "\"No, it's nothing, Electra!\nLet's show them what we can do!\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@125de",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@125eb",
+  "en": "\"Yeah, let's!\"{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1260f",
+  "en": "Leave",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1262c",
+  "en": "You sent Electra's party packing.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1265d",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12668",
+  "en": "\"...Heeeads!!\"{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1268f",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12696",
+  "en": "\"...Electra, am I really not getting in your way?\"{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@126d9",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@126e6",
+  "en": "\"Seriously, what's wrong?{w}Of course you're not.\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12723",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1272a",
+  "en": "\"But we couldn't win this time either...{w}Electra, could it be you actually want to change classes?{w}Because if you do, I...\"{w}",
+  "kind": "msg",
+  "len": 106
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@127a5",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@127ae",
+  "en": "\"Took you long enough to figure it out.\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@127de",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@127eb",
+  "en": "\"Yamuru!{w}",
+  "kind": "msg",
+  "len": 14
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1280a",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12817",
+  "en": "{0E}\"Yamuru!{0F}\n...It's all right, okay?\"{w}{p}\"If I wanted to change classes, I wouldn't be studying alchemy.{w}I'm studying like this because\nI decided to keep at it, see?\"{w}",
+  "kind": "msg",
+  "len": 156
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@128c4",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@128cb",
+  "en": "\"Really? Are you really sure?\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@128fc",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12909",
+  "en": "\"Really.\nThe more I learn, the more I can do,{w}and I keep wondering what I'll be able to do next...\"{w}{p}\"Lately studying's been so much fun I can hardly stand it.{w}Maybe I should've started sooner?\"{w}{p}\"So you keep cheering me on, just like that,{w}so I don't run away from it.{w}That way I can try all the harder. ...Is that okay?\"{w}",
+  "kind": "msg",
+  "len": 300
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12a46",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12a4d",
+  "en": "\"...Yeah! If you're asking, Electra,\nI'll cheer you on forever and ever!{w}Go for it, Electra! I'll always be with you!!\"{w}",
+  "kind": "msg",
+  "len": 118
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12ad4",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12add",
+  "en": "\"Ugh, now the noisy one's back to normal...\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12b26",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12b31",
+  "en": "\"Hey, you! I'll chop your head off!\nRead the room!\"{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12b6c",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12b77",
+  "en": "\"Reckon that's a happy endin' all round, eh?\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12ba8",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12bb5",
+  "en": "\"So it would seem.\"{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12bdc",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12be9",
+  "en": "\"All right, you guys!\nIt won't go the same way next time, okay?{w}Well then, take care!\"{w}",
+  "kind": "msg",
+  "len": 84
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12c46",
+  "en": "Electra and the others went on their way.{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12c86",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12caa",
+  "en": "\"Oh?\"",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12cb6",
+  "en": "Talk to them",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12cc3",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12cd0",
+  "en": "\"How are you guys doing?{w}We're doing great over here.{w}I've learned a whole lot more letters, too!\"{w}",
+  "kind": "msg",
+  "len": 80
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12d31",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12d3a",
+  "en": "\"Half-baked or not,{w}once you start something, you see it through till it's settled.{w}Otherwise nothing good ever comes of it...\"{w}",
+  "kind": "msg",
+  "len": 120
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12dc3",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12dce",
+  "en": "\"...Sounds like someone's speakin' from experience!\"{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12e0d",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12e1a",
+  "en": "\"Words only ever come from what\na body has lived through, after all...\"{w}",
+  "kind": "msg",
+  "len": 72
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12e73",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12e7e",
+  "en": "\"That's what they call\na contrary sort, right...?\"{w}",
+  "kind": "msg",
+  "len": 52
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12ec8",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12ed1",
+  "en": "\"I am not!\"{w}",
+  "kind": "msg",
+  "len": 14
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12ef0",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12ef7",
+  "en": "\"Go, Electra!\nI'll always be cheering for you!\"{w}",
+  "kind": "msg",
+  "len": 58
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12f42",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12f4f",
+  "en": "\"Thanks, Mig.{w}Now then, you guys!{w}What do you say we do the usual?\"{w}",
+  "kind": "msg",
+  "len": 74
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12fa7",
+  "en": "Leave",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12fc4",
+  "en": "You sent Electra's party packing.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12ff5",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13002",
+  "en": "\"You're as good as ever!\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13033",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1303a",
+  "en": "\"I won't lose next time!\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13071",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1307c",
+  "en": "\"Off with ALL your heads!\"{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@130a3",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@130ae",
+  "en": "\"Mighty bloodthirsty, ain't it...\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@130db",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@130e8",
+  "en": "\"Ah, the folly of youth, I suppose...\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13111",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1311a",
+  "en": "\"You'd better look forward to next time, got it?{w}We'll be even stronger by then.\"{w}",
+  "kind": "msg",
+  "len": 64
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1316b",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13178",
+  "en": "\"That's right!\nWell then, see you around!\"{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@131ab",
+  "en": "Electra and the others went on their way.{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@131df",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@131ea",
+  "en": "\"Ah! Don't you run away, you bastard!\nI didn't get to lop off a single head!\nHEEEADS!!\"{w}",
+  "kind": "msg",
+  "len": 74
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@13265",
+  "en": "A giant tornado struck you.{w}You tried to hold your ground, but the force of the wind slowly lifted you off your feet, and you were carried high into the sky whether you liked it or not.{w}",
+  "kind": "msg",
+  "len": 124
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@137c6",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@138d4",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@1395b",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@1396d",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@1397b",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@1398b",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@13999",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@139a9",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@139b9",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@139c3",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@139d3",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@139e3",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@139f5",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@df8",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@e00",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@e12",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@e18",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@e1e",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@e28",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@16b2",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@16ba",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@16cc",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@16d2",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@16d8",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@16e2",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@2097",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@20a9",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@20af",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@20b5",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@20bf",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@404e",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@4056",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@4068",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@406e",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@4074",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@407e",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@4b62",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@4b6a",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@4b7c",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@4b82",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@4b88",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@4b92",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@6bce",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@6bd6",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@6be8",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@6bee",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@6bf4",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@6bfe",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@7542",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@754a",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@755c",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@7562",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@7568",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@7572",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@7957",
+  "en": "Menolist",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "extra@80d8",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@80e0",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@80f2",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@80f8",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@80fe",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@8108",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@8118",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@812a",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "extra@8138",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@8148",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "extra@8156",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@8166",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@8176",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@8180",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@8190",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@81a0",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@81b2",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@9797",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@979d",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@a345",
+  "en": "You fled from the Floor Master.",
+  "kind": "data",
+  "len": 38
+ },
+ {
+  "id": "extra@ab25",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@ab2d",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@ab3f",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@ab45",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@ab4b",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@ab55",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@cd92",
+  "en": "You fled from the Floor Master.",
+  "kind": "data",
+  "len": 38
+ },
+ {
+  "id": "extra@d512",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@d51a",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@d52c",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@d532",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@d538",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@d542",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@f77f",
+  "en": "You fled from the Floor Master.",
+  "kind": "data",
+  "len": 38
+ },
+ {
+  "id": "extra@1391b",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@13923",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@13935",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@1393b",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@13941",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@1394b",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@df2",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@16ac",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@4048",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@4b5c",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@6bc8",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@753c",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@7841",
+  "en": "Menolist",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "extra@7a12",
+  "en": "Menolist",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "extra@80d2",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@8754",
+  "en": "You've encountered something!",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@87e0",
+  "en": "You've encountered something!",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@886c",
+  "en": "You've encountered something!",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@9205",
+  "en": "You've encountered something!",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@924e",
+  "en": "# Divine Shadow victory",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "extra@92de",
+  "en": "# Divine Shadow victory",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "extra@936e",
+  "en": "# Divine Shadow victory",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "extra@93fc",
+  "en": "# Divine Shadow victory",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "extra@9482",
+  "en": "# Divine Shadow victory",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "extra@9512",
+  "en": "# Divine Shadow victory",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "extra@95f8",
+  "en": "You've encountered something!",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@9639",
+  "en": "You've encountered something!",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@9699",
+  "en": "You've encountered something!",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@9771",
+  "en": "Friendly foes appear. Fight?",
+  "kind": "data",
+  "len": 38
+ },
+ {
+  "id": "extra@a319",
+  "en": "You succeeded in driving off the fearsome enemy.",
+  "kind": "data",
+  "len": 44
+ },
+ {
+  "id": "extra@ab1f",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@d50c",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@13915",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@784e",
+  "en": "\"Oh ho, I never expected to run into you so suddenly.{w}But tell me, how do you differ from the five primal races?\nWhat was this generational succession even for!\"{w}{p}\"Come, let us have a little bout, shall we?{w}This power of the Ryug I have heard such rumors of --\nshow it to me!!\"{w}",
+  "kind": "msg",
+  "len": 224
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@7964",
+  "en": "\"Oh my, a case of mistaken identity!{w}Then perhaps... hmm.{w}Could it be that the Gathering of the Shining Night is not here after all?\"{w}{p}\"Merci, travelers.{w}Allow me to answer your courtesy in kind.\"{w}",
+  "kind": "msg",
+  "len": 168
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@7a1f",
+  "en": "\"Well then, salavine -- may your journey be a good one!!\"{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@7f83",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@88f7",
+  "en": "[Key Item]\nObtained Ninja Fiend's Helm.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8964",
+  "en": "[Key Item]\nObtained Song of Spirits.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@89cf",
+  "en": "[Key Item]\nObtained Flesh-Lump Flower.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8a3a",
+  "en": "[Key Item]\nObtained Deltoi Empty Room.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8aaf",
+  "en": "[Key Item]\nObtained Dark Sakil Shell.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8b20",
+  "en": "[Key Item]\nObtained Aleed Palette.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8b93",
+  "en": "[Key Item]\nObtained Demon-Boob Undies.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8bfe",
+  "en": "[Key Item]\nObtained Seot's Demon Nest.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8c6f",
+  "en": "[Key Item]\nObtained Unclean Water.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8cdc",
+  "en": "[Key Item]\nObtained Menolist's Candle.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8d4f",
+  "en": "[Key Item]\nObtained Ponya Sausage.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8dc2",
+  "en": "[Key Item]\nObtained Taizarti Lamp.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8e37",
+  "en": "[Key Item]\nObtained Glittering Scale.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8ea4",
+  "en": "[Key Item]\nObtained Swordsage's Beard.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8f10",
+  "en": "[Key Item]\nObtained Red Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8f7b",
+  "en": "[Key Item]\nObtained Blue Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8fe6",
+  "en": "[Key Item]\nObtained Green Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9051",
+  "en": "[Key Item]\nObtained Yellow Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@90bc",
+  "en": "[Key Item]\nObtained Black Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9127",
+  "en": "[Key Item]\nObtained White Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@915f",
+  "en": "After defeating the mighty Duke of the Demon World,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@91a2",
+  "en": "After winning the battle,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@91e0",
+  "en": "# Current floor: {0B:0003:0000}",
+  "kind": "op029",
+  "len": 22
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9263",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9288",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@92f3",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9318",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9383",
+  "en": "The great shadow fades away{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@93a6",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9411",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9436",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9497",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@94bc",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9527",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@954c",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9823",
+  "en": "{0A:0003:0006}'s alignment changed to Good{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@98c3",
+  "en": "{0A:0003:0006}'s alignment changed to Evil{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9bdc",
+  "en": "Obtained {12:0003:0018}.{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9c0b",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9c60",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9e13",
+  "en": "Suddenly, your bodies seemed to grow lighter.{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9e85",
+  "en": "With a strange whirring, a Tetramystica glides across the floor.{w}{p}A Tetramystica specialized for guard duty -- a \"Guard Mystica,\" you might call it.{w}{p}Here and there the students have scrawled on it: \"Idiot,\" \"Moron,\" even doodled nose hairs.{w}Even so, its function of guarding the Academy is still fully intact.{w}{p}So it is only natural that, on spotting you outsiders who don't belong to the Academy, it moves to eliminate you.{w}",
+  "kind": "msg",
+  "len": 362
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9ff4",
+  "en": "You have run into a foe you never expected.{w}A vast form, its whole body blazing with light.{w}{p}Without a sound, the very air shudders and trembles.{w}With the word \"alien\" lodged in your hearts, you stand exposed to its savage power.{w}",
+  "kind": "msg",
+  "len": 168
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@a0a1",
+  "en": "Suddenly, a gigantic beast appears before you.{w}Half tiger and half horse, it flails its arms and thrashes its whole body wildly.{w}{p}And now its fury turns on you as well.{w}",
+  "kind": "msg",
+  "len": 138
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@a130",
+  "en": "Darkness within darkness.{w}Welling up from the abode of the Nether King, it fills the air around it with an incomprehensible tongue.{w}{p}What it is saying: unknown.{w}What it is even trying to do: unknown.{w}{p}But one thing is clear:\nit means to destroy you.{w}",
+  "kind": "msg",
+  "len": 222
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@a213",
+  "en": "A giant leaps out in front of you.{w}It seems to be distracted by something else.{w}{p}It doesn't appear able to tell whether you are enemies or mere visitors.{w}{p}No -- for just a moment it seemed to give it some thought, but\n'Eh, I'll just punch them for now and...'{w}seems to be the conclusion it reached.{w}",
+  "kind": "msg",
+  "len": 244
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8091",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ }
+]

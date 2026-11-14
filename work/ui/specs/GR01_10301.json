@@ -1,0 +1,85 @@
+{
+ "gim": "ANIME/GR01_10301.GIM",
+ "note": "Title logo: subtitle 暗黒の使徒と太陽の宮殿 and the reading エルミナージュ3 replaced.",
+ "erase": [
+  [
+   118,
+   130,
+   366,
+   152,
+   "inpaint"
+  ],
+  [
+   205,
+   129,
+   276,
+   151,
+   "vcopy:128"
+  ],
+  [
+   276,
+   64,
+   347,
+   80,
+   "inpaint"
+  ]
+ ],
+ "text": [
+  {
+   "x": 118,
+   "y": 133,
+   "w": 248,
+   "align": "center",
+   "font": "16",
+   "spacing": 0,
+   "color": [
+    236,
+    206,
+    112
+   ],
+   "outline": [
+    24,
+    20,
+    40
+   ],
+   "lines": [
+    "Dark Apostle and the Palace of the Sun"
+   ],
+   "glow": [
+    7,
+    12,
+    80,
+    150,
+    3
+   ]
+  },
+  {
+   "x": 276,
+   "y": 66,
+   "w": 71,
+   "align": "center",
+   "font": "12",
+   "spacing": 1,
+   "color": [
+    225,
+    225,
+    235
+   ],
+   "outline": [
+    40,
+    30,
+    80
+   ],
+   "lines": [
+    "ELMINAGE 3"
+   ],
+   "glow": [
+    7,
+    13,
+    80,
+    150,
+    3
+   ]
+  }
+ ]
+}

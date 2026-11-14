@@ -1,0 +1,346 @@
+[
+ {
+  "en": "\"Y-you got my old man's blueprints? ...Not yet, huh.{w}Aw, man, you got my hopes up for nothin'. Next time, come back once you've found 'em!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You showed \"Old Man's Plans\" to Fulgrant.{w}",
+  "kind": "msg",
+  "note": "Item name as in pilot row 8; quotes kept from the source brackets."
+ },
+ {
+  "en": "\"Wh... Whoa!!! This is...\"{w}{p}\"It's my old man's blueprints, the ones I lost! No doubt about it!!{w}You really went and found 'em for me...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Amazin'... You actually found 'em!!{w}Right, with these, that cannon's gettin' finished for sure! ...So, uh, about that...\"{w}{p}\"To build a cannon, see... you need tools. You get that, right?{w}Well, I went and lost the cannon tools too.\"{w}{p}\"I can't build it like this! You lot... go find me those tools!!\"{w}{p}\"It's all so we can get at the Palace of the Sun. If you could find the blueprints, the tools'll be a snap for you, right? I'm countin' on you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Haah, them cannon tools just ain't turnin' up anywhere...{w}What, you lot ain't found 'em yet either?\"{w}{p}\"We'll keep lookin' too, but you lot keep at it as well!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You showed \"Cannon Tools\" to Fulgrant.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wha... Is that...!?{w}Those are the cannon tools, ain't they!!! You did it, you lot! Knew you had it in ya...\"{w}{p}\"Now we can build the cannon! Just you wait, my dear Kin of Darkness...\"{w}",
+  "kind": "msg",
+  "note": "'kin of darkness' = [JP] as in wmap slice_20; the honorific [JP] is mock-polite, rendered 'my dear'."
+ },
+ {
+  "en": "\"...So, anyway. I've been thinkin'.{w}Once the cannon's done, we fire it into the Palace of the Sun -- 'KA-BOOOOM!' -- right?\"{w}{p}\"And when that happens, just standin' around watchin' would be pretty boring, don'tcha think?\"{w}",
+  "kind": "msg",
+  "note": "'KA-BOOOOM!' for the quoted [JP]; same rendering in row 1197. Row 1175 (slice_014) has the same sound and should match."
+ },
+ {
+  "en": "\"Course you do! So what we're plannin' is, when we shoot down the Palace of the Sun, we all go 'WOOOOO!' and party it up!!\"{w}{p}\"And for that, we need bar snacks, right!{w}The plan is, everybody munches away while we whoop it up! And of course, the more folks watchin', the better!\"{w}{p}\"We'll invite a whole crowd... and then, if we watch it while munchin' on Seasoned Snacks...\"{w}{p}\"It's gonna be a blast, no question! You lot wanna eat some too, right?\"{w}{p}\"...Right, it's settled! We need Seasoned Snacks. I'm countin' on you! Go find some!\"{w}",
+  "kind": "msg",
+  "note": "Item name 'Seasoned Bar Snacks' (pilot row 10) used as the noun, since the scene is the hunt for that key item."
+ },
+ {
+  "en": "\"So, find any Seasoned Snacks?{w}Hurry up and find 'em!! You wanna see the Palace of the Sun come down soon, don'tcha?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Listen up, boys! It won't be long now...!\nLet's show 'em what we're made of!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Fulgrant rallying his own ogre/goblin crew (not the party); 'boys' keeps the rough masculine [JP]."
+ },
+ {
+  "en": "\"...Oh? It's you lot.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You showed \"Seasoned Snacks\" to Fulgrant.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah, this is it...!!\nSeasoned Snacks, the real deal!!!{w}You did great findin' 'em!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Alllright, we'll get right to work on the preparations!{w}Once you lot are ready too, come talk to me! It won't be long now!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yo, here's where we're at over here.\nYou lot ready?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What, you ain't ready yet...?\"{w}{p}\"Well, there's still time. Get yourselves good and ready, then come talk to me again!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We're all set over here.\nWell then, let's go fire this thing!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Right! Let's get straight to it... You lot!!!\nHere we go -- 'KA-BOOOOM!'!!!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: could be his crew or the party; kept as an ambiguous 'You lot'."
+ },
+ {
+  "en": "\"...Let 'er riiiiiiiip!!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh, that's weird...{w}Nothin's broken anywhere, right!?\"{w}",
+  "kind": "msg",
+  "note": "Identical source to row 1202; same English. Cannon misfire branch (1200-1201)."
+ },
+ {
+  "en": "\"That's 'cause you handle it so rough, Lord Fulgrant~\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Lord Fulgrant' (cf. [JP] = 'Lord Void' in wmap slice_20)."
+ },
+ {
+  "en": "\"Sorry 'bout this. Looks like the repairs are gonna take a while...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh, that's weird...{w}Nothin's broken anywhere, right!?\"{w}",
+  "kind": "msg",
+  "note": "Source has a stray full-width space before the final {w}; dropped. Same English as row 1199."
+ },
+ {
+  "en": "As if answering Fulgrant's voice, the ogres and goblins living in Ogre Bay gathered in one spot in no time at all.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Goblin A",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh, so you came too, huh!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Goblin B",
+  "kind": "name"
+ },
+ {
+  "en": "\"'Course I did!\nWe're shootin' down the Palace of the Sun, y'know?\nYou'd be missin' out if you didn't come watch!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Ogre A",
+  "kind": "name"
+ },
+ {
+  "en": "\"Well? Ain't it a beauty?\nI built that bit over there, y'know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Ogre B",
+  "kind": "name"
+ },
+ {
+  "en": "\"Like hell you did.\nI built that!\"{w}",
+  "kind": "msg",
+  "note": "[JP] ('don't talk rubbish') rendered as a colloquial contradiction."
+ },
+ {
+  "en": "Goblin C",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oho, goin' at it, huh.\nBein' lively's fine, but keep that up and you'll miss the big moment when the cannon fires, y'know?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Guess you got a point...\nH-hey! It's about to start!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "KA-BOOOOOOOOOOOOM!!!!{w}A thunderous roar rang out all around, shaking the air.{w}",
+  "kind": "msg",
+  "note": "[JP] SFX; same rendering in row 1230."
+ },
+ {
+  "en": "The cannon scored a direct hit on the Palace of the Sun!{w}...It did, but the palace didn't budge an inch.{w}{p}Nothing had changed at all between before the cannon fired and now.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh... What!?{w}It didn't do a thing...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "After thinking for a moment, Fulgrant stares hard at you, as if struck by an idea.{w}You get a bad feeling about this.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Right. Hey, you lot.\nPop on over to the Palace of the Sun for a bit!!\"{w}{p}\"Look, we've got this mighty fine cannon right here.\nI'll fire you up there with it!\"{w}{p}\"Aw, no need to worry. It'll work out somehow.{w}...Off you go!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Before you knew it, Fulgrant had grabbed you and forcibly crammed you into the cannon.\nFrom inside the cannon, you could see the sky.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't worry, this plan's bound to work!\nWorryin' is a total waste of time, y'know?\nRelax and off you go!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So, how's it feel inside the cannon?\nSurprisingly cozy, huh?\"{w}{p}\"Hey, next time you open your eyes, you'll be right at the Palace of the Sun!\nGive it your best!!\"{w}{p}\"Okay, startin' the countdown.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "All Goblins",
+  "kind": "name"
+ },
+ {
+  "en": "\"Threee!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "All Ogres",
+  "kind": "name"
+ },
+ {
+  "en": "\"Twooo!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Everyone",
+  "kind": "name"
+ },
+ {
+  "en": "\"Ooone!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Fiiire~~!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "KA-BOOOOOOOOOOOOM!!!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How was it, you lot?\nHow'd it feel bein' a cannonball?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You lot did good.\nSee? You made it back just fine, didn't ya!!\"{w}{p}\"Look, everybody's gathered here to catch a glimpse of you lot, y'know?\"{w}",
+  "kind": "msg",
+  "note": "First page identical to row 1243."
+ },
+ {
+  "en": "Everyone appeared in the hall, and you received their praise.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So I hear you got shot all the way to the Palace of the Sun with that cannon?{w}That must've been rough, huh?\"{w}{p}\"Still, you did great!\nCongratulations!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lord Fulgrant's cannon truly is in a league of its own, isn't it.{w}To think it reached all the way to the Palace of the Sun...\"{w}{p}\"Thank you for all your hard work.\nAnd congratulations.\"{w}",
+  "kind": "msg",
+  "note": "Mayleen's polite [JP] register kept refined."
+ },
+ {
+  "en": "\"You did splendidly, despite such a reckless plan.\nNow we can rest easy, at least for the time being.\nThank you very much.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Here's your reward. Take it.\"{w}",
+  "kind": "msg",
+  "note": "Source opens with a full-width indent space; dropped."
+ },
+ {
+  "en": "\"Oh, right.\nMore importantly, go take a look outside!\nEverybody's waitin' for you.\"{w}{p}\"Oi, you lot!!{w}Fire yourselves up! The parade's startin'!!!\"{w}",
+  "kind": "msg",
+  "note": "Second-page [JP] is most likely his crew; left as an ambiguous 'you lot'."
+ },
+ {
+  "en": "\"You lot did good.\nSee? You made it back just fine, didn't ya!!\"{w}{p}\"I owe you lot one.\nNext time, the drinks are on me!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You lot..........{w}...who were you again?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, Balgert was lookin' for you lot, y'know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, Rianna was lookin' for you lot, y'know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, that brat from Perpeco was lookin' for you lot, y'know.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: a child from Perpeco (place in glossary); identity not settled here, kept gender-neutral."
+ },
+ {
+  "en": "\"We let the ogres handle the heavy lifting,{w}'cause for us goblins,\nusin' our brains is what it's all about.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Well, this is a fine mess.\nWhat am I supposed to do?\"{w}{p}\"Oh, perfect timin'. Hear me out a sec.{w}Ogre Bay's filthy, so I've been told to give the place a big cleanup, but...\"{w}{p}\"See 'em? Those black lumps, all piled up over by the edge there?{w}Those're all... Ultimate... y'know...\"{w}{p}\"...Sorry to ask, but you lot are adventurers, right?{w}I'll get the rest cleaned up quick, so could you clean those up for me?\"{w}{p}\"Hey, we all gotta help each other out when times are tough. Please? C'mon.{w}At this rate, Ogre Bay's gonna be ruined...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the Ultimate Runner monsters (MONSTER1.CSV); the ogre trails off rather than say the full name, as in EVENT_TEXT 59:8. 'black lumps' = [JP] (also SCD09:30002 rows 1166-1168). Last page = row 1250."
+ },
+ {
+  "en": "\"Hey, we all gotta help each other out when times are tough. Please? C'mon.{w}At this rate, Ogre Bay's gonna be ruined...\"{w}",
+  "kind": "msg",
+  "note": "Identical to the last page of row 1249."
+ },
+ {
+  "en": "\"Aah, what a nightmare that was...\nThanks for all your trouble too, you lot.{w}You really helped me out.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Even leavin' a mess uncleaned, there's a limit, y'know.{w}From now on, I gotta clean up regular-like.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Dr. Mad",
+  "kind": "name",
+  "note": "New name. [JP] romanized as a title-name; 16-char limit."
+ },
+ {
+  "en": "\"Uhyahyahya! Another idea strikes!{w}The common rabble could never grasp what it's for!{w}My own skill and genius frighten me!\"{w}{p}\"Uhyahyahyahya!{w}Oh! Ah! What's this!? Not yet!{w}If I modify this, something even more amazing will...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uhyahyahya! Another idea strikes!{w}Eh, who are you lot? How long have you been there?{w}A contraption for catching magic puppets, you say?\"{w}{p}\"Uhyahyahya, I see, I see!{w}So it's you who want it! Marvelous!{w}Mmm, my own genius frightens me.\"{w}{p}\"Nothing I make could ever be useless!{w}There's always someone out there who needs it!{w}And now that has been proven!\"{w}{p}\"Right then, take it! I don't need your money!{w}Someone who wants it has come! That's my reward!{w}Uhyahyahyahya!!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'magic puppet' (Decoy is one, per MON_TEXT 346); this is the trap Milonya asked for (wmap slice_15 rows 1126-1134)."
+ },
+ {
+  "en": "[Key Item]\nObtained Magic Puppet Trap.{w}",
+  "kind": "msg",
+  "note": "New item name [JP]; format as wmap slice_01 key-item rows."
+ },
+ {
+  "en": "\"I really am a genius after all!{w}Uhyahyahyahyahya!{w}Ooh, another idea strikes!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You seen that Dr. Mad?{w}The stuff the doc makes is amazin', but...{w}there's just no use for any of it...\"{w}{p}\"Even if it's a capture trap, at that size...{w}it's too small for a Carbuncle,{w}and too big for an Ultimate Runner...\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'the doc' to avoid assuming gender. Carbuncle / Ultimate Runner are monster names (MONSTER1.CSV), not yet in glossary."
+ },
+ {
+  "en": "Mysterious Ninja",
+  "kind": "name"
+ },
+ {
+  "en": "\"Did you folks sneak into this castle too?{w}I may look like this right now,{w}but believe it or not, I'm a crack intelligence agent, y'know?\"{w}{p}\"Infiltrate, get caught on purpose, and dig up inside information.{w}Spy work 101.{w}............Honest, okay?\"{w}",
+  "kind": "msg",
+  "note": "Speaker is apparently locked up in the castle (cf. thief in 1261); [JP] read as 'look like this' to keep both costume and captivity open."
+ },
+ {
+  "en": "\"Ah, hey there! Get me outta here!{w}I thought, 'Huh, what an unusual castle,' and wandered in, and next thing I know I got nabbed!\"{w}{p}\"I ain't even stolen anything yet!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Sickly Fencer",
+  "kind": "name",
+  "note": "[JP]; 'Fencer' rather than 'Swordsman' to avoid assuming gender."
+ }
+]

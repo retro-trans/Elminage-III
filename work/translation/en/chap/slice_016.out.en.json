@@ -1,0 +1,358 @@
+[
+ {
+  "en": "\"*Cough, hack*...{w}As you can see, I'm an invalid... *cough*.{w}And yet they claimed I was faking it to slack off... *hack*\"{w}{p}\"...Even if I were faking, don't you think\nthrowing me in jail is cruel?\"{w}",
+  "kind": "msg",
+  "note": "Speaker name box (row 1262, slice_015) = byoujaku na kenkaku, \"sickly swordsman\". byounin rendered \"invalid\" to avoid gendering (\"sick man\")."
+ },
+ {
+  "en": "There are old documents and history books here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There are old documents and history books here.\nYou found something among them.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Sun Prison Shrine.{w}",
+  "kind": "msg",
+  "note": "New item: Sun Prison Shrine (zushi = small shrine cabinet; \"you lot\" opens it and a doll is inside). ITEM_PRIZ max 18; 17 chars."
+ },
+ {
+  "en": "When you opened the Sun Prison Shrine,\na small fairy doll came out from inside.{w}{p}It looked as if someone had made it by hand.{w}You gently put the doll back in its box.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Summer",
+  "kind": "name",
+  "note": "Ninja rank/monster name (katakana samaa; MON_TEXT: \"a ninja holding the title of Samaa\"). Romanized as Summer; tentative."
+ },
+ {
+  "en": "\"If you find a log lying in the forest,{w}it may be the trace of a ninja\nwho used the Substitution Technique...\"{w}",
+  "kind": "msg",
+  "note": "kawarimi no jutsu = Substitution Technique (ninja swaps self for a log)."
+ },
+ {
+  "en": "Kannagi",
+  "kind": "name",
+  "note": "Monster name (shrine-medium type), romanized."
+ },
+ {
+  "en": "\"Truth is, if you peel back that wall, behind it{w}the whole surface is plastered with talismans...{w}Hmm, whatever happened here long ago?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Tenko",
+  "kind": "name",
+  "note": "Monster name tenko (celestial fox), romanized like Kannagi/Hatamoto. Alternative: \"Celestial Fox\"."
+ },
+ {
+  "en": "\"Yes, this place is a fine one to dwell in after all.{w}Other lands are noisy somehow -- it simply won't do.{w}A den ought to be quiet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hatamoto",
+  "kind": "name",
+  "note": "Monster name (samurai banner-bearer), romanized."
+ },
+ {
+  "en": "\"My katana's gone rusty...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You haven't been looking after it properly, have you?{w}Better that than if it were a Muramasa, right?\"{w}",
+  "kind": "msg",
+  "note": "Muramasa = the famous katana item. Kannagi teases Hatamoto: at least the rusted blade was not a Muramasa."
+ },
+ {
+  "en": "\"...Like a Muramasa would ever turn up.{w}How many dozens of hours have I spent hunting for one...?\"{w}{p}\"If only I could use a spear one-handed,\nthings might be a little better.{w}...Wait, you can?\"{w}",
+  "kind": "msg",
+  "note": "Meta joke about farming the Muramasa drop. Last line: someone (unseen) tells him spears can be one-handed; kept as \"Wait, you can?\"."
+ },
+ {
+  "en": "Asunamuchi",
+  "kind": "name",
+  "note": "New name (10 dupes). Romanized literally; possibly modeled on Onamuchi. Glossary gender unknown; speech uses archaic feminine \"warawa\" but no pronouns used for her."
+ },
+ {
+  "en": "\"Hm? And what business have you lot here?\nI've no interest in the people of the land, you know.{w}Or will you perhaps entertain me somehow?\"{w}{p}\"Well, no matter. I was bored myself;\nthis should do nicely to pass the time.{w}Now then, what manner of creature are you? Name yourselves.\"{w}{p}\"...Honestly, this is what comes of lowborn rabble.\nPerhaps naming myself first would be amusing in its own way?{w}I am Asunamuchi, the Heavenly Fiend. Mark it well.\"{w}",
+  "kind": "msg",
+  "note": "Source title is ten-jou ma-ryoku (green), almost certainly a typo for ma-en (fiend/devil) as in ITEM_PRIZ 26:4 \"Tenjou Maen Asunamuchi\"; translated \"the Heavenly Fiend\". Between pages the party evidently fails to introduce itself. daichi no tami = \"folk of the land\" (daichi = \"the land\" per pilot). Archaic-noble register for her throughout."
+ },
+ {
+  "en": "\"Here in Miasuna there are heaps upon heaps of books\nchronicling the history of this land in fine detail.\"{w}{p}\"I have whiled away the time with them,\nbut of late even that has... grown a touch tiresome.\"{w}{p}\"Come now, you lot.{w}Do something to entertain me.{w}I am bored, you hear?\"{w}",
+  "kind": "msg",
+  "note": "Miasuna = castle/dungeon name (written with kanji + ruby \"Miasuna\"; DGN_NAME uses katakana Miasuna). Ruby dropped."
+ },
+ {
+  "en": "\"............By the way.{w}Lately there has been some racket outside...........\"{w}{p}\"You lot, go and have a look for me.{w}I shall wait here at my leisure.{w}I expect something amusing, mind.\"{w}",
+  "kind": "msg",
+  "note": "\"tokini\" (written with the kanji for time) read as \"by the way\"."
+ },
+ {
+  "en": "\"...How long do you mean to keep me waiting? Make haste.{w}The land will perish at this rate, you know?{w}Ohohohohoho!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ohohohoho!{w}Alive! They're alive!\nThese ones actually came back alive!\"{w}{p}\"Well?{w}Tell me all of it, from beginning to end.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You told Asunamuchi about the whole affair.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Truly, truly? Is that so?{w}Ohohohohoho!\"{w}{p}\"Who'd have thought it -- mere people of the land!\nMy, how hard you strove!\nYou went beyond my every expectation!\"{w}{p}\"Yes, this is just how amusement\nought to be.{w}When one can see through everything, it is so dull.\"{w}{p}\"Ohohohohohohoho!{w}I have not laughed like this in ages,\nohohohohohohoho!\"{w}{p}\"Mm, I am satisfied.\nYou may withdraw now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ho? You lot have grown\nrather formidable, haven't you?\"{w}{p}\"Since that day, nothing amusing has happened, you see.\nI am bored.{w}Come, play with me and stave off my boredom.\"{w}",
+  "kind": "msg",
+  "note": "\"aite wo sei\" = be my partner/opponent; it leads to a fight, so \"play with me\" keeps both the idle and the menacing reading. Paired with choice row 1287."
+ },
+ {
+  "en": "Play with Asunamuchi?",
+  "kind": "data",
+  "note": "Choice prompt (aite wo shimasu ka). Named instead of \"her\" (gender not in glossary). 21 chars."
+ },
+ {
+  "en": "\"Ohohohoho!!{w}What a spirited reply -- splendid indeed.{w}Don't you lot go dying on me too soon, now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ohohohoho!{w}Delightful! Truly delightful!\"{w}{p}\"You lot are about the only ones\nwho have ever amused me this much.{w}Ohohohoho!!\"{w}",
+  "kind": "msg",
+  "note": "Presumably after the party wins the fight."
+ },
+ {
+  "en": "\"Is that so...{w}How truly... dull...\"{w}",
+  "kind": "msg",
+  "note": "Refusal branch."
+ },
+ {
+  "en": "Evil Magistrate",
+  "kind": "name",
+  "note": "akudaikan, the stock corrupt magistrate of period dramas. 15 chars."
+ },
+ {
+  "en": "\"...Who goes there?{w}Were you drawn here by the scent\nof these golden 'sweets' of mine?\"{w}{p}\"What? You've come to bring me to justice?{w}Amusing... All of you! Intruders!{w}Cut them down! Cut them to pieces!!\"{w}",
+  "kind": "msg",
+  "note": "yamabuki-iro no okashi = the period-drama bribe: gold coins hidden in a box of sweets. Quotes around 'sweets' signal the euphemism."
+ },
+ {
+  "en": "\"You may have beaten me, but it's already too late...{w}Heh heh heh heh...{w}",
+  "kind": "msg",
+  "note": "Source has no closing quote here (row 1294 continues the same line); kept unclosed."
+ },
+ {
+  "en": "{0E}\"You may have beaten me, but it's already too late...\nHeh heh heh heh...{0F}\nUrgh!\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} re-shows row 1293 text verbatim."
+ },
+ {
+  "en": "You brought the Evil Magistrate to justice!{w}{p}But your joy was short-lived --{w}you sensed some kind of evil presence.{w}{p}The presence vanished in an instant,{w}leaving only an eerie silence behind.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Jailer",
+  "kind": "name"
+ },
+ {
+  "en": "\"You there! What are you doing!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Curse you, you lowly curs!!{w}But I'll tolerate no lawlessness here in Meiroin!!{w}Begone!!\"{w}",
+  "kind": "msg",
+  "note": "Meirouin = Miasuna dungeon section (DGN_NAME \"Miasuna Meirouin\"); it is the prison block, so \"Meirou Prison\". New term, tentative."
+ },
+ {
+  "en": "Samurai",
+  "kind": "name"
+ },
+ {
+  "en": "\"Intruuuuders!{w}Suspicious rogues! Seize theeeem!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Without a sound, a ninja appeared before you.{w}Ninja: a band of assassins originating in the East,\nwhose every inch is said to be a weapon.{w}{p}Make one careless move or let your gaze wander,\nand your head could easily go flying.{w}{p}But you, too, are seasoned adventurers.{w}Gauging each other's strength,\nyou inch closer, closing the distance.{w}{p}The breathless standoff continues.{w}The moment either side's breathing falters,\nthe fight will begin.{w}{p}............{w}",
+  "kind": "msg",
+  "note": "Kept the source shift into the present tense for the standoff."
+ },
+ {
+  "en": "Ninja",
+  "kind": "name"
+ },
+ {
+  "en": "\"............{w}Ah... ahh............{w}Ahh-hah... hahhhh...\"{w}",
+  "kind": "msg",
+  "note": "Build-up to the sneeze in 1304."
+ },
+ {
+  "en": "\"...AH-CHOOOOOO!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "N-O-W~~~!{w}",
+  "kind": "msg",
+  "note": "i-ma-da (\"now!\") spelled out syllable by syllable; narration urging the party to strike."
+ },
+ {
+  "en": "A flower made of crystal is blooming here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A flower made of crystal is blooming here.{w}",
+  "kind": "msg",
+  "note": "Same text as 1306 (source only drops the final period)."
+ },
+ {
+  "en": "[Key Item]\nObtained Crystal Flower.{w}",
+  "kind": "msg",
+  "note": "Crystal Flower as in wmap slice_06 (Zeppo quest)."
+ },
+ {
+  "en": "The crystal here is a different color from the rest.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Beyond the thick fog, you sensed someone's presence.{w}The presence took human shape and slowly drew closer.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Stay where you are?",
+  "kind": "data"
+ },
+ {
+  "en": "The thing drawing closer, step by step,\nhad much the same build as you.{w}{p}Much the same?{w}{p}No -- what had appeared was you yourselves.{p}",
+  "kind": "msg",
+  "note": "Source ends with {p} not preceded by {w}; kept as is. Doppelganger encounter (EVENT_TEXT 43:8)."
+ },
+ {
+  "en": "With a bitter aftertaste,\nyou left that place.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Something is lying here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Vision Crystal.{w}",
+  "kind": "msg",
+  "note": "New item genshi no kesshou = Vision Crystal (material for the observatory, Mayleen event). 14 chars."
+ },
+ {
+  "en": "You left that place.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A mysterious girl appeared before you.{w}Perhaps this was her usual route -- even on seeing you,\nshe kept coming without the slightest hesitation.{w}{p}When she was right in front of you, the girl knit her brows\nas though it were all a great nuisance,\nand made a small brushing-away gesture with her hand.{w}",
+  "kind": "msg",
+  "note": "shoujo = girl (gender given by source). EVENT_TEXT 39:8 mentions a short blue-haired girl deep in the Crystal Labyrinth; identity not stated here, left as \"girl\"."
+ },
+ {
+  "en": "\"...Move. You're in the way.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Step aside?",
+  "kind": "data"
+ },
+ {
+  "en": "When you made way,\nthe girl walked off as if nothing had happened.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you held your ground and refused to make way,\nthe girl gave a small sigh.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Honestly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As though shooing away a dog,\nthe girl waved her hand at you: shoo, shoo.{w}{p}You fled for your lives.{w}",
+  "kind": "msg",
+  "note": "\"at you\" added for clarity; the gesture plainly targets the party."
+ },
+ {
+  "en": "\"...You have some skill.\"{w}{p}\"However,\nwe mages, who stand at the apex of the hierarchy of knowledge,\nhave no cause to give way to fools.\"{w}{p}\"Remember that... well.\"{w}",
+  "kind": "msg",
+  "note": "Presumably after the party beats her. majutsushi = Mage (glossary). The stretched \"yooku\" rendered as a pause."
+ },
+ {
+  "en": "The girl's eyes gleamed.\nYour bodies floated up into the air, and then...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "In a cave filled with light,\na strange skull was flying through the air.{w}{p}Its pure-white wings somehow called light itself to mind.{w}The noble, radiant winged skull, seemingly not of this world,\nflitted through the air, scattering motes of light.{w}{p}Bone though it was,\nits shining white form gave off not a trace of malice.{w}If anything, it even exuded a holy air.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ugh, what a draaag, maaan...{w}We could just leave Zaalhaut alone,\ncouldn't we? Jeez~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The holy air was just your imagination.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Even after getting the Beldoll,\nZaalhaut never answered the call in the first place, right?\"{w}{p}\"And far from answering -- tossing away one of the\nstrongest Arguments there is? That's nuts.\nJust what you'd expect from Zanu's daughter.\"{w}{p}\"Sure, like the report said, it looks like\nthe Beldoll's been revived in Finas Rade, but...\"{w}{p}\"I really can't see Zaalhaut trying anything\non us at this point... Huh?\"{w}",
+  "kind": "msg",
+  "note": "Subject of \"never answered\" and \"do anything to us\" omitted in source; restored as Zaalhaut (topic of the previous row; the skull is looking for Zaalhaut). \"Zanuu's daughter\" may therefore refer to Zaalhaut -- no pronoun used. Beldoll = seichirin Beldoll, an Argument (MON_TEXT 316); Argument = seisengu (selection relic for the Librarian). \"the call\" = the Argument summoning its bearer to the Mechanism."
+ },
+ {
+  "en": "The weird bone noticed you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yo! Is Zaalhaut anywhere around...{w}Ah, crap!{w}I wasn't supposed to talk to anybody!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The weird bone is panicking all by itself.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ohhh, wh-what do I do?\nLord Hevayur's gonna chew me ouuut!{w}Hey, you! What am I supposed to... do!?\"{w}",
+  "kind": "msg",
+  "note": "Source has Hevayur-sama; honorific dropped because Lord/Lady would need a gender not in the glossary (MON_TEXT 324 calls Hevayur a man -- if accepted, \"Lord Hevayur\" restores the deference)."
+ },
+ {
+  "en": "There's nothing in particular you can do to help.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nngh... Th-then I've got no choice\nbut to... wipe you out!!{w}Sorry, I'm so sorryyy!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ow! That hurts, you bastard!!{w}You'll pay for this, dammit!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The weird bone ran off.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Some worn-out old junk has been left here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Some worn-out old junk has been left here.{w}Looking closely, you see it is labeled Proof of Endurance.{w}",
+  "kind": "msg",
+  "note": "New item nintai no akashi = Proof of Endurance (18 chars, ITEM_PRIZ max 18)."
+ },
+ {
+  "en": "Swap for Proof of Training?",
+  "kind": "data",
+  "note": "New item tanren no akashi = Proof of Training. 27 chars."
+ },
+ {
+  "en": "You set down the Proof of Training.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Proof of Endurance.{w}",
+  "kind": "msg"
+ }
+]

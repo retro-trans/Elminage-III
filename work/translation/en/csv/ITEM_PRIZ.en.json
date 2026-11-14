@@ -1,0 +1,404 @@
+[
+ {
+  "id": "ITEM_PRIZ.CSV:4:3",
+  "en": "Lightstair Ruins",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:5:3",
+  "en": "Hemaid Red Stone",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:6:3",
+  "en": "Green Plakio",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:7:3",
+  "en": "Blue Menon",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:8:3",
+  "en": "Selcoa Paint",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:9:3",
+  "en": "Celestial Readings",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:10:3",
+  "en": "Wing Soul",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:11:3",
+  "en": "Old Man's Plans",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:12:3",
+  "en": "Cannon Tools",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:13:3",
+  "en": "Seasoned Snacks",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:14:3",
+  "en": "Alton's Treasure",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:15:3",
+  "en": "Behiem Royal Tomb",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:16:3",
+  "en": "Gamea House Legacy",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:17:3",
+  "en": "Chatty Sapling",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:18:3",
+  "en": "Wonderful Turmeric",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:19:3",
+  "en": "Sun Prison Shrine",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:20:3",
+  "en": "Strange Bookmark",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:21:3",
+  "en": "Sun's Light Rank",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:22:3",
+  "en": "Divine Sun Spirit",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:23:3",
+  "en": "Stellar Sun Spirit",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:24:3",
+  "en": "Faulty Sun Spirit",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:25:3",
+  "en": "Ninja Fiend's Helm",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:26:3",
+  "en": "Sacred Treasure",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:27:3",
+  "en": "Song of Spirits",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:28:3",
+  "en": "Flesh-Lump Flower",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:29:3",
+  "en": "Deltoi Empty Room",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:30:3",
+  "en": "Dark Sakil Shell",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:31:3",
+  "en": "Aleed Palette",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:32:3",
+  "en": "Demon-Boob Undies",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:33:3",
+  "en": "Seot's Demon Nest",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:34:3",
+  "en": "Unclean Water",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:35:3",
+  "en": "Menolist's Candle",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:36:3",
+  "en": "Ponya Sausage",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:37:3",
+  "en": "Taizarti Lamp",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:38:3",
+  "en": "Glittering Scale",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:39:3",
+  "en": "Swordsage's Beard",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:40:3",
+  "en": "Polarized Steeda",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:41:3",
+  "en": "Red Light Rank",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:42:3",
+  "en": "Blue Light Rank",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:43:3",
+  "en": "Green Light Rank",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:44:3",
+  "en": "Yellow Light Rank",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:45:3",
+  "en": "Black Light Rank",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:46:3",
+  "en": "White Light Rank",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:47:3",
+  "en": "Makana Essence",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:48:3",
+  "en": "Crystal Flower",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:49:3",
+  "en": "Mud Pie",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:50:3",
+  "en": "Medium Whetstone",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:51:3",
+  "en": "Fine Whetstone",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:52:3",
+  "en": "Vision Crystal",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:53:3",
+  "en": "Beard Glasses",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:54:3",
+  "en": "Magic Puppet Trap",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:55:3",
+  "en": "Mujirod Manuscript",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:56:3",
+  "en": "Cactus Pulp",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:57:3",
+  "en": "Custom Panties",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:58:3",
+  "en": "Soleil Stone",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:59:3",
+  "en": "Azure Fish",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:60:3",
+  "en": "Proof of Training",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:61:3",
+  "en": "Proof of Endurance",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:62:3",
+  "en": "Strange Box Garden",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:63:3",
+  "en": "Joker Medal",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:64:3",
+  "en": "Joker Medal",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:65:3",
+  "en": "Joker Medal",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:66:3",
+  "en": "Right to Challenge",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:67:3",
+  "en": "Instruction Notes",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:68:3",
+  "en": "Reservoir Key",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:69:3",
+  "en": "Contraband?",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "ITEM_PRIZ.CSV:70:3",
+  "en": "Toner's Checkup",
+  "max": 18,
+  "used": true
+ }
+]

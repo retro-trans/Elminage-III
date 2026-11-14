@@ -1,0 +1,357 @@
+[
+ {
+  "en": "Tashif",
+  "kind": "name"
+ },
+ {
+  "en": "Erod",
+  "kind": "name",
+  "note": "Dungeon light, timed. Stem [JP]- = Elo- (shared with Eloma, 3939)."
+ },
+ {
+  "en": "Venom-Fei",
+  "kind": "name",
+  "note": "[JP] (mage poison spell) + -[JP] (cure): Binem + fi. Cures Poison."
+ },
+ {
+  "en": "Latasif",
+  "kind": "name",
+  "note": "La- prefix = row version (Wizardry La-/Ma- convention)."
+ },
+ {
+  "en": "Hallobukan",
+  "kind": "name",
+  "note": "[JP]- stem shared with mage [JP] (slice_47); L-style."
+ },
+ {
+  "en": "Zomperi",
+  "kind": "name"
+ },
+ {
+  "en": "Feirima",
+  "kind": "name",
+  "note": "Stem matches Filead ([JP], slice_16 ITEM row 1334)."
+ },
+ {
+  "en": "Roodfei",
+  "kind": "name",
+  "note": "[JP] (Loid, 3955) + -[JP] (cure). Cures Paralysis."
+ },
+ {
+  "en": "Eroma",
+  "kind": "name",
+  "note": "Permanent dungeon light; pairs with Elode (3932)."
+ },
+ {
+  "en": "Rafelima",
+  "kind": "name"
+ },
+ {
+  "en": "Mirror Eyes",
+  "kind": "name",
+  "note": "-[JP] (group cure) rendered -eis; shared with Samaeis (3944)."
+ },
+ {
+  "en": "Hallobukarm",
+  "kind": "name",
+  "note": "[JP] vs [JP] (3935): [JP] kept as r to keep them distinct."
+ },
+ {
+  "en": "Honey Restorer",
+  "kind": "name",
+  "note": "st-r cluster keeps r."
+ },
+ {
+  "en": "Sama Eyes",
+  "kind": "name",
+  "note": "[JP] also in mage [JP] (slice_47); align if that slice renders [JP] differently."
+ },
+ {
+  "en": "Zefeifus",
+  "kind": "name",
+  "note": "[JP] stem as in Lizefade (slice_16); final -[JP] kept as -fus for pronounceability."
+ },
+ {
+  "en": "Robukand",
+  "kind": "name"
+ },
+ {
+  "en": "Psi Drain",
+  "kind": "name",
+  "note": "[JP]- (barrier) + [JP]([JP]) drain; dr cluster keeps r."
+ },
+ {
+  "en": "Rizefus",
+  "kind": "name",
+  "note": "Matches Lizefade ([JP], slice_16 ITEM row 1335)."
+ },
+ {
+  "en": "Elnam",
+  "kind": "name"
+ },
+ {
+  "en": "Psi Breath",
+  "kind": "name",
+  "note": "[JP]- (barrier) + [JP] (breath); br cluster keeps r."
+ },
+ {
+  "en": "Immolarati",
+  "kind": "name"
+ },
+ {
+  "en": "Rafeireed",
+  "kind": "name",
+  "note": "La- + Filead ([JP], slice_16)."
+ },
+ {
+  "en": "Razefeis",
+  "kind": "name"
+ },
+ {
+  "en": "Pomedoon",
+  "kind": "name"
+ },
+ {
+  "en": "Rood",
+  "kind": "name"
+ },
+ {
+  "en": "Mahamaha",
+  "kind": "name"
+ },
+ {
+  "en": "Rarood",
+  "kind": "name"
+ },
+ {
+  "en": "Bulafei",
+  "kind": "name",
+  "note": "Glossary (SPELL.CSV:64)."
+ },
+ {
+  "en": "Skorekh",
+  "kind": "name"
+ },
+ {
+  "en": "Karacha",
+  "kind": "name"
+ },
+ {
+  "en": "Orath",
+  "kind": "name"
+ },
+ {
+  "en": "Lascorek",
+  "kind": "name"
+ },
+ {
+  "en": "Makaracha",
+  "kind": "name",
+  "note": "Ma- prefix (Wizardry convention)."
+ },
+ {
+  "en": "Bifei",
+  "kind": "name"
+ },
+ {
+  "en": "Yuniwa Coat",
+  "kind": "name"
+ },
+ {
+  "en": "Pinto",
+  "kind": "name",
+  "note": "Final vowel kept: 'Pint' would read as the English word."
+ },
+ {
+  "en": "Rapoolfei",
+  "kind": "name"
+ },
+ {
+  "en": "Ramialf",
+  "kind": "name"
+ },
+ {
+  "en": "Pendeku",
+  "kind": "name"
+ },
+ {
+  "en": "Rapinto",
+  "kind": "name"
+ },
+ {
+  "en": "Rapidos",
+  "kind": "name"
+ },
+ {
+  "en": "Pendea Coat",
+  "kind": "name"
+ },
+ {
+  "en": "Zeo Nadar",
+  "kind": "name"
+ },
+ {
+  "en": "High Portal",
+  "kind": "name",
+  "note": "Bai- + [JP] (row 3957, not in this slice; recommend 'Potol' there)."
+ },
+ {
+  "en": "Protectorate",
+  "kind": "name",
+  "note": "pr/tr clusters keep r."
+ },
+ {
+  "en": "Contract",
+  "kind": "name",
+  "note": "Summoner command; ebt uses [JP] = contract (Summoner Contract Settings)."
+ },
+ {
+  "en": "Summon",
+  "kind": "name",
+  "note": "ebt: [JP] = Cannot summon."
+ },
+ {
+  "en": "Dismiss",
+  "kind": "name",
+  "note": "Summoner command: send the summoned monster back ([JP])."
+ },
+ {
+  "en": "Miasma Wave",
+  "kind": "name",
+  "note": "Enemy-only: halves all targets' HP (Mimic's move, MON_TEXT row 22)."
+ },
+ {
+  "en": "Bell of Judgment",
+  "kind": "name",
+  "note": "As ebt slice_09 ([JP]%d[JP])."
+ },
+ {
+  "en": "Self-Destruct",
+  "kind": "name"
+ },
+ {
+  "en": "Mirroring",
+  "kind": "name",
+  "note": "Copies the player's items (designer note)."
+ },
+ {
+  "en": "Pull",
+  "kind": "name",
+  "note": "Matches ebt 'Withstood the pull' and csv slice_30 'Pull effects'; swaps the party's front and back rows."
+ },
+ {
+  "en": "Latch On",
+  "kind": "name",
+  "note": "[JP] = sucking/latching on; effect defined on a special sheet, not visible."
+ },
+ {
+  "en": "Eclipse",
+  "kind": "name"
+ },
+ {
+  "en": "Afternoon Nap",
+  "kind": "name"
+ },
+ {
+  "en": "Lullaby",
+  "kind": "name"
+ },
+ {
+  "en": "Nightmare",
+  "kind": "name"
+ },
+ {
+  "en": "Harmoni's Grenade",
+  "kind": "name",
+  "note": "[JP] dropped: 'Prof./Dr. Harmoni's Grenade' exceeds 20 bytes and the title is unclear (other tables write [JP]). Harmoni is a summonable NPC per SP_TEXT; gender unknown, so no Mr./Ms."
+ },
+ {
+  "en": "Mind Crush",
+  "kind": "name"
+ },
+ {
+  "en": "Soul Trap",
+  "kind": "name"
+ },
+ {
+  "en": "Old Aim",
+  "kind": "name",
+  "note": "Same katakana as the place 'Old Aim' (csv slice_06 HELP_TEXT row 510)."
+ },
+ {
+  "en": "Timold's Holy Word",
+  "kind": "name",
+  "note": "New name [JP] = Timold (L-style)."
+ },
+ {
+  "en": "Attacks one enemy with fire.",
+  "kind": "help"
+ },
+ {
+  "en": "High chance to put one enemy to sleep.",
+  "kind": "help"
+ },
+ {
+  "en": "Attacks one enemy with freezing cold.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to put one enemy row to sleep.",
+  "kind": "help"
+ },
+ {
+  "en": "High chance to inflict Poison on one enemy.",
+  "kind": "help",
+  "note": "[JP] = Poison, as ITEM_HELP (slice_19)."
+ },
+ {
+  "en": "Raises one enemy's AC by 7. Stackable.",
+  "kind": "help",
+  "note": "Source says 7 here; the designer column of SPELL.CSV says 3. Translated as shown to the player."
+ },
+ {
+  "en": "High chance to petrify one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Makes the party float in the air in dungeons.",
+  "kind": "help"
+ },
+ {
+  "en": "A fissure damages enemies, with a low chance to swallow them.",
+  "kind": "help"
+ },
+ {
+  "en": "Raises all enemies' AC by 4. Stackable.",
+  "kind": "help",
+  "note": "Identical to ITEM_HELP wording (slice_19)."
+ },
+ {
+  "en": "Has a chance to petrify one enemy row.",
+  "kind": "help"
+ },
+ {
+  "en": "Attacks all enemies with a non-elemental explosion.",
+  "kind": "help"
+ },
+ {
+  "en": "Moves to a place you have visited. In battle, warps to random coordinates.",
+  "kind": "help"
+ },
+ {
+  "en": "Blesses all allies' weapons so they can hit spirits and the like.",
+  "kind": "help"
+ },
+ {
+  "en": "High chance to silence one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Lights the dungeon so hidden mechanisms are easier to find. Time-limited.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to silence one enemy row.",
+  "kind": "help"
+ }
+]

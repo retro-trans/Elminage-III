@@ -1,0 +1,362 @@
+[
+ {
+  "en": "One of the four great elements of all things: the elemental of earth. Spirits are not harmful, but they act by their own laws, so you may offend one without meaning to. It is not that strong, but if one attacks you, you should pay close attention to why it did.",
+  "kind": "desc"
+ },
+ {
+  "en": "A dwarf fairy living in the forest. It loves to dance, and draws passing travelers into its dancing ring, making them dance until they drop. When alone, however, it turns extremely timid.",
+  "kind": "desc"
+ },
+ {
+  "en": "A magic plant used in all sorts of secret arts. Gathering it takes some care: pulled from the soil, a mandragora lets out \"a horrid scream that makes all who hear it go mad and die\" and runs away. ...Some say this rumor is a lie merchants spread to raise its price. So which is it?",
+  "kind": "desc",
+  "note": "Inner quote marks (double angle quotes in source) kept as double quotes. 'shinsou ya ikani' = So which is it?"
+ },
+ {
+  "en": "One of the four great elements of all things: the elemental of water. A spirit found everywhere; those who can feel the mystical close at hand are said to be able to find it in any place.",
+  "kind": "desc"
+ },
+ {
+  "en": "Fairies, spirits and their like, the fairy foremost among them, are at root a system that keeps the land's magic flowing. So although they do have personalities, to humans and others they come across as very aloof.",
+  "kind": "desc",
+  "note": "'Fairy ni daihyou sareru yousei, seirei' = fairies and spirits, the fairy foremost among them."
+ },
+ {
+  "en": "A water sprite known alongside the Water Elemental. Beautiful in form, modest and very gentle by nature. They often fall in love with humans or elves, but betray their devotion and the water clan will use every means at hand to come for revenge.",
+  "kind": "desc",
+  "note": "'water clan' as in ITEM_TEXT 2342 (Undine's sword). Undine plural 'they' (species)."
+ },
+ {
+  "en": "A mountain fairy who grows turnips. It goes around handing out turnip and radish seeds to children, but they are not very welcome, so it is always grumpy. Its sack, naturally, holds turnip seeds, radish seeds and the like. Its hobby is strolling about counting the turnips it has grown.",
+  "kind": "desc"
+ },
+ {
+  "en": "One of the four great elements of all things: the elemental of wind. As if to say \"nothing in this world stays the same,\" it keeps bringing change to the land. Yet now and then even a wind spirit stops. If the wind around you suddenly dies on an adventure, a wind spirit may be near you.",
+  "kind": "desc"
+ },
+ {
+  "en": "On a misty purple night, they say, a seed that falls at a wolf's howl becomes a Yugdrias. The moment its bud opens, its eyeball starts rolling around. Once in bloom, the flower never closes until it dies. And when it dies, the eyeball drops off and becomes the next seed.",
+  "kind": "desc"
+ },
+ {
+  "en": "One of the four great elements of all things: the elemental of fire. Fire at times warms body and soul, at times burns all to ash. When gratitude and awe for fire are forgotten, the Fire Elemental turns into a purging flame.",
+  "kind": "desc"
+ },
+ {
+  "en": "A monster born when snow, rounded up like a rabbit, came to life. It is gentle by nature, but when it senses danger it unleashes the magic hidden inside and launches merciless attacks. Be on your guard when a pack of them attacks.",
+  "kind": "desc"
+ },
+ {
+  "en": "A wind spirit. It flits round and round, carrying breezes everywhere. It is free-spirited by nature and hurls vacuum blades when in a foul mood. They say if it takes a liking to you, it carries you off in a whirlwind and you can never come back.",
+  "kind": "desc",
+  "note": "kamaitachi = 'vacuum blades' (ITEM 1408 Vacuum Blade)."
+ },
+ {
+  "en": "A fairy said to know where gold, silver and treasure lie. It looks stubborn, but rumor says it is really a timid old man. It is also a shoemaker, able to make shoes for all kinds of races, from fairies to giants. When a traveler is stuck with broken shoes, it seems to pop up and mend them.",
+  "kind": "desc",
+  "note": "'timid old man' is the content of the rumor (roujin); otherwise 'it'."
+ },
+ {
+  "en": "It will appear before you out of nowhere. Speak and it won't answer; stare and you still can't make out its form. A fragment of a higher being, a demon's kin in a god's guise, a mere weather event... Many tales are told, but lately some whisper it may be \"a warning of some kind.\"",
+  "kind": "desc",
+  "note": "bunrei = fragment of a higher being; ma no kenzoku = a demon's kin."
+ },
+ {
+  "en": "A strange light drifting in many places, also called a demon fire. Reach for it carelessly and the strange waves its glowing body gives off will leave you unable to move. Its stamina is modest, but neither magic nor physical attacks work well on it: a tough foe.",
+  "kind": "desc",
+  "note": "onibi = 'demon fire'."
+ },
+ {
+  "en": "An elemental that rules darkness. It moves through shadows, wandering in search of deeper dark. Though dark, it is kin to the spirits, so it is normally very docile. But the miasma of evil can drive it to attack people. If you see one, you would do well to keep away.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bewitching flower that blooms in deep forests. It moves its leaves and vines at will to entangle travelers it takes a fancy to. Any poor adventurer it catches will be digested as nourishment.",
+  "kind": "desc"
+ },
+ {
+  "en": "A lovely woman of the snowy peaks, with translucent white skin and a bewitching smile. She is cold inside too, so her breath never turns white: that is how to tell her from a normal woman, they say. Rumors range from her killing the lost in the snow to her falling in love and marrying.",
+  "kind": "desc",
+  "note": "Female per source (yuki-onna, 'beautiful woman')."
+ },
+ {
+  "en": "A spirit that rules the wind. It raises wind from the bag in its hand and gathers clouds to bring rain. Loosen one mouth of the bag and wind blows out; loosen the other and wind rushes in. It loves nature's beauty and cheers up when trees bud after winter. It prizes elegance and hates noisy folk.",
+  "kind": "desc",
+  "note": "kachou fuugetsu = nature's beauty; miyabi = elegance. Compressed to fit."
+ },
+ {
+  "en": "A spirit that rules thunder. The drums on its back call down lightning; beat them in a lively festival rhythm and it can deal even fiercer bolts. It loves sake, drums and karuta, and lives to party all night with friends. It prizes a flashy, bold life and hates sissy, stuck-up types.",
+  "kind": "desc",
+  "note": "memeshiku kidotta yatsu = sissy, stuck-up types (force kept)."
+ },
+ {
+  "en": "Legend says a carefully made snowman gains a heart and helps mind the children until it melts in spring. But if no one notices its new heart and it is left neglected, its loneliness draws an evil will, and it becomes a fiend that freezes children solid to keep them by its side forever.",
+  "kind": "desc"
+ },
+ {
+  "en": "A knight that symbolizes death. It does not come to deal death; it is a monster that visits those whose death draws near. Though undead, it is closer to a fairy. To defeat a Dullahan is also to overcome your own fated death. Steel yourself!",
+  "kind": "desc"
+ },
+ {
+  "en": "A spirit that rules all four great elements of all things. A union of the four elements, fire, water, earth and wind, it embodies the balance of magic that dwells in the world. When that balance breaks, it is said to appear to restore the world to its rightful form.",
+  "kind": "desc"
+ },
+ {
+  "en": "Essentially a giant earthworm, yet a fearsome worm that can sometimes swallow even a small person. Once an Earthworm gets into a field, the root vegetables are ruined across the board. Now and then one is seen chasing a mandragora that popped out in fright.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bug with frightening leg power that can easily leap over a house. That is the Mad Jumper. The ground it kicks off from is left with a round crater from the impact. If, by bad luck, one lands on part of your body, expect a broken bone at the very least.",
+  "kind": "desc"
+ },
+ {
+  "en": "A strange bug that asks all it meets, \"Mockricketta?\" Pick it up and it squeaks, but after thrashing about plenty it calms down and asks \"Mockricketta?\" again. There are all sorts of rumors: answer the question and your wish comes true, or you gain mysterious powers...",
+  "kind": "desc",
+  "note": "Name kept as 'Mockricketta?' (MONSTER1 2701 has the question mark as part of the name)."
+ },
+ {
+  "en": "Its most striking feature is a pair of huge scythes for arms, over 2 m long. The scythes cut better than a long sword and can even behead. It is feared not only by adventurers but by insect monsters too.",
+  "kind": "desc"
+ },
+ {
+  "en": "An insect sealed in amber. Dead insects trapped in amber are common enough, but this one is alive. In gem form you can see it squirm inside; crack it open and it slowly crawls out. It is no larva; this appears to be its adult form. Its biology still awaits explanation.",
+  "kind": "desc"
+ },
+ {
+  "en": "It scurries about at outrageous speed, dodging attacks and calling in swarms of its kin. More of them won't put the party in danger, but a battle that never ends is torture. Just do the sensible thing and burn them away with magic.",
+  "kind": "desc"
+ },
+ {
+  "en": "A fearsome coconut crab. In the forest it comes at you without hiding, snapping branches as it goes. It is slow, but hard to stop, and very dangerous when several surround you. It has instinctive cunning too and is good at driving prey into dead ends, so handle it with care.",
+  "kind": "desc"
+ },
+ {
+  "en": "A scorpion-like monster woman with a lethal venom tail and pincers of fearsome strength. Hard shell covers parts of her, moved by superbly developed muscles. Her body is built for attack, but she is gentle. Tales of her raiding sleepers abound, yet she likely just peeked in, worried as you camped.",
+  "kind": "desc",
+  "note": "Female (kaijo = monster woman). Compressed to fit 312."
+ },
+ {
+  "en": "A giant centipede that coils around a shield and lives in it like a hermit crab. Its defense is tough enough already, yet it hardens its allies even further with spells. Some adventurers mistake the centipede for the shield's decoration and pay dearly for it.",
+  "kind": "desc"
+ },
+ {
+  "en": "Cordyceps are fungi that have taken over larvae in the soil; the true body is the plant part. But this cordyceps is a rare kind in which the host also lives on in symbiosis. The flower gathers the tiny flying bugs that serve as food, and the insect preys on them.",
+  "kind": "desc"
+ },
+ {
+  "en": "Not content with scurrying, they now even fly. The terror of having one leap at you is said to be beyond imagining. They have nests, which you may find on your adventures. If so, the wise move is to leave quietly. Poke one for fun, and a black terror will engulf you.",
+  "kind": "desc"
+ },
+ {
+  "en": "A strange creature that seizes prey with two oddly shaped jaws. The accordion-like, arm-shaped upper jaw is stronger than it looks; once it gets a firm grip, even a human will find it hard to escape. If you hear a grating \"bzzzt,\" you had best be on your guard.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mighty queen bee. It often rules a corner of the forest and shows no mercy to those who run wild in its territory. If you meet it, take care not to upset it. Being a bee, it adores flower nectar. At harvest time it can reportedly be seen flying about merrily in search of flowers itself.",
+  "kind": "desc",
+  "note": "'it' for Royal Honey, as in ITEM_TEXT 2247."
+ },
+ {
+  "en": "A giant poison moth monster. A single beat of its wings fills the area with a deadly toxic miasma. It waits for its poisoned prey to weaken bit by bit, then, once they can no longer move, drives its needle-like mouth into the nape of their neck.",
+  "kind": "desc"
+ },
+ {
+  "en": "King of the flies, the VIP of the insect world. It sits on a throne and has its fly subjects pull it. These flies are called \"fly knights\" and are fiercely loyal. To protect their lord, it is said they think nothing of their own lives.",
+  "kind": "desc",
+  "note": "Monster name is 'Insector Lord' (MONSTER1 2726); 'fly knights' as in ITEM 1400 / ITEM_TEXT 2221. Name not repeated in text."
+ },
+ {
+  "en": "A creature with a hard hide and spines grown to fend off predators. Even when it means no harm, you can be hurt by stepping on one by mistake, so watch out. The hide is tough and stretchy, and widely used in everyday goods such as shoes and belts.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bird that beats its small wings rapidly to fly as if hanging still in midair. It flits about sipping nectar through a straw-like mouth. It speeds up and slows down at will; novice adventurers will find its movements hard to follow.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bird known for its chunky body and lovable face. Its tiny, shrunken wings can't fly, but in exchange it gained the legs to run around on the ground. Its lower-body muscles are so developed that it is round all over, so it came to be called the meat bomb. Its meat is muscly, so tastes vary.",
+  "kind": "desc",
+  "note": "Name Chick Bomb (MONSTER1 2732); 'meat bomb' = nikubakudan."
+ },
+ {
+  "en": "Camels often carry adventurers, but they walk moving both legs on one side at once, so they are very wobbly. They never asked to be ridden, yet got dumped with \"Who can ride such a shaky thing?\" Those gone feral again are Camel Duffs. Their hate for people is fierce; don't let the dopey face fool you.",
+  "kind": "desc",
+  "note": "Compressed to fit 312."
+ },
+ {
+  "en": "A shark whose head evolved a distinctive shape for a wide field of view. Now it can see all around its sides, but sadly it can no longer see straight ahead. Not that it matters much to them. Once they know where the prey is, they just close in at once and bite.",
+  "kind": "desc",
+  "note": "ctx name Hammerhead is the c2 mirror; MONSTER1 2736 name is 'Wise Hammer'. Text does not name it."
+ },
+ {
+  "en": "An odd animal that walks on its nose, keeping balance with its tail. Standing, it comes up to a person's waist; its body is surprisingly big. It is docile, but when angered it casts the spell Zeo Nadar. If you meet a group of them, why not settle things peacefully?",
+  "kind": "desc",
+  "note": "NEW SPELL NAME: Zeonadal (zeonadaru), romanized; SPELL.CSV row 3974 (slice_48) not translated yet. Align there."
+ },
+ {
+  "en": "A Deathgaroo is a kangaroo taught to fight at the Training Hall. Backed by legs strong enough to kick with, its lower body is rock-steady. The punches it throws from there are heavy; it is said that punching bare-handed shatters not only the foe's bones but its own fists too.",
+  "kind": "desc",
+  "note": "kunrenjo = Training Hall (glossary)."
+ },
+ {
+  "en": "Once Full Moon Rabbits start pounding mochi, they keep on through fifteen nights. The mochi is squishy and superb. It takes ages, but don't think of sneaking a bite: near the full moon they are dazed and can't tell mochi from you. -- Pound-a-pat, knead-knead, pound-a-pat; whose flavor is the crimson mochi?",
+  "kind": "desc",
+  "note": "Jugoya = harvest full moon; name 'Full Moon Rabbit' (MONSTER1 2742). The full-width spaces before the closing song are layout padding; replaced by ' -- '. Mochi-pounding chant rendered 'Pound-a-pat, knead-knead'; red mochi implies blood. Compressed."
+ },
+ {
+  "en": "A giant ape with several arms. You would expect brilliant combination attacks from them, but each arm seems to move on its own whims, with no coordination at all. Even mid-battle, its spare arms pick its nose or hold food, doing as they please.",
+  "kind": "desc"
+ },
+ {
+  "en": "It dwells in a hard spiral shell, drifting in stillness. On land, nothing this big floats in the air or moves so slowly, so seeing one undersea often leaves people spellbound by the wondrous sight. Though mindless, they are philosophical beings; a shared gaze can make you feel enlightened.",
+  "kind": "desc",
+  "note": "Source has no name or subject in sentence 1; 'It dwells'."
+ },
+ {
+  "en": "A turtle bearing a big mass of diamond on its back. The diamond gets brighter and more valuable with age, pushed outward from within as it grows. Odd, since it eats only ordinary shrimp and small fish. Depending on how it forms, the diamond can focus light like a lens and often starts wildfires.",
+  "kind": "desc"
+ },
+ {
+  "en": "In the deep sea, a world all pitch-black, the vivid fins it suddenly spreads catch the eye. But this is nothing less than a declaration of war. It starts circling you to seek an opening to attack, yet there is no end of carefree adventurers who think they are being welcomed.",
+  "kind": "desc"
+ },
+ {
+  "en": "A beast, just as the name says. Savage and aggressive, dim and rash, rude and ungrateful. You wouldn't want it as an enemy, of course, or even by your side as an ally. Yet it seems every rule has exceptions: some women reportedly like the Beast type.",
+  "kind": "desc",
+  "note": "'Beast type' = bi-suto no you na mono (men like the Beast)."
+ },
+ {
+  "en": "A giant flying whale. It feeds by inhaling \"something\" in the air. Its suction is very strong; with bad luck, even a grown adult can be sucked in. It is big enough to make your knees give out when you meet it, yet there are said to be giant birds that prey on Airy Viders.",
+  "kind": "desc",
+  "note": "'something' keeps the source's double brackets as quotes."
+ },
+ {
+  "en": "Tyrant of the forest: a menace that runs about on its huge body, mowing down trees. It needs a long run-up to start \"running,\" but once it does it won't stop, and fairly fast at that. Meet one while camping and there is no time to save your gear: beat it or give up your gear.",
+  "kind": "desc",
+  "note": "Compressed: 'fairly fast at that' = soredo sokudo mo sore nari."
+ },
+ {
+  "en": "Emperor Birds are very intelligent and once had fairly friendly ties with people. But ever since their eggs, being delicious, were hailed as one of the Three Great Delicacies, endless overhunting has soured relations. Their bonds with each other are strong; a drawn-out fight is dangerous.",
+  "kind": "desc",
+  "note": "sandai chinmi = Three Great Delicacies."
+ },
+ {
+  "en": "A savage great boar with fine tusks. Its upper canines grow right through its own flesh; why it hurts itself so is a mystery. The young, unlike adults, are cute and friendly, fondly called Babbies, and famous for growing fast. Rumor has it a Babby called from afar was a babirusa by the time it arrived.",
+  "kind": "desc",
+  "note": "Babby = baby, the nickname bavii. Compressed heavily to fit; all points kept."
+ },
+ {
+  "en": "A giant bird monster with the head and breasts of a human woman. Usually they attack adventurers for their food, but in breeding season they may attack for another purpose.",
+  "kind": "desc"
+ },
+ {
+  "en": "A miraculous mythical beast that always shields the gem in its forehead with both paws. A Carbuncle's gem gives off its own light and has the power to drive away darkness. Large ones can fetch high prices, so adventurers often chase them down.",
+  "kind": "desc"
+ },
+ {
+  "en": "A savage beaver-like beast lurking in clear lakes; it strikes passing prey with long, strong claws. It attacks humans too: poor children's bones have been seen built into its nest. Oddly, the Afanc is weak to maidens. Pamper it a bit and it clings to your breast and won't let go, so be careful.",
+  "kind": "desc",
+  "note": "Afanc (MONSTER1 2767). Breast-clinging line kept at source strength."
+ },
+ {
+  "en": "A lizard full of poison. If its claws so much as graze your skin, venom seeps in and spreads, eating at your whole body. Keep your distance, then? Once basilisks see their claws can't reach, they attack with a deadly poison breath. When the fight is over, you will surely be drenched in poison.",
+  "kind": "desc"
+ },
+ {
+  "en": "A monstrous bird that looks like a deer and a bird combined. For some reason a peryton's shadow is human-shaped, and killing a person lets it regain its own shadow, so it is said to seek out and attack humans.",
+  "kind": "desc"
+ },
+ {
+  "en": "A cat kept in a home for many years may, with age, become a yokai called a nekomata. It speaks human words, gains magic and rules the house, they say. Its nature depends on its owner: without trust, you'll be thrown out of your own house in no time. But dote on it before it turns, and it repays you loyally.",
+  "kind": "desc",
+  "note": "Last sentence: the cat repays the owner's kindness with loyalty."
+ },
+ {
+  "en": "A heavenly steed said to open its heart only to the pure. Like the horn on its brow, it favors those who devote themselves single-mindedly to one thing. If you want to befriend a unicorn, you had better not keep changing class on a whim.",
+  "kind": "desc",
+  "note": "shoku wo kaeru = changing class (game term)."
+ },
+ {
+  "en": "\"Oh my, a lion in the sea? But lo and behold, its lower half's a fish! Holy mackerel!?\" A monster striking enough to excuse such fishermen's babble. It is fairly smart and famously tidy. If you don't want to anger it, don't throw garbage into the sea.",
+  "kind": "desc",
+  "note": "Fisherman pun 'gyogyoo' (gyo = fish) rendered 'Holy mackerel!?'."
+ },
+ {
+  "en": "A monster fusing several animals. Its three heads each attack in their own way: the snake head with breath, the goat head with spells, the lion head with matchless fangs. Whether you can beat a chimera marks the line between novice and intermediate adventurers.",
+  "kind": "desc",
+  "note": "Source typo kyouryoku (cooperation) read as kyouryoku muhi (matchless) = 'matchless fangs'."
+ },
+ {
+  "en": "Glittering wings and a gorgeous crest. A mythical beast with a lavish air, yet it cannot fly. But who needs flight with an inborn power to petrify? Not just its attacks, but the breath it spews can turn you to stone. Take it lightly and you'll be a stone statue in no time.",
+  "kind": "desc"
+ },
+ {
+  "en": "A yokai from a far eastern land, striking for its red face and long nose. A symbol of arrogance too: there, acting pompous is called \"becoming a tengu.\" Yet it truly has mystic powers to match. On a whim, it is said to teach humans wisdom or swordsmanship.",
+  "kind": "desc",
+  "note": "tengu ni naru = becoming a tengu (idiom kept and explained by context)."
+ },
+ {
+  "en": "A demon beast writhing slickly amid columns of water. With the allure only inhuman women have, it draws adventurers in defenseless though they know it's a monster. Then supple, mighty tentacles snare them, and they are swallowed not by the upper mouth but the lower one, lined with jagged fangs.",
+  "kind": "desc",
+  "note": "Kept at source strength (upper vs lower mouth)."
+ },
+ {
+  "en": "A monster famed as the \"Hound of Hell.\" Its eerie, red-glowing eyes drive absolute terror into all who face it, rooting them to the spot. Do the denizens of darkness all keep such vicious beasts as pets?",
+  "kind": "desc",
+  "note": "jigoku no banken (double brackets) = \"Hound of Hell\"."
+ },
+ {
+  "en": "A noble, deeply loyal mythical beast said to let only those whose strength it acknowledges ride on its back. It is sung that one who rides a griffon will rule the land, and many put its image on flags and crests, hoping to borrow a griffon's power.",
+  "kind": "desc"
+ },
+ {
+  "en": "A beauty with a snake's body. Intelligent, she seldom attacks people, but things like \"magic pools\" can make her drunk and violent. Rumor says that if you nurture love with a lamia and are blessed with a child, it will have rare magic and be able to command every mythical beast.",
+  "kind": "desc",
+  "note": "'magic pools' = maryoku damari (no corpus term found). Female per source (bijo)."
+ },
+ {
+  "en": "A fox that lived long and gained mystic powers. Some take human form to beguile the powerful; others shun people and live in tiny shrines deep in the mountains. Angered, it calls heavenly winds, gathers black clouds and strikes foes with eerie lightning. Proud, but fried tofu makes it lose itself.",
+  "kind": "desc",
+  "note": "aburaage = fried tofu. Compressed."
+ },
+ {
+  "en": "If the unicorn is a holy beast that rejects the world to keep its purity, the bicorn accepted the world at the price of defilement. Guarding purity sounds fine, but it also means rejecting others. The bicorn takes others as they are and savors the joy, sorrow, anger, betrayal and love they bring.",
+  "kind": "desc",
+  "note": "Compressed to fit 312."
+ },
+ {
+  "en": "A divine sea fish shining with holy light. Any beast this huge should be slow for its bulk, yet maybe thanks to the light magic it wears, it races about at baffling speed. So adventurers keep dying, unable to keep their distance or thrown off their usual rhythm.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mythical beast long known as a symbol of intellect. When it finds adventurers, it poses puzzles called riddles. Those who can satisfy the sphinx's thirst for knowledge may be able to build a good relationship with it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A ghost that loves pranks. They range from cute ones, like flying plates or doors that open and shut, to dangerous ones, like flying weapons and blades. Sometimes it does this because it wants someone to notice something, so if you scold it and hear it out, you might become friends.",
+  "kind": "desc"
+ },
+ {
+  "en": "The spirit of a warrior who fights on even after falling. It is as strong as in life, but just being a spirit makes it a very troublesome foe. Take it out with spells and the like before it makes you one of its own.",
+  "kind": "desc",
+  "note": "nakama ni sarenai uchi ni = before it makes you one of its own (i.e., another ghost)."
+ },
+ {
+  "en": "The ghost of a sorcerer. A sorcerer alone is a dangerous foe early in the game, and with physical attacks not working on it either, it is a real menace.",
+  "kind": "desc"
+ },
+ {
+  "en": "Driven into the in-between by fierce attachment, grudges or hatred in life: a ghost is a sad heart. Many never realize they're dead and wander on endlessly. Muttering words that never reach anyone, weeping softly... meeting one leaves you more sad than scared. Why not at least be the one who hears them out?",
+  "kind": "desc",
+  "note": "'kimi dake wa' = why not at least be the one who hears them out."
+ },
+ {
+  "en": "A pesky spirit that can't give up thieving even in death. This otherworldly thief is after not your valuables, but the souls of adventurers.",
+  "kind": "desc"
+ },
+ {
+  "en": "A spirit that hangs upside down from the ceiling; who knows what fun it finds in that. The sight of them all dropping from above at once is oddly moving, in its way. Take care not to be startled into letting them strike first.",
+  "kind": "desc",
+  "note": "nani ga tanoshii no ka = who knows what fun it finds in that."
+ }
+]

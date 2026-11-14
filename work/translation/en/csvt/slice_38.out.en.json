@@ -1,0 +1,397 @@
+[
+ {
+  "en": "Taranti",
+  "kind": "name",
+  "note": "Story spelling (chap slice 022)."
+ },
+ {
+  "en": "Rolfaan!",
+  "kind": "name",
+  "note": "Epithet is a nonsense cry; romanized. Meaning unknown."
+ },
+ {
+  "en": "Hecatoncheir",
+  "kind": "name"
+ },
+ {
+  "en": "Mountain Shade",
+  "kind": "name",
+  "note": "Lit. 'giant shadow like a mountain'; 'Mountain Shadow' is 15 > 14."
+ },
+ {
+  "en": "Demon Gen. Sephiriege",
+  "kind": "name",
+  "note": "[JP] = Demon General of Oblivion (story: 'Sephiriege, Demon General of Oblivion'). Full title does not fit 22; kept the rank, as in 'Demon Gen. Welsconi' (slice 31). 'Sephiriege of Oblivion' (22, cf. slice 37 'Sanafeet of Oblivion') is the alternative."
+ },
+ {
+  "en": "Sephiriege",
+  "kind": "name",
+  "note": "Glossary/story spelling."
+ },
+ {
+  "en": "Hunter of the Abyss",
+  "kind": "name",
+  "note": "[JP] = Abyss, as in the story (chap slice 022)."
+ },
+ {
+  "en": "Abi",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Hello!",
+  "kind": "name",
+  "note": "The statue's joke epithet."
+ },
+ {
+  "en": "Tiger Centaur III",
+  "kind": "name",
+  "note": "Kana nickname drops [JP] for length; English full name fits (ebt slice 18)."
+ },
+ {
+  "en": "Details Unknown",
+  "kind": "name"
+ },
+ {
+  "en": "Doppelganger",
+  "kind": "name"
+ },
+ {
+  "en": "Phantom Likeness",
+  "kind": "name",
+  "note": "[JP] = strange image + hallucination; it appears in your own likeness."
+ },
+ {
+  "en": "Nambino",
+  "kind": "name",
+  "note": "Story spelling (Prof. Nambino); bare name as in source."
+ },
+ {
+  "en": "Gonna Peep-Peep!",
+  "kind": "name",
+  "note": "Lit. 'I'll go peep-peep!' -- she whistles your magic away (bestiary). Paired with Rombino's 'Gonna Wave-Wave!'."
+ },
+ {
+  "en": "Rombino",
+  "kind": "name",
+  "note": "Story spelling (Prof. Rombino)."
+ },
+ {
+  "en": "Gonna Wave-Wave!",
+  "kind": "name",
+  "note": "Lit. 'I'll go furi-furi!' -- he waves a war fan to judge attacks."
+ },
+ {
+  "en": "Corpse-Fond Girl",
+  "kind": "name",
+  "note": "Lit. 'girl who dotes on rotting corpses' (Necrophilis); 16-byte limit."
+ },
+ {
+  "en": "Rebel Spr.",
+  "kind": "name",
+  "note": "Lit. 'rebel spirit' (Shaharon). 'Rebel Spirit' is 12 > 10; Spr. = Spirit, same short form as Moon Spr / Sun Spr."
+ },
+ {
+  "en": "Knows the World",
+  "kind": "name",
+  "note": "Lit. 'one who knows the shape of the world'. Shared by Dark Mayer and Dark Fuhrer."
+ },
+ {
+  "en": "Moon Spr",
+  "kind": "name",
+  "note": "Glossary [JP] = Moonlight Spirit (16) cannot fit 8; abbreviated. Yorfa."
+ },
+ {
+  "en": "Rafa",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Sun Spr",
+  "kind": "name",
+  "note": "Glossary [JP] = Sun Spirit (10) cannot fit 8; abbreviated like Moon Spr."
+ },
+ {
+  "en": "Welsconi",
+  "kind": "name",
+  "note": "Story spelling."
+ },
+ {
+  "en": "Dark Realm Dominion",
+  "kind": "name",
+  "note": "Lit. 'the power that rules the Dark Realm'; glossary [JP] = Dark Realm."
+ },
+ {
+  "en": "Malem Svart",
+  "kind": "name",
+  "note": "Malem as in Numbra Malem (story). New name."
+ },
+ {
+  "en": "Came From Beyond",
+  "kind": "name",
+  "note": "Lit. 'one who came across' (from another world, per story: 'one who has crossed over from another world'). Shared by the three Malem envoys."
+ },
+ {
+  "en": "Malem Mendit",
+  "kind": "name",
+  "note": "New name, romanized; final [JP] as -t like Svart."
+ },
+ {
+  "en": "Malem Ozekt",
+  "kind": "name",
+  "note": "New name, romanized."
+ },
+ {
+  "en": "Reckdas",
+  "kind": "name",
+  "note": "As in item 'Reckdas' Evil Fog'."
+ },
+ {
+  "en": "Miasma Lord",
+  "kind": "name",
+  "note": "Lit. 'ruler of the evil fog'; 'Lord of Evil Fog' is 16 > 12."
+ },
+ {
+  "en": "Fiend Asunamuchi",
+  "kind": "name",
+  "note": "[JP] = heavenly 'maen' (a Japanese term for a demon/tengu; she prefers it to Demon Duke). 'Heavenly' dropped to fit 18."
+ },
+ {
+  "en": "Asunamuchi",
+  "kind": "name",
+  "note": "Story spelling."
+ },
+ {
+  "en": "The Onlooker",
+  "kind": "name",
+  "note": "Lit. 'one who gazes (from above)'."
+ },
+ {
+  "en": "Purippa",
+  "kind": "name",
+  "note": "New name, romanized."
+ },
+ {
+  "en": "Terror Tenor",
+  "kind": "name",
+  "note": "Lit. 'tenor of terror'; she is a singing Demon Duke. 'Tenor of Terror' is 15 > 14."
+ },
+ {
+  "en": "Endwards",
+  "kind": "name",
+  "note": "New name, romanized ([JP])."
+ },
+ {
+  "en": "Warped Flesh",
+  "kind": "name",
+  "note": "Lit. 'grotesque flesh'."
+ },
+ {
+  "en": "Deltoi Parlor",
+  "kind": "name",
+  "note": "[JP] = living room; 'Deltoi' as in glossary 'Deltoi Empty Room' (same no-possessive form)."
+ },
+ {
+  "en": "Deltoi Parlor",
+  "kind": "name",
+  "note": "Kana spelling of the same name."
+ },
+ {
+  "en": "Otherworld Den",
+  "kind": "name",
+  "note": "Lit. 'other-dimensional sitting room (cha-no-ma)'."
+ },
+ {
+  "en": "Fanisakil",
+  "kind": "name",
+  "note": "Story spelling."
+ },
+ {
+  "en": "Deep Emperor",
+  "kind": "name",
+  "note": "Lit. 'emperor of the deep world' ([JP], cf. [JP] in MON_TEXT); not [JP] Abyss."
+ },
+ {
+  "en": "Aleed Painter",
+  "kind": "name",
+  "note": "New name, romanized; a court painter of the giants (Ada era)."
+ },
+ {
+  "en": "Painter of Ada",
+  "kind": "name",
+  "note": "[JP] = the Ada era of the giants (bestiary). New term 'Ada'."
+ },
+ {
+  "en": "Hellmilk Sarebos",
+  "kind": "name",
+  "note": "[JP] = demonic milk/breasts (she suckles the starving and the Kin of Darkness). 'Demon Milk Sarebos' is 18 > 16."
+ },
+ {
+  "en": "Hellmilk Sarebos",
+  "kind": "name",
+  "note": "Kana reading of 3168; same English."
+ },
+ {
+  "en": "Queen of Folly",
+  "kind": "name",
+  "note": "Lit. 'consort of folly'; bestiary 'foolish yet great woman of mercy'."
+ },
+ {
+  "en": "Seot Mar",
+  "kind": "name",
+  "note": "New name, romanized."
+ },
+ {
+  "en": "Raging Flash",
+  "kind": "name"
+ },
+ {
+  "en": "Castromandi",
+  "kind": "name",
+  "note": "New name, romanized."
+ },
+ {
+  "en": "A Gent's Tastes",
+  "kind": "name",
+  "note": "Lit. 'a gentleman's accomplishment/refined pastime' -- ironic, given his perverse obsession. 'Gentleman's Taste' is 17 > 16."
+ },
+ {
+  "en": "Menolist",
+  "kind": "name",
+  "note": "Story spelling."
+ },
+ {
+  "en": "My Best",
+  "kind": "name",
+  "note": "[JP] = 'my best' in English katakana; possibly a pun on the name. Kept literal."
+ },
+ {
+  "en": "Ponyapo",
+  "kind": "name",
+  "note": "Story spelling."
+ },
+ {
+  "en": "Unexpected",
+  "kind": "name",
+  "note": "Lit. 'the unexpected...' -- bestiary: 'Of all things, it's Ponyapo!'"
+ },
+ {
+  "en": "Taizarti",
+  "kind": "name",
+  "note": "As in glossary 'Taizarti Lamp'."
+ },
+ {
+  "en": "The Seeker",
+  "kind": "name",
+  "note": "Lit. 'one who seeks'."
+ },
+ {
+  "en": "Danue",
+  "kind": "name",
+  "note": "New name, romanized ([JP])."
+ },
+ {
+  "en": "Successor",
+  "kind": "name",
+  "note": "Lit. 'one who inherits/takes over'. Shared with Hisbert (MONSTER3 c105)."
+ },
+ {
+  "en": "Ebirahan",
+  "kind": "name",
+  "note": "Story spelling."
+ },
+ {
+  "en": "Sunderer",
+  "kind": "name",
+  "note": "Lit. 'one who severs'; he beheads foes."
+ },
+ {
+  "en": "Togaranuman",
+  "kind": "name",
+  "note": "New name, romanized."
+ },
+ {
+  "en": "Radiant Visage",
+  "kind": "name"
+ },
+ {
+  "en": "Cursmeltu",
+  "kind": "name",
+  "note": "New name, romanized ([JP]); an Argument relic per bestiary."
+ },
+ {
+  "en": "Unrotting Cup",
+  "kind": "name",
+  "note": "Lit. 'cup that does not rot'."
+ },
+ {
+  "en": "Proto Dariem",
+  "kind": "name",
+  "note": "New name; Dariem shared with 3201."
+ },
+ {
+  "en": "Primordium",
+  "kind": "name",
+  "note": "[JP] = primordium/anlage; pairs with 3202 'Perfect Primordium'."
+ },
+ {
+  "en": "Fumbler",
+  "kind": "name",
+  "note": "[JP] read as English 'fumbler'."
+ },
+ {
+  "en": "Sacred Chaos",
+  "kind": "name",
+  "note": "Lit. 'holy disorder aspect'."
+ },
+ {
+  "en": "Saimundur",
+  "kind": "name",
+  "note": "New name, romanized."
+ },
+ {
+  "en": "Arcane Orrery",
+  "kind": "name",
+  "note": "Lit. 'magic-light instrument' ([JP] as in [JP] orrery). Uncertain."
+ },
+ {
+  "en": "Fender Lynx",
+  "kind": "name",
+  "note": "New name: fender + lynx (a beast; epithet 'spirit-roar fang')."
+ },
+ {
+  "en": "Spirit-Roar Fang",
+  "kind": "name",
+  "note": "Lit. 'spirit roaring fang'."
+ },
+ {
+  "en": "Ryugel Makiam",
+  "kind": "name",
+  "note": "[JP] romanized Ryugel to match glossary Ryug ([JP]). New name."
+ },
+ {
+  "en": "New Prime Matter",
+  "kind": "name",
+  "note": "[JP] = prime matter."
+ },
+ {
+  "en": "Ryugel Regiem",
+  "kind": "name",
+  "note": "New name."
+ },
+ {
+  "en": "Blessed Soul Matter",
+  "kind": "name",
+  "note": "[JP] = soul-matter; parallels 'New Prime Matter'."
+ },
+ {
+  "en": "Ryugel Dariem",
+  "kind": "name",
+  "note": "New name; Dariem as in 3189."
+ },
+ {
+  "en": "Perfect Primordium",
+  "kind": "name",
+  "note": "See 3190."
+ }
+]

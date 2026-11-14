@@ -1,0 +1,27 @@
+[
+ {
+  "en": "    Developers    Starfish SD Inc.",
+  "kind": "credits",
+  "note": "Credits block layout: each full-width space = 2 ASCII spaces; company column kept at half-width column 18 as in source. Kaihatsumoto = developer(s); two companies follow (rows 1563-1564), so plural 'Developers'. Kabushiki-gaisha rendered as 'Inc.' after the name."
+ },
+ {
+  "en": "                  Opera House Inc.",
+  "kind": "credits",
+  "note": "Second developer, aligned under row 1563's company column (9 full-width spaces -> 18 ASCII)."
+ },
+ {
+  "en": "    Copyright     Starfish SD Inc.",
+  "kind": "credits",
+  "note": "Chosaku/Kenri (authorship/rights) = copyright holder line."
+ },
+ {
+  "en": "                            ~ Fin ~",
+  "kind": "credits",
+  "note": "Leading spaces chosen to keep the source's horizontal centre (half-width column ~31)."
+ },
+ {
+  "en": "Failed to delete.\n",
+  "kind": "ui",
+  "note": "Matches slice_05 row 358 wording; trailing newline kept."
+ }
+]

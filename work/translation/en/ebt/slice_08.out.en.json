@@ -1,0 +1,363 @@
+[
+ {
+  "en": "2x effect",
+  "kind": "ui"
+ },
+ {
+  "en": "3x effect",
+  "kind": "ui"
+ },
+ {
+  "en": "5x effect",
+  "kind": "ui"
+ },
+ {
+  "en": "10x effect",
+  "kind": "ui"
+ },
+ {
+  "en": "1.5x effect",
+  "kind": "ui",
+  "note": "Same English as row 598; source differs only in half-width vs full-width decimal point."
+ },
+ {
+  "en": "1.5x effect",
+  "kind": "ui",
+  "note": "Same English as row 597 (full-width decimal point in source)."
+ },
+ {
+  "en": "?set a drain barrier",
+  "kind": "ui",
+  "note": "Leading '?' kept: string starts at odd address eb@0896c3f7, so the '?' (0x3F) is probably a stray byte of the data before it, and the real text starts one byte later. Kept so the byte stays the same; '?' + 19 chars = 20 bytes, max_bytes 21. Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "was shielded by a drain barrier",
+  "kind": "ui",
+  "note": "Passive of row 599: subject is the one the barrier was put up on (or against). Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "set a breath barrier",
+  "kind": "ui",
+  "note": "Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "was shielded by a breath barrier",
+  "kind": "ui",
+  "note": "Passive of row 601. Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "is marked as a target and can't hide",
+  "kind": "ui",
+  "note": "'Shuuchuu' read as the focus-target skill of rows 620-621."
+ },
+ {
+  "en": "is hiding and can't mark a target",
+  "kind": "ui",
+  "note": "'Shuuchuu' read as the focus-target skill of rows 620-621."
+ },
+ {
+  "en": "now has AC -20",
+  "kind": "ui",
+  "note": "Source: 'AC became -20'; rephrased as a predicate after a name."
+ },
+ {
+  "en": "raised spell resistance",
+  "kind": "ui",
+  "note": "Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "had spell resistance raised",
+  "kind": "ui",
+  "note": "Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "had spell resistance lowered",
+  "kind": "ui",
+  "note": "Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "lowered spell resistance",
+  "kind": "ui",
+  "note": "Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "gained speed",
+  "kind": "ui",
+  "note": "Subayasa = battle speed, not the Agility stat (that is binshou, slice_01 row 57)."
+ },
+ {
+  "en": "had speed raised",
+  "kind": "ui"
+ },
+ {
+  "en": "had speed lowered",
+  "kind": "ui"
+ },
+ {
+  "en": "lowered speed",
+  "kind": "ui"
+ },
+ {
+  "en": "started counting down",
+  "kind": "ui",
+  "note": "Source: 'the countdown began'; predicate form so it reads after a name. Unknown whose countdown (doom effect?)."
+ },
+ {
+  "en": "had everyone's weapons blessed",
+  "kind": "ui",
+  "note": "Source: 'everyone's weapons were blessed'. Written as a predicate to match the rest; if the game prints it alone, use \"Everyone's weapons were blessed\"."
+ },
+ {
+  "en": "increased attack count",
+  "kind": "ui",
+  "note": "Number of attacks per round."
+ },
+ {
+  "en": "had attack count increased",
+  "kind": "ui"
+ },
+ {
+  "en": "now has unlimited range",
+  "kind": "ui"
+ },
+ {
+  "en": "was given unlimited range",
+  "kind": "ui"
+ },
+ {
+  "en": "marked a target for focused attacks",
+  "kind": "ui",
+  "note": "Source: 'made (allies) concentrate on the target' -- focus-fire skill."
+ },
+ {
+  "en": "was marked for focused attacks",
+  "kind": "ui",
+  "note": "Passive of row 620."
+ },
+ {
+  "en": "hid",
+  "kind": "ui"
+ },
+ {
+  "en": "lost sight of the enemy",
+  "kind": "ui"
+ },
+ {
+  "en": "had AC raised by 7",
+  "kind": "ui",
+  "note": "Literal 'raise AC'. In Wizardry-style AC a higher number is worse, so the passive forms may be enemy debuffs; kept literal either way."
+ },
+ {
+  "en": "raised AC by 7",
+  "kind": "ui"
+ },
+ {
+  "en": "had everyone's AC raised by 4",
+  "kind": "ui",
+  "note": "Source already contains 'everyone' (zenin no AC). Passive; see row 624 note."
+ },
+ {
+  "en": "raised everyone's AC by 4",
+  "kind": "ui"
+ },
+ {
+  "en": "lowered everyone's AC by 3",
+  "kind": "ui"
+ },
+ {
+  "en": "lowered everyone's AC by 2",
+  "kind": "ui"
+ },
+ {
+  "en": "surges with power from the ritual",
+  "kind": "ui",
+  "note": "Special-skill flavor line (rows 630-640); written as predicate after a name."
+ },
+ {
+  "en": "strikes from the darkness",
+  "kind": "ui",
+  "note": "Source is a noun phrase 'a strike from the darkness'; made a predicate."
+ },
+ {
+  "en": "attacks in a fit of madness",
+  "kind": "ui"
+ },
+ {
+  "en": "looks displeased",
+  "kind": "ui"
+ },
+ {
+  "en": "looks unsatisfied",
+  "kind": "ui"
+ },
+ {
+  "en": "shuddered with masochistic pleasure",
+  "kind": "ui",
+  "note": "Hi-gyaku no kairaku: pleasure in being abused. Not softened."
+ },
+ {
+  "en": "erupts with darkness",
+  "kind": "ui",
+  "note": "Source: 'darkness gushes forth'; predicate form. If printed alone: 'Darkness gushes forth'."
+ },
+ {
+  "en": "lets loose a thundering dragon's roar",
+  "kind": "ui",
+  "note": "Source: 'a dragon's roar thunders'; predicate form. If printed alone: \"A dragon's roar thunders\"."
+ },
+ {
+  "en": "stirs up a wind the color of darkness",
+  "kind": "ui",
+  "note": "Source: 'a darkness-colored wind blows'; predicate form. If printed alone: 'A wind the color of darkness blows'."
+ },
+ {
+  "en": "is drunk on deadly poison",
+  "kind": "ui",
+  "note": "Yoishireru: intoxicated/enraptured."
+ },
+ {
+  "en": "Blessing of Dark Oblivion",
+  "kind": "ui",
+  "note": "Skill/effect name. Anmetsu (dark + annihilation) is a coined word. Compare slice_09 row 676 (anchiki no kago)."
+ },
+ {
+  "en": "Damage x%s",
+  "kind": "ui"
+ },
+ {
+  "en": "ambushed from the shadows!",
+  "kind": "ui"
+ },
+ {
+  "en": "was ambushed from the shadows",
+  "kind": "ui"
+ },
+ {
+  "en": "launched a swift attack!",
+  "kind": "ui"
+ },
+ {
+  "en": "was hit by a swift attack",
+  "kind": "ui"
+ },
+ {
+  "en": "Strafe Pursuit",
+  "kind": "ui",
+  "note": "Attack label: sousha (strafing/sweep) + tsuigeki (follow-up attack)."
+ },
+ {
+  "en": "Pursuit",
+  "kind": "ui",
+  "note": "Attack label (tsuigeki)."
+ },
+ {
+  "en": "has fallen asleep",
+  "kind": "ui",
+  "note": "-te shimatta (unlucky) form; row 649 is the plain form. Probably party-side vs enemy-side."
+ },
+ {
+  "en": "fell asleep",
+  "kind": "ui"
+ },
+ {
+  "en": "was poisoned",
+  "kind": "ui"
+ },
+ {
+  "en": "inflicted poison",
+  "kind": "ui"
+ },
+ {
+  "en": "was paralyzed",
+  "kind": "ui"
+ },
+ {
+  "en": "was silenced",
+  "kind": "ui"
+ },
+ {
+  "en": "became confused",
+  "kind": "ui"
+ },
+ {
+  "en": "was charmed",
+  "kind": "ui"
+ },
+ {
+  "en": "charmed the target",
+  "kind": "ui",
+  "note": "Active form; object added because English 'charmed' needs one."
+ },
+ {
+  "en": "was petrified",
+  "kind": "ui"
+ },
+ {
+  "en": "was decapitated",
+  "kind": "ui"
+ },
+ {
+  "en": "decapitated the target",
+  "kind": "ui",
+  "note": "Active form; object added because English needs one."
+ },
+ {
+  "en": "was level-drained",
+  "kind": "ui"
+ },
+ {
+  "en": "drained levels",
+  "kind": "ui"
+ },
+ {
+  "en": "Everyone %s",
+  "kind": "ui",
+  "note": "Group form; takes a predicate row (e.g. 'Everyone was poisoned')."
+ },
+ {
+  "en": "%s %s",
+  "kind": "ui",
+  "note": "Name + predicate. Japanese topic particle wa dropped; predicate rows are written to follow a name directly."
+ },
+ {
+  "en": "was cursed",
+  "kind": "ui"
+ },
+ {
+  "en": "laid a curse",
+  "kind": "ui"
+ },
+ {
+  "en": "died",
+  "kind": "ui"
+ },
+ {
+  "en": "turned to ash",
+  "kind": "ui",
+  "note": "Matches slice_01 row 64 '%s has turned to ash'."
+ },
+ {
+  "en": "was struck with fear",
+  "kind": "ui",
+  "note": "Fear status (kyoufu)."
+ },
+ {
+  "en": "was spotted",
+  "kind": "ui",
+  "note": "Hiding/detection set rows 669-672."
+ },
+ {
+  "en": "spotted the target",
+  "kind": "ui",
+  "note": "Active form; object added."
+ },
+ {
+  "en": "wasn't found",
+  "kind": "ui",
+  "note": "Mitsukaranakatta: literally 'was not found' (stayed hidden). Could also be read 'couldn't find (them)'."
+ },
+ {
+  "en": "has lost sight of the target",
+  "kind": "ui"
+ }
+]

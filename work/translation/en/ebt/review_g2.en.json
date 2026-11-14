@@ -1,0 +1,2497 @@
+[
+ {
+  "en": "Trap Type",
+  "kind": "ui",
+  "note": "Debug chest-trap setter (rows 583-586)."
+ },
+ {
+  "en": "Normal",
+  "kind": "ui"
+ },
+ {
+  "en": "Medium",
+  "kind": "ui",
+  "note": "Chuukyuu = intermediate tier; 'Medium' keeps it short."
+ },
+ {
+  "en": "Rare",
+  "kind": "ui"
+ },
+ {
+  "en": "This isn't a Dungeon Load floor.",
+  "kind": "ui",
+  "note": "See row 553 on 'Dungeon Road'."
+ },
+ {
+  "en": "Have you read the disclaimer and confirmed there are no problems?",
+  "kind": "ui",
+  "note": "Probably shown before enabling the debug functions."
+ },
+ {
+  "en": "It has no effect at all",
+  "kind": "ui",
+  "note": "Battle results 589-592 (subjectless like the neighbouring slice_08 rows; 'It' = the attack/spell). The pairs differ only in aspect (kikanai vs kiite inai); rendered 'has no effect' vs 'isn't working', which one belongs to which side is unverified."
+ },
+ {
+  "en": "It isn't working at all",
+  "kind": "ui"
+ },
+ {
+  "en": "It isn't very effective",
+  "kind": "ui"
+ },
+ {
+  "en": "It isn't having much effect",
+  "kind": "ui"
+ },
+ {
+  "en": "2x effect",
+  "kind": "ui"
+ },
+ {
+  "en": "3x effect",
+  "kind": "ui"
+ },
+ {
+  "en": "5x effect",
+  "kind": "ui"
+ },
+ {
+  "en": "10x effect",
+  "kind": "ui"
+ },
+ {
+  "en": "1.5x effect",
+  "kind": "ui",
+  "note": "Same English as row 598; source differs only in half-width vs full-width decimal point."
+ },
+ {
+  "en": "1.5x effect",
+  "kind": "ui",
+  "note": "Same English as row 597 (full-width decimal point in source)."
+ },
+ {
+  "en": "?set a drain barrier",
+  "kind": "ui",
+  "note": "Leading '?' kept: string starts at odd address eb@0896c3f7, so the '?' (0x3F) is probably a stray byte of the data before it, and the real text starts one byte later. Kept so the byte stays the same; '?' + 19 chars = 20 bytes, max_bytes 21. Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "was shielded by a drain barrier",
+  "kind": "ui",
+  "note": "Passive of row 599: subject is the one the barrier was put up on (or against). Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "set a breath barrier",
+  "kind": "ui",
+  "note": "Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "was shielded by a breath barrier",
+  "kind": "ui",
+  "note": "Passive of row 601. Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "is marked as a target and can't hide",
+  "kind": "ui",
+  "note": "'Shuuchuu' read as the focus-target skill of rows 620-621."
+ },
+ {
+  "en": "is hiding and can't mark a target",
+  "kind": "ui",
+  "note": "'Shuuchuu' read as the focus-target skill of rows 620-621."
+ },
+ {
+  "en": "now has AC -20",
+  "kind": "ui",
+  "note": "Source: 'AC became -20'; rephrased as a predicate after a name."
+ },
+ {
+  "en": "raised spell resistance",
+  "kind": "ui",
+  "note": "Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "had spell resistance raised",
+  "kind": "ui",
+  "note": "Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "had spell resistance lowered",
+  "kind": "ui",
+  "note": "Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "lowered spell resistance",
+  "kind": "ui",
+  "note": "Predicate fragment: lower-case, assumed to follow a name via row 663 '%s %s' or row 662 'Everyone %s'."
+ },
+ {
+  "en": "gained speed",
+  "kind": "ui",
+  "note": "Subayasa = battle speed, not the Agility stat (that is binshou, slice_01 row 57)."
+ },
+ {
+  "en": "had speed raised",
+  "kind": "ui"
+ },
+ {
+  "en": "had speed lowered",
+  "kind": "ui"
+ },
+ {
+  "en": "lowered speed",
+  "kind": "ui"
+ },
+ {
+  "en": "started counting down",
+  "kind": "ui",
+  "note": "Source: 'the countdown began'; predicate form so it reads after a name. Unknown whose countdown (doom effect?)."
+ },
+ {
+  "en": "had everyone's weapons blessed",
+  "kind": "ui",
+  "note": "Source: 'everyone's weapons were blessed'. Written as a predicate to match the rest; if the game prints it alone, use \"Everyone's weapons were blessed\"."
+ },
+ {
+  "en": "increased attack count",
+  "kind": "ui",
+  "note": "Number of attacks per round."
+ },
+ {
+  "en": "had attack count increased",
+  "kind": "ui"
+ },
+ {
+  "en": "now has unlimited range",
+  "kind": "ui"
+ },
+ {
+  "en": "was given unlimited range",
+  "kind": "ui"
+ },
+ {
+  "en": "marked a target for focused attacks",
+  "kind": "ui",
+  "note": "Source: 'made (allies) concentrate on the target' -- focus-fire skill."
+ },
+ {
+  "en": "was marked for focused attacks",
+  "kind": "ui",
+  "note": "Passive of row 620."
+ },
+ {
+  "en": "hid",
+  "kind": "ui"
+ },
+ {
+  "en": "lost sight of the enemy",
+  "kind": "ui"
+ },
+ {
+  "en": "had AC raised by 7",
+  "kind": "ui",
+  "note": "Literal 'raise AC'. In Wizardry-style AC a higher number is worse, so the passive forms may be enemy debuffs; kept literal either way."
+ },
+ {
+  "en": "raised AC by 7",
+  "kind": "ui"
+ },
+ {
+  "en": "had everyone's AC raised by 4",
+  "kind": "ui",
+  "note": "Source already contains 'everyone' (zenin no AC). Passive; see row 624 note."
+ },
+ {
+  "en": "raised everyone's AC by 4",
+  "kind": "ui"
+ },
+ {
+  "en": "lowered everyone's AC by 3",
+  "kind": "ui"
+ },
+ {
+  "en": "lowered everyone's AC by 2",
+  "kind": "ui"
+ },
+ {
+  "en": "surges with power from the ritual",
+  "kind": "ui",
+  "note": "Special-skill flavor line (rows 630-640); written as predicate after a name."
+ },
+ {
+  "en": "strikes from the darkness",
+  "kind": "ui",
+  "note": "Source is a noun phrase 'a strike from the darkness'; made a predicate."
+ },
+ {
+  "en": "attacks in a fit of madness",
+  "kind": "ui"
+ },
+ {
+  "en": "looks displeased",
+  "kind": "ui"
+ },
+ {
+  "en": "looks unsatisfied",
+  "kind": "ui"
+ },
+ {
+  "en": "shuddered with masochistic pleasure",
+  "kind": "ui",
+  "note": "Hi-gyaku no kairaku: pleasure in being abused. Not softened."
+ },
+ {
+  "en": "erupts with darkness",
+  "kind": "ui",
+  "note": "Source: 'darkness gushes forth'; predicate form. If printed alone: 'Darkness gushes forth'."
+ },
+ {
+  "en": "lets loose a thundering dragon's roar",
+  "kind": "ui",
+  "note": "Source: 'a dragon's roar thunders'; predicate form. If printed alone: \"A dragon's roar thunders\"."
+ },
+ {
+  "en": "stirs up a wind the color of darkness",
+  "kind": "ui",
+  "note": "Source: 'a darkness-colored wind blows'; predicate form. If printed alone: 'A wind the color of darkness blows'."
+ },
+ {
+  "en": "is drunk on deadly poison",
+  "kind": "ui",
+  "note": "Yoishireru: intoxicated/enraptured."
+ },
+ {
+  "en": "Blessing of Dark Oblivion",
+  "kind": "ui",
+  "note": "Skill/effect name. Anmetsu (dark + annihilation) is a coined word. Compare slice_09 row 676 (anchiki no kago)."
+ },
+ {
+  "en": "Damage x%s",
+  "kind": "ui"
+ },
+ {
+  "en": "launched an ambush from the shadows!",
+  "kind": "ui",
+  "note": "Editorial: 'ambushed' needs an object in English; recast as 'launched an ambush' to parallel row 644 'launched a swift attack!'."
+ },
+ {
+  "en": "was ambushed from the shadows",
+  "kind": "ui"
+ },
+ {
+  "en": "launched a swift attack!",
+  "kind": "ui"
+ },
+ {
+  "en": "was hit by a swift attack",
+  "kind": "ui"
+ },
+ {
+  "en": "Strafe Pursuit",
+  "kind": "ui",
+  "note": "Attack label: sousha (strafing/sweep) + tsuigeki (follow-up attack)."
+ },
+ {
+  "en": "Pursuit",
+  "kind": "ui",
+  "note": "Attack label (tsuigeki)."
+ },
+ {
+  "en": "has fallen asleep",
+  "kind": "ui",
+  "note": "-te shimatta (unlucky) form; row 649 is the plain form. Probably party-side vs enemy-side."
+ },
+ {
+  "en": "fell asleep",
+  "kind": "ui"
+ },
+ {
+  "en": "was poisoned",
+  "kind": "ui"
+ },
+ {
+  "en": "inflicted poison",
+  "kind": "ui"
+ },
+ {
+  "en": "was paralyzed",
+  "kind": "ui"
+ },
+ {
+  "en": "was silenced",
+  "kind": "ui"
+ },
+ {
+  "en": "became confused",
+  "kind": "ui"
+ },
+ {
+  "en": "was charmed",
+  "kind": "ui"
+ },
+ {
+  "en": "charmed the target",
+  "kind": "ui",
+  "note": "Active form; object added because English 'charmed' needs one."
+ },
+ {
+  "en": "was petrified",
+  "kind": "ui"
+ },
+ {
+  "en": "was decapitated",
+  "kind": "ui"
+ },
+ {
+  "en": "decapitated the target",
+  "kind": "ui",
+  "note": "Active form; object added because English needs one."
+ },
+ {
+  "en": "was level-drained",
+  "kind": "ui"
+ },
+ {
+  "en": "drained levels",
+  "kind": "ui"
+ },
+ {
+  "en": "Everyone %s",
+  "kind": "ui",
+  "note": "Group form; takes a predicate row (e.g. 'Everyone was poisoned')."
+ },
+ {
+  "en": "%s %s",
+  "kind": "ui",
+  "note": "Name + predicate. Japanese topic particle wa dropped; predicate rows are written to follow a name directly."
+ },
+ {
+  "en": "was cursed",
+  "kind": "ui"
+ },
+ {
+  "en": "laid a curse",
+  "kind": "ui"
+ },
+ {
+  "en": "died",
+  "kind": "ui"
+ },
+ {
+  "en": "turned to ash",
+  "kind": "ui",
+  "note": "Matches slice_01 row 64 '%s has turned to ash'."
+ },
+ {
+  "en": "was struck with fear",
+  "kind": "ui",
+  "note": "Fear status (kyoufu)."
+ },
+ {
+  "en": "was spotted",
+  "kind": "ui",
+  "note": "Hiding/detection set rows 669-672."
+ },
+ {
+  "en": "spotted the target",
+  "kind": "ui",
+  "note": "Active form; object added."
+ },
+ {
+  "en": "wasn't found",
+  "kind": "ui",
+  "note": "Mitsukaranakatta: literally 'was not found' (stayed hidden). Could also be read 'couldn't find (them)'."
+ },
+ {
+  "en": "has lost sight of the target",
+  "kind": "ui"
+ },
+ {
+  "en": "countered!",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. Kirikaesu = slash back; 674 is its passive."
+ },
+ {
+  "en": "was countered!",
+  "kind": "ui"
+ },
+ {
+  "en": "Activated=%d, Failed=%d",
+  "kind": "ui",
+  "note": "Looks like a debug/stat counter line (activations vs failures)."
+ },
+ {
+  "en": "Blessing of the Dark Realm",
+  "kind": "ui",
+  "note": "Kago = divine protection. Slice_08 row 640 has the sibling 'ankoku-metsu no kago'; translate that one in the same shape (Blessing of ...)."
+ },
+ {
+  "en": "gritted their teeth and held on",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. 'their' = gender-neutral singular."
+ },
+ {
+  "en": "missed",
+  "kind": "ui"
+ },
+ {
+  "en": "The king's power changes fate",
+  "kind": "ui",
+  "note": "Standalone line; source has no final punctuation."
+ },
+ {
+  "en": "nullified the drain",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it."
+ },
+ {
+  "en": "had their drain nullified",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to (here, whose action was undone). Source is 'the drain was nullified'; reading the subject as the drainer is inferred from the other pairs."
+ },
+ {
+  "en": "Dispel",
+  "kind": "ui",
+  "note": "Ability name; same as story text (wmap slice_08, chap slice_009)."
+ },
+ {
+  "en": "Succeeded=%d, Failed=%d",
+  "kind": "ui",
+  "note": "Debug/stat counter line, same shape as 675."
+ },
+ {
+  "en": "lifted the curse",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it. Next to Dispel (682), so probably Dispel on cursed undead."
+ },
+ {
+  "en": "had their curse lifted",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to (here, whose action was undone)."
+ },
+ {
+  "en": "was unaffected",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. Literally 'there is no effect'; turned into a predicate to fit after a name."
+ },
+ {
+  "en": "failed",
+  "kind": "ui"
+ },
+ {
+  "en": "nullified it",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it."
+ },
+ {
+  "en": "had it nullified",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to (here, whose action was undone)."
+ },
+ {
+  "en": "reflected it",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it."
+ },
+ {
+  "en": "Reflected!",
+  "kind": "ui",
+  "note": "max_bytes 10. The passive ('had it reflected', 15) does not fit, and a lower-case 'reflected' would read as the active row 690 (wrong direction). The exclamation is direction-neutral. Flagged."
+ },
+ {
+  "en": "had it absorbed",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to (here, whose action was undone)."
+ },
+ {
+  "en": "absorbed it",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it."
+ },
+ {
+  "en": "Activated=%d, Resisted=%d",
+  "kind": "ui",
+  "note": "Debug/stat counter line, same shape as 675."
+ },
+ {
+  "en": "hurled curses",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. Noroi no kotoba = words of cursing."
+ },
+ {
+  "en": "is resisting",
+  "kind": "ui"
+ },
+ {
+  "en": "threw a corpse",
+  "kind": "ui"
+ },
+ {
+  "en": "unleashed a dazzling power",
+  "kind": "ui"
+ },
+ {
+  "en": "lowered the level by %d",
+  "kind": "ui",
+  "note": "Transitive verb: the subject did the lowering, presumably to the target's level. Kept 'the level' because the source does not say whose."
+ },
+ {
+  "en": "dealt the finishing blow",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it. Iki no ne wo tomeru = finish off / snuff out a life."
+ },
+ {
+  "en": "was finished off",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to."
+ },
+ {
+  "en": "has no target",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. If this turns out to be a standalone line, 'No target' is the alternative."
+ },
+ {
+  "en": " was cured",
+  "kind": "ui",
+  "note": "Suffix glued straight onto a preceding word or number with no space in the Japanese; a leading space is added in English. If the build already inserts a space, drop it. The preceding word is presumably the ailment (e.g. 'Poison was cured')."
+ },
+ {
+  "en": "Maid Recover",
+  "kind": "ui",
+  "note": "Skill name (katakana English), 2 uses."
+ },
+ {
+  "en": "regained HP",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. Tairyoku = HP here."
+ },
+ {
+  "en": " hits!",
+  "kind": "ui",
+  "note": "Suffix glued straight onto a preceding word or number with no space in the Japanese; a leading space is added in English. If the build already inserts a space, drop it. Follows the hit count: '3 hits!'."
+ },
+ {
+  "en": " damage",
+  "kind": "ui",
+  "note": "Suffix glued straight onto a preceding word or number with no space in the Japanese; a leading space is added in English. If the build already inserts a space, drop it. Follows the damage number: '25 damage'."
+ },
+ {
+  "en": "Hit!",
+  "kind": "ui",
+  "note": "Variant without the count (probably the single-hit case); no leading space because it may start a line. Unverified."
+ },
+ {
+  "en": "wiped out the healing",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it. Kakikesu = erase / drown out."
+ },
+ {
+  "en": "had their healing wiped out",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to."
+ },
+ {
+  "en": "Effect of the Hermit tarot",
+  "kind": "ui",
+  "note": "Tarot card IX, The Hermit. Probably the label for 712/713."
+ },
+ {
+  "en": "blocked natural healing",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it."
+ },
+ {
+  "en": "had their natural healing blocked",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to."
+ },
+ {
+  "en": "Hinder chance (%d%%)",
+  "kind": "ui",
+  "note": "Debug-style rate display. The source percent sign is full-width (not a format directive); in ASCII it must be written %% so printf prints one '%'. Ojama = hindering/interference."
+ },
+ {
+  "en": "regenerated",
+  "kind": "ui",
+  "note": "UNCERTAIN: source is 'kara saisei shita' = 'regenerated FROM ...' glued after a word that is not visible here (maybe a state such as ash, or a body part). English cannot put that word after 'from', so only the verb is kept. Needs an in-game check."
+ },
+ {
+  "en": "is suffering from deadly poison",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. Moudoku = deadly/severe poison (stronger than plain poison in slice_08 row 650)."
+ },
+ {
+  "en": "paid the price of the brand",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. Rakuin = brand/stigma; probably a cursed-brand mechanic. New term."
+ },
+ {
+  "en": "Great Fortune",
+  "kind": "ui",
+  "note": "Rows 718-725: omikuji (fortune slip) results; slice_10 row 769 is the omikuji skill label. Ordered best to worst."
+ },
+ {
+  "en": "Good Fortune",
+  "kind": "ui",
+  "note": "Chuukichi (middle blessing)."
+ },
+ {
+  "en": "Small Fortune",
+  "kind": "ui",
+  "note": "Shoukichi (small blessing)."
+ },
+ {
+  "en": "Late Fortune",
+  "kind": "ui",
+  "note": "Suekichi (blessing to come later)."
+ },
+ {
+  "en": "Reversal",
+  "kind": "ui",
+  "note": "UNCERTAIN: tensatsu = 'turned/flipped slip', not a standard omikuji grade. Read as a result that flips the outcome."
+ },
+ {
+  "en": "Misfortune",
+  "kind": "ui",
+  "note": "Kyou (bad luck)."
+ },
+ {
+  "en": "Great Misfortune",
+  "kind": "ui",
+  "note": "Daikyou."
+ },
+ {
+  "en": "Fatal Misfortune",
+  "kind": "ui",
+  "note": "Daikyou-satsu = great misfortune + kill; presumably the result that kills."
+ },
+ {
+  "en": "Each surviving member gained\n%10llu GP",
+  "kind": "ui",
+  "note": "Two lines kept. Source has no final punctuation."
+ },
+ {
+  "en": "Each surviving member gained\n           GP",
+  "kind": "ui",
+  "note": "The 11 spaces are a slot: the number is drawn there separately. Line 2 keeps the 11 spaces before GP."
+ },
+ {
+  "en": "Each surviving member gained\n           EP\n           GP",
+  "kind": "ui",
+  "note": "Three lines; EP and GP slots kept at the same 11-space indent. EP = experience points."
+ },
+ {
+  "en": "Oops! %s!",
+  "kind": "ui",
+  "note": "Classic Wizardry-style trap message ('Oops!' + trap name)."
+ },
+ {
+  "en": "A Mimic appeared",
+  "kind": "ui",
+  "note": "Source has no final punctuation."
+ },
+ {
+  "en": "took damage",
+  "kind": "ui"
+ },
+ {
+  "en": "All of %s's MP fell by 1",
+  "kind": "ui",
+  "note": "Zen-MP = the MP of every spell level drops by 1."
+ },
+ {
+  "en": "%s's HP is now 9",
+  "kind": "ui",
+  "note": "Editorial: 'HP became 9' was stiff; same 'X ga N ni natta' construction as row 605 'now has AC -20', so matched it. Direction (up/down) still unstated, as in the source."
+ },
+ {
+  "en": "%s aged %s years",
+  "kind": "ui",
+  "note": "The age is passed in as a string (%s)."
+ },
+ {
+  "en": "%s died",
+  "kind": "ui"
+ },
+ {
+  "en": "%s became 1 year younger",
+  "kind": "ui"
+ },
+ {
+  "en": "%s evaded",
+  "kind": "ui"
+ },
+ {
+  "en": "The call for reinforcements failed",
+  "kind": "ui",
+  "note": "Zouen ni shippai = calling reinforcements failed. Written as a full sentence because the neighbouring row 739 is one; it would not work after a name. Editorial: same source shape as row 740 ('X ni shippai shita'); now reports the failed attempt like 740 'The summoning failed' (accuracy report item 5)."
+ },
+ {
+  "en": "The enemy called for help",
+  "kind": "ui"
+ },
+ {
+  "en": "The summoning failed",
+  "kind": "ui",
+  "note": "Full sentence, like 738/739."
+ },
+ {
+  "en": "More monsters were called in",
+  "kind": "ui",
+  "note": "Kouzoku = following / next wave of monsters."
+ },
+ {
+  "en": "Escape succeeded!",
+  "kind": "ui"
+ },
+ {
+  "en": "The escape failed.",
+  "kind": "ui",
+  "note": "Final period kept from the source. Subject left impersonal: monsters may also flee."
+ },
+ {
+  "en": "Judgment has fallen upon the adventurers",
+  "kind": "ui"
+ },
+ {
+  "en": "Bell of Judgment: all die instantly in %d turns",
+  "kind": "ui",
+  "note": "Literally 'Bell of Judgment, %d turns left, everyone dies instantly'."
+ },
+ {
+  "en": "protected %s",
+  "kind": "ui",
+  "note": "Fragment after the protector's name: 'X protected Y'."
+ },
+ {
+  "en": "shielded %s",
+  "kind": "ui",
+  "note": "Rows 747+748 are one sentence split in two (object / verb). English verb order forces the verb into 747; 748 carries 'from harm.' so neither row is empty and the sentence still reads 'X shielded Y / from harm.'"
+ },
+ {
+  "en": "from harm.",
+  "kind": "ui",
+  "note": "Second half of 747. Final period kept from the source."
+ },
+ {
+  "en": "tried to steal",
+  "kind": "ui"
+ },
+ {
+  "en": "stole an item",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it."
+ },
+ {
+  "en": "had an item stolen",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to."
+ },
+ {
+  "en": "Mysterious Bag",
+  "kind": "ui",
+  "note": "Item/feature name. Slice_10 row 753 ('could not carry it, so handed it over') suggests overflow goes into this bag. New term."
+ },
+ {
+  "en": "Couldn't carry it, so passed it on",
+  "kind": "ui",
+  "note": "Follows the steal rows (749-752). Recipient not stated in the source; kept unnamed."
+ },
+ {
+  "en": "There was nothing to steal",
+  "kind": "ui"
+ },
+ {
+  "en": "Can't carry any more items",
+  "kind": "ui"
+ },
+ {
+  "en": "Tried to strip off equipment",
+  "kind": "ui",
+  "note": "Disarm-type action; actor name is shown separately by the game, so these battle fragments start with the verb."
+ },
+ {
+  "en": "Stripped off the equipment",
+  "kind": "ui"
+ },
+ {
+  "en": "Had equipment stripped off",
+  "kind": "ui"
+ },
+ {
+  "en": "There was no equipment to strip",
+  "kind": "ui"
+ },
+ {
+  "en": " was made",
+  "kind": "ui",
+  "note": "Suffix fragment: the game prints the item name before it (cf. row 761 '%s ga dekita'). Leading space added so it does not run into the name. Reading 'was made' assumed from the cooking row 763; if it is a generic 'could do X' suffix this needs a check in-game."
+ },
+ {
+  "en": "%s was made",
+  "kind": "ui",
+  "note": "Assumed crafting/cooking result (row 763 'started cooking'). Editorial: matches suffix row 760 ' was made' (same 'ga dekita' source); 'Made %s' read as if the actor were named."
+ },
+ {
+  "en": "Nothing came of it",
+  "kind": "ui",
+  "note": "Source can mean 'nothing was made' (cooking) or 'could do nothing'; this wording covers both."
+ },
+ {
+  "en": "Started cooking",
+  "kind": "ui"
+ },
+ {
+  "en": "Split into copies",
+  "kind": "ui",
+  "note": "bunshin = clone/double technique."
+ },
+ {
+  "en": "Tried to mimic an action",
+  "kind": "ui"
+ },
+ {
+  "en": "Mimicked the action",
+  "kind": "ui"
+ },
+ {
+  "en": "Rallied the allies",
+  "kind": "ui"
+ },
+ {
+  "en": "Is driven to destroy",
+  "kind": "ui",
+  "note": "Berserk-type state."
+ },
+ {
+  "en": "Fortune Slip",
+  "kind": "ui",
+  "note": "omikuji (paper fortune). Probably a skill/action name; dupes 2. New term."
+ },
+ {
+  "en": "Sacrificed their own life",
+  "kind": "ui",
+  "note": "Gender-neutral 'their'."
+ },
+ {
+  "en": "Miracles don't happen twice",
+  "kind": "ui"
+ },
+ {
+  "en": "Cut down a follower",
+  "kind": "ui",
+  "note": "shitagaishi mono = 'one who served/followed' (archaic). Who the follower belongs to is not stated."
+ },
+ {
+  "en": "Laughed loudly",
+  "kind": "ui"
+ },
+ {
+  "en": "Raised an Absolute Wall",
+  "kind": "ui",
+  "note": "bouheki rendered 'Wall' to keep it distinct from kekkai = 'Barrier' (rows 814-825). New term."
+ },
+ {
+  "en": "A song of healing rings out",
+  "kind": "ui"
+ },
+ {
+  "en": "A song of hope rings out",
+  "kind": "ui"
+ },
+ {
+  "en": "A song of destruction rings out",
+  "kind": "ui"
+ },
+ {
+  "en": "A song of protection rings out",
+  "kind": "ui"
+ },
+ {
+  "en": "Is protected",
+  "kind": "ui"
+ },
+ {
+  "en": "Swallow Slayer",
+  "kind": "ui",
+  "note": "tsubame-goroshi; skill name, dupes 2. Rows 781-789 look like its stages (kick, launch, slam, knock out). New term."
+ },
+ {
+  "en": "Kicked the foe flying",
+  "kind": "ui",
+  "note": "'foe' used because the actor may be party or monster."
+ },
+ {
+  "en": "Knocked the foe skyward",
+  "kind": "ui"
+ },
+ {
+  "en": "Slammed the foe down",
+  "kind": "ui",
+  "note": "Editorial: 'Slammed into the foe' read as the actor crashing into the foe; uchikomu is slamming the foe (after kicking it skyward, 781-782). 'down' added to keep the kick/launch/slam sequence clear; paired with 786/788/789."
+ },
+ {
+  "en": "Was kicked flying",
+  "kind": "ui"
+ },
+ {
+  "en": "Was knocked skyward",
+  "kind": "ui"
+ },
+ {
+  "en": "Was slammed down",
+  "kind": "ui",
+  "note": "Editorial: passive of row 783; 'down' added to match it."
+ },
+ {
+  "en": "Clean hit=%d, Fail=%d",
+  "kind": "ui",
+  "note": "Debug output."
+ },
+ {
+  "en": "Slammed the foe down, out cold",
+  "kind": "ui",
+  "note": "Editorial: 'down' added to match rows 783/786/789."
+ },
+ {
+  "en": "Was slammed down and knocked out",
+  "kind": "ui",
+  "note": "Editorial: 'down' added to match rows 783/786/788."
+ },
+ {
+  "en": "%s prevented the surprise attack",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers' surprise attack succeeded",
+  "kind": "ui",
+  "note": "Glossary: adventurer. Editorial: article added; matches the tarot lines 'The adventurers' ...' (rows 830-879)."
+ },
+ {
+  "en": "%s prevented the surprise attack",
+  "kind": "ui",
+  "note": "Same as row 790 (source differs only in full-width space position)."
+ },
+ {
+  "en": "The enemy's surprise attack succeeded",
+  "kind": "ui",
+  "note": "Editorial: article added; pairs with row 791."
+ },
+ {
+  "en": "  Attacker  %2d:%-20s\n",
+  "kind": "ui",
+  "note": "Debug combat dump (rows 794-805). Labels right-aligned so ' = ' lines up as in the source."
+ },
+ {
+  "en": "                Level = %05d\n",
+  "kind": "ui"
+ },
+ {
+  "en": "             Strength = %2d\n",
+  "kind": "ui",
+  "note": "Stat name from slice_01."
+ },
+ {
+  "en": "          Elem Attack = (Fire%03d,Ice%03d,Elec%03d,Holy%03d,Dark%03d)\n",
+  "kind": "ui",
+  "note": "Elements: Fire, Ice, Elec(tric/thunder), Holy, Dark."
+ },
+ {
+  "en": "          Spec Effect = (Sl%03d,Po%03d,Pa%03d,Si%03d,Cf%03d,Ch%03d,St%03d,Dc%03d,Dr%03d)\n",
+  "kind": "ui",
+  "note": "Status abbreviations (2 letters, so row 805 fits 88 bytes): Sl=Sleep Po=Poison Pa=Paralysis Si=Silence Cf=Confusion Ch=Charm St=Stone Dc=Decapitation Dr=Drain. 'Spec Effect' matches slice_02 'Special Effects'."
+ },
+ {
+  "en": "  Defender  %2d:%-20s\n",
+  "kind": "ui"
+ },
+ {
+  "en": "                  Row = %s\n",
+  "kind": "ui",
+  "note": "Formation row; %s is row 801/802."
+ },
+ {
+  "en": "Front",
+  "kind": "ui",
+  "note": "Front row."
+ },
+ {
+  "en": "Back",
+  "kind": "ui",
+  "note": "Back row."
+ },
+ {
+  "en": "         Spell Resist = (Mag%03d,Pri%03d,Alc%03d,Sum%03d)\n",
+  "kind": "ui",
+  "note": "Spell schools: Mage, Priest, Alchemist, Summoner."
+ },
+ {
+  "en": "         Elem Defense = (Fire%03d,Ice%03d,Elec%03d,Holy%03d,Dark%03d)\n",
+  "kind": "ui"
+ },
+ {
+  "en": "         Spec Resist = (Sl%03d,Po%03d,Pa%03d,Si%03d,Cf%03d,Ch%03d,St%03d,Dc%03d,Dr%03d)\n",
+  "kind": "ui",
+  "note": "max_bytes 88: exactly 88. Source line is also one column shorter than its neighbours; kept."
+ },
+ {
+  "en": "[Chest Setup] Treasure table idx=%d\n",
+  "kind": "ui",
+  "note": "Debug header; the bracket is a section label, not an item-effect tag."
+ },
+ {
+  "en": " Qty=%d, ChestID=%d, Traps=%d, Type=%d:%s, \n",
+  "kind": "ui",
+  "note": "max_bytes 47 (44 used). 'Type' = trap type (follows 'Traps')."
+ },
+ {
+  "en": "%s Seal=%d, Fail=%d",
+  "kind": "ui",
+  "note": "Debug; %s is probably a spell school or action."
+ },
+ {
+  "en": "Weapon",
+  "kind": "ui"
+ },
+ {
+  "en": "Armor",
+  "kind": "ui"
+ },
+ {
+  "en": "%s broke",
+  "kind": "ui",
+  "note": "%s probably Weapon/Armor (rows 809-810) or an item name."
+ },
+ {
+  "en": "%s hid",
+  "kind": "ui"
+ },
+ {
+  "en": "Tried to hide",
+  "kind": "ui"
+ },
+ {
+  "en": "Barrier",
+  "kind": "ui",
+  "note": "kekkai = Barrier throughout this slice. New term."
+ },
+ {
+  "en": "Spell Reflect Barrier",
+  "kind": "ui"
+ },
+ {
+  "en": "Reflect Barrier",
+  "kind": "ui"
+ },
+ {
+  "en": "Spell Nullify Barrier",
+  "kind": "ui"
+ },
+ {
+  "en": "Nullify Barrier",
+  "kind": "ui"
+ },
+ {
+  "en": "Spell Dampen Barrier (%d%%)",
+  "kind": "ui",
+  "note": "Full-width percent made ASCII as '%%' because the string is a printf format (a bare '%)' would be read as a conversion). Verify in-game that it prints a single '%'."
+ },
+ {
+  "en": "Defense Barrier (%d%%)",
+  "kind": "ui",
+  "note": "See row 819 on '%%'."
+ },
+ {
+  "en": "Tried to interfere with magic",
+  "kind": "ui"
+ },
+ {
+  "en": "Was hit by magic interference",
+  "kind": "ui"
+ },
+ {
+  "en": "The barrier vanished!",
+  "kind": "ui"
+ },
+ {
+  "en": "Had the barrier dispelled",
+  "kind": "ui"
+ },
+ {
+  "en": "The barrier holds firm",
+  "kind": "ui"
+ },
+ {
+  "en": "It had no effect",
+  "kind": "ui"
+ },
+ {
+  "en": "No message",
+  "kind": "ui",
+  "note": "Probably a placeholder/debug string."
+ },
+ {
+  "en": "Baldy",
+  "kind": "ui",
+  "note": "hage = 'baldy' (an insult). Looks like a dev placeholder or joke string; placed just before the tarot table, use unknown. Kept at full force."
+ },
+ {
+  "en": "0. The Fool",
+  "kind": "ui",
+  "note": "Tarot card table starts here (cards continue in slice_11: II High Priestess ...). Format 'N. Card name' with ASCII Roman numerals; slice_11 should match."
+ },
+ {
+  "en": "The adventurers fell asleep",
+  "kind": "ui",
+  "note": "Effect of The Fool (follows the card row)."
+ },
+ {
+  "en": "The monsters fell asleep",
+  "kind": "ui"
+ },
+ {
+  "en": "I. The Magician",
+  "kind": "ui",
+  "note": "Tarot card name 'The Magician', not the class name Mage (glossary)."
+ },
+ {
+  "en": "The adventurers' spell power rose",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters' spell power rose",
+  "kind": "ui"
+ },
+ {
+  "en": "II. The High Priestess",
+  "kind": "ui",
+  "note": "Tarot card name; full-width Roman numeral -> ASCII, '[JP]' -> '. '"
+ },
+ {
+  "en": "The adventurers were poisoned",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters were poisoned",
+  "kind": "ui"
+ },
+ {
+  "en": "III. The Empress",
+  "kind": "ui"
+ },
+ {
+  "en": "Physical attacks are forbidden for everyone",
+  "kind": "ui"
+ },
+ {
+  "en": "IV. The Emperor",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers were silenced",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters were silenced",
+  "kind": "ui"
+ },
+ {
+  "en": "V. The Hierophant",
+  "kind": "ui",
+  "note": "Kyoukou = Pope; standard English tarot name 'The Hierophant' used"
+ },
+ {
+  "en": "Special actions are forbidden for everyone",
+  "kind": "ui"
+ },
+ {
+  "en": "VI. The Lovers",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers were charmed",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters were charmed",
+  "kind": "ui"
+ },
+ {
+  "en": "VII. The Chariot",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers' evasion rose",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters' evasion rose",
+  "kind": "ui"
+ },
+ {
+  "en": "VIII. Justice",
+  "kind": "ui",
+  "note": "Marseille order (VIII Justice, XI Strength) kept as in source"
+ },
+ {
+  "en": "Those of Good alignment were blessed",
+  "kind": "ui",
+  "note": "kairitsu = alignment; glossary Good"
+ },
+ {
+  "en": "IX. The Hermit",
+  "kind": "ui"
+ },
+ {
+  "en": "Passive fighting has been forbidden",
+  "kind": "ui"
+ },
+ {
+  "en": "X. Wheel of Fortune",
+  "kind": "ui"
+ },
+ {
+  "en": "Everyone's turn order was thrown into chaos",
+  "kind": "ui"
+ },
+ {
+  "en": "XI. Strength",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers' attack power rose",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters' attack power rose",
+  "kind": "ui"
+ },
+ {
+  "en": "XII. The Hanged Man",
+  "kind": "ui"
+ },
+ {
+  "en": "Everyone's luck dropped",
+  "kind": "ui"
+ },
+ {
+  "en": "XIII. Death",
+  "kind": "ui"
+ },
+ {
+  "en": "Was carried off to the world of the dead",
+  "kind": "ui",
+  "note": "Source has no subject and no placeholder (victim presumably shown by the battle log); omission kept"
+ },
+ {
+  "en": "XIV. Temperance",
+  "kind": "ui"
+ },
+ {
+  "en": "Those of Neutral alignment were blessed",
+  "kind": "ui"
+ },
+ {
+  "en": "XV. The Devil",
+  "kind": "ui"
+ },
+ {
+  "en": "Those of Evil alignment were blessed",
+  "kind": "ui"
+ },
+ {
+  "en": "XVI. The Tower",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers were confused",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters were confused",
+  "kind": "ui"
+ },
+ {
+  "en": "XVII. The Star",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers' accuracy rose",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters' accuracy rose",
+  "kind": "ui"
+ },
+ {
+  "en": "XVIII. The Moon",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers ran away",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters ran away",
+  "kind": "ui"
+ },
+ {
+  "en": "XIX. The Sun",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers recovered",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters recovered",
+  "kind": "ui"
+ },
+ {
+  "en": "XX. Judgement",
+  "kind": "ui"
+ },
+ {
+  "en": "Await the hour of judgment",
+  "kind": "ui"
+ },
+ {
+  "en": "XXI. The World",
+  "kind": "ui"
+ },
+ {
+  "en": "Everyone's defensive resistances vanished",
+  "kind": "ui"
+ },
+ {
+  "en": "Success=%d, Check=%d",
+  "kind": "ui",
+  "note": "debug-style roll output; hanteichi = check/threshold value"
+ },
+ {
+  "en": "A tarot card was drawn",
+  "kind": "ui",
+  "note": "No subject in source (drawer shown elsewhere); passive used, omission kept"
+ },
+ {
+  "en": "Draw failed",
+  "kind": "ui"
+ },
+ {
+  "en": "Draw succeeded",
+  "kind": "ui"
+ },
+ {
+  "en": "Death pointed its finger",
+  "kind": "ui",
+  "note": "Shinigami = Death (the reaper), matches card XIII"
+ },
+ {
+  "en": "Target Lv=%d",
+  "kind": "ui",
+  "note": "debug-style output"
+ },
+ {
+  "en": "Death's will was repelled",
+  "kind": "ui"
+ },
+ {
+  "en": "All-Out Attack can't be used",
+  "kind": "ui",
+  "note": "New term: soukougeki = All-Out Attack"
+ },
+ {
+  "en": "Command Repeat can't be used",
+  "kind": "ui",
+  "note": "New term: Command Repeat (katakana komando ripiito)"
+ },
+ {
+  "en": "Square: All-Out Attack / R: Command Repeat / L: Back to Normal Mode",
+  "kind": "ui"
+ },
+ {
+  "en": "Characters attack in the order commands were entered. L: Back to Normal Mode",
+  "kind": "ui"
+ },
+ {
+  "en": "%s\nhas been lost.",
+  "kind": "ui",
+  "note": "'lost' = permanent character loss, as in slice_01/04"
+ },
+ {
+  "en": "Took up a counterattack stance",
+  "kind": "ui",
+  "note": "No subject in source; actor shown by battle log (pairs with row 897). Omission kept"
+ },
+ {
+  "en": "The opponent took up a counterattack stance",
+  "kind": "ui"
+ },
+ {
+  "en": "%s drew a fortune slip",
+  "kind": "ui",
+  "note": "omikuji = fortune slip"
+ },
+ {
+  "en": "A fortune slip was drawn",
+  "kind": "ui",
+  "note": "Subjectless variant of row 898; passive used, omission kept"
+ },
+ {
+  "en": "%s %s",
+  "kind": "ui"
+ },
+ {
+  "en": "A treasure chest!",
+  "kind": "ui"
+ },
+ {
+  "en": "Treasure unearthed!",
+  "kind": "ui",
+  "note": "Subject (the party) omitted in source; exclamation kept subjectless"
+ },
+ {
+  "en": "Everyone escaped successfully!",
+  "kind": "ui"
+ },
+ {
+  "en": "Everyone failed to escape.",
+  "kind": "ui"
+ },
+ {
+  "en": "It was resisted",
+  "kind": "ui",
+  "note": "passive: target resisted the actor's effect"
+ },
+ {
+  "en": "Resisted it",
+  "kind": "ui",
+  "note": "active: the target (shown by log) resisted; omission kept"
+ },
+ {
+  "en": "Status ailments were cured",
+  "kind": "ui"
+ },
+ {
+  "en": "Everyone's stats returned to normal",
+  "kind": "ui"
+ },
+ {
+  "en": "A divine miracle rained down",
+  "kind": "ui"
+ },
+ {
+  "en": "Withdrew from battle",
+  "kind": "ui",
+  "note": "tesshuu = withdraw/pull out; no subject in source, likely a summon/ally leaving; omission kept"
+ },
+ {
+  "en": "A mirror image appeared",
+  "kind": "ui",
+  "note": "utsushimi = copy/double of a body; rendered 'mirror image'"
+ },
+ {
+  "en": "The item was repaired",
+  "kind": "ui"
+ },
+ {
+  "en": "Rand(0,%d)=%d",
+  "kind": "ui",
+  "note": "Debug readout (random roll)."
+ },
+ {
+  "en": "Withstood the pull",
+  "kind": "ui",
+  "note": "Battle-log line; the affected character/monster is named on a separate line at runtime, so no subject (same as slice_11 rows 905-906). Pull = an effect that drags a target in."
+ },
+ {
+  "en": "The ranks were swapped",
+  "kind": "ui",
+  "note": "Tairetsu = party formation/ranks."
+ },
+ {
+  "en": "HP was halved",
+  "kind": "ui",
+  "note": "Tairyoku = HP."
+ },
+ {
+  "en": "The wish was granted",
+  "kind": "ui",
+  "note": "Likely the alchemy wish spell (SPELL_TEXT 77)."
+ },
+ {
+  "en": "Sent it back to its own world",
+  "kind": "ui",
+  "note": "Banishing a summoned/otherworldly being; subject (caster) left to the log's name line. Editorial: source is active (soukan shita, the actor banished it); 'Sent back to its own world' read as passive (the actor was sent back). Object 'it' added."
+ },
+ {
+  "en": "Attempted a contract",
+  "kind": "ui",
+  "note": "Summoner/Spirit Contract flow, rows 919-925."
+ },
+ {
+  "en": "Success=%d, Resist=%d",
+  "kind": "ui",
+  "note": "Debug readout."
+ },
+ {
+  "en": "Cannot form a contract",
+  "kind": "ui"
+ },
+ {
+  "en": "Contract failed",
+  "kind": "ui"
+ },
+ {
+  "en": "Contract succeeded",
+  "kind": "ui"
+ },
+ {
+  "en": "A monster appeared",
+  "kind": "ui"
+ },
+ {
+  "en": "No contract has been made",
+  "kind": "ui",
+  "note": "e.g. trying to summon with no contracted monster."
+ },
+ {
+  "en": "Absorbed magic power",
+  "kind": "ui"
+ },
+ {
+  "en": "Negated the resistance",
+  "kind": "ui"
+ },
+ {
+  "en": "Spirit Contract",
+  "kind": "ui",
+  "note": "NEW TERM: skill name (JOB_EX 63)."
+ },
+ {
+  "en": "Was swallowed by a fissure",
+  "kind": "ui",
+  "note": "Editorial: passive lines in this block start with 'Was' (784-786, 789, 822, 863); added for consistency."
+ },
+ {
+  "en": "Compel=%d, Resist=%d",
+  "kind": "ui",
+  "note": "Debug readout; kyouseiryoku = compelling force."
+ },
+ {
+  "en": "The power of life overflows",
+  "kind": "ui"
+ },
+ {
+  "en": "Attack",
+  "kind": "ui",
+  "note": "Battle command menu 932-939."
+ },
+ {
+  "en": "Spell",
+  "kind": "ui"
+ },
+ {
+  "en": "Special",
+  "kind": "ui",
+  "note": "Special actions/skills (cf. row 954)."
+ },
+ {
+  "en": "Item",
+  "kind": "ui"
+ },
+ {
+  "en": "Equip",
+  "kind": "ui"
+ },
+ {
+  "en": "Guard",
+  "kind": "ui",
+  "note": "mamoru = guard/protect an ally (row 971 picks who)."
+ },
+ {
+  "en": "Run",
+  "kind": "ui"
+ },
+ {
+  "en": "Ambush",
+  "kind": "ui",
+  "note": "kishuu = surprise attack (offered when the party surprises monsters, assumed)."
+ },
+ {
+  "en": "Inspect",
+  "kind": "ui",
+  "note": "Treasure chest menu 940-945."
+ },
+ {
+  "en": "Disarm Trap",
+  "kind": "ui"
+ },
+ {
+  "en": "Portal",
+  "kind": "ui",
+  "note": "NEW TERM: alchemy spell that identifies chest traps (SPELL_TEXT 58)."
+ },
+ {
+  "en": "High Portal",
+  "kind": "ui",
+  "note": "NEW TERM. Source reads haipooturu ('High'); the SPELL csv spell that disarms chest traps is baipooturu (SPELL_TEXT 76). Keep in sync with the spell-name translation; may need 'Bi-Portol' if the label should match."
+ },
+ {
+  "en": "Open",
+  "kind": "ui"
+ },
+ {
+  "en": "Leave",
+  "kind": "ui"
+ },
+ {
+  "en": "%s can't be used",
+  "kind": "ui",
+  "note": "%s = command/ability name (assumed)."
+ },
+ {
+  "en": "Not enough skill points",
+  "kind": "ui"
+ },
+ {
+  "en": "There are no corpses",
+  "kind": "ui",
+  "note": "For Corpse Throw (row 979)."
+ },
+ {
+  "en": "The Empress tarot prevents physical attacks.",
+  "kind": "ui",
+  "note": "NEW TERM: Empress (tarot III; TAROT_TEXT 7 forbids physical attacks)."
+ },
+ {
+  "en": "There is no weapon to attack with",
+  "kind": "ui"
+ },
+ {
+  "en": "Spells cannot be used on this floor.",
+  "kind": "ui"
+ },
+ {
+  "en": "Spells cannot be used",
+  "kind": "ui"
+ },
+ {
+  "en": "Spells cannot be used due to \"Silence\"",
+  "kind": "ui",
+  "note": "Status name Silence; source ASCII quotes kept."
+ },
+ {
+  "en": "The Hierophant tarot prevents special actions.",
+  "kind": "ui",
+  "note": "NEW TERM: Hierophant (tarot V, kyoukou; TAROT_TEXT 9 forbids skill actions). Standard English card name used instead of 'Pope'."
+ },
+ {
+  "en": "There are no items.",
+  "kind": "ui"
+ },
+ {
+  "en": "Running away is forbidden in this battle.",
+  "kind": "ui"
+ },
+ {
+  "en": "Dispel cannot be used",
+  "kind": "ui",
+  "note": "Dispel = class ability (JOB_EX 12), as in wmap slice_08."
+ },
+ {
+  "en": "The enemy is out of sight",
+  "kind": "ui",
+  "note": "Lit. '(the actor) has lost sight of the enemy'; impersonal since the actor is not settled."
+ },
+ {
+  "en": "Cannot be used during this battle",
+  "kind": "ui"
+ },
+ {
+  "en": "Steal cannot be used",
+  "kind": "ui",
+  "note": "NEW TERM: Steal (JOB_EX 46)."
+ },
+ {
+  "en": "Strip Gear cannot be used",
+  "kind": "ui",
+  "note": "NEW TERM: Strip Gear = soubi kaijo, ability that removes a target's equipment (JOB_EX 45). Not 'Disarm', which is the chest-trap command (row 941)."
+ },
+ {
+  "en": "Breath can't be used due to racial restrictions.",
+  "kind": "ui",
+  "note": "NEW TERM: Breath (ability)."
+ },
+ {
+  "en": "Breath cannot be used",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a command. Square: All-Out Attack, R: Command Repeat, L: Normal Mode ",
+  "kind": "ui",
+  "note": "Shown in action-order mode. Trailing full-width space -> one ASCII space. Terms as slice_11 rows 891-894: All-Out Attack, Command Repeat, Normal Mode."
+ },
+ {
+  "en": "Choose a command. Square: All-Out Attack, R: Command Repeat, L: Action Order ",
+  "kind": "ui",
+  "note": "Shown in normal mode; L switches to the action-order mode (koudoujun shitei, slice_13 row 1032). NEW TERM: Action Order."
+ },
+ {
+  "en": "Choose a target to attack",
+  "kind": "ui",
+  "note": "Prompts 966-985: source has no final period, so none added."
+ },
+ {
+  "en": "Choose a spell type",
+  "kind": "ui",
+  "note": "Spell school (Mage/Priest/Alchemy/Summon)."
+ },
+ {
+  "en": "Choose a spell target",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a skill",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose an equipment slot to change",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose who to guard",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a target to steal from",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a target for Strip Gear",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a tarot card",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a Breath target",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a First Strike target",
+  "kind": "ui",
+  "note": "NEW TERM: Quick Strike = sokkou (JOB_EX 22)."
+ },
+ {
+  "en": "Choose a Drain target",
+  "kind": "ui",
+  "note": "NEW TERM: Drain (JOB_EX 94)."
+ },
+ {
+  "en": "Choose a Malediction target",
+  "kind": "ui",
+  "note": "NEW TERM: Hex = jugon, spoken curse (JOB_EX 67)."
+ },
+ {
+  "en": "Choose a Corpse Throw target",
+  "kind": "ui",
+  "note": "NEW TERM: Corpse Throw = shitai nage (JOB_EX 75)."
+ },
+ {
+  "en": "Choose a Mimicry target",
+  "kind": "ui",
+  "note": "NEW TERM: Mimic = monomane (JOB_EX 79)."
+ },
+ {
+  "en": "Choose a Ki Blast target",
+  "kind": "ui",
+  "note": "NEW TERM: Ki Blast = kikouha (JOB_EX 83; source define ENERGY_LAY)."
+ },
+ {
+  "en": "Choose a Haughty Laugh target",
+  "kind": "ui",
+  "note": "NEW TERM: Cackle = takawarai, haughty laugh (JOB_EX 85)."
+ },
+ {
+  "en": "Choose a target for the item",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a piece of equipment",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a command",
+  "kind": "ui"
+ },
+ {
+  "en": "Who will inspect the trap?",
+  "kind": "ui",
+  "note": "Treasure chest prompts 986-990."
+ },
+ {
+  "en": "Who will cast %s?",
+  "kind": "ui",
+  "note": "%s = spell name (Portol etc.)."
+ },
+ {
+  "en": "Who will disarm the trap?",
+  "kind": "ui"
+ },
+ {
+  "en": "Who will open the chest?",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a trap",
+  "kind": "ui",
+  "note": "Naming the trap before disarming (Wizardry style)."
+ },
+ {
+  "en": "Mg",
+  "kind": "ui",
+  "note": "Spell-school abbreviation (Mage), one kanji = 2 columns; set continues in slice_13 rows 993-994 (suggest 'Al' Alchemy, 'Su' Summon)."
+ },
+ {
+  "en": "Pr",
+  "kind": "ui",
+  "note": "Spell-school abbreviation (Priest), 2 columns."
+ },
+ {
+  "en": "Al",
+  "kind": "ui",
+  "note": "Spell-school abbreviation (Alchemy), one kanji = 2 columns; matches slice_12 rows 991-992 (Mg, Pr)."
+ },
+ {
+  "en": "Su",
+  "kind": "ui",
+  "note": "Spell-school abbreviation (Summon), 2 columns; see row 993."
+ },
+ {
+  "en": "  The current contract will be cancelled.\n",
+  "kind": "ui",
+  "note": "Summoner contract (slice_07/12 'contract'). Leading 2 spaces and trailing line break kept."
+ },
+ {
+  "en": "Cannot summon",
+  "kind": "ui"
+ },
+ {
+  "en": "  Cannot summon\n",
+  "kind": "ui",
+  "note": "Indented log variant of row 996; layout kept."
+ },
+ {
+  "en": "Nothing has been summoned",
+  "kind": "ui",
+  "note": "Lit. '(you) have not summoned'; impersonal, actor not settled."
+ },
+ {
+  "en": "  Nothing has been summoned\n",
+  "kind": "ui",
+  "note": "Indented log variant of row 998."
+ },
+ {
+  "en": "The spell's target is hidden",
+  "kind": "ui"
+ },
+ {
+  "en": "There is no target for the spell",
+  "kind": "ui"
+ },
+ {
+  "en": "The equipment was removed",
+  "kind": "ui",
+  "note": "Removing your own gear (not Strip Gear, slice_12 row 961)."
+ },
+ {
+  "en": "The equipment can't be removed",
+  "kind": "ui",
+  "note": "e.g. cursed gear."
+ },
+ {
+  "en": "Cursed!",
+  "kind": "ui",
+  "note": "Lit. '(someone) was cursed'; no name insert, so kept subjectless. Source has no exclamation; added for the RPG-style alert."
+ },
+ {
+  "en": "Cannot be equipped",
+  "kind": "ui"
+ },
+ {
+  "en": "Cannot be used in this battle",
+  "kind": "ui",
+  "note": "Same idea as slice_12 row 959."
+ },
+ {
+  "en": "There are no items.\n",
+  "kind": "ui",
+  "note": "Same wording as slice_12 row 955; trailing line break kept."
+ },
+ {
+  "en": "Enemy front row",
+  "kind": "ui",
+  "note": "Spell/item target ranges 1008-1016."
+ },
+ {
+  "en": "All enemies",
+  "kind": "ui"
+ },
+ {
+  "en": "Cannot be cast right now",
+  "kind": "ui"
+ },
+ {
+  "en": "Enemy back row",
+  "kind": "ui"
+ },
+ {
+  "en": "Ally front row",
+  "kind": "ui"
+ },
+ {
+  "en": "Ally back row",
+  "kind": "ui"
+ },
+ {
+  "en": "Everyone",
+  "kind": "ui",
+  "note": "teki-mikata zentai = all enemies and allies."
+ },
+ {
+  "en": "All allies",
+  "kind": "ui"
+ },
+ {
+  "en": "Ally front/back row",
+  "kind": "ui",
+  "note": "mikata zengoei: assumed one ally row, front or back (distinct from 'All allies'). Unverified."
+ },
+ {
+  "en": "Cannot be used",
+  "kind": "ui"
+ },
+ {
+  "en": "Breath",
+  "kind": "ui",
+  "note": "Ability name as slice_12 rows 962/975. Copied with a 16-byte strncpy (code 0x08904254), so keep it under 16 bytes."
+ },
+ {
+  "en": "None",
+  "kind": "ui",
+  "note": "Head of the one-kanji status-abbreviation table (eb@0896fb90; slice_07 rows 556-566 Slp Psn ... Fear). Mu = no ailment. 4 chars, like Dead/Fear."
+ },
+ {
+  "en": "Par",
+  "kind": "ui",
+  "note": "Status abbreviation (paralysis), slice_07 set."
+ },
+ {
+  "en": "Cnf",
+  "kind": "ui",
+  "note": "Status abbreviation (confusion), slice_07 set."
+ },
+ {
+  "en": "OK",
+  "kind": "ui",
+  "note": "kenkou = healthy (no ailment). Wizardry-style 'OK'. Also heads the full status-name table (eb@08972c34, rows 1178+); 'Healthy' is the alternative if that table uses long forms."
+ },
+ {
+  "en": "%d:%d:Error",
+  "kind": "ui",
+  "note": "Debug; source writes 'error' in hiragana."
+ },
+ {
+  "en": "On",
+  "kind": "ui",
+  "note": "yuukou; toggle pair with row 1025 (same code at 0x088ec39c/3a0). Alt: Enabled."
+ },
+ {
+  "en": "Off",
+  "kind": "ui",
+  "note": "muukou; 4 uses. Alt: Disabled / Invalid."
+ },
+ {
+  "en": "O",
+  "kind": "ui",
+  "note": "Ideographic circle mark -> 'O', as slice_03 row 161."
+ },
+ {
+  "en": "  Now",
+  "kind": "ui",
+  "note": "Leading full-width space -> 2 ASCII spaces. Pair with row 1028 (current vs after change). 'Current' would be 9 columns vs 6."
+ },
+ {
+  "en": "After",
+  "kind": "ui",
+  "note": "henkougo = after the change. Pair with row 1027."
+ },
+ {
+  "en": "Adventurers' actions",
+  "kind": "ui",
+  "note": "Action Order screen (slice_12 term). Glossary: adventurer."
+ },
+ {
+  "en": "Monsters' actions",
+  "kind": "ui"
+ },
+ {
+  "en": "%s's actions",
+  "kind": "ui",
+  "note": "%s = actor name (assumed)."
+ },
+ {
+  "en": "Action Order",
+  "kind": "ui",
+  "note": "koudoujun shitei; same term as slice_12 row 965 ('L: Action Order')."
+ },
+ {
+  "en": "1: %s",
+  "kind": "ui",
+  "note": "Full-width digit and colon -> ASCII. 4 uses."
+ },
+ {
+  "en": "?Asleep",
+  "kind": "ui",
+  "note": "Leading '?' KEPT on purpose: the row starts at odd address eb@08971183; that 0x3F byte is the last byte of the float 1.0 before it. The code reads the real string from 0x08971184. Writing '?Asleep' in place keeps the float intact. 7/11 bytes."
+ },
+ {
+  "en": "Silenced",
+  "kind": "ui",
+  "note": "Status descriptions 1036-1042 (te iru = is in that state); adjectives so they read as a list or after a name."
+ },
+ {
+  "en": "Charmed",
+  "kind": "ui"
+ },
+ {
+  "en": "Confused",
+  "kind": "ui"
+ },
+ {
+  "en": "Paralyzed",
+  "kind": "ui"
+ },
+ {
+  "en": "Petrified",
+  "kind": "ui"
+ },
+ {
+  "en": "Cursed",
+  "kind": "ui"
+ },
+ {
+  "en": "Light",
+  "kind": "ui",
+  "note": "Party buff labels 1043-1047 (pointer table eb@08971218). shoumei = light spell effect."
+ },
+ {
+  "en": "Protect",
+  "kind": "ui",
+  "note": "hogo = protection (AC buff, assumed)."
+ },
+ {
+  "en": "Float",
+  "kind": "ui",
+  "note": "fuyuu = levitation."
+ },
+ {
+  "en": "Bless",
+  "kind": "ui",
+  "note": "shukufuku = blessing."
+ },
+ {
+  "en": "Inf Range",
+  "kind": "ui",
+  "note": "shatei mugen = infinite-range attribute (SPELL_TEXT 67 grants it). Infinity -> 'Inf' as slice_03 row 164."
+ },
+ {
+  "en": "A",
+  "kind": "ui",
+  "note": "Adventurer-side marker in Action Order (code 0x088f5d88). Pairs with row 1049 (mo, monster side), which is in no slice: it should become 'M'."
+ },
+ {
+  "en": "A/M",
+  "kind": "ui",
+  "note": "Both sides (adventurer + monster markers combined). No code ref found; 4-byte in-place slot, 3 bytes used."
+ },
+ {
+  "en": "Promotion",
+  "kind": "ui",
+  "note": "Battle-log line: ROUTINE.CSV 28 says the Pawn monster turns into Opinion Bit Q from turn 3 and the log shows this word (chess pawn promotion)."
+ },
+ {
+  "en": "%s's level\ndropped by %d.",
+  "kind": "ui",
+  "note": "Placeholder order kept; one line break as source."
+ },
+ {
+  "en": "Inspection spells can't be used",
+  "kind": "ui",
+  "note": "chousa jumon = the trap-inspection spell (Portol, slice_12 row 942). Impersonal: the reason (no caster/MP) is not stated."
+ },
+ {
+  "en": "Unlocking spells can't be used",
+  "kind": "ui",
+  "note": "kaijou jumon = the disarm/unlock spell (High Portol, slice_12 row 943)."
+ },
+ {
+  "en": "You walked away.",
+  "kind": "ui",
+  "note": "Chest menu 'Leave' result (slice_12 row 945). Subject = the party ('you', as slice_03 row 207)."
+ },
+ {
+  "en": "%s failed to disarm the trap",
+  "kind": "ui"
+ },
+ {
+  "en": "There was no trap",
+  "kind": "ui",
+  "note": "After disarm attempt: the chest had no trap."
+ },
+ {
+  "en": "There seems to be no trap",
+  "kind": "ui",
+  "note": "Inspection result (uncertain reading)."
+ },
+ {
+  "en": "Couldn't identify it.",
+  "kind": "ui",
+  "note": "Final period kept from source."
+ },
+ {
+  "en": "ID failed",
+  "kind": "ui",
+  "note": "shikibetsu shippai; short label, 2 uses."
+ },
+ {
+  "en": "Unidentified",
+  "kind": "ui",
+  "note": "mi-shikibetsu, 2 uses."
+ },
+ {
+  "en": "---",
+  "kind": "ui",
+  "note": "Full-width dashes -> ASCII, same count. 2 uses (one in the element list after Holy/Dark)."
+ },
+ {
+  "en": "The chest opened.",
+  "kind": "ui"
+ },
+ {
+  "en": "Obtained \"%s\"",
+  "kind": "ui",
+  "note": "Quote brackets -> double quotes."
+ },
+ {
+  "en": "\"%s\" was sent to the Alchemy Storage by the Mysterious Bag",
+  "kind": "ui",
+  "note": "Alchemy Storage (wmap slice_06), Mysterious Bag (slice_09 row 752)."
+ },
+ {
+  "en": "There was an item inside, but you couldn't carry it",
+  "kind": "ui",
+  "note": "mochikirenakatta = could not carry any more (inventory full)."
+ },
+ {
+  "en": "Warning: item data #%d is duplicated\n",
+  "kind": "ui",
+  "note": "Debug log."
+ },
+ {
+  "en": "AC=%3d, Slay=(Mg%d,Ud%d,Sp%d,In%d,An%d,My%d,Gh%d,Dm%d,Dr%d,Fi%d,Ma%d,Pr%d,Th%d,Bs%d,Gi%d,Gd%d),Status=%d,ShopPos=%d\n",
+  "kind": "ui",
+  "note": "Debug printf (item table dump), in-place tail of 'item[%3d] = %-20s,<tab>' (row starts after the tab). Slay = baida (slice_02 'Slaying'). Creature types: magic creature, undead, spirit, insect, animal, mythical beast, ghost, demon, dragon, fighter, mage, priest, thief, beastman, giant, divine shadow."
+ },
+ {
+  "en": "spell_table[%3d] = %-20s,level=%d, dmg=%3d~%3d,%s,stat_op_type=%d\n",
+  "kind": "ui",
+  "note": "Debug printf. Full-width wave dash -> '~'. status-manipulation type -> stat_op_type."
+ },
+ {
+  "en": "Tgt=%d, Evade=%d\n",
+  "kind": "ui",
+  "note": "Debug printf tail of trap.csv dump ('%-20s,<tab>' precedes it in place). 17/19 bytes."
+ },
+ {
+  "en": "World Map",
+  "kind": "ui"
+ },
+ {
+  "en": "Unused",
+  "kind": "ui",
+  "note": "Placeholder entry 0 of the item-effect table (rows 1075-1130 follow). Literal developer label."
+ },
+ {
+  "en": "[Wpn] Damage Bonus",
+  "kind": "ui",
+  "note": "Adds to damage value."
+ },
+ {
+  "en": "[Arm] Lower AC",
+  "kind": "ui",
+  "note": "AC goes down (lower AC is better, Wizardry-style)."
+ },
+ {
+  "en": "[All] Regen per Turn",
+  "kind": "ui",
+  "note": "Recovery every turn; source does not say HP, so not added."
+ },
+ {
+  "en": "[All] Resist Mage Spells ",
+  "kind": "ui",
+  "note": "Spell schools as in slice_10 debug labels (Mage/Priest/Alchemist). Source has 1 trailing space; kept."
+ },
+ {
+  "en": "[All] Resist Priest Spells",
+  "kind": "ui"
+ },
+ {
+  "en": "[All] Resist Alchemist Spells",
+  "kind": "ui",
+  "note": "Source: renkinjutsu (alchemy) spells; 'Alchemist' parallels Mage/Priest schools."
+ },
+ {
+  "en": "[Wpn] Inflict Sleep         ",
+  "kind": "ui",
+  "note": "tokushu hatsudo (special effect on hit) = 'Inflict X'. Statuses match slice_10 rows 798/805. Trailing space padding: source pads this block to a common width; English padded the same way (block max length + 1)."
+ },
+ {
+  "en": "[Wpn] Inflict Poison        ",
+  "kind": "ui",
+  "note": "Source is moudoku (deadly poison), the game's poison status; slice_10 uses Poison."
+ },
+ {
+  "en": "[Wpn] Inflict Paralysis     ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Inflict Silence       ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Inflict Confusion     ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Inflict Charm         ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Inflict Petrification ",
+  "kind": "ui",
+  "note": "Stone status; slice_10 abbreviates St=Stone."
+ },
+ {
+  "en": "[Wpn] Inflict Decapitation  ",
+  "kind": "ui",
+  "note": "kubikiri = instant-kill decapitation (Wizardry critical hit)."
+ },
+ {
+  "en": "[Arm] Resist Sleep          ",
+  "kind": "ui",
+  "note": "tokushu teikou = special (status) resistance."
+ },
+ {
+  "en": "[Arm] Resist Poison         ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Arm] Resist Paralysis      ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Arm] Resist Silence        ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Arm] Resist Confusion      ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Arm] Resist Charm          ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Arm] Resist Petrification  ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Arm] Resist Decapitation   ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Arm] Resist Drain",
+  "kind": "ui",
+  "note": "Level drain."
+ },
+ {
+  "en": "[All] Fire Attack       ",
+  "kind": "ui",
+  "note": "zokusei kougeki = elemental attack. Trailing space padding: source pads this block to a common width; English padded the same way (block max length + 1)."
+ },
+ {
+  "en": "[All] Ice Attack        ",
+  "kind": "ui"
+ },
+ {
+  "en": "[All] Lightning Attack  ",
+  "kind": "ui",
+  "note": "kaminari; slice_10 debug abbreviates it 'Elec'. 'Lightning' used for player-facing text."
+ },
+ {
+  "en": "[All] Holy Attack       ",
+  "kind": "ui"
+ },
+ {
+  "en": "[All] Dark Attack       ",
+  "kind": "ui"
+ },
+ {
+  "en": "[All] Fire Defense      ",
+  "kind": "ui",
+  "note": "zokusei bougyo = elemental defense; kept 'Defense' to keep it distinct from 'Resist' (teikou)."
+ },
+ {
+  "en": "[All] Ice Defense       ",
+  "kind": "ui"
+ },
+ {
+  "en": "[All] Lightning Defense ",
+  "kind": "ui"
+ },
+ {
+  "en": "[All] Holy Defense      ",
+  "kind": "ui"
+ },
+ {
+  "en": "[All] Dark Defense      ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] No Main/Sub Limit",
+  "kind": "ui",
+  "note": "Lifts the main-hand/sub-hand weapon restriction (cf. slice_01 row 74)."
+ },
+ {
+  "en": "[Wpn] No Range Limit          ",
+  "kind": "ui",
+  "note": "Weapon range restriction lifted (can hit from any row). Trailing space padding: source pads this block to a common width; English padded the same way (block max length + 1)."
+ },
+ {
+  "en": "[All] Curse Lifted            ",
+  "kind": "ui",
+  "note": "noroi kaijo = curse removal."
+ },
+ {
+  "en": "[Wpn] Slay Magical Creatures  ",
+  "kind": "ui",
+  "note": "baida fuka = adds double damage vs a creature type; 'Slay' matches slice_02 row 149 'Slaying'."
+ },
+ {
+  "en": "[Wpn] Slay Undead             ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Slay Spirits            ",
+  "kind": "ui",
+  "note": "seirei; corpus uses 'spirit'."
+ },
+ {
+  "en": "[Wpn] Slay Insects            ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Slay Animals            ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Slay Mythical Beasts    ",
+  "kind": "ui",
+  "note": "genjuu; corpus uses 'mythical beast'."
+ },
+ {
+  "en": "[Wpn] Slay Ghosts             ",
+  "kind": "ui",
+  "note": "rei (ghost/spirit); 'Ghosts' to keep it distinct from seirei 'Spirits' (row 1113)."
+ },
+ {
+  "en": "[Wpn] Slay Demons             ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Slay Dragons            ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Slay Fighters           ",
+  "kind": "ui",
+  "note": "Class name as in chap row 995."
+ },
+ {
+  "en": "[Wpn] Slay Mages              ",
+  "kind": "ui",
+  "note": "Glossary: Mage."
+ },
+ {
+  "en": "[Wpn] Slay Priests            ",
+  "kind": "ui",
+  "note": "Glossary: Priest."
+ },
+ {
+  "en": "[Wpn] Slay Thieves            ",
+  "kind": "ui",
+  "note": "Class name as in chap row 197."
+ },
+ {
+  "en": "[Wpn] Slay Beastfolk          ",
+  "kind": "ui",
+  "note": "juujin (beast-people); new term, gender-neutral 'Beastfolk'."
+ },
+ {
+  "en": "[Wpn] Slay Giants             ",
+  "kind": "ui"
+ },
+ {
+  "en": "[Wpn] Slay Divine Shadows     ",
+  "kind": "ui",
+  "note": "shin'ei = 'Divine Shadow' as in chap/wmap."
+ },
+ {
+  "en": "[All] Status Recovery Rate Up ",
+  "kind": "ui",
+  "note": "Higher chance to recover from status ailments."
+ },
+ {
+  "en": "[All] No Alignment Limit      ",
+  "kind": "ui",
+  "note": "seikaku = alignment here (slice_01 row 58); equip restriction lifted."
+ },
+ {
+  "en": "[All] No Gender Limit (M/F/?) ",
+  "kind": "ui",
+  "note": "Source starts with male/female symbols and a full-width '?'; non-ASCII symbols rendered as (M/F/?) to keep the detail."
+ },
+ {
+  "en": "[All] No Race Limit           ",
+  "kind": "ui",
+  "note": "Equip race restriction lifted."
+ },
+ {
+  "en": "Algrantz",
+  "kind": "ui",
+  "note": "Glossary. Rows 1131-1151: area-name list (follows 'World Map', row 1073)."
+ },
+ {
+  "en": "Konnu Plains Ruins",
+  "kind": "ui",
+  "note": "Corpus spelling (chap/wmap)."
+ },
+ {
+  "en": "Blue Cave",
+  "kind": "ui",
+  "note": "Corpus spelling."
+ }
+]

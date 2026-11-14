@@ -1,0 +1,364 @@
+[
+ {
+  "en": "Kodachi",
+  "kind": "name",
+  "note": "Short katana (desc: longer than a dagger, shorter than a katana)."
+ },
+ {
+  "en": "Hundred Bamboo Edge",
+  "kind": "name",
+  "note": "Desc: a blade said to cut a hundred bamboo leaves in one swing. 'Blue/green' dropped for fit."
+ },
+ {
+  "en": "Kogarasumaru",
+  "kind": "name",
+  "note": "Real famous sword; romanized."
+ },
+ {
+  "en": "Dancing Blade",
+  "kind": "name",
+  "note": "Sacred blade used in dance offerings to the gods."
+ },
+ {
+  "en": "Karasu Tengu",
+  "kind": "name",
+  "note": "Crow tengu, the mythical beast whose power the blade holds; romanized."
+ },
+ {
+  "en": "Sacred Sword of Dawn",
+  "kind": "name",
+  "note": "Shinonome = dawn; mitsurugi = sacred sword. Exactly 20 bytes. Alt: Shinonome Mitsurugi (19)."
+ },
+ {
+  "en": "Fretful Aramisaki",
+  "kind": "name",
+  "note": "Desc reads the second part as Aramisaki (a female spirit fretting about being unmarried). 'Benten' dropped for fit; 'Vexed Benten Aramisaki' = 22."
+ },
+ {
+  "en": "Mikaboshi",
+  "kind": "name",
+  "note": "Star-god name; romanized."
+ },
+ {
+  "en": "Helm Splitter",
+  "kind": "name",
+  "note": "Kabuto-wari."
+ },
+ {
+  "en": "Odenta",
+  "kind": "name",
+  "note": "Real famous sword (Odenta Mitsuyo); romanized."
+ },
+ {
+  "en": "Oni Slayer",
+  "kind": "name"
+ },
+ {
+  "en": "Embraced Head",
+  "kind": "name",
+  "note": "Dakikubi: kaishaku cut that leaves the head falling into the arms; desc says this blade served as a kaishaku sword. Literal; alt romanization Dakikubi."
+ },
+ {
+  "en": "Rainy Four Lights",
+  "kind": "name",
+  "note": "Hanafuda yaku 'Ame-shiko' (desc: eastern tarot, four light cards incl. the rain card)."
+ },
+ {
+  "en": "Muramasa",
+  "kind": "name",
+  "note": "Matches chap slice_016."
+ },
+ {
+  "en": "Lance",
+  "kind": "name"
+ },
+ {
+  "en": "Mop",
+  "kind": "name"
+ },
+ {
+  "en": "Retort Pike",
+  "kind": "name",
+  "note": "Desc: wooden spear that softens in hot water to carry -- retort-pouch pun."
+ },
+ {
+  "en": "Vermilion Spear",
+  "kind": "name"
+ },
+ {
+  "en": "Spite Spear Kavirane",
+  "kind": "name",
+  "note": "New name Kavirane (romanization of the invented word; desc: ancient word for 'unforgivable thing'). Exactly 20 bytes; 'Grudge Spear Kavirane' = 21."
+ },
+ {
+  "en": "Gowen's Wringer",
+  "kind": "name",
+  "note": "New name Gowen. Reverse-wring: barbed tip that twists out flesh; 'Reverse' dropped for natural fit."
+ },
+ {
+  "en": "Demon Soul Spear",
+  "kind": "name",
+  "note": "Desc: a demon's soul dwells in it."
+ },
+ {
+  "en": "Mithril Spear",
+  "kind": "name"
+ },
+ {
+  "en": "High Branch Basher",
+  "kind": "name",
+  "note": "Desc: orchard pole tool for high fruit (with slight decapitation ability)."
+ },
+ {
+  "en": "Tonbokiri",
+  "kind": "name",
+  "note": "Real famous spear (dragonfly cutter); romanized."
+ },
+ {
+  "en": "Godslayer Spear",
+  "kind": "name"
+ },
+ {
+  "en": "Yasha Princess",
+  "kind": "name",
+  "note": "Desc: a princess who became a yasha with this naginata."
+ },
+ {
+  "en": "Ice Magic Spear",
+  "kind": "name",
+  "note": "Desc: forged from Frozen Elven Iron and Mazurite, frost-enchanted tip."
+ },
+ {
+  "en": "Furiwells",
+  "kind": "name",
+  "note": "New name; romanized."
+ },
+ {
+  "en": "Holy Maiden's Spear",
+  "kind": "name",
+  "note": "Desc: only Valkyries the gods acknowledge can find it."
+ },
+ {
+  "en": "Hand Axe",
+  "kind": "name"
+ },
+ {
+  "en": "Battle Axe",
+  "kind": "name"
+ },
+ {
+  "en": "Francisca",
+  "kind": "name"
+ },
+ {
+  "en": "Double-Bladed Axe",
+  "kind": "name"
+ },
+ {
+  "en": "Greataxe of the Dead",
+  "kind": "name",
+  "note": "Exactly 20 bytes."
+ },
+ {
+  "en": "Savage Axe",
+  "kind": "name",
+  "note": "Desc: crude build and use; its owner fights more and more savagely."
+ },
+ {
+  "en": "Giant's Axe",
+  "kind": "name"
+ },
+ {
+  "en": "War Hammer",
+  "kind": "name"
+ },
+ {
+  "en": "Blood Hammer",
+  "kind": "name"
+ },
+ {
+  "en": "Hinged Headcraze",
+  "kind": "name",
+  "note": "Kaisetsu-shiki = bending/folding type (desc: hammer that bends partway along the haft). Headcraze is the katakana name, kept as one word."
+ },
+ {
+  "en": "Colmet Hammer",
+  "kind": "name",
+  "note": "New name Colmet; romanized."
+ },
+ {
+  "en": "Death Piko Hammer",
+  "kind": "name",
+  "note": "Piko hammer = squeaky toy hammer (piko-pon); desc is a joke love song."
+ },
+ {
+  "en": "Mithril Hammer",
+  "kind": "name"
+ },
+ {
+  "en": "Entraie",
+  "kind": "name",
+  "note": "New name; plain romanization. Possibly a pun on 'entrails' (desc: second blow crushes bones and innards); not assumed."
+ },
+ {
+  "en": "Great Wrecking Maul",
+  "kind": "name"
+ },
+ {
+  "en": "Mace",
+  "kind": "name"
+ },
+ {
+  "en": "Mace +1",
+  "kind": "name",
+  "note": "Matches the 'Long Sword +1' style (slice_10)."
+ },
+ {
+  "en": "Morning Star",
+  "kind": "name"
+ },
+ {
+  "en": "Mace of Straying",
+  "kind": "name",
+  "note": "Mayoi = straying/lost; desc puns on saving lost souls only making them more lost."
+ },
+ {
+  "en": "Serpent Mace",
+  "kind": "name"
+ },
+ {
+  "en": "Camel Mace",
+  "kind": "name"
+ },
+ {
+  "en": "Mace of Destruction",
+  "kind": "name"
+ },
+ {
+  "en": "Mond Mace",
+  "kind": "name",
+  "note": "New name: katakana Moont, read as German 'Mond'. Desc says it is modeled on the sun, so the word may be irony or just a name."
+ },
+ {
+  "en": "Holy Mace",
+  "kind": "name"
+ },
+ {
+  "en": "Mace of Lapsed Faith",
+  "kind": "name",
+  "note": "Taikyou = abandoned faith; desc: once worshipped, now forgotten. Exactly 20 bytes."
+ },
+ {
+  "en": "Quenzstein",
+  "kind": "name",
+  "note": "New name; romanized (ball-and-chain flail)."
+ },
+ {
+  "en": "Sheep's Silver Ladle",
+  "kind": "name",
+  "note": "Literal: shaku (ladle/dipper). Desc: goblin lore says a great being used it to guide the people of the earth. Could be meant as a crook or scepter; kept literal. Exactly 20 bytes."
+ },
+ {
+  "en": "Wood Club",
+  "kind": "name"
+ },
+ {
+  "en": "Cudgel",
+  "kind": "name",
+  "note": "Katakana kajeru = cudgel."
+ },
+ {
+  "en": "Iron Club",
+  "kind": "name"
+ },
+ {
+  "en": "Shamrock",
+  "kind": "name"
+ },
+ {
+  "en": "Asuna's Battledore",
+  "kind": "name",
+  "note": "New name Asuna: reading of the kanji name is a guess. Hagoita = battledore (desc: a pair, Sun Spirit and Moonlight Spirit boards)."
+ },
+ {
+  "en": "Club of Frenzy",
+  "kind": "name"
+ },
+ {
+  "en": "Runed Flail",
+  "kind": "name"
+ },
+ {
+  "en": "Crystal Club",
+  "kind": "name"
+ },
+ {
+  "en": "Bow",
+  "kind": "name"
+ },
+ {
+  "en": "Longbow",
+  "kind": "name"
+ },
+ {
+  "en": "Atlatl",
+  "kind": "name",
+  "note": "Desc: the ancestor of the bow, a spear-thrower."
+ },
+ {
+  "en": "Twisted Bow",
+  "kind": "name"
+ },
+ {
+  "en": "Longbow +1",
+  "kind": "name"
+ },
+ {
+  "en": "Demonbane Bow",
+  "kind": "name",
+  "note": "Hama = driving out evil; desc: glows near darkness."
+ },
+ {
+  "en": "Skylark Bow",
+  "kind": "name"
+ },
+ {
+  "en": "Violent Arrow",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Bow of Polyte",
+  "kind": "name",
+  "note": "Polyte from glossary (Polyte the Bow Saint)."
+ },
+ {
+  "en": "Meltscorm",
+  "kind": "name",
+  "note": "New name; romanized."
+ },
+ {
+  "en": "Expert's Bow",
+  "kind": "name"
+ },
+ {
+  "en": "Wizard's Bow",
+  "kind": "name",
+  "note": "Mahoutsukai = wizard (generic); desc says it is for Mages only."
+ },
+ {
+  "en": "Diamond Shower",
+  "kind": "name"
+ },
+ {
+  "en": "Spirit Bow",
+  "kind": "name"
+ },
+ {
+  "en": "Whip",
+  "kind": "name"
+ },
+ {
+  "en": "Iron Whip",
+  "kind": "name"
+ }
+]

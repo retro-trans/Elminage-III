@@ -1,0 +1,382 @@
+[
+ {
+  "en": "Fiery Soul",
+  "kind": "name"
+ },
+ {
+  "en": "Nudie Heart",
+  "kind": "name",
+  "note": "Plunging-neckline dress; wearer may cast off reason and live by the bare heart."
+ },
+ {
+  "en": "Side Deathscythe",
+  "kind": "name",
+  "note": "New name: [JP] romanized as 'Side'; intended pun unknown (Reaper's scythe that restores the law of life)."
+ },
+ {
+  "en": "Ring of Otherspace",
+  "kind": "name",
+  "note": "[JP] = other/alien space; desc: ring warped as seen from a higher dimension."
+ },
+ {
+  "en": "Water of Return",
+  "kind": "name",
+  "note": "[JP] = return/recurrence; desc: water endlessly circling in mid-air."
+ },
+ {
+  "en": "Gauze of Eternity",
+  "kind": "name",
+  "note": "[JP]: lit. 'mosquito net of the eternal world'; it is a cloak wrapping the whole body, so 'Gauze'. Alt: 'Eternal Canopy'."
+ },
+ {
+  "en": "Forebear's Cloak",
+  "kind": "name",
+  "note": "As in chap slice_014."
+ },
+ {
+  "en": "Ragnas Garb",
+  "kind": "name",
+  "note": "Ragnas- as in glossary Ragnastia; [JP] = garb (a blanket replica of a queen's favourite)."
+ },
+ {
+  "en": "Forebear's Sword",
+  "kind": "name",
+  "note": "As in chap slice_014."
+ },
+ {
+  "en": "Leaf Blade",
+  "kind": "name",
+  "note": "Farewell gift from Princess [JP] (pun on her name)."
+ },
+ {
+  "en": "Forebear's Hat",
+  "kind": "name",
+  "note": "As in chap slice_014."
+ },
+ {
+  "en": "Walmy Hat",
+  "kind": "name",
+  "note": "[JP]: pun on Walmitt (ebt glossary spelling); his parting gift. Kept as 'Walmy', not 'Walmitt'."
+ },
+ {
+  "en": "Forebear's B.plate",
+  "kind": "name",
+  "note": "chap slice_014 uses 'Forebear's Breastplate' (22 bytes > 20), so abbreviated. Alt: 'Forebear's Cuirass' (18)."
+ },
+ {
+  "en": "Shock Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Forebear's Staff",
+  "kind": "name",
+  "note": "As in chap slice_014."
+ },
+ {
+  "en": "Spiritual Staff",
+  "kind": "name"
+ },
+ {
+  "en": "Forebear's Sash",
+  "kind": "name",
+  "note": "As in chap slice_014."
+ },
+ {
+  "en": "Bungee Belt",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Heavy Sash",
+  "kind": "name",
+  "note": "[JP]: whip-category sash only holy classes can wear; [JP] read as 'heavy'. Alt: 'Sacred Girdle'."
+ },
+ {
+  "en": "Wave Armor",
+  "kind": "name",
+  "note": "[JP] = wave/vibration; armor made of vibrations."
+ },
+ {
+  "en": "Superstring Blade",
+  "kind": "name",
+  "note": "[JP] = superstring (desc: splits into 11 parts, a nod to string theory)."
+ },
+ {
+  "en": "Adelheid",
+  "kind": "name",
+  "note": "Officer's uniform (leather-armor category)."
+ },
+ {
+  "en": "Altouche",
+  "kind": "name",
+  "note": "New name: romanization of [JP] uncertain (Altusch / Artouche possible)."
+ },
+ {
+  "en": "Helix Spear Euphoron",
+  "kind": "name",
+  "note": "[JP] = spiral spear; 'Spiral Spear Euphoron' is 21 bytes, so 'Helix'. Euphoron: new romanization. 20/20."
+ },
+ {
+  "en": "Magic Gun Boanilus",
+  "kind": "name",
+  "note": "[JP] = magic gun (glossary). Boanilus: new romanization of [JP] (Boanirus possible)."
+ },
+ {
+  "en": "Everblade Einblau",
+  "kind": "name",
+  "note": "[JP] 'Infinite Blade' (23 with name) does not fit; 'Everblade' keeps the endless-blade idea. Einblau: new romanization."
+ },
+ {
+  "en": "Fried Rice",
+  "kind": "name"
+ },
+ {
+  "en": "Strawberry Shortcake",
+  "kind": "name",
+  "note": "20/20 bytes."
+ },
+ {
+  "en": "Hand-Rolled Sushi",
+  "kind": "name",
+  "note": "Scroll category; desc calls it a 'scroll-type food', so 'rolled' keeps the joke."
+ },
+ {
+  "en": "White Fox Gauntlets",
+  "kind": "name",
+  "note": "[JP] = Gauntlets as in slice_14 / ebt ?Gauntlets."
+ },
+ {
+  "en": "Politan Sword",
+  "kind": "name",
+  "note": "[JP] romanized Politan (the 'king of kings of beasts' in the desc)."
+ },
+ {
+  "en": "Maid's Pride",
+  "kind": "name",
+  "note": "A maid's headband (hat category)."
+ },
+ {
+  "en": "Turtle Bikini",
+  "kind": "name"
+ },
+ {
+  "en": "Geimaga",
+  "kind": "name",
+  "note": "New name: [JP] romanized (talisman-bound throwing kunai for ninja). Reading/pun uncertain; same word in ITEM_TEXT slice_26."
+ },
+ {
+  "en": "Magic Glasses",
+  "kind": "name"
+ },
+ {
+  "en": "Lucky Bag",
+  "kind": "name",
+  "note": "[JP] (fukubukuro): mystery grab bag."
+ },
+ {
+  "en": "(Enemy-only below)",
+  "kind": "name",
+  "note": "Designer separator row (all enemy-only items follow); translated as a plain label."
+ },
+ {
+  "en": "Antique Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Paint Sword",
+  "kind": "name",
+  "note": "Sword from an enchanted painting; matches 'Paint Claw' in slice_17."
+ },
+ {
+  "en": "Water Sprite Sword",
+  "kind": "name",
+  "note": "[JP] = water sprite; desc: Undine's treasured sword."
+ },
+ {
+  "en": "Freezing Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Ogre Broadblade",
+  "kind": "name",
+  "note": "[JP] = broad-bladed sword; 'Broadsword' already taken by [JP]."
+ },
+ {
+  "en": "Evilcalibur",
+  "kind": "name",
+  "note": "Pun on Excalibur."
+ },
+ {
+  "en": "Spirit-Calling Sword",
+  "kind": "name",
+  "note": "[JP] = summon spirits; 20/20 bytes."
+ },
+ {
+  "en": "Dragon Emperor Sword",
+  "kind": "name",
+  "note": "20/20 bytes."
+ },
+ {
+  "en": "Imperial Sword",
+  "kind": "name",
+  "note": "max 18."
+ },
+ {
+  "en": "Dark Saber",
+  "kind": "name",
+  "note": "[JP] = Dark, as Dark Magic Seal (slice_14)."
+ },
+ {
+  "en": "Scourge",
+  "kind": "name",
+  "note": "[JP] = scourge; legendary mad sword."
+ },
+ {
+  "en": "Dish Blade",
+  "kind": "name",
+  "note": "A kitchen knife."
+ },
+ {
+  "en": "Joker Knife",
+  "kind": "name",
+  "note": "Joker as in Joker Land."
+ },
+ {
+  "en": "Kotetsu",
+  "kind": "name",
+  "note": "Famous katana; desc pairs it with Murasame."
+ },
+ {
+  "en": "Yoringen",
+  "kind": "name",
+  "note": "New name: [JP] romanized; reading uncertain. Also wielded by a boss in MON_TEXT slice_44."
+ },
+ {
+  "en": "Garden Keeper",
+  "kind": "name",
+  "note": "As in chap slice_010."
+ },
+ {
+  "en": "Shadow Spear",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Sea Trident",
+  "kind": "name",
+  "note": "'Trident of the Holy Sea' (23) does not fit."
+ },
+ {
+  "en": "Demon God's Spear",
+  "kind": "name",
+  "note": "[JP] = demon god; desc: spear forged with a grudge against the gods."
+ },
+ {
+  "en": "Atrorubens",
+  "kind": "name",
+  "note": "Latin 'dark red'; named spear of the Kin of Darkness."
+ },
+ {
+  "en": "Black Lightspear",
+  "kind": "name",
+  "note": "[JP]: a light-spear that shines dark."
+ },
+ {
+  "en": "Unicorn Horn",
+  "kind": "name"
+ },
+ {
+  "en": "Bicorn Horn",
+  "kind": "name"
+ },
+ {
+  "en": "Identita",
+  "kind": "name",
+  "note": "[JP]: Italian/Latin-style 'identity'; mace of obedience."
+ },
+ {
+  "en": "Fallen Tree",
+  "kind": "name"
+ },
+ {
+  "en": "Body-Pounding Pestle",
+  "kind": "name",
+  "note": "[JP]: pun on [JP] (mochi pounding) -> pounding people; 'Person-Pounding' (22) too long. 20/20."
+ },
+ {
+  "en": "Feireed",
+  "kind": "name",
+  "note": "New name: [JP] romanized; no source (max 16)."
+ },
+ {
+  "en": "Rezefeid",
+  "kind": "name",
+  "note": "New name: [JP] romanized (Rizefade possible); max 16."
+ },
+ {
+  "en": "Snowball",
+  "kind": "name"
+ },
+ {
+  "en": "Icicle Arrow",
+  "kind": "name"
+ },
+ {
+  "en": "Silver Bow",
+  "kind": "name",
+  "note": "[JP] = Silver, as Silver Breastplate (slice_13)."
+ },
+ {
+  "en": "Finger Shot",
+  "kind": "name",
+  "note": "[JP]: flicking pebbles/coins with the fingers as bullets (a technique)."
+ },
+ {
+  "en": "Elsoavice",
+  "kind": "name",
+  "note": "New name: [JP] romanized; no source (could be 'Elsoa Vice')."
+ },
+ {
+  "en": "Flower King's Leaf",
+  "kind": "name",
+  "note": "[JP]: lit. 'a single leaf/petal of the Flower King'; desc says it is a leaf."
+ },
+ {
+  "en": "Old Tree Vine",
+  "kind": "name"
+ },
+ {
+  "en": "Thorn Vine",
+  "kind": "name"
+ },
+ {
+  "en": "Alraune Vine",
+  "kind": "name"
+ },
+ {
+  "en": "Hell Master +1",
+  "kind": "name",
+  "note": "Hell Master as slice_12 row 942."
+ },
+ {
+  "en": "Flame Whip",
+  "kind": "name"
+ },
+ {
+  "en": "Punishment Whip",
+  "kind": "name",
+  "note": "Discipline rod for well-born children."
+ },
+ {
+  "en": "Joker Rod",
+  "kind": "name"
+ },
+ {
+  "en": "Forbidden Paintbrush",
+  "kind": "name",
+  "note": "20/20 bytes. No ITEM_TEXT entry found."
+ },
+ {
+  "en": "Abi Buckler",
+  "kind": "name",
+  "note": "Abi = glossary; matches 'Abi Shield' (slice_17)."
+ }
+]

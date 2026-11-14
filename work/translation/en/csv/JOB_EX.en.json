@@ -1,0 +1,1472 @@
+[
+ {
+  "id": "JOB_EX.CSV:4:2",
+  "en": "Mage Spells",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:4:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:5:2",
+  "en": "Mage Spells'",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:5:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:6:2",
+  "en": "Mage Spells''",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:6:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:7:2",
+  "en": "Priest Spells",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:7:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:8:2",
+  "en": "Priest Spells'",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:8:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:9:2",
+  "en": "Priest Spells''",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:9:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:10:2",
+  "en": "Alchemy Spells",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:10:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:11:2",
+  "en": "Summon Spells",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:11:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:12:2",
+  "en": "Dispel",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:12:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:12:23",
+  "en": "Dispel",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:13:2",
+  "en": "Ethereal Strike",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:13:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:14:2",
+  "en": "Thief Skills+1",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:14:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:14:23",
+  "en": "Hide",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:15:2",
+  "en": "Thief Skills",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:15:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:15:23",
+  "en": "Hide",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:16:2",
+  "en": "Smithing",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:16:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:17:2",
+  "en": "Alchemy",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:17:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:18:2",
+  "en": "Maid Recover",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:18:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:18:23",
+  "en": "Svt. Bag",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:19:2",
+  "en": "Coin Bank",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:19:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:20:2",
+  "en": "Tea Time",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:20:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:21:2",
+  "en": "Appraise",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:21:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:21:23",
+  "en": "Appraise",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:22:2",
+  "en": "First Strike",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:22:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:22:23",
+  "en": "First Strike",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:23:2",
+  "en": "Pursuit",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:23:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:24:2",
+  "en": "Lower AC",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:24:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:25:2",
+  "en": "Multi-Strike",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:25:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:26:2",
+  "en": "Tarot",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:26:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:26:23",
+  "en": "Tarot",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:27:2",
+  "en": "Play Instrument",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:27:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:28:2",
+  "en": "Barrier",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:28:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:28:23",
+  "en": "Barrier",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:29:2",
+  "en": "Spec Resist Up",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:29:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:30:2",
+  "en": "Dual Main Weapons",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:30:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:31:2",
+  "en": "Decapitation Up",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:31:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:32:2",
+  "en": "Vigilance",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:32:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:34:2",
+  "en": "Phys Attack Up+1",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:34:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:35:2",
+  "en": "Phys Attack Up",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:35:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:36:2",
+  "en": "Mage Spell Up+1",
+  "max": 21,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:36:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:37:2",
+  "en": "Mage Spell Up",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:37:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:38:2",
+  "en": "Priest Spell Up+1",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:38:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:39:2",
+  "en": "Priest Spell Up",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:39:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:40:2",
+  "en": "Alchemy Spell Up+1",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:40:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:41:2",
+  "en": "Alchemy Spell Up",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:41:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:42:2",
+  "en": "Spell Power Up+1",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:42:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:43:2",
+  "en": "Spell Power Up",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:43:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:44:2",
+  "en": "Soul Release",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:44:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:45:2",
+  "en": "Strip Gear",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:45:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:45:23",
+  "en": "Strip Gear",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:46:2",
+  "en": "Steal",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:46:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:46:23",
+  "en": "Steal",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:47:2",
+  "en": "Dismantle",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:47:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:48:2",
+  "en": "High-Purity Synth",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:48:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:49:2",
+  "en": "Dungeon Tea Party",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:49:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:50:2",
+  "en": "Strafe Pursuit",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:50:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:51:2",
+  "en": "Fighting Instinct",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:51:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:52:2",
+  "en": "Fate Alteration",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:52:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:53:2",
+  "en": "Ancient Rites",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:53:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:54:2",
+  "en": "Blood Pact",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:54:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:55:2",
+  "en": "Holy Lance Arts",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:55:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:56:2",
+  "en": "Temple Sanctuary",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:56:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:57:2",
+  "en": "Swallow Return",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:57:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:58:2",
+  "en": "Shadow Strike",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:58:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:60:2",
+  "en": "Grit",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:60:3",
+  "en": "Can survive lethal damage, but only once.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:61:2",
+  "en": "Firm Ranks",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:61:3",
+  "en": "Pull effects no longer work on the user.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:62:2",
+  "en": "High Mana Source",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:62:3",
+  "en": "Stops barriers from activating. The chance rises when several members have it.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:63:2",
+  "en": "Spirit Contract",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:63:3",
+  "en": "Strengthens elemental spells.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:64:2",
+  "en": "Essence of Magic",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:64:3",
+  "en": "Ignores the target's spell resistance.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:65:2",
+  "en": "Healing Moment",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:65:3",
+  "en": "Using a Tent gives the same effect as staying at the inn.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:66:2",
+  "en": "Hand of Mercy",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:66:3",
+  "en": "Healing spells you cast always restore at least half of max HP.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:67:2",
+  "en": "Malediction",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:67:3",
+  "en": "Has a chance to inflict the status ailment \"Fear\" on an enemy.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:67:23",
+  "en": "Malediction",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:68:2",
+  "en": "Steal and Pass",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:68:3",
+  "en": "If the thief can't carry a stolen item, an ally carries it instead.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:69:2",
+  "en": "Treasure Digging",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:69:3",
+  "en": "Treasure chests appear even after random encounters.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:70:2",
+  "en": "Pesky Tackle",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:70:3",
+  "en": "Has a chance to block an enemy's end-of-turn natural healing and the like.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:70:23",
+  "en": "Pesky Tackle",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:71:2",
+  "en": "Law of Heaven",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:71:3",
+  "en": "When same-grade ores above a set grade explode in alchemy, something special happens.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:72:2",
+  "en": "Law of Earth",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:72:3",
+  "en": "When same-grade ores above a set grade explode in alchemy, something special happens.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:73:2",
+  "en": "Law of Man",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:73:3",
+  "en": "When same-grade ores above a set grade explode in alchemy, something special happens.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:74:2",
+  "en": "Cook",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:74:3",
+  "en": "Cooks a meal.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:74:23",
+  "en": "Cook",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:75:2",
+  "en": "Corpse Throw",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:75:3",
+  "en": "Can attack by throwing corpses.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:75:23",
+  "en": "Corpse Throw",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:76:2",
+  "en": "Mana Conversion",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:76:3",
+  "en": "When hit by a spell, has a chance to convert it into MP.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:77:2",
+  "en": "Polymath",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:77:3",
+  "en": "Adds curse info to item details. Ore grades can also be checked on the spot.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:78:2",
+  "en": "Mysterious Bag",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:78:3",
+  "en": "Sends items that can't be carried to the Alchemy Storage.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:79:2",
+  "en": "Mimicry",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:79:3",
+  "en": "Mimics an enemy's action.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:79:23",
+  "en": "Mimicry",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:80:2",
+  "en": "War Rite",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:80:3",
+  "en": "Raises allies' attack power, only for the turn it is used.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:80:23",
+  "en": "War Rite",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:81:2",
+  "en": "Good Nature",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:81:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:82:2",
+  "en": "Bad Nature",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:82:3",
+  "en": "(Reserve)",
+  "max": 88,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:83:2",
+  "en": "Ki Blast",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:83:3",
+  "en": "Deals non-elemental damage to one enemy.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:83:23",
+  "en": "Ki Blast",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:84:2",
+  "en": "Drunken Venom Fist",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:84:3",
+  "en": "Deals more damage while poisoned.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:85:2",
+  "en": "Haughty Laugh",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:85:3",
+  "en": "Has a chance to inflict Fear on all enemies.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:85:23",
+  "en": "Haughty Laugh",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:86:2",
+  "en": "Sun's Blessing",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:86:3",
+  "en": "Restores HP when walking during the day in clear weather.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:87:2",
+  "en": "Song of Healing",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:87:3",
+  "en": "At turn's end, sings to heal all allies. Lasts a while; stacking songs raises the power.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:87:23",
+  "en": "Song of Healing",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:88:2",
+  "en": "Song of Ruin",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:88:3",
+  "en": "At turn's end, sings to damage enemies. Lasts a while; stacking songs raises the power.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:88:23",
+  "en": "Song of Ruin",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:89:2",
+  "en": "Song of Warding",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:89:3",
+  "en": "Sings a song that reduces damage. Lasts a while; stacking songs raises the power.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:89:23",
+  "en": "Song of Warding",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:90:2",
+  "en": "Song of Hope",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:90:3",
+  "en": "Sings a song that cures status ailments. Lasts a while; stacking songs raises the power.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:90:23",
+  "en": "Song of Hope",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:91:2",
+  "en": "Fortune Slip",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:91:3",
+  "en": "A Fortune Slip changes the EXP and money gained after battle.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:91:23",
+  "en": "Fortune Slip",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:92:2",
+  "en": "Soul Pact",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:92:3",
+  "en": "Forms a pact with a monster and invites it to the tavern.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:92:23",
+  "en": "Soul Pact",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:93:2",
+  "en": "Master Therion",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:93:3",
+  "en": "Fuses contracted monsters and summons them. Allies can't act during the summon.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:93:23",
+  "en": "Master Therion",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:94:2",
+  "en": "Drain",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:94:3",
+  "en": "Lowers the target's level.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:94:23",
+  "en": "Drain",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:95:2",
+  "en": "Sacrifice",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:95:3",
+  "en": "Turns the user to ash to fully heal all allies. Once per battle only.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:95:23",
+  "en": "Sacrifice",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:96:2",
+  "en": "Absolute Guard",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:96:3",
+  "en": "Devotes every action to defense, nullifying enemy attacks.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:96:23",
+  "en": "Absolute Guard",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:97:2",
+  "en": "Beacon of Revenge",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:97:3",
+  "en": "If battle opens with an enemy ambush, allies deal more damage from the next turn on.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:98:2",
+  "en": "Nocturnal",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:98:3",
+  "en": "Deals more damage at night.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:99:2",
+  "en": "Swallow Slayer",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:99:3",
+  "en": "Can attack without taking a Swallow Return counter.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:99:23",
+  "en": "Swallow Slayer",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:100:2",
+  "en": "Clone",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:100:3",
+  "en": "Summons a clone of the user into the summon slot.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:100:23",
+  "en": "Clone",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:101:2",
+  "en": "Assassination",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:101:3",
+  "en": "The fewer members in the party, the higher the defense.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:102:2",
+  "en": "Sadistic Delight",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:102:3",
+  "en": "The closer HP is to its max, the higher the attack power.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:103:2",
+  "en": "Masochistic Bliss",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:103:3",
+  "en": "The closer HP is to its minimum, the higher the attack power.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:104:2",
+  "en": "Brand of Ruin",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:104:3",
+  "en": "Attack is always raised, but HP drops at turn's end. Can't be a Maid Recover target.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:105:2",
+  "en": "Breath+",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:105:3",
+  "en": "Breath attacks never lose power.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:107:2",
+  "en": "Defiled Ground",
+  "max": 21,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:107:3",
+  "en": "Healing spells can't be used in battle.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:108:2",
+  "en": "Dark Torrent",
+  "max": 21,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:108:3",
+  "en": "Damage dealt to adventurers is doubled.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:109:2",
+  "en": "Dragon's Roar",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:109:3",
+  "en": "Damage dealt to adventurers is tripled.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:110:2",
+  "en": "Dark Realm Wind",
+  "max": 21,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:110:3",
+  "en": "Damage dealt to adventurers is multiplied by 5.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:111:2",
+  "en": "Proof of Kingship",
+  "max": 21,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:111:3",
+  "en": "Immune to instant-death effects such as decapitation while HP is at half or more.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:112:2",
+  "en": "Regeneration",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:112:3",
+  "en": "Has a chance to cure status ailments that don't heal naturally.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:113:2",
+  "en": "Sever Summon",
+  "max": 21,
+  "used": true
+ },
+ {
+  "id": "JOB_EX.CSV:113:3",
+  "en": "Kills a summoned monster in one blow.",
+  "max": 88,
+  "used": false
+ },
+ {
+  "id": "JOB_EX.CSV:113:23",
+  "en": "Sever Summon",
+  "max": 16,
+  "used": true
+ }
+]

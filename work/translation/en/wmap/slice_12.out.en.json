@@ -1,0 +1,376 @@
+[
+ {
+  "en": "Safi?",
+  "kind": "name",
+  "note": "New name: sa-fi romanized 'Safi' (not in glossary; PLAYER.CSV row 113 lists it as a recruitable character). Toner's dress-up alter ego."
+ },
+ {
+  "en": "\"Toner's a pal of mine! I-I mean, a dear friend of mine! I-I'm Safi! I'm Safi, really! I'm Safiii! ......Auuu...\"{w}",
+  "kind": "msg",
+  "note": "Source joke: Toner says 'Toner wa boku no tomodachi' with the boyish boku, then corrects 'not boku, watashi'. English has no gendered 'I', so the slip is rendered as a rough 'pal of mine' corrected to a dainty 'dear friend of mine'."
+ },
+ {
+  "en": "Toner?",
+  "kind": "name"
+ },
+ {
+  "en": "\"...T-To-- I mean, I'm Safi, and...{w}Um... it's totally obvious, isn't it? ...Uuu...{w}...Keep it a secret, okay? That I'm Safi...\"{w}",
+  "kind": "msg",
+  "note": "'bo... ja nakute watashi' = another boku/watashi slip; rendered as Toner nearly blurting out the real name. The last clause switches back to boku (giving up the act); 'That I'm Safi' carries the confession."
+ },
+ {
+  "en": "\"I mean, clothes that are all fluffy and frilly\nare just so exciting...{w}",
+  "kind": "msg",
+  "note": "No closing quote in source; row 885 echoes this text inside {0E}..{0F}. wakuwaku (Toner's catchword) = 'exciting/excited' throughout."
+ },
+ {
+  "en": "{0E}\"I mean, clothes that are all fluffy and frilly\nare just so exciting...{0F}\nSo I thought, I'll become Safi...\"{w}",
+  "kind": "msg",
+  "note": "Echo of 884; keep both identical."
+ },
+ {
+  "en": "\"...Sigh, oh well, can't be helped...{w}Oh, I know!{w}",
+  "kind": "msg",
+  "note": "No closing quote in source; continues in 887."
+ },
+ {
+  "en": "{0E}\"...Sigh, oh well, can't be helped...\nOh, I know!{0F}\nSo what do you think of this outfit? Exciting, right!?\"{w}{p}\"Ta-daa!{w}It's Exciting Safi!\"{w}",
+  "kind": "msg",
+  "note": "Echo of 886 with its {w} turned into \\n, as the source does. wakuwaku Safi = 'Exciting Safi' (stage-name style)."
+ },
+ {
+  "en": "Safi",
+  "kind": "name"
+ },
+ {
+  "en": "\"But... actually, there's something missing.{w}Do you know about Blue Rain?{w}I want it so, so badly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Blue Rain is what I've always dreamed of,\nand I've been searching and searching for it, but...{w}Ahh... Blue Rain...\"{w}{p}\"Everyone, please.{w}Exciting Safi needs Blue Rain!\"{w}",
+  "kind": "msg",
+  "note": "Safi slips into boku again here ('boku no akogare'); not reproducible in English, left unmarked."
+ },
+ {
+  "en": "\"Otherwise... Safi will...{w}...Oh, wait here just a moment, okay?\"{w}",
+  "kind": "msg",
+  "note": "Sentence deliberately broken off; completed by Toner in 893 after the costume change."
+ },
+ {
+  "en": "With a patter of footsteps, Safi ducked into the back of the shop.{w}A little later, Safi came back as Toner.{w}",
+  "kind": "msg",
+  "note": "Narration; 'Toner no sugata de' = in Toner's form/clothes."
+ },
+ {
+  "en": "\"...never get to be exciting!{w}Please, I'm counting on you!\"{w}",
+  "kind": "msg",
+  "note": "Completes Safi's unfinished line in 891 ('ja nai to... Safi wa...' + 'wakuwaku ni narenai'), so the English opens mid-sentence with an ellipsis."
+ },
+ {
+  "en": "Toner had apparently gone to the trouble of changing clothes just to say that.{w}His (her?) eyes held a deadly earnest look.{w}",
+  "kind": "msg",
+  "note": "'kare (kanojo?)' is the source's own joke about Toner's gender; translated literally as 'His (her?)'. No other pronoun is used for Toner anywhere in this slice."
+ },
+ {
+  "en": "\"I really, really need Blue Rain,\nso I'm counting on you, okay!?\"{w}",
+  "kind": "msg",
+  "note": "Repeat-visit line."
+ },
+ {
+  "en": "\"Yaaay! It's Blue Rain!{w}Now I can get even more and more excited! Thank you so much!\"{w}{p}\"Oh, I know! In return, I'll fix it so you can secretly buy\nsomething only knights are allowed to buy!\"{w}",
+  "kind": "msg",
+  "note": "kishi-san shika kacchaikenai shina: 'knights' kept lowercase/generic -- unclear whether this means a character class or Roscadil's knights; check against the class list."
+ },
+ {
+  "en": "\n{0E}         * Elven Chain +1 now in stock *{0F}{w}",
+  "kind": "msg",
+  "note": "Item name Elven Chain +1 (ITEM.CSV:273); align with ITEM.CSV once translated. Banner style follows earlier slices."
+ },
+ {
+  "en": "\"That's my thanks for the Blue Rain!{w}Ahh, Blue Rain... these stripes...\nThey get me so excited already!!\"{w}",
+  "kind": "msg",
+  "note": "Stripes: glossary note says Blue Rain is blue-striped underwear."
+ },
+ {
+  "en": "\"Okay, I'm going to change now,\nso face the other way, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You got a push on the back\nand were spun right around to face the other way.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Toner's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"No turning around, okay?\"",
+  "kind": "data",
+  "note": "Prompt text above the choices 903/924; quotes kept as in source."
+ },
+ {
+  "en": "Turn around",
+  "kind": "data",
+  "note": "Menu choice."
+ },
+ {
+  "en": "You turned around anyway.{w}",
+  "kind": "msg",
+  "note": "'furimuite mita' = tried turning around (against instructions); 'anyway' carries the -te miru."
+ },
+ {
+  "en": "\"Ah...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Waaah!?!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No! Wait till I'm done changing!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Clutching half-shed clothes close, Toner is making some kind of fuss.{w}That flustered face is adorable, too.{w}{p}...On a whim, you let your gaze drift downward.{w}",
+  "kind": "msg",
+  "note": "mune-moto ni kaki-atsume = gathering the clothes to the chest; 'close' used to avoid a pronoun for Toner."
+ },
+ {
+  "en": "\"Where are you looking!?{w}Face the other way! Mooo-ooo-ooo~~!!{w}Seriously... moooooo~~~...\"{w}",
+  "kind": "msg",
+  "note": "mou~ (exasperated 'jeez') spelled 'moo' so that 910's cow pun still works."
+ },
+ {
+  "en": "Toner is going \"moo, moo\" like a cow...\nbut wasn't what you saw just now an elephant?{w}...The facts of the matter must be verified.{w}{p}Straining your eyes, you found something.{w}",
+  "kind": "msg",
+  "note": "zou (elephant) = Japanese euphemism for a penis ('little elephant'); kept as 'elephant' with the cow/elephant contrast, not explained. Crude joke kept at full strength."
+ },
+ {
+  "en": "{0E}\n                     * ?Mace *{0F}{w}",
+  "kind": "msg",
+  "note": "? Mace = the game's unidentified-item name (ITEM.CSV col 5 '?Mace' form); keep identical to the item table's unidentified name once translated. Phallic gag continues 910."
+ },
+ {
+  "en": "\"Um, hey... excuse me...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Identify it!",
+  "kind": "data",
+  "note": "Menu choice parodying the identify prompt ('kantei shimasu ka' with ! instead of ?). kantei = Wizardry-style identify; 'Identify' chosen here because it mocks the item-identify UI (pilot uses 'appraise' for Gia's shop service)."
+ },
+ {
+  "en": "...Identifying.{w}",
+  "kind": "msg",
+  "note": "Parody of the identify messages; keep in step with the UI's identify strings once translated."
+ },
+ {
+  "en": "\"@#$%&*!!~~!?\"{w}",
+  "kind": "msg",
+  "note": "Source is a string of symbols (incl. male/female signs); replaced with an ASCII grawlix."
+ },
+ {
+  "en": "...Identifying.{w}{p}Oops! You touched it!{w}",
+  "kind": "msg",
+  "note": "sawatte shimatta! = the classic Wizardry identify-failure message (touching a cursed item), here a groping gag."
+ },
+ {
+  "en": "\"*&%^#@!~~!!\"{w}",
+  "kind": "msg",
+  "note": "Symbol scream; ASCII grawlix."
+ },
+ {
+  "en": "Identifying!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "...Identified!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"!!??\"",
+  "kind": "msg",
+  "note": "No {w} in source."
+ },
+ {
+  "en": "\"That is quiiiite enough!!\"{w}",
+  "kind": "msg",
+  "note": "ii-kagen ni shite kudasai with stretched ii."
+ },
+ {
+  "en": "...You got scolded.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Already thoroughly satisfied, you quietly turned your back\nand waited for Toner to finish changing.{w}",
+  "kind": "msg",
+  "note": "Whose changing is left implicit in Japanese; Toner's, by the scene."
+ },
+ {
+  "en": "Keep waiting",
+  "kind": "data",
+  "note": "Menu choice."
+ },
+ {
+  "en": "You kept waiting, just as you were told.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "......{w}It seems Toner has finished changing.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And so -- it's Safi!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Having you watch me while I changed... that's embarrassing...\"{w}",
+  "kind": "msg",
+  "note": "Peek-branch line: 'kigaeru tokoro kara mirareru' = being seen from the changing onward."
+ },
+ {
+  "en": "\"Safi wants to get even more excited.{w}So, everyone... from now on,\nI'm counting on you!\"{w}{p}\"Oh, but as for Mom...{w}not a w-o-r-d, okay?{w}",
+  "kind": "msg",
+  "note": "na-i-sho spelled out syllable by syllable -> 'not a w-o-r-d'. No closing quote at the end; 930 echoes the last page."
+ },
+ {
+  "en": "{0E}\"Oh, but as for Mom...\nnot a w-o-r-d, okay?{0F}\nTee hee hee.\"{w}",
+  "kind": "msg",
+  "note": "Echo of 929's last page with its {w} turned into \\n."
+ },
+ {
+  "en": "\n{0E}  * Safi has been registered at the Training Hall *{0F}{w}",
+  "kind": "msg",
+  "note": "Training Hall per glossary."
+ },
+ {
+  "en": "\"Welcome! Oh, it's you, everyone!\nThanks so much for the Blue Rain!\nThanks to you, I get excited every single night!\"{w}",
+  "kind": "msg",
+  "note": "The 'every night' innuendo is the source's; kept as is."
+ },
+ {
+  "en": "\"Welcome!{w}Toner is out at the moment~!{w}",
+  "kind": "msg",
+  "note": "No closing quote; 934 echoes it."
+ },
+ {
+  "en": "{0E}\"Welcome!\nToner is out at the moment~!{0F}\nTee hee!\"{w}",
+  "kind": "msg",
+  "note": "Echo of 933."
+ },
+ {
+  "en": "\"Welcome!{w}Oh, you came!\nI got so tired of waiting!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-wh-wh-what!?\"{w}",
+  "kind": "msg",
+  "note": "Lone line in 91242-ROS_TONER_TALK, no speaker box; presumably Toner reacting."
+ },
+ {
+  "en": "\"Who goes there!?\"{w}{p}\"Adventurers of unknown origin\nare not permitted in the palace!{w}Leave before you are cut down!!\"{w}",
+  "kind": "msg",
+  "note": "Roscadil palace guard."
+ },
+ {
+  "en": "\"Who goes there!?{w}Oh, it's you lot.\"{w}{p}\"Seeking an audience with Her Majesty\nat this hour of the night...\nhave you no sense of decency!?\"{w}",
+  "kind": "msg",
+  "note": "heika -> 'Her Majesty': Rianna is called an empress (jotei) by the narration in row 949, so 'Her' is from the source, not assumed. Flagged anyway (glossary gender 'unknown')."
+ },
+ {
+  "en": "You got thrown out.{w}",
+  "kind": "msg",
+  "note": "Shared by 3 places."
+ },
+ {
+  "en": "\"Who goes there!?{w}Adventurers of unknown origin are not...\"{w}",
+  "kind": "msg",
+  "note": "Cut off by Branon in 941; shortened version of 937."
+ },
+ {
+  "en": "\"Ah, now, hold on, hold on.\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? = Branon (named in 942)."
+ },
+ {
+  "en": "\"These people are my guests, would you suppose!\"{w}",
+  "kind": "msg",
+  "note": "Branon's misused deeroka tag rendered 'would you suppose' as in slice 10. He uses watashi here instead of wagahai; invisible in English."
+ },
+ {
+  "en": "\"Ugh, Executor Branon...{w}What are you doing here?\nShouldn't you be having your tea time?\"{w}",
+  "kind": "msg",
+  "note": "Branon-sama -> 'Executor Branon' (title from slice 10) to avoid gendered Lord/Sir. The guard's 'oyoroshii no de' is mock-polite; rendered as a mildly snide question."
+ },
+ {
+  "en": "\"I wish to introduce them\nto Her Majesty Rianna, would you suppose.\"{w}",
+  "kind": "msg",
+  "note": "See 938 for 'Her Majesty'."
+ },
+ {
+  "en": "\"Uh, is that so...{w}Go right ahead, suit yourself... Er, um, salute...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now then, come along.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Paying the half-hearted salute no mind at all,\nBranon strode right on into the palace.{w}",
+  "kind": "msg",
+  "note": "bimyou na keirei = an iffy, half-hearted salute."
+ },
+ {
+  "en": "\"Is Her Majesty Rianna about, would you suppose!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When Branon opened the doors of the audience chamber,\nthere sat an empress of dignified bearing.{w}",
+  "kind": "msg",
+  "note": "jotei = empress (source)."
+ },
+ {
+  "en": "Rianna",
+  "kind": "name"
+ },
+ {
+  "en": "\"What is it, Branon?{w}You, coming to the palace of your own accord?{w}Have you lost your mind?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, no, Your Majesty!{w}Your humble Branon's intelligence-gathering among the common folk\nhas finally borne fruit, would you suppose!\"{w}",
+  "kind": "msg",
+  "note": "'Branon-me' = self-deprecating; 'Your humble Branon'."
+ },
+ {
+  "en": "\"Oh? Speak, then.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"For that, I would first like\nyour permission to tell them\nabout the magic airship, would you suppose!\"{w}",
+  "kind": "msg",
+  "note": "New term: makuutei -> 'magic airship' (lowercase generic; Rianna names the ship Meatrif in slice 13 row 962). Coordinate with slice 13."
+ },
+ {
+  "en": "\"Who are they? Adventurers?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That they are, would you suppose!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Very well.{w}Whatever you know can't amount to much anyway.\"{w}",
+  "kind": "msg",
+  "note": "Rianna permits it because Branon's knowledge is limited."
+ },
+ {
+  "en": "\"To build the magic airship we need\n'Selcoa Paint', 'Celestial Readings'\nand a 'Wing Soul', would you suppose!\"{w}{p}\"How about putting them to work\nobtaining those, would you suppose!\"{w}",
+  "kind": "msg",
+  "note": "Item names from pilot rows 5-7 (Selcoa Paint / Celestial Survey Results / Wing Soul). Japanese single-bracket titles -> single quotes per brief."
+ },
+ {
+  "en": "\"Hmm.\"{w}",
+  "kind": "msg"
+ }
+]

@@ -1,0 +1,353 @@
+[
+ {
+  "en": "Fingers with a silken, finely textured touch. Their moist beauty seems to draw you in; one look is enough to make you sigh. One slinky stroke, and even the wildest brute turns meek and docile, and the loveliest flower scatters its petals amid tears of joy.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bewitching art that lures the target with aching sighs. To get them in the mood, get in it yourself first. You mean to seduce, then fall for real... a common tale. The scary part is the cool head to kill even one you've grown fond of. If it goes badly, oh well: off to Madrie Church, go go!",
+  "kind": "desc",
+  "note": "Madrie Church (madorie kyoukai) is a new romanized name: not in the glossary or corpus. 'If it goes badly' = damesou nara; the joke is reviving the dead at the church."
+ },
+ {
+  "en": "Claw of a mid-ranked dragon. At this level, store-bought gear grows useless. Block with a sword and the blade chips; guard with armor and it shatters. Please do not be so arrogant as to face it head-on. Think about it: your foe is a \"dragon.\"",
+  "kind": "desc",
+  "note": "Pompous narrator voice (kangaete mitamae) kept; the quoted 'dragon' keeps the source brackets."
+ },
+ {
+  "en": "A huge block of ice drifted in from cold lands. In early spring it is a seasonal sight of sorts, but heaving it up with all your might and slamming it on a foe is an attack with no poetry whatsoever. Then again, the spray can make a rainbow afterward, which is elegant in its own way.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword with value as an antique. Overly ornate swords can rarely be counted on as weapons, and this one is no exception. Collectors prize its age and savor the character seeping from it, but it is a little unreliable to trust your life to.",
+  "kind": "desc"
+ },
+ {
+  "en": "Clerics say a spirit's attack seems to wound the flesh but really strikes the soul. Life is not whittled away because the body is struck; the body crumbles because life has been whittled away. Not that it makes any difference in the end.",
+  "kind": "desc"
+ },
+ {
+  "en": "Shockwave attacks are not so rare, but this wave is said to carry emotions along with the shock: the anger, fear or scorn the foe feels toward you. Tossed about by those feelings, your mind and body come apart, and you can no longer move, as if paralyzed.",
+  "kind": "desc"
+ },
+ {
+  "en": "A rod dark jesters use to reap their prey's lives amid mocking laughter. It is said to grow ever more vicious in answer to their cruel smiles. Its power calls forth more blood and carnage, and the mad revel only speeds up.",
+  "kind": "desc"
+ },
+ {
+  "en": "Heels whose points are sharp as spikes, with a toughness and power you'd never guess from their elegant look. One kick easily wrecks shoddy gear. A nasty weapon... but what if you were the one wearing them? Painful, dangerous, yet beautiful...! A rose without thorns would be dull, wouldn't it?",
+  "kind": "desc"
+ },
+ {
+  "en": "A robe worn by liches. It is highly resistant to Dark magic. Liches already belong to darkness, and on top of that they wear robes like this, so it is no exaggeration to call using Dark magic on a lich suicide.",
+  "kind": "desc",
+  "note": "Lich (monster rikkii) lowercase as a creature type; check against the MONSTER1 name when translated."
+ },
+ {
+  "en": "A scythe that strikes fear into all who see it. Most armor is weak at the joint between neck and torso. Aim for that slim gap, slip the blade in... shhk... then draw it back with a snap of the wrist, and you can harvest your foe's soul.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bewitched spear that seeps out of shadows. Wherever there is a shadow, it can strike from anywhere, which makes it a grave threat at night. Dark spirits often wield it, and that is one reason it's said you must never anger them.",
+  "kind": "desc"
+ },
+ {
+  "en": "Ask which fang truly has value to an adventurer, and one answer is a fang kept as proof of slaying a mighty foe. It can be a legendary beast's, or one from a foe you \"beat easily now, but back then took all you had.\" It becomes a fang in the heart that spurs adventurers on.",
+  "kind": "desc",
+  "note": "Quoted phrase kept in quotes; wording compressed to fit 312."
+ },
+ {
+  "en": "The claw of a stronger demon. Among the Kin of Darkness, front-line fighters likely all carry one. Even after its owner is slain, magic still lingers in the claw, and anyone weak of heart who touches it would be swallowed up in an instant.",
+  "kind": "desc"
+ },
+ {
+  "en": "A trident said to belong to the mermaid queen, symbol of rule over the sea. At sea, nothing can escape it. It calls whirlpools, gathers black clouds, and strikes down with lightning any who disrespect the sea. Fishermen greatly fear it for this.",
+  "kind": "desc"
+ },
+ {
+  "en": "A move that drives a clenched fist straight down. Simple, but the shock running from the crown down the spine is not to be taken lightly. Thrown with real hostility, it can even kill. This is no time to joke about it making you shorter.",
+  "kind": "desc"
+ },
+ {
+  "en": "A vine of the alraune, a bewitching flower. It looks thin, wiggly and flimsy, but it bends like a well-tanned whip and slices the skin. Even if you block it, it coils around you and pins you, so even veteran adventurers find it hard to fend off.",
+  "kind": "desc",
+  "note": "Alraune as in the item name 'Alraune Vine'."
+ },
+ {
+  "en": "The scale dust that cloaks a poison moth. It may spray the dust straight at you, or flit around scattering it. It also causes hallucinations, and many adventurers who scoff at a mere bug end up losing their lives.",
+  "kind": "desc"
+ },
+ {
+  "en": "Claw of a high-ranked dragon. A lesser dragon's intellect is little better than a beast's, but a greater one is a match for a human at least, sometimes wiser than us. If it wields its claw's power calmly and precisely, an average adventurer stands no chance.",
+  "kind": "desc"
+ },
+ {
+  "en": "A fan whose wings are finished razor-sharp. Thrown well, it reportedly can part a foe's head from its body, like the 'Takasago' play in the fan-tossing game tosenkyo.",
+  "kind": "desc",
+  "note": "Tosenkyo: Japanese fan-tossing game; 'Takasago' is one of its scoring patterns. 'Wings' = tsubasa (the fan's spread ribs)."
+ },
+ {
+  "en": "A kyosoku is an armrest from a land far to the east. Lean an elbow on it in a relaxed pose and onlookers feel awed and cowed. A must-have for court nobles. So if such a person hurls their armrest at you, they are truly furious. Short of groveling on the floor, you won't be forgiven.",
+  "kind": "desc",
+  "note": "Tenjoubito = court nobles; dogeza = groveling on the floor."
+ },
+ {
+  "en": "A claw borne by beasts whose names are known across the land. They have evolved outside nature's laws, and the land will never make peace with them again. Yet that they survive anyway is proof of nothing but the power this claw holds.",
+  "kind": "desc"
+ },
+ {
+  "en": "Long ago, hearts grew desolate and the land was engulfed in war. When a king asked the dragons for help to end the strife, they gave him this Dragon Emperor Sword instead of their aid. Raise it high, and you can wield the dragons' power against the foe before you.",
+  "kind": "desc",
+  "note": "tasukeru kawari ni read as 'instead of helping directly'; king is 'him' (ou)."
+ },
+ {
+  "en": "A strange art that calls brass-colored lightning down from the sky onto a foe at a thought. Unlike normal lightning, it does not pass through the body into the ground, but races around inside it until spent. Take a hit, and your body will be covered in worm-like burns.",
+  "kind": "desc"
+ },
+ {
+  "en": "Slime serves several purposes: keeping the body from drying out, helping it slide, catching prey, and so on. If you face a foe with slime, working out what it is for may lead you to victory.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword with an evil will. It takes over its wielder's mind and seeks ever greater power. So when it sees that a foe is stronger than its current wielder, it may even let the wielder be killed on purpose, so that the foe will pick it up.",
+  "kind": "desc"
+ },
+ {
+  "en": "Makes destructive waves by quivering. When a wave hits a body, it sets off resonance and destroys it from within. In theory, quivering in time with an incoming wave could amplify it and send it back, a 'wave return', but no one has pulled it off yet.",
+  "kind": "desc"
+ },
+ {
+  "en": "A big move: open wide and swallow the foe whole. Anyone would do it with a favorite food in front of them. Doing the eating is fine, but being gulped down to the stomach with a \"Thanks for the meal!\" is to be avoided at all costs.",
+  "kind": "desc",
+  "note": "itadakimasu / gochisousama joke: eating is fine, being eaten is not."
+ },
+ {
+  "en": "A halo is the glow behind a holy figure. We tend to embrace things linked to what we already embrace. The Demon Halo reflects the heart of whoever faces the demon. If that heart is steeped in evil, they will bow to its evil radiance, even though the foe is a demon.",
+  "kind": "desc",
+  "note": "hairou = halo (kouhai/gokou). Compressed to fit."
+ },
+ {
+  "en": "A hydra's fang. It is thicker and more firmly rooted than an ordinary snake's, so each bite really hurts. And since several heads are dealing them out, it stands to reason that hydras are strong.",
+  "kind": "desc"
+ },
+ {
+  "en": "A lamia's tail. Its supple muscles strike hard enough to knock a foe out in one blow. The tailed lower half is a snake's, yet it shares the human upper half's traits, so it's warm and lovely to touch or have coiled around you. Unable to forget the feel, people keep switching class to Summoner.",
+  "kind": "desc",
+  "note": "tenshoku = class change to Summoner (class name from corpus/HELP_TEXT). Compressed to fit."
+ },
+ {
+  "en": "The fly knights ever on guard around the Insect Lord, king of the flies. Besides their king, they also guard those the king approves of. Fiercely loyal and known to see every duty through, they are feared far and wide.",
+  "kind": "desc",
+  "note": "Insect Lord (insekutaa roodo) is a new name: the MONSTER1 name is not translated yet (slice_33); align when it is."
+ },
+ {
+  "en": "A sword that can fire spirits and dispel spirits. Hold it and you'll find it faintly cold, said to be because its guard is linked to the spirit world. Those who take it up, unless lifeless or free of any clinging to life, will reportedly have their souls seized by the sword.",
+  "kind": "desc",
+  "note": "Source typos: tsuba written with the 'spit' kanji (read as the sword guard); 'tamashii wo ken to torawareru' read as 'souls seized by the sword'."
+ },
+ {
+  "en": "A big move that acts on the air to form a pressure fault, then shifts it, catching the foe in the friction. The victim loses balance, gripped by a strange feeling, as if upper and lower body suddenly slid apart. Go along with it, and you'll be gently twisted, swaying, and torn apart.",
+  "kind": "desc"
+ },
+ {
+  "en": "A greatsword that embodies the Imperial Sword itself. Moving the Imperial Sword as if it were part of you is said to be the greatest trial for anyone who would bear the name Imperial Sword. So hard is it to handle that it's even said the sword chooses its wielder.",
+  "kind": "desc",
+  "note": "Source is self-referential (the name seems to be a title as well as the sword); kept literally."
+ },
+ {
+  "en": "The whip of the Hell Master, jailer of Hell. The common Hell Master is toned down in shape and power so adventurers can use it. So some adventurers are baffled by how the Hell Master's original Hell Master differs from their replica one. Of course, the genuine article is far stronger.",
+  "kind": "desc",
+  "note": "Name wordplay kept (monster and whip share the name Hell Master)."
+ },
+ {
+  "en": "A fang of light that shines in rainbow colors. It is very beautiful, and depending on its clarity it can be worth more than diamonds and other gems. But each time it is used to strike a foe, its clarity drops, so very clear ones are extremely rare.",
+  "kind": "desc",
+  "note": "Source says 'attack with the claws'; generalized to 'used to strike'."
+ },
+ {
+  "en": "Fire too many Psi Blades, that is, be attacked by all around for too long, and a mind is in time transformed. However it is treated, it takes everything as an attack. It turns every emotion into hatred and grief and fires it out: that is Psi Blade +1. If a foe fired this at you, could you take it?",
+  "kind": "desc",
+  "note": "Source equates firing Psi Blades with a mind under constant attack (the '=' sign); rendered 'that is'."
+ },
+ {
+  "en": "An arm blazing so fiercely it could fairly be called hellfire. A weapon borne by greater spirits and the like. You feel intense heat just standing near it, so friend or foe, take care when getting close to anyone with this arm.",
+  "kind": "desc"
+ },
+ {
+  "en": "Not the usual swallow whole: an improved move that unhinges the jaw like a snake to swallow prey bigger than its own mouth whole. It's fine to watch an animal do it, but...",
+  "kind": "desc",
+  "note": "Trailing off kept."
+ },
+ {
+  "en": "A claw as bright red as blood. That blood-like color is in fact a paralyzing poison. When it scratches, it pours poison into the wound and paralyzes the foe. Once the victim can't move, all that's left is to surrender to the claw's owner.",
+  "kind": "desc"
+ },
+ {
+  "en": "A whip that only chosen demons may wield. Netherworld hellfire spews from the grip, and each lash sends sparks dancing through the air. Struck by it, you'll not only be burned, but have your very soul scraped away.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Great Wheel spinning even faster. There are many theories on the spin path that adds most power; some say an elliptical path with a fast-slow rhythm beats a near-circular one at constant speed. Why not master the Great Wheel yourself?",
+  "kind": "desc"
+ },
+ {
+  "en": "The scythe of Samael, a huge mantis-like skeleton that portends death. All who meet Samael are killed, so bringing its scythe home is considered a pipe dream.",
+  "kind": "desc",
+  "note": "Samael as in item name Samael's Scythe; 'its' used (gender unknown)."
+ },
+ {
+  "en": "The deadly claw of beasts that have become legend. Its power is guaranteed: you will taste its destructive force, greater even than the rumors, with your own bodies.",
+  "kind": "desc"
+ },
+ {
+  "en": "A soul that wanders long as a wraith hones its grudge ever sharper. In time that grudge takes the form of claws, swung at the living.",
+  "kind": "desc"
+ },
+ {
+  "en": "A claw borne by the very highest class of dragons. Before it, ordinary armor and gear tear like paper. A legendary claw that it's said no one has ever brought back.",
+  "kind": "desc"
+ },
+ {
+  "en": "A saber borne by the dark knights. Strengthened by dark rites, it is tuned to bring out their full power. It can also petrify, so even blocking one blow is very dangerous. And if a high-ranking demon wields it, you had best be braced for the worst.",
+  "kind": "desc"
+ },
+ {
+  "en": "Claws of the very highest demons. Small as they look, they hide fearsome power within. Even a scratch could prove fatal. If you must face one, whoever first touches the other's body will be the victor.",
+  "kind": "desc"
+ },
+ {
+  "en": "What could be called the vessel of life for young homunculi. The flask has no special treatment, but it is reinforced by the will of the homunculi desperately guarding this home to survive. When that will breaks, their lives come to an end.",
+  "kind": "desc",
+  "note": "kanojotachi: homunculi referred to as female; 'their' keeps it plural without loss."
+ },
+ {
+  "en": "Armor painted in a picture, made real along with the monster inside it. It does have the defense its looks suggest, but no special abilities beyond that.",
+  "kind": "desc"
+ },
+ {
+  "en": "A legendary mad sword said to torment all who face it. Many adventurers have fallen before it. Now let us ask what adventure means. Even if you fall, you overcame fear and took the first step; a bright future as challengers awaits you. On your backs as you rise again, the moon smiles.",
+  "kind": "desc",
+  "note": "Compressed to fit 312; 'saichousensha' = challengers (trying again)."
+ },
+ {
+  "en": "Headgear a grown homunculus wears to stay alive. It cannot yet live by breathing, so if this flask breaks, it will suffocate and die writhing. If you see a homunculus who broke its flask by accident, call an alchemist for it before it is too late.",
+  "kind": "desc",
+  "note": "Homunculus as 'it' (gender not settled here)."
+ },
+ {
+  "en": "This dress gently intoxicates the heart like a sweet cocktail. A woman wrapped in it tints her surroundings a soft rose with her charm and the dress's.",
+  "kind": "desc"
+ },
+ {
+  "en": "Holy vestments that only the chosen among the nobles of the night may wear. Should an unworthy vampire put it on by mistake, it would crumble to ash at once.",
+  "kind": "desc",
+  "note": "Vampire as in chap corpus."
+ },
+ {
+  "en": "A robe imbued with the spirits' protection. Whoever wears it, that protection is granted equally. This likely stems from the fact that spirits, at root, are the land's system for circulating mana.",
+  "kind": "desc"
+ },
+ {
+  "en": "A cute headband made of roses. On fine days you can see alraunes making them together in high spirits. It invites sleep and confusion, so it's fine gear too. Filled with the alraunes' heartfelt care, the flowers never wither, fresh as they are.",
+  "kind": "desc"
+ },
+ {
+  "en": "Mail made for the Royal Honey by its worker bees. Its materials are a complete jumble, but the special defenses they give are not to be scoffed at. When it's damaged, worker bees come and patch it up, so it always looks brand new.",
+  "kind": "desc",
+  "note": "Royal Honey (roiyaru hanii) is a new name: MONSTER1 name not translated yet (slice_33). 'its' used, gender unknown."
+ },
+ {
+  "en": "A robe of humiliation sent to the defeated. No one wants to wear it, yet beaten knights nearly always don it by choice. It means chastening their defeated selves and not lying to themselves, and carries the resolve to win next time and make the victor wear it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A cloak adorned with rime from frozen lands. Any frozen tree will do, but lively green leaves frozen just as they were are thought best. Rime itself is rarely seen, so quality seems to vary wildly.",
+  "kind": "desc"
+ },
+ {
+  "en": "A breastplate for Evil alignment only. It is made for easy movement so as not to hinder its owner's attacks. Even if you aren't Evil, you'd want to try it on.",
+  "kind": "desc"
+ },
+ {
+  "en": "A silk robe that shines at midnight. It heightens the wearer's charm further, raising it to a beauty both graceful and alluring. Even if its wearer were one of the Kin of Darkness, you'd be entranced.",
+  "kind": "desc"
+ },
+ {
+  "en": "Nights when the sun does not set: such miraculous nights are called white nights. Cloth woven on a white night is said to hold the power of a sun that never sets. It offers some resistance to Priest spells.",
+  "kind": "desc"
+ },
+ {
+  "en": "A robe said to have been worn by the goddess who rules over serpents. Wear it, they say, and you can command every kind of snake. It also offers strong resistance to snake venom.",
+  "kind": "desc",
+  "note": "megami = goddess (source is explicit)."
+ },
+ {
+  "en": "Armor worn by the \"kings\" among the Kin of Darkness who have a sovereign's makings. Lesser demons may not even know it exists, but greater demons would bow down at the mere sight of someone wearing it.",
+  "kind": "desc"
+ },
+ {
+  "en": "\"Cheap\" means shoddy or low-grade. This is armor scrapped as defective while making Iron Armor, which somehow reached the market. Armor guards your body, so every adventurer is willing to spend on it. The result: the worst armor of all, which won't sell no matter how cheap.",
+  "kind": "desc",
+  "note": "'Iron Armor' is generic here (no ITEM.CSV row named aian aamaa found)."
+ },
+ {
+  "en": "A shovel with uses to suit any job: digging holes, breaking rock, pounding wood. In battle it works as a spear and also as a shield. Normally it is just a tool, but in a farmer's or laborer's hands it makes a fine weapon. In a cook's hands, a fine frying pan.",
+  "kind": "desc",
+  "note": "Item name not yet in ITEM outputs (ctx shows the new-item marker)."
+ },
+ {
+  "en": "A robe made for clowns. It looks extremely flashy, making a clown's every move seem even more exaggerated and fun.",
+  "kind": "desc"
+ },
+ {
+  "en": "A belly dress with the midriff and chest wide open. Spells raise barriers over the bare parts, so its defense is very high, and it strongly resists Holy and Dark magic. Bodily allure has long been an offering to the god of change. So do not ogle. If you can't help it, squint.",
+  "kind": "desc",
+  "note": "hengenshin = god of change (Ashtel's title per glossary); kept as the title, not the name."
+ },
+ {
+  "en": "A bucket made of tin. Surprisingly handy in all sorts of situations. Good for holding water, good for holding things, good for wearing on your head: it's at home anywhere. Truly all-purpose.",
+  "kind": "desc"
+ },
+ {
+  "en": "Inexperienced servants are not trusted with fine tea leaves. Being allowed to handle Greater Pekoe means nothing less than being recognized as a true servant. Fledgling servants watch their seniors handle these leaves and work hard, thinking, \"Someday, me too.\"",
+  "kind": "desc",
+  "note": "Servant: lowercase, generic household servants (not the Servant class)."
+ },
+ {
+  "en": "A planner packed with upcoming plans: a minute-by-minute schedule in meticulous writing. Things often don't go as scheduled, but fear not. It lists what to do in every foreseeable case at every point. Even what to do if you lose this planner is written in this planner.",
+  "kind": "desc"
+ },
+ {
+  "en": "A breastplate made of pearl oyster shell. The sea folk work the shell with a special process to make it. Perhaps that's why it has fair resistance to Mage spells.",
+  "kind": "desc"
+ },
+ {
+  "en": "This breastplate is presented to a clan's chief and is worked with more care than the usual oyster one. Its resistance to Mage spells is greater too, making it formidable armor.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor of the frenzied. While wearing it, you can turn madness into inner strength, making your physical abilities burst into bloom. The bizarre sight sends even allies fleeing. Attacking in such a state, you throw the foe into confusion as well.",
+  "kind": "desc",
+  "note": "Source typo kiteiteiru read as kiteiru."
+ },
+ {
+  "en": "A spear of light that makes even pure white light shine the color of darkness. Where it pierces, dark flames swirl up and burn the foe to nothing in an instant.",
+  "kind": "desc"
+ },
+ {
+  "en": "Claws of the demon kings. Even a fragment holds great power, so when giving a trusted subordinate a vital mission, a king may tear off a claw for protection. Attacked with these claws, with their boundless magic, or by one holding a weapon, you are in for a hard fight.",
+  "kind": "desc"
+ },
+ {
+  "en": "People praise freedom, yet cannot live without some lack of it. For those who crave obedience and servitude, this mace teaches what they must do and how they must live. Past a little endurance, they will taste the thrill of the gap between heart and body being filled.",
+  "kind": "desc",
+  "note": "Source keeps the innuendo; kept at the same strength."
+ },
+ {
+  "en": "A spear born of a demon god. Its destructive power is immense; one thrust is said to bore a hole in the earth. Forged with a grudge against the gods, it will show terrifying power if ever turned against a god.",
+  "kind": "desc"
+ },
+ {
+  "en": "Just an ordinary fallen tree. But being able to use it as a weapon means the foe has that much brute strength. Against a foe who can heft a fallen tree, you may want to think twice before attacking head-on.",
+  "kind": "desc"
+ }
+]

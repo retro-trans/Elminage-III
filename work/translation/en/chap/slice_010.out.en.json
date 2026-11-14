@@ -1,0 +1,368 @@
+[
+ {
+  "en": "\"Hello, adventurers!\nDid you find anything good?\"{w}",
+  "kind": "msg",
+  "note": "Bona addresses the party as boukensha-san; rendered \"adventurers\" (plural, gender-neutral) throughout."
+ },
+ {
+  "en": "You showed Bona the Wonderful Turmeric.{w}",
+  "kind": "msg",
+  "note": "Item name \"Wonderful Turmeric\" as in chap slice_002 (key item get message)."
+ },
+ {
+  "en": "\"Wow, that's a really fine turmeric!\nThank you. Let's just try giving it to the sapling!\"{w}",
+  "kind": "msg",
+  "note": "naegi-san -> \"the sapling\" (honorific -san on an object dropped; avoids Mr./Ms.)."
+ },
+ {
+  "en": "You buried the Wonderful Turmeric at the foot of the sapling.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, hey. What the heck are you buryin' me in?\nDon't go buryin' some mystery junk!\"{w}{p}\"Even comin' from you, Bona,\ngimme a break here.\"{w}",
+  "kind": "msg",
+  "note": "Sapling speaks all in katakana (odd, gruff voice); rendered as slangy dropped-g speech, not caps (caps would read as shouting). \"Bona-chan\" -> \"Bona\"."
+ },
+ {
+  "en": "\"This is an amazing turmeric the adventurers\nwent out of their way to bring you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, hey. Quit doin' stuff nobody asked for...?\nHey, my body's feelin'... kinda weird.\"{w}",
+  "kind": "msg",
+  "note": "Line breaks off mid-complaint (\"...?\") as the turmeric takes effect; kept."
+ },
+ {
+  "en": "\".........\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, adventurers. Is this really okay?\nIt's gone all quiet...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gnya. Gnyanyaa.\"{w}",
+  "kind": "msg",
+  "note": "Anib speaks only in cat-like noises (gunya / nya); romanized as Gnya / Nya throughout."
+ },
+ {
+  "en": "When Bona tried to dig up the turmeric,\nthe sapling suddenly began to grow.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Rumble rumble rumble rumble...{w}",
+  "kind": "msg",
+  "note": "Sound effect (gogogogo-o) rendered as a word."
+ },
+ {
+  "en": "With a tremendous roar, the sapling became a great tree that pierced the heavens.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wow... amazing.\nTo think it could get like this in an instant...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gshaaa. Nyaaaa.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you gazed dumbfounded at the great tree that had been a sapling,\na mysterious voice came from it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Great Tree",
+  "kind": "name",
+  "note": "Name box taiju; the tree calls itself \"the Great Tree of Heaven\" (ten no taiju)."
+ },
+ {
+  "en": "\"Thou hast done well, adventurers and folk of the forest.\nI am the Great Tree of Heaven.{w}The one who looks on upon all things from heaven's heights.\"{w}{p}\"My heights shall pierce the sky and reach the heavens.\"{w}",
+  "kind": "msg",
+  "note": "Lordly archaic register (taigi de atta / ... seshi mono nari). mori no juunin \"folk of the forest\" kept number-neutral (Bona and Anib both present). \"The one who\" avoids a gendered \"he who\"."
+ },
+ {
+  "en": "\"What in the world...\nMaybe your fertilizer was just too amazing, adventurers?\"{w}{p}\"It didn't just get bigger.\nEven the way it talks changed.\"{w}{p}\"I've never seen anything like this.\nBut it sure said some weird stuff...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gnya? Gnyaaaa!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hm? What is it, Big Brother?\nEh? There's something up there?\"{w}",
+  "kind": "msg",
+  "note": "oniichan -> \"Big Brother\" (Bona's name for Anib)."
+ },
+ {
+  "en": "When you strain your eyes and look up at the Great Tree of Heaven,\nits top does seem to be bumping against something.{w}",
+  "kind": "msg",
+  "note": "sentou (lit. \"the lead/front\") read as the treetop."
+ },
+ {
+  "en": "\"This thing's sooo big, after all.\nMaybe it bumped right into the sky!\nBut what could be up there...?\"{w}",
+  "kind": "msg",
+  "note": "Variant of row 743: konna ni (\"this big\") vs anna ni (\"that big\") kept as \"This thing\" vs \"That thing\"."
+ },
+ {
+  "en": "\"That thing's sooo big, after all.\nMaybe it bumped right into the sky!{w}But what could be up there...?\"{w}",
+  "kind": "msg",
+  "note": "See row 742; {w} placement differs from 742 as in the source."
+ },
+ {
+  "en": "\"Huh? You couldn't get up to the sky?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aww, I see... That's kind of a shame...\"{w}",
+  "kind": "msg",
+  "note": "sokkaa -> \"Aww, I see...\"; subject of the regret is Bona."
+ },
+ {
+  "en": "\"Do your best!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Amazing, amazing!!\"{w}{p}\"You really did save the Palace of the Sun!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you entered the village, you were showered with praise.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gnya! Nyanyanyaa-nya.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Big Brother's praising you like crazy too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ohh! Adventurers, well done saving the Palace of the Sun!\"{w}{p}\"When I heard you adventurers were coming to this village,\nI came all the way from Teridon to deliver love!\"{w}{p}\"Now, accept it!\nThis! Is the finest! LOVE!!\"{w}",
+  "kind": "msg",
+  "note": "Barjeff (wmap slice_18 spelling); next row (753, translated elsewhere) is the hug, so the \"love\" is the hug."
+ },
+ {
+  "en": "\"Bona and everyone can't give you anything,\nbut come play with us anytime you're in Perpeco Forest!\"{w}",
+  "kind": "msg",
+  "note": "Bona-tachi \"Bona and everyone\" keeps her third-person self-reference."
+ },
+ {
+  "en": "\"Adventurers, this is a token of my gratitude.\nAccept it along with my love!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Received 1,000,000 GP.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nya! Nyanyanyaa-nya.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're right, Big Brother. Let's start the party!\"{w}{p}\"Bona could only make cookies,\nbut there are tons of them to make up for it!\"{w}{p}\"Come eat and dance with us, adventurers!\nIt'll be so much fun!\"{w}",
+  "kind": "msg",
+  "note": "sono kawari takusan youi shita: subject is Bona; recast as \"there are tons of them\" to keep Bona's third-person voice without repeating the name."
+ },
+ {
+  "en": "\"An ogre was looking for you, y'know?\"{w}",
+  "kind": "msg",
+  "note": "oga no hito -> \"an ogre\" (number/gender unknown)."
+ },
+ {
+  "en": "\"A Roscadil soldier was looking for you, y'know?\"{w}",
+  "kind": "msg",
+  "note": "heitai-san: number unknown, singular chosen."
+ },
+ {
+  "en": "\"An Algrantz soldier was looking for you, y'know?\"{w}",
+  "kind": "msg",
+  "note": "See row 760."
+ },
+ {
+  "en": "\"Hello! Make yourselves at home!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nyanyaa-nya.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I really wanted to know\nwhat's on the other side of the sky...\"{w}",
+  "kind": "msg",
+  "note": "Dropped subject is Bona; restored as \"I\"."
+ },
+ {
+  "en": "Gossipy Hunter",
+  "kind": "name",
+  "note": "uwasa-zuki na kariudo; \"Hunter\" as in wmap/chap (\"Hunters\" class)."
+ },
+ {
+  "en": "\"Speaking of which, I heard a rumor{w}that an item called the Amulet of Life brings the blessing of a child.\"{w}{p}\"Apparently this one couple who couldn't have kids got their hands on one, and right away,{w}they had a baby.\"{w}",
+  "kind": "msg",
+  "note": "Item name \"Amulet of Life\" as in wmap slice_07."
+ },
+ {
+  "en": "Deep in the forest, a little girl is surrounded by monsters.{w}Her eyes are full of fear; she seems to be begging for help.{w}",
+  "kind": "msg",
+  "note": "shoujo \"little girl\" is stated in the source; \"her\" follows from it. Probably Bona (cf. row 824 \"the stone Bona had picked up\"), but not named here."
+ },
+ {
+  "en": "Help her?",
+  "kind": "data",
+  "note": "Choice prompt."
+ },
+ {
+  "en": "Before you were the dying Anib and a monster\nthat must have been the owner of that stone.{w}{p}As you rushed over, Anib murmured something faintly\nand passed out.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The raging monster now turned its fangs on you.{w}",
+  "kind": "msg",
+  "note": "kiba wo mukeru -> \"turned its fangs on you\"."
+ },
+ {
+  "en": "More and more monsters appeared.{w}{p}Just then, the dying Anib gently placed the stone Bona had picked up\nright in front of the monsters.{w}",
+  "kind": "msg",
+  "note": "monsutaa no mokuzen: number not marked; next row says the monsters (plural) picked it up, so plural."
+ },
+ {
+  "en": "The monsters that picked up the stone let out satisfied cries\nand left for the depths of the forest.{w}{p}Anib tottered back to the village.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                         DANGER AHEAD                         *\n*                      HAUNTED MANSION                       *\n*                            KEEP AWAY                             *{0F}",
+  "kind": "msg",
+  "note": "Signboard, 3 framed lines (not an echo of a previous row). Padded with ASCII spaces to about 320 px per line (tools/text_build.text_width) to mirror the full-width frame. No {w} in source; kept."
+ },
+ {
+  "en": "Villager",
+  "kind": "name"
+ },
+ {
+  "en": "\"There's the remains of a ruined house to the northwest...\nbut at night, y'see...{w}It's so frightenin', nobody can go near that area...\"{w}",
+  "kind": "msg",
+  "note": "chikayorenee: subject unstated (speaker or people in general); rendered \"nobody can go near\"."
+ },
+ {
+  "en": "Farmer",
+  "kind": "name"
+ },
+ {
+  "en": "\"Watch yerself 'round there.{w}There's a whooole lotta traps set for them varmints\nthat wreck the fields.\"{w}",
+  "kind": "msg",
+  "note": "Rustic dialect (tee-kusan) kept as rural speech."
+ },
+ {
+  "en": "Books and documents are piled up like mountains.{w}Nobody seems to be home.{w}",
+  "kind": "msg",
+  "note": "juunin wa inai you da: \"nobody seems to be home\" (covers both \"no one lives here\" and \"the resident is out\")."
+ },
+ {
+  "en": "It's locked.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Something feels off at the edge of your vision.{w}Little by little it takes shape and blocks your path.{w}{p}The wretched spirits of the dead draw near,\nseeking to make you one of them.{w}",
+  "kind": "msg",
+  "note": "Tense unified to present (source mixes present/past)."
+ },
+ {
+  "en": "A strange-looking dragon suddenly swooped in.{w}Beating wings like the leafy boughs of trees,\nthe dragon attacked you!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Is it poison? Suddenly you find it hard to breathe.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Your throat turns scratchy,\nand breathing gets difficult. What could have happened so suddenly?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "At last, the culprit appeared.{w}A giant that doesn't just spew poison -- it lives alongside toxins.{w}{p}A love of poison taken this far is impressive in its own way,\nbut there's no need for you to go along with it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "* Oops! *{0F}{w}",
+  "kind": "op096",
+  "note": "Wizardry trap call \"oops\"; \"Oops!\" as in wmap slice_07 row 484. Source has no opening {0E} in this row (opened elsewhere); kept as is."
+ },
+ {
+  "en": "A Picnicker is digging a hole for all it's worth.{w}",
+  "kind": "msg",
+  "note": "isshin furan -> \"for all it's worth\"; \"it\" avoids gendering the monster."
+ },
+ {
+  "en": "Picnicker",
+  "kind": "name",
+  "note": "Monster name (MONRAW/MON_TEXT pikunikkaa), romanized as \"Picnicker\"."
+ },
+ {
+  "en": "\"Waah! Adventurers!{w}D-don't pick on me, okay!?{w}And no paralysis, sleep, or petrification either!?\"{w}{p}\"W-well, see, I think there's something under here.\nBut my pickaxe broke....{w}So now I'm chipping away at it with these fire tongs.\"{w}{p}\"Hey, could you bring me something to replace it?{w}Once in a while wouldn't hurt, right?{w}You guys are always stealing all kinds of stuff from me...\"{w}{p}\"I'm sorry!\nI got a little cocky! Just kidding, kidding!\nNot the paralyze, petrify, strip-my-gear-and-steal combo! Nooo!\"{w}{p}\"...Huh? You're not gonna pick on me?{w}Seriously? For real?\"{w}{p}\"Yes!\nThen I'll keep on digging as long as I can!\"{w}",
+  "kind": "msg",
+  "note": "Pages 2-3 repeated verbatim in row 842. The Picnicker is the Elminage punching-bag monster players paralyze/petrify to steal from (EVENT_TEXT hint); \"mahi ni sekika de soubi kaijo no nusumu\" rendered as the combo. Switches to polite speech after apologising; rendered as slightly more deferential English."
+ },
+ {
+  "en": "\"W-well, see, I think there's something under here.\nBut my pickaxe broke....{w}So now I'm chipping away at it with these fire tongs.\"{w}{p}\"Hey, could you bring me something to replace it?{w}Once in a while wouldn't hurt, right?{w}You guys are always stealing all kinds of stuff from me...\"{w}",
+  "kind": "msg",
+  "note": "Identical to pages 2-3 of row 841; English kept identical."
+ },
+ {
+  "en": "\"Oh! That's it, that's the one!{w}Please, let me have that Garden Keeper.{w}",
+  "kind": "msg",
+  "note": "Item \"Garden Keeper\" (ITEM.json, untranslated there yet). No closing quote in the source (choice \"hand it over?\" follows); mirrored."
+ },
+ {
+  "en": "\"Oh, this is...!{w}Thank you so much!{w}",
+  "kind": "msg",
+  "note": "No closing quote in the source; mirrored."
+ },
+ {
+  "en": "\"All right, with this baby--!\"{w}{p}\"......Um, once I'm done digging,\nplease don't paralyze me or anything, okay?{w}You promise, right? No petrifying either, okay?\"{w}{p}\"Got it? No means no, okay?{w}......Right, here goes!\"{w}{p}\"Heave-hooo!\"{w}",
+  "kind": "msg",
+  "note": "hoisassaa (work chant) -> \"Heave-hooo!\"."
+ },
+ {
+  "en": "\"Yes! I knew there was something down th\nEEEEEEEEERE!?!?!?!?\"{w}",
+  "kind": "msg",
+  "note": "Source breaks \"atta\" (there was) into a scream as he falls through (a / TAaaaa). Mirrored by breaking \"there\" across the same \\n."
+ },
+ {
+  "en": "The Picnicker fell down the hole.{w}",
+  "kind": "msg",
+  "note": "ochite itta; the hole is in the scene (row 850)."
+ },
+ {
+  "en": "\"...No, really, it's fine.\"{w}",
+  "kind": "msg",
+  "note": "Sulky reply, presumably when the party declines to hand over the Garden Keeper."
+ },
+ {
+  "en": "There is the hole the Picnicker dug.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Enter the hole?",
+  "kind": "data"
+ },
+ {
+  "en": "There is an outlandish signboard.{w}",
+  "kind": "msg",
+  "note": "kibatsu -> \"outlandish\" as in wmap slice_10 row 775 (Joker Land)."
+ },
+ {
+  "en": "\n{0E}*                    Welcome to Joker Land                    *{0F}{w}{p}...is what it says.{w}",
+  "kind": "msg",
+  "note": "Banner (not an echo). Padded to about 336 px like the source frame."
+ },
+ {
+  "en": "Joker",
+  "kind": "name"
+ },
+ {
+  "en": "\"If ya wanna go any further,\nya gotta collect three medals.\"{w}{p}\"The medals are scattered\nall over this floor!{w}Let's go find 'em -- the Joker Land Medals!\"{w}",
+  "kind": "msg",
+  "note": "\"Joker Land Medal\" (the key item itself is \"Joker Medal\", next slice)."
+ }
+]

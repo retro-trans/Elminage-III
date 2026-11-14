@@ -1,0 +1,1130 @@
+[
+ {
+  "id": "SPELL_TEXT.CSV:5:3",
+  "en": "Balad",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:5:4",
+  "en": "Attacks one enemy with fire.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:6:3",
+  "en": "Misama",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:6:4",
+  "en": "High chance to put one enemy to sleep.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:7:3",
+  "en": "Dioseed",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:7:4",
+  "en": "Shows the map of every floor of the current dungeon.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:8:3",
+  "en": "Balados",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:8:4",
+  "en": "Attacks one enemy row with fire.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:9:3",
+  "en": "Glass",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:9:4",
+  "en": "Attacks one enemy with freezing cold.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:10:3",
+  "en": "Ramisama",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:10:4",
+  "en": "Has a chance to put one enemy row to sleep.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:11:3",
+  "en": "Venom",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:11:4",
+  "en": "High chance to inflict Poison on one enemy.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:12:3",
+  "en": "Mabalad",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:12:4",
+  "en": "Attacks one enemy row with fire.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:13:3",
+  "en": "Ziakal",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:13:4",
+  "en": "Strikes one enemy with lightning.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:14:3",
+  "en": "Ravenom",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:14:4",
+  "en": "Has a chance to inflict Poison on one enemy row.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:15:3",
+  "en": "Robuti",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:15:4",
+  "en": "Raises one enemy's AC by 7. Stackable.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:16:3",
+  "en": "Maglass",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:16:4",
+  "en": "Attacks one enemy row with freezing cold.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:17:3",
+  "en": "Stoma",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:17:4",
+  "en": "High chance to petrify one enemy.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:18:3",
+  "en": "Sosareo",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:18:4",
+  "en": "Makes the party float in the air in dungeons.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:19:3",
+  "en": "Rabalad",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:19:4",
+  "en": "Attacks one enemy row with fire.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:20:3",
+  "en": "Argeiss",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:20:4",
+  "en": "A fissure damages enemies, with a low chance to swallow them.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:21:3",
+  "en": "Hallobuti",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:21:4",
+  "en": "Raises all enemies' AC by 4. Stackable.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:22:3",
+  "en": "Raglass",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:22:4",
+  "en": "Attacks one enemy row with freezing cold.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:23:3",
+  "en": "Ziakalad",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:23:4",
+  "en": "Strikes one enemy with lightning.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:24:3",
+  "en": "Rastoma",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:24:4",
+  "en": "Has a chance to petrify one enemy row.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:25:3",
+  "en": "Enterook Mista",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:25:4",
+  "en": "Attacks all enemies with a non-elemental explosion.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:26:3",
+  "en": "Diomente",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:26:4",
+  "en": "Moves to a place you have visited. In battle, warps to random coordinates.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:27:3",
+  "en": "Miracle",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:27:4",
+  "en": "Asks the gods to work a mighty miracle at the cost of one level.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:28:3",
+  "en": "Feria",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:28:4",
+  "en": "Heals one ally a little.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:29:3",
+  "en": "Harias",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:29:4",
+  "en": "Blesses all allies' weapons so they can hit spirits and the like.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:30:3",
+  "en": "Tashif",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:30:4",
+  "en": "High chance to silence one enemy.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:31:3",
+  "en": "Erod",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:31:4",
+  "en": "Lights the dungeon so hidden mechanisms are easier to find. Time-limited.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:32:3",
+  "en": "Venom-Fei",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:32:4",
+  "en": "Cures one ally of Poison.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:33:3",
+  "en": "Latasif",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:33:4",
+  "en": "Has a chance to silence one enemy row.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:34:3",
+  "en": "Hallobukan",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:34:4",
+  "en": "Lowers all allies' AC by 3. Stackable.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:35:3",
+  "en": "Zomperi",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:35:4",
+  "en": "Shows any dead adventurers on the current floor.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:36:3",
+  "en": "Feirima",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:36:4",
+  "en": "Heals one ally moderately.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:37:3",
+  "en": "Roodfei",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:37:4",
+  "en": "Cures one ally of Paralysis.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:38:3",
+  "en": "Eroma",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:38:4",
+  "en": "Lights the dungeon so hidden mechanisms are easier to find. No time limit.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:39:3",
+  "en": "Rafelima",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:39:4",
+  "en": "Heals all allies a little.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:40:3",
+  "en": "Mirror Eyes",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:40:4",
+  "en": "Cures all allies of Sleep, Silence, Confusion, Charm and Fear.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:41:3",
+  "en": "Hallobukarm",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:41:4",
+  "en": "Lowers all allies' AC by 2. Lasts the whole expedition.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:42:3",
+  "en": "Honey Restorer",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:42:4",
+  "en": "Returns the party to the castle. Forgotten once cast.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:43:3",
+  "en": "Sama Eyes",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:43:4",
+  "en": "Cures all allies of every ailment except Petrification, Death and Ash.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:44:3",
+  "en": "Zefeifus",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:44:4",
+  "en": "High chance to instantly kill one enemy.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:45:3",
+  "en": "Robukand",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:45:4",
+  "en": "Sets one ally's AC to -20.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:46:3",
+  "en": "Psi Drain",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:46:4",
+  "en": "Creates a barrier that blocks one drain attack. Can be stacked.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:47:3",
+  "en": "Feireed",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:47:4",
+  "en": "Fully restores one ally's HP and cures all ailments but Death and Ash.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:48:3",
+  "en": "Rizefus",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:48:4",
+  "en": "Has a chance to revive one dead ally.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:49:3",
+  "en": "Elnam",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:49:4",
+  "en": "Attacks one enemy with holy power.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:50:3",
+  "en": "Psi Breath",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:50:4",
+  "en": "Creates a barrier that blocks one breath attack. Can be stacked.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:51:3",
+  "en": "Immolarati",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:51:4",
+  "en": "In exchange for all MP, cuts every enemy's current HP by a set ratio.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:52:3",
+  "en": "Rafeireed",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:52:4",
+  "en": "Heals all allies' HP moderately.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:53:3",
+  "en": "Rezefeid",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:53:4",
+  "en": "Has a chance to revive one ally from Death or Ash.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:54:3",
+  "en": "Razefeis",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:54:4",
+  "en": "Has a chance to instantly kill one enemy row.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:55:3",
+  "en": "Pomedoon",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:55:4",
+  "en": "Unleashes a breath attack.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:56:3",
+  "en": "Rood",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:56:4",
+  "en": "High chance to paralyze one enemy.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:57:3",
+  "en": "Mahamaha",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:57:4",
+  "en": "The whole party is guaranteed to escape from battle.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:58:3",
+  "en": "Portal",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:58:4",
+  "en": "Identifies the trap on a treasure chest.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:59:3",
+  "en": "Rarood",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:59:4",
+  "en": "Has a chance to paralyze one enemy row.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:60:3",
+  "en": "Bulafei",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:60:4",
+  "en": "Hides one ally so enemies won't target them.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:61:3",
+  "en": "Skorekh",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:61:4",
+  "en": "Raises all allies' speed.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:62:3",
+  "en": "Karacha",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:62:4",
+  "en": "High chance to confuse one enemy.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:63:3",
+  "en": "Orath",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:63:4",
+  "en": "Raises an ally's number of attacks by 1. Stackable.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:64:3",
+  "en": "Lascorek",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:64:4",
+  "en": "Lowers all enemies' speed.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:65:3",
+  "en": "Makaracha",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:65:4",
+  "en": "Has a chance to confuse one enemy row.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:66:3",
+  "en": "Bifei",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:66:4",
+  "en": "Draws enemy attacks onto one ally.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:67:3",
+  "en": "Yuniwa Coat",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:67:4",
+  "en": "Grants all allies the Inf Range status.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:68:3",
+  "en": "Pinto",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:68:4",
+  "en": "High chance to charm one enemy.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:69:3",
+  "en": "Rapoolfei",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:69:4",
+  "en": "Raises all allies' spell resistance. Stackable.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:70:3",
+  "en": "Ramialf",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:70:4",
+  "en": "Resets stat changes made in battle for friend and foe.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:71:3",
+  "en": "Pendeku",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:71:4",
+  "en": "Restores all allies' items that were broken in battle.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:72:3",
+  "en": "Rapinto",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:72:4",
+  "en": "Has a chance to charm one enemy row.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:73:3",
+  "en": "Rapidos",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:73:4",
+  "en": "Lowers all enemies' spell resistance. Stackable.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:74:3",
+  "en": "Pendea Coat",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:74:4",
+  "en": "Destroys a cursed item.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:75:3",
+  "en": "Zeo Nadar",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:75:4",
+  "en": "Rainbow light hits one enemy; stronger per spell cast this battle.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:76:3",
+  "en": "High Portal",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:76:4",
+  "en": "Safely disarms the trap on a treasure chest.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:77:3",
+  "en": "Protectorate",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:77:4",
+  "en": "Grants a special wish, but is forgotten once cast.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:78:3",
+  "en": "Contract",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:78:4",
+  "en": "Forms a contract with a monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:79:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:79:4",
+  "en": "Summons a contracted monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:80:3",
+  "en": "Dismiss",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:80:4",
+  "en": "Sends back the summoned monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:81:3",
+  "en": "Contract",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:81:4",
+  "en": "Forms a contract with a monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:82:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:82:4",
+  "en": "Summons a contracted monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:83:3",
+  "en": "Dismiss",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:83:4",
+  "en": "Sends back the summoned monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:84:3",
+  "en": "Contract",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:84:4",
+  "en": "Forms a contract with a monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:85:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:85:4",
+  "en": "Summons a contracted monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:86:3",
+  "en": "Dismiss",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:86:4",
+  "en": "Sends back the summoned monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:87:3",
+  "en": "Contract",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:87:4",
+  "en": "Forms a contract with a monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:88:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:88:4",
+  "en": "Summons a contracted monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:89:3",
+  "en": "Dismiss",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:89:4",
+  "en": "Sends back the summoned monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:90:3",
+  "en": "Contract",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:90:4",
+  "en": "Forms a contract with a monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:91:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:91:4",
+  "en": "Summons a contracted monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:92:3",
+  "en": "Dismiss",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:92:4",
+  "en": "Sends back the summoned monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:93:3",
+  "en": "Contract",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:93:4",
+  "en": "Forms a contract with a monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:94:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:94:4",
+  "en": "Summons a contracted monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:95:3",
+  "en": "Dismiss",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:95:4",
+  "en": "Sends back the summoned monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:96:3",
+  "en": "Contract",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:96:4",
+  "en": "Forms a contract with a monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:97:3",
+  "en": "Summon",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:97:4",
+  "en": "Summons a contracted monster.",
+  "max": 76,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:98:3",
+  "en": "Dismiss",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "SPELL_TEXT.CSV:98:4",
+  "en": "Sends back the summoned monster.",
+  "max": 76,
+  "used": true
+ }
+]

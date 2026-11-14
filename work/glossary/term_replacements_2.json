@@ -1,0 +1,266 @@
+[
+ {
+  "from": "\\bWho would have thought it -- mere folk of the land!",
+  "to": "Who'd have thought it -- mere people of the land!",
+  "jp": "大地の民",
+  "regex": true
+ },
+ {
+  "from": "(?<![\\w.])X(?=: Back\\b| button\\b|:Quit\\b)",
+  "to": "Cross",
+  "jp": "×ボタン",
+  "regex": true
+ },
+ {
+  "from": "(?<!Lord )\\bHevayur's gonna chew\\b",
+  "to": "Lord Hevayur's gonna chew",
+  "jp": "ヘヴァユール様",
+  "regex": true
+ },
+ {
+  "from": "\\bChoose a Quick Strike target\\b",
+  "to": "Choose a First Strike target",
+  "jp": "速攻",
+  "regex": true
+ },
+ {
+  "from": "\\bMagic Puppet Capture Trap\\b",
+  "to": "Magic Puppet Trap",
+  "jp": "魔傀儡捕獲罠",
+  "regex": true
+ },
+ {
+  "from": "\\bDemon General of Oblivion\\b",
+  "to": "Demon General of Dark Oblivion",
+  "jp": "暗滅魔将",
+  "regex": true
+ },
+ {
+  "from": "\\bThe Old Man's Blueprints\\b",
+  "to": "Old Man's Plans",
+  "jp": "おやじの設計図",
+  "regex": true
+ },
+ {
+  "from": "\\bRadiant Rank of the Sun\\b",
+  "to": "Sun's Light Rank",
+  "jp": "太陽の光位",
+  "regex": true
+ },
+ {
+  "from": "\\bChoose a Cackle target\\b",
+  "to": "Choose a Haughty Laugh target",
+  "jp": "高笑い",
+  "regex": true
+ },
+ {
+  "from": "\\bForebear's Breastplate\\b",
+  "to": "Forebear's Cuirass",
+  "jp": "先代の胸当て",
+  "regex": true
+ },
+ {
+  "from": "\\bChoose a Mimic target\\b",
+  "to": "Choose a Mimicry target",
+  "jp": "ものまね",
+  "regex": true
+ },
+ {
+  "from": "\\bBlessing of Dark Ruin\\b",
+  "to": "Blessing of Dark Oblivion",
+  "jp": "暗滅の加護",
+  "regex": true
+ },
+ {
+  "from": "\\bHoly Creation Sphere\\b",
+  "to": "Sanctum of Genesis",
+  "jp": "聖創圏",
+  "regex": true
+ },
+ {
+  "from": "\\b[Dd]ungeon load data\\b",
+  "to": "Dungeon Load data",
+  "jp": "ダンジョンロード",
+  "regex": true
+ },
+ {
+  "from": "\\bChoose a Hex target\\b",
+  "to": "Choose a Malediction target",
+  "jp": "呪言",
+  "regex": true
+ },
+ {
+  "from": "\\bHoly Genesis Sphere\\b",
+  "to": "Sanctum of Genesis",
+  "jp": "聖創圏",
+  "regex": true
+ },
+ {
+  "from": "\\bSanctum of Creation\\b",
+  "to": "Sanctum of Genesis",
+  "jp": "聖創圏",
+  "regex": true
+ },
+ {
+  "from": "\\bSeasoned Bar Snacks\\b",
+  "to": "Seasoned Snacks",
+  "jp": "熟練のおつまみ",
+  "regex": true
+ },
+ {
+  "from": "\\bGamea Family Legacy\\b",
+  "to": "Gamea House Legacy",
+  "jp": "ガメア家の遺産",
+  "regex": true
+ },
+ {
+  "from": "\\bthe evil magistrate\\b",
+  "to": "the Evil Magistrate",
+  "jp": "悪代官",
+  "regex": true
+ },
+ {
+  "from": "^Polyte the Bow Saint$",
+  "to": "Bow Saint Polyte",
+  "jp": "弓聖ポリーテ",
+  "regex": true
+ },
+ {
+  "from": "\\bSweeping Follow-up\\b",
+  "to": "Strafe Pursuit",
+  "jp": "掃射追撃",
+  "regex": true
+ },
+ {
+  "from": "\\bCircumzenithal Arc\\b",
+  "to": "Zenith Arc",
+  "jp": "環天頂アーク",
+  "regex": true
+ },
+ {
+  "from": "\\bCoronation Chamber\\b",
+  "to": "Coronation Hall",
+  "jp": "戴冠の間",
+  "regex": true
+ },
+ {
+  "from": "\\bMujid's Manuscript\\b",
+  "to": "Mujirod Manuscript",
+  "jp": "ムジッドの写本",
+  "regex": true
+ },
+ {
+  "from": "\\bSun's Radiant Rank\\b",
+  "to": "Sun's Light Rank",
+  "jp": "太陽の光位",
+  "regex": true
+ },
+ {
+  "from": "\\bSun Cage Reliquary\\b",
+  "to": "Sun Prison Shrine",
+  "jp": "陽牢の厨子",
+  "regex": true
+ },
+ {
+  "from": "^Necrophilis's Voice$",
+  "to": "Necrophilis",
+  "jp": "ネクロフィリスの声",
+  "regex": true
+ },
+ {
+  "from": "^\\?Fair Enchantress$",
+  "to": "?Enchantress",
+  "jp": "？美妖女",
+  "regex": true
+ },
+ {
+  "from": "\\bfolk of the land\\b",
+  "to": "people of the land",
+  "jp": "大地の民",
+  "regex": true
+ },
+ {
+  "from": "^Opinion Bit Voice$",
+  "to": "Opinion Bit",
+  "jp": "オピニオンビットの声",
+  "regex": true
+ },
+ {
+  "from": "\\bhunt Archdemons\\b",
+  "to": "hunt Demon Dukes",
+  "jp": "大魔公",
+  "regex": true
+ },
+ {
+  "from": "\\bChief Fulgrant\\b",
+  "to": "Lord Fulgrant",
+  "jp": "フルグラント様",
+  "regex": true
+ },
+ {
+  "from": "\\bMeirou Prison\\b",
+  "to": "Meiroin",
+  "jp": "明牢院",
+  "regex": true
+ },
+ {
+  "from": "\\bDemon Archduke",
+  "to": "Demon Duke",
+  "jp": "大魔公",
+  "regex": true
+ },
+ {
+  "from": "\\bMythic Beast\\b",
+  "to": "Mythical Beast",
+  "jp": "幻獣",
+  "regex": true
+ },
+ {
+  "from": "\\bVenom Breath\\b",
+  "to": "Poison Breath",
+  "jp": "猛毒のブレス",
+  "regex": true
+ },
+ {
+  "from": "\\bSerion-Daera\\b",
+  "to": "Seirion-Daera",
+  "jp": "セリオン＝ダエラ",
+  "regex": true
+ },
+ {
+  "from": "\\bDungeon Road\\b",
+  "to": "Dungeon Load",
+  "jp": "ダンジョンロード",
+  "regex": true
+ },
+ {
+  "from": "\\bkin of night\\b",
+  "to": "Kin of Night",
+  "jp": "夜の眷族",
+  "regex": true
+ },
+ {
+  "from": "\\bMagic Being\\b",
+  "to": "Magical Creature",
+  "jp": "魔法生物",
+  "regex": true
+ },
+ {
+  "from": "\\bTrue Axis\\b",
+  "to": "Real Axis",
+  "jp": "実枢基",
+  "regex": true
+ },
+ {
+  "from": "\\bZanuu\\b",
+  "to": "Zanu",
+  "jp": "ザヌゥ",
+  "regex": true
+ },
+ {
+  "from": "\\bLu\\b",
+  "to": "Ruu",
+  "jp": "ルゥ",
+  "regex": true
+ }
+]

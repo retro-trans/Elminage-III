@@ -1,0 +1,382 @@
+[
+ {
+  "en": "Horn, Spear, Hex",
+  "kind": "name",
+  "note": "Snail Lich epithet; echoes the snail nursery song (tsuno dase, yari dase). Horns, spear and magic arts all kept; 16-byte limit."
+ },
+ {
+  "en": "Picnicker",
+  "kind": "name",
+  "note": "Matches chap slice_010."
+ },
+ {
+  "en": "Lovely day, eh?",
+  "kind": "name",
+  "note": "Picnicker's laid-back remark about the fine weather."
+ },
+ {
+  "en": "Santorea Magic Year 3",
+  "kind": "name",
+  "note": "Santorea = glossary. Pattern for the student set: 'Santorea Magic Year N' (slice_35 has the Year 2 row, MONSTER2 c45-46)."
+ },
+ {
+  "en": "Drowning in Remedials!",
+  "kind": "name",
+  "note": "hoshuu no arashi = a storm of make-up classes (bestiary: final-years about to graduate)."
+ },
+ {
+  "en": "Soaring Into the Future",
+  "kind": "name",
+  "note": "habataku = spread wings / take flight; graduating students."
+ },
+ {
+  "en": "Master Mage",
+  "kind": "name"
+ },
+ {
+  "en": "Grand Mage",
+  "kind": "name",
+  "note": "oinaru majutsushi; Mage = glossary for majutsushi."
+ },
+ {
+  "en": "Master Alchemist",
+  "kind": "name"
+ },
+ {
+  "en": "Peerless Knowledge",
+  "kind": "name"
+ },
+ {
+  "en": "Chanter Reed",
+  "kind": "name",
+  "note": "Bagpipe-playing bard (bestiary); chanter reed = bagpipe part."
+ },
+ {
+  "en": "Sorcery Band",
+  "kind": "name",
+  "note": "jujutsu gakudan = sorcery/curse band."
+ },
+ {
+  "en": "Joker",
+  "kind": "name",
+  "note": "As in Joker Land."
+ },
+ {
+  "en": "Doom Clown",
+  "kind": "name",
+  "note": "shi no doukeshi = clown of death; 'Death Clown' is 11 > 10."
+ },
+ {
+  "en": "Ashteria",
+  "kind": "name",
+  "note": "New name, romanized; spelled to echo the glossary deity Ashtel. No bestiary entry."
+ },
+ {
+  "en": "Secret Rite",
+  "kind": "name",
+  "note": "Source writes [JP] (secret with the 'honey' kanji), a sensual pun on 'secret rite'; the pun does not fit 12 bytes and is lost."
+ },
+ {
+  "en": "Fledgling Priest",
+  "kind": "name",
+  "note": "Epithet of Priest (c58): 'one who has just begun walking the priest's path'."
+ },
+ {
+  "en": "Lesser Maid",
+  "kind": "name"
+ },
+ {
+  "en": "I'm sorry...",
+  "kind": "name",
+  "note": "Clumsy novice maid apologising (bestiary); subject restored."
+ },
+ {
+  "en": "Now Appraising",
+  "kind": "name",
+  "note": "Epithet of Bishop (c60). Parody of the shop sign 'Hiyashi chuuka hajimemashita' (now serving X)."
+ },
+ {
+  "en": "Bikuni",
+  "kind": "name",
+  "note": "Buddhist nun of the Yao-bikuni legend (ate mermaid flesh); romanized, since the epithet already says Nun."
+ },
+ {
+  "en": "Bikuni",
+  "kind": "name",
+  "note": "Nickname row = kana reading of the name; same English."
+ },
+ {
+  "en": "Eerie Nun",
+  "kind": "name",
+  "note": "ayashi no nisou."
+ },
+ {
+  "en": "Priestess",
+  "kind": "name"
+ },
+ {
+  "en": "Pagan Priest",
+  "kind": "name",
+  "note": "ikyou no souryo; 'Heathen Priest' is 14 > 12."
+ },
+ {
+  "en": "Greater Maid",
+  "kind": "name"
+ },
+ {
+  "en": "Ready to order?",
+  "kind": "name",
+  "note": "Gochuumon wa? = 'Your order?'. Bestiary: you pay with your life."
+ },
+ {
+  "en": "High Bishop",
+  "kind": "name"
+ },
+ {
+  "en": "No more touching",
+  "kind": "name",
+  "note": "mou, sawaranai = 'that's it, not touching (it) any more'. Read as the bishop giving up hands-on appraisal (Bishop's epithet is 'Now Appraising'); object unstated in source, kept unstated."
+ },
+ {
+  "en": "Ironist",
+  "kind": "name",
+  "note": "Extreme-ironing ascetic (bestiary); Ironist keeps the iron pun."
+ },
+ {
+  "en": "Extreme Will",
+  "kind": "name",
+  "note": "kyokugen no seishinryoku = extreme mental strength (extreme ironing joke)."
+ },
+ {
+  "en": "Missionary",
+  "kind": "name"
+ },
+ {
+  "en": "Missionary",
+  "kind": "name",
+  "note": "Nickname row = kana reading of the name; same English."
+ },
+ {
+  "en": "Dread Faith",
+  "kind": "name",
+  "note": "kyoui no shinkouryoku: [JP] 'menace' puns on [JP] 'marvel'. 'Fearsome Faith' is 14 > 12."
+ },
+ {
+  "en": "Unholy Chapel",
+  "kind": "name"
+ },
+ {
+  "en": "Forbidden Wedding",
+  "kind": "name"
+ },
+ {
+  "en": "Shinto",
+  "kind": "name",
+  "note": "Epithet of Kannagi (c68): shintou saishi = Shinto rites/ritualist. 8-byte limit; 'Shinto Rite' is 11."
+ },
+ {
+  "en": "Master Priest",
+  "kind": "name"
+ },
+ {
+  "en": "Supreme Cleric",
+  "kind": "name",
+  "note": "saikoui seishokusha = highest-ranking cleric."
+ },
+ {
+  "en": "Arch Maid",
+  "kind": "name"
+ },
+ {
+  "en": "Maze Head Maid",
+  "kind": "name",
+  "note": "meikyuu no meidochou = head maid of the labyrinth; 14 bytes exactly, so 'Maze' for meikyuu."
+ },
+ {
+  "en": "Master Bishop",
+  "kind": "name"
+ },
+ {
+  "en": "One Who Guides",
+  "kind": "name",
+  "note": "michibiku mono."
+ },
+ {
+  "en": "Linesman",
+  "kind": "name",
+  "note": "Glossary (MILL.GP. dealer; same name)."
+ },
+ {
+  "en": "Here's the line!",
+  "kind": "name",
+  "note": "koko ga kyoukai desu = 'this is the boundary!' (line judge)."
+ },
+ {
+  "en": "Master Valkyrie",
+  "kind": "name",
+  "note": "Valkyrie = glossary."
+ },
+ {
+  "en": "Blessed War Maiden",
+  "kind": "name",
+  "note": "ikusa-miko = war maiden (bestiary: the original meaning of Valkyrie)."
+ },
+ {
+  "en": "Soul Slave",
+  "kind": "name"
+ },
+ {
+  "en": "Evil Arch-Pope",
+  "kind": "name",
+  "note": "saikyou saiaku no houou = the mightiest, most evil pontiff; 14 bytes: arch- carries 'mightiest', Evil carries 'worst'."
+ },
+ {
+  "en": "Sneak",
+  "kind": "name",
+  "note": "Epithet of Thief (c75): kosodoro = petty sneak thief; 6-byte limit."
+ },
+ {
+  "en": "None Escape Me",
+  "kind": "name",
+  "note": "Epithet of Ranger (c76): emono wa nigasan = 'I won't let my prey get away'. Gruff voice kept."
+ },
+ {
+  "en": "Genin",
+  "kind": "name",
+  "note": "Lowest ninja rank, romanized."
+ },
+ {
+  "en": "Ninja Peon",
+  "kind": "name",
+  "note": "shitazumi ninja = ninja still doing grunt work at the bottom; 10-byte limit."
+ },
+ {
+  "en": "Forest Guard",
+  "kind": "name"
+ },
+ {
+  "en": "Forest Warden",
+  "kind": "name",
+  "note": "mori no bannin."
+ },
+ {
+  "en": "Phantom",
+  "kind": "name"
+ },
+ {
+  "en": "Gent Thief",
+  "kind": "name",
+  "note": "kaitou shinshi = gentleman thief (Lupin type); 'Gentleman Thief' is 15 > 10."
+ },
+ {
+  "en": "Oiran",
+  "kind": "name",
+  "note": "Courtesan of the Eastern land, romanized."
+ },
+ {
+  "en": "In Bloom",
+  "kind": "name",
+  "note": "biraku mankai = beauty and pleasure in full bloom; 8-byte limit ('Full Bloom' is 10)."
+ },
+ {
+  "en": "Arob",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "That's unfair!",
+  "kind": "name",
+  "note": "sore wa zurui zo: bow-wielding blob with many tentacles (bestiary)."
+ },
+ {
+  "en": "Shooting Moon",
+  "kind": "name",
+  "note": "Matches chap slice_022."
+ },
+ {
+  "en": "Shoots Down the Moon",
+  "kind": "name",
+  "note": "tsuki wo iotosu mono; bestiary explains the title. 20 bytes exactly."
+ },
+ {
+  "en": "Beauty",
+  "kind": "name"
+ },
+ {
+  "en": "Femme Fatale",
+  "kind": "name",
+  "note": "kiken na bijo = dangerous beauty; 12 bytes exactly."
+ },
+ {
+  "en": "Kagerou",
+  "kind": "name",
+  "note": "Kunoichi type (bestiary); kagerou = mayfly/heat haze, romanized like Girou."
+ },
+ {
+  "en": "Fair Killer",
+  "kind": "name",
+  "note": "utsukushii ansatsusha = beautiful assassin; 'Lovely Killer'/'Fair Assassin' are 13 > 12."
+ },
+ {
+  "en": "Arc Launcher",
+  "kind": "name",
+  "note": "Werebeast hunter; read as arc (bow) + launcher. Could also be 'Arch Launcher'."
+ },
+ {
+  "en": "Born Hunter",
+  "kind": "name",
+  "note": "tensei no karyuudo."
+ },
+ {
+  "en": "Summa",
+  "kind": "name",
+  "note": "CONFLICT: chap slice_016 name box has 'Summer' (marked tentative); ebt slice_05 uses 'Summa' for the same katakana as a rank above High Master, and the bestiary calls this monster a ninja holding the title of samaa. Chose Summa; one of the two must be unified."
+ },
+ {
+  "en": "Dark Dweller",
+  "kind": "name",
+  "note": "yami ni ikiru mono = one who lives in darkness; 12 bytes exactly. Same phrase opens the Vampire bestiary entry."
+ },
+ {
+  "en": "Old Imp",
+  "kind": "name",
+  "note": "Epithet of Goblin (c87): furuki kooni; kooni = little oni, imp."
+ },
+ {
+  "en": "Kobold",
+  "kind": "name"
+ },
+ {
+  "en": "Dogfolk",
+  "kind": "name",
+  "note": "inu-juujin = dog beastfolk; kept gender-neutral."
+ },
+ {
+  "en": "Orc",
+  "kind": "name",
+  "note": "As in 'Baby Orc' (chap slice_011)."
+ },
+ {
+  "en": "Cheap Eats Pro",
+  "kind": "name",
+  "note": "B-kyuu gurume tsukai = master of B-grade (cheap comfort) food; bestiary: knows 512 B-grade dishes. Orc General's epithet (slice_37) should follow the same idea."
+ },
+ {
+  "en": "Skunk Girl",
+  "kind": "name"
+ },
+ {
+  "en": "Itchy Bottom",
+  "kind": "name",
+  "note": "oshiri ga muzumuzu = bottom feels itchy/tingly (about to gas, per bestiary)."
+ },
+ {
+  "en": "Wood Oni",
+  "kind": "name",
+  "note": "Epithet of Ogre (c91): mori no kijin = forest oni-folk; 'Wood Ogre' is 9 > 8, so oni kept."
+ },
+ {
+  "en": "Lizardman",
+  "kind": "name"
+ }
+]

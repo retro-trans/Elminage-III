@@ -1,0 +1,349 @@
+[
+ {
+  "en": "\"I should've just played it straight!{w}D'oh!!\"{w}",
+  "kind": "msg",
+  "note": "Ga-n (shock SFX) rendered as 'D'oh!!' -- comic realization after being thrown out for loaded dice (rows 1198-1199)."
+ },
+ {
+  "en": "\"I knew you'd come.\nAnd what it is you're wishing for right now, too.\nBut in the end, it's all up to you guys, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, how's it going?\"{w}{p}\"The casino here is great, you know!{w}Great facilities, great service, great night view...\"{w}{p}\"And best of all, the location!{w}This spot has the absolute best luck for money and anything to do with finances!\"{w}{p}\"Wow, it really lives up to the hype!{w}...Aaall right!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm off to win big!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah! Listen to this!{w}Can you believe it!?{w}After a run like that, it lands on 00! Double zero!!\"{w}{p}\"There's no way it was gonna hit 00!{w}What's with that!?{w}Not red, not black, but 00!?\"{w}{p}\"It went red, red, red, black, red, black, black, red,{w}so black HAD to be next, right!?{w}RIGHT!?\"{w}{p}\"Grrrrgh...!\"{w}",
+  "kind": "msg",
+  "note": "Roulette double zero; full-width 00 written as ASCII 00."
+ },
+ {
+  "en": "\"Maybe next time I should bring Mayleen along?\"{w}{p}\"Every time Mayleen opens that mouth, it's research this, research that.{w}Would it kill Mayleen to loosen up a little? Such a cutie, too~\"{w}{p}\"Maybe that big brain could work something out?{w}Anyone who can read the weather should find gambling a piece of cake, right!?\"{w}{p}\"That brain plus my fortune-telling!{w}Even I have to admit it's the perfect plan!{w}",
+  "kind": "msg",
+  "note": "Ano ko = Mayleen; glossary gender unknown, so no she/girl -- name repeated instead. Row ends without a closing quote, as in source (continues in 1206)."
+ },
+ {
+  "en": "{0E}\"That brain plus my fortune-telling!\nEven I have to admit it's the perfect plan!{0F}\nRight... This time, I'm gonna win!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's this thing called the Dice of Fate, right?{w}Well, those are an alchemy thing, not fortune-telling, though.\"{w}{p}\"Not the Dice of Fate, but... like...\nIsn't there some kind of dice\nwhere you can control the roll?\"{w}{p}\"Like, sixes on every face!{w}...Nah, that'd get me caught.\"{w}{p}\"Ah, no, not that I'D be the one using them, okay?{w}It's just, a little while ago I played this kinda weird game with three dice...\"{w}{p}\"And the rolls were like...\nWhaaaaaaaat--...\nseriously, ugh......\"{w}{p}\"I was winning like crazy at first, you know?{w}But then all of a sudden the losses started piling up...\"{w}{p}\"Fate... luck...\nHey, what even is fate, anyway...?{w}...Says the fortune-teller! Get a grip, me!\"{w}",
+  "kind": "msg",
+  "note": "Unmei no Daisu = 'Dice of Fate' (new item name; quest item from slice_15 rows 1191-1193). Last line is a self-tsukkomi."
+ },
+ {
+  "en": "On entering the Temple of Rafa, you found Natori, the fortune-teller who had been handing out compasses in the audience chamber.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My wallet's looking awfully thin...{w}If only yesterday's double-up had paid off...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh, you guys are...{w}the adventurers from Algrantz, if I remember right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry about that whole Angel's Window thing~\"{w}",
+  "kind": "msg",
+  "note": "Refers to Natori selling off the supplied Angel's Windows (slice_09 rows 650-686)."
+ },
+ {
+  "en": "\"Oh, that reminds me.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Oh, that reminds me.{0F}\nThis is out of the blue, but I've got a serious favor to ask...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Could you lend me 300 GP?\"",
+  "kind": "data",
+  "note": "Choice prompt; 27 chars."
+ },
+ {
+  "en": "\"Ooh, aren't you generous!{w}Thank you! You're a lifesaver!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh, you don't have it? 300 GP...{w}Whatever you've got is fine too, okay? ...No good?{w}Ugh... Guess it can't be helped...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You won't lend it to me!? Awww...{w}You look so nice, but it turns out you're a cheapskate.{w}Fine, whatever, I'll just ask Mayleen.\"{w}",
+  "kind": "msg",
+  "note": "Kurenai = won't give/lend; 'sonna kao shite' = for someone who looks like that (i.e. nice)."
+ },
+ {
+  "en": "\"So, what brings you here today?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You explained that you had been tasked with finding the Three Phantom Stones: the Hemaid Red Stone, the Green Plakio and the Blue Menon.{w}",
+  "kind": "msg",
+  "note": "Term spellings follow slice_09 row 691 (slice_01/02 used 'Phantom Stones' -- inconsistency flagged)."
+ },
+ {
+  "en": "\"I see.{w}It's true that if I imbue the compass with power, you might be able to find them, but...\"{w}{p}\"I can't put light into the compass on my own.\"{w}{p}\"I take something from you called Fame, and turn that Fame into the compass's light.\"{w}{p}\"Fame doesn't come from treasure chests or fighting.\"{w}{p}\"Traveling the land, talking with all sorts of people, getting involved, helping folks out...{w}that's the kind of thing Fame is born from.\"{w}{p}\"Back with the Lightstair Ruins, I actually borrowed some of Lord Balgert's Fame.{w}But from now on, you'll have to gather it yourselves, okay?\"{w}",
+  "kind": "msg",
+  "note": "Hikari no Kaiseki = 'Stairway Ruins of Light' per slice_09 (slice_01 data row 63 has 'Lightstair Ruins'). Balgert-sama from Natori = 'Lord Balgert' as in slice_02."
+ },
+ {
+  "en": "\"Oops. The council's about to start.{w}...Hm? What council, you ask?{w}The continent's Central Council, with Lumisthenes as the presiding nation.\"{w}{p}\"Is this kind of thing new to you? First time?{w}I see, I see...{w}Well, it's not like it doesn't concern you anymore... Want to take a peek?\"{w}",
+  "kind": "msg",
+  "note": "Chuuou kaigi (here) and Chuuou gikai (Wattner) both rendered 'Central Council'."
+ },
+ {
+  "en": "\"I could get you in, y'know?\"",
+  "kind": "data",
+  "note": "Choice prompt; kuchikiki = put in a word for you. 29 chars."
+ },
+ {
+  "en": "\"You want to hear the myths of the Crestard Continent?{w}Ahah, you sound just like a pilgrim.{w}That's the first time an adventurer's ever asked me that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well then... *ahem*.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is a story from long, long ago. So long ago it makes your head spin.{w}From beyond the mists there appeared the ones known as the Six Gods of Creation.\"{w}{p}\"Void, the god of space, shaped a vessel called the land out of the primordial earth.\"{w}{p}\"When Dehain, the god of existence, gave the vessel approval, Naru, the god of time, brought it the flow of time.\"{w}",
+  "kind": "msg",
+  "note": "New god names: Void, Dehain, Naru. -sama honorific on gods dropped (no ungendered English title; 'Lord' would assign gender)."
+ },
+ {
+  "en": "\"These three are the gods who show the natural order of things.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Eventually, once the land had settled, the gods who watch over life graciously brought forth living things.\"{w}{p}\"Life brought forth by the hand of Ildraha, the god of life, grows through the power of Ashtel, the god of change.\"{w}{p}\"And when someday a life is lost, Rogera, the god of Dark Oblivion, receives it at its end.\"{w}",
+  "kind": "msg",
+  "note": "Source opens with an indent but no opening quote (likely a source slip); mirrored as-is. New names Ashtel, Rogera. Souma no kami = god of life (creating life), henkan = change, anmetsu = oblivion (dark annihilation)."
+ },
+ {
+  "en": "\"And so, the land began to carve out its history.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But you know, back then, Rafa wasn't here yet.\"{w}{p}\"Rafa only ascended to the Palace of the Sun some time later, set off by a certain calamity.{w}Even so, from where we stand, that was still ages and ages ago.\"{w}",
+  "kind": "msg",
+  "note": "Rafa: glossary gender unknown; no pronouns used."
+ },
+ {
+  "en": "\"The calamity was this: the land, which had been at peace ever since its creation, was suddenly threatened by the Kin of Darkness.\"{w}{p}\"No one knows why.{w}Light was lost from the sky, and the Kin of Darkness invaded.\"{w}{p}\"The once-beautiful land was ravaged beyond recognition, and very nearly became a continent of darkness.\"{w}",
+  "kind": "msg",
+  "note": "Yami no kenzoku = 'Kin of Darkness' (new term)."
+ },
+ {
+  "en": "\"Just then, the great dragon Agintaitus and a lone mage summoned Rafa from the village of the spirits.\"{w}{p}\"To light the land with purifying power, Rafa, with the help of those two, made the Stairway of Light appear on the Konnu Plains, then ascended to the Palace of the Sun.\"{w}{p}\"When Rafa shone down upon the land from the Palace of the Sun, the Kin of Darkness vanished before everyone's eyes.\"{w}",
+  "kind": "msg",
+  "note": "New names: Agintaitus, Konnu Plains; seirei no sato = 'village of the spirits' (kept descriptive). Hikari no kaidan = 'Stairway of Light' as in slice_02."
+ },
+ {
+  "en": "\"And so, the land was able to overcome an unprecedented crisis.\"{w}{p}\"This city of Lumisthenes and the Temple of Rafa were built as places of prayer, so that no one would forget their gratitude to Rafa.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...And that's the end of the myth of the land, pilgrim edition!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The land is under threat from the Kin of Darkness once again.\"{w}{p}\"If we don't take back the Palace of the Sun, it'll be swallowed up by darkness again, just like in the old myth.\"{w}{p}\"Will we give birth to a new myth, or will it all end here?{w}Our fate is in our own hands.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All we people of Lumisthenes can do is guide everyone.\"{w}{p}\"Anyone will do. In any form at all.{w}If it means I can pull the future closer, I want to lend a hand to every possibility there is.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Including the possibility that is you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There was an earnest look in Natori's eyes, one you would never normally see.{w}",
+  "kind": "msg",
+  "note": "Natori gender unknown; pronoun avoided."
+ },
+ {
+  "en": "\"You want light put into your compass, then.{w}Well now, what is it you'd like to search for?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hope you find what you're looking for!{w}Good luck!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I've been waiting for you~!{w}For the right offering, I'll answer anything you like!\"{w}",
+  "kind": "msg",
+  "note": "Music note symbol is not ASCII; replaced with '~'. ofuse = offering/donation (paid oracle)."
+ },
+ {
+  "en": "\"Anything else you'd like to know?{w}Don't be shy, ask away!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And who might you be? This is the Central Council chamber, you know.{w}Well then, perhaps I ought to introduce myself.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I am Wattner, Chair of the Central Council.{w}And you are...?\"{w}{p}\"Adventurers, is it?{w}...You are treated as though you were some symbol of free will, but that is rather a problem for us.\"{w}{p}\"A band of free agents stronger than most soldiers -- in other words, a subversive element.\"{w}{p}\"Then again, you do have the strength of not being bound by rules.{w}In an emergency, you would make an ideal mobile strike force or private army.{w}Naturally, we shall make sure no such situation ever arises... hm?\"{w}",
+  "kind": "msg",
+  "note": "Wattner as in slice_10 row 723; gikai gichou = 'Chair of the Central Council' (slice_09 has 'Council Chair')."
+ },
+ {
+  "en": "\"By rights, this room is where the Central Council should sit, but it goes unused because people find it gloomy.{w}I rather like the quiet atmosphere myself...\"{w}{p}\"People with principles and convictions gathering to debate.{w}That matters far more than swinging weapons about, the way you adventurers do.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Even in a debate, if there are too many opinions, nothing can be brought together.{w}Hence the Central Council, a gathering of representatives.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...That is how it is meant to work, but it is merely noisy and hardly ever reaches agreement.{w}And at a time of such crisis, too... Honestly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is it?{w}This is no concern of a mere adventurer.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why is it that you people always want to come to such an out-of-the-way place?{w}I really don't understand it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Let me see...\nSince you are adventurers, why not try doing some adventurers' work?\"{w}{p}\"Sessions held time and again, never reaching agreement, dragging on and on.{w}And whenever we reconvene, we are back to square one.{w}...Frankly, I have grown a little weary.\"{w}{p}\"So... do you know of the Geezers' Wand?{w}They say it gives strength to worn-out old folks.{w}With it, I might regain a little of my vigor.\"{w}{p}\"Please bring me the Geezers' Wand.{w}I am counting on you.\"{w}",
+  "kind": "msg",
+  "note": "Washira no Wando: item name built on 'washira' (old men's 'we'); coined 'Geezers' Wand' -- new item name, check against ITEM.json when items are translated."
+ },
+ {
+  "en": "\"What is the matter? I am counting on you.\nThe sooner you are, the higher my opinion of adventurers as a whole will rise.\"{w}{p}\"Think of yourselves as their representatives, and give it your all.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you for your trouble.{w}Oho, so this is the wand in question.{w}Now then.........?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"!......I see. I see, I see.{w}This is good -- I can feel strength welling up inside me.{w}Heh, it almost makes me want to give the council a good shake-up.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Matters have their order of importance, but{w}sadly, there are those who disregard it and cling to their own arguments.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honestly.........{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Honestly.........{0F}\nWhat drivel.\"{w}",
+  "kind": "msg",
+  "note": "Kudaranai aimed at the councillors' arguments (row 1253); kept blunt."
+ },
+ {
+  "en": "\"......Just a bit of grumbling. Keep it between us, will you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you, that is quite enough. I shall return this to you.{w}This won't do -- with all this surplus vigor, even my tongue has turned sharp.\"{w}{p}\"Please take it as your reward.\"{w}{p}\"Still, adventurers really are{w}quite handy, aren't they?{w}Above all, you are so light on your feet.\"{w}{p}\"With that, it is easy to see{w}why you are relied on in so many places.\"{w}",
+  "kind": "msg",
+  "note": "Kore wa okaeshi shimasu / sore wa houshuu: the wand is handed back as the reward."
+ },
+ {
+  "en": "\"Welcome to this out-of-the-way place.\nWhat do you say? Shall I make you some tea?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...What business would an adventurer have in a place like this?{w}This is a place for studying the sky and the land -- hardly the sort of place adventurers come to.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you have no business here, kindly leave.\nI, Mayleen, am busy with my research.{w}Please see yourselves out.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...What is it? I am on my break right now.\nKindly bring your business at some time other than my break.{w}And naturally, disturbing my research is not allowed either.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I never cut corners, not even on my breaks.\nIt is always milk tea and cookies for me.{w}...What? I'm not sharing, you know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't tell me you're interested in this celestial observatory?{w}No, that couldn't be, could it --\nnot coarse, vulgar adventurers like you.\"{w}",
+  "kind": "msg",
+  "note": "Tenjou kansokuki = 'celestial observatory' (descriptive)."
+ },
+ {
+  "en": "\"...Would you kindly give it a rest?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"...Would you kindly give it a rest?{0F}\n...Could it be that you really are interested?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"...Would you kindly give it a rest?\n...Could it be that you really are interested?{0F}\n...Then... I do apologize...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is a device that measures the movements of the heavens\nand gauges what kind of influence they have\non the land.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, if anything concerns adventurers directly, I suppose it would be the weather.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But adventurers make their living rampaging about, rain or tornado, regardless -- isn't that so?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"But adventurers make their living rampaging about, rain or tornado, regardless -- isn't that so?{0F}\nSo, as I thought, it hardly concerns you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......I am in the middle of my research.{w}Ah, I know --\nhow about this?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The lens of this device uses crystals mined in the Crystal Labyrinth.\"{w}{p}\"Even now it is precise enough for my research, but if I had a denser, clearer crystal...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I ought to be able to read the weather so accurately and precisely that one could mistake it for controlling the weather itself.\"{w}",
+  "kind": "msg",
+  "note": "Suiishou no meikyuu = 'Crystal Labyrinth' (new dungeon name; DGN_NAME not yet translated)."
+ },
+ {
+  "en": "\"If you are truly interested in this research, would you go and fetch one for me, oh honored adventurers?{w}It would be to both our benefit, you know.\"{w}",
+  "kind": "msg",
+  "note": "Boukensha-sama is sarcastic; 'oh honored adventurers' keeps the jab without a gendered Mr./Ms."
+ },
+ {
+  "en": "\"My, what's wrong? It's the Crystal Labyrinth, you know.{w}It's for both our sakes. The exact location, you say?{w}Isn't finding that part of your job too?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're back again? What became of the item?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What? You really brought it...?{w}...What a... foolish thing to do...\"{w}{p}\"...What I said wasn't a lie, but...{w}it was only meant to get rid of you.{w}And yet... I'm sorry.\"{w}",
+  "kind": "msg",
+  "note": "'Nante baka na koto wo' could be aimed at the party (going to such trouble) or at herself (for the ruse); 'What a foolish thing to do' keeps both readings."
+ },
+ {
+  "en": "\"......Thank you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Some time ago, a terribly vulgar, rude adventurer{w}harassed me.\"{w}{p}\"They were so persistent that -- though I rarely do such a thing --\n......I shouted at them.{w}But...\"{w}",
+  "kind": "msg",
+  "note": "Harassing adventurer's gender unknown -> 'they'. Continues in slice_17 row 1280 (Wattner happened to see it)."
+ }
+]

@@ -1,0 +1,346 @@
+[
+ {
+  "en": "You don't have enough money to buy this.",
+  "kind": "help"
+ },
+ {
+  "en": "Buying this item.",
+  "kind": "help"
+ },
+ {
+  "en": "Selling this item.",
+  "kind": "help"
+ },
+ {
+  "en": "Circle: Sell.",
+  "kind": "help"
+ },
+ {
+  "en": "This item can't be sold.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an item and a transaction. Circle: One at a time. Square: Repeat Circle.",
+  "kind": "help",
+  "note": "Servant's Bag trade screen; 'Square repeats the Circle press' rendered as 'Square: Repeat Circle'."
+ },
+ {
+  "en": "The bag can hold up to 99 items.",
+  "kind": "help"
+ },
+ {
+  "en": "Only Servants can use the bag.",
+  "kind": "help",
+  "note": "Shiyounin = Servant (class name, ebt slice_16); the bag is the Servant's Bag."
+ },
+ {
+  "en": "You don't have that item.",
+  "kind": "help"
+ },
+ {
+  "en": "Treat and retrieve characters.",
+  "kind": "help",
+  "note": "Kaishuu = retrieve (ebt slice_02 temple messages)."
+ },
+ {
+  "en": "Donate money to gain experience.",
+  "kind": "help"
+ },
+ {
+  "en": "Offer a prayer to the gods.",
+  "kind": "help",
+  "note": "Kami: no deity named; plural 'the gods' chosen as neutral."
+ },
+ {
+  "en": "Perform the Rite of Flux.",
+  "kind": "help",
+  "note": "Glossary term."
+ },
+ {
+  "en": "Choose who will donate.",
+  "kind": "help"
+ },
+ {
+  "en": "Enter the amount to donate. Each 1 GP grants 1 EP of experience.",
+  "kind": "help",
+  "note": "EP kept as in source (experience points)."
+ },
+ {
+  "en": "Not enough money.",
+  "kind": "help"
+ },
+ {
+  "en": "Donated.",
+  "kind": "help",
+  "note": "Matches ebt slice_03."
+ },
+ {
+  "en": "Cure status ailments.",
+  "kind": "help"
+ },
+ {
+  "en": "Take back someone left in the temple's care.",
+  "kind": "help",
+  "note": "Hikitoru = take back (kept distinct from kaishuu = retrieve)."
+ },
+ {
+  "en": "Leave someone who needs treatment in the temple's care.",
+  "kind": "help"
+ },
+ {
+  "en": "Request retrieval of characters whose party was wiped out.",
+  "kind": "help"
+ },
+ {
+  "en": "No one needs treatment.",
+  "kind": "help"
+ },
+ {
+  "en": "No one is in the temple's care.",
+  "kind": "help"
+ },
+ {
+  "en": "No one needs to be retrieved.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to treat.",
+  "kind": "help",
+  "note": "Matches ebt slice_02."
+ },
+ {
+  "en": "Choose who will pay the offering.",
+  "kind": "help",
+  "note": "Matches ebt slice_02 wording for the same screen."
+ },
+ {
+  "en": "Choose who to take back.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose where to put them.",
+  "kind": "help",
+  "note": "Slot in the roster/party for the returned character; 'them' = the character(s), number unknown."
+ },
+ {
+  "en": "Choose who to leave in the temple's care.",
+  "kind": "help"
+ },
+ {
+  "en": "Taken back.",
+  "kind": "help"
+ },
+ {
+  "en": "Left in the temple's care.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to retrieve.",
+  "kind": "help",
+  "note": "Matches ebt slice_02."
+ },
+ {
+  "en": "The Rite of Flux randomly relocates divine relics and other items you have not yet obtained. This cannot be undone, so be careful.",
+  "kind": "help",
+  "note": "Glossary: Rite of Flux, divine relic."
+ },
+ {
+  "en": "Seek an audience with the king.",
+  "kind": "help"
+ },
+ {
+  "en": "View details of the monsters you have defeated.",
+  "kind": "help"
+ },
+ {
+  "en": "View details of the items you have sold to shops.",
+  "kind": "help"
+ },
+ {
+  "en": "* Coming Soon *",
+  "kind": "help",
+  "note": "Shown before the 0 GP shop opens (ctx)."
+ },
+ {
+  "en": "View details of the 0 GP items you have sold to shops.",
+  "kind": "help"
+ },
+ {
+  "en": "View details of the people you have met so far.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a type of monster to view.",
+  "kind": "help",
+  "note": "Shuzoku for monsters rendered 'type' (character race stays 'race', row 681)."
+ },
+ {
+  "en": "Choose a monster to view.",
+  "kind": "help"
+ },
+ {
+  "en": "Triangle: Switch view. Cross: Back.",
+  "kind": "help"
+ },
+ {
+  "en": "No monsters defeated yet.",
+  "kind": "help",
+  "note": "Bestiary screen; unclear whether shown for an empty type or a single entry -- wording kept general. Unverified in game."
+ },
+ {
+  "en": "Triangle: Switch view. Cross: Back. Up/Down on the D-pad or analog pad: Move viewpoint.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an item category to view.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an item to view.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a person.",
+  "kind": "help"
+ },
+ {
+  "en": "Cross: Back.",
+  "kind": "help"
+ },
+ {
+  "en": "Register a new character.",
+  "kind": "help"
+ },
+ {
+  "en": "View details of registered characters.",
+  "kind": "help"
+ },
+ {
+  "en": "Delete a registered character.",
+  "kind": "help"
+ },
+ {
+  "en": "Change a registered character's name or icon.",
+  "kind": "help"
+ },
+ {
+  "en": "Change the class of a character who meets the requirements.",
+  "kind": "help"
+ },
+ {
+  "en": "The adventurer roster is full.",
+  "kind": "help"
+ },
+ {
+  "en": "The character list is empty.",
+  "kind": "help"
+ },
+ {
+  "en": "An NPC's place in the list can't be changed.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to view. Square: Reorder characters.",
+  "kind": "help"
+ },
+ {
+  "en": "Circle: Spell List. Triangle: Character Details. Cross: Back.",
+  "kind": "help"
+ },
+ {
+  "en": "Triangle: Character Details. Cross: Back.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to delete. Square: Reorder characters.",
+  "kind": "help"
+ },
+ {
+  "en": "Adventurers in an active party can't be deleted.",
+  "kind": "help",
+  "note": "Koudouchuu = currently in a party (ctx)."
+ },
+ {
+  "en": "Character deleted.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to rename. Square: Reorder characters.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to change class.",
+  "kind": "help"
+ },
+ {
+  "en": "Enter a name. A name needs at least one non-space character.",
+  "kind": "help"
+ },
+ {
+  "en": "Enter a nickname. A nickname needs at least one non-space character.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a race.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a gender.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an alignment.",
+  "kind": "help",
+  "note": "Seikaku in character creation = alignment (ebt slice_01 'Change to which alignment?')."
+ },
+ {
+  "en": "Choose an age.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a class. Square: Reroll bonus points.",
+  "kind": "help"
+ },
+ {
+  "en": "Allocate the bonus points.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a face icon. To use an icon downloaded with Face Load, select the Face Load button.",
+  "kind": "help",
+  "note": "New term: Face Load (feature name, romanized)."
+ },
+ {
+  "en": "Character registered.",
+  "kind": "help"
+ },
+ {
+  "en": "At least one non-space character is required.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an Extra Skill.",
+  "kind": "help",
+  "note": "Matches ebt slice_03 'Extra Skill'."
+ },
+ {
+  "en": "Choose Face Load data.",
+  "kind": "help",
+  "note": "New term: Face Load."
+ },
+ {
+  "en": "Choose Style Load data.",
+  "kind": "help",
+  "note": "New term: Style Load."
+ },
+ {
+  "en": "Enter an epithet. It can be left blank if there is none.",
+  "kind": "help",
+  "note": "Futatsuna = epithet (glossary)."
+ },
+ {
+  "en": "Enter a personality comment.",
+  "kind": "help",
+  "note": "Matches ebt slice_03 'personality comment'."
+ }
+]

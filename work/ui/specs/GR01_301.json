@@ -1,0 +1,60 @@
+{
+ "gim": "ANIME/GR01_301.GIM",
+ "note": "Boot disclaimer (免責事項). Translation reviewed by lead; see docs/ui_brief.md.",
+ "erase": [
+  [
+   23,
+   38,
+   456,
+   242,
+   "black"
+  ],
+  [
+   196,
+   11,
+   280,
+   31,
+   "copy:190"
+  ],
+  [
+   40,
+   247,
+   440,
+   272,
+   "black"
+  ]
+ ],
+ "text": [
+  {
+   "x": 140,
+   "y": 12,
+   "w": 200,
+   "align": "center",
+   "lines": [
+    "Disclaimer"
+   ]
+  },
+  {
+   "x": 27,
+   "y": 52,
+   "w": 426,
+   "lh": 18,
+   "indent": 12,
+   "ymax": 240,
+   "wrap": [
+    "Please take care that your use of the Face Load, Style Load, Screenshot, Sound Load and Dungeon Load features does not offend public morals or infringe copyright, portrait rights or any other laws.",
+    "In particular, data with images exchanged via Dungeon Load may be seen by any number of people, so make sure it infringes none of the above.",
+    "We cannot accept any responsibility for problems arising from your use of these features. Thank you for your understanding."
+   ]
+  },
+  {
+   "x": 0,
+   "y": 250,
+   "w": 480,
+   "align": "center",
+   "lines": [
+    "Press the Circle button when you have finished reading."
+   ]
+  }
+ ]
+}

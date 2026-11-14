@@ -1,0 +1,377 @@
+[
+ {
+  "en": "Dragonewt M",
+  "kind": "name",
+  "note": "Race template. '<Race> M/F' pattern as slice_46. Dragonewt per ebt UI."
+ },
+ {
+  "en": "Dragonewt",
+  "kind": "name",
+  "note": "Nickname shared by M/F templates."
+ },
+ {
+  "en": "Dragonewt F",
+  "kind": "name"
+ },
+ {
+  "en": "Devilish M",
+  "kind": "name",
+  "note": "Devilish per ebt UI race list."
+ },
+ {
+  "en": "Devilish F",
+  "kind": "name"
+ },
+ {
+  "en": "Puppet M",
+  "kind": "name",
+  "note": "[JP] race = Puppet per ebt UI (glossary term 'magic puppet' is the running-text form)."
+ },
+ {
+  "en": "Puppet",
+  "kind": "name",
+  "note": "Nickname."
+ },
+ {
+  "en": "Puppet F",
+  "kind": "name"
+ },
+ {
+  "en": "Ogre M",
+  "kind": "name"
+ },
+ {
+  "en": "Ogre F",
+  "kind": "name"
+ },
+ {
+  "en": "Goblin M",
+  "kind": "name"
+ },
+ {
+  "en": "Goblin F",
+  "kind": "name"
+ },
+ {
+  "en": "Finalist",
+  "kind": "name",
+  "note": "Premade/test character name; literal."
+ },
+ {
+  "en": "Final",
+  "kind": "name",
+  "note": "Nickname is a truncation of the name, as in the source."
+ },
+ {
+  "en": "This here lets you breathe even when\nyou're underwater, see. With this, you\noughta be able to explore underwater\ndungeons, too.\n\nFrozen Elven Iron x Vectreim\nVectreim x Tri-Layer Orat",
+  "kind": "desc",
+  "note": "Air Fruit. Gruff alchemist voice (ze/na/yo endings). Trailing full-width padding dropped; blank separator line kept; recipe x = multiplication sign."
+ },
+ {
+  "en": "When you go into a cave, this shows\nwhat's around you in a tiny window.\nIf you're confident you'll get lost,\nyou'd better make one.\n\nDvel Soft Steel x Frozen Elven Iron",
+  "kind": "desc",
+  "note": "Angel's Window. The 'confident you'll get lost' joke kept."
+ },
+ {
+  "en": "This tells you how many stone blocks\nthere are on the floor. Once you know\nhow many impassable blocks there are,\nwon't mapping get a lot easier?\n\nDvel Soft Steel x Tri-Layer Orat\nVectreim x Mazurite",
+  "kind": "desc",
+  "note": "Rock Counter."
+ },
+ {
+  "en": "This drives off the enemies lying in\nwait beyond doors. Ring it once and\nevery enemy on the floor runs off...\nbut they drop treasure chests, so...\n\nFrozen Elven Iron x Mazurite\nMazurite x Tri-Layer Orat",
+  "kind": "desc",
+  "note": "Dove Bell. Trailing-off regret kept: chasing them off loses their treasure chests."
+ },
+ {
+  "en": "This calls back the enemies lying in\nwait beyond doors. Ring it once and\nevery enemy on the floor comes back,\nbut fighting 'em all over again...\n\nDvel Soft Steel x Vectreim\nTri-Layer Orat x Milstone",
+  "kind": "desc",
+  "note": "Crow Bell. Mirrors 3868's structure, as the source does."
+ },
+ {
+  "en": "This marks where enemies lie in wait\nright on your map. It helps just by\ncarrying it, so make at least one.\n\nDvel Soft Steel x Mazurite\nFrozen Elven Iron x Milstone",
+  "kind": "desc",
+  "note": "Sheep's Brush."
+ },
+ {
+  "en": "...If your party's wiped out with this\non you, it gets hauled back to town.\nWhat does? Your corpses, that's what.\nWell, make one as insurance.\n\nDvel Soft Steel x Milstone\nFrozen Elven Iron x Tri-Layer Orat",
+  "kind": "desc",
+  "note": "Bone Slippers. Source's subjectless 'is carried to town on its own' kept vague on purpose for the 'what? the corpses' punchline. 'on its own' ([JP]) compressed into 'gets hauled'."
+ },
+ {
+  "en": "When you meet enemies, this tells you\ntheir level. If the gap's too wide,\nrunning's an option too, y'know? You're\nstill young. Don't rush to your death.\n\nVectreim x Milstone",
+  "kind": "desc",
+  "note": "Death Pinwheel."
+ },
+ {
+  "en": "There are laws in this world, see,\nthat the likes of us can't fathom.\nThis shows 'em to you as numbers.\nWhat they're like? Go see for\nyourself, with your own eyes.\n\nMazurite x Milstone",
+  "kind": "desc",
+  "note": "Dice of Fate."
+ },
+ {
+  "en": "The ultimate goal of alchemy -- this\nis it. But it can't be made the usual\nway. ...Let's see. Try a method\nthat's a bit on the dangerous side.\n\n??????????????",
+  "kind": "desc",
+  "note": "Philosopher's Stone. Source recipe line is 14 full-width '?' (unknown recipe); kept as 14 ASCII '?'."
+ },
+ {
+  "en": "Random Action",
+  "kind": "label",
+  "note": "AI action-routine name."
+ },
+ {
+  "en": "Prefer Physical Attacks",
+  "kind": "label"
+ },
+ {
+  "en": "Prefer Spells",
+  "kind": "label"
+ },
+ {
+  "en": "Prefer Skills",
+  "kind": "label"
+ },
+ {
+  "en": "Prefer Phys. Atk & Spells",
+  "kind": "label"
+ },
+ {
+  "en": "Prefer Phys. Atk & Skills",
+  "kind": "label"
+ },
+ {
+  "en": "Prefer Spells & Skills",
+  "kind": "label"
+ },
+ {
+  "en": "Unholy Chapel Only",
+  "kind": "label",
+  "note": "New name: [JP] = Unholy Chapel (a monster/boss, not found in corpus). [JP] = 'X Only' throughout."
+ },
+ {
+  "en": "Raver Lord Only",
+  "kind": "label",
+  "note": "Raver Lord as MONSTER2 (csvt slice_37)."
+ },
+ {
+  "en": "Samurai Only",
+  "kind": "label"
+ },
+ {
+  "en": "Bodyguard (Random)",
+  "kind": "label",
+  "note": "[JP] = a routine that guards allies; 'Bodyguard' used for all [JP] rows (3885, 3897, 3901, 3902)."
+ },
+ {
+  "en": "Prefer Healing",
+  "kind": "label"
+ },
+ {
+  "en": "Hide & Ambush",
+  "kind": "label",
+  "note": "[JP] = ambush (ebt slice_12)."
+ },
+ {
+  "en": "Hilde Only",
+  "kind": "label",
+  "note": "Hilde per glossary."
+ },
+ {
+  "en": "Intelligent",
+  "kind": "label"
+ },
+ {
+  "en": "Prefer Ramialf",
+  "kind": "label",
+  "note": "Lamiaf = spell [JP] as csvt slice_48 row 3969."
+ },
+ {
+  "en": "Ahadaram Only 1",
+  "kind": "label",
+  "note": "New name: [JP] = Ahadaram (not in glossary/corpus; Hepburn r)."
+ },
+ {
+  "en": "Ahadaram Only 2",
+  "kind": "label"
+ },
+ {
+  "en": "Ahadaram Only 3",
+  "kind": "label"
+ },
+ {
+  "en": "Ahadaram Only 4",
+  "kind": "label"
+ },
+ {
+  "en": "Random Action & First Strike",
+  "kind": "label",
+  "note": "[JP] = First Strike (ebt slice_15). 28/28 bytes."
+ },
+ {
+  "en": "Targets Women",
+  "kind": "label",
+  "note": "[JP] = goes after female characters."
+ },
+ {
+  "en": "Zefal's Bodyguard",
+  "kind": "label",
+  "note": "New name: [JP] = Zefal ([JP]- = Zefe- in slice_48 spells). [JP] = bodyguard dedicated to Zefal."
+ },
+ {
+  "en": "Intelligent (Improved)",
+  "kind": "label",
+  "note": "[JP] = improved/modified version."
+ },
+ {
+  "en": "Pawn Only",
+  "kind": "label",
+  "note": "[JP] = Pawn (monster name, chess piece; not found in corpus)."
+ },
+ {
+  "en": "Summoner (Fixed Row 2)",
+  "kind": "label",
+  "note": "[JP] = summoner that stays fixed in the 2nd row."
+ },
+ {
+  "en": "Bodyguard",
+  "kind": "label"
+ },
+ {
+  "en": "Generalissimo's Bodyguard",
+  "kind": "label",
+  "note": "[JP] = Generalissimo (ebt slice_18 'Dark Generalissimo Welsconi')."
+ },
+ {
+  "en": "Manual Input (Player)",
+  "kind": "label"
+ },
+ {
+  "en": "Alchem",
+  "kind": "key?",
+  "note": "SPELL c1 school key (46 cells). 'Alchemy' is 7 bytes vs 6. Matches override 'Alchem.' style used for [JP] (JOBABL row 2360); if the slot can take 7, use 'Alchemy'. Must be identical in every copy (shared dictionary)."
+ },
+ {
+  "en": "Enemy",
+  "kind": "key?",
+  "note": "SPELL c1 school key for enemy-only spells ([JP]). 'Enemy' (5) fits 6."
+ },
+ {
+  "en": "Balad",
+  "kind": "name"
+ },
+ {
+  "en": "Misama",
+  "kind": "name",
+  "note": "[JP] = -sama, as Samaeis (slice_48)."
+ },
+ {
+  "en": "Dioseed",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Dioseed."
+ },
+ {
+  "en": "Balados",
+  "kind": "name"
+ },
+ {
+  "en": "Glass",
+  "kind": "name",
+  "note": "Cluster keeps r (slice_48 rule). Ghostlight (Elminage Gothic EN, fan wiki) form: Glass."
+ },
+ {
+  "en": "Ramisama",
+  "kind": "name",
+  "note": "La- for [JP] (slice_48 convention). Ghostlight (Elminage Gothic EN, fan wiki) form: Ramisama."
+ },
+ {
+  "en": "Venom",
+  "kind": "name",
+  "note": "Stem as Binemfi (slice_48). Ghostlight (Elminage Gothic EN, fan wiki) form: Venom."
+ },
+ {
+  "en": "Mabalad",
+  "kind": "name"
+ },
+ {
+  "en": "Ziakal",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Ziakal."
+ },
+ {
+  "en": "Ravenom",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Ravenom."
+ },
+ {
+  "en": "Robuti",
+  "kind": "name",
+  "note": "Stem as Lobkand/Halobkan (slice_48). Ghostlight (Elminage Gothic EN, fan wiki) form: Robuti."
+ },
+ {
+  "en": "Maglass",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Maglass."
+ },
+ {
+  "en": "Stoma",
+  "kind": "name"
+ },
+ {
+  "en": "Sosareo",
+  "kind": "name",
+  "note": "L for [JP]-row (slice_48). Ghostlight (Elminage Gothic EN, fan wiki) form: Sosareo."
+ },
+ {
+  "en": "Rabalad",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Rabalad."
+ },
+ {
+  "en": "Argeiss",
+  "kind": "name",
+  "note": "Earthquake/fissure spell. Ghostlight (Elminage Gothic EN, fan wiki) form: Argeiss (weakly attested)."
+ },
+ {
+  "en": "Hallobuti",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Hallobuti."
+ },
+ {
+  "en": "Raglass",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Raglass."
+ },
+ {
+  "en": "Ziakalad",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Ziakalad."
+ },
+ {
+  "en": "Rastoma",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Rastoma."
+ },
+ {
+  "en": "Enterook Mista",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Enterook Mista."
+ },
+ {
+  "en": "Diomente",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Diomente."
+ },
+ {
+  "en": "Miracle",
+  "kind": "name",
+  "note": "Mage top-tier no-element spell. Ghostlight's level-7 Mage set is Enterook Mista / Miracle / Diomente, so this may be their 'Miracle' (unconfirmed); romanized per brief."
+ },
+ {
+  "en": "Feria",
+  "kind": "name",
+  "note": "Stem as Filima (slice_48). Ghostlight (Elminage Gothic EN, fan wiki) form: Feiria."
+ },
+ {
+  "en": "Harias",
+  "kind": "name",
+  "note": "Glossary."
+ }
+]

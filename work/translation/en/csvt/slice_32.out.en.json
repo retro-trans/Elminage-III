@@ -1,0 +1,377 @@
+[
+ {
+  "en": "Born of Death",
+  "kind": "name"
+ },
+ {
+  "en": "La Fanure",
+  "kind": "name",
+  "note": "Female vampire; name likely plays on Sheridan Le Fanu (Carmilla). Romanized; 'La Fanulle' also possible."
+ },
+ {
+  "en": "Love-Death Bliss",
+  "kind": "name",
+  "note": "Lit. 'the joy of dying in love'; compressed to fit 16."
+ },
+ {
+  "en": "Samael",
+  "kind": "name",
+  "note": "Matches item 'Samael's Scythe'."
+ },
+ {
+  "en": "Reaper",
+  "kind": "name",
+  "note": "Lit. 'death's sickle-neck' (Samael: scythe, skull, centipede body). 8 bytes; 'Reaper' keeps death+scythe, loses the neck image."
+ },
+ {
+  "en": "Earth Elemental",
+  "kind": "name"
+ },
+ {
+  "en": "Earth Elemental",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Earthborn",
+  "kind": "name",
+  "note": "Lit. 'child of the earth spirit'. Same '-born' pattern for all five elemental children (shadow one has only 10 bytes)."
+ },
+ {
+  "en": "Korred",
+  "kind": "name",
+  "note": "Breton dancing dwarf-fairy (desc: lures travellers into dancing); Korred is the folklore spelling."
+ },
+ {
+  "en": "Always Jittery",
+  "kind": "name",
+  "note": "Desc: very timid when alone."
+ },
+ {
+  "en": "Mandragora",
+  "kind": "name"
+ },
+ {
+  "en": "Ukyaaah!!",
+  "kind": "name",
+  "note": "Mandragora's scream."
+ },
+ {
+  "en": "Water Elemental",
+  "kind": "name"
+ },
+ {
+  "en": "Water Elemental",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Waterborn",
+  "kind": "name",
+  "note": "See Earthborn."
+ },
+ {
+  "en": "Mana Front",
+  "kind": "name",
+  "note": "Pun on a weather front. Owner is row 2655 (not in slice); likely a water/weather monster - unverified."
+ },
+ {
+  "en": "Undine",
+  "kind": "name"
+ },
+ {
+  "en": "Nixie Queen",
+  "kind": "name",
+  "note": "Lit. 'water-fairy consort'; desc calls Undine a water fairy."
+ },
+ {
+  "en": "Rubezahl",
+  "kind": "name",
+  "note": "German mountain spirit Ruebezahl; ASCII spelling."
+ },
+ {
+  "en": "Turnips All Over",
+  "kind": "name",
+  "note": "Lit. 'covered head to toe in turnips!' (sentence-like source)."
+ },
+ {
+  "en": "Wind Elemental",
+  "kind": "name"
+ },
+ {
+  "en": "Wind Elemental",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Windborn",
+  "kind": "name",
+  "note": "See Earthborn."
+ },
+ {
+  "en": "Yugdrias",
+  "kind": "name",
+  "note": "Matches 'Beneath the Yugdrias' (slice_02)."
+ },
+ {
+  "en": "Moonbud Eye",
+  "kind": "name",
+  "note": "Lit. 'moonlight flower-eye' (blooms at night, eyeballs in the flower). 12 bytes; 'Moonbloom Eye' was 13."
+ },
+ {
+  "en": "Fire Elemental",
+  "kind": "name"
+ },
+ {
+  "en": "Fire Elemental",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Fireborn",
+  "kind": "name",
+  "note": "See Earthborn."
+ },
+ {
+  "en": "Snow Rabbit",
+  "kind": "name"
+ },
+ {
+  "en": "Snow Rabbit",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Snow-Nurtured",
+  "kind": "name",
+  "note": "Lit. 'that which the snow nurtured'."
+ },
+ {
+  "en": "Zilphe",
+  "kind": "name",
+  "note": "Matches item text in slice_22."
+ },
+ {
+  "en": "Jolly Gale",
+  "kind": "name",
+  "note": "Lit. 'carefree typhoon'; 10 bytes."
+ },
+ {
+  "en": "Leprechaun",
+  "kind": "name"
+ },
+ {
+  "en": "Dummies, Too!",
+  "kind": "name",
+  "note": "Lit. 'there are dummies too, you know'. Meaning of 'dummies' unclear (fake treasure? decoy enemies?). Avoided 'Decoy' (glossary character name)."
+ },
+ {
+  "en": "Sign",
+  "kind": "name"
+ },
+ {
+  "en": "Glowskin",
+  "kind": "name",
+  "note": "Lit. 'with shining bare skin'; 10 bytes."
+ },
+ {
+  "en": "Will-o'-Wisp",
+  "kind": "name"
+ },
+ {
+  "en": "Phantom Lamplight",
+  "kind": "name"
+ },
+ {
+  "en": "Narv",
+  "kind": "name",
+  "note": "Matches story translation (slice_017)."
+ },
+ {
+  "en": "Shadowborn",
+  "kind": "name",
+  "note": "See Earthborn; Narv is the darkness elemental."
+ },
+ {
+  "en": "Alraune",
+  "kind": "name",
+  "note": "Matches item 'Alraune Vine'."
+ },
+ {
+  "en": "Bloom Maid",
+  "kind": "name",
+  "note": "Lit. 'big-blossom flower girl'; 10 bytes."
+ },
+ {
+  "en": "Snow Woman",
+  "kind": "name",
+  "note": "Yuki-onna; 'Snow Woman' chosen for readability."
+ },
+ {
+  "en": "Snow Woman",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Icy Beauty",
+  "kind": "name",
+  "note": "Lit. 'icicle beauty'; 'Icicle Belle' was 12 > 10."
+ },
+ {
+  "en": "Storm",
+  "kind": "name"
+ },
+ {
+  "en": "Silver Icon",
+  "kind": "name",
+  "note": "Lit. 'silver charisma' (a star/idol); pairs with Lightning's 'Golden Icon'."
+ },
+ {
+  "en": "Lightning",
+  "kind": "name"
+ },
+ {
+  "en": "Golden Icon",
+  "kind": "name",
+  "note": "Lit. 'gold charisma'; see Silver Icon."
+ },
+ {
+  "en": "Snowman",
+  "kind": "name"
+ },
+ {
+  "en": "Snow Fiend",
+  "kind": "name"
+ },
+ {
+  "en": "Dullahan",
+  "kind": "name",
+  "note": "Matches story translation."
+ },
+ {
+  "en": "Death-Omen Fae",
+  "kind": "name",
+  "note": "Lit. 'fairy who announces death'; desc says it is close to a fairy."
+ },
+ {
+  "en": "Soul Rotate",
+  "kind": "name",
+  "note": "UNCERTAIN: katakana 'Sou Rotate'; spirit of all four elements. 'Soul' is a guess (could be 'Sow'/'Sol'). Epithet ('spinning fool') confirms 'Rotate'."
+ },
+ {
+  "en": "Spinning Idiot",
+  "kind": "name",
+  "note": "Lit. 'round-and-round idiot'."
+ },
+ {
+  "en": "Earthworm",
+  "kind": "name"
+ },
+ {
+  "en": "Man-Eating",
+  "kind": "name",
+  "note": "Lit. 'man-eating worm'; reads as 'Man-Eating Earthworm' with the name. 'Man-Eater Worm' was 14 > 12."
+ },
+ {
+  "en": "Mad Jumper",
+  "kind": "name"
+ },
+ {
+  "en": "Grass-Hopping",
+  "kind": "name",
+  "note": "Lit. 'leaping about the grass'; grasshopper pun."
+ },
+ {
+  "en": "Mockricketta?",
+  "kind": "name",
+  "note": "Katakana 'Mokuricketta?'; spelled to show the probable 'mock cricket' pun. Question mark is in the source."
+ },
+ {
+  "en": "Head-Tilting",
+  "kind": "name",
+  "note": "Lit. 'tilting its little head (puzzled)'."
+ },
+ {
+  "en": "Doom Mantis",
+  "kind": "name"
+ },
+ {
+  "en": "Beheading Mantis",
+  "kind": "name"
+ },
+ {
+  "en": "Amber Roach",
+  "kind": "name",
+  "note": "Insect alive inside amber."
+ },
+ {
+  "en": "Amber Miracle",
+  "kind": "name"
+ },
+ {
+  "en": "Ultimate Runner",
+  "kind": "name",
+  "note": "Matches story translation (slice_015)."
+ },
+ {
+  "en": "Black Devil",
+  "kind": "name",
+  "note": "Common Japanese nickname for the cockroach."
+ },
+ {
+  "en": "Shell Combine",
+  "kind": "name",
+  "note": "Coconut-crab monster."
+ },
+ {
+  "en": "Hard-Shell Tank",
+  "kind": "name"
+ },
+ {
+  "en": "Pirieraua",
+  "kind": "name",
+  "note": "Scorpion woman; literal romanization (r/l unknown)."
+ },
+ {
+  "en": "Stinger Lady",
+  "kind": "name",
+  "note": "Lit. 'barbed poison woman'; 12 bytes. Stinger carries barb+venom."
+ },
+ {
+  "en": "Shield Centipede",
+  "kind": "name"
+ },
+ {
+  "en": "Sheltered Centipede",
+  "kind": "name",
+  "note": "Lit. 'protected centipede' (it lives wrapped around a shield)."
+ },
+ {
+  "en": "Cordyceps",
+  "kind": "name",
+  "note": "Japanese name means 'winter insect, summer grass'."
+ },
+ {
+  "en": "Cordyceps",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Spring and Fall?",
+  "kind": "name",
+  "note": "Lit. 'what about spring and autumn?' - joke on the Japanese name (winter/summer). The pun is lost with 'Cordyceps'; kept literal-ish."
+ },
+ {
+  "en": "Ultimate Flyer",
+  "kind": "name"
+ },
+ {
+  "en": "King of Terror",
+  "kind": "name"
+ },
+ {
+  "en": "Twin Scobill",
+  "kind": "name",
+  "note": "Katakana 'Tsuin Sukobiru'; spelling guessed (two jaws = 'bill'?). Epithet is in slice_33."
+ }
+]

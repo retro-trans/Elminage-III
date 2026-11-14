@@ -1,0 +1,1857 @@
+[
+ {
+  "en": "Record 20",
+  "kind": "label",
+  "note": "KIROKU c1 title; same pattern as slice_30 rows (Record NN)."
+ },
+ {
+  "en": "Record 21",
+  "kind": "label"
+ },
+ {
+  "en": "Demon Gen. Welsconi",
+  "kind": "name",
+  "note": "Welsconi per chap slice_018; 'ankoku soutou' there = 'Dark Generalissimo'. 'Demon Generalissimo Welsconi' is 26 bytes > 24, so Gen. abbreviates Generalissimo."
+ },
+ {
+  "en": "Reserve",
+  "kind": "name",
+  "note": "Epithet cell of the placeholder (Reserve) monster column."
+ },
+ {
+  "en": "Slime",
+  "kind": "name"
+ },
+ {
+  "en": "Goopy-Gloopy",
+  "kind": "name",
+  "note": "Epithet; nucho-nucho = slimy/gooey onomatopoeia."
+ },
+ {
+  "en": "Funny Ball",
+  "kind": "name"
+ },
+ {
+  "en": "Mystery Sphere",
+  "kind": "name"
+ },
+ {
+  "en": "Red Slime",
+  "kind": "name"
+ },
+ {
+  "en": "Crimson",
+  "kind": "name"
+ },
+ {
+  "en": "Blob",
+  "kind": "name"
+ },
+ {
+  "en": "Doe-Eyed",
+  "kind": "name",
+  "note": "tsubura na hitomi = big round cute eyes."
+ },
+ {
+  "en": "Homunculus",
+  "kind": "name"
+ },
+ {
+  "en": "Bottled Life",
+  "kind": "name"
+ },
+ {
+  "en": "Walking Monolith",
+  "kind": "name",
+  "note": "Epithet of Inuksuk (MONSTER1 c10; name row is in another slice)."
+ },
+ {
+  "en": "Jellita",
+  "kind": "name",
+  "note": "New name, romanized (jelly-based coinage)."
+ },
+ {
+  "en": "Gulps Anything",
+  "kind": "name",
+  "note": "gokkyun = gulping sound."
+ },
+ {
+  "en": "Leg Ball",
+  "kind": "name"
+ },
+ {
+  "en": "Tumble King",
+  "kind": "name",
+  "note": "sokuten juuou = cartwheeling beast king (lion face, many legs). 'Cartwheel King' is 14 > 12."
+ },
+ {
+  "en": "Weird Kelp",
+  "kind": "name"
+ },
+ {
+  "en": "Ugh! So grassy!",
+  "kind": "name",
+  "note": "Exclamation epithet: 'What is this, it smells green/raw!'"
+ },
+ {
+  "en": "Charmy Lip",
+  "kind": "name",
+  "note": "Matches chap slice_011."
+ },
+ {
+  "en": "Juicy Kissable",
+  "kind": "name",
+  "note": "'Kiss me' + purun (plump, jiggly lips) rendered as a natural English phrase; 16-byte limit."
+ },
+ {
+  "en": "Gold Right Hand",
+  "kind": "name",
+  "note": "'Golden Right Hand' is 17 > 16; Gold kept for the pair (Gold Left Hand). key? mirror in MON_TEXT."
+ },
+ {
+  "en": "Gold Right Hand",
+  "kind": "name",
+  "note": "Nickname row = kana reading of the name; same English."
+ },
+ {
+  "en": "Taker of Lives",
+  "kind": "name"
+ },
+ {
+  "en": "Gold Left Hand",
+  "kind": "name",
+  "note": "Matches Gold Right Hand."
+ },
+ {
+  "en": "Gold Left Hand",
+  "kind": "name",
+  "note": "Nickname row = kana reading of the name; same English."
+ },
+ {
+  "en": "Taker of Memories",
+  "kind": "name"
+ },
+ {
+  "en": "Mask of Desire",
+  "kind": "name"
+ },
+ {
+  "en": "Mask of Desire",
+  "kind": "name",
+  "note": "Nickname row = kana reading of the name; same English."
+ },
+ {
+  "en": "Laughing Riches",
+  "kind": "name",
+  "note": "'Laughing Treasure' is 17 > 16."
+ },
+ {
+  "en": "Gallery Knight",
+  "kind": "name",
+  "note": "Matches chap slice_011."
+ },
+ {
+  "en": "Canvas Knight",
+  "kind": "name",
+  "note": "Source writes kyanpasu (campus) but the bestiary text means a painting's canvas."
+ },
+ {
+  "en": "Gallery Beast",
+  "kind": "name"
+ },
+ {
+  "en": "Canvas Beast",
+  "kind": "name"
+ },
+ {
+  "en": "Stymphalides",
+  "kind": "name",
+  "note": "Greek Stymphalian birds (bestiary: clockwork bird)."
+ },
+ {
+  "en": "Clockwork",
+  "kind": "name"
+ },
+ {
+  "en": "Pleia",
+  "kind": "name",
+  "note": "New name, romanized. Possibly a pun on 'Prayer' (epithet = one who prays); kept as an invented name."
+ },
+ {
+  "en": "Devotee",
+  "kind": "name",
+  "note": "inori-bito = one who prays; 8-byte limit."
+ },
+ {
+  "en": "Edumo",
+  "kind": "name",
+  "note": "New name, romanized."
+ },
+ {
+  "en": "Void Hound",
+  "kind": "name",
+  "note": "Void = glossary deity name (Boido)."
+ },
+ {
+  "en": "Greater Slime",
+  "kind": "name"
+ },
+ {
+  "en": "Big Ol' Goopy",
+  "kind": "name",
+  "note": "dekaguchonoo = huge + gooey; echoes Goopy-Gloopy."
+ },
+ {
+  "en": "Rag",
+  "kind": "name",
+  "note": "New name, romanized."
+ },
+ {
+  "en": "Carrion Horror",
+  "kind": "name"
+ },
+ {
+  "en": "Boxed Doom",
+  "kind": "name",
+  "note": "Mimic epithet 'boxed nightmare'; 'Boxed Nightmare' is 15 > 10."
+ },
+ {
+  "en": "Impressionist",
+  "kind": "name",
+  "note": "Katakana is a slight variant of 'impressionist'; read as the painting pun (gallery/canvas monster set)."
+ },
+ {
+  "en": "Strange Figure",
+  "kind": "name",
+  "note": "Hiragana epithet."
+ },
+ {
+  "en": "Homunculus+1",
+  "kind": "name"
+ },
+ {
+  "en": "Fishbowl Life",
+  "kind": "name",
+  "note": "kingyobachi = goldfish bowl."
+ },
+ {
+  "en": "Edumo Senior",
+  "kind": "name"
+ },
+ {
+  "en": "Predator of Space",
+  "kind": "name",
+  "note": "Bestiary: it feeds on space itself."
+ },
+ {
+  "en": "Tetramystica",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "No Blind Spots",
+  "kind": "name"
+ },
+ {
+  "en": "Zombie Lady",
+  "kind": "name"
+ },
+ {
+  "en": "Seeking Warmth",
+  "kind": "name"
+ },
+ {
+  "en": "Skeleton",
+  "kind": "name"
+ },
+ {
+  "en": "Ultra Nude",
+  "kind": "name",
+  "note": "kyuukyoku no nuudo = the ultimate nude (no flesh left); 'Ultimate Nude' is 13 > 12."
+ },
+ {
+  "en": "Zombie Fang",
+  "kind": "name"
+ },
+ {
+  "en": "Gnaws Own Bone",
+  "kind": "name",
+  "note": "jibun no hone wo kuwaeru = holding its own bone in its jaws."
+ },
+ {
+  "en": "Grave Pitter",
+  "kind": "name"
+ },
+ {
+  "en": "Grave-Born",
+  "kind": "name",
+  "note": "'Born of the Grave' is 17 > 16."
+ },
+ {
+  "en": "Bass Zombi",
+  "kind": "name",
+  "note": "Zombie bass. 'Bass Zombie'/'Zombie Bass' are 11 > 10, so variant spelling Zombi. key? mirror in MON_TEXT c2."
+ },
+ {
+  "en": "Rot-Scaled",
+  "kind": "name"
+ },
+ {
+  "en": "Langsuir",
+  "kind": "name",
+  "note": "Malay vampire legend (Langsuir)."
+ },
+ {
+  "en": "2-Mouth Vamp",
+  "kind": "name",
+  "note": "futakuchi no kyuuketsuki = two-mouthed vampire; 12-byte limit."
+ },
+ {
+  "en": "Vampire",
+  "kind": "name",
+  "note": "Matches chap slice_011."
+ },
+ {
+  "en": "Night Prince",
+  "kind": "name",
+  "note": "yoru no kikoushi = young noble of the night."
+ },
+ {
+  "en": "Zaqqum",
+  "kind": "name",
+  "note": "The cursed tree of Islamic tradition."
+ },
+ {
+  "en": "Cursed Tree",
+  "kind": "name"
+ },
+ {
+  "en": "Lich",
+  "kind": "name",
+  "note": "As in Lich's Robe (csvt slice_18)."
+ },
+ {
+  "en": "Rotten But Rich",
+  "kind": "name",
+  "note": "Pun: richii = lich / rich ('rotted, but still rich'). Pun survives as Lich/Rich."
+ },
+ {
+  "en": "Mirurubana",
+  "kind": "name",
+  "note": "Matches chap slice_013."
+ },
+ {
+  "en": "Deathly Gaze",
+  "kind": "name",
+  "note": "shide = the journey into death."
+ },
+ {
+  "en": "Girou",
+  "kind": "name",
+  "note": "New name, romanized."
+ },
+ {
+  "en": "Many Dead",
+  "kind": "name",
+  "note": "amata no mukuro = countless corpses (bestiary: made of many skeletons); 10-byte limit."
+ },
+ {
+  "en": "Skull Crown",
+  "kind": "name",
+  "note": "Bestiary: crowned royal remains (crown, not clown)."
+ },
+ {
+  "en": "Sky Bone King",
+  "kind": "name",
+  "note": "'Flying Bone King' is 16 > 14."
+ },
+ {
+  "en": "Death Knight",
+  "kind": "name"
+ },
+ {
+  "en": "Born of Death",
+  "kind": "name"
+ },
+ {
+  "en": "La Fanure",
+  "kind": "name",
+  "note": "Female vampire; name likely plays on Sheridan Le Fanu (Carmilla). Romanized; 'La Fanulle' also possible."
+ },
+ {
+  "en": "Love-Death Bliss",
+  "kind": "name",
+  "note": "Lit. 'the joy of dying in love'; compressed to fit 16."
+ },
+ {
+  "en": "Samael",
+  "kind": "name",
+  "note": "Matches item 'Samael's Scythe'."
+ },
+ {
+  "en": "Reaper",
+  "kind": "name",
+  "note": "Lit. 'death's sickle-neck' (Samael: scythe, skull, centipede body). 8 bytes; 'Reaper' keeps death+scythe, loses the neck image."
+ },
+ {
+  "en": "Earth Elemental",
+  "kind": "name"
+ },
+ {
+  "en": "Earth Elemental",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Earthborn",
+  "kind": "name",
+  "note": "Lit. 'child of the earth spirit'. Same '-born' pattern for all five elemental children (shadow one has only 10 bytes)."
+ },
+ {
+  "en": "Korred",
+  "kind": "name",
+  "note": "Breton dancing dwarf-fairy (desc: lures travellers into dancing); Korred is the folklore spelling."
+ },
+ {
+  "en": "Always Jittery",
+  "kind": "name",
+  "note": "Desc: very timid when alone."
+ },
+ {
+  "en": "Mandragora",
+  "kind": "name"
+ },
+ {
+  "en": "Ukyaaah!!",
+  "kind": "name",
+  "note": "Mandragora's scream."
+ },
+ {
+  "en": "Water Elemental",
+  "kind": "name"
+ },
+ {
+  "en": "Water Elemental",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Waterborn",
+  "kind": "name",
+  "note": "See Earthborn."
+ },
+ {
+  "en": "Mana Front",
+  "kind": "name",
+  "note": "Pun on a weather front. Owner is row 2655 (not in slice); likely a water/weather monster - unverified. | ACC: owner is Fairy (MONSTER1 c49); MON_TEXT: fairies circulate the land's mana, so the weather-front pun fits. Unchanged."
+ },
+ {
+  "en": "Undine",
+  "kind": "name"
+ },
+ {
+  "en": "Nixie Queen",
+  "kind": "name",
+  "note": "Lit. 'water-fairy consort'; desc calls Undine a water fairy."
+ },
+ {
+  "en": "Rubezahl",
+  "kind": "name",
+  "note": "German mountain spirit Ruebezahl; ASCII spelling."
+ },
+ {
+  "en": "Turnips All Over",
+  "kind": "name",
+  "note": "Lit. 'covered head to toe in turnips!' (sentence-like source)."
+ },
+ {
+  "en": "Wind Elemental",
+  "kind": "name"
+ },
+ {
+  "en": "Wind Elemental",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Windborn",
+  "kind": "name",
+  "note": "See Earthborn."
+ },
+ {
+  "en": "Yugdrias",
+  "kind": "name",
+  "note": "Matches 'Beneath the Yugdrias' (slice_02)."
+ },
+ {
+  "en": "Moonbud Eye",
+  "kind": "name",
+  "note": "Lit. 'moonlight flower-eye' (blooms at night, eyeballs in the flower). 12 bytes; 'Moonbloom Eye' was 13."
+ },
+ {
+  "en": "Fire Elemental",
+  "kind": "name"
+ },
+ {
+  "en": "Fire Elemental",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Fireborn",
+  "kind": "name",
+  "note": "See Earthborn."
+ },
+ {
+  "en": "Snow Rabbit",
+  "kind": "name"
+ },
+ {
+  "en": "Snow Rabbit",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Snow-Nurtured",
+  "kind": "name",
+  "note": "Lit. 'that which the snow nurtured'."
+ },
+ {
+  "en": "Zilphe",
+  "kind": "name",
+  "note": "Matches item text in slice_22."
+ },
+ {
+  "en": "Jolly Gale",
+  "kind": "name",
+  "note": "Lit. 'carefree typhoon'; 10 bytes."
+ },
+ {
+  "en": "Leprechaun",
+  "kind": "name"
+ },
+ {
+  "en": "Dummies, Too!",
+  "kind": "name",
+  "note": "Lit. 'there are dummies too, you know'. Meaning of 'dummies' unclear (fake treasure? decoy enemies?). Avoided 'Decoy' (glossary character name)."
+ },
+ {
+  "en": "Sign",
+  "kind": "name"
+ },
+ {
+  "en": "Glowskin",
+  "kind": "name",
+  "note": "Lit. 'with shining bare skin'; 10 bytes."
+ },
+ {
+  "en": "Will-o'-Wisp",
+  "kind": "name"
+ },
+ {
+  "en": "Phantom Lamplight",
+  "kind": "name"
+ },
+ {
+  "en": "Narv",
+  "kind": "name",
+  "note": "Matches story translation (slice_017)."
+ },
+ {
+  "en": "Shadowborn",
+  "kind": "name",
+  "note": "See Earthborn; Narv is the darkness elemental."
+ },
+ {
+  "en": "Alraune",
+  "kind": "name",
+  "note": "Matches item 'Alraune Vine'."
+ },
+ {
+  "en": "Bloom Maid",
+  "kind": "name",
+  "note": "Lit. 'big-blossom flower girl'; 10 bytes."
+ },
+ {
+  "en": "Snow Woman",
+  "kind": "name",
+  "note": "Yuki-onna; 'Snow Woman' chosen for readability."
+ },
+ {
+  "en": "Snow Woman",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Icy Beauty",
+  "kind": "name",
+  "note": "Lit. 'icicle beauty'; 'Icicle Belle' was 12 > 10."
+ },
+ {
+  "en": "Storm",
+  "kind": "name"
+ },
+ {
+  "en": "Silver Icon",
+  "kind": "name",
+  "note": "Lit. 'silver charisma' (a star/idol); pairs with Lightning's 'Golden Icon'."
+ },
+ {
+  "en": "Lightning",
+  "kind": "name"
+ },
+ {
+  "en": "Golden Icon",
+  "kind": "name",
+  "note": "Lit. 'gold charisma'; see Silver Icon."
+ },
+ {
+  "en": "Snowman",
+  "kind": "name"
+ },
+ {
+  "en": "Snow Fiend",
+  "kind": "name"
+ },
+ {
+  "en": "Dullahan",
+  "kind": "name",
+  "note": "Matches story translation."
+ },
+ {
+  "en": "Death-Omen Fae",
+  "kind": "name",
+  "note": "Lit. 'fairy who announces death'; desc says it is close to a fairy."
+ },
+ {
+  "en": "Soul Rotate",
+  "kind": "name",
+  "note": "UNCERTAIN: katakana 'Sou Rotate'; spirit of all four elements. 'Soul' is a guess (could be 'Sow'/'Sol'). Epithet ('spinning fool') confirms 'Rotate'."
+ },
+ {
+  "en": "Spinning Idiot",
+  "kind": "name",
+  "note": "Lit. 'round-and-round idiot'."
+ },
+ {
+  "en": "Earthworm",
+  "kind": "name"
+ },
+ {
+  "en": "Man-Eating",
+  "kind": "name",
+  "note": "Lit. 'man-eating worm'; reads as 'Man-Eating Earthworm' with the name. 'Man-Eater Worm' was 14 > 12."
+ },
+ {
+  "en": "Mad Jumper",
+  "kind": "name"
+ },
+ {
+  "en": "Grass-Hopping",
+  "kind": "name",
+  "note": "Lit. 'leaping about the grass'; grasshopper pun."
+ },
+ {
+  "en": "Mockricketta?",
+  "kind": "name",
+  "note": "Katakana 'Mokuricketta?'; spelled to show the probable 'mock cricket' pun. Question mark is in the source."
+ },
+ {
+  "en": "Head-Tilting",
+  "kind": "name",
+  "note": "Lit. 'tilting its little head (puzzled)'."
+ },
+ {
+  "en": "Doom Mantis",
+  "kind": "name"
+ },
+ {
+  "en": "Beheading Mantis",
+  "kind": "name"
+ },
+ {
+  "en": "Amber Roach",
+  "kind": "name",
+  "note": "Insect alive inside amber."
+ },
+ {
+  "en": "Amber Miracle",
+  "kind": "name"
+ },
+ {
+  "en": "Ultimate Runner",
+  "kind": "name",
+  "note": "Matches story translation (slice_015)."
+ },
+ {
+  "en": "Black Devil",
+  "kind": "name",
+  "note": "Common Japanese nickname for the cockroach."
+ },
+ {
+  "en": "Shell Combine",
+  "kind": "name",
+  "note": "Coconut-crab monster."
+ },
+ {
+  "en": "Hard-Shell Tank",
+  "kind": "name"
+ },
+ {
+  "en": "Pirieraua",
+  "kind": "name",
+  "note": "Scorpion woman; literal romanization (r/l unknown)."
+ },
+ {
+  "en": "Stinger Lady",
+  "kind": "name",
+  "note": "Lit. 'barbed poison woman'; 12 bytes. Stinger carries barb+venom."
+ },
+ {
+  "en": "Shield Centipede",
+  "kind": "name"
+ },
+ {
+  "en": "Sheltered Centipede",
+  "kind": "name",
+  "note": "Lit. 'protected centipede' (it lives wrapped around a shield)."
+ },
+ {
+  "en": "Cordyceps",
+  "kind": "name",
+  "note": "Japanese name means 'winter insect, summer grass'."
+ },
+ {
+  "en": "Cordyceps",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Spring and Fall?",
+  "kind": "name",
+  "note": "Lit. 'what about spring and autumn?' - joke on the Japanese name (winter/summer). The pun is lost with 'Cordyceps'; kept literal-ish."
+ },
+ {
+  "en": "Ultimate Flyer",
+  "kind": "name"
+ },
+ {
+  "en": "King of Terror",
+  "kind": "name"
+ },
+ {
+  "en": "Twin Scobill",
+  "kind": "name",
+  "note": "Katakana 'Tsuin Sukobiru'; spelling guessed (two jaws = 'bill'?). Epithet is in slice_33."
+ },
+ {
+  "en": "Ancient-Born",
+  "kind": "name",
+  "note": "Epithet of Twin Scobill (row 2720, slice_32). 'Born of ancient times'; Cambrian-style creature. | ACC: note spelling aligned with the name row."
+ },
+ {
+  "en": "Royal Honey",
+  "kind": "name"
+ },
+ {
+  "en": "Queen Bee's Heir",
+  "kind": "name",
+  "note": "Lit. 'one who inherits the princess-bee's blood'. 'Princess Bee's Heir' is 19 bytes; MON_TEXT calls it a queen bee."
+ },
+ {
+  "en": "Frasteria",
+  "kind": "name"
+ },
+ {
+  "en": "Eerie Glow",
+  "kind": "name",
+  "note": "Lit. 'uncanny phosphorescence'."
+ },
+ {
+  "en": "Insector Lord",
+  "kind": "name",
+  "note": "Kept the coined 'Insector' from the katakana (not 'Insect Lord'). Also mirrored in MSP_TEXT."
+ },
+ {
+  "en": "King of Fly Manor",
+  "kind": "name",
+  "note": "Lit. 'king of the house of flies' (Beelzebub nod)."
+ },
+ {
+  "en": "Wiwaxia",
+  "kind": "name",
+  "note": "Real Cambrian animal name."
+ },
+ {
+  "en": "Spiky Bun",
+  "kind": "name",
+  "note": "Lit. 'moving spiky manju bun'; 'moving' dropped to fit 12 bytes."
+ },
+ {
+  "en": "Hovering Straw",
+  "kind": "name"
+ },
+ {
+  "en": "Slurp-Slurp",
+  "kind": "name",
+  "note": "Onomatopoeia chu-chu (sucking nectar)."
+ },
+ {
+  "en": "Chick Bomb",
+  "kind": "name",
+  "note": "'Chicken Bomb' is 12 bytes, max 10."
+ },
+ {
+  "en": "Meat Racer",
+  "kind": "name",
+  "note": "Lit. 'running meat-bullet bird'; MON_TEXT says it is called a meat bomb. Compressed to 10 bytes."
+ },
+ {
+  "en": "Camel Duff",
+  "kind": "name",
+  "note": "'Duff' romanizes daffu; spelling uncertain."
+ },
+ {
+  "en": "Camel Revenge",
+  "kind": "name",
+  "note": "'Camel's Revenge' is 15 bytes, max 14."
+ },
+ {
+  "en": "Wise Hammer",
+  "kind": "name",
+  "note": "Hammerhead shark (its MON_TEXT mirror is hammerhead). 'Waizu' read as Wise; could be a pun on 'wide' (wide field of view)."
+ },
+ {
+  "en": "Blind Only Ahead",
+  "kind": "name",
+  "note": "Lit. 'no blind spot except straight ahead' (hammerhead eyes)."
+ },
+ {
+  "en": "Tonafel",
+  "kind": "name"
+ },
+ {
+  "en": "Nosewalker",
+  "kind": "name",
+  "note": "Lit. 'still nose-walking'; 'still' dropped to fit 10 bytes."
+ },
+ {
+  "en": "Deathgaroo",
+  "kind": "name",
+  "note": "Death + kangaroo."
+ },
+ {
+  "en": "Punch! Kick!",
+  "kind": "name",
+  "note": "Lit. 'it's a punch, it's a kick'."
+ },
+ {
+  "en": "Full Moon Rabbit",
+  "kind": "name",
+  "note": "Jugoya = night of the harvest full moon (mid-autumn moon-viewing); moon rabbits pound mochi."
+ },
+ {
+  "en": "Full Moon Rabbit",
+  "kind": "name",
+  "note": "Nickname is only the kana reading of the name; same English."
+ },
+ {
+  "en": "Red/White Mochi?",
+  "kind": "name",
+  "note": "Lit. 'Red mochi? White mochi?'; 'Red Mochi? White?' is 17 bytes. Red = blood, per MON_TEXT."
+ },
+ {
+  "en": "Armgorion",
+  "kind": "name"
+ },
+ {
+  "en": "Anything Goes",
+  "kind": "name",
+  "note": "Lit. 'doing whatever it pleases' (its arms act on their own)."
+ },
+ {
+  "en": "Vortex Eye",
+  "kind": "name",
+  "note": "Spiral-shelled creature; 'Vortec' read as Vortex."
+ },
+ {
+  "en": "Silent Thinker",
+  "kind": "name",
+  "note": "Lit. 'philosopher of silence'; 'Silent Philosopher' does not fit 14."
+ },
+ {
+  "en": "Diamond Colony",
+  "kind": "name"
+ },
+ {
+  "en": "Eternal Brilliance",
+  "kind": "name",
+  "note": "Lit. 'eternal radiance' (echoes the Japanese diamond slogan)."
+ },
+ {
+  "en": "Deep Dresser",
+  "kind": "name"
+ },
+ {
+  "en": "Deep-Sea Fashion",
+  "kind": "name"
+ },
+ {
+  "en": "Beast",
+  "kind": "name",
+  "note": "Matches 'Werebeast' usage of beast in the UI."
+ },
+ {
+  "en": "Beastlike",
+  "kind": "name",
+  "note": "Lit. 'like a beast'; 'Like a Beast' is 12 bytes."
+ },
+ {
+  "en": "Airy Vider",
+  "kind": "name",
+  "note": "Coined katakana (giant flying whale); 'vider' spelling uncertain."
+ },
+ {
+  "en": "Big Lug",
+  "kind": "name",
+  "note": "Dekabutsu = big hulking thing."
+ },
+ {
+  "en": "Nose Tyrant",
+  "kind": "name"
+ },
+ {
+  "en": "Forest Tyrant",
+  "kind": "name"
+ },
+ {
+  "en": "Emperor Bird",
+  "kind": "name"
+ },
+ {
+  "en": "Pomp and Majesty",
+  "kind": "name",
+  "note": "Ifuu doudou = imposing, majestic bearing (also the Japanese title of Pomp and Circumstance)."
+ },
+ {
+  "en": "Babirusa",
+  "kind": "name",
+  "note": "Real animal name."
+ },
+ {
+  "en": "Holy Fiend",
+  "kind": "name",
+  "note": "Lit. 'holy demon-beast'; keeps the holy/demonic contrast."
+ },
+ {
+  "en": "Harpy",
+  "kind": "name"
+ },
+ {
+  "en": "Sky Frolicker",
+  "kind": "name",
+  "note": "Lit. 'frolicking in the great sky'."
+ },
+ {
+  "en": "Carbuncle",
+  "kind": "name"
+ },
+ {
+  "en": "Gem Beast",
+  "kind": "name",
+  "note": "Lit. 'magic-stone beast'; 'Magic Gem Beast' is 15 bytes."
+ },
+ {
+  "en": "Afanc",
+  "kind": "name",
+  "note": "Welsh water monster; standard English spelling (also seen as Avanc)."
+ },
+ {
+  "en": "Kshaaa!",
+  "kind": "name",
+  "note": "Hissing cry."
+ },
+ {
+  "en": "Basilisk",
+  "kind": "name"
+ },
+ {
+  "en": "Venomous",
+  "kind": "name",
+  "note": "Lit. 'poison lizard'; 'Venom Lizard' is 12 bytes, max 10."
+ },
+ {
+  "en": "Peryton",
+  "kind": "name"
+ },
+ {
+  "en": "Man-Shadow",
+  "kind": "name",
+  "note": "Lit. 'deer-bird, human shadow' (its shadow is human-shaped, per MON_TEXT). Deer-bird part dropped to fit 10 bytes."
+ },
+ {
+  "en": "Nekomata",
+  "kind": "name"
+ },
+ {
+  "en": "Loyal Cat",
+  "kind": "name",
+  "note": "Lit. 'loyal demon cat'; 'Loyal Demon Cat' is 15 bytes, max 10."
+ },
+ {
+  "en": "Unicorn",
+  "kind": "name"
+ },
+ {
+  "en": "Pure Steed",
+  "kind": "name",
+  "note": "Lit. 'undefiled holy horse'. Shared with MONSTER3 c114 r8 and PLAYER c116 r8 (max 12)."
+ },
+ {
+  "en": "Merlion",
+  "kind": "name"
+ },
+ {
+  "en": "Sea Guardian",
+  "kind": "name"
+ },
+ {
+  "en": "Chimera",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Fusion",
+  "kind": "name",
+  "note": "Lit. 'super-demonic fusion'; only 8 bytes, so reduced to 'Fusion'."
+ },
+ {
+  "en": "Cockatrice",
+  "kind": "name"
+ },
+ {
+  "en": "Rock-a-Doodle",
+  "kind": "name",
+  "note": "Pun: sekika de kekkou (petrify, that'll do) + kokekokko rooster crow. English pun on petrify + cock-a-doodle."
+ },
+ {
+  "en": "Tengu",
+  "kind": "name"
+ },
+ {
+  "en": "Geho",
+  "kind": "name",
+  "note": "Gehou-sama: a name for tengu (gehou = heretical arts, -sama = honorific). 6-byte limit; romanized without honorific."
+ },
+ {
+  "en": "Scylla",
+  "kind": "name"
+ },
+ {
+  "en": "Siren",
+  "kind": "name",
+  "note": "Lit. 'bewitchingly beautiful water beast'; 8-byte limit."
+ },
+ {
+  "en": "Cerberus",
+  "kind": "name"
+ },
+ {
+  "en": "Dark Hound",
+  "kind": "name",
+  "note": "Lit. 'watchdog of darkness'; 10-byte limit."
+ },
+ {
+  "en": "Griffon",
+  "kind": "name"
+ },
+ {
+  "en": "Highborn",
+  "kind": "name",
+  "note": "Lit. 'noble mythical beast'; 'Noble Beast' is 11 bytes, max 10."
+ },
+ {
+  "en": "Lamia",
+  "kind": "name",
+  "note": "Matches item 'Lamia Tail'."
+ },
+ {
+  "en": "Snake Lady",
+  "kind": "name",
+  "note": "Lit. 'snake-bodied beauty'; 'Snake Beauty' is 12 bytes, max 10."
+ },
+ {
+  "en": "Tenko",
+  "kind": "name",
+  "note": "As in chap slice_016."
+ },
+ {
+  "en": "Tenko",
+  "kind": "name",
+  "note": "Nickname is only the kana reading; same English."
+ },
+ {
+  "en": "Inari-sama",
+  "kind": "name",
+  "note": "O-Inari-sama = the fox deity Inari (also aburaage / inari sushi, cf. MON_TEXT). Honorific kept to avoid gendering 'Lord'."
+ },
+ {
+  "en": "Bicorn",
+  "kind": "name",
+  "note": "Matches item 'Bicorn Horn'."
+ },
+ {
+  "en": "Foul Beast",
+  "kind": "name",
+  "note": "Lit. 'beast of impurity'; counterpart of Unicorn's 'Pure Steed'."
+ },
+ {
+  "en": "Bahamut",
+  "kind": "name",
+  "note": "Matches item 'Bahamut Helm'."
+ },
+ {
+  "en": "Gleamscale",
+  "kind": "name",
+  "note": "Lit. 'of shining scales' (adjectival); 'Bright-Scaled' is 13 bytes, max 10."
+ },
+ {
+  "en": "Sphinx",
+  "kind": "name"
+ },
+ {
+  "en": "Dream Riddle",
+  "kind": "name",
+  "note": "Sphinx epithet ([JP]). 'Riddle of Dreams' does not fit 12."
+ },
+ {
+  "en": "Poltergeist",
+  "kind": "name"
+ },
+ {
+  "en": "Mischievous",
+  "kind": "name"
+ },
+ {
+  "en": "Ghost Fighter",
+  "kind": "name"
+ },
+ {
+  "en": "Famously Tenacious",
+  "kind": "name",
+  "note": "[JP] = renowned for its tenacity; MON_TEXT: a fighter's ghost that keeps fighting after death."
+ },
+ {
+  "en": "Ghost Mage",
+  "kind": "name"
+ },
+ {
+  "en": "Seething Mana",
+  "kind": "name",
+  "note": "[JP]: 'spectral' dropped to fit 14 (Seething Spectral Mana = 22)."
+ },
+ {
+  "en": "Ghost",
+  "kind": "name",
+  "note": "Generic [JP] monster; the Ghost X series keeps 'Ghost' as prefix."
+ },
+ {
+  "en": "Ghost",
+  "kind": "name",
+  "note": "Kana nickname of [JP]; same English as the name."
+ },
+ {
+  "en": "Lonesome",
+  "kind": "name"
+ },
+ {
+  "en": "Ghost Thief",
+  "kind": "name"
+ },
+ {
+  "en": "Light-Fingered",
+  "kind": "name"
+ },
+ {
+  "en": "Hanger",
+  "kind": "name",
+  "note": "Reuses chap slice_011 row 897 name box 'Hanger'."
+ },
+ {
+  "en": "Happy to Hang",
+  "kind": "name",
+  "note": "[JP]: MON_TEXT says it hangs upside down from the ceiling for fun."
+ },
+ {
+  "en": "Ghost Priestess",
+  "kind": "name"
+ },
+ {
+  "en": "Wandering Nun",
+  "kind": "name"
+ },
+ {
+  "en": "Ghost Maid",
+  "kind": "name"
+ },
+ {
+  "en": "Here to Serve",
+  "kind": "name",
+  "note": "[JP] (maid speech, 'I shall serve'). 'At Your Service' is 15 > 14."
+ },
+ {
+  "en": "Ghost Ship",
+  "kind": "name",
+  "note": "Matches ITEM_TEXT row 2177 'ghost ship'."
+ },
+ {
+  "en": "Run 'Em Down!",
+  "kind": "name",
+  "note": "[JP] in harsh katakana: read as [JP] (run them down / ram them); the related item text has the prow crushing all in its way."
+ },
+ {
+  "en": "Klein",
+  "kind": "name",
+  "note": "Klein bottle reference (MON_TEXT: inside and outside loop into each other)."
+ },
+ {
+  "en": "4-D Body",
+  "kind": "name",
+  "note": "[JP] (other-dimensional body). MON_TEXT: shape is normal only to higher-dimensional beings. Alternatives in 10 bytes: 'Alien Body'."
+ },
+ {
+  "en": "Ghost Ranger",
+  "kind": "name",
+  "note": "Katakana [JP] kept as Ranger (the [JP] class is Ranger per lead decision, so the name matches the class; MON_TEXT calls it a [JP]'s ghost). | ACC: note updated; en unchanged."
+ },
+ {
+  "en": "Not Done Hunting",
+  "kind": "name",
+  "note": "[JP] (I'll keep hunting!); MON_TEXT: hunter who starved but keeps hunting."
+ },
+ {
+  "en": "Ghost Smash",
+  "kind": "name",
+  "note": "MON_TEXT: ghost of a female brawler ([JP]) killed in a duel."
+ },
+ {
+  "en": "Indomitable Soul",
+  "kind": "name"
+ },
+ {
+  "en": "Ghost Valkyrie",
+  "kind": "name",
+  "note": "Valkyrie per glossary class."
+ },
+ {
+  "en": "The Unredeemed",
+  "kind": "name",
+  "note": "[JP]; MON_TEXT: Valkyrie spirit rejected by her god."
+ },
+ {
+  "en": "Shouting Fear",
+  "kind": "name"
+ },
+ {
+  "en": "Death-Calling Shout",
+  "kind": "name"
+ },
+ {
+  "en": "Ansatacris",
+  "kind": "name",
+  "note": "Romanized [JP]; likely from crux ansata (ankh). Ray-shaped flying skull."
+ },
+ {
+  "en": "Swims Dead Sky",
+  "kind": "name",
+  "note": "[JP] (swims the sky of death). 'Deathsky Swimmer' is 16 > 14."
+ },
+ {
+  "en": "Ghost Daimyo",
+  "kind": "name"
+ },
+ {
+  "en": "Blade of Regret",
+  "kind": "name",
+  "note": "[JP]; [JP] = katana, rendered 'Blade'."
+ },
+ {
+  "en": "Ghost Summer",
+  "kind": "name",
+  "note": "[JP] is a ninja rank (JOBABL 'High Master / [JP]'); follows chap slice_016 row 1268 'Summer' (marked tentative there)."
+ },
+ {
+  "en": "Shinobi Soul",
+  "kind": "name",
+  "note": "[JP]."
+ },
+ {
+  "en": "Inugami",
+  "kind": "name"
+ },
+ {
+  "en": "Forged Ghost",
+  "kind": "name",
+  "note": "[JP] (an artificially made vengeful spirit; MON_TEXT: created by the kodoku curse). 'vengeful' dropped to fit 12."
+ },
+ {
+  "en": "Mayokal",
+  "kind": "name",
+  "note": "Romanized [JP]; probably from [JP] (to stray/waver)."
+ },
+ {
+  "en": "Wishy-Washy",
+  "kind": "name",
+  "note": "[JP]: reduplicated mayo-mayo (dithering, straying, with a mayonnaise pun on the name). Kept the playful reduplication."
+ },
+ {
+  "en": "Wraith",
+  "kind": "name"
+ },
+ {
+  "en": "Overlord",
+  "kind": "name",
+  "note": "[JP] (King of Evil Spirits) compressed to fit 8 bytes; 'Evil King' is 9."
+ },
+ {
+  "en": "Gremlin",
+  "kind": "name"
+ },
+ {
+  "en": "Tiny-Fanged",
+  "kind": "name"
+ },
+ {
+  "en": "Bolmophis",
+  "kind": "name",
+  "note": "Romanized [JP]."
+ },
+ {
+  "en": "Fluffy Tum-Tum",
+  "kind": "name",
+  "note": "[JP] (fluffy tummy, baby-talk); MON_TEXT: curse that makes you want to rub your cheek on its fluffy belly."
+ },
+ {
+  "en": "Gargoyle",
+  "kind": "name"
+ },
+ {
+  "en": "I'll Keep Watch!",
+  "kind": "name",
+  "note": "[JP] (leave the watch to me!)."
+ },
+ {
+  "en": "Karussa",
+  "kind": "name",
+  "note": "Romanized [JP] (a road-runner-like monster bird)."
+ },
+ {
+  "en": "Beep Beep",
+  "kind": "name",
+  "note": "[JP] (Road Runner gag); source has no space, added for English."
+ },
+ {
+  "en": "Lesser Demon",
+  "kind": "name"
+ },
+ {
+  "en": "Fledgling Demon",
+  "kind": "name"
+ },
+ {
+  "en": "Bistora",
+  "kind": "name",
+  "note": "Romanized [JP]."
+ },
+ {
+  "en": "Soul-Rip Hand",
+  "kind": "name",
+  "note": "[JP] (hand that wrenches out souls); MON_TEXT: the real body is the glowing hand behind it. 'Soul-Ripping Hand' is 17 > 14."
+ },
+ {
+  "en": "Demon Valkyrie",
+  "kind": "name"
+ },
+ {
+  "en": "Demonic Thrust",
+  "kind": "name",
+  "note": "[JP]; MON_TEXT: one mighty spear thrust."
+ },
+ {
+  "en": "Incubus",
+  "kind": "name"
+ },
+ {
+  "en": "Soul Rape",
+  "kind": "name",
+  "note": "[JP] (violation/rape of the soul), kept at full strength per the do-not-soften rule; MON_TEXT: violates victims from within by words. Milder option if reviewers prefer: 'Soul Defiler' (12)."
+ },
+ {
+  "en": "Succubus",
+  "kind": "name"
+ },
+ {
+  "en": "Dark Lover",
+  "kind": "name",
+  "note": "[JP] (lover of black dreams). 'dream' dropped to fit 10; 'Dream Lover' is 11."
+ },
+ {
+  "en": "Greater Demon",
+  "kind": "name"
+ },
+ {
+  "en": "Grand Demon",
+  "kind": "name",
+  "note": "[JP] (the great one of the demon race)."
+ },
+ {
+  "en": "Fake Angel",
+  "kind": "name"
+ },
+ {
+  "en": "Despair Is My Joy",
+  "kind": "name"
+ },
+ {
+  "en": "Walpurgis",
+  "kind": "name"
+ },
+ {
+  "en": "Revelry Begins",
+  "kind": "name",
+  "note": "[JP] (the mad revel begins); 'mad' carried by 'revelry'."
+ },
+ {
+  "en": "Demons, Obey",
+  "kind": "name",
+  "note": "Epithet of [JP] (Hell Master, MONSTER1 c151); its name row is deduped elsewhere. [JP] = 'all demons, obey'."
+ },
+ {
+  "en": "Empusa",
+  "kind": "name"
+ },
+ {
+  "en": "Cruel Grin",
+  "kind": "name",
+  "note": "[JP]; 'Cruel Smile' is 11 > 10."
+ },
+ {
+  "en": "Archdemon",
+  "kind": "name"
+ },
+ {
+  "en": "Dark Pontiff",
+  "kind": "name",
+  "note": "[JP] (dark high priest); 'Dark High Priest' is 16 > 14."
+ },
+ {
+  "en": "Medusa",
+  "kind": "name"
+ },
+ {
+  "en": "Stonewitch",
+  "kind": "name",
+  "note": "[JP] (witch of petrification); 'Stone Witch' is 11 > 10."
+ },
+ {
+  "en": "Demon Lord",
+  "kind": "name"
+ },
+ {
+  "en": "Dark Monarch",
+  "kind": "name",
+  "note": "[JP]; avoids 'Dark Lord' next to the name Demon Lord."
+ },
+ {
+  "en": "Tamagon",
+  "kind": "name",
+  "note": "[JP] = tamago (egg) + dragon; kept as the coined name."
+ },
+ {
+  "en": "Newly Hatched",
+  "kind": "name",
+  "note": "[JP] (just born); MON_TEXT: a dragon just hatched from its egg."
+ },
+ {
+  "en": "Rhamphorhynchus",
+  "kind": "name"
+ },
+ {
+  "en": "Sharp Pterosaur",
+  "kind": "name"
+ },
+ {
+  "en": "Both Heads",
+  "kind": "name",
+  "note": "[JP] (Both Heads): two-headed dragon whose tail is also a head."
+ },
+ {
+  "en": "2-Head Snake",
+  "kind": "name",
+  "note": "Epithet of Both Heads (slice_34 row 2880). 'Two-Headed Serpent' does not fit 12 bytes."
+ },
+ {
+  "en": "Red Dragon",
+  "kind": "name"
+ },
+ {
+  "en": "Scorching",
+  "kind": "name"
+ },
+ {
+  "en": "Ice Dragon",
+  "kind": "name"
+ },
+ {
+  "en": "Freezing",
+  "kind": "name"
+ },
+ {
+  "en": "Hydra",
+  "kind": "name",
+  "note": "As item Hydra Fang."
+ },
+ {
+  "en": "Dread Serpent",
+  "kind": "name"
+ },
+ {
+  "en": "Grannada",
+  "kind": "name",
+  "note": "Romanized; kept the double n of the kana (not the city Granada)."
+ },
+ {
+  "en": "Lookback Drake",
+  "kind": "name",
+  "note": "Pun on mikaeri bijin ('beauty looking back'); bestiary: it hates being seen from behind and can only turn its head. 'Lookback Dragon' is 15 > 14."
+ },
+ {
+  "en": "Scaly Halo",
+  "kind": "name",
+  "note": "haiirou = Halo, as item Demon Halo."
+ },
+ {
+  "en": "Seven-Hued Dragon",
+  "kind": "name"
+ },
+ {
+  "en": "Rootless Tail",
+  "kind": "name",
+  "note": "Bestiary puns on its unknown 'roots'."
+ },
+ {
+  "en": "Earthswim Dragon",
+  "kind": "name",
+  "note": "'swims' through the ground (bestiary)."
+ },
+ {
+  "en": "Amphisbaena",
+  "kind": "name"
+ },
+ {
+  "en": "2-Head Fell Wyrm",
+  "kind": "name",
+  "note": "majuu = fell/demonic dragon; '2-Head' abbreviation as row 2881."
+ },
+ {
+  "en": "Salamander",
+  "kind": "name"
+ },
+ {
+  "en": "Pink Monster",
+  "kind": "name"
+ },
+ {
+  "en": "Elemental Wieg",
+  "kind": "name",
+  "note": "UNCERTAIN: wiigu romanized as 'Wieg'; source word unknown (a holy wyvern per bestiary)."
+ },
+ {
+  "en": "Radiant Spirit Wing",
+  "kind": "name"
+ },
+ {
+  "en": "Emerald Dragon",
+  "kind": "name"
+ },
+ {
+  "en": "Green Flash Dragon",
+  "kind": "name"
+ },
+ {
+  "en": "Dras Gloria",
+  "kind": "name",
+  "note": "Romanized. Female (bestiary uses kanojo)."
+ },
+ {
+  "en": "Dragon Queen",
+  "kind": "name",
+  "note": "Bestiary also calls her 'Dragon Queen' -- keep MON_TEXT consistent."
+ },
+ {
+  "en": "Adventurer",
+  "kind": "name",
+  "note": "Epithet of Fighter (name deduped). 'Fighting Adventurer' cannot fit 10 bytes; the 'fighting' sense is carried by the name Fighter."
+ },
+ {
+  "en": "Ronin",
+  "kind": "name"
+ },
+ {
+  "en": "Wanderer",
+  "kind": "name",
+  "note": "Wandering samurai; 8 bytes max."
+ },
+ {
+  "en": "Santorea 1st-Yr Martial",
+  "kind": "name",
+  "note": "Santorea Martial Arts Dept.; pattern follows chap speaker names '2nd-Yr Martial'."
+ },
+ {
+  "en": "Santorea 1st-Year",
+  "kind": "name",
+  "note": "Kana nickname form (ichinensei); short form without the department."
+ },
+ {
+  "en": "I Will Master the Sword",
+  "kind": "name",
+  "note": "Boy swordsman's resolve (kiwamen, volitional)."
+ },
+ {
+  "en": "Battle for Fried Bread",
+  "kind": "name",
+  "note": "Second variant (axe girl): scramble for agepan, the sugared fried bread of school lunches."
+ },
+ {
+  "en": "Farmer",
+  "kind": "name",
+  "note": "As chap speaker name."
+ },
+ {
+  "en": "Till Life!",
+  "kind": "name",
+  "note": "jinsei wo tagayase = 'Cultivate your life!'; 12 bytes max."
+ },
+ {
+  "en": "Santorea 2nd-Yr Martial",
+  "kind": "name"
+ },
+ {
+  "en": "Santorea 2nd-Year",
+  "kind": "name"
+ },
+ {
+  "en": "What Is the Sword's Way?",
+  "kind": "name",
+  "note": "Exactly 24 bytes."
+ },
+ {
+  "en": "Battle for Seconds",
+  "kind": "name",
+  "note": "School-lunch second helpings; pairs with row 2910."
+ },
+ {
+  "en": "Barbarian",
+  "kind": "name"
+ },
+ {
+  "en": "Ah-ee-ah-aaah!",
+  "kind": "name",
+  "note": "Tarzan-style jungle yell."
+ },
+ {
+  "en": "Gladiator",
+  "kind": "name"
+ },
+ {
+  "en": "Muscles of Steel",
+  "kind": "name"
+ },
+ {
+  "en": "Fandebu",
+  "kind": "name",
+  "note": "UNCERTAIN: romanized; origin unknown (alchemical chariot-warrior). Epithet uses German 'Attacke'."
+ },
+ {
+  "en": "Onward, Attacke!",
+  "kind": "name",
+  "note": "Kept the German battle cry 'Attacke!' (charge!) that the Japanese borrows; 16 bytes exactly."
+ },
+ {
+  "en": "Santorea 3rd-Yr Martial",
+  "kind": "name"
+ },
+ {
+  "en": "Santorea 3rd-Year",
+  "kind": "name"
+ },
+ {
+  "en": "Sword's Way, Heart's Way",
+  "kind": "name",
+  "note": "ken no michi wa kokoro no michi."
+ },
+ {
+  "en": "Go for the Whole Pot!",
+  "kind": "name",
+  "note": "Bestiary: she demands the whole school-lunch pot."
+ },
+ {
+  "en": "Major Daimyo",
+  "kind": "name"
+ },
+ {
+  "en": "Ho! Wait a Moment!",
+  "kind": "name",
+  "note": "Kabuki call 'Shibaraku!' (Wait a moment!)."
+ },
+ {
+  "en": "Dark Lord",
+  "kind": "name",
+  "note": "As chap speaker name."
+ },
+ {
+  "en": "Fallen Lord",
+  "kind": "name",
+  "note": "yami-ochi = fallen to darkness; 12 bytes max."
+ },
+ {
+  "en": "Maharaja Knight",
+  "kind": "name",
+  "note": "Pun on 'Maharaja Night' kept as Knight."
+ },
+ {
+  "en": "Raja Raja",
+  "kind": "name"
+ },
+ {
+  "en": "Lady Smash",
+  "kind": "name"
+ },
+ {
+  "en": "Fist's Her Lover",
+  "kind": "name",
+  "note": "She has no lover, her fists satisfy her (bestiary)."
+ },
+ {
+  "en": "Hatamoto",
+  "kind": "name",
+  "note": "As chap speaker name."
+ },
+ {
+  "en": "Banners High",
+  "kind": "name",
+  "note": "Kakageyo, gunki = 'Raise the war banner!'; 'Raise the Banner' > 12 bytes."
+ },
+ {
+  "en": "Empress's Sword",
+  "kind": "name",
+  "note": "Epithet of Imperial Sword (name deduped). koutei = Rianna in this game, rendered 'Sovereign' elsewhere; gender-neutral. | ACC: was 'Sovereign's Sword'. MON_TEXT: Imperial Swords are the emperor's personal guard; the corpus renders [JP] (Rianna) as Empress (g8 'Empress Rianna', EVENT_TEXT 'Her Majesty the Empress'), so 'Empress's Sword' (15/18)."
+ },
+ {
+  "en": "Kurushu Knight",
+  "kind": "name",
+  "note": "Pun: 'kurushuu nai' (lordly 'you may approach') + Knight; pairs with epithet 'Come Hither'. Romanized pun."
+ },
+ {
+  "en": "Come Hither",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Lord",
+  "kind": "name",
+  "note": "As chap speaker name."
+ },
+ {
+  "en": "Dragonewt Lord",
+  "kind": "name",
+  "note": "As CHR.CSV 'Dragonewt Lord'."
+ },
+ {
+  "en": "Mifune",
+  "kind": "name"
+ },
+ {
+  "en": "Guard",
+  "kind": "name",
+  "note": "youjinbou = bodyguard ('Yojimbo', a Mifune film nod) -- 'Yojimbo' is 7 > 6 bytes, so the reference is lost."
+ },
+ {
+  "en": "Spellcaster",
+  "kind": "name",
+  "note": "Epithet of Mage (name deduped)."
+ },
+ {
+  "en": "Alch. Pupil",
+  "kind": "name",
+  "note": "Epithet of Alchemist (name deduped): 'one who studies alchemy'; 12 bytes max."
+ },
+ {
+  "en": "Santorea 1st-Yr Magic",
+  "kind": "name",
+  "note": "Santorea Magic Dept."
+ },
+ {
+  "en": "Let the Studies Begin!",
+  "kind": "name",
+  "note": "Cheery desu! tone."
+ },
+ {
+  "en": "A Season When All Shines",
+  "kind": "name"
+ },
+ {
+  "en": "Witch",
+  "kind": "name"
+ },
+ {
+  "en": "Fey Witch",
+  "kind": "name",
+  "note": "ayashi = bewitching/uncanny; 10 bytes max."
+ },
+ {
+  "en": "Bard",
+  "kind": "name"
+ },
+ {
+  "en": "Tarot of Fate",
+  "kind": "name"
+ },
+ {
+  "en": "Santorea 2nd-Yr Magic",
+  "kind": "name"
+ },
+ {
+  "en": "It's Puberty Time!",
+  "kind": "name",
+  "note": "Cheery desu! tone; bestiary: easily tempted age."
+ },
+ {
+  "en": "Chicks Waiting to Fledge",
+  "kind": "name",
+  "note": "uka = emerging into winged form; 24 bytes exactly."
+ },
+ {
+  "en": "High Sorceress",
+  "kind": "name"
+ },
+ {
+  "en": "Advanced Mage",
+  "kind": "name",
+  "note": "joukyuu majutsushi; glossary Mage."
+ },
+ {
+  "en": "High Alchemy",
+  "kind": "name",
+  "note": "Name is literally 'High Alchemy'."
+ },
+ {
+  "en": "Seeker of Life",
+  "kind": "name",
+  "note": "Pursues the origin of life (bestiary)."
+ },
+ {
+  "en": "Snail Lich",
+  "kind": "name",
+  "note": "As MONSTER1 'Lich'. Its epithet is in slice_36 (row 2961)."
+ }
+]

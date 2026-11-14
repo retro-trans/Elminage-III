@@ -1,0 +1,1238 @@
+[
+ {
+  "id": "PLAYER.CSV:6:4",
+  "en": "Grace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:5",
+  "en": "Kanosuke",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:6",
+  "en": "Aruna",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:7",
+  "en": "Meme Stampy",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:8",
+  "en": "Green",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:9",
+  "en": "Froila",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:10",
+  "en": "Garveon",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:11",
+  "en": "Common",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:12",
+  "en": "Fujiyama",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:13",
+  "en": "Hiyora",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:14",
+  "en": "Max!Fighter",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:15",
+  "en": "Max!Mage",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:16",
+  "en": "Max!Priest",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:17",
+  "en": "Max!Thief",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:18",
+  "en": "Max!Alchemist",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:19",
+  "en": "Max!Maid",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:20",
+  "en": "Max!Bishop",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:21",
+  "en": "Max!Ranger",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:22",
+  "en": "Max!Gladiatr",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:23",
+  "en": "Max!Bard",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:24",
+  "en": "Max!Kannagi",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:25",
+  "en": "Max!Summoner",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:26",
+  "en": "Max!Valkyrie",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:27",
+  "en": "Max!Lord",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:28",
+  "en": "Max!Samurai",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:29",
+  "en": "Max!Ninja",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:30",
+  "en": "Data Check",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:31",
+  "en": "Sho Kusanagi",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:32",
+  "en": "Mokunen",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:33",
+  "en": "Doctor Lionel",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:34",
+  "en": "Patty",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:35",
+  "en": "Sora Amaha",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:36",
+  "en": "Isabella",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:37",
+  "en": "Human M",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:38",
+  "en": "Human F",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:39",
+  "en": "Elf M",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:40",
+  "en": "Elf F",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:41",
+  "en": "Dwarf M",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:42",
+  "en": "Dwarf F",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:43",
+  "en": "Gnome M",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:44",
+  "en": "Gnome F",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:45",
+  "en": "Hotlet M",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:46",
+  "en": "Hotlet F",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:47",
+  "en": "Fairy M",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:48",
+  "en": "Fairy F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:49",
+  "en": "Werebeast M",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:50",
+  "en": "Werebeast F",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:51",
+  "en": "Dragonewt M",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:52",
+  "en": "Dragonewt F",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:53",
+  "en": "Devilish M",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:54",
+  "en": "Devilish F",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:55",
+  "en": "Puppet M",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:56",
+  "en": "Puppet F",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:57",
+  "en": "Ogre M",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:58",
+  "en": "Ogre F",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:59",
+  "en": "Goblin M",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:60",
+  "en": "Goblin F",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:111",
+  "en": "Finalist",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:112",
+  "en": "Tarrit",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:113",
+  "en": "Safi",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:114",
+  "en": "Hisbert",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:115",
+  "en": "Electra",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:116",
+  "en": "Mig",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:117",
+  "en": "Yamuru",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:118",
+  "en": "Maniron",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:119",
+  "en": "Korbitz",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:6:120",
+  "en": "Mokero",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:4",
+  "en": "Grace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:5",
+  "en": "Kanosuke",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:6",
+  "en": "Aruna",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:7",
+  "en": "Meme",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:8",
+  "en": "Green",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:9",
+  "en": "Froila",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:10",
+  "en": "Garveon",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:11",
+  "en": "Common",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:12",
+  "en": "Fuji",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:13",
+  "en": "Hiyora",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:14",
+  "en": "!Fighter",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:15",
+  "en": "!Mage",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:16",
+  "en": "!Priest",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:17",
+  "en": "!Thief",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:18",
+  "en": "!Alchemist",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:19",
+  "en": "!Maid",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:20",
+  "en": "!Bishop",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:21",
+  "en": "!Ranger",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:22",
+  "en": "!Gladiator",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:23",
+  "en": "!Bard",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:24",
+  "en": "!Kannagi",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:25",
+  "en": "!Summoner",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:26",
+  "en": "!Valkyrie",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:27",
+  "en": "!Lord",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:28",
+  "en": "!Samurai",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:29",
+  "en": "!Ninja",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:30",
+  "en": "Data Chk",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:31",
+  "en": "Sho",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:32",
+  "en": "Mokunen",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:33",
+  "en": "Lionel",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:34",
+  "en": "Patty",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:35",
+  "en": "Sora",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:36",
+  "en": "Isabella",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:37",
+  "en": "Human",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:38",
+  "en": "Human",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:39",
+  "en": "Elf",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:40",
+  "en": "Elf",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:41",
+  "en": "Dwarf",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:42",
+  "en": "Dwarf",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:43",
+  "en": "Gnome",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:44",
+  "en": "Gnome",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:45",
+  "en": "Hotlet",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:46",
+  "en": "Hotlet",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:47",
+  "en": "Fairy",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:48",
+  "en": "Fairy",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:49",
+  "en": "Werebeast",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:50",
+  "en": "Werebeast",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:51",
+  "en": "Dragonewt",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:52",
+  "en": "Dragonewt",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:53",
+  "en": "Devilish",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:54",
+  "en": "Devilish",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:55",
+  "en": "Puppet",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:56",
+  "en": "Puppet",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:57",
+  "en": "Ogre",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:58",
+  "en": "Ogre",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:59",
+  "en": "Goblin",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:60",
+  "en": "Goblin",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:111",
+  "en": "Final",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:112",
+  "en": "Tarrit",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:113",
+  "en": "Safi",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:114",
+  "en": "Hisbert",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:115",
+  "en": "Electra",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:116",
+  "en": "Mig",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:117",
+  "en": "Yamuru",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:118",
+  "en": "Maniron",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:119",
+  "en": "Korbitz",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:7:120",
+  "en": "Mokero",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:4",
+  "en": "Decisive",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:5",
+  "en": "Ever-Troubled",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:6",
+  "en": "Last Wonder",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:7",
+  "en": "Selfish",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:8",
+  "en": "Touch!",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:9",
+  "en": "Awkward Grin",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:10",
+  "en": "Ore Licky-Licky",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:11",
+  "en": "Pipe Down!",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:12",
+  "en": "Bloom Past Forty",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:13",
+  "en": "Top Secret",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:14",
+  "en": "Epithet",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:15",
+  "en": "Epithet",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:16",
+  "en": "Epithet",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:17",
+  "en": "Epithet",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:18",
+  "en": "Epithet",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:19",
+  "en": "Epithet",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:20",
+  "en": "Epithet",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:21",
+  "en": "Epithet",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:22",
+  "en": "Epithet",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:23",
+  "en": "Epithet",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:24",
+  "en": "Epithet",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:25",
+  "en": "Epithet",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:26",
+  "en": "Epithet",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:27",
+  "en": "Epithet",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:28",
+  "en": "Epithet",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:29",
+  "en": "Epithet",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:30",
+  "en": "A1",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:31",
+  "en": "The British Way",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:32",
+  "en": "Butler",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:34",
+  "en": "Art Angel",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:35",
+  "en": "Amaha Heir",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:111",
+  "en": "A1",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:112",
+  "en": "Sooo Hopeless~",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:113",
+  "en": "Start",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:114",
+  "en": "Successor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:115",
+  "en": "Perpeco Alc.Lass",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:116",
+  "en": "Pure Steed",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:117",
+  "en": "Thief-to-Be",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:118",
+  "en": "Behead Ya!",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:119",
+  "en": "Always Cold",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:8:120",
+  "en": "Only Got Brawn",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:4",
+  "en": "Naked King",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:5",
+  "en": "Hard Worker",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:6",
+  "en": "Childish",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:7",
+  "en": "Selfish",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:8",
+  "en": "Drunkard",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:9",
+  "en": "Yanderella",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:10",
+  "en": "Lickerist",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:11",
+  "en": "Chatterbox",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:12",
+  "en": "Late Bloomer",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:13",
+  "en": "Secretive",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:14",
+  "en": "Personality",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:15",
+  "en": "Personality",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:16",
+  "en": "Personality",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:17",
+  "en": "Personality",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:18",
+  "en": "Personality",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:19",
+  "en": "Personality",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:20",
+  "en": "Personality",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:21",
+  "en": "Personality",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:22",
+  "en": "Personality",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:23",
+  "en": "Personality",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:24",
+  "en": "Personality",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:25",
+  "en": "Personality",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:26",
+  "en": "Personality",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:27",
+  "en": "Personality",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:28",
+  "en": "Personality",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:29",
+  "en": "Personality",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:30",
+  "en": "P1",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:31",
+  "en": "Bright & Lively",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:32",
+  "en": "Bonsai",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:35",
+  "en": "Shy Karateka",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "PLAYER.CSV:9:111",
+  "en": "P1",
+  "max": 14,
+  "used": true
+ }
+]

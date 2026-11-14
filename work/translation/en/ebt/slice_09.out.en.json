@@ -1,0 +1,387 @@
+[
+ {
+  "en": "countered!",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. Kirikaesu = slash back; 674 is its passive."
+ },
+ {
+  "en": "was countered!",
+  "kind": "ui"
+ },
+ {
+  "en": "Activated=%d, Failed=%d",
+  "kind": "ui",
+  "note": "Looks like a debug/stat counter line (activations vs failures)."
+ },
+ {
+  "en": "Blessing of the Dark Realm",
+  "kind": "ui",
+  "note": "Kago = divine protection. Slice_08 row 640 has the sibling 'ankoku-metsu no kago'; translate that one in the same shape (Blessing of ...)."
+ },
+ {
+  "en": "gritted their teeth and held on",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. 'their' = gender-neutral singular."
+ },
+ {
+  "en": "missed",
+  "kind": "ui"
+ },
+ {
+  "en": "The king's power changes fate",
+  "kind": "ui",
+  "note": "Standalone line; source has no final punctuation."
+ },
+ {
+  "en": "nullified the drain",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it."
+ },
+ {
+  "en": "had their drain nullified",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to (here, whose action was undone). Source is 'the drain was nullified'; reading the subject as the drainer is inferred from the other pairs."
+ },
+ {
+  "en": "Dispel",
+  "kind": "ui",
+  "note": "Ability name; same as story text (wmap slice_08, chap slice_009)."
+ },
+ {
+  "en": "Succeeded=%d, Failed=%d",
+  "kind": "ui",
+  "note": "Debug/stat counter line, same shape as 675."
+ },
+ {
+  "en": "lifted the curse",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it. Next to Dispel (682), so probably Dispel on cursed undead."
+ },
+ {
+  "en": "had their curse lifted",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to (here, whose action was undone)."
+ },
+ {
+  "en": "was unaffected",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. Literally 'there is no effect'; turned into a predicate to fit after a name."
+ },
+ {
+  "en": "failed",
+  "kind": "ui"
+ },
+ {
+  "en": "nullified it",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it."
+ },
+ {
+  "en": "had it nullified",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to (here, whose action was undone)."
+ },
+ {
+  "en": "reflected it",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it."
+ },
+ {
+  "en": "Reflected!",
+  "kind": "ui",
+  "note": "max_bytes 10. The passive ('had it reflected', 15) does not fit, and a lower-case 'reflected' would read as the active row 690 (wrong direction). The exclamation is direction-neutral. Flagged."
+ },
+ {
+  "en": "had it absorbed",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to (here, whose action was undone)."
+ },
+ {
+  "en": "absorbed it",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it."
+ },
+ {
+  "en": "Activated=%d, Resisted=%d",
+  "kind": "ui",
+  "note": "Debug/stat counter line, same shape as 675."
+ },
+ {
+  "en": "hurled curses",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. Noroi no kotoba = words of cursing."
+ },
+ {
+  "en": "is resisting",
+  "kind": "ui"
+ },
+ {
+  "en": "threw a corpse",
+  "kind": "ui"
+ },
+ {
+  "en": "unleashed a dazzling power",
+  "kind": "ui"
+ },
+ {
+  "en": "lowered the level by %d",
+  "kind": "ui",
+  "note": "Transitive verb: the subject did the lowering, presumably to the target's level. Kept 'the level' because the source does not say whose."
+ },
+ {
+  "en": "dealt the finishing blow",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it. Iki no ne wo tomeru = finish off / snuff out a life."
+ },
+ {
+  "en": "was finished off",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to."
+ },
+ {
+  "en": "has no target",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. If this turns out to be a standalone line, 'No target' is the alternative."
+ },
+ {
+  "en": " was cured",
+  "kind": "ui",
+  "note": "Suffix glued straight onto a preceding word or number with no space in the Japanese; a leading space is added in English. If the build already inserts a space, drop it. The preceding word is presumably the ailment (e.g. 'Poison was cured')."
+ },
+ {
+  "en": "Maid Recover",
+  "kind": "ui",
+  "note": "Skill name (katakana English), 2 uses."
+ },
+ {
+  "en": "regained HP",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. Tairyoku = HP here."
+ },
+ {
+  "en": " hits!",
+  "kind": "ui",
+  "note": "Suffix glued straight onto a preceding word or number with no space in the Japanese; a leading space is added in English. If the build already inserts a space, drop it. Follows the hit count: '3 hits!'."
+ },
+ {
+  "en": " damage",
+  "kind": "ui",
+  "note": "Suffix glued straight onto a preceding word or number with no space in the Japanese; a leading space is added in English. If the build already inserts a space, drop it. Follows the damage number: '25 damage'."
+ },
+ {
+  "en": "Hit!",
+  "kind": "ui",
+  "note": "Variant without the count (probably the single-hit case); no leading space because it may start a line. Unverified."
+ },
+ {
+  "en": "wiped out the healing",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it. Kakikesu = erase / drown out."
+ },
+ {
+  "en": "had their healing wiped out",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to."
+ },
+ {
+  "en": "Effect of the Hermit tarot",
+  "kind": "ui",
+  "note": "Tarot card IX, The Hermit. Probably the label for 712/713."
+ },
+ {
+  "en": "blocked natural healing",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it."
+ },
+ {
+  "en": "had their natural healing blocked",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to."
+ },
+ {
+  "en": "Hinder chance (%d%%)",
+  "kind": "ui",
+  "note": "Debug-style rate display. The source percent sign is full-width (not a format directive); in ASCII it must be written %% so printf prints one '%'. Ojama = hindering/interference."
+ },
+ {
+  "en": "regenerated",
+  "kind": "ui",
+  "note": "UNCERTAIN: source is 'kara saisei shita' = 'regenerated FROM ...' glued after a word that is not visible here (maybe a state such as ash, or a body part). English cannot put that word after 'from', so only the verb is kept. Needs an in-game check."
+ },
+ {
+  "en": "is suffering from deadly poison",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. Moudoku = deadly/severe poison (stronger than plain poison in slice_08 row 650)."
+ },
+ {
+  "en": "paid the price of the brand",
+  "kind": "ui",
+  "note": "Predicate fragment: shown after the subject via row 663 (%s %s) or row 662 (Everyone %s), so it starts lower-case and agrees with a singular subject. Rakuin = brand/stigma; probably a cursed-brand mechanic. New term."
+ },
+ {
+  "en": "Great Fortune",
+  "kind": "ui",
+  "note": "Rows 718-725: omikuji (fortune slip) results; slice_10 row 769 is the omikuji skill label. Ordered best to worst."
+ },
+ {
+  "en": "Good Fortune",
+  "kind": "ui",
+  "note": "Chuukichi (middle blessing)."
+ },
+ {
+  "en": "Small Fortune",
+  "kind": "ui",
+  "note": "Shoukichi (small blessing)."
+ },
+ {
+  "en": "Late Fortune",
+  "kind": "ui",
+  "note": "Suekichi (blessing to come later)."
+ },
+ {
+  "en": "Reversal",
+  "kind": "ui",
+  "note": "UNCERTAIN: tensatsu = 'turned/flipped slip', not a standard omikuji grade. Read as a result that flips the outcome."
+ },
+ {
+  "en": "Misfortune",
+  "kind": "ui",
+  "note": "Kyou (bad luck)."
+ },
+ {
+  "en": "Great Misfortune",
+  "kind": "ui",
+  "note": "Daikyou."
+ },
+ {
+  "en": "Fatal Misfortune",
+  "kind": "ui",
+  "note": "Daikyou-satsu = great misfortune + kill; presumably the result that kills."
+ },
+ {
+  "en": "Each surviving member gained\n%10llu GP",
+  "kind": "ui",
+  "note": "Two lines kept. Source has no final punctuation."
+ },
+ {
+  "en": "Each surviving member gained\n           GP",
+  "kind": "ui",
+  "note": "The 11 spaces are a slot: the number is drawn there separately. Line 2 keeps the 11 spaces before GP."
+ },
+ {
+  "en": "Each surviving member gained\n           EP\n           GP",
+  "kind": "ui",
+  "note": "Three lines; EP and GP slots kept at the same 11-space indent. EP = experience points."
+ },
+ {
+  "en": "Oops! %s!",
+  "kind": "ui",
+  "note": "Classic Wizardry-style trap message ('Oops!' + trap name)."
+ },
+ {
+  "en": "A Mimic appeared",
+  "kind": "ui",
+  "note": "Source has no final punctuation."
+ },
+ {
+  "en": "took damage",
+  "kind": "ui"
+ },
+ {
+  "en": "All of %s's MP fell by 1",
+  "kind": "ui",
+  "note": "Zen-MP = the MP of every spell level drops by 1."
+ },
+ {
+  "en": "%s's HP became 9",
+  "kind": "ui"
+ },
+ {
+  "en": "%s aged %s years",
+  "kind": "ui",
+  "note": "The age is passed in as a string (%s)."
+ },
+ {
+  "en": "%s died",
+  "kind": "ui"
+ },
+ {
+  "en": "%s became 1 year younger",
+  "kind": "ui"
+ },
+ {
+  "en": "%s evaded",
+  "kind": "ui"
+ },
+ {
+  "en": "No reinforcements came",
+  "kind": "ui",
+  "note": "Zouen ni shippai = calling reinforcements failed. Written as a full sentence because the neighbouring row 739 is one; it would not work after a name."
+ },
+ {
+  "en": "The enemy called for help",
+  "kind": "ui"
+ },
+ {
+  "en": "The summoning failed",
+  "kind": "ui",
+  "note": "Full sentence, like 738/739."
+ },
+ {
+  "en": "More monsters were called in",
+  "kind": "ui",
+  "note": "Kouzoku = following / next wave of monsters."
+ },
+ {
+  "en": "Escape succeeded!",
+  "kind": "ui"
+ },
+ {
+  "en": "The escape failed.",
+  "kind": "ui",
+  "note": "Final period kept from the source. Subject left impersonal: monsters may also flee."
+ },
+ {
+  "en": "Judgment has fallen upon the adventurers",
+  "kind": "ui"
+ },
+ {
+  "en": "Bell of Judgment: all die instantly in %d turns",
+  "kind": "ui",
+  "note": "Literally 'Bell of Judgment, %d turns left, everyone dies instantly'."
+ },
+ {
+  "en": "protected %s",
+  "kind": "ui",
+  "note": "Fragment after the protector's name: 'X protected Y'."
+ },
+ {
+  "en": "shielded %s",
+  "kind": "ui",
+  "note": "Rows 747+748 are one sentence split in two (object / verb). English verb order forces the verb into 747; 748 carries 'from harm.' so neither row is empty and the sentence still reads 'X shielded Y / from harm.'"
+ },
+ {
+  "en": "from harm.",
+  "kind": "ui",
+  "note": "Second half of 747. Final period kept from the source."
+ },
+ {
+  "en": "tried to steal",
+  "kind": "ui"
+ },
+ {
+  "en": "stole an item",
+  "kind": "ui",
+  "note": "Active half of an active/passive pair: subject = the one doing it."
+ },
+ {
+  "en": "had an item stolen",
+  "kind": "ui",
+  "note": "Passive half of the pair: subject = the one it happened to."
+ },
+ {
+  "en": "Mysterious Bag",
+  "kind": "ui",
+  "note": "Item/feature name. Slice_10 row 753 ('could not carry it, so handed it over') suggests overflow goes into this bag. New term."
+ }
+]

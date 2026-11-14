@@ -1,0 +1,164 @@
+[
+ {
+  "id": "PLACE_NM.CSV:4:3",
+  "en": "Algrantz",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:5:3",
+  "en": "Mucha's Tavern",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:6:3",
+  "en": "Zeppo's Inn",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:7:3",
+  "en": "Alchemy Storage",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:8:3",
+  "en": "Kembeck's Shop",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:9:3",
+  "en": "Rust Temple",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:10:3",
+  "en": "Algrantz Castle",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:11:3",
+  "en": "Training Hall",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:12:3",
+  "en": "Roscadil Empire",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:13:3",
+  "en": "Wells Garden",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:14:3",
+  "en": "Shipyard",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:15:3",
+  "en": "Toner's Armory",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:16:3",
+  "en": "Roscadil Palace",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:17:3",
+  "en": "Watchtower",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:18:3",
+  "en": "Lumisthenes",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:19:3",
+  "en": "Sundial Plaza",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:20:3",
+  "en": "Jakobis Sp. Hall",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:21:3",
+  "en": "Temple of Rafa",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:22:3",
+  "en": "Central Council",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:23:3",
+  "en": "Star Lighthouse",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:24:3",
+  "en": "Teridon",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:25:3",
+  "en": "Highway Market",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:26:3",
+  "en": "Guard Station",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:27:3",
+  "en": "Mafdsalim House",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:28:3",
+  "en": "MILL.GP",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:29:3",
+  "en": "Love Jacuzzi",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "PLACE_NM.CSV:30:3",
+  "en": "Elminage",
+  "max": 16,
+  "used": true
+ }
+]

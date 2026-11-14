@@ -1,0 +1,376 @@
+[
+ {
+  "en": "Humans, elves, ogres... I'm leaving all\ntheir hopes in your hands. Do your best,\nokay?",
+  "kind": "desc",
+  "note": "Voice: female fortune-teller (casual -wa/-yo); the voice matches Natori, not Molder (see report). takushita wa yo = speaker entrusts; subject 'I' restored."
+ },
+ {
+  "en": "Thank you! Now the land is saved! I can't\nthank you enough!\n",
+  "kind": "desc",
+  "note": "Source ends with a newline; kept."
+ },
+ {
+  "en": "It seems the Palace of the Sun's role isn't\nover yet. It's a dangerous place, but go\nback once more and search every corner.",
+  "kind": "desc"
+ },
+ {
+  "en": "I sense a mighty power somewhere other than\nhere. One, two... lots. It'll be a dangerous\nbattle, far worse than any so far. ...What?\nLet me say something fortune-teller-ish for\nonce!",
+  "kind": "desc",
+  "note": "Mock-solemn kanjimasu, then back to casual; 'fortune-teller-ish' = uranaishi rashii."
+ },
+ {
+  "en": "Somewhere far, far away from here, far, far\nhigher than the Palace of the Sun. It seems\nyou can head there from a land other than\nthis one... Sorry, that's all I can tell.",
+  "kind": "desc"
+ },
+ {
+  "en": "Ahh, personalities that don't mesh... Nobody\nwants brawls in the tavern, huh. All right!\nGet the Makana Essence with a mixed\ngood-and-evil party and show off how well\nyou get along!",
+  "kind": "desc",
+  "note": "Translated as written: the source asks for the Essence to be fetched with a mixed good/evil party."
+ },
+ {
+  "en": "It's called a Crystal Flower, so it should\nbe near the Crystal Labyrinth's entrance.\nBringing his old lady her favorite flower...\nwhat a good husband he is, huh?",
+  "kind": "desc",
+  "note": "Zeppo (male) and his late wife (obaasan = his old lady)."
+ },
+ {
+  "en": "Why do skilled people always want to live\nsomewhere so remote? Go to the Leanmakana\nMountains and Toner can get the checkup. I\nhope the results are good.",
+  "kind": "desc",
+  "note": "Subject of the checkup restored: Toner (no pronoun; Toner's gender is deliberately unset)."
+ },
+ {
+  "en": "That money-grubber caring about a nameless\ncemetery that earns nothing? Weird, huh? But\ngo chase off those graveyard vandals right\naway! Off to the Crotoa City Ruins, let's\ngo!",
+  "kind": "desc",
+  "note": "Shushen-do = Hardy's title 'Money-Grubber' (glossary), no pronoun (gender unknown). 'nameless cemetery' as wmap slice_08 row 571. Source has Kurotoa shigaichi (no 'ato'); normalised to Crotoa City Ruins."
+ },
+ {
+  "en": "True, Abi would make a good practice\npartner. Abi's in the Konnu Plains Ruins.\nOh, but it's no good unless you can use\nsummoning spells, okay?",
+  "kind": "desc",
+  "note": "No pronoun for Abi (gender unset)."
+ },
+ {
+  "en": "Speaking of outlandish: Joker Land!\nActually, the souvenir shop in Joker Land\nhas a secret recipe.",
+  "kind": "desc",
+  "note": "'Speaking of outlandish' echoes wmap slice_10 row 775 (same patissier quest)."
+ },
+ {
+  "en": "They should be in the Rinos Sea Volcano, but\ndo you know the way? You can get there from\nbeneath Joker Land, but only after helping a\nkid in trouble there. Also, it was two,\nright? Medium and Fine Whetstone. Make sure\nyou bring back both!",
+  "kind": "desc",
+  "note": "238/242 bytes; the two glossary names are merged as 'Medium and Fine Whetstone' to fit."
+ },
+ {
+  "en": "That old lady climbs the watchtower every\nnight and won't budge. Is something up? The\nspot is under the Blue Cave, I hear... What\nis she up to?",
+  "kind": "desc",
+  "note": "Old lady = Shimerief (female, glossary). Chika = the place is underground/below the Blue Cave."
+ },
+ {
+  "en": "Blue Rain? Huh...? That kid wants it? Wait,\nisn't that kid... Well, it's not okay, but\nfine. You can steal it from a guy called\nPhantom. ...You could also steal some off\nthe Santorea Academy girls... but I don't\nrecommend it...",
+  "kind": "desc",
+  "note": "Ano ko = Toner; 'that kid' keeps Toner's gender open (the source hints at it with 'ano ko tashika...'). Phantom = MONSTER2 gentleman thief (kaitou shinshi), so 'guy'."
+ },
+ {
+  "en": "Oh, that one who's always running around?\nFor a weird thing like that, there's a\ndoctor in Ogre Bay who only makes weird\nstuff, I hear. Try asking that doctor.",
+  "kind": "desc",
+  "note": "That one = Decoy (gender unset). Hakase = 'doctor' (the Ogre Bay inventor; wmap calls him Dr. Mad)."
+ },
+ {
+  "en": "Being cute is rough, huh. I'm jealous...\nNobody's called me cute lately... Oh, sorry.\nUm, search Joker Land and you should find\nwhere the Jokers keep their costumes.",
+  "kind": "desc",
+  "note": "Jokers' costumes; the quest-giver (male per event text) is not named in the source."
+ },
+ {
+  "en": "Everyone's fed up with those thieves. It\nhasn't been long since the theft, so you\nshould find them at the Crotoa City Ruins.",
+  "kind": "desc",
+  "note": "Source spelling Kurotowa (variant) normalised to Crotoa City Ruins, as wmap does."
+ },
+ {
+  "en": "Have you met that girl Necrophilis yet? If\nso, you're all set. Just go to Emera's place\nin the Leanmakana Mountains at night.",
+  "kind": "desc",
+  "note": "Necrophilis female (glossary)."
+ },
+ {
+  "en": "A Soleil Stone: a stone for praying for\nsomeone's safety and happiness. But it's\nvery rare and hard to find. The mimics in\nthe Blue Cave are hoarding some, I think,\nbut mimics in numbers are tough.",
+  "kind": "desc",
+  "note": "'mimics' lowercase as in wmap slice_03 row 235."
+ },
+ {
+  "en": "There's a martial arts tournament at the\nSantorea Academy Martial Arts Building. Win\nit, and something good might happen, maybe?",
+  "kind": "desc",
+  "note": "Butsujutsu-tou rendered 'Martial Arts Building' (slice_02 uses 'Magic Bldg'/'Faculty Bldg' for sister buildings; wmap has 'Santorea Martial Arts Department')."
+ },
+ {
+  "en": "There's a Magical Party at the Santorea\nAcademy Magic Building. Win it, and\nsomething good might happen, maybe?",
+  "kind": "desc",
+  "note": "'Magic Building' to match DGN_NAME 'Magic Bldg' (slice_02 row 104)."
+ },
+ {
+  "en": "The fairy village, huh. In a place like\nthat, it's easy to wander in by mistake.\nIt's a bit mean to them, but go tell them\nthey've come to the wrong place, okay?",
+  "kind": "desc",
+  "note": "'fairy village' lowercase as in chap slice_018. Them = the ghosts troubling the village (event text row 277)."
+ },
+ {
+  "en": "A short girl with blue hair, huh. She seems\nto be deep in the Crystal Labyrinth... but\nthat pair looking for her, are they all\nright? They don't seem like ordinary folk...",
+  "kind": "desc",
+  "note": "The pair = the halting-speech woman and foul-mouthed man of the quest summary."
+ },
+ {
+  "en": "That Box Garden: there's a spot northeast in\nthe Crotoa City Ruins where it can be set,\nand placed there, its power awakens. That\nbox... something wonderful will come of it,\nso take good care of it, okay?",
+  "kind": "desc",
+  "note": "Sono hakoniwa = the Strange Box Garden; capitalised 'Box Garden' as a short form of the item."
+ },
+ {
+  "en": "That's MY request! Ehh, you forgot? Geez, I\nasked you, didn't I? You can synthesize it\nif you have Mazurite and Millstone, okay?",
+  "kind": "desc",
+  "note": "The Dice of Fate quest is Natori's (event text row 280), so sore watashi no irai ja nai = 'That's MY request!' (emphatic ja nai, not a negative)."
+ },
+ {
+  "en": "Eh, someone asked you for the Geezers' Wand?\nEhh... I don't wanna tell... Mmm, the\nmonsters in the fairy village have one, I\nhear, so you should get it there...",
+  "kind": "desc",
+  "note": "Glossary: Geezers' Wand."
+ },
+ {
+  "en": "She's a bit uptight, but she's honest and a\ngood girl, so don't hate her, okay? Bring\nher the Vision Crystal from the Crystal\nLabyrinth and she'll rethink a lot. But\nwatch out for the Doppelganger.",
+  "kind": "desc",
+  "note": "Ano ko = Mayleen (female, glossary; the Vision Crystal quest is hers). 'Vision Crystal' as chap slice_016 row 1315."
+ },
+ {
+  "en": "I used to hear her sing whenever I went to\nTeridon. Search the Giaf Dunes and you\nshould find a cactus, so take it to her.\nStill, singers sure have it rough too, huh.",
+  "kind": "desc",
+  "note": "Kanojo = Arlotte (female). Item is Cactus Pulp, but the source says just 'cactus'."
+ },
+ {
+  "en": "Is she straightforward, or just twisted? Who\nknows. But try to believe what she says as\nmuch as you can, okay?",
+  "kind": "desc",
+  "note": "Kanojo = Zonette (female per source pronoun; glossary gender unknown)."
+ },
+ {
+  "en": "First you need to be able to get an audience\nwith Her Majesty Rianna, or you can't hand\nover what you've got. But I've got a baaad\nfeeling about this...",
+  "kind": "desc",
+  "note": "Rianna female; heika = Her Majesty."
+ },
+ {
+  "en": "Beat the dealer at blackjack! It's the only\nway! Think of it as avenging me, and wipe\nthe floor with them!!",
+  "kind": "desc",
+  "note": "Natori lost at the casino (wmap slice_15 rows 1189-1190), hence 'avenging me'."
+ },
+ {
+  "en": "A special service~? You're thinking\nsomething naughty, aren't you? Stonemelt\nWater? Buy it at a shop or pick it up in\ndungeons and you'll have enough in no time,\nwon't you?",
+  "kind": "desc",
+  "note": "Glossary: Stonemelt Water."
+ },
+ {
+  "en": "Panties that big probably aren't sold in\nstores... but handmade ones might exist. Why\nnot visit the Sewing Club at Santorea\nAcademy?",
+  "kind": "desc",
+  "note": "pantsu = panties, as in wmap slice_18 (Nora's quest)."
+ },
+ {
+  "en": "Ummm... I see signs of hardship...\nSpecifically, the Konnu Plains Ruins, B2.\nThat noisy girl is in trouble, it seems.\nWell, I know it'll be rough, but... hang in\nthere~.",
+  "kind": "desc",
+  "note": "Ano sawagashii ko = Tarrit (female). Chika nikai = B2."
+ },
+ {
+  "en": "So it's Professor Mandelgius, Santorea\nAcademy's famous special lecturer. You can\ncatch Azure Fish in the Blue Cave at night,\nbut there are dangerous fish too, so be\ncareful, okay?",
+  "kind": "desc",
+  "note": "Glossary: Azure Fish, Mandelgius."
+ },
+ {
+  "en": "The Rinos Sea Volcano, huh? Just the place\nthat intense one would name. The Proof of\nEndurance is to the south, but be sure to\nuse Sosareo or something to get there, okay?",
+  "kind": "desc",
+  "note": "NEW SPELL: Sosareo (soosareo, levitation spell, SPELL.CSV row 3919). 'that intense one' = Mandelgius (gender unset, no pronoun)."
+ },
+ {
+  "en": "An even greater evil pulling the strings\nbehind every misdeed... sounds fake. Isn't\nthat just talk to fit the mood... oh, there\nreally is one. ...Um, it's in Miasuna's\nCastle Keep.",
+  "kind": "desc",
+  "note": "Tenshu = 'Castle Keep' as DGN_NAME slice_02 row 113. The villain (akudaikan) left as 'it' / 'one' (no gender)."
+ },
+ {
+  "en": "This time it's for real: Tiger Centaur III\nis deep in the Giaf Dunes. But it's a tough\nfoe, so be careful, okay? Mandelgius... just\nwho is that, I wonder...",
+  "kind": "desc",
+  "note": "Tiger Centaur III as wmap slice_18 row 1427. No pronoun for Mandelgius."
+ },
+ {
+  "en": "I see a girl named Tarrit stuck in the Konnu\nPlains Ruins... Besides pulling, kicking\nmight change something... but I don't think\nyou should do that to a girl.",
+  "kind": "desc",
+  "note": "Detedeiru = the reading shows; rendered 'I see'."
+ },
+ {
+  "en": "Just go to the basement of the Konnu Plains\nRuins on a rainy day and examine the stone\ntablet, that's all. Even that is a real help\nto a scholar who's always cooped up.",
+  "kind": "desc",
+  "note": "Scholar unnamed in the source; no pronoun."
+ },
+ {
+  "en": "A test of courage? How nostalgic! I did one\ntoo. Clinging to the one I liked with a\n'Kyaa!'... ahem. Talk to the Santorea\nAcademy kid, then go to the haunted mansion,\nleave a mark and come back to report. No\nrunning away if you get scared!",
+  "kind": "desc",
+  "note": "Source typo suki na koto itte = suki na hito to (the one I liked). 239/242 bytes; lightly compressed."
+ },
+ {
+  "en": "So the Picnicker wants a Garden Keeper.\nYou're always paralyzing it, putting it to\nsleep, petrifying it... You put it through\nso much, so why not help it out for once?\nSomething good might come of it, like new\nplaces to go!",
+  "kind": "desc",
+  "note": "Subject restored: the Picnicker (the Garden Keeper quest, wmap slice_010 rows 839-846; wmap calls it 'it')."
+ },
+ {
+  "en": "Ultimate... ugh, geez! I hate even saying\nthe name! Go wipe out every last one!!",
+  "kind": "desc",
+  "note": "Ultimate... = Ultimate Runner / Ultimate Flyer (the cockroach monsters)."
+ },
+ {
+  "en": "...Hmm, well, once you've done something\nlike going around saving the world, maybe go\ntell them about that? ...I mean, I can't see\na thing! Who is that!? What on earth are\nthey!?",
+  "kind": "desc",
+  "note": "Them = the lord (ryoushu) of the quest title; gender not settled, so 'they'."
+ },
+ {
+  "en": "Select where to load Face Load images from, then press the Circle button.",
+  "kind": "help",
+  "note": "Face Load = the PSP custom-portrait import feature; kept as a feature name. Button names spelled out (Circle/Square/Triangle/X) as in ebt slice_02/11/12."
+ },
+ {
+  "en": "Select the file name to load.",
+  "kind": "help"
+ },
+ {
+  "en": "Loading images from the PICTURE folder...",
+  "kind": "help",
+  "note": "Picture folder = the PSP Memory Stick folder PICTURE."
+ },
+ {
+  "en": "Loading the Face Load list...",
+  "kind": "help"
+ },
+ {
+  "en": "Swapping Face Load data...",
+  "kind": "help"
+ },
+ {
+  "en": "Deleting Face Load data...",
+  "kind": "help"
+ },
+ {
+  "en": "Enter the password shown in the Book of the Next Age.",
+  "kind": "help",
+  "note": "Glossary: Book of the Next Age."
+ },
+ {
+  "en": "Check your spells.",
+  "kind": "help"
+ },
+ {
+  "en": "You cannot move to this location.",
+  "kind": "help",
+  "note": "Shown when Tiomente targets an unvisited place."
+ },
+ {
+  "en": "You cannot cast that spell here right now.",
+  "kind": "help"
+ },
+ {
+  "en": "You have not learned any spells of this level.",
+  "kind": "help"
+ },
+ {
+  "en": "This character is in no condition to cast spells.",
+  "kind": "help",
+  "note": "Subject restored as 'this character' (the selected caster)."
+ },
+ {
+  "en": "No uses remain for spells of this level.",
+  "kind": "help"
+ },
+ {
+  "en": "You cannot teleport to a place with no floor.",
+  "kind": "help",
+  "note": "Shown for Tiomente (teleport spell)."
+ },
+ {
+  "en": "Check the items you are carrying.",
+  "kind": "help"
+ },
+ {
+  "en": "Equip an item.",
+  "kind": "help"
+ },
+ {
+  "en": "Use an item.",
+  "kind": "help"
+ },
+ {
+  "en": "Give an item.",
+  "kind": "help"
+ },
+ {
+  "en": "Discard an item.",
+  "kind": "help"
+ },
+ {
+  "en": "If you have a Bishop, you can identify unidentified items.",
+  "kind": "help",
+  "note": "kantei = identify on the item menu, as slice_06 row 453 and ebt slice_12 row 913; shops use 'appraise'."
+ },
+ {
+  "en": "Choose an equipment slot. Circle: compare with and change current gear. Square: unequip.",
+  "kind": "help",
+  "note": "Button names spelled out as in ebt slice_11 row 893."
+ },
+ {
+  "en": "Triangle: item details. X: back.",
+  "kind": "help",
+  "note": "'X: back' pattern as ebt slice_02 rows 149-150."
+ },
+ {
+  "en": "Select an item to use.",
+  "kind": "help"
+ },
+ {
+  "en": "It is cursed and cannot be removed.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an item to give.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose who will receive the item.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an item to discard.",
+  "kind": "help"
+ },
+ {
+  "en": "This item cannot be used.",
+  "kind": "help"
+ },
+ {
+  "en": "It cannot be identified.",
+  "kind": "help",
+  "note": "Subject restored as 'it' (the selected item)."
+ },
+ {
+  "en": "There is no character who can identify items.",
+  "kind": "help"
+ },
+ {
+  "en": "This character is not carrying any items.",
+  "kind": "help"
+ },
+ {
+  "en": "The item has been unequipped.",
+  "kind": "help"
+ },
+ {
+  "en": "You have been cursed.",
+  "kind": "help",
+  "note": "Shown when equipping a cursed item."
+ },
+ {
+  "en": "It is cursed and cannot be discarded.",
+  "kind": "help"
+ },
+ {
+  "en": "This character is in no condition to identify items.",
+  "kind": "help"
+ },
+ {
+  "en": "Oops! You touched it!",
+  "kind": "help",
+  "note": "Shown when appraisal fails (the classic 'Oops, touched it' bishop failure)."
+ }
+]

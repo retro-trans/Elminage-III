@@ -1,0 +1,2387 @@
+{
+ "gim": "ANIME/EL02_001.GIM",
+ "note": "Town facility + facility-action buttons (Algrantz). 23 rows x 3 states (selected/normal/disabled), button 114x18 at (114*state, 20*row). Row 11 (Smithing) = reference: its text is blitted over with the same row's plain body 42 px to the right; every other row gets x12-108, rows 0-15 blitted from it (incl. the right-hand swirl, which the original draws under long labels too). Text: 16px font, ink from x+14, dy -1 so the bottom border line stays visible.",
+ "style": {
+  "fonts": [
+   [
+    "16",
+    1
+   ],
+   [
+    "16",
+    0
+   ]
+  ]
+ },
+ "erase": [
+  [
+   13,
+   220,
+   43,
+   236,
+   "blit:55,220"
+  ],
+  [
+   127,
+   220,
+   157,
+   236,
+   "blit:169,220"
+  ],
+  [
+   241,
+   220,
+   271,
+   236,
+   "blit:283,220"
+  ],
+  [
+   12,
+   0,
+   109,
+   16,
+   "blit:12,220"
+  ],
+  [
+   12,
+   20,
+   109,
+   36,
+   "blit:12,220"
+  ],
+  [
+   12,
+   40,
+   109,
+   56,
+   "blit:12,220"
+  ],
+  [
+   12,
+   60,
+   109,
+   76,
+   "blit:12,220"
+  ],
+  [
+   12,
+   80,
+   109,
+   96,
+   "blit:12,220"
+  ],
+  [
+   12,
+   100,
+   109,
+   116,
+   "blit:12,220"
+  ],
+  [
+   12,
+   120,
+   109,
+   136,
+   "blit:12,220"
+  ],
+  [
+   12,
+   140,
+   109,
+   156,
+   "blit:12,220"
+  ],
+  [
+   12,
+   160,
+   109,
+   176,
+   "blit:12,220"
+  ],
+  [
+   12,
+   180,
+   109,
+   196,
+   "blit:12,220"
+  ],
+  [
+   12,
+   200,
+   109,
+   216,
+   "blit:12,220"
+  ],
+  [
+   12,
+   240,
+   109,
+   256,
+   "blit:12,220"
+  ],
+  [
+   12,
+   260,
+   109,
+   276,
+   "blit:12,220"
+  ],
+  [
+   12,
+   280,
+   109,
+   296,
+   "blit:12,220"
+  ],
+  [
+   12,
+   300,
+   109,
+   316,
+   "blit:12,220"
+  ],
+  [
+   12,
+   320,
+   109,
+   336,
+   "blit:12,220"
+  ],
+  [
+   12,
+   340,
+   109,
+   356,
+   "blit:12,220"
+  ],
+  [
+   12,
+   360,
+   109,
+   376,
+   "blit:12,220"
+  ],
+  [
+   12,
+   380,
+   109,
+   396,
+   "blit:12,220"
+  ],
+  [
+   12,
+   400,
+   109,
+   416,
+   "blit:12,220"
+  ],
+  [
+   12,
+   420,
+   109,
+   436,
+   "blit:12,220"
+  ],
+  [
+   12,
+   440,
+   109,
+   456,
+   "blit:12,220"
+  ],
+  [
+   126,
+   0,
+   223,
+   16,
+   "blit:126,220"
+  ],
+  [
+   126,
+   20,
+   223,
+   36,
+   "blit:126,220"
+  ],
+  [
+   126,
+   40,
+   223,
+   56,
+   "blit:126,220"
+  ],
+  [
+   126,
+   60,
+   223,
+   76,
+   "blit:126,220"
+  ],
+  [
+   126,
+   80,
+   223,
+   96,
+   "blit:126,220"
+  ],
+  [
+   126,
+   100,
+   223,
+   116,
+   "blit:126,220"
+  ],
+  [
+   126,
+   120,
+   223,
+   136,
+   "blit:126,220"
+  ],
+  [
+   126,
+   140,
+   223,
+   156,
+   "blit:126,220"
+  ],
+  [
+   126,
+   160,
+   223,
+   176,
+   "blit:126,220"
+  ],
+  [
+   126,
+   180,
+   223,
+   196,
+   "blit:126,220"
+  ],
+  [
+   126,
+   200,
+   223,
+   216,
+   "blit:126,220"
+  ],
+  [
+   126,
+   240,
+   223,
+   256,
+   "blit:126,220"
+  ],
+  [
+   126,
+   260,
+   223,
+   276,
+   "blit:126,220"
+  ],
+  [
+   126,
+   280,
+   223,
+   296,
+   "blit:126,220"
+  ],
+  [
+   126,
+   300,
+   223,
+   316,
+   "blit:126,220"
+  ],
+  [
+   126,
+   320,
+   223,
+   336,
+   "blit:126,220"
+  ],
+  [
+   126,
+   340,
+   223,
+   356,
+   "blit:126,220"
+  ],
+  [
+   126,
+   360,
+   223,
+   376,
+   "blit:126,220"
+  ],
+  [
+   126,
+   380,
+   223,
+   396,
+   "blit:126,220"
+  ],
+  [
+   126,
+   400,
+   223,
+   416,
+   "blit:126,220"
+  ],
+  [
+   126,
+   420,
+   223,
+   436,
+   "blit:126,220"
+  ],
+  [
+   126,
+   440,
+   223,
+   456,
+   "blit:126,220"
+  ],
+  [
+   240,
+   0,
+   337,
+   16,
+   "blit:240,220"
+  ],
+  [
+   240,
+   20,
+   337,
+   36,
+   "blit:240,220"
+  ],
+  [
+   240,
+   40,
+   337,
+   56,
+   "blit:240,220"
+  ],
+  [
+   240,
+   60,
+   337,
+   76,
+   "blit:240,220"
+  ],
+  [
+   240,
+   80,
+   337,
+   96,
+   "blit:240,220"
+  ],
+  [
+   240,
+   100,
+   337,
+   116,
+   "blit:240,220"
+  ],
+  [
+   240,
+   120,
+   337,
+   136,
+   "blit:240,220"
+  ],
+  [
+   240,
+   140,
+   337,
+   156,
+   "blit:240,220"
+  ],
+  [
+   240,
+   160,
+   337,
+   176,
+   "blit:240,220"
+  ],
+  [
+   240,
+   180,
+   337,
+   196,
+   "blit:240,220"
+  ],
+  [
+   240,
+   200,
+   337,
+   216,
+   "blit:240,220"
+  ],
+  [
+   240,
+   240,
+   337,
+   256,
+   "blit:240,220"
+  ],
+  [
+   240,
+   260,
+   337,
+   276,
+   "blit:240,220"
+  ],
+  [
+   240,
+   280,
+   337,
+   296,
+   "blit:240,220"
+  ],
+  [
+   240,
+   300,
+   337,
+   316,
+   "blit:240,220"
+  ],
+  [
+   240,
+   320,
+   337,
+   336,
+   "blit:240,220"
+  ],
+  [
+   240,
+   340,
+   337,
+   356,
+   "blit:240,220"
+  ],
+  [
+   240,
+   360,
+   337,
+   376,
+   "blit:240,220"
+  ],
+  [
+   240,
+   380,
+   337,
+   396,
+   "blit:240,220"
+  ],
+  [
+   240,
+   400,
+   337,
+   416,
+   "blit:240,220"
+  ],
+  [
+   240,
+   420,
+   337,
+   436,
+   "blit:240,220"
+  ],
+  [
+   240,
+   440,
+   337,
+   456,
+   "blit:240,220"
+  ]
+ ],
+ "labels": [
+  {
+   "rect": [
+    12,
+    0,
+    95,
+    18
+   ],
+   "jp": "ミュシャの酒場",
+   "en": "Mucha's Tavern",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    20,
+    95,
+    18
+   ],
+   "jp": "ゼッポの宿屋",
+   "en": "Zeppo's Inn",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    40,
+    95,
+    18
+   ],
+   "jp": "ケンベック商店",
+   "en": "Kembeck's",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    60,
+    95,
+    18
+   ],
+   "jp": "ルスト寺院",
+   "en": "Rust Temple",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    14,
+    80,
+    90,
+    18
+   ],
+   "en": "Castle",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     1
+    ]
+   ],
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1,
+   "jp": "",
+   "note": "'Algrantz Castle' too tight at 1x (checked in game); town title already shows Algrantz"
+  },
+  {
+   "rect": [
+    12,
+    100,
+    95,
+    18
+   ],
+   "jp": "訓練所",
+   "en": "Training Hall",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    120,
+    95,
+    18
+   ],
+   "jp": "仲間を呼ぶ",
+   "en": "Call Companions",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    140,
+    95,
+    18
+   ],
+   "jp": "待機する",
+   "en": "Stand By",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    160,
+    95,
+    18
+   ],
+   "jp": "宿泊する",
+   "en": "Stay",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    180,
+    95,
+    18
+   ],
+   "jp": "全員で宿泊する",
+   "en": "Stay (All)",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    14,
+    200,
+    24,
+    18
+   ],
+   "en": "Alch",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1,
+   "jp": "錬金倉庫",
+   "note": "part 1 of 'Alch. Storage' (16px spacing 0, hand-set gaps [1, 4])"
+  },
+  {
+   "rect": [
+    39,
+    200,
+    2,
+    18
+   ],
+   "en": ".",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1,
+   "jp": "",
+   "note": "part 2 of 'Alch. Storage' (16px spacing 0, hand-set gaps [1, 4])"
+  },
+  {
+   "rect": [
+    45,
+    200,
+    52,
+    18
+   ],
+   "en": "Storage",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1,
+   "jp": "",
+   "note": "part 3 of 'Alch. Storage' (16px spacing 0, hand-set gaps [1, 4])"
+  },
+  {
+   "rect": [
+    12,
+    220,
+    95,
+    18
+   ],
+   "jp": "鍛冶",
+   "en": "Smithing",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    240,
+    95,
+    18
+   ],
+   "jp": "錬金",
+   "en": "Alchemy",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    260,
+    95,
+    18
+   ],
+   "jp": "分解",
+   "en": "Dismantle",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    280,
+    95,
+    18
+   ],
+   "jp": "倉庫に預ける",
+   "en": "Deposit",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    300,
+    95,
+    18
+   ],
+   "jp": "倉庫から出す",
+   "en": "Withdraw",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    320,
+    95,
+    18
+   ],
+   "jp": "買い物をする",
+   "en": "Shop",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    340,
+    95,
+    18
+   ],
+   "jp": "鑑定してもらう",
+   "en": "Appraise",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    360,
+    95,
+    18
+   ],
+   "jp": "まとめて売る",
+   "en": "Sell in Bulk",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    380,
+    95,
+    18
+   ],
+   "jp": "解呪・修理",
+   "en": "Uncurse/Fix",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    400,
+    95,
+    18
+   ],
+   "jp": "治療・回収",
+   "en": "Cure/Retrieve",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    420,
+    95,
+    18
+   ],
+   "jp": "治療する",
+   "en": "Cure",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    12,
+    440,
+    95,
+    18
+   ],
+   "jp": "引き取る",
+   "en": "Take Back",
+   "inset": 4,
+   "state": "selected",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "outline": [
+    60,
+    6,
+    107
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    0,
+    95,
+    18
+   ],
+   "jp": "ミュシャの酒場",
+   "en": "Mucha's Tavern",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    20,
+    95,
+    18
+   ],
+   "jp": "ゼッポの宿屋",
+   "en": "Zeppo's Inn",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    40,
+    95,
+    18
+   ],
+   "jp": "ケンベック商店",
+   "en": "Kembeck's",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    60,
+    95,
+    18
+   ],
+   "jp": "ルスト寺院",
+   "en": "Rust Temple",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    128,
+    80,
+    90,
+    18
+   ],
+   "en": "Castle",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     1
+    ]
+   ],
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1,
+   "jp": "",
+   "note": "'Algrantz Castle' too tight at 1x (checked in game); town title already shows Algrantz"
+  },
+  {
+   "rect": [
+    126,
+    100,
+    95,
+    18
+   ],
+   "jp": "訓練所",
+   "en": "Training Hall",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    120,
+    95,
+    18
+   ],
+   "jp": "仲間を呼ぶ",
+   "en": "Call Companions",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    140,
+    95,
+    18
+   ],
+   "jp": "待機する",
+   "en": "Stand By",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    160,
+    95,
+    18
+   ],
+   "jp": "宿泊する",
+   "en": "Stay",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    180,
+    95,
+    18
+   ],
+   "jp": "全員で宿泊する",
+   "en": "Stay (All)",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    128,
+    200,
+    24,
+    18
+   ],
+   "en": "Alch",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1,
+   "jp": "錬金倉庫",
+   "note": "part 1 of 'Alch. Storage' (16px spacing 0, hand-set gaps [1, 4])"
+  },
+  {
+   "rect": [
+    153,
+    200,
+    2,
+    18
+   ],
+   "en": ".",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1,
+   "jp": "",
+   "note": "part 2 of 'Alch. Storage' (16px spacing 0, hand-set gaps [1, 4])"
+  },
+  {
+   "rect": [
+    159,
+    200,
+    52,
+    18
+   ],
+   "en": "Storage",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1,
+   "jp": "",
+   "note": "part 3 of 'Alch. Storage' (16px spacing 0, hand-set gaps [1, 4])"
+  },
+  {
+   "rect": [
+    126,
+    220,
+    95,
+    18
+   ],
+   "jp": "鍛冶",
+   "en": "Smithing",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    240,
+    95,
+    18
+   ],
+   "jp": "錬金",
+   "en": "Alchemy",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    260,
+    95,
+    18
+   ],
+   "jp": "分解",
+   "en": "Dismantle",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    280,
+    95,
+    18
+   ],
+   "jp": "倉庫に預ける",
+   "en": "Deposit",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    300,
+    95,
+    18
+   ],
+   "jp": "倉庫から出す",
+   "en": "Withdraw",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    320,
+    95,
+    18
+   ],
+   "jp": "買い物をする",
+   "en": "Shop",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    340,
+    95,
+    18
+   ],
+   "jp": "鑑定してもらう",
+   "en": "Appraise",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    360,
+    95,
+    18
+   ],
+   "jp": "まとめて売る",
+   "en": "Sell in Bulk",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    380,
+    95,
+    18
+   ],
+   "jp": "解呪・修理",
+   "en": "Uncurse/Fix",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    400,
+    95,
+    18
+   ],
+   "jp": "治療・回収",
+   "en": "Cure/Retrieve",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    420,
+    95,
+    18
+   ],
+   "jp": "治療する",
+   "en": "Cure",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    126,
+    440,
+    95,
+    18
+   ],
+   "jp": "引き取る",
+   "en": "Take Back",
+   "inset": 4,
+   "state": "normal",
+   "color": [
+    220,
+    240,
+    241
+   ],
+   "outline": [
+    12,
+    15,
+    25
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    0,
+    95,
+    18
+   ],
+   "jp": "ミュシャの酒場",
+   "en": "Mucha's Tavern",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    20,
+    95,
+    18
+   ],
+   "jp": "ゼッポの宿屋",
+   "en": "Zeppo's Inn",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    40,
+    95,
+    18
+   ],
+   "jp": "ケンベック商店",
+   "en": "Kembeck's",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    60,
+    95,
+    18
+   ],
+   "jp": "ルスト寺院",
+   "en": "Rust Temple",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    242,
+    80,
+    90,
+    18
+   ],
+   "en": "Castle",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     1
+    ]
+   ],
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1,
+   "jp": "",
+   "note": "'Algrantz Castle' too tight at 1x (checked in game); town title already shows Algrantz"
+  },
+  {
+   "rect": [
+    240,
+    100,
+    95,
+    18
+   ],
+   "jp": "訓練所",
+   "en": "Training Hall",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    120,
+    95,
+    18
+   ],
+   "jp": "仲間を呼ぶ",
+   "en": "Call Companions",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    140,
+    95,
+    18
+   ],
+   "jp": "待機する",
+   "en": "Stand By",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    160,
+    95,
+    18
+   ],
+   "jp": "宿泊する",
+   "en": "Stay",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    180,
+    95,
+    18
+   ],
+   "jp": "全員で宿泊する",
+   "en": "Stay (All)",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    242,
+    200,
+    24,
+    18
+   ],
+   "en": "Alch",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1,
+   "jp": "錬金倉庫",
+   "note": "part 1 of 'Alch. Storage' (16px spacing 0, hand-set gaps [1, 4])"
+  },
+  {
+   "rect": [
+    267,
+    200,
+    2,
+    18
+   ],
+   "en": ".",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1,
+   "jp": "",
+   "note": "part 2 of 'Alch. Storage' (16px spacing 0, hand-set gaps [1, 4])"
+  },
+  {
+   "rect": [
+    273,
+    200,
+    52,
+    18
+   ],
+   "en": "Storage",
+   "inset": 0,
+   "fonts": [
+    [
+     "16",
+     0
+    ]
+   ],
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1,
+   "jp": "",
+   "note": "part 3 of 'Alch. Storage' (16px spacing 0, hand-set gaps [1, 4])"
+  },
+  {
+   "rect": [
+    240,
+    220,
+    95,
+    18
+   ],
+   "jp": "鍛冶",
+   "en": "Smithing",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    240,
+    95,
+    18
+   ],
+   "jp": "錬金",
+   "en": "Alchemy",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    260,
+    95,
+    18
+   ],
+   "jp": "分解",
+   "en": "Dismantle",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    280,
+    95,
+    18
+   ],
+   "jp": "倉庫に預ける",
+   "en": "Deposit",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    300,
+    95,
+    18
+   ],
+   "jp": "倉庫から出す",
+   "en": "Withdraw",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    320,
+    95,
+    18
+   ],
+   "jp": "買い物をする",
+   "en": "Shop",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    340,
+    95,
+    18
+   ],
+   "jp": "鑑定してもらう",
+   "en": "Appraise",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    360,
+    95,
+    18
+   ],
+   "jp": "まとめて売る",
+   "en": "Sell in Bulk",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    380,
+    95,
+    18
+   ],
+   "jp": "解呪・修理",
+   "en": "Uncurse/Fix",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    400,
+    95,
+    18
+   ],
+   "jp": "治療・回収",
+   "en": "Cure/Retrieve",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    420,
+    95,
+    18
+   ],
+   "jp": "治療する",
+   "en": "Cure",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  },
+  {
+   "rect": [
+    240,
+    440,
+    95,
+    18
+   ],
+   "jp": "引き取る",
+   "en": "Take Back",
+   "inset": 4,
+   "state": "disabled",
+   "color": [
+    61,
+    61,
+    61
+   ],
+   "outline": [
+    4,
+    6,
+    8
+   ],
+   "align": "left",
+   "dy": -1
+  }
+ ]
+}

@@ -1,0 +1,376 @@
+[
+ {
+  "en": "Chill-Scaled",
+  "kind": "name"
+ },
+ {
+  "en": "Centauress",
+  "kind": "name",
+  "note": "Female centaur ([JP]), not Centaur."
+ },
+ {
+  "en": "What a Savage!",
+  "kind": "name",
+  "note": "Echoes the MON_TEXT joke ending 'what a romance'."
+ },
+ {
+  "en": "Kobold Sarge",
+  "kind": "name"
+ },
+ {
+  "en": "Ebon Beast Sgt",
+  "kind": "name",
+  "note": "Jet-black beast sergeant; compressed to fit 14."
+ },
+ {
+  "en": "Orc General",
+  "kind": "name"
+ },
+ {
+  "en": "Junk Food Shogun",
+  "kind": "name",
+  "note": "B-kyuu gourmet = cheap comfort food; shogun for [JP], keeps the joke (Orc epithet in slice 36 is the same gag)."
+ },
+ {
+  "en": "Lizardkhamun",
+  "kind": "name",
+  "note": "Pun on Tutankhamun ([JP]); epithet is 'lizard avatar-god'."
+ },
+ {
+  "en": "Lizard Avatar",
+  "kind": "name",
+  "note": "[JP] = god incarnate."
+ },
+ {
+  "en": "Mermaid",
+  "kind": "name"
+ },
+ {
+  "en": "Love vs. Law",
+  "kind": "name",
+  "note": "Lit. 'between the waves of love and law (the code)'; 'waves' dropped to fit 14."
+ },
+ {
+  "en": "Ogre Knight",
+  "kind": "name"
+ },
+ {
+  "en": "Proud Blade",
+  "kind": "name",
+  "note": "Lit. 'proud warrior' (13 bytes, over 12); 'blade' as warrior."
+ },
+ {
+  "en": "Redcap",
+  "kind": "name",
+  "note": "Matches ITEM_TEXT 'Redcaps'."
+ },
+ {
+  "en": "To kill you with",
+  "kind": "name",
+  "note": "Red Riding Hood wolf gag ('the better to eat you with')."
+ },
+ {
+  "en": "Tiger Lady",
+  "kind": "name"
+ },
+ {
+  "en": "Bites, Yet Cute",
+  "kind": "name",
+  "note": "Lit. 'cute even when biting'."
+ },
+ {
+  "en": "Goblin Magician",
+  "kind": "name",
+  "note": "Existing story translation."
+ },
+ {
+  "en": "Ancient Wisdom",
+  "kind": "name"
+ },
+ {
+  "en": "Mermaid Queen",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Sea Queen",
+  "kind": "name",
+  "note": "[JP] = Holy Sea, as in item 'Holy Sea Trident'."
+ },
+ {
+  "en": "Raver Lord",
+  "kind": "name",
+  "note": "[JP] = Raver, as in item 'Raver Plate'; classic Wizardry monster name."
+ },
+ {
+  "en": "Mad Monarch",
+  "kind": "name"
+ },
+ {
+  "en": "Troll",
+  "kind": "name"
+ },
+ {
+  "en": "Woodsman",
+  "kind": "name",
+  "note": "Lit. 'forest dweller'; 8-byte limit."
+ },
+ {
+  "en": "Minotaur",
+  "kind": "name"
+ },
+ {
+  "en": "Bull Warrior",
+  "kind": "name",
+  "note": "Lit. 'bull-headed fighter'."
+ },
+ {
+  "en": "Fire Giant",
+  "kind": "name"
+ },
+ {
+  "en": "Fiery Fighting Spirit",
+  "kind": "name"
+ },
+ {
+  "en": "Cyclops",
+  "kind": "name"
+ },
+ {
+  "en": "Smith for All",
+  "kind": "name",
+  "note": "Lit. 'everyone's blacksmith'."
+ },
+ {
+  "en": "Frost Giant",
+  "kind": "name"
+ },
+ {
+  "en": "A Cool Smirk",
+  "kind": "name",
+  "note": "Lit. 'grinning coolly'; frost pun kept."
+ },
+ {
+  "en": "Cacus",
+  "kind": "name",
+  "note": "Roman fire-breathing giant of myth."
+ },
+ {
+  "en": "Whoo-hah!",
+  "kind": "name",
+  "note": "Excited exclamation."
+ },
+ {
+  "en": "Sedna",
+  "kind": "name",
+  "note": "Inuit sea goddess."
+ },
+ {
+  "en": "Bride Training!",
+  "kind": "name",
+  "note": "Lit. 'heart-pounding bride training'; star symbol not ASCII, so '!'."
+ },
+ {
+  "en": "Poison Giant",
+  "kind": "name"
+ },
+ {
+  "en": "Deadly Bad Breath",
+  "kind": "name",
+  "note": "[JP] = deadly halitosis; comic tone kept."
+ },
+ {
+  "en": "Cosplay Priest",
+  "kind": "name",
+  "note": "Per MON_TEXT: a giant imitating priests."
+ },
+ {
+  "en": "Hospitalized!",
+  "kind": "name",
+  "note": "Lit. 'forced hospitalization'."
+ },
+ {
+  "en": "Tumasio",
+  "kind": "name",
+  "note": "New name, romanized."
+ },
+ {
+  "en": "Sky Spirit",
+  "kind": "name",
+  "note": "Lit. 'great spirit of the sky'; 'great' dropped (12-byte limit)."
+ },
+ {
+  "en": "Sanafeet of Oblivion",
+  "kind": "name",
+  "note": "[JP] = Divine Shadow of Dark Oblivion (glossary: Sanafeet, god of Dark Oblivion); title compressed to 'of Oblivion'."
+ },
+ {
+  "en": "Sanafeet's Shadow",
+  "kind": "name",
+  "note": "Kana nickname 'Sanafeet's shadow'; 'Shadow' ties to glossary 'Divine Shadow'."
+ },
+ {
+  "en": "Beginning of the End",
+  "kind": "name"
+ },
+ {
+  "en": "Fulfaray of Being",
+  "kind": "name",
+  "note": "[JP] = Divine Shadow of Existence (Fulfaray, god of existence); 'of Existence' would be 21 bytes, over 20."
+ },
+ {
+  "en": "Fulfaray's Shadow",
+  "kind": "name"
+ },
+ {
+  "en": "The Merciless God",
+  "kind": "name"
+ },
+ {
+  "en": "Yokmonge",
+  "kind": "name",
+  "note": "New name, romanized."
+ },
+ {
+  "en": "Huge Girl Doll",
+  "kind": "name",
+  "note": "Lit. 'giant girl doll'."
+ },
+ {
+  "en": "Vampire Lord",
+  "kind": "name"
+ },
+ {
+  "en": "King of Nightkin",
+  "kind": "name",
+  "note": "Lit. 'king of the kin of night'."
+ },
+ {
+  "en": "Numbra Narv",
+  "kind": "name",
+  "note": "Story spelling 'Numbra Narv' (chap slice 017)."
+ },
+ {
+  "en": "Abyssal Spirit",
+  "kind": "name",
+  "note": "Lit. 'Spirit of the Dark Realm' (story wording); 'Dark Realm Spirit' is 17 bytes, over 14."
+ },
+ {
+  "en": "Phosphor Moth",
+  "kind": "name",
+  "note": "As in ITEM_TEXT 'phosphor moth scales'."
+ },
+ {
+  "en": "Phosphor Moth",
+  "kind": "name",
+  "note": "Kana reading of [JP]; same English."
+ },
+ {
+  "en": "Maker of Light",
+  "kind": "name",
+  "note": "Lit. 'gives birth to light'."
+ },
+ {
+  "en": "Brain Through",
+  "kind": "name",
+  "note": "Story spelling (chap slice 021)."
+ },
+ {
+  "en": "Strange Form",
+  "kind": "name"
+ },
+ {
+  "en": "Nue",
+  "kind": "name",
+  "note": "Japanese chimera yokai."
+ },
+ {
+  "en": "Nue",
+  "kind": "name",
+  "note": "Kana reading of [JP]."
+ },
+ {
+  "en": "Myth Beast",
+  "kind": "name",
+  "note": "Glossary [JP] = mythical beast; 'Legendary Beast' over 10 bytes."
+ },
+ {
+  "en": "Mirror Ghost",
+  "kind": "name"
+ },
+ {
+  "en": "Dweller Beyond",
+  "kind": "name",
+  "note": "Lit. 'dweller on the other side'."
+ },
+ {
+  "en": "Azabas",
+  "kind": "name",
+  "note": "Existing story spelling."
+ },
+ {
+  "en": "Power Seeker",
+  "kind": "name"
+ },
+ {
+  "en": "Cetus Dragon",
+  "kind": "name",
+  "note": "[JP] = Cetus (Ketos), the sea monster of myth."
+ },
+ {
+  "en": "Cetus Dragon",
+  "kind": "name",
+  "note": "Kana nickname; same English."
+ },
+ {
+  "en": "Forbidden Wyrm",
+  "kind": "name",
+  "note": "Lit. 'forbidden demon dragon'."
+ },
+ {
+  "en": "Master Drake",
+  "kind": "name",
+  "note": "Source has a typo ([JP] + separate dakuten); same name as 3114."
+ },
+ {
+  "en": "Master Drake",
+  "kind": "name"
+ },
+ {
+  "en": "God of War",
+  "kind": "name"
+ },
+ {
+  "en": "Don Magus",
+  "kind": "name",
+  "note": "As in ITEM_TEXT (slice 28)."
+ },
+ {
+  "en": "Pants Magic",
+  "kind": "name",
+  "note": "[JP] = huge baggy underpants (cf. his 'Big Daddy' trousers); 'Big Pants Magic' is 15 bytes, over 12."
+ },
+ {
+  "en": "Noden Orc",
+  "kind": "name",
+  "note": "[JP] = orc; [JP] possibly Nodens, Celtic god of healing (epithet is a healer gag). New name."
+ },
+ {
+  "en": "Where's It Hurt?",
+  "kind": "name",
+  "note": "Lit. 'Where shall I treat?', with a cheeky katakana [JP]; kept playful."
+ },
+ {
+  "en": "Polyte, Bow Saint",
+  "kind": "name",
+  "note": "Glossary 'Polyte the Bow Saint' is 20 bytes, over 18; shortened to 'Polyte, Bow Saint'."
+ },
+ {
+  "en": "Polyte, Bow Saint",
+  "kind": "name",
+  "note": "Kana nickname; same as 3120."
+ },
+ {
+  "en": "Legendary Archer",
+  "kind": "name"
+ }
+]

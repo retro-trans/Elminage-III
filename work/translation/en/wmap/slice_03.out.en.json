@@ -1,0 +1,362 @@
+[
+ {
+  "en": "Yorfa went on, wearing a look of rapture.{w}",
+  "kind": "msg",
+  "note": "Narration in past tense, matching the pilot's narration style."
+ },
+ {
+  "en": "\"Would you all please step back?{w}I'm begging you, don't get in my way.\"{w}{p}\"I'll ask you once more.{w}Would you please step back, adventurers?\"{w}",
+  "kind": "msg",
+  "note": "Also reused in castle-talk scripts (91152, 91251); kept generic. Yorfa asks the party to step back; polite-request form kept."
+ },
+ {
+  "en": "\"......\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I see. Then it can't be helped.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Little by little, Yorfa began to change.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......{w}Rafaaa...{w}RAFAAAAAAAAAAAA!\"{w}",
+  "kind": "msg",
+  "note": "Stretched scream of Rafa (glossary spelling) kept as an elongated 'Rafaaa' / 'RAFAAA...'."
+ },
+ {
+  "en": "\"Why?{w}Why won't you just leave me be?\"{w}",
+  "kind": "msg",
+  "note": "Source has no object for 'leave alone' (sotto shite oite). Rendered 'leave me be'; could also be read as 'leave us (Yorfa and Rafa) alone'."
+ },
+ {
+  "en": "Tears poured endlessly from Yorfa's eyes.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I just... I just...{w}I just want to save Rafa...{w}That's all, and yet...\"{w}",
+  "kind": "msg",
+  "note": "Row 169 is the same line without the opening fragment; both rendered identically from 'I just want to save Rafa...' on."
+ },
+ {
+  "en": "\"I just want to save Rafa...{w}That's all, and yet...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you.\"{w}",
+  "kind": "msg",
+  "note": "Reused in 4 places (incl. 91431 town script); plain 'Thank you.' works everywhere."
+ },
+ {
+  "en": "From here, the Stairway of Light must once have stretched all the way up to the Palace of the Sun.{w}{p}But now the place lay desolate, a mere shadow of what it had been, with nothing divine left about it.{w}There was no sign that the Stairway of Light would appear, either.{w}{p}Was something missing?{w}",
+  "kind": "msg",
+  "note": "'Stairway of light' (hikari no kaidan) left descriptive/lowercase; it recurs in slices 01, 02, 06, 08 -- unify if the project decides it is a proper name."
+ },
+ {
+  "en": "As you puzzled over it, the rocks around you began to roll in an unnatural way.{w}Grinding and clattering, they gathered into a human shape.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A colossus made of rock appeared before you.{w}Was it the guardian of this place?{w}{p}All around, birds and insects began to gather, as though driven by some will of their own.{w}{p}They must be the protectors of the sacred ruins.{w}You would have to face this trial.{w}",
+  "kind": "msg",
+  "note": "Kyozou = 'colossus'. Narration past tense."
+ },
+ {
+  "en": "Under your attacks, the colossus began to crumble.{w}The small creatures that had gathered around it went on their way, as though freed from a spell.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{$08}{$01}",
+  "kind": "msg",
+  "note": "Control codes only; kept verbatim."
+ },
+ {
+  "en": "\"Hey, you there...\"{w}",
+  "kind": "msg",
+  "note": "Speaker box is 'Woman's Voice' (row 123, slice_02). Same laugh as Necrophilis, so this is her."
+ },
+ {
+  "en": "A voice came from out of nowhere.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So this is our first time meeting face to face, huh...\nNot that I'll bother telling you my name.{w}I doubt you'll be needing it.\"{w}",
+  "kind": "msg",
+  "note": "'You won't need it' implies they will not live to use it; kept that undertone."
+ },
+ {
+  "en": "In an instant, a red-haired woman appeared before you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Red-Haired Woman",
+  "kind": "name",
+  "note": "Name box, 16 chars."
+ },
+ {
+  "en": "\"Hey...\nThere's no point in you holding on to that thing, is there?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Talking in a flat, detached voice, she walked toward you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It doesn't look like it's worth a thing...\nbut you'd be in trouble without it, right?{w}Well, whatever. In that case, why not give it to me?\"{w}",
+  "kind": "msg",
+  "note": "'Sore' = the worthless-looking object the party carries (unnamed here)."
+ },
+ {
+  "en": "Hand it over?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Come on. Hand it over already!\"{w}",
+  "kind": "msg",
+  "note": "Placed between the choice and the refusal branch; read as her impatient demand (likely the no/hesitation path). Wording works either way."
+ },
+ {
+  "en": "This woman looked human, yet she was not.\nNo trace of life could be felt from her.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmm... So you're dead set on not handing it over.{w}Then I guess there's only one way to do this!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tch...{w}You're better than I thought.\"{w}{p}\"Well, whatever you lot do,\nthe outcome won't change.\"{w}",
+  "kind": "msg",
+  "note": "She switches from kimitachi to the rougher antatachi -> 'you lot'."
+ },
+ {
+  "en": "\"Ahahaha!\nGo on, keep struggling for all you're worth!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Necrophilis",
+  "kind": "name"
+ },
+ {
+  "en": "\"I am Necrophilis! The next time we meet,\nI will be the one to destroy you! Remember that!\"{w}",
+  "kind": "msg",
+  "note": "Her speech turns harsh/commanding (omae-tachi, oboete oke); rendered more forcefully than her earlier casual tone."
+ },
+ {
+  "en": "Leaving only her laughter behind,\nthe woman vanished into the darkness.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You there... Wait.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "From where the voice had come, a spirit with a face like the Grim Reaper's appeared before you.{w}",
+  "kind": "msg",
+  "note": "Shinigami -> 'the Grim Reaper'."
+ },
+ {
+  "en": "Spirit",
+  "kind": "name"
+ },
+ {
+  "en": "\"I will have you leave behind what you hold in your hands.\"{w}{p}\"Hmph... As you can see, it is a worthless thing.\nSurely you do not wish to die for something like that?\"{w}{p}\"Do as you are told,\nand I shall let you die without suffering...\"{w}",
+  "kind": "msg",
+  "note": "Villain register, no contractions. 'Let you die without suffering' -- even compliance means death; kept."
+ },
+ {
+  "en": "Leave it behind?",
+  "kind": "data"
+ },
+ {
+  "en": "\"A wise choice.{w}And while I am at it, I may as well finish my other business.\"{w}",
+  "kind": "msg",
+  "note": "Source uses the kenmei homophone meaning 'diligent', almost certainly a typo for the kenmei meaning 'wise'; translated as 'A wise choice'. 'Other business' = killing them anyway."
+ },
+ {
+  "en": "The spirit took a step forward.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see...\nSo you would choose an agonizing death...\"{w}{p}\"If that is what you wish, I shall grant it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Heh heh.{w}Fighting back here has merely\nput off your own deaths...\"{w}",
+  "kind": "msg",
+  "note": "Post-battle line (the party resisted)."
+ },
+ {
+  "en": "Shaharon",
+  "kind": "name",
+  "note": "New name: Shaharon (not in glossary; also appears in slices 02 and 14)."
+ },
+ {
+  "en": "\"I am Shaharon.\nThe next time we meet,\nyou will come to know your own folly...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The spirit vanished, as if melting into the darkness.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You there...\nWhat do you intend to do with that thing in your hands?\"{w}",
+  "kind": "msg",
+  "note": "Speaker box is 'Man's Voice' (slice_02 row 127 uses the same label)."
+ },
+ {
+  "en": "A voice suddenly rang out from behind you.{w}From where it had come, a demon appeared, wreathed in a hideous aura unlike anything you had ever seen.{w}",
+  "kind": "msg",
+  "note": "No pronoun used for the demon; 'Man's Voice' label exists but glossary gives no gender, so kept to 'the demon'."
+ },
+ {
+  "en": "Demon",
+  "kind": "name"
+ },
+ {
+  "en": "\"Cast away that useless thing,\nturn your backs on fear, and flee.\"{w}{p}\"Or... will you struggle, knowing it is futile?{w}If you give up gracefully, I might yet be persuaded to let you go.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Throw it away?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Very good.{w}Tell me, do you understand the worth of the Palace of the Sun?\"{w}{p}\"...Hm, it hardly matters whether you do.{w}You will die here regardless.\"{w}",
+  "kind": "msg",
+  "note": "Kisamara (contemptuous you) -- contempt carried by tone rather than an insult word."
+ },
+ {
+  "en": "With a fearless smile, the demon took a step toward you.{w}",
+  "kind": "msg",
+  "note": "Futeki na emi = 'fearless smile'; repeated in row 216."
+ },
+ {
+  "en": "\"Heh... I see...\nSo you would boldly choose the road to death.\"{w}{p}\"How amusing...\nThen I shall help you to your deaths myself.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oho... So you had this much power hidden away.{w}...This should keep me entertained for a long while.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Dark Mayer",
+  "kind": "name",
+  "note": "New name: Dark Mayer (romanized from Daaku Meiyaa; not in glossary)."
+ },
+ {
+  "en": "\"I am Dark Mayer.\nDo try to stay alive from here on.{w}I look forward to our next meeting...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Still wearing that fearless smile, the demon\nvanished soundlessly into the darkness.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Rotating Floor{w}",
+  "kind": "op096",
+  "note": "op096 label for the TURN_FLOOR script. 'Rotating Floor' chosen over the Wizardry jargon 'Spinner' for clarity; swap if the UI glossary settles on another term."
+ },
+ {
+  "en": "?????",
+  "kind": "name",
+  "note": "Unknown-speaker box; question marks kept."
+ },
+ {
+  "en": "\"...The hell are you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tch...{w}What the hell is with you people...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Brassel",
+  "kind": "name"
+ },
+ {
+  "en": "\"Don't tell me you wanna join the Brassel Gang?{w}Hah, well, looks like you can handle yourselves.\"{w}",
+  "kind": "msg",
+  "note": "New term: Brassel Gang (Brassel tozokudan, lit. 'Brassel band of thieves'). Brassel's gender not in glossary; no pronouns used for Brassel anywhere in the slice."
+ },
+ {
+  "en": "\"...Huh? No?{w}Then why the hell did you come here?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Underling",
+  "kind": "name",
+  "note": "Kobun -> 'Underling' (gender-neutral)."
+ },
+ {
+  "en": "\"Boss, I knew it, they heard about us from that brat...\nThat little snitch went and blabbed...\"{w}",
+  "kind": "msg",
+  "note": "The 'brat' is not gendered here; avoided pronouns."
+ },
+ {
+  "en": "\"Gyah!\"{w}",
+  "kind": "msg",
+  "note": "No speaker box: the underling yelping when Brassel hits them."
+ },
+ {
+  "en": "\"Shut your trap! Keep quiet!{w}And you lot, get lost already!{w}Show your faces again and this time I'll kill you for real!!\"{w}",
+  "kind": "msg",
+  "note": "Kondo koso -> 'for real'."
+ },
+ {
+  "en": "\"You came back again!?{w}I'm heading out!!\nHey, kill these guys while I'm gone!!\"{w}",
+  "kind": "msg",
+  "note": "Koroshite oke -> 'kill these guys while I'm gone' (te-oku = have it done by the time)."
+ },
+ {
+  "en": "\"Ow, ow, ow...{w}No way we can win without the boss...\nWhat the heck do you guys keep coming here for...\"{w}{p}\"It's all that brat's fault anyway...{w}We've never let anybody walk out of here alive before,\nand that brat's blabbing about us, I just know it.\"{w}{p}\"...You guys really don't know anything?{w}A while back, near Roscadil,\nwe jumped this little brat of a girl, see.\"{w}{p}\"...And the boss, who knows what for,\nwent and let her go.\"{w}{p}\"A little brat in fancy duds like that,{w}we coulda snatched her for a ransom,\nor sold her off...\"{w}{p}\"Crap! The boss is coming back!{w}Please! Just say you got away!{w}Okay? Or the boss is gonna kill us!!\"{w}",
+  "kind": "msg",
+  "note": "Mesugaki (crude, 'female brat') -> 'little brat of a girl'; she/her is used for this girl only, since mesugaki fixes the gender. 'Oobebe' (baby-talk for nice clothes) -> 'fancy duds'. Avoided he/him for the boss."
+ },
+ {
+  "en": "\"Hey! Isn't anybody here!?{w}...Oh, it's you lot.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...You lot didn't hear anything\nfrom a blond brat, did you?{w}...Then that's fine.\"{w}",
+  "kind": "msg",
+  "note": "Blond brat = presumably the same girl, but not confirmed in-line; no pronoun."
+ },
+ {
+  "en": "\"Shut up! It's nothing!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..................................\n...So even a kid with just one parent gets to wear stuff that nice......\"{w}",
+  "kind": "msg",
+  "note": "Kept the \\n to separate the long silence from the muttered line. Avoided gendering the kid."
+ },
+ {
+  "en": "\"...You lot said something about wanting to join up, right?{w}What? You think I'd hear something like that wrong?{w}This job's just you and me. You're coming along.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The job's at the Blue Cave.{w}Word is, deep inside there's a bunch of mimics\nthat eat adventurers and hoard treasure.\"{w}",
+  "kind": "msg",
+  "note": "New place name: Blue Cave (ao no doukutsu; also slice 11 rows 862-863)."
+ },
+ {
+  "en": "\"We hit 'em.{w}Relax, they're just monsters.{w}That's your specialty, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's no one here.{w}",
+  "kind": "msg",
+  "note": "Generic status line reused 6 times; present tense."
+ },
+ {
+  "en": "\"All right, this is it! The Soleil Stone!{w}Hey, you lot can have the rest.\"{w}",
+  "kind": "msg",
+  "note": "New item name: Soleil Stone (soreiyu sutoon)."
+ },
+ {
+  "en": "Received 5000 GP.{w}",
+  "kind": "msg"
+ }
+]

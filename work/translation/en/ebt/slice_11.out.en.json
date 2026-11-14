@@ -1,0 +1,342 @@
+[
+ {
+  "en": "The adventurers' spell power rose",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters' spell power rose",
+  "kind": "ui"
+ },
+ {
+  "en": "II. The High Priestess",
+  "kind": "ui",
+  "note": "Tarot card name; full-width Roman numeral -> ASCII, '[JP]' -> '. '"
+ },
+ {
+  "en": "The adventurers were poisoned",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters were poisoned",
+  "kind": "ui"
+ },
+ {
+  "en": "III. The Empress",
+  "kind": "ui"
+ },
+ {
+  "en": "Physical attacks are forbidden for everyone",
+  "kind": "ui"
+ },
+ {
+  "en": "IV. The Emperor",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers were silenced",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters were silenced",
+  "kind": "ui"
+ },
+ {
+  "en": "V. The Hierophant",
+  "kind": "ui",
+  "note": "Kyoukou = Pope; standard English tarot name 'The Hierophant' used"
+ },
+ {
+  "en": "Special actions are forbidden for everyone",
+  "kind": "ui"
+ },
+ {
+  "en": "VI. The Lovers",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers were charmed",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters were charmed",
+  "kind": "ui"
+ },
+ {
+  "en": "VII. The Chariot",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers' evasion rose",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters' evasion rose",
+  "kind": "ui"
+ },
+ {
+  "en": "VIII. Justice",
+  "kind": "ui",
+  "note": "Marseille order (VIII Justice, XI Strength) kept as in source"
+ },
+ {
+  "en": "Those of Good alignment were blessed",
+  "kind": "ui",
+  "note": "kairitsu = alignment; glossary Good"
+ },
+ {
+  "en": "IX. The Hermit",
+  "kind": "ui"
+ },
+ {
+  "en": "Passive fighting has been forbidden",
+  "kind": "ui"
+ },
+ {
+  "en": "X. Wheel of Fortune",
+  "kind": "ui"
+ },
+ {
+  "en": "Everyone's turn order was thrown into chaos",
+  "kind": "ui"
+ },
+ {
+  "en": "XI. Strength",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers' attack power rose",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters' attack power rose",
+  "kind": "ui"
+ },
+ {
+  "en": "XII. The Hanged Man",
+  "kind": "ui"
+ },
+ {
+  "en": "Everyone's luck dropped",
+  "kind": "ui"
+ },
+ {
+  "en": "XIII. Death",
+  "kind": "ui"
+ },
+ {
+  "en": "Was carried off to the world of the dead",
+  "kind": "ui",
+  "note": "Source has no subject and no placeholder (victim presumably shown by the battle log); omission kept"
+ },
+ {
+  "en": "XIV. Temperance",
+  "kind": "ui"
+ },
+ {
+  "en": "Those of Neutral alignment were blessed",
+  "kind": "ui"
+ },
+ {
+  "en": "XV. The Devil",
+  "kind": "ui"
+ },
+ {
+  "en": "Those of Evil alignment were blessed",
+  "kind": "ui"
+ },
+ {
+  "en": "XVI. The Tower",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers were confused",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters were confused",
+  "kind": "ui"
+ },
+ {
+  "en": "XVII. The Star",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers' accuracy rose",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters' accuracy rose",
+  "kind": "ui"
+ },
+ {
+  "en": "XVIII. The Moon",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers ran away",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters ran away",
+  "kind": "ui"
+ },
+ {
+  "en": "XIX. The Sun",
+  "kind": "ui"
+ },
+ {
+  "en": "The adventurers recovered",
+  "kind": "ui"
+ },
+ {
+  "en": "The monsters recovered",
+  "kind": "ui"
+ },
+ {
+  "en": "XX. Judgement",
+  "kind": "ui"
+ },
+ {
+  "en": "Await the hour of judgment",
+  "kind": "ui"
+ },
+ {
+  "en": "XXI. The World",
+  "kind": "ui"
+ },
+ {
+  "en": "Everyone's defensive resistances vanished",
+  "kind": "ui"
+ },
+ {
+  "en": "Success=%d, Check=%d",
+  "kind": "ui",
+  "note": "debug-style roll output; hanteichi = check/threshold value"
+ },
+ {
+  "en": "A tarot card was drawn",
+  "kind": "ui",
+  "note": "No subject in source (drawer shown elsewhere); passive used, omission kept"
+ },
+ {
+  "en": "Draw failed",
+  "kind": "ui"
+ },
+ {
+  "en": "Draw succeeded",
+  "kind": "ui"
+ },
+ {
+  "en": "Death pointed its finger",
+  "kind": "ui",
+  "note": "Shinigami = Death (the reaper), matches card XIII"
+ },
+ {
+  "en": "Target Lv=%d",
+  "kind": "ui",
+  "note": "debug-style output"
+ },
+ {
+  "en": "Death's will was repelled",
+  "kind": "ui"
+ },
+ {
+  "en": "All-Out Attack can't be used",
+  "kind": "ui",
+  "note": "New term: soukougeki = All-Out Attack"
+ },
+ {
+  "en": "Command Repeat can't be used",
+  "kind": "ui",
+  "note": "New term: Command Repeat (katakana komando ripiito)"
+ },
+ {
+  "en": "Square: All-Out Attack / R: Command Repeat / L: Back to Normal Mode",
+  "kind": "ui"
+ },
+ {
+  "en": "Characters attack in the order commands were entered. L: Back to Normal Mode",
+  "kind": "ui"
+ },
+ {
+  "en": "%s\nhas been lost.",
+  "kind": "ui",
+  "note": "'lost' = permanent character loss, as in slice_01/04"
+ },
+ {
+  "en": "Took up a counterattack stance",
+  "kind": "ui",
+  "note": "No subject in source; actor shown by battle log (pairs with row 897). Omission kept"
+ },
+ {
+  "en": "The opponent took up a counterattack stance",
+  "kind": "ui"
+ },
+ {
+  "en": "%s drew a fortune slip",
+  "kind": "ui",
+  "note": "omikuji = fortune slip"
+ },
+ {
+  "en": "A fortune slip was drawn",
+  "kind": "ui",
+  "note": "Subjectless variant of row 898; passive used, omission kept"
+ },
+ {
+  "en": "%s %s",
+  "kind": "ui"
+ },
+ {
+  "en": "A treasure chest!",
+  "kind": "ui"
+ },
+ {
+  "en": "Treasure unearthed!",
+  "kind": "ui",
+  "note": "Subject (the party) omitted in source; exclamation kept subjectless"
+ },
+ {
+  "en": "Everyone escaped successfully!",
+  "kind": "ui"
+ },
+ {
+  "en": "Everyone failed to escape.",
+  "kind": "ui"
+ },
+ {
+  "en": "It was resisted",
+  "kind": "ui",
+  "note": "passive: target resisted the actor's effect"
+ },
+ {
+  "en": "Resisted it",
+  "kind": "ui",
+  "note": "active: the target (shown by log) resisted; omission kept"
+ },
+ {
+  "en": "Status ailments were cured",
+  "kind": "ui"
+ },
+ {
+  "en": "Everyone's stats returned to normal",
+  "kind": "ui"
+ },
+ {
+  "en": "A divine miracle rained down",
+  "kind": "ui"
+ },
+ {
+  "en": "Withdrew from battle",
+  "kind": "ui",
+  "note": "tesshuu = withdraw/pull out; no subject in source, likely a summon/ally leaving; omission kept"
+ },
+ {
+  "en": "A mirror image appeared",
+  "kind": "ui",
+  "note": "utsushimi = copy/double of a body; rendered 'mirror image'"
+ },
+ {
+  "en": "The item was repaired",
+  "kind": "ui"
+ }
+]

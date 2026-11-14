@@ -1,0 +1,1680 @@
+[
+ {
+  "en": "\"I should've just played it straight!{w}D'oh!!\"{w}",
+  "kind": "msg",
+  "note": "Ga-n (shock SFX) rendered as 'D'oh!!' -- comic realization after being thrown out for loaded dice (rows 1198-1199)."
+ },
+ {
+  "en": "\"I knew you'd come.\nAnd what it is you're wishing for right now, too.\nBut in the end, it's all up to you guys, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, how's it going?\"{w}{p}\"The casino here is great, you know!{w}Great facilities, great service, great night view...\"{w}{p}\"And best of all, the location!{w}This spot has the absolute best luck for money and anything to do with finances!\"{w}{p}\"Wow, it really lives up to the hype!{w}...Aaall right!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm off to win big!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah! Listen to this!{w}Can you believe it!?{w}After a run like that, it lands on 00! Double zero!!\"{w}{p}\"There's no way it was gonna hit 00!{w}What's with that!?{w}Not red, not black, but 00!?\"{w}{p}\"It went red, red, red, black, red, black, black, red,{w}so black HAD to be next, right!?{w}RIGHT!?\"{w}{p}\"Grrrrgh...!\"{w}",
+  "kind": "msg",
+  "note": "Roulette double zero; full-width 00 written as ASCII 00."
+ },
+ {
+  "en": "\"Maybe next time I should bring Mayleen along?\"{w}{p}\"Every time she opens her mouth, it's research this, research that.{w}She could stand to doll herself up a little -- she's so cute, after all~\"{w}{p}\"Maybe that big brain of hers could work something out?{w}Anyone who can read the weather should find gambling a piece of cake, right!?\"{w}{p}\"Her brain plus my fortune-telling!{w}Even I have to admit it's the perfect plan!{w}",
+  "kind": "msg",
+  "note": "Ano ko = Mayleen; glossary gender unknown, so no she/girl -- name repeated instead. Row ends without a closing quote, as in source (continues in 1206). | Accuracy pass: glossary now lists Mayleen as female, so ano ko is she/her instead of the repeated name; aka-nukeru = get more polished/stylish, not \"loosen up\". | Editorial pass: 'such a cutie, too~' did not carry the sekkaku link (cute, so it's a waste); smoothed."
+ },
+ {
+  "en": "{0E}\"Her brain plus my fortune-telling!\nEven I have to admit it's the perfect plan!{0F}\nRight... This time, I'm gonna win!\"{w}",
+  "kind": "msg",
+  "note": "Accuracy pass: echo updated to match the new last page of row 1205."
+ },
+ {
+  "en": "\"There's this thing called the Dice of Fate, right?{w}Well, those are an alchemy thing, not fortune-telling, though.\"{w}{p}\"Not the Dice of Fate, but... like...\nIsn't there some kind of dice\nwhere you can control the roll?\"{w}{p}\"Like, sixes on every face!{w}...Nah, that'd get me caught.\"{w}{p}\"Ah, no, not that I'D be the one using them, okay?{w}It's just, a little while ago I played this kinda weird game with three dice...\"{w}{p}\"And the rolls were like...\nWhaaaaaaaat--...\nseriously, ugh......\"{w}{p}\"I was winning like crazy at first, you know?{w}But then all of a sudden the losses started piling up...\"{w}{p}\"Fate... luck...\nHey, what even is fate, anyway...?{w}...Says the fortune-teller! Get a grip, me!\"{w}",
+  "kind": "msg",
+  "note": "Unmei no Daisu = 'Dice of Fate' (new item name; quest item from slice_15 rows 1191-1193). Last line is a self-tsukkomi."
+ },
+ {
+  "en": "On entering the Temple of Rafa, you found Natori, the fortune-teller who had been handing out compasses in the audience chamber.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My wallet's looking awfully thin...{w}If only yesterday's double-up had paid off...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh, you guys are...{w}the adventurers from Algrantz, if I remember right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry about that whole Angel's Window thing~\"{w}",
+  "kind": "msg",
+  "note": "Refers to Natori selling off the supplied Angel's Windows (slice_09 rows 650-686)."
+ },
+ {
+  "en": "\"Oh, that reminds me.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Oh, that reminds me.{0F}\nThis is out of the blue, but I've got a serious favor to ask...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Could you lend me 300 GP?\"",
+  "kind": "data",
+  "note": "Choice prompt; 27 chars."
+ },
+ {
+  "en": "\"Ooh, aren't you generous!{w}Thank you! You're a lifesaver!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh, you don't have it? 300 GP...{w}Whatever you've got is fine too, okay? ...No good?{w}Ugh... Guess it can't be helped...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You won't lend it to me!? Awww...{w}You look so nice, but it turns out you're a cheapskate.{w}Fine, whatever, I'll just ask Mayleen.\"{w}",
+  "kind": "msg",
+  "note": "Kurenai = won't give/lend; 'sonna kao shite' = for someone who looks like that (i.e. nice)."
+ },
+ {
+  "en": "\"So, what brings you here today?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You explained that you had been tasked with finding the Three Phantom Stones: the Hemaid Red Stone, the Green Plakio and the Blue Menon.{w}",
+  "kind": "msg",
+  "note": "Term spellings follow slice_09 row 691 (slice_01/02 used 'Phantom Stones' -- inconsistency flagged)."
+ },
+ {
+  "en": "\"I see.{w}It's true that if I imbue the compass with power, you might be able to find them, but...\"{w}{p}\"I can't put light into the compass on my own.\"{w}{p}\"I take something called Fame from you, and turn that Fame into light for the compass.\"{w}{p}\"Fame doesn't come from treasure chests or fighting.\"{w}{p}\"Traveling the land, talking with all sorts of people, getting involved, helping folks out...{w}that's the kind of thing Fame is born from.\"{w}{p}\"That time with the Lightstair Ruins, I actually borrowed some of Lord Balgert's Fame.{w}But from now on, you'll have to gather it yourselves, okay?\"{w}",
+  "kind": "msg",
+  "note": "Hikari no Kaiseki = 'Stairway Ruins of Light' per slice_09 (slice_01 data row 63 has 'Lightstair Ruins'). Balgert-sama from Natori = 'Lord Balgert' as in slice_02. | Editorial pass: misplaced modifier ('from you called Fame' read as the party calling it Fame). 'Back with' was unidiomatic."
+ },
+ {
+  "en": "\"Oops. The council's about to start.{w}...Hm? What council, you ask?{w}The continent's Central Council, with Lumisthenes as the presiding nation.\"{w}{p}\"Is this kind of thing new to you? First time?{w}I see, I see...{w}Well, this concerns you now too... Want to take a peek?\"{w}",
+  "kind": "msg",
+  "note": "Chuuou kaigi (here) and Chuuou gikai (Wattner) both rendered 'Central Council'. | Editorial pass: double negative hard to parse; same meaning (mou mukankei ja nai)."
+ },
+ {
+  "en": "\"I could get you in, y'know?\"",
+  "kind": "data",
+  "note": "Choice prompt; kuchikiki = put in a word for you. 29 chars."
+ },
+ {
+  "en": "\"You want to hear the myths of the Crestard Continent?{w}Ahah, you sound just like a pilgrim.{w}That's the first time an adventurer's ever asked me that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well then... *ahem*.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is a story from long, long ago. So long ago it makes your head spin.{w}From beyond the mists there appeared the ones known as the Six Gods of Creation.\"{w}{p}\"Void, the god of space, shaped a vessel called the land out of the primordial earth.\"{w}{p}\"When Dehain, the god of existence, approved the vessel, Naru, the god of time, brought it the flow of time.\"{w}",
+  "kind": "msg",
+  "note": "New god names: Void, Dehain, Naru. -sama honorific on gods dropped (no ungendered English title; 'Lord' would assign gender). | Editorial pass: awkward phrasing."
+ },
+ {
+  "en": "\"These three are the gods who show the natural order of things.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eventually, once the land had settled, the gods who watch over life graciously brought forth living things.\"{w}{p}\"Life brought forth by the hand of Ildraha, the god of life, grows through the power of Ashtel, the god of change.\"{w}{p}\"And when someday a life is lost, Rogera, the god of Dark Oblivion, receives it at its end.\"{w}",
+  "kind": "msg",
+  "note": "Source opens with an indent but no opening quote (likely a source slip); mirrored as-is. New names Ashtel, Rogera. Souma no kami = god of life (creating life), henkan = change, anmetsu = oblivion (dark annihilation). | Proofread: added the missing opening quote (the source omits it, but 1226 closes its own quote, so the English close quote was unpaired)."
+ },
+ {
+  "en": "\"And so, the land began to carve out its history.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But you know, back then, Rafa wasn't here yet.\"{w}{p}\"Rafa only ascended to the Palace of the Sun some time later, set off by a certain calamity.{w}Even so, from where we stand, that was still ages and ages ago.\"{w}",
+  "kind": "msg",
+  "note": "Rafa: glossary gender unknown; no pronouns used."
+ },
+ {
+  "en": "\"The calamity was this: the land, which had been at peace ever since its creation, was suddenly threatened by the Kin of Darkness.\"{w}{p}\"No one knows why.{w}Light was lost from the sky, and the Kin of Darkness invaded.\"{w}{p}\"The once-beautiful land was ravaged beyond recognition, and very nearly became a continent of darkness.\"{w}",
+  "kind": "msg",
+  "note": "Yami no kenzoku = 'Kin of Darkness' (new term)."
+ },
+ {
+  "en": "\"Just then, the great dragon Agintaitus and a lone mage summoned Rafa from the village of the spirits.\"{w}{p}\"To light the land with purifying power, Rafa, with the help of those two, made the Stairway of Light appear on the Konnu Plains, then ascended to the Palace of the Sun.\"{w}{p}\"When Rafa shone down upon the land from the Palace of the Sun, the Kin of Darkness vanished before everyone's eyes.\"{w}",
+  "kind": "msg",
+  "note": "New names: Agintaitus, Konnu Plains; seirei no sato = 'village of the spirits' (kept descriptive). Hikari no kaidan = 'Stairway of Light' as in slice_02."
+ },
+ {
+  "en": "\"And so, the land was able to overcome an unprecedented crisis.\"{w}{p}\"This city of Lumisthenes and the Temple of Rafa were built as places of prayer, so that no one would forget their gratitude to Rafa.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...And that's the end of the myth of the land, pilgrim edition!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The land is under threat from the Kin of Darkness once again.\"{w}{p}\"If we don't take back the Palace of the Sun, it'll be swallowed up by darkness again, just like in the old myth.\"{w}{p}\"Will we give birth to a new myth, or will it all end here?{w}Our fate is in our own hands.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All we people of Lumisthenes can do is guide everyone.\"{w}{p}\"Anyone will do. In any form at all.{w}If it means I can pull the future closer, I want to lend a hand to every possibility there is.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Including the possibility that is you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Natori's eyes held an earnest look you never normally saw in her.{w}",
+  "kind": "msg",
+  "note": "Natori gender unknown; pronoun avoided. | Editorial pass: glossary lists Natori as female; 'her' restores whose usual self is meant, and fixes the tense clash."
+ },
+ {
+  "en": "\"You want light put into your compass, then.{w}Well now, what is it you'd like to search for?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hope you find what you're looking for!{w}Good luck!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I've been waiting for you~!{w}For the right offering, I'll answer anything you like!\"{w}",
+  "kind": "msg",
+  "note": "Music note symbol is not ASCII; replaced with '~'. ofuse = offering/donation (paid oracle)."
+ },
+ {
+  "en": "\"Anything else you'd like to know?{w}Don't be shy, ask away!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And who might you be? This is the Central Council chamber, you know.{w}Well then, perhaps I ought to introduce myself.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I am Wattner, Chair of the Central Council.{w}And you are...?\"{w}{p}\"Adventurers, is it?{w}...You are treated as though you were some symbol of free will, but that is rather a problem for us.\"{w}{p}\"A band of free agents stronger than most soldiers -- in other words, a subversive element.\"{w}{p}\"Then again, you do have the strength of not being bound by rules.{w}In an emergency, you would make an ideal mobile strike force or private army.{w}Naturally, we shall make sure no such situation ever arises... hm?\"{w}",
+  "kind": "msg",
+  "note": "Wattner as in slice_10 row 723; gikai gichou = 'Chair of the Central Council' (slice_09 has 'Council Chair')."
+ },
+ {
+  "en": "\"By rights, this room is where the Central Council should sit, but it goes unused because people find it gloomy.{w}I rather like the quiet atmosphere myself...\"{w}{p}\"People with principles and convictions gathering to debate.{w}That matters far more than swinging weapons about, the way you adventurers do.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Even in a debate, if there are too many opinions, no consensus can be reached.{w}Hence the Central Council, a gathering of representatives.\"{w}",
+  "kind": "msg",
+  "note": "Editorial pass: 'nothing can be brought together' was unclear."
+ },
+ {
+  "en": "\"...That is how it is meant to work, but it is merely noisy and hardly ever reaches agreement.{w}And at a time of such crisis, too... Honestly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is it?{w}This is no concern of a mere adventurer.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why is it that you people always want to come to such an out-of-the-way place?{w}I really don't understand it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Let me see...\nSince you are adventurers, why not try doing some adventurers' work?\"{w}{p}\"Sessions held time and again, never reaching agreement, dragging on and on.{w}And whenever we reconvene, we are back to square one.{w}...Frankly, I have grown a little weary.\"{w}{p}\"So... do you know of the Geezers' Wand?{w}They say it gives strength to worn-out old folks.{w}With it, I might regain a little of my vigor.\"{w}{p}\"Please bring me the Geezers' Wand.{w}I am counting on you.\"{w}",
+  "kind": "msg",
+  "note": "Washira no Wando: item name built on 'washira' (old men's 'we'); coined 'Geezers' Wand' -- new item name, check against ITEM.json when items are translated."
+ },
+ {
+  "en": "\"What is the matter? I am counting on you.\nThe sooner you bring it, the higher my opinion of adventurers as a whole will rise.\"{w}{p}\"Think of yourselves as their representatives, and give it your all.\"{w}",
+  "kind": "msg",
+  "note": "Accuracy pass: restored the verb in \"The sooner you bring it\" (source: hayakereba hayai hodo, the wand fetch)."
+ },
+ {
+  "en": "\"Thank you for your trouble.{w}Oho, so this is the wand in question.{w}Now then.........?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"!......I see. I see, I see.{w}This is good -- I can feel strength welling up inside me.{w}Heh, it almost makes me want to give the council a good shake-up.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Matters have their order of importance, but{w}sadly, there are those who disregard it and cling to their own arguments.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honestly.........{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Honestly.........{0F}\nWhat drivel.\"{w}",
+  "kind": "msg",
+  "note": "Kudaranai aimed at the councillors' arguments (row 1253); kept blunt."
+ },
+ {
+  "en": "\"......Just a bit of grumbling. Keep it between us, will you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you, that is quite enough. I shall return this to you.{w}This won't do -- with all this surplus vigor, even my tongue has turned sharp.\"{w}{p}\"Please take it as your reward.\"{w}{p}\"Still, adventurers really are{w}quite handy, aren't they?{w}Above all, you are so light on your feet.\"{w}{p}\"Given that, it is easy to see{w}why you are relied on in so many places.\"{w}",
+  "kind": "msg",
+  "note": "Kore wa okaeshi shimasu / sore wa houshuu: the wand is handed back as the reward. | Editorial pass: 'With that' read as 'after that'."
+ },
+ {
+  "en": "\"Welcome to this out-of-the-way place.\nWhat do you say? Shall I make you some tea?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...What business would an adventurer have in a place like this?{w}This is a place for studying the sky and the land -- hardly the sort of place adventurers come to.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you have no business here, kindly leave.\nI, Mayleen, am busy with my research.{w}Please see yourselves out.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...What is it? I am on my break right now.\nKindly bring your business at some time other than my break.{w}And naturally, disturbing my research is not allowed either.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I never cut corners, not even on my breaks.\nIt is always milk tea and cookies for me.{w}...What? I'm not sharing, you know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't tell me you're interested in this celestial observatory?{w}No, that couldn't be, could it --\nnot coarse, vulgar adventurers like you.\"{w}",
+  "kind": "msg",
+  "note": "Tenjou kansokuki = 'celestial observatory' (descriptive)."
+ },
+ {
+  "en": "\"...Would you kindly give it a rest?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"...Would you kindly give it a rest?{0F}\n...Could it be that you really are interested?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"...Would you kindly give it a rest?\n...Could it be that you really are interested?{0F}\n...Then... I do apologize...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is a device that measures the movements of the heavens\nand gauges what kind of influence they have\non the land.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, if anything concerns adventurers directly, I suppose it would be the weather.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But adventurers make their living rampaging about, come rain or tornado -- isn't that so?{w}",
+  "kind": "msg",
+  "note": "Editorial pass: 'regardless' redundant after 'rain or tornado'."
+ },
+ {
+  "en": "{0E}\"But adventurers make their living rampaging about, come rain or tornado -- isn't that so?{0F}\nSo, as I thought, it hardly concerns you.\"{w}",
+  "kind": "msg",
+  "note": "Editorial pass: {0E} echo kept identical to row 1269."
+ },
+ {
+  "en": "\"......I am in the middle of my research.{w}Ah, I know --\nhow about this?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The lens of this device uses crystals mined in the Crystal Labyrinth.\"{w}{p}\"Even now it is precise enough for my research, but if I had a denser, clearer crystal...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I ought to be able to read the weather so accurately and precisely that one could mistake it for controlling the weather itself.\"{w}",
+  "kind": "msg",
+  "note": "Suiishou no meikyuu = 'Crystal Labyrinth' (new dungeon name; DGN_NAME not yet translated)."
+ },
+ {
+  "en": "\"If you are truly interested in this research, would you go and fetch one for me, oh honored adventurers?{w}It would be to both our benefit, you know.\"{w}",
+  "kind": "msg",
+  "note": "Boukensha-sama is sarcastic; 'oh honored adventurers' keeps the jab without a gendered Mr./Ms."
+ },
+ {
+  "en": "\"My, what's wrong? It's the Crystal Labyrinth, you know.{w}It's for both our sakes. The exact location, you say?{w}Isn't finding that part of your job too?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're back again? What became of the item?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What? You really brought it...?{w}...What a... foolish thing to do...\"{w}{p}\"...What I said wasn't a lie, but...{w}it was only meant to get rid of you.{w}And yet... I'm sorry.\"{w}",
+  "kind": "msg",
+  "note": "'Nante baka na koto wo' could be aimed at the party (going to such trouble) or at herself (for the ruse); 'What a foolish thing to do' keeps both readings."
+ },
+ {
+  "en": "\"......Thank you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Some time ago, a terribly vulgar, rude adventurer{w}harassed me.\"{w}{p}\"They were so persistent that -- though I rarely do such a thing --\n......I shouted at them.{w}But...\"{w}",
+  "kind": "msg",
+  "note": "Harassing adventurer's gender unknown -> 'they'. Continues in slice_17 row 1280 (Wattner happened to see it)."
+ },
+ {
+  "en": "\"And Council Chair Wattner happened to see it...{w}Until just the other day, I had been demoted to a post in the provinces.{w}",
+  "kind": "msg",
+  "note": "Mayleen continues row 1279: she yelled at a rude adventurer and Wattner saw it. 'Left-sen' = demoted/sent off to a provincial post. | Editorial pass: tense clash ('until the other day, I was demoted')."
+ },
+ {
+  "en": "{0E}\"And Council Chair Wattner happened to see it...\nUntil just the other day, I had been demoted to a post in the provinces.{0F}\n'The short-tempered have no place in the capital,' I was told.\"{w}{p}\"It's the capital, so I do understand that...{w}But what is so wrong with research for the good of the land!?\"{w}",
+  "kind": "msg",
+  "note": "Chuuou = the central government/capital; rendered 'the capital'. Nested quote from Wattner set in single quotes. | Editorial pass: {0E} echo kept identical to row 1280."
+ },
+ {
+  "en": "\"And besides, all that 'egghead, egghead' --\nwhat exactly is wrong with that?\"{w}{p}\"That word might be a compliment, if anything,\nbut it could never be an insult.........Excuse me.\"{w}",
+  "kind": "msg",
+  "note": "Interi ('intellectual') was evidently the rude adventurer's jibe; rendered 'egghead' so it reads as an insult she insists is a compliment."
+ },
+ {
+  "en": "\"You're right,{w}not everyone is the same, are they?\"{w}",
+  "kind": "msg",
+  "note": "Reply to an unseen player choice/remark (likely that not all adventurers are like that one)."
+ },
+ {
+  "en": "\"Thank you so very much.{w}With this, I can take far more accurate measurements.{w}If you ever want to know the weather, just say so.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, but I will be charging a fee for use of the facility.{w}I never mix business with personal matters.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}  * You can now control the weather *{0F}{w}",
+  "kind": "msg",
+  "note": "System notice; format follows the existing '* ... now in stock *' line."
+ },
+ {
+  "en": "\"I have every confidence in my research.{w}Whenever you want to know the weather, just ask.{w}",
+  "kind": "msg",
+  "note": "Editorial pass: 'Whenever ... any time' redundant."
+ },
+ {
+  "en": "{0E}\"I have every confidence in my research.\nWhenever you want to know the weather, just ask.{0F}\nThough I will charge the facility fee.\"{w}",
+  "kind": "msg",
+  "note": "Editorial pass: {0E} echo kept identical to row 1287."
+ },
+ {
+  "en": "\"Ah... and one more thing: watch out for storms.{w}Tornadoes only occur in certain places, but{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Ah... and one more thing: watch out for storms.\nTornadoes only occur in certain places, but{0F}\nthey can easily blow a person away.\"{w}{p}\"...I do worry about you, a little.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is it?\nThis has nothing to do with adventurers.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's still being prepared.\"{w}{p}\"I expect it will be finished\nby the time you're back from Teridon.\"{w}",
+  "kind": "msg",
+  "note": "Teridon = TERIDON (town TRD); new name."
+ },
+ {
+  "en": "\n{0E}  * The weather is now {0C:0001:0001} *{0F}{w}",
+  "kind": "msg",
+  "note": "Insert shows one of rows 1294-1297, so those are adjectives (Clear/Cloudy/Rainy/Stormy) to read 'The weather is now Rainy'."
+ },
+ {
+  "en": "Clear",
+  "kind": "data",
+  "note": "Weather name, also inserted into row 1293."
+ },
+ {
+  "en": "Cloudy",
+  "kind": "data"
+ },
+ {
+  "en": "Rainy",
+  "kind": "data",
+  "note": "Source has a trailing full-width pad space; dropped."
+ },
+ {
+  "en": "Stormy",
+  "kind": "data",
+  "note": "Source has a trailing full-width pad space; dropped."
+ },
+ {
+  "en": "\"Oh? Haven't seen your mugs around before.{w}First time in this town? Yeah? Great!{w}Well, ain't that convenient...\"{w}",
+  "kind": "msg",
+  "note": "Speaker shown as ???? (Zonette before introduction)."
+ },
+ {
+  "en": "Zonette",
+  "kind": "name"
+ },
+ {
+  "en": "\"Whoops, I'm Zonette!{w}Nice. Ta. Meet. Ya!\"{w}{p}\"Okay, let's get right to it! I need a favor.{w}See, the thing is...\"{w}",
+  "kind": "msg",
+  "note": "Yo-ro-shi-ku spelled out syllable by syllable; rendered with full stops between words."
+ },
+ {
+  "en": "Molder",
+  "kind": "name"
+ },
+ {
+  "en": "\"What are you doing, Zonette?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ugh, Molder.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're not{w}up to some scheme again, are you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nah, I was helpin' these folks find somebody.{w}Right?\"{w}{p}\"Sorry, nope,{w}ain't seen anybody with a robe over their head,{w}ain't seen any weirdo like that, nope.\"{w}",
+  "kind": "msg",
+  "note": "Zonette fakes a conversation with the party to fool Molder; the robed person is invented (Molder later learns it was a lie)."
+ },
+ {
+  "en": "\"Oh, perfect timing!{w}Why, here's the honorable Captain of the Guard!\"{w}{p}\"Try askin' this one here!{w}Well, I got stuff to do, so later!\"{w}",
+  "kind": "msg",
+  "note": "Koitsu = Molder; 'this one' avoids a gendered 'guy' (Molder's gender is unknown in the glossary). Keibiheichou = Captain of the Guard."
+ },
+ {
+  "en": "\"Zonette, what stuff? Hey, wait!{w}Ah... you there,{w}just to be sure, you're looking for someone?\"{w}{p}\"...No?{w}Damn it, fooled again!\nZONETTE!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mmf, nom... mm, this is good.{w}",
+  "kind": "msg",
+  "note": "Zonette is eating the stall food Molder accuses her of stealing in row 1311."
+ },
+ {
+  "en": "{0E}\"Mmf, nom... mm, this is good.{0F}\nYo! We meet again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Oh!{w}You can have the rest! Don't leave any, got it?{w}See ya!!\"{w}",
+  "kind": "msg",
+  "note": "Zonette spots Molder coming and dumps the stolen food on the party."
+ },
+ {
+  "en": "\"Huff... huff... Oh, you there,{w}have you seen someone named Zonette!?{w}That thief swiped goods from a stall!\"{w}{p}\"If you see Zonette, tell me!{w}ZONETTE! Where'd you go!?\"{w}",
+  "kind": "msg",
+  "note": "'That thief' and the repeated name avoid a pronoun for Zonette (gender unknown)."
+ },
+ {
+  "en": "\"Yo! You lot dropped your wallet, right?{w}Say it again: you dropped it, right!{w}",
+  "kind": "msg",
+  "note": "Zonette is pressuring the party to agree; the wallet was pickpocketed from someone else (row 1315). | Editorial pass: Zonette's omaera unified as 'you lot' (rows 1326, 1328, 1341); 'you guys' is Natori's and Molder's."
+ },
+ {
+  "en": "{0E}\"Yo! You lot dropped your wallet, right?\nSay it again: you dropped it, right!{0F}\nRIGHT!?\"{w}",
+  "kind": "msg",
+  "note": "Editorial pass: {0E} echo kept identical to row 1312."
+ },
+ {
+  "en": "\"Uh-huh, uh-huh. Kind ol' me will give it back to ya.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Found you, Zonette!{w}I saw you lift that wallet!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now hand it over! Hand it over now! Hand it over this instant!\nAnd then get ready for a lecture!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What're you talkin' about?{w}Me? Do a thing like that!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"These eyes don't miss a thing!{w}I'm searching your stuff, all right? Good!{w}...........................................\"{w}",
+  "kind": "msg",
+  "note": "Fushiana ('knotholes for eyes') = unobservant; 'These eyes don't miss a thing' set up so row 1320 can echo it."
+ },
+ {
+  "en": "\"You done yet?{w}I got plans after this, y'know.{w}See ya around, Molderrr.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That can't be... these eyes missed...{w}...What about that wallet?{w}...............What did you say?\"{w}",
+  "kind": "msg",
+  "note": "Molder finds nothing on Zonette, notices the party holding the wallet and hears where it came from."
+ },
+ {
+  "en": "\"...........ZONETTEEEEEEE!!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Got somethin' nice there, don'tcha?{w}Lookin' pretty flush.{w}Truth is, I dropped my money and I'm in a real fix.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Lend me 1,000 GP. 'Kay?\"",
+  "kind": "data",
+  "note": "Choice prompt (data row)."
+ },
+ {
+  "en": "\"Thanks a bunch. I'll pay ya back sometime.{w}See ya, you softies!\"{w}",
+  "kind": "msg",
+  "note": "Ohitoyoshi-domo ('you bunch of soft touches') is Zonette's running name for the party; rendered 'softies' throughout."
+ },
+ {
+  "en": "\"None? No way. You're hidin' it, ain'tcha?{w}Jump up and down right there, go on, jump!{w}...Not even a jingle of loose change...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Guess you lot have it rough too, huh.{w}Fine, forget it. Get goin'.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tch...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...You lot, hand over some cash.{w}Yeah, I dropped my wallet.{w}I think. Just now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's 10,000 GP.\"",
+  "kind": "data",
+  "note": "Choice prompt (data row)."
+ },
+ {
+  "en": "\"...Huh, coulda squeezed you for more.{w}Oh well.\"{w}",
+  "kind": "msg",
+  "note": "Fukkakeru = ask an inflated price; she realises they paid without haggling."
+ },
+ {
+  "en": "\"Thank ya kindly, softies!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey! You softies over there!\nYeah, you!{w}Lend me some money! I need it right now!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll pay ya right back! Gimme ALL of it!\"",
+  "kind": "data",
+  "note": "Choice prompt (data row); 36 chars, prompt rows elsewhere run to 42. 'Sugu' (right away) compressed out of the promise. | Accuracy pass: restored sugu (\"right back\"), which row 1337 echoes; 35 chars, shorter than before. | Editorial pass: subject restored per BASE_RULES pro-drop rule; 39 chars, render fit not verified."
+ },
+ {
+  "en": "\"...Tch, what the hell.{w}You always handed it over before...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shut up, it's nothin'!{w}Just get lost already!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You handed all your money over to Zonette.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...............Right, I'll pay ya back real soon!{w}Wait for me, okay!?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"...............Right, I'll pay ya back real soon!\nWait for me, okay!?{0F}\n...............Don't... get your hopes up, though.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\".............................................\n.............................................\n.............................................\"{w}{p}\".............................................\n.............................................\n.............................................\"{w}{p}\".............................................\n.............................................\n.............................................\"{w}{p}\".............................................\n.............................................\n.............................................\"{w}",
+  "kind": "msg",
+  "note": "Four pages of pure ellipsis (the party waiting); kept as 3 lines of dots per page."
+ },
+ {
+  "en": "\"...Whoo, what a haul, what a haul! Wha--{w}",
+  "kind": "msg",
+  "note": "Tte = cut-off reaction on spotting the party; rendered as an interrupted 'Wha--'."
+ },
+ {
+  "en": "{0E}\"...Whoo, what a haul, what a haul! Wha--{0F}\nHuh!? What, you lot are still here!?{w}...Unbelievable. You shoulda gone home! Are you stupid or what?\"{w}",
+  "kind": "msg",
+  "note": "Zonette gambled the money and won big (oogachi)."
+ },
+ {
+  "en": "\"...............Aw, fine, I get it!{w}I only won thanks to you lot anyway!{w}Here! Take it, ya bandits!!\"{w}",
+  "kind": "msg",
+  "note": "Motteke dorobo = market-stall idiom ('take it, you robber'), kept as 'Take it, ya bandits!!'. | Editorial pass: Zonette's omaera unified as 'you lot'."
+ },
+ {
+  "en": "Zonette paid you back in full.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..................Fine, fine, I hear ya!{w}From now on, the only one I'll\nmess with is Molder!\"{w}",
+  "kind": "msg",
+  "note": "Answers an unseen player request to stop messing with people."
+ },
+ {
+  "en": "\"But listen up, softies,{w}lemme give ya one bit of advice.\"{w}{p}\"More than obvious types like me,{w}it's the ordinary ones ya gotta watch out for.\"{w}{p}\"The ones puttin' on a good, harmless face,{w}they're the nastiest of the lot. Got it?{w}",
+  "kind": "msg",
+  "note": "Editorial pass: 'Instead of' implied 'don't watch out for me'; source is a comparison (yori)."
+ },
+ {
+  "en": "{0E}\"The ones puttin' on a good, harmless face,\nthey're the nastiest of the lot. Got it?{0F}\n...Do ya really get it, though?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honestly...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yo, softies!{w}Lately I gotta say, I've kinda lost my bite.{w}Maybe some softie's rubbed off on me.\"{w}",
+  "kind": "msg",
+  "note": "Doku-ke ga nukeru = lose one's venom/edge."
+ },
+ {
+  "en": "Arlotte",
+  "kind": "data",
+  "note": "New name (aruro-tte). Data row used as the speaker label."
+ },
+ {
+  "en": "\"The finest songstress on the highway,{w}may Arlotte sing a song for you?\"{w}",
+  "kind": "msg",
+  "note": "Kaidou zuiichi = best along the (trade) highway; Teridon sits on that road."
+ },
+ {
+  "en": "\"...No, I suppose I am no longer{w}the finest on the highway.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A singer ought not to pine for the past,\nbut...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Believe it or not, I was once called the finest on the highway,{w}and every day I sang surrounded\nby crowds of patrons.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But that is a tale from long ago.{w}The strength has left my voice,{w}and the notes that once came so easily...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We are living things, after all.{w}I always knew this day would come\nsooner or later...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A singer should speak only through song;{w}I know it is foolish to speak\nany other way, but...\"{w}{p}\"...Just once more...{w}with a soprano that rings out...!\"{w}{p}\"Just once more would be enough --{w}I want to sing...!{w}That is what I find myself thinking.\"{w}{p}\"...Forgive me.{w}",
+  "kind": "msg",
+  "note": "Source page 2 lacks its closing bracket; a closing quote is added in English. Codes unchanged."
+ },
+ {
+  "en": "{0E}\"...Forgive me.{0F}\nNow then, what shall I sing for you today?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Dear adventurers,{w}the other day, I heard from another patron...\"{w}{p}\"...that in the Giaf Dunes there is a bird\nwith a truly powerful cry.\"{w}{p}\"They say those birds\neat the fleshy fruit of a plant that grows in the desert{w}to keep their voices strong.\"{w}{p}\"That is what I was told.\"{w}",
+  "kind": "msg",
+  "note": "Giaf Dunes = GIAFU sakyuu; new name. | Editorial pass: 'flesh of a plant' unclear for kaniku (fruit flesh)."
+ },
+ {
+  "en": "\"Only if it is on your way.{w}Should you ever head to the Giaf Dunes...{w}might you bring back some of that plant for me?\"{w}{p}\"I am well aware how shameful it is for a singer{w}to ask such a favor of adventurers\nwho are among my own patrons...\"{w}{p}\"...If only I could sing in that voice{w}just once more, I thought.{w}...I humbly ask this of you.\"{w}",
+  "kind": "msg",
+  "note": "Okyakusama no hitori de aru boukensha = the party counts as one of the patrons. Page 2 clause order rearranged across its {w} for English word order; meaning unchanged. | Editorial pass: unified with the standalone copy, row 1360 (same source)."
+ },
+ {
+  "en": "\"...If only I could sing in that voice{w}just once more, I thought.{w}...I humbly ask this of you.\"{w}",
+  "kind": "msg",
+  "note": "Standalone copy of the last page of row 1359 (Arlotte asks the party to fetch the plant from the Giaf Dunes). | Editorial pass: unified with the last page of row 1359 (same source)."
+ },
+ {
+  "en": "\"Adventurers! Thank you so much!{w}So that is the fruit!!\"{w}{p}\"You have my heartfelt thanks!{w}If I eat this, that voice of mine will once again...\"{w}",
+  "kind": "msg",
+  "note": "Editorial pass: 'the fruit's flesh' awkward; matches row 1358."
+ },
+ {
+  "en": "\"......You went to all the trouble of picking it for me, but{w}I'm sorry.\"{w}{p}\"If I were to eat this,{w}it would mean denying{w}my entire life as a singer up to now.\"{w}{p}\"Every day I remembered the voice I used to have,{w}and longed to have that voice again...\"{w}{p}\"That is what I thought, but{w}holding this in my hands,\nI have realized my mistake.\"{w}",
+  "kind": "msg",
+  "note": "Branch: Arlotte declines to eat the fruit. Rows 1361 and 1362 are alternative reactions."
+ },
+ {
+  "en": "\"From now on, I will sing the songs\nthat only I can sing, as I am now --\nolder, with the years piled up.\"{w}{p}\"Adventurers,{w}thank you, truly!\"{w}",
+  "kind": "msg",
+  "note": "Editorial pass: the inserted dash clause buried the verb; same content."
+ },
+ {
+  "en": "\"Travelers of the highway,{w}if you are not in a hurry,\"{w}{p}\"please enjoy the voice of Arlotte,\nthe seasoned songstress!\"{w}",
+  "kind": "msg",
+  "note": "Kaidou = the highway (cf. row 1350 \"the finest songstress on the highway\"). Jukuren no utahime = \"seasoned songstress\": she embraces her age, matching row 1363."
+ },
+ {
+  "en": "\"Argh, I need more hands!{w}Why on earth is there so much...!{w}Hmm? You guys... you're adventurers, right?\"{w}{p}\"Perfect timing! Please!{w}Won't you help us keep the peace\nhere in Teridon!?\"{w}{p}\"By rights, the guards should be handling all of it,\nbut we just don't have the manpower.\"{w}{p}\"If shame could keep the peace,\nwe patrol guards wouldn't be needed at all.{w}Please, take this on.\"{w}{p}\"I'm Molder, Captain of the Guard.\nGlad to be working with you.\"{w}",
+  "kind": "msg",
+  "note": "Haji de chian ga mamoreru nara...: Molder means he is not too proud to ask outsiders for help; kept the \"shame\" image. Keibiheichou = Captain of the Guard. | Editorial pass: 'worrying about shame' was a gloss that blurred the line; back to the source image (haji de chian ga mamoreru nara). 'patrolmen' gendered; keirahei = patrol guards."
+ },
+ {
+  "en": "\"Here in Teridon, a town whose chief\nis Barjeff, the Evangelist of Love...\"{w}",
+  "kind": "msg",
+  "note": "Fragment leading into row 1367; trailing \"...\" added since the sentence continues there. Barjeff-shi rendered via his post (chief) to avoid a gendered \"Mr.\""
+ },
+ {
+  "en": "\"...and as head of this town's guard,\nmy creed is 'Non-Violence & Reform BY Dialogue'!\"{w}{p}\"No matter how vicious the criminal, as long as they've got a soul like ours,{w}a passionate heart and burning words\ncan always set them straight!\"{w}",
+  "kind": "msg",
+  "note": "The source writes the \"DE\" particle in capitals as a gag; mirrored with a capitalised \"BY\". \"...and\" joins on from row 1366. | Editorial pass: 'share the same kind of soul' unclear (onaji tamashii wo motsu mono)."
+ },
+ {
+  "en": "\"Violence is the last resort!{w}First, you hit them with a passionate heart!\"{w}{p}\"...That said, we're short on people.{w}Chief Barjeff, show the guard some love already!{w}",
+  "kind": "msg",
+  "note": "Source \"kudasatto~\" read as a garbled \"kudasai yo~\" (a plea for more support/funding). Row has no closing quote: it is cut off and repeated in row 1369."
+ },
+ {
+  "en": "{0E}\"...That said, we're short on people.\nChief Barjeff, show the guard some love already!{0F}\nDistrict Nine! Go! Run!\"{w}",
+  "kind": "msg",
+  "note": "Echo of the last page of row 1368, with its {w} turned into \\n as in the source. Molder breaks off to bark orders at his men."
+ },
+ {
+  "en": "\"Hey, has anyone gone out to District Two?{w}Hurry! Anyone will do! Go! Run!{w}Phew............hm?\"{w}{p}\"Oh, it's you guys.{w}Haha............as you can see, this is how things are.\"{w}{p}\"Too few people for way more cases than we can handle.{w}We get new recruits, but their training never gets anywhere.\"{w}{p}\"And me, I've got field duty, paperwork,\ncommanding, and negotiating with the higher-ups. Plus all the odd jobs and my own errands.{w}...I've got a private life too, y'know?\"{w}{p}\"Honestly, how many jobs am I juggling here, right?{w}..................But y'know what?\"{w}{p}\"If we're short-handed\nand I'm the only one who can do it, then I'll do it.{w}It's that simple.\"{w}{p}\"Besides,\nyou could say it just shows how lively this town is.{w}Which is exactly why I've got to protect it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa, here we go! What is it!? Zonette again!?{w}Take over here, I'll handle this one myself!{w}This time I'm gonna reform Zonette for sure!\"{w}{p}\"See you guys later!{w}Alllright, let's go!!\"{w}",
+  "kind": "msg",
+  "note": "Kaishin se(sa)te yaru: the object is left out; the call just named Zonette, so the name is restored (avoids a pronoun, gender not in glossary). Ties in with row 1344 (Zonette says they will only tease Molder from now on)."
+ },
+ {
+  "en": "\"I'm counting on you to handle that request.\"{w}",
+  "kind": "msg",
+  "note": "Editorial pass: unidiomatic 'counting on you with'."
+ },
+ {
+  "en": "Make sure you get that request done right, okay?{w}",
+  "kind": "msg",
+  "note": "No quote brackets in the source; kept without quotes."
+ },
+ {
+  "en": "\"You guys! Man, you've been a real lifesaver!{w}Thanks to you, things have gotten a lot less hectic.\"{w}{p}\"I know what I said the other day, but we were barely holding on...{w}We had mountains of problems, and it was rewarding,{w}but... when it goes on and on like that...\"{w}{p}\"You helped this town, and you helped me too.{w}I owe you guys one.{w}...Let me thank you again. Thank you.\"{w}{p}\"Next time, let's go grab a bite together.{w}Don't worry, I've got at least that much breathing room............{w}",
+  "kind": "msg",
+  "note": "Kono aida wa aa itta ga: refers to row 1370 (\"If I'm the only one who can do it, I'll do it\"). Last page has no closing quote: it is cut off and repeated in row 1375."
+ },
+ {
+  "en": "{0E}\"Next time, let's go grab a bite together.\nDon't worry, I've got at least that much breathing room............{0F}\nWhat!? Sorry, we'll finish this another time!\"{w}",
+  "kind": "msg",
+  "note": "Echo of the last page of row 1374 ({w} -> \\n as in the source)."
+ },
+ {
+  "en": "\"Let's goooo!!\"{w}",
+  "kind": "msg",
+  "note": "No speaker box; from context this is Molder running off (row 1375)."
+ },
+ {
+  "en": "\"Hey there, you guys really helped us out a lot.{w}Thanks to you, we can afford to take on more people\nand train them up.\"{w}{p}\"............Training on the job... that is.{w}Hahaha...\"{w}",
+  "kind": "msg",
+  "note": "Genba kyouiku = on-the-job training: wry joke that the \"training\" is just throwing recruits into the field."
+ },
+ {
+  "en": "\"You guys, did you get that request taken care of?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Request resolved?",
+  "kind": "data",
+  "note": "Prompt/menu text before a yes/no choice; kept short."
+ },
+ {
+  "en": "\"Well, I'm counting on you again.\"{w}",
+  "kind": "msg",
+  "note": "Reply after the player answers no."
+ },
+ {
+  "en": "\"Well done! Just what I'd expect!\nIf you're up for it, take the next one too, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Received 2000 GP.{w}",
+  "kind": "msg",
+  "note": "Same pattern as slice_03 row 239 (\"Received 5000 GP.\")."
+ },
+ {
+  "en": "\"Hmm... I won't say much, but...\nwell, I'm counting on you again.\"{w}",
+  "kind": "msg",
+  "note": "Apparently the reply when a request was cleared badly (no reward)."
+ },
+ {
+  "en": "\"That request's already been resolved, hasn't it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welcome, adventurers!{w}I am Chief Barjeff!{w}Now, a huuuuuuuug!!!\"{w}",
+  "kind": "msg",
+  "note": "Bargef/Barjeff (baajefu) romanized as Barjeff -- new name. Shuchou = chief (head of Teridon)."
+ },
+ {
+  "en": "You were hugged by Barjeff.{w}",
+  "kind": "msg",
+  "note": "Narration; passive keeps the party as the one hugged and avoids a pronoun for Barjeff (gender not in glossary)."
+ },
+ {
+  "en": "\"Love for your friends! Love for your neighbors! Love for neighboring nations!\nLove for all! Love shall save the whole wide world!\nAh, what a splendid thing love is!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Adventurers!{w}You must never... forget love, hmm?{w}Even toward those who oppose you... love.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you intend to make use of this town,\nthere is something important I must tell you.{w}It concerns this town's ordinance.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That ordinance is 'Love.'{w}In the end, it is love that will save the land.{w}I shall love you, and so you shall love me as well.\"{w}{p}\"That is this town's ordinance.{w}And there is one more thing.{w}This one is advice.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The simplest way to express love is the hug!{w}Skin-to-skin contact!{w}Come now, let us hug, you and I!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What? You were tricked?{w}Hahahaha, the one who falls for it is at fault too.{w}Now you're one bit wiser, aren't you?\"{w}",
+  "kind": "msg",
+  "note": "Context of the \"trick\" not shown in this slice (likely the party fell for the hug offer, or a later Teridon event). Translated literally."
+ },
+ {
+  "en": "\"Now listen, love even the wicked.{w}If your love gets through, even the wicked will love you back.{w}But you must not love the sin, hmm?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Once a matter is over, that is the end of it.{w}No matter who was involved, or how,\nlove them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"In the end, that is what will save the world.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A message from Chief Barjeff.{w}'Deliver this cargo to Empress Rianna\nat the Roscadil palace,' it says.\"{w}{p}\"It also said, 'As discreetly as you can.'{w}It's a rather bulky parcel, so it may be hard going,\nbut we're counting on you!\"{w}",
+  "kind": "msg",
+  "note": "Koutei Rianna-dono rendered \"the Sovereign, Rianna\" to stay gender-neutral: row 949 calls Rianna nyotei (empress), but the glossary lists gender unknown. Switch to \"Her Majesty the Empress\" if the glossary is updated. The parcel is Barjeff in hiding (slice_14 rows 1049-1056). | Accuracy pass: glossary now lists Rianna as female (Empress of Roscadil); koutei Rianna-dono -> \"Empress Rianna\". | Editorial pass: title unified as 'Queen Rianna' per orchestrator instruction (project-wide decision pending; source here is koutei, glossary position says Empress)."
+ },
+ {
+  "en": "[Key Item]\nObtained Contraband?{w}",
+  "kind": "msg",
+  "note": "Item name is \"mitsuyuhin?\" (Contraband?) with the question mark part of the name; no closing period so it does not read \"?.\". Check against the item table name."
+ },
+ {
+  "en": "\"We're counting on you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Feeling the love every day?{w}Next time I'm planning to ambush Rianna right out of bed --\nwhat do you think of that!\"{w}",
+  "kind": "msg",
+  "note": "After the parcel fiasco (slice_14 rows 1049-1066) Barjeff is undeterred. Neza'oki wo nerau = target the moment Rianna wakes up."
+ },
+ {
+  "en": "Dealer",
+  "kind": "data",
+  "note": "Speaker label."
+ },
+ {
+  "en": "\"Good day to you,\nand welcome to MILL.GP.\"{w}{p}\"My name is Linesman,\nand I have the honor of serving\nas your dealer.\"{w}{p}\"Our establishment chiefly offers\nblackjack for your enjoyment.\"{w}{p}\"Now then,\nplease take your time and enjoy yourselves.\"{w}",
+  "kind": "msg",
+  "note": "MILL.GP. kept as written (casino name, full-width Latin in source). Rainzuman romanized as Linesman -- new name."
+ },
+ {
+  "en": "\"Good day to you.{w}Thank you most kindly for honoring us\nwith your visit again today.\"{w}{p}\"All manner of guests visit our establishment,\nsome of them incognito.\"{w}{p}\"Therefore, should anything at all occur,\nhowever unlikely,\nplease inform us at once.\"{w}{p}\"We strive to ensure that every guest\ncan enjoy themselves with peace of mind.\"{w}{p}\"Now then,\nplease take your time and enjoy yourselves.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Good day to you.\nWe have been expecting you all.\"{w}{p}\"For drinks, please ask at the bar counter,\nor tell a dealer or any member of staff.\"{w}{p}\"If any of you are underage\nor do not care for alcohol,\nplease let us know.\"{w}{p}\"We have all manner of drinks,\nso we shall bring whatever you prefer right away.\"{w}{p}\"Now then,\nplease take your time and enjoy yourselves.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Nora",
+  "kind": "data",
+  "note": "Speaker label. Nooura romanized as Nora -- new name. Gender: row 1426 has Yuna say she is a girl."
+ },
+ {
+  "en": "Yuna",
+  "kind": "data",
+  "note": "Speaker label (glossary)."
+ },
+ {
+  "en": "\"What's up, debuu?\nI'm Nora, debuu.\"{w}",
+  "kind": "msg",
+  "note": "Verbal tic debu(u) (lit. \"fatty\") kept as a romanized sentence-ender: \"debu\" for debu, \"debuu\" for the long debuu. Achishi (cutesy first person) rendered plain \"I\"."
+ },
+ {
+  "en": "\"You're a customer, debuu?\nThen come this way, debuu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "??",
+  "kind": "name",
+  "note": "Unknown-speaker name box; the voice is Yuna (named in row 1411)."
+ },
+ {
+  "en": "\"Oh, welco......{w}",
+  "kind": "msg",
+  "note": "Cut off mid-word; repeated in row 1410."
+ },
+ {
+  "en": "{0E}\"Oh, welco......{0F}\n-- Nora!?{w}What are you wearing!?\"{w}",
+  "kind": "msg",
+  "note": "Echo of row 1409. Nante kakkou = \"what a state you're in\": Nora turns out to be wearing no underwear (row 1412)."
+ },
+ {
+  "en": "\"Debu?{w}Yuna, is something weird about me, debu?\"{w}",
+  "kind": "msg",
+  "note": "Yuna-chin (Nora's cutesy nickname) rendered plain \"Yuna\"; honorific/nickname suffixes are dropped elsewhere in the project."
+ },
+ {
+  "en": "\"Oh, for crying out loud! I'm so sorry, customer!{w}Just for a moment!{w}Sorry, but could you please step outside!\"{w}{p}\"...You have to at least wear panties, okay?\"{w}",
+  "kind": "msg",
+  "note": "First page is to the customer (party), second page to Nora."
+ },
+ {
+  "en": "\"I don't mind, debu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, come ON!\"{w}",
+  "kind": "msg",
+  "note": "Moo~tsu! (exasperated); rendered \"Oh, come ON!\""
+ },
+ {
+  "en": "\"Okaaay, rinsing you off with hot water, debuu.{w}Sploooooooooosh!{w}I can do my own shower, debuu!\"{w}{p}\"Customer, is there anything you want me to do, debu?{w}My nose can do anything, debuu!\"{w}",
+  "kind": "msg",
+  "note": "Nora showers the customer with her own nose (a trunk, apparently). Kept \"nose\" as in the source."
+ },
+ {
+  "en": "\"Noraaa?{w}",
+  "kind": "msg",
+  "note": "Cut off; repeated in row 1417."
+ },
+ {
+  "en": "{0E}\"Noraaa?{0F}\nHow's our customer doing... Aaaaaaah!\nAaaaaaah--!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yuna, you're funny, debu!{w}Oh, the basket's gonna fall, debu?{w}I'll hold it up for you, debuu!\"{w}",
+  "kind": "msg",
+  "note": "Kago = basket (literal). Possibly a bath basket Yuna is carrying while she panics."
+ },
+ {
+  "en": "\"Customer, look the other way! ...Please!{w}Your apron's all flipped up, I'm telling you! Geez!\"{w}",
+  "kind": "msg",
+  "note": "First sentence to the customer; second to Nora (Nora is wearing an apron and no underwear). \"Your\" kept without a name since the source has none; the scene makes it Nora's."
+ },
+ {
+  "en": "\"How's this ribbon, debuu?{w}I just bought it, debuu!{w}It's cute, debuu!\"{w}{p}\"When I make myself cute,\nthe customers praise me lots, debuu.\"{w}{p}\"Uncle Barjeff\ngives me pocket money too, debuu{w}I get pocket money and dress up all nice, debuu!\"{w}",
+  "kind": "msg",
+  "note": "Baajefu ojichan = \"Uncle Barjeff\" (affectionate, not a relative). No sentence end before the third {w} in the source either."
+ },
+ {
+  "en": "\"...Noraaa?{w}Doesn't putting on panties\ncount as dressing up?\"{w}{p}\"I'd really like to see you in panties, Nora.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yuna doesn't give me pocket money, debu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's not the point!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Like I keep telling you, Noraaa!\nPanties!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Geez, Yuna, you worry way too much\nabout every little thing, debu?{w}Just take it easy, debuu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Sigh.{w}Customer, please say something to her too.\"{w}{p}\"She's a girl, you know?{w}This just won't do...\"{w}{p}\"Hmm... customer,{w}would you happen to know anywhere that makes\npanties Nora could wear?\"{w}{p}\"We'll pay for them,\nso if it's not too much trouble, could you bring some here?\"{w}{p}\"...Before dressing up,{w}she needs to put on panties first...\"{w}",
+  "kind": "msg",
+  "note": "\"her\"/\"she\" for Nora: Yuna states in this row that Nora is a girl (onna no ko). Starts the panties fetch-quest."
+ },
+ {
+  "en": "\"I'm fine without panties, debu?{w}Why do you worry about it so much, Yuna, debu?{w}You should take your panties off too, Yuna, debuu!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa, they're huge... these are panties...?{w}But something this big\nshould fit even Nora!\"{w}{p}\"Noraaa!\"{w}",
+  "kind": "msg",
+  "note": "The party hands over the panties they found."
+ },
+ {
+  "en": "\"What is it, debu?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nora,{w}panties! P-A-N-T-I-E-S!\"{w}",
+  "kind": "msg",
+  "note": "Pa-n-tsu spelled out syllable by syllable; rendered as spelling out the word."
+ },
+ {
+  "en": "\"...They're not very cute, debuu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll make them cute for you one of these days,{w}so come on, let's put them on, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Yep, they suit you, they suit you!{w}You look adorable!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Debuu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, Nora!\nWait, stop a sec!{w}I hear a nasty sound...... Ahh!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "RRRIP-RIP-RIP-RIP!{w}",
+  "kind": "msg",
+  "note": "Sound effect (biribiri = tearing cloth)."
+ },
+ {
+  "en": "\"...They ripped, debu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aww, no! Hmm,{w}I guess even these were too small...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's better with no panties at all, debuu!{w}I don't mind, debuu!\"{w}{p}\"If you don't wear any either, Yuna,\nyou won't mind either, debuu!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, Nora!{w}No, no, you can't do that!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eeeeeeeeeek!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The customer came back again, debuu!\nToday let's try scrubbing each other, debuu!\"{w}",
+  "kind": "msg",
+  "note": "Nora's verbal tic debu(u) kept as a sentence-final 'debuu' (debu = 'chubby'; Nora is an elephant-person per MON_TEXT 355). Align with slice_18, which has most of Nora's lines."
+ },
+ {
+  "en": "\"Welcome.{w}I'm Yuna, and I'll be looking after you.{w}Please take your time and relax.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welcome. Take your time and relax...{w}",
+  "kind": "msg",
+  "note": "Unclosed quote kept: line is interrupted and replayed inside {0E}..{0F} in row 1445."
+ },
+ {
+  "en": "{0E}\"Welcome. Take your time and relax...{0F}\nOh? You've come back again?{w}Thank you so much for your patronage.\"{w}{p}\"You must be worn out from all that adventuring, aren't you?{w}Please let your bodies heal to your hearts' content.\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} text repeats row 1444 verbatim. | Editorial pass: 'as much as you like' awkward for zonbun ni."
+ },
+ {
+  "en": "\"Oh? Hello there!\nThanks for coming by, as always!{w}Hehe, I guess I'll have to give you some special service, won't I?\"{w}",
+  "kind": "msg",
+  "note": "saabisu kept as 'service' throughout this scene: the innuendo is the joke, and the payoff (row 1457) is a fizzy bath."
+ },
+ {
+  "en": "\"...Oh, huh?{w}Oh dear... Ah, no... It's not really something I should be telling a customer, but...\"{w}{p}\"We've run out of Stonemelt Water...{w}This is a secret... Just between us, okay?{w}Stonemelt Water has another use, you know.\"{w}",
+  "kind": "msg",
+  "note": "kaisekisui (item that cures petrification, ITEM_HELP 290) -> 'Stonemelt Water' (new term; must match the item-name table once that is translated)."
+ },
+ {
+  "en": "\"If you boil down ten of them and concentrate it,\nyou can use it in a slightly unusual way.{w}What way, you ask? That's a secret.\"{w}{p}\"But...\nI bet you'll be surprised.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You've been such loyal customers,\nso I was thinking of giving you some special service...{w}Oh dear... That stuff is expensive, though...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh dear...\nWithout ten Stonemelt Waters, I can't give you\nthe special service...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But that stuff is so expensive...\nOh dear...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, it's you! Hello!{w}What brings you here tod... Is that Stonemelt Water?\"{w}",
+  "kind": "msg",
+  "note": "Interrupted word kept ('tod...')."
+ },
+ {
+  "en": "\"Huh? Are you sure?{w}Thank you so much!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh... But it's not quite enough.{w}I need ten altogether...\"{w}{p}\"Hmm,\nand after you went to the trouble of bringing it, too...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, it's you! Hello!{w}What brings you here tod... Is that Stonemelt Water?\"{w}{p}\"Huh? Are you sure?{w}",
+  "kind": "msg",
+  "note": "Final quote left open like the source; it continues in the {0E}..{0F} replay of row 1456. Wording matches rows 1452/1453."
+ },
+ {
+  "en": "{0E}\"Huh? Are you sure?{0F}\nThank you so much!\"{w}{p}\"Thanks to you, everything's ready.{w}Just wait a moment...\nHup!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There, all done!\"{w}{p}\"Not many people know this, but{w}it scrubs off the grime really well and loosens up your body, too!\"{w}{p}\"And even when you're not petrified,\nit goes fizz-fizz-fizzzz!!\"{w}",
+  "kind": "msg",
+  "note": "Sentence cut at the source's {w} ('...know this, but' / 'it scrubs...'). Shuwashuwa = 'fizz-fizz-fizzzz' (the item text says it fizzes as it un-petrifies)."
+ },
+ {
+  "en": "\"...Is something wrong?{w}",
+  "kind": "msg",
+  "note": "Unclosed quote kept: replayed in row 1459."
+ },
+ {
+  "en": "{0E}\"...Is something wrong?{0F}\nHehe, what funny customers you are!\"{w}{p}\"Now then, I'm going to give you\na whooole lot of service!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, everyone!\nWelcome!{w}How have you been?\"{w}{p}\"If you're ever tired,\nI'll give you some special service anytime.\"{w}",
+  "kind": "msg",
+  "note": "Editorial pass: 'Whenever ... anytime' redundant."
+ },
+ {
+  "en": "Man",
+  "kind": "name"
+ },
+ {
+  "en": "\"Well, now...{w}Have you finished your business?\"{w}",
+  "kind": "msg",
+  "note": "Kore wa... = mild surprise as the hooded woman returns with the party; spoken to her (she answers in 1464)."
+ },
+ {
+  "en": "Hooded Woman",
+  "kind": "name",
+  "note": "Name box (4 dupes); she is revealed as Hisbert in 1473."
+ },
+ {
+  "en": "\"Aznand. Thanks for minding the place while I was out.\"{w}",
+  "kind": "msg",
+  "note": "New name: Aznand (aznando). Male per narration 1469 (otoko)."
+ },
+ {
+  "en": "Aznand",
+  "kind": "name"
+ },
+ {
+  "en": "\"Not at all. This much is no trouble.{w}It's part of my duties, after all.\"{w}{p}\"But what is it this time?\nOne thing after another.\"{w}{p}\"Well, it's no concern of mine,\nso I suppose I don't mind.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Fufu.\nI'd never make trouble for you. I adore you far too much.\"{w}",
+  "kind": "msg",
+  "note": "daisuki na anata = teasing affection; rendered as teasing, not romance."
+ },
+ {
+  "en": "\"I should hope not.{w}Now, I'll be getting back to my own work.\"{w}{p}\"Please, I beg you, spare me any more headaches.\"{w}",
+  "kind": "msg",
+  "note": "Atarimae desu (answering 'I won't trouble you') -> 'I should hope not.'"
+ },
+ {
+  "en": "With that, the man called Aznand left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I do know, Aznand. Or at least, I think I do.\"{w}",
+  "kind": "msg",
+  "note": "wakatte iru tsumori = she believes she understands (hedged)."
+ },
+ {
+  "en": "\"Phew, sorry about that.{w}At last I can change back into my real clothes.\"{w}{p}\"Sorry. Just wait a moment, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When she took off her hood and her coat, the change in her whole presence was unmistakable.{w}",
+  "kind": "msg",
+  "note": "kanojo (she) is in the source, so 'she/her' for Hisbert here is from the text, not assumed. | Editorial pass: 'whole ... completely' redundant; restores akiraka ni (clearly)."
+ },
+ {
+  "en": "Hisbert",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh, that's right, I haven't introduced myself yet.{w}My name is Hisbert.\"{w}{p}\"I'm the librarian of this Elminage System.{w}It's nice to meet you, properly this time.\"{w}",
+  "kind": "msg",
+  "note": "Elminage kikou -> 'Elminage System' and shisho -> lowercase 'librarian', matching slice_20 (rows 1521, 1526)."
+ },
+ {
+  "en": "When you entered Elminage, you heard someone talking.{w}",
+  "kind": "msg",
+  "note": "Scene change: a later visit to Elminage."
+ },
+ {
+  "en": "Spectoria",
+  "kind": "name",
+  "note": "New name: Spectoria (supekutoria); 'Executor of the Divine Realm' per chap slice_022. Gender unknown: no pronouns used."
+ },
+ {
+  "en": "\"Hisbert... I trust you are prepared.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You have overstepped your authority time and again.{w}The divine will is no longer with you.\"{w}",
+  "kind": "msg",
+  "note": "Source opens with a noun fragment (repeated overreach); made a full sentence."
+ },
+ {
+  "en": "\"I know.{w}What I did can never be forgiven.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then that will do.{w}Let us go, Hisbert.\"{w}",
+  "kind": "msg",
+  "note": "Editorial pass: 'that is well' unidiomatic."
+ },
+ {
+  "en": "Mysterious Man",
+  "kind": "name",
+  "note": "Name box; he names himself Hevayur in 1486."
+ },
+ {
+  "en": "\"Heh heh heh... Look at the state of you, Hisbert.\"{w}{p}\"Don't worry about what comes after.{w}The Elminage System will carry on just as it always has, even without you.\"{w}",
+  "kind": "msg",
+  "note": "ii zama = gloating; kept the sneer."
+ },
+ {
+  "en": "Before your very eyes, Hisbert was about to be taken away by Spectoria.{w}{p}Perhaps you yourselves bear part of the blame.{w}Just then, the mysterious man blocked your path.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh heh heh... Oh, I've heard all about it.\"{w}{p}\"What could lowly commoners like you possibly do?\"{w}{p}\"Don't imagine for a moment that you have any say in the affairs of Elminage.\"{w}",
+  "kind": "msg",
+  "note": "hanashi wa kiite imasu = he has heard about the matter (the party's involvement); 'heard all about it' keeps that open."
+ },
+ {
+  "en": "Hevayur",
+  "kind": "name",
+  "note": "Matches slice_20. Speaker spelled with hiragana he in this file; same character."
+ },
+ {
+  "en": "\"Ah, forgive me for introducing myself so late.\nI am Hevayur.\"{w}{p}\"A being far beyond the reach of the likes of you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hevayur stood in your way.\nHis hand on his sword, he already seemed ready to fight.{w}",
+  "kind": "msg",
+  "note": "kare (he) in source."
+ },
+ {
+  "en": "\"This is a fine opportunity.{w}For a lower race like yours to fancy yourselves librarians is beyond a joke.\"{w}{p}\"I will remove you myself. Know your place.\"{w}",
+  "kind": "msg",
+  "note": "raiburarian (katakana) -> 'librarians', same as shisho; Hevayur is mocking the party for acting as Hisbert's helpers."
+ },
+ {
+  "en": "\"Ngh...\nDefeating me changes nothing.\"{w}{p}\"Hisbert must be judged.\nYou lot can stand there and watch, helpless.\"{w}",
+  "kind": "msg",
+  "note": "After the battle. Hevayur drops to omae-tachi here (ruder), hence 'You lot'. yubi wo kuwaete = watch powerless."
+ },
+ {
+  "en": "\"Thank you. But that's enough now.\"{w}{p}\"Your Excellency Spectoria.\nI'm sorry for all the trouble.{w}I will present myself before the court of the Divine Realm.\"{w}",
+  "kind": "msg",
+  "note": "Thank-you is to the party (they fought Hevayur for her). Spectoria-sama -> 'Your Excellency' (gender-neutral). shin'iki -> 'Divine Realm'; shuttei = appear in court."
+ },
+ {
+  "en": "\"Very well.{w}A motion of no confidence against you is about to be submitted by Void.\"{w}{p}\"You know this already, but this time no one will take your side.{w}It will most likely pass.\"{w}{p}\"You understand the librarian's final duty, do you not?\"{w}",
+  "kind": "msg",
+  "note": "Source never closes the first quote before {p}; closed it in English. Boido-sama -> 'Lord Void' to match slice_20 row 1523 (see report: 'Lord' is a title choice, gender not stated). Spectoria switches to omae here: colder register."
+ },
+ {
+  "en": "\"Yes. In choosing the next librarian, the librarian's authority lets me cast one vote,\nequal to that of each of the Six Gods of Creation. Correct?\"{w}",
+  "kind": "msg",
+  "note": "sousei rokushin -> 'the Six Gods of Creation' (same term as slice_16 row 1225)."
+ },
+ {
+  "en": "\"Give some thought to whom you will recommend as the next librarian.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I've already made up my mind about that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You intend to vote for Aznand to tie the count,\nthen pick up Zoni's votes in the runoff and make Aznand librarian. Am I right?\"{w}{p}\"Now, I wonder if that will go as planned?\"{w}",
+  "kind": "msg",
+  "note": "New name: Zoni (zoni), a third candidate. Vote mechanics per MON_TEXT 331: final count Aznand 2, Hevayur 4, Zoni 1, no runoff."
+ },
+ {
+  "en": "\"With the Phase Shift drawing near, the Divine Realm too must turn to the creation of the Eld.\"{w}{p}\"And neither Rogera nor Dehain is here, after all.\nEven if it did go to Aznand,\nheh heh heh...\"{w}",
+  "kind": "msg",
+  "note": "New terms: isou tenkan -> 'Phase Shift'; Erudo -> 'the Eld' (unexplained concept; MON_TEXT says Hevayur's race seeks it). New names: Rogera, Dehain (Dehain is the god of existence, slice_16). 'Lord' as for Void."
+ },
+ {
+  "en": "\"Bzzzt! Wrooong!\"{w}",
+  "kind": "msg",
+  "note": "Buppuu, chigaimaasu = playful quiz-show 'wrong answer'."
+ },
+ {
+  "en": "\"Ha ha. Then is it Zoni?\nThat would only split the vote.{w}How absurd.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My vote...{w}Hevayur.{w}I intend to entrust it to you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wha...!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're clever. So I'm sure you...\"{w}",
+  "kind": "msg",
+  "note": "Deliberate trail-off kept."
+ },
+ {
+  "en": "\"...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Your Excellency, you mustn't listen to her!\nI have no connection whatsoever with Hisbert...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I understand.\nIt is because librarians like this one keep appearing that Void recommends you.\"{w}{p}\"The farce that began with Sabra ends with Hisbert.\"{w}{p}\"Elminage will return to its true form, quietly recording history, on and on.{w}That is the decision of the Divine Realm.\"{w}",
+  "kind": "msg",
+  "note": "New name: Sabra (sabura), apparently an earlier librarian who started the 'farce'; not stated outright. Hisbert no dai = in Hisbert's tenure."
+ },
+ {
+  "en": "Just then, with a violent crash, a woman appeared.{w}{p}She was clad in red robes like blazing crimson flames.\nA powerful force, almost like rage, filled the air around her.{w}",
+  "kind": "msg",
+  "note": "hitori no josei / kanojo in source."
+ },
+ {
+  "en": "\"...Hilde...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hilde",
+  "kind": "name",
+  "note": "New name: Hilde (hirude). Female per 1505 narration."
+ },
+ {
+  "en": "\"Hisbert!\nWhat on earth is going on?\"{w}{p}\"I got worried and came to see you, and what is all this?\"{w}{p}\"You promised you'd build a new justice together with me!!\"{w}",
+  "kind": "msg",
+  "note": "Stray full-width space before the second {w} in the source dropped (ASCII only)."
+ },
+ {
+  "en": "As the woman called Hilde screamed these words, the area was engulfed in raging flames.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'm so...rry{w}This is as far as I could go...{w}I'm so sorry...\"{w}",
+  "kind": "msg",
+  "note": "Broken-off gomen...n kept as a broken word."
+ },
+ {
+  "en": "\"I don't believe it... I refuse to believe it!\nThe words you said back then... were they all lies!?\"{w}{p}\"Are you saying I was only being used... by Elminage... by you!?\"{w}{p}\"What about me...{w}my heart...{w}my resolve? What becomes of them?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The flames grew fiercer, as if answering Hilde's cries.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I was torn for such a long time, but thanks to Makakuri, Ruu and these kids helping me,\nI finally made up my mind.\"{w}{p}\"My mind to make him librarian.\"{w}",
+  "kind": "msg",
+  "note": "New names: Makakuri, Ruu (listed together with Hilde in MONRAW 683; no gender info). kono ko-tachi = the party. 'him' = Hevayur (kare). | Editorial pass: Hisbert's ano ko-tachi / kono ko-tachi for the party unified as 'kids' (row 1535)."
+ },
+ {
+  "en": "\"You... You've lost your mind...\"{w}{p}\"The meaning of everything you've done...\nwhat becomes of that?\"{w}{p}\"You... You won't come out of this unharmed...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you for worrying about me, Hilde.\"{w}{p}\"I'll be fine. Besides,\nhe's very capable. Probably more than I am...\"{w}{p}\"Fufu. No one sane could ever do a librarian's job.\nBrace yourself, Hevayur.\"{w}",
+  "kind": "msg",
+  "note": "'No one sane' answers Hilde's shouki ja nai (1514). Fufu matches slice_20 row 1531."
+ },
+ {
+  "en": "\"Very well.{w}Recommend me, if you dare.{w}I promise you, I'll make you regret it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Hisbert, what are you thinking?\"{w}",
+  "kind": "msg",
+  "note": "Kept 'thinking' so Hisbert's reply ('the thinking is for everyone here') lands."
+ },
+ {
+  "en": "\"Nothing.\"{w}{p}\"The thinking is up to everyone here.\"{w}{p}\"Thank you, all of you, too.\nFor going along with my selfishness.\"{w}{p}\"Maybe what I did was wrong.\nBut you know what?{w}I don't regret it...\"{w}{p}\"There's no answer anywhere yet.{w}Maybe you could...\"{w}{p}\"No. You'll find it, I know you will.{w}I believe in you.\"{w}",
+  "kind": "msg",
+  "note": "anata-tachi mo arigatou = to the party. Trail-off 'Maybe you could...' kept before she corrects herself."
+ },
+ {
+  "en": "With that, Hisbert, together with Spectoria,{$09} vanished into the light.{w}{p}You might never see her again.{w}Thinking that, you kept watching the light as it faded, for a long, long time.{w}",
+  "kind": "msg",
+  "note": "{$09} kept at the same point (before 'into the light'); unknown code, possibly a pause or effect. | Editorial pass: 'With that' repeated from the first page."
+ },
+ {
+  "en": "\"I have nothing to discuss with you people.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Elminage is the place that remembers every event that has ever happened in the worlds the gods brought into being.\"{w}{p}\"I'm sure this sounds far-fetched to you, but there are many other realms and lands besides Rainal Manoza.\"{w}{p}\"My role is to keep Elminage's information in order.\"{w}{p}\"So much information washes up here... Even while I'm looking at you, right here in front of me, and listening to what you say,\"{w}{p}\"one of my eyes and one of my ears keeps taking in an endless stream of facts. Even now, right here, in this very place.\"{w}{p}\"From every war ever fought in those realms to the first person you ever fell in love with...\"{w}{p}\"All of it is recorded in Elminage, and all of it converges here.\"{w}{p}\"Ufufu, did I surprise you? But don't worry. I'm only an onlooker.\"{w}{p}\"The System allows no interference with the physical world. That is the law of Elminage.\"{w}{p}\"Whatever calamity or tragedy happens, all I can do is watch... that's all.\"{w}{p}\"But... I'm sorry. It's nothing.\"{w}{p}\"Instead, even if the gods forsake you, I will never take my eyes off you.\"{w}{p}\"I'll always be watching over you, okay?\"{w}{p}\"Now then, shall we go on talking? There's lots you want to ask, isn't there?\"{w}",
+  "kind": "msg",
+  "note": "Hisbert explaining Elminage. Rainal Manoza = new name ([JP]), the party's world. [JP] = \"the System\" (cf. row 1482 [JP], Elminage System). Trailing ……[JP] kept as a hesitant \"...that's all.\" | Editorial pass: 'unthinkable' is the wrong nuance for tohou mo nai (staggering, far-fetched)."
+ },
+ {
+  "en": "\"A great being.{w}But not one I could call your ally.\"{w}{p}\"You are permitted to exist because of 'a certain one's remorse.'\"{w}{p}\"I can't tell you any more than that. I'm sorry.\"{w}",
+  "kind": "msg",
+  "note": "Answer to a menu topic not in this slice; the [JP] is unidentified, so no pronoun/gender. [JP] rendered as a quoted phrase."
+ },
+ {
+  "en": "\"The Kin of Darkness...{w}What exactly makes someone Kin of Darkness is hard to say, but\"{w}{p}\"they are those born into darkness and destined for destruction.\"{w}{p}\"Whenever the gods bring a new world into being, they come with all their might to conquer it.\"{w}{p}\"You must have seen plenty of crises besides the business with the Palace of the Sun, haven't you?\"{w}{p}\"Stay on your guard.{w}Let it slip, and Void's hounds will devour your land down to the last scrap.\"{w}{p}\"...Though I believe you'll surely overcome them.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = \"kin of darkness\" (new term). [JP] = \"Lord Void\" (new name; [JP] honorific as Lord, gender not implied by text). [JP] read as \"destined for destruction\" (doomed to destroy / be destroyed is ambiguous; this keeps both)."
+ },
+ {
+  "en": "\"It's an old land, steeped in history.\"{w}{p}\"The gods had high hopes for that land, but it ended up being declared a wasteland.\"{w}{p}\"Because of that, the land was supposed to fall under the rule of the Kin of Darkness, but...\"{w}{p}\"the people living in Rainal Manoza worked together and took action, and thanks to them, the light was restored to the land.\"{w}{p}\"Even so, for some reason the light is still unstable.\nI wonder why that is.\"{w}",
+  "kind": "msg",
+  "note": "Topic is probably Rainal Manoza itself (menu not in slice). [JP] = \"declared a wasteland\" -- may be a lore term; flag for glossary. | Editorial pass: 'thanks to the people ... they managed' had a dangling subject."
+ },
+ {
+  "en": "\"I'm sorry.\nThat's something I can't tell you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Beyond this door, you see...{w}there is a land where the next generation...{w}the Fourth Generation lives.\"{w}{p}\"Oh, I know!{w}How would you like to put your skills to the test?\"{w}{p}\"Lately the forces of the Dark Realm have been growing in the land beyond here.{w}It's the perfect place to test what you can do.\"{w}{p}\"I'm only Elminage's librarian, after all.{w}I have no need for that myself.\"{w}{p}\"You'd be helping people too, so it's two birds with one stone!{w}You're the ones who saved that land, after all.\nI think you can do it.\"{w}{p}\"And I'm sure it will help that Sun Spirit, too.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = \"the Dark Realm\" (new term). [JP] = \"the Fourth Generation\" (meta nod to the next title?). The \"I have no need for that\" line seems to answer an unseen question (why not go yourself?); kept literal."
+ },
+ {
+  "en": "\"Cute. Very cute indeed.\"{w}",
+  "kind": "msg",
+  "note": "Answer to an unseen menu topic; the thing called cute is unknown, so subject left out deliberately."
+ },
+ {
+  "en": "\"Who knows?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hevayur",
+  "kind": "name",
+  "note": "New name: [JP] romanized Hevayur (male: called [JP] in row 1513/1515 context)."
+ },
+ {
+  "en": "\"So you're going.{w}Go and see with your own eyes what lies there.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This? This door?{w}Oh my, are you curious about it? Fufu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's this? You let adventurers through to the back?\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? (unknown, gender-neutral throughout)."
+ },
+ {
+  "en": "\"Oh, welcome. My dear wicked mage.\"{w}",
+  "kind": "msg",
+  "note": "[JP]: playful epithet; [JP] = Mage per glossary. \"My dear\" carries the teasing [JP] without assigning gender."
+ },
+ {
+  "en": "\"Why let them through?{w}That place is Ryug's land, is it not?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Ryug (new name, unknown type)."
+ },
+ {
+  "en": "\"I thought I'd leave this one to those kids.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = the party."
+ },
+ {
+  "en": "\"Hoh. Then I'll make use of that myself.{w}Not that there's any guarantee it'll go well.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Contrary as ever, aren't you,{w}my wicked mage?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmph.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you do your part and come through all right,\nI'll give you a pat on the head!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Idiot.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I have nothing to say to you.\"{w}",
+  "kind": "msg",
+  "note": "Source has no closing quote bracket; closed in English. Note Hevayur uses casual [JP] here vs polite [JP] in 1520."
+ },
+ {
+  "en": "Hevayur appeared to have been checking the bookshelves.{w}{p}At your feet lay a single old, worn book.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wait just a moment, okay?\"{w}",
+  "kind": "msg",
+  "note": "Source has no closing quote bracket; closed in English."
+ },
+ {
+  "en": "Hisbert appeared to have been tidying the bookshelves.{w}{p}At your feet lay a single old, worn book.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Pick it up?",
+  "kind": "data"
+ },
+ {
+  "en": "\"If you have no business here, get out!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry to keep you waiting.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You wretches!\nDon't touch that!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: hostile; \"wretches\" keeps the force."
+ },
+ {
+  "en": "\"Ah! No! Not that book!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you picked up the book, darkness swallowed everything.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "In the darkness, someone whispered.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is it?{w}You feel like we've met somewhere before?{w}Hmm, who knows? Ufufu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Maybe we had some connection,\nonce upon a time.\"{w}{p}\"Oh, I know. Since you're here,\nI'll give you this as a keepsake.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This wand is something special.{w}I'm sure it will help you feel that your journey wasn't for nothing.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is a reward for all your hard work.\nYou did so well to make it this far.{w}Here, take it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh dear.\nYou really should keep your things in order.{w}I'll leave it here, so come back for it later.\"{w}",
+  "kind": "msg",
+  "note": "Inventory-full message."
+ },
+ {
+  "en": "Raise the rare item drop rate?",
+  "kind": "data",
+  "note": "Menu prompt, 30 chars."
+ },
+ {
+  "en": "{0E}\n          *  Rare item drop rate increased  *{0F}{w}",
+  "kind": "msg",
+  "note": "Boxed notice; layout follows slice_07/10 pattern."
+ },
+ {
+  "en": "{0E}\n       *  Rare item drop rate greatly increased  *{0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*        Enemies have grown stronger.        *\n*   To return them to their normal strength,   *\n*      offer a prayer at the temple.      *{0F}{w}",
+  "kind": "msg",
+  "note": "Three-line box kept as three lines."
+ },
+ {
+  "en": "{0E}*   Carrying over the map will not count as   *\n*   full exploration, but you will be able to   *\n*    see the terrain of the parts you mapped.    *{0F}{w}",
+  "kind": "msg",
+  "note": "[JP] = counted as fully explored."
+ },
+ {
+  "en": "Carry over the map?",
+  "kind": "data"
+ },
+ {
+  "en": "\"How foolish, repeating the same thing over again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What will you do?\"",
+  "kind": "data"
+ },
+ {
+  "en": "\"If you have no business here, kindly disappear.\"{w}",
+  "kind": "msg",
+  "note": "Polite-but-scornful [JP] register kept with \"kindly\"."
+ },
+ {
+  "en": "\"Kindly be quick about it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"These are your memories.{w}Everything you have experienced is written here.\"{w}{p}\"If you wish, you can retrace these memories once more.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Retrace these memories?\"",
+  "kind": "data"
+ },
+ {
+  "en": "\"I see. That's fine, either way.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right.{w}Then off you go,\ninto your own memories.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you are finished here, kindly disappear at once.\"{w}",
+  "kind": "msg",
+  "note": "Source has no closing quote bracket; closed in English."
+ },
+ {
+  "en": "\"There, good work.{w}How was it? Did you get anything out of it?\"{w}",
+  "kind": "msg"
+ }
+]

@@ -1,0 +1,346 @@
+[
+ {
+  "en": "\"A corpse... hmm.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I want it... 'that.'{w}I don't need your heart, so just hand your body over to me.\"{w}{p}\"Just like this one here,\nI'll love you properly until you've rotted away completely.{w}Hee hee hee!\"{w}",
+  "kind": "msg",
+  "note": "\"this one\" (kono ko): a corpse Necrophilis keeps with her; kept neutral. \"that\" = Emera's body, seen as a corpse."
+ },
+ {
+  "en": "\"A kind invitation, but I have work to do.\"{w}{p}\"I can't live up to your expectations,\nso be good and go home quietly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A mere corpse, talking back to me?{w}Fine, I'll reap it for you.{w}That pointless leftover scrap of a personality... like THIS!!\"{w}",
+  "kind": "msg",
+  "note": "Sentence is cut across {w}: the object of \"reap\" arrives after the pause, as in the source; \"like THIS!!\" = the attack (sa!!)."
+ },
+ {
+  "en": "Emera's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"My, my. What a wild little thing.{w}You've ruined my favorite tea set.\"{w}",
+  "kind": "msg",
+  "note": "otenba is normally said of girls; \"wild little thing\" avoids assigning a gender."
+ },
+ {
+  "en": "\"Wh-what...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Where do you think you're looking?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Where'd you go!?\"{w}",
+  "kind": "msg",
+  "note": "Shouted at Emera; \"you\" avoids a pronoun."
+ },
+ {
+  "en": "\"Come now, not that way. Hehe.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Damn it!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Where are you!? Come on out!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Let me see.{w}It'd be a bother if you thrashed around too much...{w}All right, just hold still like that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? ...Agh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There. Caught you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh n-no...! Ngh!!\"{w}",
+  "kind": "msg",
+  "note": "shima(tta) cut off: rendered as a cut-off \"Oh no\"."
+ },
+ {
+  "en": "\"Look at the sky. What a splendid full moon.{w}...Even for one of the Kin of Darkness,\nisn't your timing awfully poor? You silly thing.\"{w}",
+  "kind": "msg",
+  "note": "yami no kenzoku = \"kin of darkness\". obaka-san as \"you silly thing\" (no gendered \"girl\")."
+ },
+ {
+  "en": "\"Dam... mit...!!{w}Let go!! Let go of me!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nooope. Why would I ever let go?{w}Such adorable prey...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll savor you... nice and slow.{w}Our night is only beginning.\nThere's so much I want to ask you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ha... haha!{w}Y-you think I'll just answer you nicely?{w}You must really take me for a pushover!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, that's fine. You needn't force yourself to talk.\"{w}{p}\"I'm a Soul Therapist, after all.{w}I can probe your heart, or else...\"{w}",
+  "kind": "msg",
+  "note": "New term: Soul Therapist / Soul Therapy (soruserapisuto). Sentence continues in 583 after the interruption in 582."
+ },
+ {
+  "en": "\"Wh-what are you... huh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I can ask your body instead.\"{w}",
+  "kind": "msg",
+  "note": "Completes 581 (\"or else...\")."
+ },
+ {
+  "en": "\"Where are you touching... n-no...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Personally, I prefer this method, though.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're some kind of pervert, aren't you!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, now. A lady mustn't use such vulgar words.\"{w}{p}\"More importantly, look.{w}Your very favorite thing... a corpse's fingers.{w}How about it? Are they to your liking?\"{w}",
+  "kind": "msg",
+  "note": "\"lady\" (redii) is in the source."
+ },
+ {
+  "en": "\"Wait, hold o...! Don't you dare...{w}Let go! Get off me!! You...\"{w}",
+  "kind": "msg",
+  "note": "fuzake(ru na) cut off; final \"kono...\" left trailing."
+ },
+ {
+  "en": "\"Eek!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...If you don't want to die,\nyou'll answer my questions.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah... ngh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uuh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hehe, there's a good child.{w}If you behave, there's no need to be afraid.\nI'll pamper you plenty.\"{w}",
+  "kind": "msg",
+  "note": "yoi ko ne as \"there's a good child\" (not \"good girl\")."
+ },
+ {
+  "en": "\"What... are you going to do... to me...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I was asked by Rogera, the former god of Dark Oblivion,\nto save the souls caught in the in-between.\"{w}{p}\"I can't forgive those who defile the remains\nof the dead, the way you do.\"{w}",
+  "kind": "msg",
+  "note": "New name Rojela (Rojera). anmetsu no kami = \"god of Dark Oblivion\" (Rojela takes life in at its end, per wmap row 1227; the same word is in a demon general's title, chap row 1806). \"god\" is meant generically, with no gender assumed. hazama no tamashii = \"souls caught in the in-between\"."
+ },
+ {
+  "en": "\"I don't defile them!{w}Even when they rot, even when they turn to sludge,\nI treasure them, don't I!\"{w}{p}\"And besides... I'm, um, proper about it...{w}Okay, sometimes I do... that sort of thing too... but...{w}I'm gentle... and, um...\"{w}",
+  "kind": "msg",
+  "note": "Flustered trailing fragments kept; \"that sort of thing\" (sou iu koto) keeps the source's euphemism."
+ },
+ {
+  "en": "\"Did the person who owned those remains\nwish for you to do that?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It seems you don't toy with them out of malice.{w}Very well.\nI'll have you undergo Soul Therapy.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Soul... thera...?{w}Oh, that hocus-pocus you do...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's right. I'm going to take a little look inside your heart.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're just a fraud, though.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm not a fraud, you know?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's no way anyone can see inside a heart.{w}Understanding another person is impossible. Obviously.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But... if it's for real...{w}You can look at all of it. I'll stay still, okay?\"{w}{p}\"Don't just take a little peek.\nLook at all of my heart...\"{w}{p}\"I could never fit into this world...{w}Save my heart... please...{w}And if you can't save it... just kill me like this.\"{w}",
+  "kind": "msg",
+  "note": "Necrophilis switches from atashi to watashi here; English cannot mark that."
+ },
+ {
+  "en": "\"Are you saying you want to die?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No. I don't want to live.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Well, all right. Let's begin.{w}Leave everything to me.\"{w}{p}\"...When this hand touches you,\nyour feelings will slowly come undone.{w}Hehe.\"{w}",
+  "kind": "msg",
+  "note": "Same therapy patter as row 637; worded identically."
+ },
+ {
+  "en": "\"...You're touching me all weird again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's wrong with that? You like it, don't you?{w}...My heart reaches out through my palm,\ninto your body.\"{w}{p}\"I wonder where your heart is?{w}May I search for it?\"{w}",
+  "kind": "msg",
+  "note": "Matches row 637 wording."
+ },
+ {
+  "en": "\"S-search...? Ah...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Slip, slip, slip, slip...{w}I'll search every inch of your body.\"{w}",
+  "kind": "msg",
+  "note": "surusuru (smooth sliding motion) = \"slip, slip\"; same in rows 613 and 637."
+ },
+ {
+  "en": "\"Nngh...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Slip, slip, slip, slip...{w}...Oh, look, I found it.{w}It looks so lonely here. Shall I comfort it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You really are a pervert.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That makes two of us.\"{w}{p}\"...By the way, this has nothing to do\nwith the therapy, but would you tell me something?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why did you choose a night like this?{w}You might have won in the daytime, you know?{w}Or didn't you know about our nature?\"{w}",
+  "kind": "msg",
+  "note": "\"our nature\" (watashitachi no tokusei): the traits of Emera's kind (row 556 calls her a vampire), i.e. strongest under the full moon."
+ },
+ {
+  "en": "\"...Of course I knew.{w}I've been dealing with corpses for a long time.\"{w}{p}\"Sure, in the daytime I'd have won.{w}I even had White Ash ready.\"{w}",
+  "kind": "msg",
+  "note": "New term: White Ash (howaito asshu), apparently an anti-undead item or substance; capitalized as a proper name. Its only occurrence in the corpus."
+ },
+ {
+  "en": "\"White...!?{w}Then why...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Corpses are precious to me.\nSo I wanted to meet you at your most beautiful,\non the finest stage.\"{w}{p}\"You're at your most beautiful too\non this night, bathed in the full moon's light, right?{w}It's a tiny difference, but I can tell.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's all!?{w}Over something that small,\nyou threw away a fight you could have won easily...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's right.{w}It's only something that small, but to me,\nit's everything.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'm sorry.{w}That was unworthy of a Soul Therapist.{w}Now, let's continue.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Necrophilis's Soul Therapy went on\nthrough the night.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...The sun is rising.{w}I'm going to rest now, but you ought to\ncome see me regularly for a while.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come see you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes. Come again tonight.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...All my strength's drained out. I can't stand up.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't talk nonsense.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Let me stay here. Don't push me away, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Suit yourself.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bye now. ...Good night, Philis.\"{w}",
+  "kind": "msg",
+  "note": "New name: Philis, Emera's nickname for Necrophilis (firisu = the tail of the name)."
+ },
+ {
+  "en": "Necrophilis",
+  "kind": "name",
+  "note": "19 chars, over the ~16 name-box guideline. Fallback if it does not fit: \"Necrophilis (V)\"."
+ },
+ {
+  "en": "\"I'm sleeping with you.\"{w}",
+  "kind": "msg",
+  "note": "Literal; row 635 shows Necrophilis means getting into Emera's coffin."
+ },
+ {
+  "en": "\"Hey...! This coffin is for one...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's fine, it's fine.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my, do I have a visitor?{w}I am the Soul Therapist, Emera.\"{w}{p}\"This is my room.\nA very quiet, very warm place.\"{w}{p}\"In the fireplace, a little flame dances to welcome you.{w}Sit down on the sofa.{w}I'll sit beside you.\"{w}{p}\"What shall we talk about today?\"{w}{p}\"Are you nervous?{w}When this hand touches you,\nyour feelings will slowly come undone.\"{w}{p}\"My heart reaches out through my palm,\ninto your body.{w}...There, let me hold you.\"{w}{p}\"I wonder where your heart is?{w}May I search for it?\"{w}{p}\"Slip, slip, slip, slip...{w}I'll search every inch of your body.\"{w}{p}\"Slip, slip, slip, slip...{w}...There, I found it.\"{w}{p}\"You're trembling.{w}Does it tickle?{w}Or are you scared?\"{w}{p}\"It's all right.{w}There's nothing here that can hurt you.\"{w}{p}\"Entwine your heart with mine.{w}Slowly, we'll melt together and become one.\"{w}{p}\"Into the warm mire.{w}I'll take you into the darkness of the eternal world.{w}We'll slowly sink down together.\"{w}{p}\"Slowly, slowly, slowly, slowly...{w}Hand in hand, body to body, heart to heart.\"{w}{p}\"Slowly, slowly, slowly, slowly...\"{w}{p}\"Now, this is the deepest place within you.{w}Here, today, tell me\nabout your happy memories.\"{w}",
+  "kind": "msg",
+  "note": "The player's own Soul Therapy session (anata = the player). The first {w} has no punctuation in the source (\"okyaku-san kashira{w}\"); I added \"?\". tokoyo no yami = \"the darkness of the eternal world\"."
+ },
+ {
+  "en": "You told Emera all the happy memories\nyou could remember.{w}",
+  "kind": "msg",
+  "note": "Narration in the past tense, as in the pilot."
+ },
+ {
+  "en": "\"Those were wonderful days, weren't they.{w}Thank you. I enjoyed that.\"{w}{p}\"That's all for today.{w}Come here again tomorrow night, okay?\"{w}",
+  "kind": "msg"
+ }
+]

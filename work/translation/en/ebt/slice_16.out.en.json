@@ -1,0 +1,369 @@
+[
+ {
+  "en": " Reinforce",
+  "kind": "ui",
+  "note": "Battle command list (1234-1240), leading/trailing spaces kept as in source. zouen = call reinforcements (likely the Summoner's call). 10 cols vs 5; fallback ' Backup'."
+ },
+ {
+  "en": " Item",
+  "kind": "ui"
+ },
+ {
+  "en": " Equip",
+  "kind": "ui"
+ },
+ {
+  "en": " Defend ",
+  "kind": "ui"
+ },
+ {
+  "en": " Run ",
+  "kind": "ui"
+ },
+ {
+  "en": " Pursuit ",
+  "kind": "ui",
+  "note": "tsuigeki = follow-up attack on the enemy (pursuit)."
+ },
+ {
+  "en": " Strafe Pursuit ",
+  "kind": "ui",
+  "note": "sousha tsuigeki = sweeping/raking follow-up attack (multi-target variant of 1239). 16 cols vs JP 10; fallback ' Strafe '."
+ },
+ {
+  "en": "Chest TOP",
+  "kind": "ui",
+  "note": "Treasure-chest menu top label (looks like an internal screen name; 'TOP' kept as in source)."
+ },
+ {
+  "en": "Identify Trap",
+  "kind": "ui",
+  "note": "Chest menu (Wizardry-style): identify the trap."
+ },
+ {
+  "en": "Disarm Trap",
+  "kind": "ui"
+ },
+ {
+  "en": "Select Trap Type",
+  "kind": "ui",
+  "note": "Choose which trap you believe it is before disarming."
+ },
+ {
+  "en": "Transform",
+  "kind": "ui",
+  "note": "henshin; starts the list 1245-1256 (target/slot types). Context uncertain."
+ },
+ {
+  "en": "Decided on Use",
+  "kind": "ui",
+  "note": "jikkouji kettei = 'decided at execution time' (target picked when the action runs). Possibly a debug/data label."
+ },
+ {
+  "en": "Out of Range",
+  "kind": "ui"
+ },
+ {
+  "en": "Main",
+  "kind": "ui",
+  "note": "Main weapon slot (cf. slice_01 row 74 main/sub)."
+ },
+ {
+  "en": "Sub",
+  "kind": "ui",
+  "note": "Sub weapon slot."
+ },
+ {
+  "en": "Head",
+  "kind": "ui",
+  "note": "Equipment slot."
+ },
+ {
+  "en": "Body",
+  "kind": "ui",
+  "note": "Equipment slot."
+ },
+ {
+  "en": "Hands",
+  "kind": "ui",
+  "note": "Equipment slot (gloves/gauntlets)."
+ },
+ {
+  "en": "Feet",
+  "kind": "ui",
+  "note": "Equipment slot (boots)."
+ },
+ {
+  "en": "Accessory",
+  "kind": "ui",
+  "note": "Equipment slot."
+ },
+ {
+  "en": "Two-Handed",
+  "kind": "ui",
+  "note": "ryoute = both hands (two-handed weapon)."
+ },
+ {
+  "en": "All",
+  "kind": "ui"
+ },
+ {
+  "en": "Talisman",
+  "kind": "ui",
+  "note": "ofuda = paper charm/talisman. Item list 1257-1267."
+ },
+ {
+  "en": "Salve",
+  "kind": "ui",
+  "note": "kizugusuri; 'salves' in pilot slice_3 row 167."
+ },
+ {
+  "en": "Full Heal Potion",
+  "kind": "ui",
+  "note": "Matches wmap slice_08 row 574."
+ },
+ {
+  "en": "Wake-Up Potion",
+  "kind": "ui",
+  "note": "mezamashi-gusuri: cures sleep. New term."
+ },
+ {
+  "en": "Antidote",
+  "kind": "ui",
+  "note": "dokukeshi-gusuri: cures poison. New term."
+ },
+ {
+  "en": "Paralysis Cure",
+  "kind": "ui",
+  "note": "Matches wmap slice_08 row 574."
+ },
+ {
+  "en": "Nightdew Lozenge",
+  "kind": "ui",
+  "note": "Matches wmap slice_08 row 574."
+ },
+ {
+  "en": "Calming Herb",
+  "kind": "ui",
+  "note": "Matches wmap slice_08 row 575."
+ },
+ {
+  "en": "First Love Gem",
+  "kind": "ui",
+  "note": "Matches wmap slice_08 row 575 (literally 'crystal of the first-love flower')."
+ },
+ {
+  "en": "Stonemelt Water",
+  "kind": "ui",
+  "note": "Matches wmap slice_08 row 575."
+ },
+ {
+  "en": "Headache Remedy",
+  "kind": "ui",
+  "note": "zutsuuyaku = headache medicine. New term; fallback 'Headache Pill'."
+ },
+ {
+  "en": "The Fool",
+  "kind": "ui",
+  "note": "Tarot names 1268-1287, same forms as slice_11 rows 835-882 but without numerals. The Magician and Strength are missing here: presumably merged with identical strings elsewhere (majutsushi = 'Mage' slice_01 row 75; chikara)."
+ },
+ {
+  "en": "The High Priestess",
+  "kind": "ui"
+ },
+ {
+  "en": "The Empress",
+  "kind": "ui"
+ },
+ {
+  "en": "The Emperor",
+  "kind": "ui"
+ },
+ {
+  "en": "The Hierophant",
+  "kind": "ui"
+ },
+ {
+  "en": "The Lovers",
+  "kind": "ui"
+ },
+ {
+  "en": "The Chariot",
+  "kind": "ui"
+ },
+ {
+  "en": "Justice",
+  "kind": "ui"
+ },
+ {
+  "en": "The Hermit",
+  "kind": "ui"
+ },
+ {
+  "en": "Wheel of Fortune",
+  "kind": "ui"
+ },
+ {
+  "en": "The Hanged Man",
+  "kind": "ui"
+ },
+ {
+  "en": "Death",
+  "kind": "ui"
+ },
+ {
+  "en": "Temperance",
+  "kind": "ui"
+ },
+ {
+  "en": "The Devil",
+  "kind": "ui"
+ },
+ {
+  "en": "The Tower",
+  "kind": "ui"
+ },
+ {
+  "en": "The Star",
+  "kind": "ui"
+ },
+ {
+  "en": "The Moon",
+  "kind": "ui"
+ },
+ {
+  "en": "The Sun",
+  "kind": "ui"
+ },
+ {
+  "en": "Judgement",
+  "kind": "ui",
+  "note": "Spelling as slice_11 row 880."
+ },
+ {
+  "en": "The World",
+  "kind": "ui"
+ },
+ {
+  "en": "Male",
+  "kind": "ui",
+  "note": "Gender."
+ },
+ {
+  "en": "Female",
+  "kind": "ui",
+  "note": "Gender."
+ },
+ {
+  "en": "(Reserve)",
+  "kind": "ui",
+  "note": "Unused/reserved slot label; full-width parentheses -> ASCII."
+ },
+ {
+  "en": "Good",
+  "kind": "ui",
+  "note": "Glossary alignment."
+ },
+ {
+  "en": "Neutral",
+  "kind": "ui",
+  "note": "Glossary alignment."
+ },
+ {
+  "en": "Evil",
+  "kind": "ui",
+  "note": "Glossary alignment."
+ },
+ {
+  "en": "Fighter",
+  "kind": "ui",
+  "note": "Class table 1294-1313 (continues in slice_17): full name followed by the developer's 3-letter abbreviation. Mage/Priest/Alchemist/Summoner full names are absent (merged with slice_01 rows 75-78). Fighter as in chap slice_012 row 995."
+ },
+ {
+  "en": "Fig",
+  "kind": "ui",
+  "note": "Developer abbreviation (full-width Latin -> ASCII)."
+ },
+ {
+  "en": "Mag",
+  "kind": "ui"
+ },
+ {
+  "en": "Pri",
+  "kind": "ui"
+ },
+ {
+  "en": "Thief",
+  "kind": "ui",
+  "note": "As in chap slice_003 row 197."
+ },
+ {
+  "en": "Thi",
+  "kind": "ui"
+ },
+ {
+  "en": "Alc",
+  "kind": "ui"
+ },
+ {
+  "en": "Servant",
+  "kind": "ui",
+  "note": "shiyounin = servant. NEW TERM. The developer abbreviation 'Mai' (row 1302) implies 'Maid'; 'Servant' chosen to stay gender-neutral. If 'Maid' is adopted, restore 'Mai' in row 1302."
+ },
+ {
+  "en": "Srv",
+  "kind": "ui",
+  "note": "Source 'Mai' (Maid) changed to match the English class name 'Servant' (row 1301). See note there."
+ },
+ {
+  "en": "Bishop",
+  "kind": "ui",
+  "note": "Glossary class."
+ },
+ {
+  "en": "Bis",
+  "kind": "ui"
+ },
+ {
+  "en": "Ranger",
+  "kind": "ui",
+  "note": "karyuudo. NEW TERM. Developer abbreviation 'Ran' = Ranger. CONFLICT: story text renders the class 'Hunter(s)' (wmap slice_04 row 282, chap slice_004 row 302, chap slice_010 row 818 'Gossipy Hunter')."
+ },
+ {
+  "en": "Ran",
+  "kind": "ui"
+ },
+ {
+  "en": "Gladiator",
+  "kind": "ui",
+  "note": "toushi. NEW TERM, from the developer abbreviation 'Gla'."
+ },
+ {
+  "en": "Gla",
+  "kind": "ui"
+ },
+ {
+  "en": "Bard",
+  "kind": "ui",
+  "note": "yuurakusha (lit. 'pleasure-seeker/entertainer'). NEW TERM, from the developer abbreviation 'Bar'."
+ },
+ {
+  "en": "Bar",
+  "kind": "ui"
+ },
+ {
+  "en": "Kannagi",
+  "kind": "ui",
+  "note": "kannagi = shrine medium/shaman. NEW TERM, romanized to match the developer's all-caps abbreviation 'KAN' (like SAM/NIN). Alternative: 'Shaman'."
+ },
+ {
+  "en": "KAN",
+  "kind": "ui",
+  "note": "Kept as in source (all caps, like SAM/NIN in slice_17)."
+ },
+ {
+  "en": "Sum",
+  "kind": "ui",
+  "note": "Summoner abbreviation; the full name 'Summoner' is slice_01 row 78."
+ }
+]

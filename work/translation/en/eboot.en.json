@@ -1,0 +1,7377 @@
+[
+ {
+  "id": "eb@0895a53c",
+  "en": "Saving screenshot...",
+  "len": 29
+ },
+ {
+  "id": "eb@0895a55c",
+  "en": "Resuming...",
+  "len": 27
+ },
+ {
+  "id": "eb@0895a7a8",
+  "en": "Alumite",
+  "len": 11
+ },
+ {
+  "id": "eb@0895a7c6",
+  "en": "Nicol",
+  "len": 7
+ },
+ {
+  "id": "eb@0895a7e4",
+  "en": "So-Elia",
+  "len": 11
+ },
+ {
+  "id": "eb@0895a802",
+  "en": "Massa",
+  "len": 7
+ },
+ {
+  "id": "eb@0895a820",
+  "en": "Novent",
+  "len": 9
+ },
+ {
+  "id": "eb@0895a83e",
+  "en": "Wakasaa",
+  "len": 9
+ },
+ {
+  "id": "eb@0895a888",
+  "en": "VILER",
+  "len": 11
+ },
+ {
+  "id": "eb@0895a8a6",
+  "en": "Konsaisai",
+  "len": 13
+ },
+ {
+  "id": "eb@0895a8c4",
+  "en": "Yomogi",
+  "len": 7
+ },
+ {
+  "id": "eb@0895a8e2",
+  "en": "Geepoe",
+  "len": 9
+ },
+ {
+  "id": "eb@0895a900",
+  "en": "Wasshii",
+  "len": 9
+ },
+ {
+  "id": "eb@0895a91e",
+  "en": "DDT",
+  "len": 7
+ },
+ {
+  "id": "eb@0895a968",
+  "en": "Nepda",
+  "len": 7
+ },
+ {
+  "id": "eb@0895a986",
+  "en": "Dontesu",
+  "len": 11
+ },
+ {
+  "id": "eb@0895a9a4",
+  "en": "Hahn",
+  "len": 7
+ },
+ {
+  "id": "eb@0895a9c2",
+  "en": "Piccano",
+  "len": 11
+ },
+ {
+  "id": "eb@0895a9e0",
+  "en": "Eckas",
+  "len": 9
+ },
+ {
+  "id": "eb@0895a9fe",
+  "en": "Sendy",
+  "len": 9
+ },
+ {
+  "id": "eb@0895aa48",
+  "en": "Sendy",
+  "len": 9
+ },
+ {
+  "id": "eb@0895aa66",
+  "en": "Piccano",
+  "len": 11
+ },
+ {
+  "id": "eb@0895aa84",
+  "en": "Yomogi",
+  "len": 7
+ },
+ {
+  "id": "eb@0895aaa2",
+  "en": "Geepoe",
+  "len": 9
+ },
+ {
+  "id": "eb@0895aac0",
+  "en": "Wasshii",
+  "len": 9
+ },
+ {
+  "id": "eb@0895aade",
+  "en": "DDT",
+  "len": 7
+ },
+ {
+  "id": "eb@0895ab28",
+  "en": "Nepda",
+  "len": 7
+ },
+ {
+  "id": "eb@0895ab46",
+  "en": "VILER",
+  "len": 11
+ },
+ {
+  "id": "eb@0895ab64",
+  "en": "Hahn",
+  "len": 7
+ },
+ {
+  "id": "eb@0895ab82",
+  "en": "Konsaisai",
+  "len": 13
+ },
+ {
+  "id": "eb@0895aba0",
+  "en": "Eckas",
+  "len": 9
+ },
+ {
+  "id": "eb@0895abbe",
+  "en": "Dontesu",
+  "len": 11
+ },
+ {
+  "id": "eb@0895ac08",
+  "en": "Alumite",
+  "len": 11
+ },
+ {
+  "id": "eb@0895ac26",
+  "en": "Nicol",
+  "len": 7
+ },
+ {
+  "id": "eb@0895ac44",
+  "en": "So-Elia",
+  "len": 11
+ },
+ {
+  "id": "eb@0895ac62",
+  "en": "Massa",
+  "len": 7
+ },
+ {
+  "id": "eb@0895ac80",
+  "en": "Novent",
+  "len": 9
+ },
+ {
+  "id": "eb@0895ac9e",
+  "en": "Wakasaa",
+  "len": 9
+ },
+ {
+  "id": "eb@0895aec4",
+  "en": "What is the self?",
+  "len": 11
+ },
+ {
+  "id": "eb@0895aed0",
+  "en": "           Mysterious letters rose into view\n   ",
+  "len": 40
+ },
+ {
+  "id": "eb@0895aef8",
+  "en": "   ",
+  "len": 5
+ },
+ {
+  "id": "eb@0895af00",
+  "en": "Which stat do you want to raise?",
+  "len": 33
+ },
+ {
+  "id": "eb@0895af24",
+  "en": "        Strength      Intellect     Piety",
+  "len": 41
+ },
+ {
+  "id": "eb@0895af50",
+  "en": "        Vitality      Agility       Luck",
+  "len": 41
+ },
+ {
+  "id": "eb@0895af88",
+  "en": "Change to which alignment?",
+  "len": 25
+ },
+ {
+  "id": "eb@0895afa4",
+  "en": "        Good          Neutral       Evil",
+  "len": 39
+ },
+ {
+  "id": "eb@0895afd4",
+  "en": "1st",
+  "len": 5
+ },
+ {
+  "id": "eb@0895afdc",
+  "en": "2nd",
+  "len": 5
+ },
+ {
+  "id": "eb@0895afe4",
+  "en": "3rd",
+  "len": 5
+ },
+ {
+  "id": "eb@0895b088",
+  "en": "%s has vanished",
+  "len": 19
+ },
+ {
+  "id": "eb@0895b09c",
+  "en": "%s has turned to ash",
+  "len": 21
+ },
+ {
+  "id": "eb@0895e268",
+  "en": "Your party was wiped out",
+  "len": 13
+ },
+ {
+  "id": "eb@0895e278",
+  "en": "All members have been lost",
+  "len": 20
+ },
+ {
+  "id": "eb@0895e298",
+  "en": "You deactivated the compass.",
+  "len": 27
+ },
+ {
+  "id": "eb@0895e2b4",
+  "en": "You set the compass to %s.",
+  "len": 27
+ },
+ {
+  "id": "eb@0895e310",
+  "en": "There are no usable skills",
+  "len": 25
+ },
+ {
+  "id": "eb@0895e32c",
+  "en": "Enter a password to use the Book of the Next Age.",
+  "len": 51
+ },
+ {
+  "id": "eb@0895e360",
+  "en": "The Training Hall is full",
+  "len": 25
+ },
+ {
+  "id": "eb@0895e37c",
+  "en": "Requires a class change to equip",
+  "len": 31
+ },
+ {
+  "id": "eb@0895e39c",
+  "en": "This item is equipped",
+  "len": 25
+ },
+ {
+  "id": "eb@0895e3b8",
+  "en": "A main weapon can't be equipped as a sub",
+  "len": 35
+ },
+ {
+  "id": "eb@0895e57c",
+  "en": "Mage",
+  "len": 7
+ },
+ {
+  "id": "eb@0895e584",
+  "en": "Priest",
+  "len": 5
+ },
+ {
+  "id": "eb@0895e58c",
+  "en": "Alchemist",
+  "len": 9
+ },
+ {
+  "id": "eb@0895e598",
+  "en": "Summoner",
+  "len": 7
+ },
+ {
+  "id": "eb@0895e5b0",
+  "en": "0",
+  "len": 3
+ },
+ {
+  "id": "eb@0895e5b4",
+  "en": "1",
+  "len": 3
+ },
+ {
+  "id": "eb@0895e5b8",
+  "en": "2",
+  "len": 3
+ },
+ {
+  "id": "eb@0895e5bc",
+  "en": "3",
+  "len": 3
+ },
+ {
+  "id": "eb@0895e5c0",
+  "en": "4",
+  "len": 3
+ },
+ {
+  "id": "eb@0895e5c4",
+  "en": "5",
+  "len": 3
+ },
+ {
+  "id": "eb@0895e5c8",
+  "en": "6",
+  "len": 3
+ },
+ {
+  "id": "eb@0895e5cc",
+  "en": "7",
+  "len": 3
+ },
+ {
+  "id": "eb@0895e5d0",
+  "en": "8",
+  "len": 3
+ },
+ {
+  "id": "eb@0895e5d4",
+  "en": "9",
+  "len": 3
+ },
+ {
+  "id": "eb@0895e8ec",
+  "en": "Choose a character to treat.",
+  "len": 39
+ },
+ {
+  "id": "eb@0895e914",
+  "en": "Choose who will pay the offering.",
+  "len": 45
+ },
+ {
+  "id": "eb@0895e944",
+  "en": "O Ildraha, god of life,\nplease grant us your blessing.",
+  "len": 54
+ },
+ {
+  "id": "eb@0895e97c",
+  "en": "Treatment complete.",
+  "len": 15
+ },
+ {
+  "id": "eb@0895e9b8",
+  "en": "Choose a character to retrieve.",
+  "len": 39
+ },
+ {
+  "id": "eb@0895e9e0",
+  "en": "Retrieving............",
+  "len": 31
+ },
+ {
+  "id": "eb@0895ea00",
+  "en": "Retrieval complete.",
+  "len": 15
+ },
+ {
+  "id": "eb@0895ea40",
+  "en": "Enter the dungeon's name.",
+  "len": 35
+ },
+ {
+  "id": "eb@0895ea64",
+  "en": "Enter the dungeon's description.",
+  "len": 35
+ },
+ {
+  "id": "eb@0895ea88",
+  "en": "Enter the line spoken before battle.",
+  "len": 31
+ },
+ {
+  "id": "eb@0895eaa8",
+  "en": "Enter the line spoken after battle.",
+  "len": 31
+ },
+ {
+  "id": "eb@0895eac8",
+  "en": "Select the routine for the Circle button.",
+  "len": 41
+ },
+ {
+  "id": "eb@0895eaf4",
+  "en": "Select the spell for the Triangle button.",
+  "len": 37
+ },
+ {
+  "id": "eb@0895ec88",
+  "en": "Choose a topic.",
+  "len": 23
+ },
+ {
+  "id": "eb@0895eca0",
+  "en": "Choose a picture.",
+  "len": 21
+ },
+ {
+  "id": "eb@0895ecb8",
+  "en": "Choose a recorded history.",
+  "len": 33
+ },
+ {
+  "id": "eb@0895ecf4",
+  "en": "Choose a request.",
+  "len": 23
+ },
+ {
+  "id": "eb@0895ed0c",
+  "en": "Obtained 3 Fame!",
+  "len": 31
+ },
+ {
+  "id": "eb@0895ed40",
+  "en": "Choose a hint.",
+  "len": 25
+ },
+ {
+  "id": "eb@0895ed5c",
+  "en": "Who will pay the fee?",
+  "len": 25
+ },
+ {
+  "id": "eb@0895ed78",
+  "en": "Hint purchased.",
+  "len": 23
+ },
+ {
+  "id": "eb@0895eda0",
+  "en": "Choose an alchemy item.",
+  "len": 31
+ },
+ {
+  "id": "eb@0895edc0",
+  "en": "Alchemy item info purchased.",
+  "len": 33
+ },
+ {
+  "id": "eb@0895edf4",
+  "en": "Researching...                    ",
+  "len": 35
+ },
+ {
+  "id": "eb@0895ee18",
+  "en": "Researching.......                ",
+  "len": 35
+ },
+ {
+  "id": "eb@0895ee3c",
+  "en": "Researching...........            ",
+  "len": 35
+ },
+ {
+  "id": "eb@0895ee60",
+  "en": "Researching...............        ",
+  "len": 35
+ },
+ {
+  "id": "eb@0895ee84",
+  "en": "Researching...................    ",
+  "len": 35
+ },
+ {
+  "id": "eb@0895eea8",
+  "en": "Researching.......................",
+  "len": 35
+ },
+ {
+  "id": "eb@0895ef0c",
+  "en": "This party was wiped out. It can't be resumed.",
+  "len": 41
+ },
+ {
+  "id": "eb@0895ef38",
+  "en": "Save Data %s",
+  "len": 15
+ },
+ {
+  "id": "eb@0895ef48",
+  "en": "Choose the weather you want.    ",
+  "len": 33
+ },
+ {
+  "id": "eb@0895ef6c",
+  "en": "Choose a character to swap.",
+  "len": 41
+ },
+ {
+  "id": "eb@0895ef98",
+  "en": "Swapped.",
+  "len": 15
+ },
+ {
+  "id": "eb@0895efa8",
+  "en": "Choose a class.",
+  "len": 21
+ },
+ {
+  "id": "eb@0895efc0",
+  "en": "Class changed.",
+  "len": 19
+ },
+ {
+  "id": "eb@0895efd4",
+  "en": "Registration changed.",
+  "len": 21
+ },
+ {
+  "id": "eb@0895efec",
+  "en": "Enter the new spell name.",
+  "len": 27
+ },
+ {
+  "id": "eb@0895f008",
+  "en": "Choose a character to check.",
+  "len": 27
+ },
+ {
+  "id": "eb@0895f024",
+  "en": "%s Level %s Spells",
+  "len": 19
+ },
+ {
+  "id": "eb@0895f038",
+  "en": "Cast it on which item?",
+  "len": 27
+ },
+ {
+  "id": "eb@0895f054",
+  "en": "Cast the spell.",
+  "len": 11
+ },
+ {
+  "id": "eb@0895f060",
+  "en": "Used.",
+  "len": 11
+ },
+ {
+  "id": "eb@0895f06c",
+  "en": "Choose a floor.",
+  "len": 21
+ },
+ {
+  "id": "eb@0895f084",
+  "en": "Choose a location.",
+  "len": 21
+ },
+ {
+  "id": "eb@0895f0a4",
+  "en": "Select a skill.",
+  "len": 23
+ },
+ {
+  "id": "eb@0895f0bc",
+  "en": "The monster set out on a second life\nas an adventurer.",
+  "len": 48
+ },
+ {
+  "id": "eb@0895f0ec",
+  "en": "Select an item.",
+  "len": 25
+ },
+ {
+  "id": "eb@0895f108",
+  "en": "Equipped.",
+  "len": 13
+ },
+ {
+  "id": "eb@0895f118",
+  "en": "Triangle: Resists & Slaying   Cross: Back",
+  "len": 37
+ },
+ {
+  "id": "eb@0895f140",
+  "en": "Triangle: Special Effects & Resists  Cross: Back",
+  "len": 41
+ },
+ {
+  "id": "eb@0895f16c",
+  "en": "Triangle: Equip Limits & Passives  Cross: Back",
+  "len": 45
+ },
+ {
+  "id": "eb@0895f19c",
+  "en": "Choose who to use it on.",
+  "len": 25
+ },
+ {
+  "id": "eb@0895f1b8",
+  "en": "Handed over.",
+  "len": 11
+ },
+ {
+  "id": "eb@0895f1c4",
+  "en": "The Rock Counter reads %03d.",
+  "len": 39
+ },
+ {
+  "id": "eb@0895f9b0",
+  "en": "You rested in the tent.",
+  "len": 15
+ },
+ {
+  "id": "eb@0895fa68",
+  "en": "(",
+  "len": 3
+ },
+ {
+  "id": "eb@0895fa7c",
+  "en": "Cannot create more than %d entries.",
+  "len": 37
+ },
+ {
+  "id": "eb@0895fad0",
+  "en": "?",
+  "len": 3
+ },
+ {
+  "id": "eb@0895fad4",
+  "en": "B",
+  "len": 3
+ },
+ {
+  "id": "eb@0895fad8",
+  "en": "E",
+  "len": 3
+ },
+ {
+  "id": "eb@0895fb14",
+  "en": "O",
+  "len": 3
+ },
+ {
+  "id": "eb@0895fb18",
+  "en": "X",
+  "len": 3
+ },
+ {
+  "id": "eb@0895fb1c",
+  "en": "Sold Out",
+  "len": 9
+ },
+ {
+  "id": "eb@0895fb28",
+  "en": "Inf",
+  "len": 3
+ },
+ {
+  "id": "eb@0895fc1c",
+  "en": "Yes",
+  "len": 5
+ },
+ {
+  "id": "eb@0895fc24",
+  "en": "None",
+  "len": 5
+ },
+ {
+  "id": "eb@0895fc2c",
+  "en": "-Storage-",
+  "len": 9
+ },
+ {
+  "id": "eb@0895fc48",
+  "en": "------",
+  "len": 13
+ },
+ {
+  "id": "eb@0895fc64",
+  "en": "Yes",
+  "len": 5
+ },
+ {
+  "id": "eb@0895fc6c",
+  "en": "No",
+  "len": 7
+ },
+ {
+  "id": "eb@0895fc74",
+  "en": "Return to the inn?",
+  "len": 19
+ },
+ {
+  "id": "eb@0895fc88",
+  "en": "Change to this class?",
+  "len": 25
+ },
+ {
+  "id": "eb@0895fca4",
+  "en": "Buy this. Are you sure?",
+  "len": 29
+ },
+ {
+  "id": "eb@0895fcc4",
+  "en": "Sell this. Are you sure?",
+  "len": 29
+ },
+ {
+  "id": "eb@0895fce4",
+  "en": "Trade this. Are you sure?",
+  "len": 29
+ },
+ {
+  "id": "eb@0895fd04",
+  "en": "Change personality comment?",
+  "len": 29
+ },
+ {
+  "id": "eb@0895fd24",
+  "en": "Change Extra Skill?",
+  "len": 33
+ },
+ {
+  "id": "eb@0895fd48",
+  "en": "Enter personality comment?",
+  "len": 29
+ },
+ {
+  "id": "eb@0895fd68",
+  "en": "Register this character?",
+  "len": 33
+ },
+ {
+  "id": "eb@0895fd8c",
+  "en": "Suspend adventure. Are you sure?",
+  "len": 35
+ },
+ {
+  "id": "eb@0895fdb0",
+  "en": "Use this?",
+  "len": 15
+ },
+ {
+  "id": "eb@0895fdc0",
+  "en": "Is this OK?",
+  "len": 23
+ },
+ {
+  "id": "eb@0895fdd8",
+  "en": "Dismantle it. Are you sure?",
+  "len": 29
+ },
+ {
+  "id": "eb@0895fdf8",
+  "en": "Solve this request for 'em! Got it!?",
+  "len": 37
+ },
+ {
+  "id": "eb@0895fe20",
+  "en": "Buy a hint?",
+  "len": 23
+ },
+ {
+  "id": "eb@0895fe38",
+  "en": "Delete this character?",
+  "len": 33
+ },
+ {
+  "id": "eb@0895fe5c",
+  "en": "Restore all options to default?",
+  "len": 41
+ },
+ {
+  "id": "eb@0895fe88",
+  "en": "Request an appraisal?",
+  "len": 21
+ },
+ {
+  "id": "eb@0895fea0",
+  "en": "Sell this item. Are you sure?",
+  "len": 37
+ },
+ {
+  "id": "eb@0895fec8",
+  "en": "Uncurse/Repair it?",
+  "len": 21
+ },
+ {
+  "id": "eb@0895fee0",
+  "en": "Unleash its hidden power?",
+  "len": 29
+ },
+ {
+  "id": "eb@0895ff00",
+  "en": "Really discard it?",
+  "len": 19
+ },
+ {
+  "id": "eb@0895ff14",
+  "en": "Save to which slot?",
+  "len": 23
+ },
+ {
+  "id": "eb@0895ff2c",
+  "en": "Is it OK to save your current progress?",
+  "len": 41
+ },
+ {
+  "id": "eb@0895ff58",
+  "en": "Resume the game?",
+  "len": 15
+ },
+ {
+  "id": "eb@0895ff68",
+  "en": "Are you really sure you want to delete this?",
+  "len": 33
+ },
+ {
+  "id": "eb@0895ff8c",
+  "en": "Are you sure you want to delete this?",
+  "len": 27
+ },
+ {
+  "id": "eb@0895ffa8",
+  "en": "Install game data?",
+  "len": 29
+ },
+ {
+  "id": "eb@0895ffc8",
+  "en": "Spend Fame to imbue it with light?",
+  "len": 35
+ },
+ {
+  "id": "eb@0895ffec",
+  "en": "Change the icon image and style image?",
+  "len": 45
+ },
+ {
+  "id": "eb@0896001c",
+  "en": "Save your data?",
+  "len": 25
+ },
+ {
+  "id": "eb@08960038",
+  "en": "No confirmation message available",
+  "len": 38
+ },
+ {
+  "id": "eb@08960060",
+  "en": "Item sold.",
+  "len": 15
+ },
+ {
+  "id": "eb@08960070",
+  "en": "Uncursed/Repaired.",
+  "len": 21
+ },
+ {
+  "id": "eb@0896009b",
+  "en": "Strange smoke rises!!",
+  "len": 23
+ },
+ {
+  "id": "eb@089600b4",
+  "en": "It exploded!!",
+  "len": 21
+ },
+ {
+  "id": "eb@089600cc",
+  "en": "You found something in the wreckage.",
+  "len": 37
+ },
+ {
+  "id": "eb@089600f4",
+  "en": "Discarded.",
+  "len": 11
+ },
+ {
+  "id": "eb@08960100",
+  "en": "Donated.",
+  "len": 13
+ },
+ {
+  "id": "eb@08960110",
+  "en": "Purchased.",
+  "len": 13
+ },
+ {
+  "id": "eb@08960120",
+  "en": "Select save data to load.  ",
+  "len": 39
+ },
+ {
+  "id": "eb@08960148",
+  "en": "Triangle: delete data.",
+  "len": 34
+ },
+ {
+  "id": "eb@0896016c",
+  "en": "Save data loaded.",
+  "len": 29
+ },
+ {
+  "id": "eb@0896018c",
+  "en": "Starting a new game.",
+  "len": 23
+ },
+ {
+  "id": "eb@089601a4",
+  "en": "Installing data will make\nthe game load faster.",
+  "len": 62
+ },
+ {
+  "id": "eb@089601e4",
+  "en": "*Existing install data will be deleted.",
+  "len": 44
+ },
+ {
+  "id": "eb@08960210",
+  "en": "*No Memory Stick is inserted.",
+  "len": 42
+ },
+ {
+  "id": "eb@0896023c",
+  "en": "Installation failed.\nAborting installation.",
+  "len": 56
+ },
+ {
+  "id": "eb@0896027c",
+  "en": "Bare Hands",
+  "len": 5
+ },
+ {
+  "id": "eb@08960284",
+  "en": "-",
+  "len": 3
+ },
+ {
+  "id": "eb@08960298",
+  "en": "Current HP is below ",
+  "len": 21
+ },
+ {
+  "id": "eb@089602b0",
+  "en": "percent of max HP",
+  "len": 11
+ },
+ {
+  "id": "eb@08960310",
+  "en": "Save          ",
+  "len": 17
+ },
+ {
+  "id": "eb@08960324",
+  "en": "Party %3d",
+  "len": 16
+ },
+ {
+  "id": "eb@0896035c",
+  "en": "Solved",
+  "len": 7
+ },
+ {
+  "id": "eb@08960364",
+  "en": "Unsolved",
+  "len": 7
+ },
+ {
+  "id": "eb@0896036c",
+  "en": "Bought",
+  "len": 7
+ },
+ {
+  "id": "eb@08960374",
+  "en": "????????????????",
+  "len": 33
+ },
+ {
+  "id": "eb@08960398",
+  "en": "                ",
+  "len": 33
+ },
+ {
+  "id": "eb@089604d4",
+  "en": "...",
+  "len": 7
+ },
+ {
+  "id": "eb@089604dc",
+  "en": "   ",
+  "len": 7
+ },
+ {
+  "id": "eb@089604e4",
+  "en": "%s\nDo not remove the Memory Stick.",
+  "len": 42
+ },
+ {
+  "id": "eb@08960510",
+  "en": "Saving...",
+  "len": 17
+ },
+ {
+  "id": "eb@08960524",
+  "en": "Save complete.",
+  "len": 15
+ },
+ {
+  "id": "eb@08960534",
+  "en": "Save failed.",
+  "len": 21
+ },
+ {
+  "id": "eb@08960550",
+  "en": "Loading data...",
+  "len": 25
+ },
+ {
+  "id": "eb@0896056c",
+  "en": "Save data is corrupt.\nIt will be deleted.",
+  "len": 42
+ },
+ {
+  "id": "eb@08960598",
+  "en": "Deleting corrupted save data.\nDo not remove the Memory Stick.",
+  "len": 82
+ },
+ {
+  "id": "eb@089605ec",
+  "en": "Please insert a Memory Stick with\nat least %dKB of free space.",
+  "len": 56
+ },
+ {
+  "id": "eb@08960624",
+  "en": "No Memory Stick\nis inserted.",
+  "len": 42
+ },
+ {
+  "id": "eb@08960650",
+  "en": "Not enough free space.\nNeed %dKB more.",
+  "len": 40
+ },
+ {
+  "id": "eb@08960678",
+  "en": "No Memory Stick is inserted.\nA Memory Stick with %dKB\nof free space is required.",
+  "len": 95
+ },
+ {
+  "id": "eb@089606d8",
+  "en": "Not enough space on the Memory Stick.\n%dKB more is needed.\nLaunching the data deletion utility.",
+  "len": 93
+ },
+ {
+  "id": "eb@08960738",
+  "en": "Failed to load.",
+  "len": 21
+ },
+ {
+  "id": "eb@08960750",
+  "en": "No Memory Stick is inserted.\nTo save data, a Memory Stick with at least\n%dKB of free space is required.",
+  "len": 117
+ },
+ {
+  "id": "eb@089607c8",
+  "en": "To save this game's data,\n%dKB more is required.",
+  "len": 56
+ },
+ {
+  "id": "eb@08960804",
+  "en": "Which save data do you want to overwrite?\n(Up/Down: select, Circle: confirm)",
+  "len": 66
+ },
+ {
+  "id": "eb@08960848",
+  "en": "Deleting...",
+  "len": 15
+ },
+ {
+  "id": "eb@08960c68",
+  "en": "Resurrection failed. The character is lost.",
+  "len": 37
+ },
+ {
+  "id": "eb@08960c90",
+  "en": "Resurrection failed. The character is now ash.",
+  "len": 35
+ },
+ {
+  "id": "eb@08960cb4",
+  "en": "Treatment complete.",
+  "len": 15
+ },
+ {
+  "id": "eb@08960cdc",
+  "en": "%s-%s",
+  "len": 7
+ },
+ {
+  "id": "eb@08963b04",
+  "en": "Class Icons",
+  "len": 13
+ },
+ {
+  "id": "eb@08963b20",
+  "en": "None",
+  "len": 5
+ },
+ {
+  "id": "eb@08963b28",
+  "en": "Grace 1",
+  "len": 11
+ },
+ {
+  "id": "eb@08963b34",
+  "en": "Grace 2",
+  "len": 11
+ },
+ {
+  "id": "eb@08963b40",
+  "en": "Kanosuke 1",
+  "len": 11
+ },
+ {
+  "id": "eb@08963b4c",
+  "en": "Kanosuke 2",
+  "len": 11
+ },
+ {
+  "id": "eb@08963b58",
+  "en": "Aruna 1",
+  "len": 9
+ },
+ {
+  "id": "eb@08963b64",
+  "en": "Aruna 2",
+  "len": 9
+ },
+ {
+  "id": "eb@08963b70",
+  "en": "Meme 1",
+  "len": 7
+ },
+ {
+  "id": "eb@08963b78",
+  "en": "Meme 2",
+  "len": 7
+ },
+ {
+  "id": "eb@08963b80",
+  "en": "Green 1",
+  "len": 13
+ },
+ {
+  "id": "eb@08963b90",
+  "en": "Green 2",
+  "len": 13
+ },
+ {
+  "id": "eb@08963ba0",
+  "en": "Froila 1",
+  "len": 11
+ },
+ {
+  "id": "eb@08963bac",
+  "en": "Froila 2",
+  "len": 11
+ },
+ {
+  "id": "eb@08963bb8",
+  "en": "Garveon 1",
+  "len": 15
+ },
+ {
+  "id": "eb@08963bc8",
+  "en": "Garveon 2",
+  "len": 15
+ },
+ {
+  "id": "eb@08963bd8",
+  "en": "Common 1",
+  "len": 9
+ },
+ {
+  "id": "eb@08963be4",
+  "en": "Common 2",
+  "len": 9
+ },
+ {
+  "id": "eb@08963bf0",
+  "en": "Fuji 1",
+  "len": 11
+ },
+ {
+  "id": "eb@08963bfc",
+  "en": "Fuji 2",
+  "len": 11
+ },
+ {
+  "id": "eb@08963c08",
+  "en": "Hiyora 1",
+  "len": 11
+ },
+ {
+  "id": "eb@08963c14",
+  "en": "Hiyora 2",
+  "len": 11
+ },
+ {
+  "id": "eb@08963c84",
+  "en": "Doppel %d",
+  "len": 11
+ },
+ {
+  "id": "eb@08963c98",
+  "en": "  ",
+  "len": 3
+ },
+ {
+  "id": "eb@08963c9c",
+  "en": "The Book of the Next Age was bathed in light.",
+  "len": 25
+ },
+ {
+  "id": "eb@08963cb8",
+  "en": "Nothing happened.",
+  "len": 19
+ },
+ {
+  "id": "eb@08964128",
+  "en": "Downed characters were carried to the temple.",
+  "len": 41
+ },
+ {
+  "id": "eb@0896417c",
+  "en": "Inf",
+  "len": 3
+ },
+ {
+  "id": "eb@08964184",
+  "en": "Nothing for sale.",
+  "len": 19
+ },
+ {
+  "id": "eb@089641f8",
+  "en": "??????",
+  "len": 13
+ },
+ {
+  "id": "eb@0896421c",
+  "en": "Yes",
+  "len": 5
+ },
+ {
+  "id": "eb@08964224",
+  "en": "--",
+  "len": 5
+ },
+ {
+  "id": "eb@08964250",
+  "en": "Back",
+  "len": 5
+ },
+ {
+  "id": "eb@08964264",
+  "en": "Installation failed.\nAborting installation.",
+  "len": 56
+ },
+ {
+  "id": "eb@0896429c",
+  "en": "Data hasn't been installed yet.\nInstalling the data lets you\nplay the game more smoothly.",
+  "len": 101
+ },
+ {
+  "id": "eb@08964304",
+  "en": "No Memory Stick is inserted.\nThe game will start without one.",
+  "len": 70
+ },
+ {
+  "id": "eb@0896434c",
+  "en": "Install game data?",
+  "len": 29
+ },
+ {
+  "id": "eb@089643e0",
+  "en": "%s was carried to the temple.",
+  "len": 25
+ },
+ {
+  "id": "eb@0896443c",
+  "en": "\"You do mighty fine work, you do.\nI like you. Hah hah hah!\"",
+  "len": 64
+ },
+ {
+  "id": "eb@0896447c",
+  "en": "Walmitt",
+  "len": 11
+ },
+ {
+  "id": "eb@089644c2",
+  "en": "Enough. Kindly get out of here at once.\"",
+  "len": 41
+ },
+ {
+  "id": "eb@08964524",
+  "en": "A new light now dwells in the compass.",
+  "len": 29
+ },
+ {
+  "id": "eb@08964544",
+  "en": "You already have it.",
+  "len": 21
+ },
+ {
+  "id": "eb@0896455c",
+  "en": "You don't have enough Fame.",
+  "len": 23
+ },
+ {
+  "id": "eb@08964574",
+  "en": "This is the current weather.",
+  "len": 15
+ },
+ {
+  "id": "eb@089645f0",
+  "en": "Data error",
+  "len": 13
+ },
+ {
+  "id": "eb@08964670",
+  "en": "Installation failed.\nAborting installation.k",
+  "len": 57
+ },
+ {
+  "id": "eb@089646ac",
+  "en": "Writing data...",
+  "len": 23
+ },
+ {
+  "id": "eb@089646c4",
+  "en": "Stable",
+  "len": 7
+ },
+ {
+  "id": "eb@089646cc",
+  "en": "Economy",
+  "len": 11
+ },
+ {
+  "id": "eb@089646d8",
+  "en": "Suite",
+  "len": 9
+ },
+ {
+  "id": "eb@089646e4",
+  "en": "Royal Suite",
+  "len": 17
+ },
+ {
+  "id": "eb@089646f8",
+  "en": "Tent",
+  "len": 7
+ },
+ {
+  "id": "eb@089647c8",
+  "en": "-Storage-",
+  "len": 9
+ },
+ {
+  "id": "eb@089647d4",
+  "en": "-Storage-",
+  "len": 11
+ },
+ {
+  "id": "eb@08964834",
+  "en": "* Alchemy Storage Use *",
+  "len": 23
+ },
+ {
+  "id": "eb@0896484c",
+  "en": "Smith/Alchemy/Dismantle/Storage",
+  "len": 23
+ },
+ {
+  "id": "eb@08964864",
+  "en": "Per use %6d GP",
+  "len": 18
+ },
+ {
+  "id": "eb@08964878",
+  "en": "If an explosion occurs,",
+  "len": 21
+ },
+ {
+  "id": "eb@08964890",
+  "en": "all GP on hand is seized.",
+  "len": 17
+ },
+ {
+  "id": "eb@089648b8",
+  "en": "For the next level,",
+  "len": 15
+ },
+ {
+  "id": "eb@089648c8",
+  "en": "you need %d more EXP.",
+  "len": 25
+ },
+ {
+  "id": "eb@089648e4",
+  "en": "Level is already at max",
+  "len": 25
+ },
+ {
+  "id": "eb@08964900",
+  "en": "%s leveled up!",
+  "len": 25
+ },
+ {
+  "id": "eb@0896491c",
+  "en": "Gained Summa ability",
+  "len": 17
+ },
+ {
+  "id": "eb@08964930",
+  "en": "Gained High Master ability",
+  "len": 23
+ },
+ {
+  "id": "eb@08964948",
+  "en": "%s %s",
+  "len": 9
+ },
+ {
+  "id": "eb@08964954",
+  "en": "gained",
+  "len": 5
+ },
+ {
+  "id": "eb@0896495c",
+  "en": "lost",
+  "len": 7
+ },
+ {
+  "id": "eb@08964964",
+  "en": "Learned new spells",
+  "len": 19
+ },
+ {
+  "id": "eb@08964978",
+  "en": "HP increased by %4d",
+  "len": 18
+ },
+ {
+  "id": "eb@089649ac",
+  "en": "%s went to sleep.",
+  "len": 19
+ },
+ {
+  "id": "eb@089649c0",
+  "en": "Happy birthday!",
+  "len": 21
+ },
+ {
+  "id": "eb@089649d8",
+  "en": "%s died of old age.",
+  "len": 25
+ },
+ {
+  "id": "eb@089649f4",
+  "en": "( Died at age %d )",
+  "len": 20
+ },
+ {
+  "id": "eb@08964a30",
+  "en": "There is no save data on the Memory Stick.",
+  "len": 48
+ },
+ {
+  "id": "eb@08964a60",
+  "en": "No Memory Stick is inserted.",
+  "len": 40
+ },
+ {
+  "id": "eb@08964a88",
+  "en": "Failed to load.",
+  "len": 22
+ },
+ {
+  "id": "eb@08964ab4",
+  "en": "Starting a new game.",
+  "len": 23
+ },
+ {
+  "id": "eb@08964acc",
+  "en": "Save data is corrupt.\nIt will be deleted.",
+  "len": 42
+ },
+ {
+  "id": "eb@08964af8",
+  "en": "Deleting corrupted save data.\nDo not remove the Memory Stick.",
+  "len": 74
+ },
+ {
+  "id": "eb@08964b44",
+  "en": "Deleted.",
+  "len": 14
+ },
+ {
+  "id": "eb@08964b54",
+  "en": "Failed to delete.",
+  "len": 20
+ },
+ {
+  "id": "eb@08964b68",
+  "en": "Installed data is corrupted\nand will be deleted.",
+  "len": 54
+ },
+ {
+  "id": "eb@08964ba0",
+  "en": "Deleting corrupted install data.\nDo not remove the Memory Stick.",
+  "len": 80
+ },
+ {
+  "id": "eb@08964c4c",
+  "en": " 3.Char Image View",
+  "len": 20
+ },
+ {
+  "id": "eb@08964c74",
+  "en": " 5.New Game",
+  "len": 12
+ },
+ {
+  "id": "eb@08964cf8",
+  "en": "13.Battle Effects",
+  "len": 18
+ },
+ {
+  "id": "eb@08964d40",
+  "en": "16.Load Save Data",
+  "len": 24
+ },
+ {
+  "id": "eb@08964d98",
+  "en": "Adv=%d",
+  "len": 6
+ },
+ {
+  "id": "eb@08964da0",
+  "en": "Mon=%d",
+  "len": 6
+ },
+ {
+  "id": "eb@08964db0",
+  "en": "MonRow=%03d",
+  "len": 10
+ },
+ {
+  "id": "eb@08964dc4",
+  "en": "[Normal]",
+  "len": 7
+ },
+ {
+  "id": "eb@08964ddc",
+  "en": "[Phys]",
+  "len": 7
+ },
+ {
+  "id": "eb@08964de4",
+  "en": "[Spell]",
+  "len": 7
+ },
+ {
+  "id": "eb@08964e00",
+  "en": "( Regular )",
+  "len": 9
+ },
+ {
+  "id": "eb@08964e20",
+  "en": "All Characters Mode",
+  "len": 15
+ },
+ {
+  "id": "eb@08964e30",
+  "en": "Defeated Monsters Only",
+  "len": 19
+ },
+ {
+  "id": "eb@08964e4c",
+  "en": "Opening 01",
+  "len": 15
+ },
+ {
+  "id": "eb@08964e5c",
+  "en": "Opening 02",
+  "len": 15
+ },
+ {
+  "id": "eb@08964e6c",
+  "en": "Ending",
+  "len": 13
+ },
+ {
+  "id": "eb@08964eb0",
+  "en": "(Single Row)",
+  "len": 7
+ },
+ {
+  "id": "eb@08964eb8",
+  "en": "(Normal)",
+  "len": 7
+ },
+ {
+  "id": "eb@08964ec0",
+  "en": "TrsTBL=#%3d",
+  "len": 11
+ },
+ {
+  "id": "eb@08964ef4",
+  "en": "Press the Cross button to go back.",
+  "len": 21
+ },
+ {
+  "id": "eb@08964f0c",
+  "en": "<-                ->",
+  "len": 21
+ },
+ {
+  "id": "eb@08964f24",
+  "en": "SQJingle-Int",
+  "len": 15
+ },
+ {
+  "id": "eb@08964f40",
+  "en": "STR-BGM: ",
+  "len": 10
+ },
+ {
+  "id": "eb@08964f4c",
+  "en": "Int-SE: ",
+  "len": 9
+ },
+ {
+  "id": "eb@08964f5c",
+  "en": "BVOL  : ",
+  "len": 9
+ },
+ {
+  "id": "eb@08964f74",
+  "en": "Monsters defeated=%d",
+  "len": 20
+ },
+ {
+  "id": "eb@08964f88",
+  "en": "Elminage Character Viewer",
+  "len": 29
+ },
+ {
+  "id": "eb@08964fa8",
+  "en": "Left/Right:ID+-1, Up/Down:ID+-10, LStick up/down:Pan, Cross button:Quit.",
+  "len": 59
+ },
+ {
+  "id": "eb@0896500c",
+  "en": "Left/Right:ID+-1, Up/Down:ID+-10, L/R:Change anim, Stick up/down:Pan, Cross:Quit.",
+  "len": 67
+ },
+ {
+  "id": "eb@08965368",
+  "en": "Master Therion",
+  "len": 17
+ },
+ {
+  "id": "eb@0896685c",
+  "en": "SCERR:CALL instruction nested too deep(SC:%05d)",
+  "len": 48
+ },
+ {
+  "id": "eb@0896688c",
+  "en": "SCERR:Invalid RET instruction(SC:%05d)",
+  "len": 36
+ },
+ {
+  "id": "eb@089668d0",
+  "en": "Above the clouds",
+  "len": 7
+ },
+ {
+  "id": "eb@089668fc",
+  "en": "You can't create that here.",
+  "len": 25
+ },
+ {
+  "id": "eb@08966930",
+  "en": "SCERR:CALL instruction nesting error(SC:%05d)",
+  "len": 36
+ },
+ {
+  "id": "eb@0896ac58",
+  "en": "Gimmick data has been updated. Please delete the save data.",
+  "len": 57
+ },
+ {
+  "id": "eb@0896adbc",
+  "en": "Bare Hands",
+  "len": 5
+ },
+ {
+  "id": "eb@0896ae20",
+  "en": "Floor Data Analysis",
+  "len": 21
+ },
+ {
+  "id": "eb@0896ae3c",
+  "en": "Map Flag Settings",
+  "len": 17
+ },
+ {
+  "id": "eb@0896ae54",
+  "en": "Game Flag Settings",
+  "len": 17
+ },
+ {
+  "id": "eb@0896ae6c",
+  "en": "Game Item Flag Settings",
+  "len": 25
+ },
+ {
+  "id": "eb@0896ae8c",
+  "en": "Party Status Settings",
+  "len": 23
+ },
+ {
+  "id": "eb@0896aea8",
+  "en": "Compass Target Info",
+  "len": 21
+ },
+ {
+  "id": "eb@0896aec4",
+  "en": "Change Floor",
+  "len": 17
+ },
+ {
+  "id": "eb@0896aedc",
+  "en": "Oland's Shop Discovered Item Settings",
+  "len": 33
+ },
+ {
+  "id": "eb@0896af04",
+  "en": "Oland's Shop Item Settings",
+  "len": 25
+ },
+ {
+  "id": "eb@0896af24",
+  "en": "Summoner Contract Settings",
+  "len": 15
+ },
+ {
+  "id": "eb@0896af38",
+  "en": "Fame-Related Settings",
+  "len": 17
+ },
+ {
+  "id": "eb@0896af50",
+  "en": "Floor Master Info",
+  "len": 19
+ },
+ {
+  "id": "eb@0896af68",
+  "en": "Force Chest Trap Setting",
+  "len": 17
+ },
+ {
+  "id": "eb@0896afe4",
+  "en": "Move to a different floor",
+  "len": 21
+ },
+ {
+  "id": "eb@0896affc",
+  "en": "Set the map's flag info",
+  "len": 29
+ },
+ {
+  "id": "eb@0896b01c",
+  "en": "Set the game flag info",
+  "len": 27
+ },
+ {
+  "id": "eb@0896b038",
+  "en": "Set the item flag info",
+  "len": 29
+ },
+ {
+  "id": "eb@0896b078",
+  "en": "Show info on the compass search targets",
+  "len": 33
+ },
+ {
+  "id": "eb@0896b09c",
+  "en": "Settings for items found at Oland's Shop",
+  "len": 35
+ },
+ {
+  "id": "eb@0896b0c0",
+  "en": "Settings for Oland's Shop items",
+  "len": 27
+ },
+ {
+  "id": "eb@0896b0dc",
+  "en": "Summoner contract settings",
+  "len": 17
+ },
+ {
+  "id": "eb@0896b0f0",
+  "en": "Fame-related settings",
+  "len": 19
+ },
+ {
+  "id": "eb@0896b124",
+  "en": "Turn on all footprint flags in the current dungeon",
+  "len": 35
+ },
+ {
+  "id": "eb@0896b204",
+  "en": "Force the window to close",
+  "len": 27
+ },
+ {
+  "id": "eb@0896b220",
+  "en": "Force a fade-in",
+  "len": 27
+ },
+ {
+  "id": "eb@0896b23c",
+  "en": "Analyze the floor data",
+  "len": 29
+ },
+ {
+  "id": "eb@0896b25c",
+  "en": "Clear the fixed-enemy flag table",
+  "len": 33
+ },
+ {
+  "id": "eb@0896b280",
+  "en": "Clear the free-memory monitor's peak",
+  "len": 35
+ },
+ {
+  "id": "eb@0896b2a4",
+  "en": "Mirror-copy the footprints of Jesbayler",
+  "len": 33
+ },
+ {
+  "id": "eb@0896b2c8",
+  "en": "Set VICTORY_COUNT to 2048",
+  "len": 30
+ },
+ {
+  "id": "eb@0896b2e8",
+  "en": "Return to the starting point",
+  "len": 19
+ },
+ {
+  "id": "eb@0896b2fc",
+  "en": "Toggle the timer state",
+  "len": 27
+ },
+ {
+  "id": "eb@0896b318",
+  "en": "Force the timer to 0",
+  "len": 27
+ },
+ {
+  "id": "eb@0896b354",
+  "en": "Copy the footprint flags to the history",
+  "len": 29
+ },
+ {
+  "id": "eb@0896b374",
+  "en": "Clear the footprint flag history",
+  "len": 29
+ },
+ {
+  "id": "eb@0896b394",
+  "en": "Clear the footprint flags",
+  "len": 23
+ },
+ {
+  "id": "eb@0896b3ac",
+  "en": "Make an item broken",
+  "len": 25
+ },
+ {
+  "id": "eb@0896b3c8",
+  "en": "Show Floor Master info",
+  "len": 29
+ },
+ {
+  "id": "eb@0896b3e8",
+  "en": "Force-set a treasure chest's trap",
+  "len": 23
+ },
+ {
+  "id": "eb@0896b400",
+  "en": "Show the Dungeon Load treasure info table",
+  "len": 41
+ },
+ {
+  "id": "eb@0896b848",
+  "en": "The floor data is normal.",
+  "len": 25
+ },
+ {
+  "id": "eb@0896b864",
+  "en": "The floor data and map data don't match.",
+  "len": 45
+ },
+ {
+  "id": "eb@0896b960",
+  "en": "Slp",
+  "len": 3
+ },
+ {
+  "id": "eb@0896b964",
+  "en": "Psn",
+  "len": 3
+ },
+ {
+  "id": "eb@0896b968",
+  "en": "Par",
+  "len": 3
+ },
+ {
+  "id": "eb@0896b96c",
+  "en": "Sil",
+  "len": 3
+ },
+ {
+  "id": "eb@0896b970",
+  "en": "Cnf",
+  "len": 3
+ },
+ {
+  "id": "eb@0896b974",
+  "en": "Chm",
+  "len": 3
+ },
+ {
+  "id": "eb@0896b978",
+  "en": "Stn",
+  "len": 3
+ },
+ {
+  "id": "eb@0896b97c",
+  "en": "Crs",
+  "len": 3
+ },
+ {
+  "id": "eb@0896b980",
+  "en": "Dead",
+  "len": 3
+ },
+ {
+  "id": "eb@0896b984",
+  "en": "Ash",
+  "len": 3
+ },
+ {
+  "id": "eb@0896b988",
+  "en": "Fear",
+  "len": 3
+ },
+ {
+  "id": "eb@0896bbb4",
+  "en": "There is no Summoner in the party.",
+  "len": 31
+ },
+ {
+  "id": "eb@0896bbf0",
+  "en": "No contract",
+  "len": 7
+ },
+ {
+  "id": "eb@0896bc1c",
+  "en": "Hemaid Red Stone",
+  "len": 15
+ },
+ {
+  "id": "eb@0896bc2c",
+  "en": "Green Plakio",
+  "len": 17
+ },
+ {
+  "id": "eb@0896bc40",
+  "en": "Blue Menon",
+  "len": 13
+ },
+ {
+  "id": "eb@0896bc50",
+  "en": "Selcoa Paint",
+  "len": 15
+ },
+ {
+  "id": "eb@0896bc60",
+  "en": "Celestial Readings",
+  "len": 13
+ },
+ {
+  "id": "eb@0896bc70",
+  "en": "Wing Soul",
+  "len": 15
+ },
+ {
+  "id": "eb@0896bc80",
+  "en": "Old Man's Plans",
+  "len": 15
+ },
+ {
+  "id": "eb@0896bc90",
+  "en": "Cannon Tools",
+  "len": 9
+ },
+ {
+  "id": "eb@0896bc9c",
+  "en": "Seasoned Snacks",
+  "len": 15
+ },
+ {
+  "id": "eb@0896bcac",
+  "en": "Alton's Treasure",
+  "len": 15
+ },
+ {
+  "id": "eb@0896bcbc",
+  "en": "Behiem Royal Tomb",
+  "len": 17
+ },
+ {
+  "id": "eb@0896bcd0",
+  "en": "Gamea House Legacy",
+  "len": 15
+ },
+ {
+  "id": "eb@0896bd10",
+  "en": "Jewel Ring Search",
+  "len": 19
+ },
+ {
+  "id": "eb@0896bd24",
+  "en": "Key Item Search",
+  "len": 17
+ },
+ {
+  "id": "eb@0896bd38",
+  "en": "Altar Search",
+  "len": 9
+ },
+ {
+  "id": "eb@0896bd50",
+  "en": "Current compass: %s",
+  "len": 19
+ },
+ {
+  "id": "eb@0896bdb8",
+  "en": "Trap Type",
+  "len": 11
+ },
+ {
+  "id": "eb@0896bdf0",
+  "en": "Normal",
+  "len": 5
+ },
+ {
+  "id": "eb@0896bdf8",
+  "en": "Medium",
+  "len": 5
+ },
+ {
+  "id": "eb@0896be00",
+  "en": "Rare",
+  "len": 5
+ },
+ {
+  "id": "eb@0896be14",
+  "en": "This isn't a Dungeon Load floor.",
+  "len": 41
+ },
+ {
+  "id": "eb@0896bf3c",
+  "en": "Have you read the disclaimer and confirmed there are no problems?",
+  "len": 47
+ },
+ {
+  "id": "eb@0896bf70",
+  "en": "Yes",
+  "len": 5
+ },
+ {
+  "id": "eb@0896bf7c",
+  "en": "No",
+  "len": 7
+ },
+ {
+  "id": "eb@0896bf98",
+  "en": "Dungeon Load",
+  "len": 17
+ },
+ {
+  "id": "eb@0896c2f0",
+  "en": "It has no effect at all",
+  "len": 13
+ },
+ {
+  "id": "eb@0896c300",
+  "en": "It isn't working at all",
+  "len": 17
+ },
+ {
+  "id": "eb@0896c314",
+  "en": "It isn't very effective",
+  "len": 15
+ },
+ {
+  "id": "eb@0896c324",
+  "en": "It isn't having much effect",
+  "len": 19
+ },
+ {
+  "id": "eb@0896c338",
+  "en": "2x effect",
+  "len": 11
+ },
+ {
+  "id": "eb@0896c344",
+  "en": "3x effect",
+  "len": 11
+ },
+ {
+  "id": "eb@0896c350",
+  "en": "5x effect",
+  "len": 11
+ },
+ {
+  "id": "eb@0896c35c",
+  "en": "10x effect",
+  "len": 13
+ },
+ {
+  "id": "eb@0896c36c",
+  "en": "1.5x effect",
+  "len": 14
+ },
+ {
+  "id": "eb@0896c37c",
+  "en": "1.5x effect",
+  "len": 15
+ },
+ {
+  "id": "eb@0896c3f7",
+  "en": "?set a drain barrier",
+  "len": 22
+ },
+ {
+  "id": "eb@0896c410",
+  "en": "was shielded by a drain barrier",
+  "len": 23
+ },
+ {
+  "id": "eb@0896c428",
+  "en": "set a breath barrier",
+  "len": 19
+ },
+ {
+  "id": "eb@0896c43c",
+  "en": "was shielded by a breath barrier",
+  "len": 21
+ },
+ {
+  "id": "eb@0896c454",
+  "en": "is marked as a target and can't hide",
+  "len": 23
+ },
+ {
+  "id": "eb@0896c46c",
+  "en": "is hiding and can't mark a target",
+  "len": 25
+ },
+ {
+  "id": "eb@0896c488",
+  "en": "now has AC -20",
+  "len": 21
+ },
+ {
+  "id": "eb@0896c4a0",
+  "en": "raised spell resistance",
+  "len": 19
+ },
+ {
+  "id": "eb@0896c4b4",
+  "en": "had spell resistance raised",
+  "len": 23
+ },
+ {
+  "id": "eb@0896c4cc",
+  "en": "had spell resistance lowered",
+  "len": 23
+ },
+ {
+  "id": "eb@0896c4e4",
+  "en": "lowered spell resistance",
+  "len": 19
+ },
+ {
+  "id": "eb@0896c4f8",
+  "en": "gained speed",
+  "len": 17
+ },
+ {
+  "id": "eb@0896c50c",
+  "en": "had speed raised",
+  "len": 19
+ },
+ {
+  "id": "eb@0896c520",
+  "en": "had speed lowered",
+  "len": 19
+ },
+ {
+  "id": "eb@0896c534",
+  "en": "lowered speed",
+  "len": 15
+ },
+ {
+  "id": "eb@0896c544",
+  "en": "started counting down",
+  "len": 25
+ },
+ {
+  "id": "eb@0896c560",
+  "en": "had everyone's weapons blessed",
+  "len": 23
+ },
+ {
+  "id": "eb@0896c578",
+  "en": "increased attack count",
+  "len": 17
+ },
+ {
+  "id": "eb@0896c58c",
+  "en": "had attack count increased",
+  "len": 21
+ },
+ {
+  "id": "eb@0896c5a4",
+  "en": "now has unlimited range",
+  "len": 21
+ },
+ {
+  "id": "eb@0896c5bc",
+  "en": "was given unlimited range",
+  "len": 21
+ },
+ {
+  "id": "eb@0896c5d4",
+  "en": "marked a target for focused attacks",
+  "len": 17
+ },
+ {
+  "id": "eb@0896c5e8",
+  "en": "was marked for focused attacks",
+  "len": 17
+ },
+ {
+  "id": "eb@0896c5fc",
+  "en": "hid",
+  "len": 7
+ },
+ {
+  "id": "eb@0896c604",
+  "en": "lost sight of the enemy",
+  "len": 13
+ },
+ {
+  "id": "eb@0896c614",
+  "en": "had AC raised by 7",
+  "len": 19
+ },
+ {
+  "id": "eb@0896c628",
+  "en": "raised AC by 7",
+  "len": 15
+ },
+ {
+  "id": "eb@0896c638",
+  "en": "had everyone's AC raised by 4",
+  "len": 25
+ },
+ {
+  "id": "eb@0896c654",
+  "en": "raised everyone's AC by 4",
+  "len": 21
+ },
+ {
+  "id": "eb@0896c66c",
+  "en": "lowered everyone's AC by 3",
+  "len": 21
+ },
+ {
+  "id": "eb@0896c684",
+  "en": "lowered everyone's AC by 2",
+  "len": 21
+ },
+ {
+  "id": "eb@0896c69c",
+  "en": "surges with power from the ritual",
+  "len": 15
+ },
+ {
+  "id": "eb@0896c6b0",
+  "en": "strikes from the darkness",
+  "len": 13
+ },
+ {
+  "id": "eb@0896c6c0",
+  "en": "attacks in a fit of madness",
+  "len": 21
+ },
+ {
+  "id": "eb@0896c6d8",
+  "en": "looks displeased",
+  "len": 21
+ },
+ {
+  "id": "eb@0896c6f0",
+  "en": "looks unsatisfied",
+  "len": 23
+ },
+ {
+  "id": "eb@0896c708",
+  "en": "shuddered with masochistic pleasure",
+  "len": 23
+ },
+ {
+  "id": "eb@0896c720",
+  "en": "erupts with darkness",
+  "len": 15
+ },
+ {
+  "id": "eb@0896c730",
+  "en": "lets loose a thundering dragon's roar",
+  "len": 15
+ },
+ {
+  "id": "eb@0896c740",
+  "en": "stirs up a wind the color of darkness",
+  "len": 15
+ },
+ {
+  "id": "eb@0896c750",
+  "en": "is drunk on deadly poison",
+  "len": 21
+ },
+ {
+  "id": "eb@0896c768",
+  "en": "Blessing of Dark Oblivion",
+  "len": 11
+ },
+ {
+  "id": "eb@0896c774",
+  "en": "Damage x%s",
+  "len": 15
+ },
+ {
+  "id": "eb@0896c784",
+  "en": "??????",
+  "len": 13
+ },
+ {
+  "id": "eb@0896c794",
+  "en": "launched an ambush from the shadows!",
+  "len": 23
+ },
+ {
+  "id": "eb@0896c7ac",
+  "en": "was ambushed from the shadows",
+  "len": 23
+ },
+ {
+  "id": "eb@0896c7cc",
+  "en": "launched a swift attack!",
+  "len": 23
+ },
+ {
+  "id": "eb@0896c7e4",
+  "en": "was hit by a swift attack",
+  "len": 25
+ },
+ {
+  "id": "eb@0896c808",
+  "en": "Strafe Pursuit",
+  "len": 9
+ },
+ {
+  "id": "eb@0896c814",
+  "en": "Pursuit",
+  "len": 5
+ },
+ {
+  "id": "eb@0896c81c",
+  "en": "Bare Hands",
+  "len": 5
+ },
+ {
+  "id": "eb@0896c824",
+  "en": "has fallen asleep",
+  "len": 15
+ },
+ {
+  "id": "eb@0896c834",
+  "en": "fell asleep",
+  "len": 7
+ },
+ {
+  "id": "eb@0896c83c",
+  "en": "was poisoned",
+  "len": 15
+ },
+ {
+  "id": "eb@0896c84c",
+  "en": "inflicted poison",
+  "len": 11
+ },
+ {
+  "id": "eb@0896c858",
+  "en": "was paralyzed",
+  "len": 9
+ },
+ {
+  "id": "eb@0896c864",
+  "en": "was silenced",
+  "len": 9
+ },
+ {
+  "id": "eb@0896c870",
+  "en": "became confused",
+  "len": 9
+ },
+ {
+  "id": "eb@0896c87c",
+  "en": "was charmed",
+  "len": 11
+ },
+ {
+  "id": "eb@0896c888",
+  "en": "charmed the target",
+  "len": 9
+ },
+ {
+  "id": "eb@0896c894",
+  "en": "was petrified",
+  "len": 9
+ },
+ {
+  "id": "eb@0896c8a0",
+  "en": "was decapitated",
+  "len": 15
+ },
+ {
+  "id": "eb@0896c8b0",
+  "en": "decapitated the target",
+  "len": 11
+ },
+ {
+  "id": "eb@0896c8bc",
+  "en": "was level-drained",
+  "len": 21
+ },
+ {
+  "id": "eb@0896c8d4",
+  "en": "drained levels",
+  "len": 19
+ },
+ {
+  "id": "eb@0896c938",
+  "en": "Everyone %s",
+  "len": 9
+ },
+ {
+  "id": "eb@0896c944",
+  "en": "%s %s",
+  "len": 7
+ },
+ {
+  "id": "eb@0896c954",
+  "en": "was cursed",
+  "len": 9
+ },
+ {
+  "id": "eb@0896c960",
+  "en": "laid a curse",
+  "len": 7
+ },
+ {
+  "id": "eb@0896c968",
+  "en": "died",
+  "len": 9
+ },
+ {
+  "id": "eb@0896c974",
+  "en": "turned to ash",
+  "len": 9
+ },
+ {
+  "id": "eb@0896c980",
+  "en": "was struck with fear",
+  "len": 13
+ },
+ {
+  "id": "eb@0896c9f0",
+  "en": "was spotted",
+  "len": 11
+ },
+ {
+  "id": "eb@0896c9fc",
+  "en": "spotted the target",
+  "len": 9
+ },
+ {
+  "id": "eb@0896ca08",
+  "en": "wasn't found",
+  "len": 17
+ },
+ {
+  "id": "eb@0896ca1c",
+  "en": "has lost sight of the target",
+  "len": 13
+ },
+ {
+  "id": "eb@0896ca2c",
+  "en": "countered!",
+  "len": 13
+ },
+ {
+  "id": "eb@0896ca3c",
+  "en": "was countered!",
+  "len": 15
+ },
+ {
+  "id": "eb@0896ca4c",
+  "en": "Activated=%d, Failed=%d",
+  "len": 17
+ },
+ {
+  "id": "eb@0896ca60",
+  "en": "Blessing of the Dark Realm",
+  "len": 11
+ },
+ {
+  "id": "eb@0896ca6c",
+  "en": "gritted their teeth and held on",
+  "len": 19
+ },
+ {
+  "id": "eb@0896ca80",
+  "en": "missed",
+  "len": 7
+ },
+ {
+  "id": "eb@0896ca88",
+  "en": "The king's power changes fate",
+  "len": 21
+ },
+ {
+  "id": "eb@0896caa0",
+  "en": "nullified the drain",
+  "len": 21
+ },
+ {
+  "id": "eb@0896cab8",
+  "en": "had their drain nullified",
+  "len": 23
+ },
+ {
+  "id": "eb@0896cad0",
+  "en": "Dispel",
+  "len": 11
+ },
+ {
+  "id": "eb@0896cadc",
+  "en": "Succeeded=%d, Failed=%d",
+  "len": 17
+ },
+ {
+  "id": "eb@0896caf0",
+  "en": "lifted the curse",
+  "len": 13
+ },
+ {
+  "id": "eb@0896cb00",
+  "en": "had their curse lifted",
+  "len": 15
+ },
+ {
+  "id": "eb@0896cb10",
+  "en": "was unaffected",
+  "len": 11
+ },
+ {
+  "id": "eb@0896cb1c",
+  "en": "failed",
+  "len": 9
+ },
+ {
+  "id": "eb@0896cb28",
+  "en": "nullified it",
+  "len": 11
+ },
+ {
+  "id": "eb@0896cb34",
+  "en": "had it nullified",
+  "len": 13
+ },
+ {
+  "id": "eb@0896cb44",
+  "en": "reflected it",
+  "len": 9
+ },
+ {
+  "id": "eb@0896cb50",
+  "en": "Reflected!",
+  "len": 11
+ },
+ {
+  "id": "eb@0896cb5c",
+  "en": "had it absorbed",
+  "len": 11
+ },
+ {
+  "id": "eb@0896cb68",
+  "en": "absorbed it",
+  "len": 9
+ },
+ {
+  "id": "eb@0896cb74",
+  "en": "Activated=%d, Resisted=%d",
+  "len": 17
+ },
+ {
+  "id": "eb@0896cb88",
+  "en": "hurled curses",
+  "len": 23
+ },
+ {
+  "id": "eb@0896cba0",
+  "en": "is resisting",
+  "len": 13
+ },
+ {
+  "id": "eb@0896cbb0",
+  "en": "threw a corpse",
+  "len": 13
+ },
+ {
+  "id": "eb@0896cbc0",
+  "en": "unleashed a dazzling power",
+  "len": 19
+ },
+ {
+  "id": "eb@0896cbd4",
+  "en": "lowered the level by %d",
+  "len": 19
+ },
+ {
+  "id": "eb@0896cbe8",
+  "en": "dealt the finishing blow",
+  "len": 15
+ },
+ {
+  "id": "eb@0896cbf8",
+  "en": "was finished off",
+  "len": 19
+ },
+ {
+  "id": "eb@0896cc0c",
+  "en": "has no target",
+  "len": 13
+ },
+ {
+  "id": "eb@0896cc24",
+  "en": " was cured",
+  "len": 13
+ },
+ {
+  "id": "eb@0896cc34",
+  "en": "Maid Recover",
+  "len": 15
+ },
+ {
+  "id": "eb@0896cc44",
+  "en": "Recovery Phase",
+  "len": 19
+ },
+ {
+  "id": "eb@0896cc58",
+  "en": "regained HP",
+  "len": 15
+ },
+ {
+  "id": "eb@0896cc68",
+  "en": " hit(s)!",
+  "len": 11
+ },
+ {
+  "id": "eb@0896cc74",
+  "en": " damage",
+  "len": 11
+ },
+ {
+  "id": "eb@0896cc80",
+  "en": "Hit!",
+  "len": 9
+ },
+ {
+  "id": "eb@0896ccb4",
+  "en": "wiped out the healing",
+  "len": 17
+ },
+ {
+  "id": "eb@0896ccc8",
+  "en": "had their healing wiped out",
+  "len": 19
+ },
+ {
+  "id": "eb@0896ccdc",
+  "en": "Effect of the Hermit tarot",
+  "len": 19
+ },
+ {
+  "id": "eb@0896ccf0",
+  "en": "blocked natural healing",
+  "len": 19
+ },
+ {
+  "id": "eb@0896cd04",
+  "en": "had their natural healing blocked",
+  "len": 21
+ },
+ {
+  "id": "eb@0896cd1c",
+  "en": "Hinder chance (%d%%)",
+  "len": 21
+ },
+ {
+  "id": "eb@0896cd34",
+  "en": "regenerated",
+  "len": 13
+ },
+ {
+  "id": "eb@0896cd44",
+  "en": "is suffering from deadly poison",
+  "len": 21
+ },
+ {
+  "id": "eb@0896cd5c",
+  "en": "paid the price of the brand",
+  "len": 19
+ },
+ {
+  "id": "eb@0896cd70",
+  "en": "Great Fortune",
+  "len": 5
+ },
+ {
+  "id": "eb@0896cd78",
+  "en": "Good Fortune",
+  "len": 5
+ },
+ {
+  "id": "eb@0896cd80",
+  "en": "Small Fortune",
+  "len": 5
+ },
+ {
+  "id": "eb@0896cd88",
+  "en": "Late Fortune",
+  "len": 5
+ },
+ {
+  "id": "eb@0896cd90",
+  "en": "Reversal",
+  "len": 5
+ },
+ {
+  "id": "eb@0896cd98",
+  "en": "Misfortune",
+  "len": 3
+ },
+ {
+  "id": "eb@0896cd9c",
+  "en": "Great Misfortune",
+  "len": 5
+ },
+ {
+  "id": "eb@0896cda4",
+  "en": "Fatal Misfortune",
+  "len": 7
+ },
+ {
+  "id": "eb@0896ce2c",
+  "en": "Each surviving member gained\n%10llu GP",
+  "len": 47
+ },
+ {
+  "id": "eb@0896ce6c",
+  "en": "Each surviving member gained\n           GP",
+  "len": 51
+ },
+ {
+  "id": "eb@0896cea8",
+  "en": "Each surviving member gained\n           EP\n           GP",
+  "len": 73
+ },
+ {
+  "id": "eb@0896cf00",
+  "en": "Oops! %s!",
+  "len": 15
+ },
+ {
+  "id": "eb@0896cf10",
+  "en": "A Mimic appeared",
+  "len": 17
+ },
+ {
+  "id": "eb@0896cf24",
+  "en": "took damage",
+  "len": 17
+ },
+ {
+  "id": "eb@0896cf38",
+  "en": "All of %s's MP fell by 1",
+  "len": 21
+ },
+ {
+  "id": "eb@0896cf50",
+  "en": "%s's HP is now 9",
+  "len": 21
+ },
+ {
+  "id": "eb@0896cf68",
+  "en": "%s aged %s years",
+  "len": 19
+ },
+ {
+  "id": "eb@0896cf7c",
+  "en": "%s died",
+  "len": 13
+ },
+ {
+  "id": "eb@0896cf8c",
+  "en": "%s became 1 year younger",
+  "len": 19
+ },
+ {
+  "id": "eb@0896cfa0",
+  "en": "%s evaded",
+  "len": 13
+ },
+ {
+  "id": "eb@0896cfb0",
+  "en": "The call for reinforcements failed",
+  "len": 15
+ },
+ {
+  "id": "eb@0896cfc0",
+  "en": "The enemy called for help",
+  "len": 17
+ },
+ {
+  "id": "eb@0896cfd4",
+  "en": "The summoning failed",
+  "len": 15
+ },
+ {
+  "id": "eb@0896cfe4",
+  "en": "More monsters were called in",
+  "len": 25
+ },
+ {
+  "id": "eb@0896d000",
+  "en": "Escape succeeded!",
+  "len": 13
+ },
+ {
+  "id": "eb@0896d010",
+  "en": "The escape failed.",
+  "len": 17
+ },
+ {
+  "id": "eb@0896d024",
+  "en": "Judgment has fallen upon the adventurers",
+  "len": 25
+ },
+ {
+  "id": "eb@0896d040",
+  "en": "Bell of Judgment: all die instantly in %d turns",
+  "len": 33
+ },
+ {
+  "id": "eb@0896d064",
+  "en": "protected %s",
+  "len": 13
+ },
+ {
+  "id": "eb@0896d074",
+  "en": "shielded %s",
+  "len": 7
+ },
+ {
+  "id": "eb@0896d07c",
+  "en": "from harm.",
+  "len": 9
+ },
+ {
+  "id": "eb@0896d088",
+  "en": "tried to steal",
+  "len": 13
+ },
+ {
+  "id": "eb@0896d098",
+  "en": "stole an item",
+  "len": 17
+ },
+ {
+  "id": "eb@0896d0ac",
+  "en": "had an item stolen",
+  "len": 19
+ },
+ {
+  "id": "eb@0896d0c0",
+  "en": "Mysterious Bag",
+  "len": 11
+ },
+ {
+  "id": "eb@0896d0cc",
+  "en": "Couldn't carry it, so passed it on",
+  "len": 23
+ },
+ {
+  "id": "eb@0896d0e4",
+  "en": "There was nothing to steal",
+  "len": 21
+ },
+ {
+  "id": "eb@0896d0fc",
+  "en": "Can't carry any more items",
+  "len": 23
+ },
+ {
+  "id": "eb@0896d114",
+  "en": "Tried to strip off equipment",
+  "len": 19
+ },
+ {
+  "id": "eb@0896d128",
+  "en": "Stripped off the equipment",
+  "len": 13
+ },
+ {
+  "id": "eb@0896d138",
+  "en": "Had equipment stripped off",
+  "len": 15
+ },
+ {
+  "id": "eb@0896d148",
+  "en": "There was no equipment to strip",
+  "len": 23
+ },
+ {
+  "id": "eb@0896d168",
+  "en": " was made",
+  "len": 9
+ },
+ {
+  "id": "eb@0896d174",
+  "en": "%s was made",
+  "len": 12
+ },
+ {
+  "id": "eb@0896d180",
+  "en": "Nothing came of it",
+  "len": 17
+ },
+ {
+  "id": "eb@0896d194",
+  "en": "Started cooking",
+  "len": 13
+ },
+ {
+  "id": "eb@0896d1ac",
+  "en": "Split into copies",
+  "len": 9
+ },
+ {
+  "id": "eb@0896d1b8",
+  "en": "Tried to mimic an action",
+  "len": 21
+ },
+ {
+  "id": "eb@0896d1d0",
+  "en": "Mimicked the action",
+  "len": 13
+ },
+ {
+  "id": "eb@0896d200",
+  "en": "Rallied the allies",
+  "len": 15
+ },
+ {
+  "id": "eb@0896d210",
+  "en": "Is driven to destroy",
+  "len": 21
+ },
+ {
+  "id": "eb@0896d228",
+  "en": "Fortune Slip",
+  "len": 9
+ },
+ {
+  "id": "eb@0896d234",
+  "en": "Sacrificed their own life",
+  "len": 17
+ },
+ {
+  "id": "eb@0896d248",
+  "en": "Miracles don't happen twice",
+  "len": 19
+ },
+ {
+  "id": "eb@0896d25c",
+  "en": "Cut down a follower",
+  "len": 21
+ },
+ {
+  "id": "eb@0896d274",
+  "en": "Laughed loudly",
+  "len": 15
+ },
+ {
+  "id": "eb@0896d284",
+  "en": "Raised an Absolute Wall",
+  "len": 19
+ },
+ {
+  "id": "eb@0896d298",
+  "en": "A song of healing rings out",
+  "len": 19
+ },
+ {
+  "id": "eb@0896d2ac",
+  "en": "A song of hope rings out",
+  "len": 19
+ },
+ {
+  "id": "eb@0896d2c0",
+  "en": "A song of destruction rings out",
+  "len": 19
+ },
+ {
+  "id": "eb@0896d2d4",
+  "en": "A song of protection rings out",
+  "len": 19
+ },
+ {
+  "id": "eb@0896d2e8",
+  "en": "Master Therion",
+  "len": 17
+ },
+ {
+  "id": "eb@0896d2fc",
+  "en": "Is protected",
+  "len": 13
+ },
+ {
+  "id": "eb@0896d30c",
+  "en": "Swallow Slayer",
+  "len": 11
+ },
+ {
+  "id": "eb@0896d318",
+  "en": "Kicked the foe flying",
+  "len": 13
+ },
+ {
+  "id": "eb@0896d328",
+  "en": "Knocked the foe skyward",
+  "len": 11
+ },
+ {
+  "id": "eb@0896d334",
+  "en": "Slammed the foe down",
+  "len": 11
+ },
+ {
+  "id": "eb@0896d340",
+  "en": "Was kicked flying",
+  "len": 15
+ },
+ {
+  "id": "eb@0896d350",
+  "en": "Was knocked skyward",
+  "len": 15
+ },
+ {
+  "id": "eb@0896d360",
+  "en": "Was slammed down",
+  "len": 13
+ },
+ {
+  "id": "eb@0896d394",
+  "en": "Clean hit=%d, Fail=%d",
+  "len": 27
+ },
+ {
+  "id": "eb@0896d3b0",
+  "en": "Slammed the foe down, out cold",
+  "len": 21
+ },
+ {
+  "id": "eb@0896d3c8",
+  "en": "Was slammed down and knocked out",
+  "len": 21
+ },
+ {
+  "id": "eb@0896d3e0",
+  "en": "%s prevented the surprise attack",
+  "len": 21
+ },
+ {
+  "id": "eb@0896d3f8",
+  "en": "The adventurers' surprise attack succeeded",
+  "len": 19
+ },
+ {
+  "id": "eb@0896d40c",
+  "en": "%s prevented the surprise attack",
+  "len": 21
+ },
+ {
+  "id": "eb@0896d424",
+  "en": "The enemy's surprise attack succeeded",
+  "len": 15
+ },
+ {
+  "id": "eb@0896d434",
+  "en": "  Attacker  %2d:%-20s",
+  "len": 21
+ },
+ {
+  "id": "eb@0896d48c",
+  "en": "                Level = %05d",
+  "len": 30
+ },
+ {
+  "id": "eb@0896d4ac",
+  "en": "             Strength = %2d",
+  "len": 29
+ },
+ {
+  "id": "eb@0896d4cc",
+  "en": "          Elem Attack = (Fire%03d,Ice%03d,Elec%03d,Holy%03d,Dark%03d)",
+  "len": 62
+ },
+ {
+  "id": "eb@0896d50c",
+  "en": "          Spec Effect = (Sl%03d,Po%03d,Pa%03d,Si%03d,Cf%03d,Ch%03d,St%03d,Dc%03d,Dr%03d)",
+  "len": 90
+ },
+ {
+  "id": "eb@0896d568",
+  "en": "  Defender  %2d:%-20s",
+  "len": 21
+ },
+ {
+  "id": "eb@0896d5a0",
+  "en": "                  Row = %s",
+  "len": 28
+ },
+ {
+  "id": "eb@0896d5bc",
+  "en": "Front",
+  "len": 5
+ },
+ {
+  "id": "eb@0896d5c4",
+  "en": "Back",
+  "len": 5
+ },
+ {
+  "id": "eb@0896d5cc",
+  "en": "         Spell Resist = (Mag%03d,Pri%03d,Alc%03d,Sum%03d)",
+  "len": 55
+ },
+ {
+  "id": "eb@0896d604",
+  "en": "         Elem Defense = (Fire%03d,Ice%03d,Elec%03d,Holy%03d,Dark%03d)",
+  "len": 62
+ },
+ {
+  "id": "eb@0896d644",
+  "en": "         Spec Resist = (Sl%03d,Po%03d,Pa%03d,Si%03d,Cf%03d,Ch%03d,St%03d,Dc%03d,Dr%03d)",
+  "len": 89
+ },
+ {
+  "id": "eb@0896d6a0",
+  "en": "[Chest Setup] Treasure table idx=%d",
+  "len": 30
+ },
+ {
+  "id": "eb@0896d6c0",
+  "en": " Qty=%d, ChestID=%d, Traps=%d, Type=%d:%s, ",
+  "len": 48
+ },
+ {
+  "id": "eb@0896d714",
+  "en": "%s Seal=%d, Fail=%d",
+  "len": 19
+ },
+ {
+  "id": "eb@0896d728",
+  "en": "Weapon",
+  "len": 5
+ },
+ {
+  "id": "eb@0896d730",
+  "en": "Armor",
+  "len": 5
+ },
+ {
+  "id": "eb@0896d738",
+  "en": "%s broke",
+  "len": 11
+ },
+ {
+  "id": "eb@0896d744",
+  "en": "%s hid",
+  "len": 13
+ },
+ {
+  "id": "eb@0896d754",
+  "en": "Tried to hide",
+  "len": 15
+ },
+ {
+  "id": "eb@0896d764",
+  "en": "Barrier",
+  "len": 5
+ },
+ {
+  "id": "eb@0896d76c",
+  "en": "Spell Reflect Barrier",
+  "len": 13
+ },
+ {
+  "id": "eb@0896d77c",
+  "en": "Reflect Barrier",
+  "len": 9
+ },
+ {
+  "id": "eb@0896d788",
+  "en": "Spell Nullify Barrier",
+  "len": 15
+ },
+ {
+  "id": "eb@0896d798",
+  "en": "Nullify Barrier",
+  "len": 11
+ },
+ {
+  "id": "eb@0896d7a4",
+  "en": "Spell Dampen Barrier (%d%%)",
+  "len": 19
+ },
+ {
+  "id": "eb@0896d7b8",
+  "en": "Defense Barrier (%d%%)",
+  "len": 15
+ },
+ {
+  "id": "eb@0896d7c8",
+  "en": "Tried to interfere with magic",
+  "len": 17
+ },
+ {
+  "id": "eb@0896d7dc",
+  "en": "Was hit by magic interference",
+  "len": 17
+ },
+ {
+  "id": "eb@0896d7f0",
+  "en": "The barrier vanished!",
+  "len": 17
+ },
+ {
+  "id": "eb@0896d804",
+  "en": "Had the barrier dispelled",
+  "len": 19
+ },
+ {
+  "id": "eb@0896d818",
+  "en": "The barrier holds firm",
+  "len": 17
+ },
+ {
+  "id": "eb@0896d82c",
+  "en": "It had no effect",
+  "len": 15
+ },
+ {
+  "id": "eb@0896d83c",
+  "en": "You rested in the tent.",
+  "len": 15
+ },
+ {
+  "id": "eb@0896d84c",
+  "en": "No message",
+  "len": 15
+ },
+ {
+  "id": "eb@0896d85c",
+  "en": "Baldy",
+  "len": 5
+ },
+ {
+  "id": "eb@0896d864",
+  "en": "The breath element changed to \"%s\"",
+  "len": 31
+ },
+ {
+  "id": "eb@0896d8ac",
+  "en": "0. The Fool",
+  "len": 9
+ },
+ {
+  "id": "eb@0896d8b8",
+  "en": "The adventurers fell asleep",
+  "len": 19
+ },
+ {
+  "id": "eb@0896d8cc",
+  "en": "The monsters fell asleep",
+  "len": 19
+ },
+ {
+  "id": "eb@0896d8e0",
+  "en": "I. The Magician",
+  "len": 11
+ },
+ {
+  "id": "eb@0896d8ec",
+  "en": "The adventurers' spell power rose",
+  "len": 25
+ },
+ {
+  "id": "eb@0896d908",
+  "en": "The monsters' spell power rose",
+  "len": 25
+ },
+ {
+  "id": "eb@0896d924",
+  "en": "II. The High Priestess",
+  "len": 11
+ },
+ {
+  "id": "eb@0896d930",
+  "en": "The adventurers were poisoned",
+  "len": 23
+ },
+ {
+  "id": "eb@0896d948",
+  "en": "The monsters were poisoned",
+  "len": 23
+ },
+ {
+  "id": "eb@0896d960",
+  "en": "III. The Empress",
+  "len": 9
+ },
+ {
+  "id": "eb@0896d96c",
+  "en": "Physical attacks are forbidden for everyone",
+  "len": 21
+ },
+ {
+  "id": "eb@0896d984",
+  "en": "IV. The Emperor",
+  "len": 9
+ },
+ {
+  "id": "eb@0896d990",
+  "en": "The adventurers were silenced",
+  "len": 21
+ },
+ {
+  "id": "eb@0896d9a8",
+  "en": "The monsters were silenced",
+  "len": 21
+ },
+ {
+  "id": "eb@0896d9c0",
+  "en": "V. The Hierophant",
+  "len": 9
+ },
+ {
+  "id": "eb@0896d9cc",
+  "en": "Special actions are forbidden for everyone",
+  "len": 21
+ },
+ {
+  "id": "eb@0896d9e4",
+  "en": "VI. The Lovers",
+  "len": 9
+ },
+ {
+  "id": "eb@0896d9f0",
+  "en": "The adventurers were charmed",
+  "len": 23
+ },
+ {
+  "id": "eb@0896da08",
+  "en": "The monsters were charmed",
+  "len": 23
+ },
+ {
+  "id": "eb@0896da20",
+  "en": "VII. The Chariot",
+  "len": 9
+ },
+ {
+  "id": "eb@0896da2c",
+  "en": "The adventurers' evasion rose",
+  "len": 25
+ },
+ {
+  "id": "eb@0896da48",
+  "en": "The monsters' evasion rose",
+  "len": 25
+ },
+ {
+  "id": "eb@0896da64",
+  "en": "VIII. Justice",
+  "len": 9
+ },
+ {
+  "id": "eb@0896da70",
+  "en": "Those of Good alignment were blessed",
+  "len": 23
+ },
+ {
+  "id": "eb@0896da88",
+  "en": "IX. The Hermit",
+  "len": 9
+ },
+ {
+  "id": "eb@0896da94",
+  "en": "Passive fighting has been forbidden",
+  "len": 25
+ },
+ {
+  "id": "eb@0896dab0",
+  "en": "X. Wheel of Fortune",
+  "len": 13
+ },
+ {
+  "id": "eb@0896dac0",
+  "en": "Everyone's turn order was thrown into chaos",
+  "len": 23
+ },
+ {
+  "id": "eb@0896dad8",
+  "en": "XI. Strength",
+  "len": 9
+ },
+ {
+  "id": "eb@0896dae4",
+  "en": "The adventurers' attack power rose",
+  "len": 25
+ },
+ {
+  "id": "eb@0896db00",
+  "en": "The monsters' attack power rose",
+  "len": 25
+ },
+ {
+  "id": "eb@0896db1c",
+  "en": "XII. The Hanged Man",
+  "len": 19
+ },
+ {
+  "id": "eb@0896db30",
+  "en": "Everyone's luck dropped",
+  "len": 17
+ },
+ {
+  "id": "eb@0896db44",
+  "en": "XIII. Death",
+  "len": 11
+ },
+ {
+  "id": "eb@0896db50",
+  "en": "Was carried off to the world of the dead",
+  "len": 23
+ },
+ {
+  "id": "eb@0896db68",
+  "en": "XIV. Temperance",
+  "len": 11
+ },
+ {
+  "id": "eb@0896db74",
+  "en": "Those of Neutral alignment were blessed",
+  "len": 25
+ },
+ {
+  "id": "eb@0896db90",
+  "en": "XV. The Devil",
+  "len": 11
+ },
+ {
+  "id": "eb@0896db9c",
+  "en": "Those of Evil alignment were blessed",
+  "len": 23
+ },
+ {
+  "id": "eb@0896dbb4",
+  "en": "XVI. The Tower",
+  "len": 9
+ },
+ {
+  "id": "eb@0896dbc0",
+  "en": "The adventurers were confused",
+  "len": 23
+ },
+ {
+  "id": "eb@0896dbd8",
+  "en": "The monsters were confused",
+  "len": 23
+ },
+ {
+  "id": "eb@0896dbf0",
+  "en": "XVII. The Star",
+  "len": 9
+ },
+ {
+  "id": "eb@0896dbfc",
+  "en": "The adventurers' accuracy rose",
+  "len": 25
+ },
+ {
+  "id": "eb@0896dc18",
+  "en": "The monsters' accuracy rose",
+  "len": 25
+ },
+ {
+  "id": "eb@0896dc34",
+  "en": "XVIII. The Moon",
+  "len": 9
+ },
+ {
+  "id": "eb@0896dc40",
+  "en": "The adventurers ran away",
+  "len": 23
+ },
+ {
+  "id": "eb@0896dc58",
+  "en": "The monsters ran away",
+  "len": 23
+ },
+ {
+  "id": "eb@0896dc70",
+  "en": "XIX. The Sun",
+  "len": 11
+ },
+ {
+  "id": "eb@0896dc7c",
+  "en": "The adventurers recovered",
+  "len": 21
+ },
+ {
+  "id": "eb@0896dc94",
+  "en": "The monsters recovered",
+  "len": 21
+ },
+ {
+  "id": "eb@0896dcac",
+  "en": "XX. Judgement",
+  "len": 11
+ },
+ {
+  "id": "eb@0896dcb8",
+  "en": "Await the hour of judgment",
+  "len": 15
+ },
+ {
+  "id": "eb@0896dcc8",
+  "en": "XXI. The World",
+  "len": 13
+ },
+ {
+  "id": "eb@0896dcd8",
+  "en": "Everyone's defensive resistances vanished",
+  "len": 25
+ },
+ {
+  "id": "eb@0896de54",
+  "en": "Success=%d, Check=%d",
+  "len": 19
+ },
+ {
+  "id": "eb@0896de68",
+  "en": "A tarot card was drawn",
+  "len": 17
+ },
+ {
+  "id": "eb@0896de7c",
+  "en": "Draw failed",
+  "len": 11
+ },
+ {
+  "id": "eb@0896de88",
+  "en": "Draw succeeded",
+  "len": 11
+ },
+ {
+  "id": "eb@0896de94",
+  "en": "Death pointed its finger",
+  "len": 17
+ },
+ {
+  "id": "eb@0896dea8",
+  "en": "Target Lv=%d",
+  "len": 14
+ },
+ {
+  "id": "eb@0896deb8",
+  "en": "Death's will was repelled",
+  "len": 23
+ },
+ {
+  "id": "eb@0896ded0",
+  "en": "All-Out Attack can't be used",
+  "len": 19
+ },
+ {
+  "id": "eb@0896dee4",
+  "en": "Command Repeat can't be used",
+  "len": 29
+ },
+ {
+  "id": "eb@0896df04",
+  "en": "Square: All-Out Attack / R: Command Repeat / L: Back to Normal Mode",
+  "len": 77
+ },
+ {
+  "id": "eb@0896df54",
+  "en": "Characters attack in the order commands were entered. L: Back to Normal Mode",
+  "len": 81
+ },
+ {
+  "id": "eb@0896e248",
+  "en": "%s\nhas been lost.",
+  "len": 19
+ },
+ {
+  "id": "eb@0896e2d0",
+  "en": "  ",
+  "len": 3
+ },
+ {
+  "id": "eb@0896e2d4",
+  "en": "Took up a counterattack stance",
+  "len": 19
+ },
+ {
+  "id": "eb@0896e2e8",
+  "en": "The opponent took up a counterattack stance",
+  "len": 25
+ },
+ {
+  "id": "eb@0896e304",
+  "en": "%s drew a fortune slip",
+  "len": 23
+ },
+ {
+  "id": "eb@0896e31c",
+  "en": "A fortune slip was drawn",
+  "len": 17
+ },
+ {
+  "id": "eb@0896e330",
+  "en": "%s %s",
+  "len": 7
+ },
+ {
+  "id": "eb@0896e338",
+  "en": "A treasure chest!",
+  "len": 9
+ },
+ {
+  "id": "eb@0896e344",
+  "en": "Treasure unearthed!",
+  "len": 17
+ },
+ {
+  "id": "eb@0896e358",
+  "en": "Everyone escaped successfully!",
+  "len": 19
+ },
+ {
+  "id": "eb@0896e36c",
+  "en": "Everyone failed to escape.",
+  "len": 23
+ },
+ {
+  "id": "eb@0896e384",
+  "en": "It was resisted",
+  "len": 11
+ },
+ {
+  "id": "eb@0896e390",
+  "en": "Resisted it",
+  "len": 9
+ },
+ {
+  "id": "eb@0896e39c",
+  "en": "Status ailments were cured",
+  "len": 19
+ },
+ {
+  "id": "eb@0896e3b0",
+  "en": "Everyone's stats returned to normal",
+  "len": 23
+ },
+ {
+  "id": "eb@0896e3c8",
+  "en": "A divine miracle rained down",
+  "len": 21
+ },
+ {
+  "id": "eb@0896e3e0",
+  "en": "Withdrew from battle",
+  "len": 9
+ },
+ {
+  "id": "eb@0896e3ec",
+  "en": "A mirror image appeared",
+  "len": 15
+ },
+ {
+  "id": "eb@0896e3fc",
+  "en": "The item was repaired",
+  "len": 21
+ },
+ {
+  "id": "eb@0896e414",
+  "en": "Rand(0,%d)=%d",
+  "len": 14
+ },
+ {
+  "id": "eb@0896e424",
+  "en": "Withstood the pull",
+  "len": 17
+ },
+ {
+  "id": "eb@0896e438",
+  "en": "The ranks were swapped",
+  "len": 21
+ },
+ {
+  "id": "eb@0896e450",
+  "en": "HP was halved",
+  "len": 15
+ },
+ {
+  "id": "eb@0896e460",
+  "en": "The wish was granted",
+  "len": 17
+ },
+ {
+  "id": "eb@0896e474",
+  "en": "Sent it back to its own world",
+  "len": 19
+ },
+ {
+  "id": "eb@0896e488",
+  "en": "Attempted a contract",
+  "len": 13
+ },
+ {
+  "id": "eb@0896e498",
+  "en": "Success=%d, Resist=%d",
+  "len": 17
+ },
+ {
+  "id": "eb@0896e4ac",
+  "en": "Cannot form a contract",
+  "len": 13
+ },
+ {
+  "id": "eb@0896e4bc",
+  "en": "Contract failed",
+  "len": 9
+ },
+ {
+  "id": "eb@0896e4c8",
+  "en": "Contract succeeded",
+  "len": 9
+ },
+ {
+  "id": "eb@0896e4d4",
+  "en": "A monster appeared",
+  "len": 15
+ },
+ {
+  "id": "eb@0896e4e4",
+  "en": "No contract has been made",
+  "len": 17
+ },
+ {
+  "id": "eb@0896e4f8",
+  "en": "Absorbed magic power",
+  "len": 15
+ },
+ {
+  "id": "eb@0896e508",
+  "en": "Negated the resistance",
+  "len": 17
+ },
+ {
+  "id": "eb@0896e51c",
+  "en": "Spirit Contract",
+  "len": 9
+ },
+ {
+  "id": "eb@0896e528",
+  "en": "Was swallowed by a fissure",
+  "len": 17
+ },
+ {
+  "id": "eb@0896e53c",
+  "en": "Compel=%d, Resist=%d",
+  "len": 21
+ },
+ {
+  "id": "eb@0896e554",
+  "en": "The power of life overflows",
+  "len": 21
+ },
+ {
+  "id": "eb@0896e588",
+  "en": "Attack",
+  "len": 5
+ },
+ {
+  "id": "eb@0896e590",
+  "en": "Spell",
+  "len": 5
+ },
+ {
+  "id": "eb@0896e598",
+  "en": "Special",
+  "len": 5
+ },
+ {
+  "id": "eb@0896e5a0",
+  "en": "Item",
+  "len": 5
+ },
+ {
+  "id": "eb@0896e5a8",
+  "en": "Equip",
+  "len": 5
+ },
+ {
+  "id": "eb@0896e5b0",
+  "en": "Guard",
+  "len": 5
+ },
+ {
+  "id": "eb@0896e5b8",
+  "en": "Run",
+  "len": 5
+ },
+ {
+  "id": "eb@0896e620",
+  "en": "Ambush",
+  "len": 5
+ },
+ {
+  "id": "eb@0896eb14",
+  "en": "Inspect",
+  "len": 7
+ },
+ {
+  "id": "eb@0896eb1c",
+  "en": "Disarm Trap",
+  "len": 11
+ },
+ {
+  "id": "eb@0896eb28",
+  "en": "Portal",
+  "len": 9
+ },
+ {
+  "id": "eb@0896eb34",
+  "en": "High Portal",
+  "len": 13
+ },
+ {
+  "id": "eb@0896eb44",
+  "en": "Open",
+  "len": 7
+ },
+ {
+  "id": "eb@0896eb4c",
+  "en": "Leave",
+  "len": 9
+ },
+ {
+  "id": "eb@0896ec3c",
+  "en": "%s can't be used",
+  "len": 15
+ },
+ {
+  "id": "eb@0896ec4c",
+  "en": "Not enough skill points",
+  "len": 27
+ },
+ {
+  "id": "eb@0896ec68",
+  "en": "There are no corpses",
+  "len": 17
+ },
+ {
+  "id": "eb@0896ec7c",
+  "en": "The Empress tarot prevents physical attacks.",
+  "len": 41
+ },
+ {
+  "id": "eb@0896eca8",
+  "en": "There is no weapon to attack with",
+  "len": 27
+ },
+ {
+  "id": "eb@0896ecc4",
+  "en": "Spells cannot be used on this floor.",
+  "len": 35
+ },
+ {
+  "id": "eb@0896ece8",
+  "en": "Spells cannot be used",
+  "len": 17
+ },
+ {
+  "id": "eb@0896ecfc",
+  "en": "Spells cannot be used due to \"Silence\"",
+  "len": 29
+ },
+ {
+  "id": "eb@0896ed1c",
+  "en": "The Hierophant tarot prevents special actions.",
+  "len": 41
+ },
+ {
+  "id": "eb@0896ed48",
+  "en": "No usable skills.",
+  "len": 31
+ },
+ {
+  "id": "eb@0896ed68",
+  "en": "There are no items.",
+  "len": 23
+ },
+ {
+  "id": "eb@0896ed80",
+  "en": "Running away is forbidden in this battle.",
+  "len": 37
+ },
+ {
+  "id": "eb@0896eda8",
+  "en": "Dispel cannot be used",
+  "len": 23
+ },
+ {
+  "id": "eb@0896edc0",
+  "en": "The enemy is out of sight",
+  "len": 17
+ },
+ {
+  "id": "eb@0896edd4",
+  "en": "Cannot be used during this battle",
+  "len": 23
+ },
+ {
+  "id": "eb@0896edec",
+  "en": "Steal cannot be used",
+  "len": 17
+ },
+ {
+  "id": "eb@0896ee00",
+  "en": "Strip Gear cannot be used",
+  "len": 21
+ },
+ {
+  "id": "eb@0896ee18",
+  "en": "Breath can't be used due to racial restrictions.",
+  "len": 37
+ },
+ {
+  "id": "eb@0896ee40",
+  "en": "Breath cannot be used",
+  "len": 19
+ },
+ {
+  "id": "eb@0896ee54",
+  "en": "Choose a command. Square: All-Out Attack, R: Command Repeat, L: Normal Mode    ",
+  "len": 97
+ },
+ {
+  "id": "eb@0896eeb8",
+  "en": "Choose a command. Square: All-Out Attack, R: Command Repeat, L: Action Order    ",
+  "len": 97
+ },
+ {
+  "id": "eb@0896ef1c",
+  "en": "Choose a target to attack",
+  "len": 23
+ },
+ {
+  "id": "eb@0896ef34",
+  "en": "Choose a spell type",
+  "len": 25
+ },
+ {
+  "id": "eb@0896ef50",
+  "en": "Choose a spell target",
+  "len": 25
+ },
+ {
+  "id": "eb@0896ef6c",
+  "en": "Choose a skill",
+  "len": 21
+ },
+ {
+  "id": "eb@0896ef84",
+  "en": "Choose an item to use",
+  "len": 31
+ },
+ {
+  "id": "eb@0896efa4",
+  "en": "Choose an equipment slot to change",
+  "len": 27
+ },
+ {
+  "id": "eb@0896efc0",
+  "en": "Choose who to guard",
+  "len": 23
+ },
+ {
+  "id": "eb@0896efd8",
+  "en": "Choose a target to Dispel",
+  "len": 31
+ },
+ {
+  "id": "eb@0896eff8",
+  "en": "Choose a target to steal from",
+  "len": 23
+ },
+ {
+  "id": "eb@0896f010",
+  "en": "Choose a target for Strip Gear",
+  "len": 29
+ },
+ {
+  "id": "eb@0896f030",
+  "en": "Choose a tarot card",
+  "len": 27
+ },
+ {
+  "id": "eb@0896f04c",
+  "en": "Choose a Breath target",
+  "len": 27
+ },
+ {
+  "id": "eb@0896f068",
+  "en": "Choose a First Strike target",
+  "len": 25
+ },
+ {
+  "id": "eb@0896f084",
+  "en": "Choose a Swallow Slayer target",
+  "len": 31
+ },
+ {
+  "id": "eb@0896f0a4",
+  "en": "Choose a Drain target",
+  "len": 29
+ },
+ {
+  "id": "eb@0896f0c4",
+  "en": "Choose a Malediction target",
+  "len": 25
+ },
+ {
+  "id": "eb@0896f0e0",
+  "en": "Choose a Corpse Throw target",
+  "len": 29
+ },
+ {
+  "id": "eb@0896f100",
+  "en": "Choose a Mimicry target",
+  "len": 29
+ },
+ {
+  "id": "eb@0896f120",
+  "en": "Choose a Ki Blast target",
+  "len": 27
+ },
+ {
+  "id": "eb@0896f13c",
+  "en": "Choose a Haughty Laugh target",
+  "len": 27
+ },
+ {
+  "id": "eb@0896f158",
+  "en": "Choose a target for the item",
+  "len": 29
+ },
+ {
+  "id": "eb@0896f178",
+  "en": "Choose a piece of equipment",
+  "len": 21
+ },
+ {
+  "id": "eb@0896f190",
+  "en": "Choose a command",
+  "len": 23
+ },
+ {
+  "id": "eb@0896f1a8",
+  "en": "Who will inspect the trap?",
+  "len": 23
+ },
+ {
+  "id": "eb@0896f1c0",
+  "en": "Who will cast %s?",
+  "len": 23
+ },
+ {
+  "id": "eb@0896f1d8",
+  "en": "Who will disarm the trap?",
+  "len": 23
+ },
+ {
+  "id": "eb@0896f1f0",
+  "en": "Who will open the chest?",
+  "len": 25
+ },
+ {
+  "id": "eb@0896f20c",
+  "en": "Choose a trap",
+  "len": 17
+ },
+ {
+  "id": "eb@0896f220",
+  "en": "Mg",
+  "len": 3
+ },
+ {
+  "id": "eb@0896f224",
+  "en": "Pr",
+  "len": 3
+ },
+ {
+  "id": "eb@0896f228",
+  "en": "Al",
+  "len": 3
+ },
+ {
+  "id": "eb@0896f22c",
+  "en": "Su",
+  "len": 3
+ },
+ {
+  "id": "eb@0896f24c",
+  "en": "  The current contract will be cancelled.",
+  "len": 24
+ },
+ {
+  "id": "eb@0896f264",
+  "en": "Cannot summon",
+  "len": 15
+ },
+ {
+  "id": "eb@0896f274",
+  "en": "  Cannot summon",
+  "len": 18
+ },
+ {
+  "id": "eb@0896f288",
+  "en": "Nothing has been summoned",
+  "len": 17
+ },
+ {
+  "id": "eb@0896f29c",
+  "en": "  Nothing has been summoned",
+  "len": 20
+ },
+ {
+  "id": "eb@0896f2b0",
+  "en": "The spell's target is hidden",
+  "len": 25
+ },
+ {
+  "id": "eb@0896f2cc",
+  "en": "There is no target for the spell",
+  "len": 21
+ },
+ {
+  "id": "eb@0896f2e4",
+  "en": "The equipment was removed",
+  "len": 17
+ },
+ {
+  "id": "eb@0896f2f8",
+  "en": "The equipment can't be removed",
+  "len": 17
+ },
+ {
+  "id": "eb@0896f30c",
+  "en": "Cursed!",
+  "len": 13
+ },
+ {
+  "id": "eb@0896f31c",
+  "en": "Cannot be equipped",
+  "len": 15
+ },
+ {
+  "id": "eb@0896f32c",
+  "en": "Cannot be used in this battle",
+  "len": 23
+ },
+ {
+  "id": "eb@0896f344",
+  "en": "There are no items.",
+  "len": 24
+ },
+ {
+  "id": "eb@0896f444",
+  "en": "Enemy front row",
+  "len": 7
+ },
+ {
+  "id": "eb@0896f44c",
+  "en": "All enemies",
+  "len": 7
+ },
+ {
+  "id": "eb@0896f454",
+  "en": "Cannot be cast right now",
+  "len": 27
+ },
+ {
+  "id": "eb@0896f470",
+  "en": "Enemy back row",
+  "len": 7
+ },
+ {
+  "id": "eb@0896f478",
+  "en": "Ally front row",
+  "len": 9
+ },
+ {
+  "id": "eb@0896f484",
+  "en": "Ally back row",
+  "len": 9
+ },
+ {
+  "id": "eb@0896f490",
+  "en": "Everyone",
+  "len": 11
+ },
+ {
+  "id": "eb@0896f49c",
+  "en": "All allies",
+  "len": 9
+ },
+ {
+  "id": "eb@0896f4a8",
+  "en": "Ally front/back row",
+  "len": 11
+ },
+ {
+  "id": "eb@0896f4b4",
+  "en": "Cannot be used",
+  "len": 11
+ },
+ {
+  "id": "eb@0896f4c8",
+  "en": "-",
+  "len": 3
+ },
+ {
+  "id": "eb@0896f780",
+  "en": "Breath",
+  "len": 7
+ },
+ {
+  "id": "eb@0896fb90",
+  "en": "None",
+  "len": 3
+ },
+ {
+  "id": "eb@0896fb94",
+  "en": "Slp",
+  "len": 3
+ },
+ {
+  "id": "eb@0896fb98",
+  "en": "Psn",
+  "len": 3
+ },
+ {
+  "id": "eb@0896fb9c",
+  "en": "Par",
+  "len": 3
+ },
+ {
+  "id": "eb@0896fba0",
+  "en": "Sil",
+  "len": 3
+ },
+ {
+  "id": "eb@0896fba4",
+  "en": "Cnf",
+  "len": 3
+ },
+ {
+  "id": "eb@0896fba8",
+  "en": "Chm",
+  "len": 3
+ },
+ {
+  "id": "eb@0896fbac",
+  "en": "Stn",
+  "len": 3
+ },
+ {
+  "id": "eb@0896fbb0",
+  "en": "Crs",
+  "len": 3
+ },
+ {
+  "id": "eb@0896fbb4",
+  "en": "Dead",
+  "len": 3
+ },
+ {
+  "id": "eb@0896fbb8",
+  "en": "Ash",
+  "len": 3
+ },
+ {
+  "id": "eb@0896fbbc",
+  "en": "Fear",
+  "len": 3
+ },
+ {
+  "id": "eb@0896fbf0",
+  "en": "OK",
+  "len": 5
+ },
+ {
+  "id": "eb@0896fc04",
+  "en": "%d:%d:Error",
+  "len": 13
+ },
+ {
+  "id": "eb@0896fd70",
+  "en": "On",
+  "len": 5
+ },
+ {
+  "id": "eb@0896fd78",
+  "en": "Off",
+  "len": 5
+ },
+ {
+  "id": "eb@0896fe40",
+  "en": "O",
+  "len": 3
+ },
+ {
+  "id": "eb@0896fe94",
+  "en": "  Now",
+  "len": 7
+ },
+ {
+  "id": "eb@0896fe9c",
+  "en": "After",
+  "len": 7
+ },
+ {
+  "id": "eb@0896fea4",
+  "en": "None",
+  "len": 5
+ },
+ {
+  "id": "eb@08971054",
+  "en": "Adventurers' actions",
+  "len": 16
+ },
+ {
+  "id": "eb@08971064",
+  "en": "Monsters' actions",
+  "len": 20
+ },
+ {
+  "id": "eb@08971078",
+  "en": "%s's actions",
+  "len": 10
+ },
+ {
+  "id": "eb@089710f8",
+  "en": "Action Order",
+  "len": 11
+ },
+ {
+  "id": "eb@08971104",
+  "en": "1: %s",
+  "len": 7
+ },
+ {
+  "id": "eb@08971183",
+  "en": "?Asleep",
+  "len": 12
+ },
+ {
+  "id": "eb@08971190",
+  "en": "Silenced",
+  "len": 13
+ },
+ {
+  "id": "eb@089711a0",
+  "en": "Charmed",
+  "len": 15
+ },
+ {
+  "id": "eb@089711b0",
+  "en": "Confused",
+  "len": 13
+ },
+ {
+  "id": "eb@089711c0",
+  "en": "Paralyzed",
+  "len": 13
+ },
+ {
+  "id": "eb@089711d0",
+  "en": "Petrified",
+  "len": 13
+ },
+ {
+  "id": "eb@089711e0",
+  "en": "Cursed",
+  "len": 13
+ },
+ {
+  "id": "eb@089711f0",
+  "en": "Light",
+  "len": 5
+ },
+ {
+  "id": "eb@089711f8",
+  "en": "Protect",
+  "len": 5
+ },
+ {
+  "id": "eb@08971200",
+  "en": "Float",
+  "len": 5
+ },
+ {
+  "id": "eb@08971208",
+  "en": "Bless",
+  "len": 5
+ },
+ {
+  "id": "eb@08971210",
+  "en": "Inf Range",
+  "len": 7
+ },
+ {
+  "id": "eb@08971238",
+  "en": "A",
+  "len": 3
+ },
+ {
+  "id": "eb@0897123c",
+  "en": "M",
+  "len": 3
+ },
+ {
+  "id": "eb@08971240",
+  "en": "A/M",
+  "len": 5
+ },
+ {
+  "id": "eb@089712c0",
+  "en": "Promotion",
+  "len": 15
+ },
+ {
+  "id": "eb@089712d0",
+  "en": "%s's level\ndropped by %d.",
+  "len": 29
+ },
+ {
+  "id": "eb@08971334",
+  "en": "Inspection spells can't be used",
+  "len": 21
+ },
+ {
+  "id": "eb@0897134c",
+  "en": "Unlocking spells can't be used",
+  "len": 21
+ },
+ {
+  "id": "eb@08971364",
+  "en": "You walked away.",
+  "len": 15
+ },
+ {
+  "id": "eb@08971374",
+  "en": "%s disarmed the trap!",
+  "len": 31
+ },
+ {
+  "id": "eb@08971394",
+  "en": "%s failed to disarm the trap",
+  "len": 23
+ },
+ {
+  "id": "eb@089713ac",
+  "en": "There was no trap",
+  "len": 23
+ },
+ {
+  "id": "eb@089713c4",
+  "en": "There seems to be no trap",
+  "len": 25
+ },
+ {
+  "id": "eb@089713e0",
+  "en": "Couldn't identify it.",
+  "len": 19
+ },
+ {
+  "id": "eb@089713f4",
+  "en": "ID failed",
+  "len": 9
+ },
+ {
+  "id": "eb@08971400",
+  "en": "Unidentified",
+  "len": 7
+ },
+ {
+  "id": "eb@08971408",
+  "en": "---",
+  "len": 7
+ },
+ {
+  "id": "eb@08971410",
+  "en": "The chest opened.",
+  "len": 15
+ },
+ {
+  "id": "eb@08971420",
+  "en": "Obtained \"%s\"",
+  "len": 19
+ },
+ {
+  "id": "eb@08971434",
+  "en": "\"%s\" was sent to the Alchemy Storage by the Mysterious Bag",
+  "len": 39
+ },
+ {
+  "id": "eb@0897145c",
+  "en": "There was an item inside, but you couldn't carry it",
+  "len": 39
+ },
+ {
+  "id": "eb@08971494",
+  "en": "Warning: item data #%d is duplicated",
+  "len": 43
+ },
+ {
+  "id": "eb@089714d3",
+  "en": "AC=%3d, Slay=(Mg%d,Ud%d,Sp%d,In%d,An%d,My%d,Gh%d,Dm%d,Dr%d,Fi%d,Ma%d,Pr%d,Th%d,Bs%d,Gi%d,Gd%d),Status=%d,ShopPos=%d",
+  "len": 122
+ },
+ {
+  "id": "eb@0897157c",
+  "en": "spell_table[%3d] = %-20s,level=%d, dmg=%3d~%3d,%s,stat_op_type=%d",
+  "len": 76
+ },
+ {
+  "id": "eb@08971757",
+  "en": "Tgt=%d, Evade=%d",
+  "len": 20
+ },
+ {
+  "id": "eb@08971834",
+  "en": "Select an item.",
+  "len": 25
+ },
+ {
+  "id": "eb@08971880",
+  "en": "World Map",
+  "len": 15
+ },
+ {
+  "id": "eb@08971b10",
+  "en": "[Wpn] Damage Bonus",
+  "len": 21
+ },
+ {
+  "id": "eb@08971b28",
+  "en": "[Arm] Lower AC",
+  "len": 15
+ },
+ {
+  "id": "eb@08971b38",
+  "en": "[All] Regen per Turn",
+  "len": 17
+ },
+ {
+  "id": "eb@08971b4c",
+  "en": "[All] Resist Mage Spells ",
+  "len": 24
+ },
+ {
+  "id": "eb@08971b64",
+  "en": "[All] Resist Priest Spells",
+  "len": 21
+ },
+ {
+  "id": "eb@08971b7c",
+  "en": "[All] Resist Alchemist Spells",
+  "len": 23
+ },
+ {
+  "id": "eb@08971b94",
+  "en": "[Wpn] Inflict Sleep         ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971bac",
+  "en": "[Wpn] Inflict Poison        ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971bc4",
+  "en": "[Wpn] Inflict Paralysis     ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971bdc",
+  "en": "[Wpn] Inflict Silence       ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971bf4",
+  "en": "[Wpn] Inflict Confusion     ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971c0c",
+  "en": "[Wpn] Inflict Charm         ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971c24",
+  "en": "[Wpn] Inflict Petrification ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971c3c",
+  "en": "[Wpn] Inflict Decapitation  ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971c54",
+  "en": "[Arm] Resist Sleep          ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971c6c",
+  "en": "[Arm] Resist Poison         ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971c84",
+  "en": "[Arm] Resist Paralysis      ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971c9c",
+  "en": "[Arm] Resist Silence        ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971cb4",
+  "en": "[Arm] Resist Confusion      ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971ccc",
+  "en": "[Arm] Resist Charm          ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971ce4",
+  "en": "[Arm] Resist Petrification  ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971cfc",
+  "en": "[Arm] Resist Decapitation   ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971d14",
+  "en": "[Arm] Resist Drain",
+  "len": 25
+ },
+ {
+  "id": "eb@08971d30",
+  "en": "[All] Fire Attack       ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971d48",
+  "en": "[All] Ice Attack        ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971d60",
+  "en": "[All] Lightning Attack  ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971d78",
+  "en": "[All] Holy Attack       ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971d90",
+  "en": "[All] Dark Attack       ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971da8",
+  "en": "[All] Fire Defense      ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971dc0",
+  "en": "[All] Ice Defense       ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971dd8",
+  "en": "[All] Lightning Defense ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971df0",
+  "en": "[All] Holy Defense      ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971e08",
+  "en": "[All] Dark Defense      ",
+  "len": 22
+ },
+ {
+  "id": "eb@08971e20",
+  "en": "[Wpn] No Main/Sub Limit",
+  "len": 27
+ },
+ {
+  "id": "eb@08971e3c",
+  "en": "[Wpn] No Range Limit          ",
+  "len": 27
+ },
+ {
+  "id": "eb@08971e58",
+  "en": "[All] Curse Lifted            ",
+  "len": 27
+ },
+ {
+  "id": "eb@08971e74",
+  "en": "[Wpn] Slay Magical Creatures  ",
+  "len": 28
+ },
+ {
+  "id": "eb@08971e90",
+  "en": "[Wpn] Slay Undead             ",
+  "len": 28
+ },
+ {
+  "id": "eb@08971eac",
+  "en": "[Wpn] Slay Spirits            ",
+  "len": 28
+ },
+ {
+  "id": "eb@08971ec8",
+  "en": "[Wpn] Slay Insects            ",
+  "len": 28
+ },
+ {
+  "id": "eb@08971ee4",
+  "en": "[Wpn] Slay Animals            ",
+  "len": 28
+ },
+ {
+  "id": "eb@08971f00",
+  "en": "[Wpn] Slay Mythical Beasts    ",
+  "len": 28
+ },
+ {
+  "id": "eb@08971f1c",
+  "en": "[Wpn] Slay Ghosts             ",
+  "len": 28
+ },
+ {
+  "id": "eb@08971f38",
+  "en": "[Wpn] Slay Demons             ",
+  "len": 28
+ },
+ {
+  "id": "eb@08971f54",
+  "en": "[Wpn] Slay Dragons            ",
+  "len": 28
+ },
+ {
+  "id": "eb@08971f70",
+  "en": "[Wpn] Slay Fighters           ",
+  "len": 28
+ },
+ {
+  "id": "eb@08971f8c",
+  "en": "[Wpn] Slay Mages              ",
+  "len": 28
+ },
+ {
+  "id": "eb@08971fa8",
+  "en": "[Wpn] Slay Priests            ",
+  "len": 28
+ },
+ {
+  "id": "eb@08971fc4",
+  "en": "[Wpn] Slay Thieves            ",
+  "len": 28
+ },
+ {
+  "id": "eb@08971fe0",
+  "en": "[Wpn] Slay Beastfolk          ",
+  "len": 28
+ },
+ {
+  "id": "eb@08971ffc",
+  "en": "[Wpn] Slay Giants             ",
+  "len": 28
+ },
+ {
+  "id": "eb@08972018",
+  "en": "[Wpn] Slay Divine Shadows     ",
+  "len": 28
+ },
+ {
+  "id": "eb@08972034",
+  "en": "[All] Status Recovery Rate Up ",
+  "len": 28
+ },
+ {
+  "id": "eb@08972050",
+  "en": "[All] No Alignment Limit      ",
+  "len": 27
+ },
+ {
+  "id": "eb@0897206c",
+  "en": "[All] No Gender Limit (M/F/?) ",
+  "len": 27
+ },
+ {
+  "id": "eb@08972088",
+  "en": "[All] No Race Limit           ",
+  "len": 27
+ },
+ {
+  "id": "eb@089727dc",
+  "en": "Algrantz",
+  "len": 13
+ },
+ {
+  "id": "eb@089727ec",
+  "en": "Konnu Plains Ruins",
+  "len": 15
+ },
+ {
+  "id": "eb@089727fc",
+  "en": "Blue Cave",
+  "len": 9
+ },
+ {
+  "id": "eb@08972808",
+  "en": "Leanmakana Mountains",
+  "len": 17
+ },
+ {
+  "id": "eb@0897281c",
+  "en": "Roscadil",
+  "len": 13
+ },
+ {
+  "id": "eb@0897282c",
+  "en": "Perpeco Forest",
+  "len": 13
+ },
+ {
+  "id": "eb@0897283c",
+  "en": "Joker Land",
+  "len": 17
+ },
+ {
+  "id": "eb@08972850",
+  "en": "Crotoa City Ruins",
+  "len": 17
+ },
+ {
+  "id": "eb@08972864",
+  "en": "Lumisthenes",
+  "len": 13
+ },
+ {
+  "id": "eb@08972874",
+  "en": "Giaf Dunes",
+  "len": 11
+ },
+ {
+  "id": "eb@08972880",
+  "en": "Santorea Academy",
+  "len": 15
+ },
+ {
+  "id": "eb@08972890",
+  "en": "Ogre Bay",
+  "len": 13
+ },
+ {
+  "id": "eb@089728a0",
+  "en": "Teridon",
+  "len": 9
+ },
+ {
+  "id": "eb@089728ac",
+  "en": "Miasuna",
+  "len": 9
+ },
+ {
+  "id": "eb@089728b8",
+  "en": "Crystal Labyrinth",
+  "len": 11
+ },
+ {
+  "id": "eb@089728c4",
+  "en": "Rinos Sea Volcano",
+  "len": 15
+ },
+ {
+  "id": "eb@089728d4",
+  "en": "Elminage",
+  "len": 15
+ },
+ {
+  "id": "eb@089728e4",
+  "en": "Palace of the Sun",
+  "len": 7
+ },
+ {
+  "id": "eb@089728ec",
+  "en": "Fairy Village",
+  "len": 9
+ },
+ {
+  "id": "eb@089728f8",
+  "en": "Castle of the Wind",
+  "len": 7
+ },
+ {
+  "id": "eb@08972900",
+  "en": "Seirion-Daera",
+  "len": 17
+ },
+ {
+  "id": "eb@08972914",
+  "en": "Sanctum of Genesis",
+  "len": 7
+ },
+ {
+  "id": "eb@0897291c",
+  "en": "Krypton",
+  "len": 11
+ },
+ {
+  "id": "eb@08972928",
+  "en": "Dungeon Load",
+  "len": 17
+ },
+ {
+  "id": "eb@08972ac0",
+  "en": "  Adventurer",
+  "len": 9
+ },
+ {
+  "id": "eb@08972acc",
+  "en": "Monster",
+  "len": 11
+ },
+ {
+  "id": "eb@08972ae0",
+  "en": "Infinite Magic",
+  "len": 11
+ },
+ {
+  "id": "eb@08972aec",
+  "en": "Cure Level Drain",
+  "len": 21
+ },
+ {
+  "id": "eb@08972b04",
+  "en": "Cure & Heal",
+  "len": 11
+ },
+ {
+  "id": "eb@08972b10",
+  "en": "Enemy Loses Spell Resist",
+  "len": 21
+ },
+ {
+  "id": "eb@08972b28",
+  "en": "Party Fully Resists Spells",
+  "len": 21
+ },
+ {
+  "id": "eb@08972b40",
+  "en": "Party Evasion Up",
+  "len": 19
+ },
+ {
+  "id": "eb@08972b54",
+  "en": "Enemy Teleport",
+  "len": 15
+ },
+ {
+  "id": "eb@08972b80",
+  "en": "Mimic",
+  "len": 9
+ },
+ {
+  "id": "eb@08972b8c",
+  "en": "Strength",
+  "len": 3
+ },
+ {
+  "id": "eb@08972b90",
+  "en": "Intellect",
+  "len": 5
+ },
+ {
+  "id": "eb@08972b98",
+  "en": "Strength",
+  "len": 5
+ },
+ {
+  "id": "eb@08972ba0",
+  "en": "Piety",
+  "len": 5
+ },
+ {
+  "id": "eb@08972ba8",
+  "en": "Vitality",
+  "len": 5
+ },
+ {
+  "id": "eb@08972bb0",
+  "en": "Agility",
+  "len": 5
+ },
+ {
+  "id": "eb@08972bb8",
+  "en": "Luck",
+  "len": 5
+ },
+ {
+  "id": "eb@08972bd8",
+  "en": "None",
+  "len": 5
+ },
+ {
+  "id": "eb@08972be0",
+  "en": "Ice",
+  "len": 3
+ },
+ {
+  "id": "eb@08972be4",
+  "en": "Lightning",
+  "len": 3
+ },
+ {
+  "id": "eb@08972be8",
+  "en": "Holy",
+  "len": 5
+ },
+ {
+  "id": "eb@08972bf0",
+  "en": "Dark",
+  "len": 5
+ },
+ {
+  "id": "eb@08972bf8",
+  "en": "---",
+  "len": 7
+ },
+ {
+  "id": "eb@08972c00",
+  "en": "Low    ",
+  "len": 7
+ },
+ {
+  "id": "eb@08972c08",
+  "en": "Med    ",
+  "len": 7
+ },
+ {
+  "id": "eb@08972c10",
+  "en": "High   ",
+  "len": 7
+ },
+ {
+  "id": "eb@08972c18",
+  "en": "Always ",
+  "len": 7
+ },
+ {
+  "id": "eb@08972c34",
+  "en": "OK",
+  "len": 5
+ },
+ {
+  "id": "eb@08972c3c",
+  "en": "Sleep",
+  "len": 5
+ },
+ {
+  "id": "eb@08972c44",
+  "en": "Poison",
+  "len": 5
+ },
+ {
+  "id": "eb@08972c4c",
+  "en": "Paralysis",
+  "len": 5
+ },
+ {
+  "id": "eb@08972c54",
+  "en": "Silence",
+  "len": 5
+ },
+ {
+  "id": "eb@08972c5c",
+  "en": "Confusion",
+  "len": 5
+ },
+ {
+  "id": "eb@08972c64",
+  "en": "Charm",
+  "len": 5
+ },
+ {
+  "id": "eb@08972c6c",
+  "en": "Petrification",
+  "len": 5
+ },
+ {
+  "id": "eb@08972c74",
+  "en": "Curse",
+  "len": 5
+ },
+ {
+  "id": "eb@08972c7c",
+  "en": "Death",
+  "len": 5
+ },
+ {
+  "id": "eb@08972c84",
+  "en": "Ash",
+  "len": 5
+ },
+ {
+  "id": "eb@08972c8c",
+  "en": "Fear",
+  "len": 5
+ },
+ {
+  "id": "eb@08972cc4",
+  "en": "OK",
+  "len": 9
+ },
+ {
+  "id": "eb@08972cd0",
+  "en": "Asleep",
+  "len": 9
+ },
+ {
+  "id": "eb@08972cdc",
+  "en": "Poisoned",
+  "len": 9
+ },
+ {
+  "id": "eb@08972ce8",
+  "en": "Paralyzed",
+  "len": 5
+ },
+ {
+  "id": "eb@08972cf0",
+  "en": "Silenced",
+  "len": 9
+ },
+ {
+  "id": "eb@08972cfc",
+  "en": "Confused",
+  "len": 9
+ },
+ {
+  "id": "eb@08972d08",
+  "en": "Charmed",
+  "len": 9
+ },
+ {
+  "id": "eb@08972d14",
+  "en": "Stoned",
+  "len": 7
+ },
+ {
+  "id": "eb@08972d1c",
+  "en": "Cursed",
+  "len": 7
+ },
+ {
+  "id": "eb@08972d24",
+  "en": "Dead",
+  "len": 7
+ },
+ {
+  "id": "eb@08972d2c",
+  "en": "Ashes",
+  "len": 7
+ },
+ {
+  "id": "eb@08972d34",
+  "en": "Afraid",
+  "len": 9
+ },
+ {
+  "id": "eb@08972d70",
+  "en": "None",
+  "len": 5
+ },
+ {
+  "id": "eb@08972d78",
+  "en": "Flying Stones",
+  "len": 9
+ },
+ {
+  "id": "eb@08972d84",
+  "en": "Poison Needle",
+  "len": 5
+ },
+ {
+  "id": "eb@08972d8c",
+  "en": "Magic Drain",
+  "len": 17
+ },
+ {
+  "id": "eb@08972da0",
+  "en": "Poison Gas",
+  "len": 7
+ },
+ {
+  "id": "eb@08972da8",
+  "en": "Bomb",
+  "len": 5
+ },
+ {
+  "id": "eb@08972db0",
+  "en": "Ghost Horde",
+  "len": 11
+ },
+ {
+  "id": "eb@08972dbc",
+  "en": "Cobra's Curse",
+  "len": 13
+ },
+ {
+  "id": "eb@08972dcc",
+  "en": "Demon's Eye",
+  "len": 11
+ },
+ {
+  "id": "eb@08972dd8",
+  "en": "Spell Blaster",
+  "len": 17
+ },
+ {
+  "id": "eb@08972dec",
+  "en": "Priest Blaster",
+  "len": 21
+ },
+ {
+  "id": "eb@08972e04",
+  "en": "Urashima's Box",
+  "len": 7
+ },
+ {
+  "id": "eb@08972e0c",
+  "en": "Counter Punch",
+  "len": 17
+ },
+ {
+  "id": "eb@08972e20",
+  "en": "Goddess's Kiss",
+  "len": 13
+ },
+ {
+  "id": "eb@08972e30",
+  "en": "Teleporter",
+  "len": 13
+ },
+ {
+  "id": "eb@08972e80",
+  "en": "Drain",
+  "len": 9
+ },
+ {
+  "id": "eb@08972e8c",
+  "en": "Attack",
+  "len": 5
+ },
+ {
+  "id": "eb@08972e94",
+  "en": "Ambush",
+  "len": 5
+ },
+ {
+  "id": "eb@08972e9c",
+  "en": "Spell",
+  "len": 5
+ },
+ {
+  "id": "eb@08972ea4",
+  "en": "Dispel",
+  "len": 11
+ },
+ {
+  "id": "eb@08972eb0",
+  "en": "Hide",
+  "len": 7
+ },
+ {
+  "id": "eb@08972eb8",
+  "en": "Steal",
+  "len": 5
+ },
+ {
+  "id": "eb@08972ec0",
+  "en": "Strip Gear",
+  "len": 9
+ },
+ {
+  "id": "eb@08972ecc",
+  "en": "Tarot",
+  "len": 9
+ },
+ {
+  "id": "eb@08972ed8",
+  "en": "Barrier",
+  "len": 5
+ },
+ {
+  "id": "eb@08972ee0",
+  "en": "Breath",
+  "len": 7
+ },
+ {
+  "id": "eb@08972ee8",
+  "en": "First Strike",
+  "len": 5
+ },
+ {
+  "id": "eb@08972ef0",
+  "en": "Cook",
+  "len": 5
+ },
+ {
+  "id": "eb@08972ef8",
+  "en": "Malediction",
+  "len": 5
+ },
+ {
+  "id": "eb@08972f00",
+  "en": "Corpse Throw",
+  "len": 9
+ },
+ {
+  "id": "eb@08972f0c",
+  "en": "Mimicry",
+  "len": 9
+ },
+ {
+  "id": "eb@08972f18",
+  "en": "War Rite",
+  "len": 9
+ },
+ {
+  "id": "eb@08972f24",
+  "en": "Ki Blast",
+  "len": 7
+ },
+ {
+  "id": "eb@08972f2c",
+  "en": "Haughty Laugh",
+  "len": 7
+ },
+ {
+  "id": "eb@08972f34",
+  "en": "Song of Healing",
+  "len": 9
+ },
+ {
+  "id": "eb@08972f40",
+  "en": "Song of Ruin",
+  "len": 9
+ },
+ {
+  "id": "eb@08972f4c",
+  "en": "Song of Warding",
+  "len": 9
+ },
+ {
+  "id": "eb@08972f58",
+  "en": "Song of Hope",
+  "len": 9
+ },
+ {
+  "id": "eb@08972f64",
+  "en": "Fortune Slip",
+  "len": 9
+ },
+ {
+  "id": "eb@08972f70",
+  "en": "Master Therion",
+  "len": 17
+ },
+ {
+  "id": "eb@08972f84",
+  "en": "Sacrifice",
+  "len": 15
+ },
+ {
+  "id": "eb@08972f94",
+  "en": "Absolute Guard",
+  "len": 9
+ },
+ {
+  "id": "eb@08972fa0",
+  "en": "Swallow Slayer",
+  "len": 11
+ },
+ {
+  "id": "eb@08972fac",
+  "en": "Sever Summon",
+  "len": 7
+ },
+ {
+  "id": "eb@08972fb4",
+  "en": "Clone",
+  "len": 5
+ },
+ {
+  "id": "eb@08972fbc",
+  "en": "Soul Pact",
+  "len": 9
+ },
+ {
+  "id": "eb@08972fc8",
+  "en": "Maid Recover",
+  "len": 15
+ },
+ {
+  "id": "eb@08972fd8",
+  "en": "Appraise",
+  "len": 5
+ },
+ {
+  "id": "eb@08972fe0",
+  "en": " Reinforce",
+  "len": 6
+ },
+ {
+  "id": "eb@08972fe8",
+  "en": " Item",
+  "len": 6
+ },
+ {
+  "id": "eb@08972ff0",
+  "en": " Equip",
+  "len": 6
+ },
+ {
+  "id": "eb@08972ff8",
+  "en": " Defend ",
+  "len": 7
+ },
+ {
+  "id": "eb@08973000",
+  "en": " Run ",
+  "len": 9
+ },
+ {
+  "id": "eb@0897300c",
+  "en": " Pursuit ",
+  "len": 7
+ },
+ {
+  "id": "eb@08973014",
+  "en": " Strafe Pursuit ",
+  "len": 11
+ },
+ {
+  "id": "eb@08973020",
+  "en": "Chest TOP",
+  "len": 8
+ },
+ {
+  "id": "eb@08973028",
+  "en": "Identify Trap",
+  "len": 7
+ },
+ {
+  "id": "eb@08973030",
+  "en": "Disarm Trap",
+  "len": 7
+ },
+ {
+  "id": "eb@08973038",
+  "en": "Portal",
+  "len": 9
+ },
+ {
+  "id": "eb@08973044",
+  "en": "High Portal",
+  "len": 13
+ },
+ {
+  "id": "eb@08973054",
+  "en": "Open",
+  "len": 7
+ },
+ {
+  "id": "eb@0897305c",
+  "en": "Leave",
+  "len": 9
+ },
+ {
+  "id": "eb@08973068",
+  "en": "Select Trap Type",
+  "len": 13
+ },
+ {
+  "id": "eb@08973078",
+  "en": "Transform",
+  "len": 5
+ },
+ {
+  "id": "eb@08973080",
+  "en": "Decided on Use",
+  "len": 11
+ },
+ {
+  "id": "eb@08973158",
+  "en": "Out of Range",
+  "len": 7
+ },
+ {
+  "id": "eb@08973160",
+  "en": "Main",
+  "len": 7
+ },
+ {
+  "id": "eb@08973168",
+  "en": "Sub",
+  "len": 5
+ },
+ {
+  "id": "eb@08973170",
+  "en": "Head",
+  "len": 3
+ },
+ {
+  "id": "eb@08973174",
+  "en": "Body",
+  "len": 3
+ },
+ {
+  "id": "eb@08973178",
+  "en": "Hands",
+  "len": 3
+ },
+ {
+  "id": "eb@0897317c",
+  "en": "Feet",
+  "len": 3
+ },
+ {
+  "id": "eb@08973180",
+  "en": "Accessory",
+  "len": 7
+ },
+ {
+  "id": "eb@08973188",
+  "en": "Two-Handed",
+  "len": 5
+ },
+ {
+  "id": "eb@08973190",
+  "en": "All",
+  "len": 5
+ },
+ {
+  "id": "eb@08973198",
+  "en": "Talisman",
+  "len": 5
+ },
+ {
+  "id": "eb@089731cc",
+  "en": "Salve",
+  "len": 5
+ },
+ {
+  "id": "eb@089731d4",
+  "en": "Full Heal Potion",
+  "len": 9
+ },
+ {
+  "id": "eb@089731e0",
+  "en": "Wake-Up Potion",
+  "len": 11
+ },
+ {
+  "id": "eb@089731ec",
+  "en": "Antidote",
+  "len": 9
+ },
+ {
+  "id": "eb@089731f8",
+  "en": "Paralysis Cure",
+  "len": 11
+ },
+ {
+  "id": "eb@08973204",
+  "en": "Nightdew Lozenge",
+  "len": 13
+ },
+ {
+  "id": "eb@08973214",
+  "en": "Calming Herb",
+  "len": 11
+ },
+ {
+  "id": "eb@08973220",
+  "en": "First Love Gem",
+  "len": 13
+ },
+ {
+  "id": "eb@08973230",
+  "en": "Stonemelt Water",
+  "len": 7
+ },
+ {
+  "id": "eb@08973238",
+  "en": "Headache Remedy",
+  "len": 7
+ },
+ {
+  "id": "eb@08973268",
+  "en": "The Fool",
+  "len": 5
+ },
+ {
+  "id": "eb@08973270",
+  "en": "The Magician",
+  "len": 7
+ },
+ {
+  "id": "eb@08973278",
+  "en": "The High Priestess",
+  "len": 7
+ },
+ {
+  "id": "eb@08973280",
+  "en": "The Empress",
+  "len": 5
+ },
+ {
+  "id": "eb@08973288",
+  "en": "The Emperor",
+  "len": 5
+ },
+ {
+  "id": "eb@08973290",
+  "en": "The Hierophant",
+  "len": 5
+ },
+ {
+  "id": "eb@08973298",
+  "en": "The Lovers",
+  "len": 5
+ },
+ {
+  "id": "eb@089732a0",
+  "en": "The Chariot",
+  "len": 5
+ },
+ {
+  "id": "eb@089732a8",
+  "en": "Justice",
+  "len": 5
+ },
+ {
+  "id": "eb@089732b0",
+  "en": "The Hermit",
+  "len": 5
+ },
+ {
+  "id": "eb@089732b8",
+  "en": "Wheel of Fortune",
+  "len": 9
+ },
+ {
+  "id": "eb@089732c4",
+  "en": "The Hanged Man",
+  "len": 11
+ },
+ {
+  "id": "eb@089732d0",
+  "en": "Death",
+  "len": 5
+ },
+ {
+  "id": "eb@089732d8",
+  "en": "Temperance",
+  "len": 5
+ },
+ {
+  "id": "eb@089732e0",
+  "en": "The Devil",
+  "len": 5
+ },
+ {
+  "id": "eb@089732e8",
+  "en": "The Tower",
+  "len": 3
+ },
+ {
+  "id": "eb@089732ec",
+  "en": "The Star",
+  "len": 3
+ },
+ {
+  "id": "eb@089732f0",
+  "en": "The Moon",
+  "len": 3
+ },
+ {
+  "id": "eb@089732f4",
+  "en": "The Sun",
+  "len": 5
+ },
+ {
+  "id": "eb@089732fc",
+  "en": "Judgement",
+  "len": 5
+ },
+ {
+  "id": "eb@08973304",
+  "en": "The World",
+  "len": 5
+ },
+ {
+  "id": "eb@089733bc",
+  "en": "-",
+  "len": 3
+ },
+ {
+  "id": "eb@089733c0",
+  "en": "Male",
+  "len": 3
+ },
+ {
+  "id": "eb@089733c4",
+  "en": "Female",
+  "len": 3
+ },
+ {
+  "id": "eb@089733c8",
+  "en": "?",
+  "len": 3
+ },
+ {
+  "id": "eb@089733cc",
+  "en": "(Reserve)",
+  "len": 13
+ },
+ {
+  "id": "eb@089733f4",
+  "en": "G",
+  "len": 3
+ },
+ {
+  "id": "eb@089733fc",
+  "en": "G",
+  "len": 3
+ },
+ {
+  "id": "eb@08973400",
+  "en": "N",
+  "len": 5
+ },
+ {
+  "id": "eb@0897340c",
+  "en": "N",
+  "len": 3
+ },
+ {
+  "id": "eb@08973410",
+  "en": "E",
+  "len": 3
+ },
+ {
+  "id": "eb@08973418",
+  "en": "E",
+  "len": 3
+ },
+ {
+  "id": "eb@08973484",
+  "en": "Fighter",
+  "len": 5
+ },
+ {
+  "id": "eb@08973490",
+  "en": "Fig",
+  "len": 7
+ },
+ {
+  "id": "eb@0897349c",
+  "en": "Mag",
+  "len": 7
+ },
+ {
+  "id": "eb@089734a4",
+  "en": "Priest",
+  "len": 5
+ },
+ {
+  "id": "eb@089734b0",
+  "en": "Pri",
+  "len": 7
+ },
+ {
+  "id": "eb@089734b8",
+  "en": "Thief",
+  "len": 5
+ },
+ {
+  "id": "eb@089734c4",
+  "en": "Thi",
+  "len": 7
+ },
+ {
+  "id": "eb@089734cc",
+  "en": "Alchemist",
+  "len": 9
+ },
+ {
+  "id": "eb@089734dc",
+  "en": "Alc",
+  "len": 7
+ },
+ {
+  "id": "eb@089734e4",
+  "en": "Servant",
+  "len": 7
+ },
+ {
+  "id": "eb@089734f0",
+  "en": "Srv",
+  "len": 7
+ },
+ {
+  "id": "eb@089734f8",
+  "en": "Bishop",
+  "len": 5
+ },
+ {
+  "id": "eb@08973504",
+  "en": "Bis",
+  "len": 7
+ },
+ {
+  "id": "eb@0897350c",
+  "en": "Ranger",
+  "len": 5
+ },
+ {
+  "id": "eb@08973518",
+  "en": "Ran",
+  "len": 7
+ },
+ {
+  "id": "eb@08973520",
+  "en": "Gladiator",
+  "len": 5
+ },
+ {
+  "id": "eb@0897352c",
+  "en": "Gla",
+  "len": 7
+ },
+ {
+  "id": "eb@08973534",
+  "en": "Bard",
+  "len": 7
+ },
+ {
+  "id": "eb@08973540",
+  "en": "Bar",
+  "len": 7
+ },
+ {
+  "id": "eb@08973548",
+  "en": "Kannagi",
+  "len": 3
+ },
+ {
+  "id": "eb@08973550",
+  "en": "Kan",
+  "len": 7
+ },
+ {
+  "id": "eb@08973558",
+  "en": "Summoner",
+  "len": 7
+ },
+ {
+  "id": "eb@08973564",
+  "en": "Sum",
+  "len": 7
+ },
+ {
+  "id": "eb@0897356c",
+  "en": "Valkyrie",
+  "len": 5
+ },
+ {
+  "id": "eb@08973578",
+  "en": "Val",
+  "len": 7
+ },
+ {
+  "id": "eb@08973580",
+  "en": "Lord",
+  "len": 5
+ },
+ {
+  "id": "eb@0897358c",
+  "en": "Lor",
+  "len": 7
+ },
+ {
+  "id": "eb@08973594",
+  "en": "Samurai",
+  "len": 3
+ },
+ {
+  "id": "eb@0897359c",
+  "en": "Sam",
+  "len": 7
+ },
+ {
+  "id": "eb@089735a4",
+  "en": "Ninja",
+  "len": 5
+ },
+ {
+  "id": "eb@089735b0",
+  "en": "Nin",
+  "len": 7
+ },
+ {
+  "id": "eb@089735bc",
+  "en": "rsv",
+  "len": 7
+ },
+ {
+  "id": "eb@089736a8",
+  "en": "--",
+  "len": 5
+ },
+ {
+  "id": "eb@089736b0",
+  "en": "Fire Breath",
+  "len": 11
+ },
+ {
+  "id": "eb@089736bc",
+  "en": "Fire",
+  "len": 3
+ },
+ {
+  "id": "eb@089736c0",
+  "en": "Ice Breath",
+  "len": 11
+ },
+ {
+  "id": "eb@089736cc",
+  "en": "Lightning Breath",
+  "len": 11
+ },
+ {
+  "id": "eb@089736d8",
+  "en": "Holy Breath",
+  "len": 13
+ },
+ {
+  "id": "eb@089736e8",
+  "en": "Dark Breath",
+  "len": 13
+ },
+ {
+  "id": "eb@089736f8",
+  "en": "Sleep Breath",
+  "len": 13
+ },
+ {
+  "id": "eb@08973708",
+  "en": "Poison Breath",
+  "len": 13
+ },
+ {
+  "id": "eb@08973718",
+  "en": "Paralysis Breath",
+  "len": 13
+ },
+ {
+  "id": "eb@08973728",
+  "en": "Silence Breath",
+  "len": 13
+ },
+ {
+  "id": "eb@08973738",
+  "en": "Confusion Breath",
+  "len": 13
+ },
+ {
+  "id": "eb@08973748",
+  "en": "Charm Breath",
+  "len": 13
+ },
+ {
+  "id": "eb@08973758",
+  "en": "Charm",
+  "len": 5
+ },
+ {
+  "id": "eb@08973760",
+  "en": "Stone Breath",
+  "len": 11
+ },
+ {
+  "id": "eb@0897376c",
+  "en": "Death Breath",
+  "len": 11
+ },
+ {
+  "id": "eb@08973778",
+  "en": "Dead",
+  "len": 3
+ },
+ {
+  "id": "eb@0897383c",
+  "en": "Human",
+  "len": 5
+ },
+ {
+  "id": "eb@08973844",
+  "en": "Hu",
+  "len": 3
+ },
+ {
+  "id": "eb@08973848",
+  "en": "Elf",
+  "len": 7
+ },
+ {
+  "id": "eb@08973850",
+  "en": "El",
+  "len": 3
+ },
+ {
+  "id": "eb@08973854",
+  "en": "Dwarf",
+  "len": 9
+ },
+ {
+  "id": "eb@08973860",
+  "en": "Dw",
+  "len": 3
+ },
+ {
+  "id": "eb@08973864",
+  "en": "Gnome",
+  "len": 7
+ },
+ {
+  "id": "eb@0897386c",
+  "en": "Gn",
+  "len": 3
+ },
+ {
+  "id": "eb@08973870",
+  "en": "Hotlet",
+  "len": 13
+ },
+ {
+  "id": "eb@08973880",
+  "en": "Ho",
+  "len": 3
+ },
+ {
+  "id": "eb@08973884",
+  "en": "Fairy",
+  "len": 11
+ },
+ {
+  "id": "eb@08973890",
+  "en": "Fa",
+  "len": 3
+ },
+ {
+  "id": "eb@08973894",
+  "en": "Werebeast",
+  "len": 13
+ },
+ {
+  "id": "eb@089738a4",
+  "en": "Wb",
+  "len": 3
+ },
+ {
+  "id": "eb@089738a8",
+  "en": "Dragonewt",
+  "len": 15
+ },
+ {
+  "id": "eb@089738b8",
+  "en": "Dg",
+  "len": 3
+ },
+ {
+  "id": "eb@089738bc",
+  "en": "Devilish",
+  "len": 13
+ },
+ {
+  "id": "eb@089738cc",
+  "en": "Dv",
+  "len": 3
+ },
+ {
+  "id": "eb@089738d0",
+  "en": "Magic Puppet",
+  "len": 7
+ },
+ {
+  "id": "eb@089738d8",
+  "en": "Mg",
+  "len": 3
+ },
+ {
+  "id": "eb@089738dc",
+  "en": "Ogre",
+  "len": 7
+ },
+ {
+  "id": "eb@089738e4",
+  "en": "Og",
+  "len": 3
+ },
+ {
+  "id": "eb@089738e8",
+  "en": "Goblin",
+  "len": 9
+ },
+ {
+  "id": "eb@089738f4",
+  "en": "Gb",
+  "len": 3
+ },
+ {
+  "id": "eb@089738f8",
+  "en": "Arcane",
+  "len": 9
+ },
+ {
+  "id": "eb@08973904",
+  "en": "Undead",
+  "len": 5
+ },
+ {
+  "id": "eb@0897390c",
+  "en": "Ud",
+  "len": 3
+ },
+ {
+  "id": "eb@08973910",
+  "en": "Spirit",
+  "len": 5
+ },
+ {
+  "id": "eb@08973918",
+  "en": "Sp",
+  "len": 3
+ },
+ {
+  "id": "eb@0897391c",
+  "en": "Insect",
+  "len": 5
+ },
+ {
+  "id": "eb@08973924",
+  "en": "In",
+  "len": 3
+ },
+ {
+  "id": "eb@08973928",
+  "en": "Animal",
+  "len": 5
+ },
+ {
+  "id": "eb@08973930",
+  "en": "An",
+  "len": 3
+ },
+ {
+  "id": "eb@08973934",
+  "en": "Mythic",
+  "len": 5
+ },
+ {
+  "id": "eb@0897393c",
+  "en": "My",
+  "len": 3
+ },
+ {
+  "id": "eb@08973940",
+  "en": "Gh",
+  "len": 3
+ },
+ {
+  "id": "eb@08973944",
+  "en": "Fi",
+  "len": 3
+ },
+ {
+  "id": "eb@08973948",
+  "en": "Pr",
+  "len": 3
+ },
+ {
+  "id": "eb@0897394c",
+  "en": "Th",
+  "len": 3
+ },
+ {
+  "id": "eb@08973950",
+  "en": "Beastkin",
+  "len": 5
+ },
+ {
+  "id": "eb@08973958",
+  "en": "Bf",
+  "len": 3
+ },
+ {
+  "id": "eb@0897395c",
+  "en": "Giant",
+  "len": 5
+ },
+ {
+  "id": "eb@08973964",
+  "en": "Gi",
+  "len": 3
+ },
+ {
+  "id": "eb@08973968",
+  "en": "Godshade",
+  "len": 5
+ },
+ {
+  "id": "eb@08973970",
+  "en": "Di",
+  "len": 3
+ },
+ {
+  "id": "eb@08973a5c",
+  "en": "?Junk",
+  "len": 11
+ },
+ {
+  "id": "eb@08973a68",
+  "en": "?Sword",
+  "len": 5
+ },
+ {
+  "id": "eb@08973a70",
+  "en": "?Dagger",
+  "len": 7
+ },
+ {
+  "id": "eb@08973a78",
+  "en": "?Katana",
+  "len": 5
+ },
+ {
+  "id": "eb@08973a80",
+  "en": "?Spear",
+  "len": 5
+ },
+ {
+  "id": "eb@08973a88",
+  "en": "?Axe",
+  "len": 5
+ },
+ {
+  "id": "eb@08973a90",
+  "en": "?Hammer",
+  "len": 7
+ },
+ {
+  "id": "eb@08973a98",
+  "en": "?Mace",
+  "len": 9
+ },
+ {
+  "id": "eb@08973aa4",
+  "en": "?Club",
+  "len": 7
+ },
+ {
+  "id": "eb@08973aac",
+  "en": "?Bow",
+  "len": 5
+ },
+ {
+  "id": "eb@08973ab4",
+  "en": "?Whip",
+  "len": 5
+ },
+ {
+  "id": "eb@08973abc",
+  "en": "?Staff",
+  "len": 5
+ },
+ {
+  "id": "eb@08973ac4",
+  "en": "?Weapon",
+  "len": 7
+ },
+ {
+  "id": "eb@08973acc",
+  "en": "?Book",
+  "len": 5
+ },
+ {
+  "id": "eb@08973ad4",
+  "en": "?Shield",
+  "len": 5
+ },
+ {
+  "id": "eb@08973adc",
+  "en": "?Helm",
+  "len": 5
+ },
+ {
+  "id": "eb@08973ae4",
+  "en": "?Hat",
+  "len": 7
+ },
+ {
+  "id": "eb@08973aec",
+  "en": "?Armor",
+  "len": 5
+ },
+ {
+  "id": "eb@08973af4",
+  "en": "?Breastplate",
+  "len": 9
+ },
+ {
+  "id": "eb@08973b00",
+  "en": "?Chain Mail",
+  "len": 9
+ },
+ {
+  "id": "eb@08973b0c",
+  "en": "?Leather Armor",
+  "len": 7
+ },
+ {
+  "id": "eb@08973b14",
+  "en": "?Robe",
+  "len": 9
+ },
+ {
+  "id": "eb@08973b20",
+  "en": "?Gauntlets",
+  "len": 7
+ },
+ {
+  "id": "eb@08973b28",
+  "en": "?Boots",
+  "len": 5
+ },
+ {
+  "id": "eb@08973b30",
+  "en": "?Cloak",
+  "len": 9
+ },
+ {
+  "id": "eb@08973b3c",
+  "en": "?Belt",
+  "len": 9
+ },
+ {
+  "id": "eb@08973b48",
+  "en": "?Amulet",
+  "len": 9
+ },
+ {
+  "id": "eb@08973b54",
+  "en": "?Ring",
+  "len": 7
+ },
+ {
+  "id": "eb@08973b5c",
+  "en": "?Ankh",
+  "len": 9
+ },
+ {
+  "id": "eb@08973b68",
+  "en": "?Potion",
+  "len": 5
+ },
+ {
+  "id": "eb@08973b70",
+  "en": "?Scroll",
+  "len": 7
+ },
+ {
+  "id": "eb@08973b78",
+  "en": "?Instrument",
+  "len": 7
+ },
+ {
+  "id": "eb@08973b80",
+  "en": "?Tarot Card",
+  "len": 17
+ },
+ {
+  "id": "eb@08973b94",
+  "en": "?Mystic Item",
+  "len": 11
+ },
+ {
+  "id": "eb@08973ba0",
+  "en": "?Material",
+  "len": 7
+ },
+ {
+  "id": "eb@08973ba8",
+  "en": "?Other",
+  "len": 9
+ },
+ {
+  "id": "eb@08973c50",
+  "en": "Weapon",
+  "len": 5
+ },
+ {
+  "id": "eb@08973c58",
+  "en": "Shield",
+  "len": 3
+ },
+ {
+  "id": "eb@08973c5c",
+  "en": "Helm",
+  "len": 3
+ },
+ {
+  "id": "eb@08973c60",
+  "en": "Armor",
+  "len": 3
+ },
+ {
+  "id": "eb@08973c64",
+  "en": "Gauntlets",
+  "len": 5
+ },
+ {
+  "id": "eb@08973c6c",
+  "en": "Boots",
+  "len": 7
+ },
+ {
+  "id": "eb@08973c74",
+  "en": "Item",
+  "len": 5
+ },
+ {
+  "id": "eb@08973d18",
+  "en": "Inukshuk",
+  "len": 13
+ },
+ {
+  "id": "eb@08973d28",
+  "en": "Necrophilis",
+  "len": 15
+ },
+ {
+  "id": "eb@08973d38",
+  "en": "Shaharon",
+  "len": 11
+ },
+ {
+  "id": "eb@08973d44",
+  "en": "Dark Mayer",
+  "len": 15
+ },
+ {
+  "id": "eb@08973d54",
+  "en": "Palace of the Sun Showdown",
+  "len": 13
+ },
+ {
+  "id": "eb@08973d64",
+  "en": "Dark Fuhrer",
+  "len": 17
+ },
+ {
+  "id": "eb@08973d78",
+  "en": "Wicked Mage",
+  "len": 13
+ },
+ {
+  "id": "eb@08973d88",
+  "en": "Tiger Centaur III",
+  "len": 25
+ },
+ {
+  "id": "eb@08973da4",
+  "en": "Yorfa",
+  "len": 9
+ },
+ {
+  "id": "eb@08973db0",
+  "en": "Fourth Generation",
+  "len": 9
+ },
+ {
+  "id": "eb@08973dbc",
+  "en": "Red Qualia",
+  "len": 13
+ },
+ {
+  "id": "eb@08973dcc",
+  "en": "Blue Qualia",
+  "len": 13
+ },
+ {
+  "id": "eb@08973ddc",
+  "en": "Green Qualia",
+  "len": 13
+ },
+ {
+  "id": "eb@08973dec",
+  "en": "Yellow Qualia",
+  "len": 13
+ },
+ {
+  "id": "eb@08973dfc",
+  "en": "Black Qualia",
+  "len": 13
+ },
+ {
+  "id": "eb@08973e0c",
+  "en": "White Qualia",
+  "len": 13
+ },
+ {
+  "id": "eb@08973e1c",
+  "en": "Executor of the Divine Realm",
+  "len": 13
+ },
+ {
+  "id": "eb@08973e2c",
+  "en": "Hevayur",
+  "len": 13
+ },
+ {
+  "id": "eb@08973e3c",
+  "en": "Dark Generalissimo Welsconi",
+  "len": 23
+ },
+ {
+  "id": "eb@08973f00",
+  "en": "Lightstair Ruins",
+  "len": 9
+ },
+ {
+  "id": "eb@08973f0c",
+  "en": "Hemaid Red Stone",
+  "len": 15
+ },
+ {
+  "id": "eb@08973f1c",
+  "en": "Green Plakio",
+  "len": 17
+ },
+ {
+  "id": "eb@08973f30",
+  "en": "Blue Menon",
+  "len": 13
+ },
+ {
+  "id": "eb@08973f40",
+  "en": "Selcoa Paint",
+  "len": 15
+ },
+ {
+  "id": "eb@08973f50",
+  "en": "Celestial Readings",
+  "len": 13
+ },
+ {
+  "id": "eb@08973f60",
+  "en": "Wing Soul",
+  "len": 15
+ },
+ {
+  "id": "eb@08973f70",
+  "en": "Old Man's Plans",
+  "len": 15
+ },
+ {
+  "id": "eb@08973f80",
+  "en": "Cannon Tools",
+  "len": 9
+ },
+ {
+  "id": "eb@08973f8c",
+  "en": "Seasoned Snacks",
+  "len": 15
+ },
+ {
+  "id": "eb@08973f9c",
+  "en": "Alton's Treasure",
+  "len": 15
+ },
+ {
+  "id": "eb@08973fac",
+  "en": "Behiem Royal Tomb",
+  "len": 17
+ },
+ {
+  "id": "eb@08973fc0",
+  "en": "Gamea House Legacy",
+  "len": 15
+ },
+ {
+  "id": "eb@08973fd0",
+  "en": "Altar",
+  "len": 5
+ },
+ {
+  "id": "eb@08974090",
+  "en": "Clear",
+  "len": 5
+ },
+ {
+  "id": "eb@08974098",
+  "en": "Cloudy",
+  "len": 5
+ },
+ {
+  "id": "eb@089740a0",
+  "en": "Rain",
+  "len": 3
+ },
+ {
+  "id": "eb@089740a4",
+  "en": "Storm",
+  "len": 3
+ },
+ {
+  "id": "eb@089740cc",
+  "en": "Fair Weather",
+  "len": 5
+ },
+ {
+  "id": "eb@089740d4",
+  "en": "Overcast",
+  "len": 5
+ },
+ {
+  "id": "eb@089740dc",
+  "en": "Rainy Weather",
+  "len": 5
+ },
+ {
+  "id": "eb@0897412c",
+  "en": "O",
+  "len": 3
+ },
+ {
+  "id": "eb@08974130",
+  "en": "*",
+  "len": 3
+ },
+ {
+  "id": "eb@08974134",
+  "en": "!",
+  "len": 3
+ },
+ {
+  "id": "eb@0897417c",
+  "en": "About Hisbert",
+  "len": 17
+ },
+ {
+  "id": "eb@08974190",
+  "en": "About the Gods",
+  "len": 11
+ },
+ {
+  "id": "eb@0897419c",
+  "en": "About the Kin of Darkness",
+  "len": 17
+ },
+ {
+  "id": "eb@089741b0",
+  "en": "About This Land",
+  "len": 17
+ },
+ {
+  "id": "eb@089741c4",
+  "en": "About the Gods' World",
+  "len": 19
+ },
+ {
+  "id": "eb@089741d8",
+  "en": "About the Inner Door",
+  "len": 15
+ },
+ {
+  "id": "eb@089741e8",
+  "en": "Humans and Elves",
+  "len": 15
+ },
+ {
+  "id": "eb@089741f8",
+  "en": "What Is Life?",
+  "len": 7
+ },
+ {
+  "id": "eb@08974248",
+  "en": "Invalid tpg=%d specified",
+  "len": 30
+ },
+ {
+  "id": "eb@089742a0",
+  "en": "Problem with install data. Please reinstall.\nLoading from the UMD instead.",
+  "len": 96
+ },
+ {
+  "id": "eb@08974300",
+  "en": "Can't load install data from the Memory Stick.\nLoading from the UMD instead.",
+  "len": 96
+ },
+ {
+  "id": "eb@08975630",
+  "en": "Screenshot comment (1)\nScreenshot comment (2)",
+  "len": 60
+ },
+ {
+  "id": "eb@08975990",
+  "en": "Not enough free space. Saving requires at least %s more free space.",
+  "len": 72
+ },
+ {
+  "id": "eb@089759d8",
+  "en": "The operation was interrupted.",
+  "len": 23
+ },
+ {
+  "id": "eb@08975ab4",
+  "en": "Operation cancelled due to sleep mode.",
+  "len": 45
+ },
+ {
+  "id": "eb@08975ae4",
+  "en": "No Memory Stick is inserted.",
+  "len": 43
+ },
+ {
+  "id": "eb@08975b10",
+  "en": "The Memory Stick was removed.",
+  "len": 35
+ },
+ {
+  "id": "eb@08975b34",
+  "en": "The Memory Stick is write-protected.",
+  "len": 45
+ },
+ {
+  "id": "eb@08975b64",
+  "en": "Memory Stick access error",
+  "len": 37
+ },
+ {
+  "id": "eb@08975b8c",
+  "en": "The data is corrupted.",
+  "len": 23
+ },
+ {
+  "id": "eb@08975c98",
+  "en": "Transparency: %s",
+  "len": 13
+ },
+ {
+  "id": "eb@08975ca8",
+  "en": "Make blue clear",
+  "len": 9
+ },
+ {
+  "id": "eb@08975cb4",
+  "en": "Keep as is",
+  "len": 9
+ },
+ {
+  "id": "eb@08975cc0",
+  "en": "Saving...\nDo not remove the Memory Stick.",
+  "len": 56
+ },
+ {
+  "id": "eb@08975cf8",
+  "en": "Save complete.",
+  "len": 15
+ },
+ {
+  "id": "eb@08975d08",
+  "en": "Save failed.",
+  "len": 21
+ },
+ {
+  "id": "eb@08975d40",
+  "en": "The image is not in 256 colors. If imported as is, it will be automatically converted to the colors above.",
+  "len": 81
+ },
+ {
+  "id": "eb@08975d94",
+  "en": "The image is not 48x48 pixels.",
+  "len": 43
+ },
+ {
+  "id": "eb@08975dc0",
+  "en": "Overwrite the selected data. Are you sure?",
+  "len": 47
+ },
+ {
+  "id": "eb@08975df8",
+  "en": "Importing dungeon data...",
+  "len": 35
+ },
+ {
+  "id": "eb@08975e1c",
+  "en": "Importing sound data...",
+  "len": 33
+ },
+ {
+  "id": "eb@08975e64",
+  "en": "No images to import.",
+  "len": 25
+ },
+ {
+  "id": "eb@08975e80",
+  "en": "No data to import.",
+  "len": 29
+ },
+ {
+  "id": "eb@08975ea0",
+  "en": "No sound data found.",
+  "len": 27
+ },
+ {
+  "id": "eb@08975ebc",
+  "en": "  No Memory Stick is inserted.  ",
+  "len": 43
+ },
+ {
+  "id": "eb@08975f00",
+  "en": "Add New",
+  "len": 9
+ },
+ {
+  "id": "eb@08975f0c",
+  "en": "None",
+  "len": 5
+ },
+ {
+  "id": "eb@08975f3c",
+  "en": "Reset the music settings to default. Are you sure?",
+  "len": 47
+ },
+ {
+  "id": "eb@08975f6c",
+  "en": "Delete the selected data. Are you sure?",
+  "len": 45
+ },
+ {
+  "id": "eb@08975f9c",
+  "en": "Export and overwrite the existing data. Are you sure?",
+  "len": 41
+ },
+ {
+  "id": "eb@08975fc8",
+  "en": "Export the selected data. Are you sure?",
+  "len": 49
+ },
+ {
+  "id": "eb@08975ffc",
+  "en": "Replacing dungeon data...",
+  "len": 35
+ },
+ {
+  "id": "eb@08976020",
+  "en": "Exporting dungeon data...",
+  "len": 37
+ },
+ {
+  "id": "eb@08976048",
+  "en": "Deleting dungeon data...",
+  "len": 33
+ },
+ {
+  "id": "eb@0897606c",
+  "en": "Resetting the music settings to default...",
+  "len": 33
+ },
+ {
+  "id": "eb@08976090",
+  "en": "Failed to search for data.",
+  "len": 27
+ },
+ {
+  "id": "eb@089760bc",
+  "en": "No PICTURE folder found.",
+  "len": 28
+ },
+ {
+  "id": "eb@08976108",
+  "en": "Searching for Dungeon Load data...",
+  "len": 35
+ },
+ {
+  "id": "eb@0897612c",
+  "en": "No Dungeon Load data found.",
+  "len": 35
+ },
+ {
+  "id": "eb@08976178",
+  "en": "No MUSIC folder found.",
+  "len": 26
+ },
+ {
+  "id": "eb@08976bac",
+  "en": "                        Elminage III",
+  "len": 39
+ },
+ {
+  "id": "eb@08976bd4",
+  "en": "        ~The Dark Apostle and the Palace of the Sun~",
+  "len": 43
+ },
+ {
+  "id": "eb@08976c00",
+  "en": "  ",
+  "len": 3
+ },
+ {
+  "id": "eb@08976c04",
+  "en": "                      Production Staff",
+  "len": 37
+ },
+ {
+  "id": "eb@08976c40",
+  "en": "                    Scenario    Takahiro Matsutani",
+  "len": 43
+ },
+ {
+  "id": "eb@08976c6c",
+  "en": "                                Yuko Tanaka",
+  "len": 43
+ },
+ {
+  "id": "eb@08976c98",
+  "en": "                                Yuri Murakami",
+  "len": 43
+ },
+ {
+  "id": "eb@08976cc4",
+  "en": "                                Shinji Iwase",
+  "len": 43
+ },
+ {
+  "id": "eb@08976cf0",
+  "en": "                                Masayuki Ishikawa",
+  "len": 43
+ },
+ {
+  "id": "eb@08976d1c",
+  "en": "                                Takahiro Kogo",
+  "len": 43
+ },
+ {
+  "id": "eb@08976d64",
+  "en": "              Dungeon Design    Yutaka Kurosawa",
+  "len": 41
+ },
+ {
+  "id": "eb@08976d98",
+  "en": "           Encyclopedia Text    Junichi Sogawa",
+  "len": 43
+ },
+ {
+  "id": "eb@08976dcc",
+  "en": "                 Programming    Hiroyuki Fujiwara",
+  "len": 43
+ },
+ {
+  "id": "eb@08976df8",
+  "en": "                                Makoto Ichinoseki",
+  "len": 41
+ },
+ {
+  "id": "eb@08976e30",
+  "en": "                      Script    Shingo Magota",
+  "len": 43
+ },
+ {
+  "id": "eb@08976e5c",
+  "en": "                                Yutaka Yamaguchi",
+  "len": 41
+ },
+ {
+  "id": "eb@08976e88",
+  "en": "                                Yusuke Yamane",
+  "len": 43
+ },
+ {
+  "id": "eb@08976eb4",
+  "en": "                                Akinori Tomonaga",
+  "len": 43
+ },
+ {
+  "id": "eb@08976efc",
+  "en": "                 Character &    Sachiko Koriyama",
+  "len": 45
+ },
+ {
+  "id": "eb@08976f2c",
+  "en": "                 Item Design    Satomi Onodera",
+  "len": 45
+ },
+ {
+  "id": "eb@08976f5c",
+  "en": "                                Daijiro Kataoka",
+  "len": 45
+ },
+ {
+  "id": "eb@08976f8c",
+  "en": "                                Masaki Hirauchi",
+  "len": 43
+ },
+ {
+  "id": "eb@08976fb8",
+  "en": "                                Koji Igusa",
+  "len": 43
+ },
+ {
+  "id": "eb@08976ffc",
+  "en": "                                Tatsuya Higashisakihara",
+  "len": 43
+ },
+ {
+  "id": "eb@08977028",
+  "en": "                                Yu Nakajima",
+  "len": 41
+ },
+ {
+  "id": "eb@08977054",
+  "en": "                                Tatsuya Megumi",
+  "len": 43
+ },
+ {
+  "id": "eb@08977094",
+  "en": "                 2D Graphics    Sachiko Koriyama",
+  "len": 45
+ },
+ {
+  "id": "eb@089770c4",
+  "en": "                                Satomi Onodera",
+  "len": 45
+ },
+ {
+  "id": "eb@08977108",
+  "en": "         Background Graphics    Koji Akagi",
+  "len": 43
+ },
+ {
+  "id": "eb@08977134",
+  "en": "                                Ken Takagi",
+  "len": 41
+ },
+ {
+  "id": "eb@0897716c",
+  "en": "                 3D Graphics    Yohei Matsuo",
+  "len": 43
+ },
+ {
+  "id": "eb@089771a4",
+  "en": "               Opening Movie    Satomi Onodera",
+  "len": 45
+ },
+ {
+  "id": "eb@089771dc",
+  "en": "                 Main Visual",
+  "len": 27
+ },
+ {
+  "id": "eb@089771f8",
+  "en": "                   Monster &    Ken Miyauchi",
+  "len": 41
+ },
+ {
+  "id": "eb@08977224",
+  "en": "                 Item Design",
+  "len": 27
+ },
+ {
+  "id": "eb@08977250",
+  "en": "            Sound Production    Sound Tech",
+  "len": 45
+ },
+ {
+  "id": "eb@08977280",
+  "en": "                    Composer    Yusuke Wakebe",
+  "len": 43
+ },
+ {
+  "id": "eb@089772ac",
+  "en": "                                Takanori Mashiko",
+  "len": 43
+ },
+ {
+  "id": "eb@089772d8",
+  "en": "               Sound Effects    Masahiro Ito",
+  "len": 43
+ },
+ {
+  "id": "eb@08977318",
+  "en": "     Preset Character Design  (honorifics omitted)",
+  "len": 41
+ },
+ {
+  "id": "eb@08977344",
+  "en": "                       Grace    Kikuya",
+  "len": 39
+ },
+ {
+  "id": "eb@0897736c",
+  "en": "                    Kanosuke    Yutaka Nakamura",
+  "len": 41
+ },
+ {
+  "id": "eb@08977398",
+  "en": "                       Aruna    Enocchi",
+  "len": 41
+ },
+ {
+  "id": "eb@089773c4",
+  "en": "                 Meme Stampy    Yodozumi",
+  "len": 37
+ },
+ {
+  "id": "eb@089773ec",
+  "en": "                       Green    Ojii",
+  "len": 39
+ },
+ {
+  "id": "eb@08977430",
+  "en": "                      Froila    Enocchi",
+  "len": 41
+ },
+ {
+  "id": "eb@0897745c",
+  "en": "                     Garveon    Tongari Corn",
+  "len": 49
+ },
+ {
+  "id": "eb@08977490",
+  "en": "                      Common    IPPY",
+  "len": 41
+ },
+ {
+  "id": "eb@089774bc",
+  "en": "                    Fujiyama    Komii",
+  "len": 39
+ },
+ {
+  "id": "eb@089774e4",
+  "en": "                      Hiyora    Tongari Corn",
+  "len": 49
+ },
+ {
+  "id": "eb@08977534",
+  "en": "                   Publicity    Hiroshi Kunihara",
+  "len": 41
+ },
+ {
+  "id": "eb@0897756c",
+  "en": "          Assistant Director    Yohei Matsuo",
+  "len": 43
+ },
+ {
+  "id": "eb@089775a0",
+  "en": "                    Director    Shingo Magota",
+  "len": 43
+ },
+ {
+  "id": "eb@089775d4",
+  "en": "    Dev. Support  Priocine Inc.",
+  "len": 39
+ },
+ {
+  "id": "eb@089775fc",
+  "en": "                  Bunshoya Ltd.",
+  "len": 39
+ },
+ {
+  "id": "eb@08977624",
+  "en": "                  Lago Inc.",
+  "len": 33
+ },
+ {
+  "id": "eb@08977658",
+  "en": "    Developers    Starfish SD Inc.",
+  "len": 53
+ },
+ {
+  "id": "eb@08977690",
+  "en": "                  Opera House Inc.",
+  "len": 39
+ },
+ {
+  "id": "eb@089776c4",
+  "en": "    Copyright     Starfish SD Inc.",
+  "len": 53
+ },
+ {
+  "id": "eb@08977704",
+  "en": "                            ~ Fin ~",
+  "len": 39
+ },
+ {
+  "id": "eb@089777f8",
+  "en": "Failed to delete.",
+  "len": 20
+ }
+]

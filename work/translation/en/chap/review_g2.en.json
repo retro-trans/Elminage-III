@@ -1,0 +1,1812 @@
+[
+ {
+  "en": "\"But we didn't win this time either...{w}Electra, maybe you really want to change classes?{w}Because if you do, then I...\"{w}",
+  "kind": "msg",
+  "note": "Mig (unicorn = proof of Innocence) is offering to step aside if Electra changes class; trails off as in source."
+ },
+ {
+  "en": "\"Took you long enough to notice.\"{w}",
+  "kind": "msg",
+  "note": "Yamuru, sardonic: Mig has finally caught on."
+ },
+ {
+  "en": "\"Yamuru!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Yamuru!{0F}\n...It's all right, okay?\"{w}{p}\"If I meant to change classes, I wouldn't be studying alchemy.{w}I'm studying like this because I decided to keep at it, you know?\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} text matches row 402 exactly."
+ },
+ {
+  "en": "\"Really? You really mean it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Really. The more I learn, the more I'm able to do,{w}and I keep wondering what I'll be able to do next...\"{w}{p}\"Lately I'm having so much fun studying, I can't help it.{w}Maybe I should've started sooner?\"{w}{p}\"So, to keep me from running away,{w}you just keep on cheering for me, like always.{w}That way I can try all the harder. ...Okay?\"{w}",
+  "kind": "msg",
+  "note": "Electra asks Mig to keep cheering so she will not run away; cut points follow the source {w}s."
+ },
+ {
+  "en": "\"...Yeah! If it's you asking, Electra, I'll cheer you on forever and ever!{w}Go, Electra! I'll be with you always!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ugh, and now the noisy one's back...\"{w}",
+  "kind": "msg",
+  "note": "Yamuru: Mig is back to his usual cheering. (No pronoun used in EN.)"
+ },
+ {
+  "en": "\"Watch it, or I'll chop your head off! Read the room!\"{w}",
+  "kind": "msg",
+  "note": "Maniron snaps at Yamuru (temee = rude \"you\")."
+ },
+ {
+  "en": "\"Reckon that makes it a happy endin' all round, eh?\"{w}",
+  "kind": "msg",
+  "note": "Mokero's -yansu dialect rendered as folksy dropped g's, as in wmap."
+ },
+ {
+  "en": "\"So it would seem.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Right then, you guys! It won't go the same way next time, okay?{w}Well, take care!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh?\"",
+  "kind": "data",
+  "note": "data row: short quoted interjection, kept with quotes."
+ },
+ {
+  "en": "\"How are you guys doing?{w}We're doing great over here.{w}I've learned a whole lot more of my letters, too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Half-baked or not, whatever it is,{w}once you start something, you keep at it till it's properly settled.{w}Otherwise nothing good ever comes of it...\"{w}",
+  "kind": "msg",
+  "note": "kejime ga tsuku = until it is settled/seen through."
+ },
+ {
+  "en": "\"...Sounds like somebody knows that from experience!\"{w}",
+  "kind": "msg",
+  "note": "Mokero teasing Yamuru; kept impersonal \"somebody\" (no glossary gender for Yamuru)."
+ },
+ {
+  "en": "\"Words only ever come from what a body's lived through themselves, after all...\"{w}",
+  "kind": "msg",
+  "note": "Korbitz, old-man register."
+ },
+ {
+  "en": "\"That's what they call a contrarian, right...?\"{w}",
+  "kind": "msg",
+  "note": "hinekuremono = someone contrary/twisted who won't say things straight; aimed at Yamuru, who answers \"I am not!\"."
+ },
+ {
+  "en": "\"I am not!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Go, Electra! I'll always be cheering for you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thanks, Mig.{w}Now then, you guys?{w}Let's do the usual!\"{w}",
+  "kind": "msg",
+  "note": "\"the usual\" = their customary match/battle."
+ },
+ {
+  "en": "\"You're as good as ever!\"{w}",
+  "kind": "msg",
+  "note": "After the battle (party won)."
+ },
+ {
+  "en": "\"We won't lose next time!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Off with ALL the heads!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mighty bloodthirsty talk, that...\"{w}",
+  "kind": "msg",
+  "note": "bussou = dangerous/violent; Mokero on Maniron."
+ },
+ {
+  "en": "\"Ah, the folly of youth, I suppose...\"{w}",
+  "kind": "msg",
+  "note": "wakasa yue ka = \"because of youth?\"; \"folly\" adds a little colour, flagged."
+ },
+ {
+  "en": "\"Look forward to the next time we meet, got it?{w}We'll be a lot stronger by then.\"{w}",
+  "kind": "msg",
+  "note": "Subject of tsuyoku natteru not stated; \"We\" (Yamuru speaking for the party, as the next line \"that's right!\" from Electra suggests)."
+ },
+ {
+  "en": "\"That's right! Well then, see you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah! Don't you run away, you jerk! I didn't get to chop off a head! Heeeeead!!\"{w}",
+  "kind": "msg",
+  "note": "Maniron as Electra's party leaves; target of \"don't run\" is the player party (or the retreat itself); kept generic \"you\"."
+ },
+ {
+  "en": "A giant tornado struck you.{w}You tried to hold your ground, but the force of the wind slowly lifted you off your feet, and you were carried high into the sky whether you liked it or not.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Lots of fish are swimming here.{w}{p}You found an Azure Fish... but{w}its form hardly belonged underwater.{w}A lion.{w}{p}Before you even had time to be startled by its bizarre shape, it suddenly attacked!{w}",
+  "kind": "msg",
+  "note": "NEW TERM: Azure Fish (jp seisougyo, both kanji = blue). \"A lion.\" kept as a one-word beat."
+ },
+ {
+  "en": "By a stroke of luck, an Azure Fish swam up to you!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Azure Fish.{w}",
+  "kind": "msg",
+  "note": "Format follows wmap key-item rows."
+ },
+ {
+  "en": "A small fish is swimming here.{w}",
+  "kind": "msg",
+  "note": "Number not marked in source; singular chosen."
+ },
+ {
+  "en": "The area is filthy with torn clothing and blood.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Shimerief",
+  "kind": "name",
+  "note": "NEW NAME: Shimerief (romanized). Calls herself \"Shimerief-baasan\" (old woman) in row 442; sword master/mentor of Milonya per MON_TEXT."
+ },
+ {
+  "en": "\"All right, you lot. I'm gonna give you some training. Trai-ning. Ukiki!\"{w}",
+  "kind": "msg",
+  "note": "ukiki = monkey-like cackle, kept as \"Ukiki!\"."
+ },
+ {
+  "en": "\"What's that? Not happy about it? What a waste. This is training folks couldn't get even if they begged me in tears.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Look, your sparring partners are here. If you die, I'll at least gather up your bones. Now, here we go! Ukiki!\"{w}",
+  "kind": "msg",
+  "note": "hone kurai wa hirotte yaru = \"I'll at least pick up your bones\" (see you get a burial)."
+ },
+ {
+  "en": "\"One, two, three, four... Well, that should do it. Oh? You lot are still alive. Ukiki!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...This place isn't all that far from Roscadil. And on top of that, there's this view, right?\"{w}{p}\"Every year, a good number of fools end up in this cave as food for those things.\"{w}{p}\"They're living creatures too, so I won't tell 'em not to eat. ...But everything comes down to balance.\"{w}{p}\"If we come in numbers like this and give 'em a good scare, things'll be safe again for a while.\"{w}",
+  "kind": "msg",
+  "note": "yatsura = the cave monsters. Last line \"mata shibaraku wa heiki\" = it will be fine/safe again for a while."
+ },
+ {
+  "en": "\"Strength enough to break things ain't something you swing around carelessly. You use just as much as you need, like this.\"{w}{p}\"Learned something, didn't you? There, that's the end of the training. What, you got some complaint?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well then, I'll head home ahead of you. If old Granny Shimerief ain't around on a moonlit night, the neighbors'll get lonely, y'see.\"{w}",
+  "kind": "msg",
+  "note": "Self-reference \"Shimerief-baasan\" -> \"old Granny Shimerief\"."
+ },
+ {
+  "en": "\"Ukiki!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "?????",
+  "kind": "name",
+  "note": "Unknown-speaker box (Brassel before being named)."
+ },
+ {
+  "en": "\"...Who the hell are you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tch...{w}What the hell is with you lot...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Brassel",
+  "kind": "name"
+ },
+ {
+  "en": "\"Don't tell me you wanna join the Brassel Gang?{w}Hah, well, looks like you can handle yourselves.\"{w}",
+  "kind": "msg",
+  "note": "Brassel Gang as in wmap slice_03."
+ },
+ {
+  "en": "\"...Huh? No?{w}Then why the hell did you come here?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Underling",
+  "kind": "name",
+  "note": "As in wmap slice_03."
+ },
+ {
+  "en": "\"Boss, I knew it, they heard about us from that brat... That little snitch went and blabbed...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gyah!\"{w}",
+  "kind": "msg",
+  "note": "Underling getting hit (no name box)."
+ },
+ {
+  "en": "\"Shut your trap! Keep quiet!{w}And you lot, get lost already!{w}Show your faces again and this time I'll kill you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You came back again!?{w}I'm heading out!! Hey, kill these guys!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ow ow ow...{w}No way we can win without the boss... What the heck do you guys keep coming here for...?\"{w}{p}\"It's all that brat's fault anyway...{w}We've never let anybody leave here alive before, and that brat's been blabbing about us for sure.\"{w}{p}\"...You guys really don't know anything?{w}A little while back, near Roscadil, we jumped this little girl, see.\"{w}{p}\"...And the boss, for whatever reason, just let her go.\"{w}{p}\"A little brat in fancy duds like that,{w}we coulda snatched her for ransom or sold her off, y'know...\"{w}{p}\"Crap! The boss is coming back!{w}Please! Just say you got away!{w}C'mon! Or the boss'll kill us!!\"{w}",
+  "kind": "msg",
+  "note": "\"mesugaki\" (girl brat) settles the child's gender as female. Avoided a pronoun for the boss (Brassel has no glossary gender)."
+ },
+ {
+  "en": "\"Hey! Isn't anybody here!?{w}...Oh, it's you lot.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...You lot didn't hear anything from a blond brat, did you?{w}...Then that's fine.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shut up! It's nothing!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\".................................\n...So even with just one parent, a kid gets to wear stuff that nice......\"{w}",
+  "kind": "msg",
+  "note": "Long ellipsis shortened to fit one line; muttered aside."
+ },
+ {
+  "en": "\"...You lot said something about wanting to join up, right?{w}What? You think I'd hear something like that wrong?{w}This job's just you lot and me. You're coming along.\"{w}",
+  "kind": "msg",
+  "note": "Brassel invents a pretext (they never asked to join)."
+ },
+ {
+  "en": "\"The job's at the Blue Cave.{w}Word is, deep inside there's a bunch of mimics that eat adventurers and hoard treasure.\"{w}",
+  "kind": "msg",
+  "note": "Blue Cave as in wmap slice_03."
+ },
+ {
+  "en": "\"We hit 'em.{w}Relax, they're just monsters.{w}That's your specialty, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's no one here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right, this is it! The Soleil Stone!{w}Hey, you lot can have the rest.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Received 5000 GP.{w}",
+  "kind": "msg",
+  "note": "Same wording as wmap slice_03 row 239."
+ },
+ {
+  "en": "\"...By the way, that brat's... No, I'll find the kid myself.{w}...I'm settling up. This here's payment for the trouble.{w}Just one parent, and that kid's still nothing like me...\"{w}{p}\"But don't think I'm going straight now.{w}I'm a thief till the day I die. That's who I am.{w}So I'll settle up with loot from a job, too.\"{w}{p}\"And next time we meet, I'll kill you lot too.{w}Don't come to the hideout again.\"{w}",
+  "kind": "msg",
+  "note": "kejime = settling accounts. \"Kataoya datte noni, ore to wa oochigai\" kept as a contrast without asserting Brassel's own background. Who the \"trouble money\" is for (the girl, via the stone?) is left as vague as the source."
+ },
+ {
+  "en": "Certain NPCs join your adventure in the summoned monster slot.{w}{p}If a similar NPC is already with you, another one cannot be added.{w}{p}Either finish the event of the NPC currently with you, or disband your party once at the tavern.{w}",
+  "kind": "msg",
+  "note": "System message; matches wmap slice_04 row 241 terms."
+ },
+ {
+  "en": "A rotted treasure chest lies on the ground.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A rotted treasure chest lies on the ground...{w}or so you thought, but it's a mimic!{w}",
+  "kind": "msg",
+  "note": "ED: tense clash: present \"lies\" followed by past \"or so it seemed... it was\"."
+ },
+ {
+  "en": "Far off in the near pitch-darkness, a strange, faintly glowing fish appeared.{w}{p}Circling at an uncanny speed, the fish seemed to be swimming far off in the distance, and then...{w}",
+  "kind": "msg",
+  "note": "Sentence continues into row 471. | ED: \"beyond your field of view\" means out of sight, contradicting \"appeared\"."
+ },
+ {
+  "en": "...it closed in on you at an incomprehensible speed.{w}It bared its ferocious yet divine fangs at you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "An unfamiliar plant is growing here.{w}",
+  "kind": "msg",
+  "note": "Source omits a particle (typo); meaning is clear."
+ },
+ {
+  "en": "Unfamiliar fruit hangs from the unfamiliar plant.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Pick it?",
+  "kind": "data"
+ },
+ {
+  "en": "[Key Item]\nObtained Makana Essence.{w}",
+  "kind": "msg",
+  "note": "Makana Essence as in wmap slice_06."
+ },
+ {
+  "en": "Goblin",
+  "kind": "name"
+ },
+ {
+  "en": "\"Who the hell are you!?{w}All the junk around here belongs to me, the great me!\"{w}{p}\"If you're so set on digging through my junk, hand over 1000 GP!!\"{w}",
+  "kind": "msg",
+  "note": "ore-sama = \"the great me\". G.P. -> GP. | ED: \"What are you\" reads as not knowing what kind of creature the party is; temee wa = who."
+ },
+ {
+  "en": "Rummage through it?",
+  "kind": "data",
+  "note": "Choice prompt; slice_007 has \"motto, asaritai desu ka\" (rummage more?) - keep \"rummage\"."
+ },
+ {
+  "en": "\"All right, go ahead and rummage!{w}Root around shamelessly till you're satisfied!!\"{w}",
+  "kind": "msg",
+  "note": "asamashiku = shamelessly/meanly."
+ },
+ {
+  "en": "You picked up an item from the trash.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You couldn't pick up any of the trash.{w}",
+  "kind": "msg",
+  "note": "Literal. Likely the fail/empty result of a rummage (vs row 480 'picked up an item'); the goblin's full-inventory line is row 485."
+ },
+ {
+  "en": "Rummage some more?",
+  "kind": "data",
+  "note": "Menu prompt after a rummage; slice_006 row 478 is the first-time 'Rummage?'."
+ },
+ {
+  "en": "\"You ain't got enough money!\nWhat the hell are you thinkin', huh!?\"{w}",
+  "kind": "msg",
+  "note": "Goblin: rough, contemptuous voice (omae)."
+ },
+ {
+  "en": "\"No money, no trash!{w}Get lost!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What, you can't carry any more!?{w}Dammit... Bleeaarrgh!\"{w}",
+  "kind": "msg",
+  "note": "oeeee = retching/gagging noise; kept as a sound effect."
+ },
+ {
+  "en": "Who will pay?",
+  "kind": "op093",
+  "note": "Same as wmap slice_08 row 580."
+ },
+ {
+  "en": "Not enough money.{w}",
+  "kind": "msg",
+  "note": "Same as wmap slice_08 row 581."
+ },
+ {
+  "en": "Toner",
+  "kind": "name"
+ },
+ {
+  "en": "\"Okay, everyone.\nLet's take the stairs straight ahead of us and go see Emera.\"{w}",
+  "kind": "msg",
+  "note": "Toner's polite register toward the party (as in pilot row 320). Source lacks the closing bracket; closing quote added."
+ },
+ {
+  "en": "Traveler",
+  "kind": "name"
+ },
+ {
+  "en": "\"They say there's a mansion up on this mountain,{w}and a real beauty lives there who'll listen to any trouble you've got...\"{w}{p}\"But why on earth would anyone live way out here in the mountains?\"{w}",
+  "kind": "msg",
+  "note": "bijin = 'a beauty'. Second page is the traveler wondering aloud; subject 'anyone' and verb 'live' restored."
+ },
+ {
+  "en": "When you came to, you were outside the room.{w}",
+  "kind": "msg",
+  "note": "Plays after Toner wipes the party's memory (rows 547-549)."
+ },
+ {
+  "en": "\"Hellooo, Emera!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Emera",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh my, Toner.\nGia isn't with you today?\"{w}",
+  "kind": "msg",
+  "note": "Toner-sama / Gia-san: honorifics dropped (Toner's gender unknown, so no Lord/Lady); Emera's courtesy carried by register."
+ },
+ {
+  "en": "\"Mom got a little hurt.{w}So these people brought me here instead.\"{w}{p}\"I'd be fine on my own, really, but Mom said no.\"{w}",
+  "kind": "msg",
+  "note": "okaasan = Gia (glossary note: Toner calls Gia 'Mom')."
+ },
+ {
+  "en": "\"I understand how she feels.\"{w}",
+  "kind": "msg",
+  "note": "'she' = Gia (female in glossary), whose worry Toner just described."
+ },
+ {
+  "en": "\"Well then, let me examine you right away.\nThis way, please.\"{w}",
+  "kind": "msg",
+  "note": "o-karada wo haiken = look over your body (the health checkup)."
+ },
+ {
+  "en": "\"Sorry, adventurers,\nbut could you wait outside the room for a bit, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will you eavesdrop on what's going on inside?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Eavesdrop?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Well?\"{w}",
+  "kind": "msg",
+  "note": "Toner asking for the checkup result."
+ },
+ {
+  "en": "\"I see nothing out of the ordinary. Everything is normal.\"{w}",
+  "kind": "msg",
+  "note": "ED: \"You're perfectly normal\" reads as a remark on personality, not a checkup result."
+ },
+ {
+  "en": "\"Great!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mm-hm.\"{w}",
+  "kind": "msg",
+  "note": "Bare acknowledgement; whatever it answers is not in the text (likely an unvoiced cue from Emera). Kept minimal."
+ },
+ {
+  "en": "\"Fwaaaaaaah...\"{w}",
+  "kind": "msg",
+  "note": "Yawn/stretch sound."
+ },
+ {
+  "en": "\"Hup!\nHey, do I still have to keep pretending it's Rogera?\"{w}",
+  "kind": "msg",
+  "note": "Rogera = 'the god of oblivion' (wmap slice_16 row 1227); Emera calls them the previous one in slice_008 row 595. 'mada Rogera-san ni shite okanai to dame?' = must I still leave it as Rogera, i.e. let people go on believing Rogera holds the post. 'pretending' interprets 'shite oku'."
+ },
+ {
+  "en": "\"It's not that you have to,\nbut if you were to explain the Divine Realm,\npeople would begin to question what you are, Toner, to know such things.\"{w}",
+  "kind": "msg",
+  "note": "shin'iki = 'the Divine Realm' (wmap slice_19). Literal: 'the very existence of Toner-sama, who holds that information, would be doubted'. | ACC: \"dame to iu koto wa arimasen ga\" answers \"do I still have to keep it as Rogera?\" -> \"it's not that you have to\"; old \"you mustn't\" could be read as forbidding the pretence (direction reversed). | ED: \"explain about\" unidiomatic."
+ },
+ {
+  "en": "\"And I'd end up causing trouble for Mom, huh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Does she matter to you, then? That woman?\"{w}",
+  "kind": "msg",
+  "note": "ano josei = Gia."
+ },
+ {
+  "en": "\"Well, look at the vessel I'm in. I'm bound to be affected by it.\nAnd you know, she's so warm and big!\nThe way she wraps you up, it's like...\"{w}",
+  "kind": "msg",
+  "note": "yorishiro = the vessel/host body a god inhabits -> 'vessel'. 'kore' = this (body). Line trails off (kou...) by design; 'big' sets up row 513."
+ },
+ {
+  "en": "\"That is simply what motherhood is.\nA mother who has a child...\"{w}",
+  "kind": "msg",
+  "note": "Cut off by Toner."
+ },
+ {
+  "en": "\"No, I mean her boobs!\"{w}",
+  "kind": "msg",
+  "note": "oppai: crude/childish word kept at strength."
+ },
+ {
+  "en": "\"...That's quite enough.\nAbout the matter from earlier...\"{w}{p}\"Do you wish to spread the word that it is now you, and no longer Rogera?\"{w}{p}\"If that is truly what you want, give me a little time and I can change it to Sanafeet.\"{w}",
+  "kind": "msg",
+  "note": "Sanafeet = NEW name (sanafiito); Emera uses it for Toner, i.e. Toner's divine name. 'change it to Sanafeet' = change the name people pray to. | ED: \"That will do\" can read as approval; mou kekkou desu = she has heard enough."
+ },
+ {
+  "en": "\"What should I do, huh?\"{w}{p}\"I don't mind either way.\nIt's just, the people who are still praying to Rogera...\nthey're kind of... you know.\"{w}{p}\"Same goes for Dehain's followers, too.\"{w}",
+  "kind": "msg",
+  "note": "Dehain = god of existence (wmap slice_16). Deliberate trailing '...ne' kept."
+ },
+ {
+  "en": "\"It is common in every land.\"{w}{p}\"Prayer and faith are what the heart leans on.\nIf they bring peace of mind,\nthe truth has no value.\"{w}",
+  "kind": "msg",
+  "note": "'land' = daichi in the world-plane sense ('another land' in the pilot). | ED: \"on every land\" unidiomatic."
+ },
+ {
+  "en": "\"So that's how it is. That's kind of sad.\"{w}",
+  "kind": "msg",
+  "note": "sabishii -> 'sad' (lonely-sad)."
+ },
+ {
+  "en": "\"You are a strange one, Sanafeet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Am I?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No god has come down to the land since Mixia,\nand yet here you are.\"{w}",
+  "kind": "msg",
+  "note": "Mixia = NEW name (mikushia), honorific dropped. 'to iu noni' = even though; the implied 'and yet you did' made explicit."
+ },
+ {
+  "en": "\"Yeah, that!\nFulfaray made such a racket about it!\"{w}{p}\"Fulfaray kept going on and on, so I just got all excited right back.\nAnd then off they ran, ranting and raving! Ahaha!\"{w}",
+  "kind": "msg",
+  "note": "Fulfaray = NEW name (furufaree; a god, Emera adds -sama). 'wakuwaku shite ageta' = (mockingly) 'got all excited at them' in reply to the scolding -- exact sense uncertain. aitsu -> singular 'they' (gender unknown); name repeated to avoid a gendered pronoun."
+ },
+ {
+  "en": "\"You did that to Fulfaray, of all gods!?\nGood heavens...\"{w}",
+  "kind": "msg",
+  "note": "'ano Fulfaray-sama ni' = to THE Fulfaray."
+ },
+ {
+  "en": "\"Who cares? Descending to the land isn't forbidden or anything.\"{w}",
+  "kind": "msg",
+  "note": "kourin = (divine) descent."
+ },
+ {
+  "en": "\"Is that so?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? Isn't it?\"{w}",
+  "kind": "msg",
+  "note": "ED: reply to \"Is that so?\": \"It isn't, right?\" read as denying the point; \"Isn't it?\" = isn't it so."
+ },
+ {
+  "en": "\"I've never heard that.\"{w}",
+  "kind": "msg",
+  "note": "Emera has never heard that descent is permitted."
+ },
+ {
+  "en": "\"...It's not forbidden... right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, I really couldn't say.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uuu... My heart's pounding...\"{w}",
+  "kind": "msg",
+  "note": "dokidoki = nervous heartbeat."
+ },
+ {
+  "en": "\"It's a little late to worry about that now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"W-well, come on!\nIf I don't see what's really going on with my own eyes,\nhow am I supposed to know how to deal with it!\"{w}{p}\"Hey, hey, if Void and the others ask,\ncover for me, okay?\nTell them I never came to this land.\"{w}",
+  "kind": "msg",
+  "note": "Void = god of space (wmap slice_16/19). 'Void-san tachi' = Void and the others (the other gods). Toner says -san, so no 'Lord' here."
+ },
+ {
+  "en": "\"I can go along with your story\nas much as you like.\"{w}{p}\"However, everything, this conversation included,\nis surely being recorded by the System.\"{w}",
+  "kind": "msg",
+  "note": "kikou = 'the System' (Elminage System, wmap slice_19/20 rows 1474, 1521). 'hazu' -> 'surely'."
+ },
+ {
+  "en": "\"Wha!? Really!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Really.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ehhh, I don't wanna!\"{w}",
+  "kind": "msg",
+  "note": "yada = childish refusal."
+ },
+ {
+  "en": "\"You can say 'don't wanna' all you like, but...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...They really are such a pain, those guys.\nCan't I just squash them?\"{w}",
+  "kind": "msg",
+  "note": "aitsura = Void and co. (row 531) / the System's side."
+ },
+ {
+  "en": "\"That, of all things, would get you sent to the Horizon.\"{w}",
+  "kind": "msg",
+  "note": "chihei-okuri = 'sent to the Horizon' (NEW term; a punishment/exile, literally 'horizon-sending')."
+ },
+ {
+  "en": "\"You know, I think Void's going to fail.\nEven this sending-to-the-Horizon business\nis actually insurance for when the Phase Shift happens...\"{w}",
+  "kind": "msg",
+  "note": "isou tenkan = 'the Phase Shift' (wmap slice_19 row 1496). 'shita toki' -> 'when it happens' (tense uncertain). Cut off by Emera."
+ },
+ {
+  "en": "\"Sanafeet! You're saying far too much!\"{w}",
+  "kind": "msg",
+  "note": "o-kuchi ga sugimasu = speaking out of turn."
+ },
+ {
+  "en": "\"...Sorry.\"{w}{p}\"But still, I don't want to just sit on the sidelines\nand watch!\nApasha too -- I'll make them cough up that soul, no matter what!\"{w}",
+  "kind": "msg",
+  "note": "Apasha = NEW name (apaasha). 'zettai ni tamashii hakaseru' = 'make (them) spit out soul': UNCERTAIN whether Toner means forcing Apasha to give back a soul/souls taken, or beating Apasha until their own soul comes out. Kept close to literal; singular 'them' for unknown gender."
+ },
+ {
+  "en": "\"Why Rogera instructed me to help you descend, Sanafeet...\nI understand it well now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Rogera should've just done as they pleased a little more, huh.\"{w}",
+  "kind": "msg",
+  "note": "Singular 'they' for Rogera (gender unknown)."
+ },
+ {
+  "en": "\"Rogera was never one to let feelings show.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No problem there for me! I do whatever I want!\"{w}",
+  "kind": "msg",
+  "note": "sono ten = on that point."
+ },
+ {
+  "en": "\"Sanafeet, you get far too carried away.\"{w}{p}\"Now then, your friends must be getting confused by now.\n...Your friends from the land, with their ears to the door.\"{w}",
+  "kind": "msg",
+  "note": "'daichi no otomodachi' = friends of/from the land, i.e. the mortal party; Emera knows they are eavesdropping. | ED: \"Now... about now\" duplication."
+ },
+ {
+  "en": "\"It's fine, I'll just erase their memories.\"{w}",
+  "kind": "msg",
+  "note": "kesu = erase (their memory, row 548). | ACC: object of kesu restored from row 548 (memory wipe); old \"it\" had no antecedent in English."
+ },
+ {
+  "en": "\"Sorry for the wait!\nAnd sorry, but I'm going to erase a bit of your memory.\"{w}",
+  "kind": "msg",
+  "note": "Toner to the party."
+ },
+ {
+  "en": "\"......{w}......\"{w}",
+  "kind": "msg",
+  "note": "Silent beat across one {w}."
+ },
+ {
+  "en": "\"Sorry to keep you waiting, everyone!\"{w}",
+  "kind": "msg",
+  "note": "Back to Toner's polite voice for the party (memory now wiped)."
+ },
+ {
+  "en": "[Key Item]\nObtained Toner's Checkup.{w}",
+  "kind": "msg",
+  "note": "Key item 'Toner's Checkup' (kenkou shindan = health checkup); frame as wmap slice_01."
+ },
+ {
+  "en": "\"Okay, let's head back.\nI want to put Mom's mind at ease as soon as I can.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You came back to see me. Welcome.\nNow, what shall we talk about today?\"{w}",
+  "kind": "msg",
+  "note": "Emera's return-visit greeting to the party: warm, soft register (cf. slice_008 row 637)."
+ },
+ {
+  "en": "\"How lovely, you came again.\nYou're welcome to come every day, you know?\nI'll take good care of you.\"{w}",
+  "kind": "msg",
+  "note": "Source typo 'kitekure mo' (for kitekurete mo). omotenashi = hospitality."
+ },
+ {
+  "en": "Necrophilis",
+  "kind": "name"
+ },
+ {
+  "en": "\"I heard there was some vampire woman\nputting on airs as a 'Soul Therapist'.\nThat's you, right?\"{w}",
+  "kind": "msg",
+  "note": "Soul Therapist = NEW term (katakana title, Emera's job). kyuuketsu-onna = 'vampire woman' (slighting; 'woman' is in the source). kakkou tsuketeru = putting on airs."
+ },
+ {
+  "en": "\"It isn't a title I'm especially fond of, though.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That flowing hair... that pure white skin...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ahahaha!!{w}For a corpse, you look just like you're alive!!\"{w}",
+  "kind": "msg",
+  "note": "Answered by slice_008 row 560 ('A corpse... hmm')."
+ },
+ {
+  "en": "\"A corpse... hmm.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I want it... 'that.'{w}I don't need your heart, so just hand your body over to me.\"{w}{p}\"Just like this one here,\nI'll love you properly until you've rotted away completely.{w}Hee hee hee!\"{w}",
+  "kind": "msg",
+  "note": "\"this one\" (kono ko): a corpse Necrophilis keeps with her; kept neutral. \"that\" = Emera's body, seen as a corpse."
+ },
+ {
+  "en": "\"A kind invitation, but I have work to do.\"{w}{p}\"I can't live up to your expectations,\nso be good and go home quietly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A mere corpse, talking back to me?{w}Fine, I'll reap it for you.{w}That pointless leftover scrap of a personality... like THIS!!\"{w}",
+  "kind": "msg",
+  "note": "Sentence is cut across {w}: the object of \"reap\" arrives after the pause, as in the source; \"like THIS!!\" = the attack (sa!!)."
+ },
+ {
+  "en": "Emera's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"My, my. What a wild little thing.{w}You've ruined my favorite tea set.\"{w}",
+  "kind": "msg",
+  "note": "otenba is normally said of girls; \"wild little thing\" avoids assigning a gender."
+ },
+ {
+  "en": "\"Wh-what...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Where do you think you're looking?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Where'd you go!?\"{w}",
+  "kind": "msg",
+  "note": "Shouted at Emera; \"you\" avoids a pronoun."
+ },
+ {
+  "en": "\"Come now, not that way. Hehe.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Damn it!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Where are you!? Come on out!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Let me see.{w}It'd be a bother if you thrashed around too much...{w}All right, just hold still like that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? ...Agh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There. Caught you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh n-no...! Ngh!!\"{w}",
+  "kind": "msg",
+  "note": "shima(tta) cut off: rendered as a cut-off \"Oh no\"."
+ },
+ {
+  "en": "\"Look at the sky. What a splendid full moon.{w}...Even for one of the Kin of Darkness,\nisn't your timing awfully poor? You silly thing.\"{w}",
+  "kind": "msg",
+  "note": "yami no kenzoku = \"kin of darkness\". obaka-san as \"you silly thing\" (no gendered \"girl\")."
+ },
+ {
+  "en": "\"Dam... mit...!!{w}Let go!! Let go of me!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nooope. Why would I ever let go?{w}Such adorable prey...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll savor you... nice and slow.{w}Our night is only beginning.\nThere's so much I want to ask you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ha... haha!{w}Y-you think I'll just answer you nicely?{w}You must really take me for a pushover!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, that's fine. You needn't force yourself to talk.\"{w}{p}\"I'm a Soul Therapist, after all.{w}I can probe your heart, or else...\"{w}",
+  "kind": "msg",
+  "note": "New term: Soul Therapist / Soul Therapy (soruserapisuto). Sentence continues in 583 after the interruption in 582."
+ },
+ {
+  "en": "\"Wh-what are you... huh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I can ask your body instead.\"{w}",
+  "kind": "msg",
+  "note": "Completes 581 (\"or else...\")."
+ },
+ {
+  "en": "\"Where are you touching... n-no...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Personally, I prefer this method, though.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're some kind of pervert, aren't you!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, now. A lady mustn't use such vulgar words.\"{w}{p}\"More importantly, look.{w}Your very favorite thing... a corpse's fingers.{w}How about it? Are they to your liking?\"{w}",
+  "kind": "msg",
+  "note": "\"lady\" (redii) is in the source."
+ },
+ {
+  "en": "\"Wait, hold o...! Don't you dare...{w}Let go! Get off me!! You...\"{w}",
+  "kind": "msg",
+  "note": "fuzake(ru na) cut off; final \"kono...\" left trailing."
+ },
+ {
+  "en": "\"Eek!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...If you don't want to die,\nyou'll answer my questions.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah... ngh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uuh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hehe, that's a good girl.{w}If you behave, there's no need to be afraid.\nI'll pamper you plenty.\"{w}",
+  "kind": "msg",
+  "note": "yoi ko ne as \"there's a good child\" (not \"good girl\"). | ED: Necrophilis is female in the glossary; \"good girl\" is the natural idiom for yoi ko ne."
+ },
+ {
+  "en": "\"What... are you going to do... to me...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I was asked by Rogera, the former god of Dark Oblivion,\nto save the souls caught in the in-between.\"{w}{p}\"I can't forgive those who defile the remains\nof the dead, the way you do.\"{w}",
+  "kind": "msg",
+  "note": "New name Rojela (Rojera). anmetsu no kami = \"god of Dark Oblivion\" (Rojela takes life in at its end, per wmap row 1227; the same word is in a demon general's title, chap row 1806). \"god\" is meant generically, with no gender assumed. hazama no tamashii = \"souls caught in the in-between\"."
+ },
+ {
+  "en": "\"I don't defile them!{w}Even when they rot, even when they turn to sludge,\nI treasure them, don't I!\"{w}{p}\"And besides... I'm, um, proper about it...{w}Okay, sometimes I do... that sort of thing too... but...{w}I'm gentle... and, um...\"{w}",
+  "kind": "msg",
+  "note": "Flustered trailing fragments kept; \"that sort of thing\" (sou iu koto) keeps the source's euphemism."
+ },
+ {
+  "en": "\"Did the person who owned those remains\nwish for you to do that?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It seems you don't toy with them out of malice.{w}Very well.\nI'll have you undergo Soul Therapy.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Soul... thera...?{w}Oh, that hocus-pocus you do...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's right. I'm going to take a little look inside your heart.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're just a fraud, though.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm not a fraud, you know?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's no way anyone can see inside a heart.{w}Understanding another person is impossible. Obviously.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But... if it's for real...{w}You can look at all of it. I'll stay still, okay?\"{w}{p}\"Don't just take a little peek.\nLook at all of my heart...\"{w}{p}\"I could never fit into this world...{w}Save my heart... please...{w}And if you can't save it... just kill me like this.\"{w}",
+  "kind": "msg",
+  "note": "Necrophilis switches from atashi to watashi here; English cannot mark that."
+ },
+ {
+  "en": "\"Are you saying you want to die?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No. I don't want to live.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Well, all right. Let's begin.{w}Leave everything to me.\"{w}{p}\"...When this hand touches you,\nyour feelings will slowly come undone.{w}Hehe.\"{w}",
+  "kind": "msg",
+  "note": "Same therapy patter as row 637; worded identically."
+ },
+ {
+  "en": "\"...You're touching me all weird again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What's wrong with that? You like it, don't you?{w}...My heart reaches out through my palm,\ninto your body.\"{w}{p}\"I wonder where your heart is?{w}May I search for it?\"{w}",
+  "kind": "msg",
+  "note": "Matches row 637 wording."
+ },
+ {
+  "en": "\"S-search...? Ah...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Slip, slip, slip, slip...{w}I'll search every inch of your body.\"{w}",
+  "kind": "msg",
+  "note": "surusuru (smooth sliding motion) = \"slip, slip\"; same in rows 613 and 637."
+ },
+ {
+  "en": "\"Nngh...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Slip, slip, slip, slip...{w}...Oh, look, I found it.{w}It looks so lonely here. Shall I comfort it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You really are a pervert.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That makes two of us.\"{w}{p}\"...By the way, this has nothing to do\nwith the therapy, but would you tell me something?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why did you choose a night like this?{w}You might have won in the daytime, you know?{w}Or didn't you know about our nature?\"{w}",
+  "kind": "msg",
+  "note": "\"our nature\" (watashitachi no tokusei): the traits of Emera's kind (row 556 calls her a vampire), i.e. strongest under the full moon."
+ },
+ {
+  "en": "\"...Of course I knew.{w}I've been dealing with corpses for a long time.\"{w}{p}\"Sure, in the daytime I'd have won.{w}I even had White Ash ready.\"{w}",
+  "kind": "msg",
+  "note": "New term: White Ash (howaito asshu), apparently an anti-undead item or substance; capitalized as a proper name. Its only occurrence in the corpus."
+ },
+ {
+  "en": "\"White...!?{w}Then why...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Corpses are precious to me.\nSo I wanted to meet you at your most beautiful,\non the finest stage.\"{w}{p}\"You're at your most beautiful too\non this night, bathed in the full moon's light, right?{w}It's a tiny difference, but I can tell.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's all!?{w}Over something that small,\nyou threw away a fight you could have won easily...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's right.{w}It's only something that small, but to me,\nit's everything.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'm sorry.{w}That was unworthy of a Soul Therapist.{w}Now, let's continue.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Necrophilis's Soul Therapy went on\nthrough the night.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...The sun is rising.{w}I'm going to rest now, but you ought to\ncome see me regularly for a while.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come see you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes. Come again tonight.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...All my strength's drained out. I can't stand up.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't talk nonsense.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Let me stay here. Don't push me away, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Suit yourself.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bye now. ...Good night, Philis.\"{w}",
+  "kind": "msg",
+  "note": "New name: Philis, Emera's nickname for Necrophilis (firisu = the tail of the name)."
+ },
+ {
+  "en": "Necrophilis (V)",
+  "kind": "name",
+  "note": "19 chars, over the ~16 name-box guideline. Fallback if it does not fit: \"Necrophilis (V)\". | ED: name box was 19 chars, over the 16-char limit; translator fallback \"Necrophilis (V)\" (15) used."
+ },
+ {
+  "en": "\"I'm sleeping in there with you.\"{w}",
+  "kind": "msg",
+  "note": "Literal; row 635 shows Necrophilis means getting into Emera's coffin. | ED: \"sleeping with you\" is a sexual idiom the source (issho ni neru: getting into the coffin, row 635) does not carry."
+ },
+ {
+  "en": "\"Hey...! This coffin is for one...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's fine, it's fine.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh my, do I have a visitor?{w}I am the Soul Therapist, Emera.\"{w}{p}\"This is my room.\nA very quiet, very warm place.\"{w}{p}\"In the fireplace, a little flame dances to welcome you.{w}Sit down on the sofa.{w}I'll sit beside you.\"{w}{p}\"What shall we talk about today?\"{w}{p}\"Are you nervous?{w}When this hand touches you,\nyour feelings will slowly come undone.\"{w}{p}\"My heart reaches out through my palm,\ninto your body.{w}...There, let me hold you.\"{w}{p}\"I wonder where your heart is?{w}May I search for it?\"{w}{p}\"Slip, slip, slip, slip...{w}I'll search every inch of your body.\"{w}{p}\"Slip, slip, slip, slip...{w}...There, I found it.\"{w}{p}\"You're trembling.{w}Does it tickle?{w}Or are you scared?\"{w}{p}\"It's all right.{w}There's nothing here that can hurt you.\"{w}{p}\"Entwine your heart with mine.{w}Slowly, we'll melt together and become one.\"{w}{p}\"Into the warm mire.{w}I'll take you into the darkness of the eternal world.{w}We'll slowly sink down together.\"{w}{p}\"Slowly, slowly, slowly, slowly...{w}Hand in hand, body to body, heart to heart.\"{w}{p}\"Slowly, slowly, slowly, slowly...\"{w}{p}\"Now, this is the deepest place within you.{w}Here, today, tell me\nabout your happy memories.\"{w}",
+  "kind": "msg",
+  "note": "The player's own Soul Therapy session (anata = the player). The first {w} has no punctuation in the source (\"okyaku-san kashira{w}\"); I added \"?\". tokoyo no yami = \"the darkness of the eternal world\"."
+ },
+ {
+  "en": "You told Emera all the happy memories\nyou could remember.{w}",
+  "kind": "msg",
+  "note": "Narration in the past tense, as in the pilot."
+ },
+ {
+  "en": "\"Those were wonderful days, weren't they.{w}Thank you. I enjoyed that.\"{w}{p}\"That's all for today.{w}Come here again tomorrow night, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Everyone, it's this way!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This way, this way!\nIt's just past this door.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We're almost there.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We're here!\nThis is where Emera lives.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "An earthquake...?{w}No -- along with the rumbling of the ground,\nyou can hear the sound of something approaching.{w}",
+  "kind": "msg",
+  "note": "Narration: rumbling plus an approaching sound; JP has no subject, 'you can hear' supplied (party)."
+ },
+ {
+  "en": "What emerged from the cloud of dust was a gigantic two-headed dragon.{w}There was no way a meeting like this would end on friendly terms.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "It seems you have arrived at the Alchemy Department.{w}You made a mark on the blackboard.{w}{p}Then a voice rang out from nowhere.{w}",
+  "kind": "msg",
+  "note": "Alchemy Department = [JP] (school department; this dungeon appears to be a haunted academy). New term. | ED: duplicated \"out\"."
+ },
+ {
+  "en": "\"Dooon't... diiis... turrrb...\nourrr... sleeeeep...\naaaaaah!\"{w}",
+  "kind": "msg",
+  "note": "Drawn-out ghostly wail (JP stretches every mora: 'don't disturb our sleep'); rendered as stretched syllables. ??? = the lost spirits of row 648."
+ },
+ {
+  "en": "The lost spirits vanished.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The mark you made is on the blackboard.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Magic 1st-Year",
+  "kind": "name",
+  "note": "Name box [JP] = first-year student of the Magic Department (a ghost). 14 chars. Gender not assumed (speech in 652/655 is feminine-coded)."
+ },
+ {
+  "en": "\"Waah! Get away from me!{w}H-Harias... I can't cast it!\nGyaaah!\"{w}",
+  "kind": "msg",
+  "note": "Harias = spell name (SPELL.CSV:33:3), romanized; [JP] is a stammer."
+ },
+ {
+  "en": "\"Look, all you have to do is run. Just run!{w}Here it comes, run for it!{w}Whaaat, I failed to escape!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] right after 'run!' = the escape attempt failed (Wizardry-style 'couldn't get away'); made explicit."
+ },
+ {
+  "en": "1st-Year Student",
+  "kind": "name",
+  "note": "Name box [JP] = '1st-Year', same pattern as row 650. | ED: matches the \"2nd-Year Student\" / \"3rd-Year Student\" boxes (chap review_g3 rows 1046/1048); 16 chars."
+ },
+ {
+  "en": "\"Truth is, I'm a Thief...{w}Hide, hide... and there.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Thief class; capitalized like other class names (not yet in glossary). | ED: \"Truth is... actually\" redundant."
+ },
+ {
+  "en": "\"Come to think of it, people cast Dispel on me\nsometimes,{w}but like that would ever work on me.{w}{p}...Huh?{w}...Wait, could it be...{w}that the ghost here is... m... me...?\"{w}",
+  "kind": "msg",
+  "note": "The ghost student realizes they are the ghost; stammer [JP]……[JP] = 'm... me'. Quote opens once and closes at the end, as in the source."
+ },
+ {
+  "en": "There was a small clearing in the forest.\nA beautiful spring lay nearby, and the spot got plenty of sun.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Sapling",
+  "kind": "name"
+ },
+ {
+  "en": "\"Here... good... Warm...\nLike, that kid... cute...\"{w}",
+  "kind": "msg",
+  "note": "Sapling talks in katakana (odd, halting voice, slangy [JP]). Rendered as broken, halting English, no caps. 'that kid' = [JP] (probably Bona); no gender assumed."
+ },
+ {
+  "en": "Plant the sapling?",
+  "kind": "data"
+ },
+ {
+  "en": "You planted the sapling beside the spring\nand decided to leave the place.{w}{p}A faint voice reached your ears.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I believe.\nI believe you will come back...\"{w}",
+  "kind": "msg",
+  "note": "Subjects restored: 'I' (sapling) believes 'you' (party) will come back."
+ },
+ {
+  "en": "\"...............\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Bona",
+  "kind": "name"
+ },
+ {
+  "en": "\"Looks like the weather's bad right now,\nso come back when it's sunny, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Climb it?",
+  "kind": "data"
+ },
+ {
+  "en": "You tried to climb the tree to reach the Palace of the Sun,\nbut it stayed just one step out of reach.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Great Tree towers up toward the heavens.{w}",
+  "kind": "msg",
+  "note": " | lead: unified with neighbours"
+ },
+ {
+  "en": "Girl",
+  "kind": "name",
+  "note": "Speaker box [JP] = 'Girl' (literal; shown before Bona gives a name)."
+ },
+ {
+  "en": "\"Aah, that was scary...\nI almost died back there.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you for saving me, adventurers!\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered as the vocative 'adventurers' (lowercase) throughout (party is plural and player-made); third-person uses become 'you' or 'the adventurers'. | ED: vocative \"adventurers\" lowercased (file and wmap style)."
+ },
+ {
+  "en": "\"I'm Bona!{w}I wanna thank you somehow, but... if I don't hurry home,\nBig Brother's gonna scold me again.\"{w}{p}\"Bona's house is in Perpeco Village,\nso will you stop by when you have time?\"{w}{p}\"The village has lots of useful stuff and rare stuff,\nand Bona's cookies are super yummy!\"{w}{p}\"Oh, I have to go now...\nThank you, really!\"{w}",
+  "kind": "msg",
+  "note": "Bona refers to self as 'Bona' (childish speech); kept as a third-person self-reference wherever JP says [JP], 'I' elsewhere. [JP] = 'Big Brother', capitalized as a form of address."
+ },
+ {
+  "en": "\"So you have to come visit, for sure!\nI'll be waiting for you, adventurers!\"{w}",
+  "kind": "msg",
+  "note": "ED: vocative \"adventurers\" lowercased (file and wmap style)."
+ },
+ {
+  "en": "\"Oh... it's the adventurers from the other day!\"{w}{p}\"You came to visit!\nThe village has lots of yummy things and rare things!\"{w}{p}\"Oh, Big Brother, I'm home!\"{w}{p}\"Adventurers, this is Bona's big brother, Anib!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The \"big brother\" who appeared before you\nwas quite clearly a monster\nknown as an Arob.{w}",
+  "kind": "msg",
+  "note": "Arob = monster species (MONSTER2 / MON_TEXT [JP]). 'Anib' puns on [JP] (ani, older brother) + Arob (MON_TEXT 359); the pun is not reproduced. Avoided 'her' for Bona."
+ },
+ {
+  "en": "Anib",
+  "kind": "name"
+ },
+ {
+  "en": "\"Gunya? Nyanyanya...?\"{w}",
+  "kind": "msg",
+  "note": "Anib's cat-like noises romanized consistently: [JP]=Gunya, [JP]=Nya, [JP]=Nyaa, [JP]=nyan."
+ },
+ {
+  "en": "\"That's right. They're the adventurers who saved me in the forest the other day.\nThey're super strong!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nyanyanyaa-nyanya\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Big Brother and Bona have been through a lot, see...{w}Big Brother's not much of a talker and looks kinda different,\nbut he's the strongest one in the whole village!\"{w}",
+  "kind": "msg",
+  "note": "Pronouns for Anib avoided by repeating 'Big Brother'. | ED: third \"Big Brother\" in two sentences; Anib is male in the glossary."
+ },
+ {
+  "en": "\"Just the other day, Big Brother beat up\na monster in no time flat!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I bet Big Brother's just as strong as you, adventurers!{w}Bona loves her big, strong brother so much.\"{w}{p}\"'Cause Bona really understands Big Brother,\nyou know.\"{w}",
+  "kind": "msg",
+  "note": "'[JP]' = Bona can really understand Big Brother (incl. the nyas). Avoided 'her' for Bona. | ED: vocative \"adventurers\" lowercased (file and wmap style). | ED: \"loves strong Big Brother\" unnatural."
+ },
+ {
+  "en": "\"Nya, nyannyanyanonyainya\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Big Brother says you should take it easy and get some rest.{w}And he wants to hear about your adventures, too.\"{w}",
+  "kind": "msg",
+  "note": "ED: repeated name; Anib male."
+ },
+ {
+  "en": "\"Nyanyanyaa-nyaa\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, yes. I know, I know.\nOh... don't worry about the little details. Okay?\"{w}",
+  "kind": "msg",
+  "note": "[JP], said to the party = never mind the details (i.e. that Big Brother is a monster)."
+ },
+ {
+  "en": "\"Haah...\"{w}{p}\"Oh, adventurers... welcome.\"{w}{p}\"There's a place in the forest where lots of\npretty flowers bloom.\nI wanted you to see it too, adventurers, but...\"{w}{p}\"When I went there the other day, it was all wrecked...\"{w}{p}\"Bona was so shocked and told Big Brother,\nand got scolded really bad...\"{w}{p}\"Big Brother says I'm not allowed\nto go out and play anymore...\"{w}{p}\"'Cause it's dangerous outside the village...\"{w}{p}\"Bona's so bored...\"{w}{p}\"Haah...\"{w}",
+  "kind": "msg",
+  "note": "ED: vocative \"adventurers\" lowercased (file and wmap style)."
+ },
+ {
+  "en": "\"Haah...\"{w}{p}\"Oh, adventurers... welcome.\"{w}",
+  "kind": "msg",
+  "note": "ED: vocative \"adventurers\" lowercased (file and wmap style)."
+ },
+ {
+  "en": "\"Will you listen to Bona for a little bit?\"{w}{p}\"After that, Bona snuck out of the village...\"{w}{p}\"I wanted to bake you some cookies, adventurers,\nso I went to gather nuts and berries.\"{w}{p}\"But forget nuts and berries -- the whole forest\nwas a total wreck...\"{w}{p}\"The big tree with the yummy fruit,\nthe super pretty spring...\nall the favorite places Bona always goes to...\"{w}{p}\"Haah...\"{w}{p}\"............\"{w}{p}\"Maybe...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = nuts and berries. [JP] = after being told not to go out (row 686). | ED: vocative \"adventurers\" lowercased (file and wmap style)."
+ },
+ {
+  "en": "With those words, Bona held out\na small stone that shone beautifully.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This... I picked it up in the flower field...\"{w}{p}\"It was so pretty, Bona wanted\nto keep it as a treasure...\"{w}{p}\"Maybe this is what's to blame...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gunya, nyanyanyaa-nya!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Big Brother, don't get so mad...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nyanyanyanya. Nya!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Anib stretched out a tentacle, wrapped it around the stone,\nand set off toward the forest without a word.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wait... Big Brother!\"{w}{p}\"Big Brother's going to give the stone back all alone!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's a monster that wrecked the forest like that.\nEven Big Brother is sure to get hurt really bad...\"{w}{p}\"Please, adventurers...\nplease help Big Brother...\nPlease...\"{w}",
+  "kind": "msg",
+  "note": "Source has a stray closing bracket mid-page (...[JP]……[JP] then [JP]……[JP]); fixed to a single quote pair. Second page matches row 697 exactly. | ACC: \"mori wo anna ni shichau monsutaa\" = the monster that did wreck the forest (rows 686-688), not one that merely could. | ED: vocative \"adventurers\" lowercased (file and wmap style)."
+ },
+ {
+  "en": "\"Please, adventurers...\nplease help Big Brother...\nPlease...\"{w}",
+  "kind": "msg",
+  "note": "ED: vocative \"adventurers\" lowercased (file and wmap style)."
+ },
+ {
+  "en": "\"Big Brother! You got hurt so bad...\nIt's all Bona's fault... I'm sorry.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bona was a good girl and waited patiently...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'good kid' (not 'good girl': Bona's gender is not in the glossary). | ED: Bona/I switch inside one sentence; Bona female, \"good girl\" natural; chanto matteta = waited properly."
+ },
+ {
+  "en": "\"Gunya! Nyanyanya\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah. I'll have to bake lots of cookies...\nmore than we can ever eat...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Big Brother says eating Bona's cookies\nwill make him feel all better.\"{w}{p}\"You should eat some with us too, adventurers!\nThey're so yummy! Bona's cookies!\"{w}",
+  "kind": "msg",
+  "note": "Pronoun for Anib avoided ('make Big Brother feel all better'). | ED: vocative \"adventurers\" lowercased (file and wmap style). | ED: repeated name in one sentence; Anib male."
+ },
+ {
+  "en": "\"Nya! Nyanyanyaa-nya~\"{w}",
+  "kind": "msg",
+  "note": "♪ (non-ASCII) rendered as '~', as in earlier slices."
+ },
+ {
+  "en": "\"I'm sorry, adventurers.\nThis all happened because of Bona...\"{w}{p}\"You're in the middle of your journey, and you saved\nnot just Bona, but Big Brother too...\"{w}",
+  "kind": "msg",
+  "note": "ED: vocative \"adventurers\" lowercased (file and wmap style)."
+ },
+ {
+  "en": "\"Bona's going to be good from now on.\nI'll listen to what Big Brother says, and become\na good monster just like him!\"{w}",
+  "kind": "msg",
+  "note": "ED: repeated name in one sentence; Anib male."
+ },
+ {
+  "en": "\"Bona's not very good at it, but\nI'll pray lots and lots for you, adventurers.\"{w}{p}\"May the forest and the Sun Spirit protect you, adventurers!\nCome play again, okay!\"{w}",
+  "kind": "msg",
+  "note": "ED: vocative \"adventurers\" lowercased (file and wmap style)."
+ },
+ {
+  "en": "\"Hi, adventurers!\nBona's been a good girl this whole time!\"{w}{p}\"The forest is still a big mess,\nbut it'll go back to how it was for sure, right?\"{w}{p}\"Bona's gonna try really hard! I'm gonna become\na cool monster like Big Brother,\nand be just like you, adventurers!\"{w}",
+  "kind": "msg",
+  "note": "ED: vocative \"adventurers\" lowercased (file and wmap style). | ED: Bona female; matches row 699."
+ },
+ {
+  "en": "\"Hi, adventurers!\nBona's so happy to see you again!\"{w}",
+  "kind": "msg",
+  "note": "ED: vocative \"adventurers\" lowercased (file and wmap style)."
+ },
+ {
+  "en": "\"Gunya! Nyanyanyaa-nya~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Big Brother says it's great to see you too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So, what brings you here today?{w}Huh? A place to plant a sapling?{w}A chatty sapling?\"{w}{p}\"A good spot to plant a sapling, huh?\nThen there's a nice place in the northeast part of the forest!\"{w}",
+  "kind": "msg",
+  "note": "'talkative sapling' = key item [JP] (EVENT_TEXT 13 / ITEM_PRIZ 17); no English item name fixed yet, used descriptively in lowercase."
+ },
+ {
+  "en": "\"Hi, adventurers!\nBona and Big Brother are both doing great!\"{w}{p}\"And so is that chatty sapling, of course.\"{w}{p}\"Don't you worry, adventurers.\nBona's gonna take good care of it.\"{w}",
+  "kind": "msg",
+  "note": "ED: vocative \"adventurers\" lowercased (file and wmap style)."
+ },
+ {
+  "en": "\"Gunya... nyanyanya\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah. Right, Big Brother?{w}{p}If only there was something good we could use...\"{w}",
+  "kind": "msg",
+  "note": "{w}{p} mid-quote kept; the second page continues the same quote without a new opening bracket, as in the source."
+ },
+ {
+  "en": "\"Nya...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, hi, adventurers.{w}Your timing's perfect, as always!\"{w}{p}\"It's about that sapling...\"{w}{p}\"Lately it hasn't had much pep.{w}I give it water and everything,\nbut it's been talking less and less.\"{w}{p}\"I've been giving it turmeric that Bona grew,\nbut it just won't perk up.\"{w}{p}\"So we were just talking about whether there's\nsome good fertilizer out there somewhere.{w}Right, Big Brother?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = turmeric (the item that solves this later is [JP], ITEM_PRIZ 18). | ED: vocative \"adventurers\" lowercased (file and wmap style)."
+ },
+ {
+  "en": "\"Nya\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, I know! Adventurers, do you know any good fertilizer?\"{w}{p}\"I bet if we give it fertilizer,\nit'll perk right up.\"{w}{p}\"Bona's begging you! I'm counting on you, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Did you find anything good, adventurers?\nI really want it to get better soon...\"{w}{p}\"I wish something splendid would turn up...\"{w}",
+  "kind": "msg",
+  "note": "'splendid' echoes [JP], the item the player has to find. | ED: vocative \"adventurers\" lowercased (file and wmap style)."
+ },
+ {
+  "en": "\"Hello, adventurers!\nDid you find anything good?\"{w}",
+  "kind": "msg",
+  "note": "Bona addresses the party as boukensha-san; rendered \"adventurers\" (plural, gender-neutral) throughout."
+ },
+ {
+  "en": "You showed Bona the Wonderful Turmeric.{w}",
+  "kind": "msg",
+  "note": "Item name \"Wonderful Turmeric\" as in chap slice_002 (key item get message)."
+ },
+ {
+  "en": "\"Wow, that's a really fine turmeric!\nThank you. Let's just try giving it to the sapling!\"{w}",
+  "kind": "msg",
+  "note": "naegi-san -> \"the sapling\" (honorific -san on an object dropped; avoids Mr./Ms.)."
+ },
+ {
+  "en": "You buried the Wonderful Turmeric at the foot of the sapling.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, hey. What the heck are you buryin' me in?\nDon't go buryin' some mystery junk!\"{w}{p}\"Even comin' from you, Bona,\ngimme a break here.\"{w}",
+  "kind": "msg",
+  "note": "Sapling speaks all in katakana (odd, gruff voice); rendered as slangy dropped-g speech, not caps (caps would read as shouting). \"Bona-chan\" -> \"Bona\"."
+ },
+ {
+  "en": "\"This is an amazing turmeric the adventurers\nwent out of their way to bring you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, hey. Quit doin' stuff nobody asked for...?\nHey, my body's feelin'... kinda weird.\"{w}",
+  "kind": "msg",
+  "note": "Line breaks off mid-complaint (\"...?\") as the turmeric takes effect; kept."
+ },
+ {
+  "en": "\".........\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, adventurers. Is this really okay?\nIt's gone all quiet...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gunya. Gunyanyaa.\"{w}",
+  "kind": "msg",
+  "note": "Anib speaks only in cat-like noises (gunya / nya); romanized as Gunya / Nya throughout. | ED: Gnya -> Gunya (unified with rows 676-713)."
+ },
+ {
+  "en": "When Bona tried to dig up the turmeric,\nthe sapling suddenly began to grow.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Rumble rumble rumble rumble...{w}",
+  "kind": "msg",
+  "note": "Sound effect (gogogogo-o) rendered as a word."
+ },
+ {
+  "en": "With a tremendous roar, the sapling became a great tree that pierced the heavens.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wow... amazing.\nTo think it could get like this in an instant...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gshaaa. Nyaaaa.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you gazed dumbfounded at the great tree that had been a sapling,\na mysterious voice came from it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Great Tree",
+  "kind": "name",
+  "note": "Name box taiju; the tree calls itself \"the Great Tree of Heaven\" (ten no taiju)."
+ },
+ {
+  "en": "\"Thou hast done well, adventurers and folk of the forest.\nI am the Great Tree of Heaven.{w}The one who looks upon all things from heaven's heights.\"{w}{p}\"My heights shall pierce the sky and reach the heavens.\"{w}",
+  "kind": "msg",
+  "note": "Lordly archaic register (taigi de atta / ... seshi mono nari). mori no juunin \"folk of the forest\" kept number-neutral (Bona and Anib both present). \"The one who\" avoids a gendered \"he who\". | PR: stray \"on\" in \"looks on upon\" removed."
+ },
+ {
+  "en": "\"What in the world...\nMaybe your fertilizer was just too amazing, adventurers?\"{w}{p}\"It didn't just get bigger.\nEven the way it talks changed.\"{w}{p}\"I've never seen anything like this.\nBut it sure said some weird stuff...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gunya? Gunyaaaa!\"{w}",
+  "kind": "msg",
+  "note": "ED: Gnya -> Gunya (unified with rows 676-713)."
+ },
+ {
+  "en": "\"Hm? What is it, Big Brother?\nEh? There's something up there?\"{w}",
+  "kind": "msg",
+  "note": "oniichan -> \"Big Brother\" (Bona's name for Anib)."
+ },
+ {
+  "en": "When you strained your eyes and looked up at the Great Tree of Heaven,\nits top did seem to be bumping against something.{w}",
+  "kind": "msg",
+  "note": "sentou (lit. \"the lead/front\") read as the treetop. | ED: present tense inside past-tense narration (rows 730-735)."
+ },
+ {
+  "en": "\"This thing's sooo big, after all.\nMaybe it bumped right into the sky!\nBut what could be up there...?\"{w}",
+  "kind": "msg",
+  "note": "Variant of row 743: konna ni (\"this big\") vs anna ni (\"that big\") kept as \"This thing\" vs \"That thing\"."
+ },
+ {
+  "en": "\"That thing's sooo big, after all.\nMaybe it bumped right into the sky!{w}But what could be up there...?\"{w}",
+  "kind": "msg",
+  "note": "See row 742; {w} placement differs from 742 as in the source."
+ },
+ {
+  "en": "\"Huh? You couldn't get up to the sky?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aww, I see... That's kind of a shame...\"{w}",
+  "kind": "msg",
+  "note": "sokkaa -> \"Aww, I see...\"; subject of the regret is Bona."
+ },
+ {
+  "en": "\"Do your best!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Amazing, amazing!!\"{w}{p}\"You really did save the Palace of the Sun!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you entered the village, you were showered with praise.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gunya! Nyanyanyaa-nya.\"{w}",
+  "kind": "msg",
+  "note": "ED: Gnya -> Gunya (unified with rows 676-713)."
+ },
+ {
+  "en": "\"Big Brother's praising you like crazy too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ohh! Adventurers, well done saving the Palace of the Sun!\"{w}{p}\"When I heard you adventurers were coming to this village,\nI came all the way from Teridon to deliver love!\"{w}{p}\"Now, accept it!\nThis! Is the finest! LOVE!!\"{w}",
+  "kind": "msg",
+  "note": "Barjeff (wmap slice_18 spelling); next row (753, translated elsewhere) is the hug, so the \"love\" is the hug."
+ },
+ {
+  "en": "\"Bona and the others don't have anything to give you,\nbut come play with us anytime you're in Perpeco Forest!\"{w}",
+  "kind": "msg",
+  "note": "Bona-tachi \"Bona and everyone\" keeps her third-person self-reference. | ED: \"Bona and everyone can't\" reads as \"not everyone can\"."
+ },
+ {
+  "en": "\"Adventurers, this is a token of my gratitude.\nAccept it along with my love!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Received 1,000,000 GP.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nya! Nyanyanyaa-nya.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're right, Big Brother. Let's start the party!\"{w}{p}\"Bona could only make cookies,\nbut there are tons of them to make up for it!\"{w}{p}\"Come eat and dance with us, adventurers!\nIt'll be so much fun!\"{w}",
+  "kind": "msg",
+  "note": "sono kawari takusan youi shita: subject is Bona; recast as \"there are tons of them\" to keep Bona's third-person voice without repeating the name."
+ },
+ {
+  "en": "\"An ogre was looking for you, y'know?\"{w}",
+  "kind": "msg",
+  "note": "oga no hito -> \"an ogre\" (number/gender unknown)."
+ },
+ {
+  "en": "\"A Roscadil soldier was looking for you, y'know?\"{w}",
+  "kind": "msg",
+  "note": "heitai-san: number unknown, singular chosen."
+ },
+ {
+  "en": "\"An Algrantz soldier was looking for you, y'know?\"{w}",
+  "kind": "msg",
+  "note": "See row 760."
+ },
+ {
+  "en": "\"Hello! Make yourselves at home!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nyanyaa-nya.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I really wanted to know\nwhat's on the other side of the sky...\"{w}",
+  "kind": "msg",
+  "note": "Dropped subject is Bona; restored as \"I\"."
+ },
+ {
+  "en": "Gossipy Hunter",
+  "kind": "name",
+  "note": "uwasa-zuki na kariudo; \"Hunter\" as in wmap/chap (\"Hunters\" class)."
+ },
+ {
+  "en": "\"Speaking of which, I heard a rumor{w}that an item called the Amulet of Life brings the blessing of a child.\"{w}{p}\"Apparently this one couple who couldn't have kids got their hands on one, and right away,{w}they had a baby.\"{w}",
+  "kind": "msg",
+  "note": "Item name \"Amulet of Life\" as in wmap slice_07."
+ },
+ {
+  "en": "Deep in the forest, a little girl is surrounded by monsters.{w}Her eyes are full of fear; she seems to be begging for help.{w}",
+  "kind": "msg",
+  "note": "shoujo \"little girl\" is stated in the source; \"her\" follows from it. Probably Bona (cf. row 824 \"the stone Bona had picked up\"), but not named here."
+ },
+ {
+  "en": "Help her?",
+  "kind": "data",
+  "note": "Choice prompt."
+ },
+ {
+  "en": "Before you were the dying Anib and a monster\nthat must have been the owner of that stone.{w}{p}As you rushed over, Anib murmured something faintly\nand passed out.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The raging monster now turned its fangs on you.{w}",
+  "kind": "msg",
+  "note": "kiba wo mukeru -> \"turned its fangs on you\"."
+ },
+ {
+  "en": "More and more monsters appeared.{w}{p}Just then, the dying Anib gently placed the stone Bona had picked up\nright in front of the monsters.{w}",
+  "kind": "msg",
+  "note": "monsutaa no mokuzen: number not marked; next row says the monsters (plural) picked it up, so plural."
+ },
+ {
+  "en": "The monsters that picked up the stone let out satisfied cries\nand left for the depths of the forest.{w}{p}Anib tottered back to the village.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                         DANGER AHEAD                         *\n*                      HAUNTED MANSION                       *\n*                            KEEP AWAY                             *{0F}",
+  "kind": "msg",
+  "note": "Signboard, 3 framed lines (not an echo of a previous row). Padded with ASCII spaces to about 320 px per line (tools/text_build.text_width) to mirror the full-width frame. No {w} in source; kept."
+ },
+ {
+  "en": "Villager",
+  "kind": "name"
+ },
+ {
+  "en": "\"There's the remains of a ruined house to the northwest...\nbut at night, y'see...{w}It's so frightenin', nobody can go near that area...\"{w}",
+  "kind": "msg",
+  "note": "chikayorenee: subject unstated (speaker or people in general); rendered \"nobody can go near\"."
+ },
+ {
+  "en": "Farmer",
+  "kind": "name"
+ },
+ {
+  "en": "\"Watch yerself 'round there.{w}There's a whooole lotta traps set for them varmints\nthat wreck the fields.\"{w}",
+  "kind": "msg",
+  "note": "Rustic dialect (tee-kusan) kept as rural speech."
+ },
+ {
+  "en": "Books and documents are piled up like mountains.{w}Nobody seems to be home.{w}",
+  "kind": "msg",
+  "note": "juunin wa inai you da: \"nobody seems to be home\" (covers both \"no one lives here\" and \"the resident is out\")."
+ },
+ {
+  "en": "It's locked.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Something feels off at the edge of your vision.{w}Little by little it takes shape and blocks your path.{w}{p}The wretched spirits of the dead draw near,\nseeking to make you one of them.{w}",
+  "kind": "msg",
+  "note": "Tense unified to present (source mixes present/past)."
+ },
+ {
+  "en": "A strange-looking dragon suddenly swooped in.{w}Beating wings like the leafy boughs of trees,\nthe dragon attacked you!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Is it poison? Suddenly you find it hard to breathe.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Your throat turns scratchy,\nand breathing gets difficult. What could have happened so suddenly?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "At last, the culprit appeared.{w}A giant that doesn't just spew poison -- it lives alongside toxins.{w}{p}A love of poison taken this far is impressive in its own way,\nbut there's no need for you to go along with it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "* Oops! *{0F}{w}",
+  "kind": "op096",
+  "note": "Wizardry trap call \"oops\"; \"Oops!\" as in wmap slice_07 row 484. Source has no opening {0E} in this row (opened elsewhere); kept as is."
+ },
+ {
+  "en": "A Picnicker is digging a hole for all it's worth.{w}",
+  "kind": "msg",
+  "note": "isshin furan -> \"for all it's worth\"; \"it\" avoids gendering the monster."
+ },
+ {
+  "en": "Picnicker",
+  "kind": "name",
+  "note": "Monster name (MONRAW/MON_TEXT pikunikkaa), romanized as \"Picnicker\"."
+ },
+ {
+  "en": "\"Waah! Adventurers!{w}D-don't pick on me, okay!?{w}And no paralysis, sleep, or petrification either!?\"{w}{p}\"W-well, see, I think there's something under here.\nBut my pickaxe broke...{w}So now I'm chipping away at it with these fire tongs.\"{w}{p}\"Hey, could you bring me something to replace it?{w}Once in a while wouldn't hurt, right?{w}You guys are always stealing all kinds of stuff from me...\"{w}{p}\"I'm sorry!\nI got a little cocky! Just kidding, kidding!\nNot the paralyze, petrify, strip-my-gear-and-steal combo! Nooo!\"{w}{p}\"...Huh? You're not gonna pick on me?{w}Seriously? For real?\"{w}{p}\"Yes!\nThen I'll keep on digging as long as I can!\"{w}",
+  "kind": "msg",
+  "note": "Pages 2-3 repeated verbatim in row 842. The Picnicker is the Elminage punching-bag monster players paralyze/petrify to steal from (EVENT_TEXT hint); \"mahi ni sekika de soubi kaijo no nusumu\" rendered as the combo. Switches to polite speech after apologising; rendered as slightly more deferential English. | PR: four-dot \"broke....\" -> three-dot ellipsis."
+ },
+ {
+  "en": "\"W-well, see, I think there's something under here.\nBut my pickaxe broke...{w}So now I'm chipping away at it with these fire tongs.\"{w}{p}\"Hey, could you bring me something to replace it?{w}Once in a while wouldn't hurt, right?{w}You guys are always stealing all kinds of stuff from me...\"{w}",
+  "kind": "msg",
+  "note": "Identical to pages 2-3 of row 841; English kept identical. | PR: four-dot \"broke....\" -> three-dot ellipsis."
+ },
+ {
+  "en": "\"Oh! That's it, that's the one!{w}Please, let me have that Garden Keeper.{w}",
+  "kind": "msg",
+  "note": "Item \"Garden Keeper\" (ITEM.json, untranslated there yet). No closing quote in the source (choice \"hand it over?\" follows); mirrored."
+ },
+ {
+  "en": "\"Oh, this is...!{w}Thank you so much!{w}",
+  "kind": "msg",
+  "note": "No closing quote in the source; mirrored."
+ },
+ {
+  "en": "\"All right, with this baby--!\"{w}{p}\"......Um, once I'm done digging,\nplease don't paralyze me or anything, okay?{w}You promise, right? No petrifying either, okay?\"{w}{p}\"Got it? No means no, okay?{w}......Right, here goes!\"{w}{p}\"Heave-hooo!\"{w}",
+  "kind": "msg",
+  "note": "hoisassaa (work chant) -> \"Heave-hooo!\"."
+ },
+ {
+  "en": "\"Yes! I knew there was something down th\nEEEEEEEEERE!?!?!?!?\"{w}",
+  "kind": "msg",
+  "note": "Source breaks \"atta\" (there was) into a scream as he falls through (a / TAaaaa). Mirrored by breaking \"there\" across the same \\n."
+ },
+ {
+  "en": "The Picnicker fell down the hole.{w}",
+  "kind": "msg",
+  "note": "ochite itta; the hole is in the scene (row 850)."
+ },
+ {
+  "en": "\"...No, really, it's fine.\"{w}",
+  "kind": "msg",
+  "note": "Sulky reply, presumably when the party declines to hand over the Garden Keeper."
+ },
+ {
+  "en": "There is the hole the Picnicker dug.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Enter the hole?",
+  "kind": "data"
+ },
+ {
+  "en": "There is an outlandish signboard.{w}",
+  "kind": "msg",
+  "note": "kibatsu -> \"outlandish\" as in wmap slice_10 row 775 (Joker Land)."
+ },
+ {
+  "en": "\n{0E}*                    Welcome to Joker Land                    *{0F}{w}{p}...is what it says.{w}",
+  "kind": "msg",
+  "note": "Banner (not an echo). Padded to about 336 px like the source frame."
+ },
+ {
+  "en": "Joker",
+  "kind": "name"
+ },
+ {
+  "en": "\"If ya wanna go any further,\nya gotta collect three medals.\"{w}{p}\"The medals are scattered\nall over this floor!{w}Let's go find 'em -- the Joker Land Medals!\"{w}",
+  "kind": "msg",
+  "note": "\"Joker Land Medal\" (the key item itself is \"Joker Medal\", next slice)."
+ }
+]

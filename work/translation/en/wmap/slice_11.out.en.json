@@ -1,0 +1,363 @@
+[
+ {
+  "en": "\"...Thirsty. Want water...{w}...Cold. Dark...{w}Where is this place?... Want water...\"{w}",
+  "kind": "msg",
+  "note": "Sapling speaks in all-katakana; rendered as halting, broken English rather than caps."
+ },
+ {
+  "en": "\"No matter where I plant it, it's like this the whole time...{w}Even I'm starting to feel kind of--\"{w}{p}\"It's just too pitiful to watch... I'm losing all my confidence here.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I know! You guys are adventurers, right?{w}",
+  "kind": "msg",
+  "note": "No closing quote in source; continues in row 803."
+ },
+ {
+  "en": "{0E}\"I know! You guys are adventurers, right?{0F}\nCould you go and plant this sapling somewhere nice for me, in my place?\"{w}{p}\"Please, I'm counting on you...{w}It doesn't seem happy here, and I've got the other plants to look after, too...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? A visitor? That's rare, for someone who only ever keeps plants company... Wait, aren't you the guys from that time?\"{w}",
+  "kind": "msg",
+  "note": "Hanoi teases Chirocco (first sentence), then recognizes the party."
+ },
+ {
+  "en": "\"Oh, Hanoi. You know them?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, sort of.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Could you ask them too, Hanoi?{w}I'm thinking of entrusting the sapling to them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's a pretty bright idea, for you, Chirocco. We've both got plenty on our plates, after all.\"{w}{p}\"I bet that sapling would say that's what it wants, too.{w}Definitely. Probably.\"{w}{p}\"Besides, they seem to come by here a lot, but they're adventurers, technically, right?\"{w}{p}\"I heard my village got saved from a tight spot, too, by some no-name adventurers from who-knows-where.\"{w}{p}\"So if we leave it to folks of the same sort, it'll be fine for sure.{w}...Maybe. Possibly.\"{w}{p}\"Let's see... That place might work, seeing as it's a forest that's nothing but trees.{w}The conditions are perfect.\"{w}",
+  "kind": "msg",
+  "note": "ore-ra isogashii read as Hanoi + Chirocco both being busy. Hanoi talks to Chirocco about the party in 3rd person ('they'). Running joke of hedges kept (kitto. tabun / ...kamo. moshikashitara)."
+ },
+ {
+  "en": "\"Really?{w}Thank goodness. Now that sapling will finally be saved.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, I guess this counts as helping people too?{w}...Anyway, we're counting on you, my fellow adventurers!\"{w}",
+  "kind": "msg",
+  "note": "boukensha shokun -> 'my fellow adventurers' (jokey-formal address)."
+ },
+ {
+  "en": "[Key Item]\nReceived Chatty Sapling.{w}",
+  "kind": "msg",
+  "note": "Item name oshaberi na naegi -> 'Chatty Sapling' (new). Format follows [Key Item]/Obtained X; uketotta -> Received."
+ },
+ {
+  "en": "\"My place is in 'Perpeco Village.' It's all forest around there, so it's just right, isn't it?{w}For the exact spot, ask somebody in the village.\"{w}",
+  "kind": "msg",
+  "note": "uchi = Hanoi's home/family; Hanoi is from Perpeco (ties to row 808 'my village')."
+ },
+ {
+  "en": "\"I'm counting on you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, how's it going?{w}Take a look around the garden if you like. It's good for the soul, right?\"{w}{p}\"So, how about it? Have you decided where to plant the sapling?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, you guys.{w}Did you plant the sapling for me? By the spring in Perpeco Forest, you say?\"{w}{p}\"That's a great spot. You did a fine job.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm so glad.{w}Now I can finally concentrate on building the garden, too. Thank you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If there's a plant you can't figure out, just ask me. I'll brag a little: I know most of them. Anything in this garden, leave it to me.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Rookie",
+  "kind": "name",
+  "note": "shinjin = Madulay's apprentice at the shipyard; gender unknown."
+ },
+ {
+  "en": "\"Hm? What business would adventurers have in a place like this?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "What will you do?",
+  "kind": "data",
+  "note": "Same rendering as wmap slice_20 row 1564."
+ },
+ {
+  "en": "\"Hm? I see. See ya{w}",
+  "kind": "msg",
+  "note": "No closing quote or period in source; kept unfinished."
+ },
+ {
+  "en": "Ask about alchemy items",
+  "kind": "data"
+ },
+ {
+  "en": "\"Alchemy, huh... Man, that's a tough one.{w}Boss Madulaaay!\"{w}",
+  "kind": "msg",
+  "note": "oyassan -> 'Boss' (gender-neutral; Madulay's gender is unknown in glossary)."
+ },
+ {
+  "en": "Madulay",
+  "kind": "name"
+ },
+ {
+  "en": "\"What was that!?\nYou still ain't learned somethin' that basic!?\"{w}{p}\"Good timin'.{w}I'll teach you folks too, so listen up good.\"{w}",
+  "kind": "msg",
+  "note": "First page yells at the Rookie; second page addresses the party."
+ },
+ {
+  "en": "\"What I know comes from years of hard-earned experience. I ain't givin' it away for free.{w}But it'll pay off every time, guaranteed.\"{w}{p}\"If there's anything else you wanna know about alchemy items, come on by anytime.{w}",
+  "kind": "msg",
+  "note": "No closing quote in source; continues in row 827."
+ },
+ {
+  "en": "{0E}\"If there's anything else you wanna know about alchemy items, come on by anytime.{0F}\nOi, rookie! You'd better damn well learn it this time!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eep!\nI'm real sorry, Boss!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Look at the ship",
+  "kind": "data"
+ },
+ {
+  "en": "\"Ah, crap! Hurry, get outta here!{w}Otherwise Boss Madulay's gonna...{w}",
+  "kind": "msg",
+  "note": "Speaker field empty; context shows it is the Rookie. No closing quote in source."
+ },
+ {
+  "en": "\"Oi! Who the hell's walkin' in here without permission!?{w}Rookie, what're you doin'!? Throw those adventurers out, pronto!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aye, sir!!{w}C'mon! Out, quick! I'm beggin' you!{w}Boss Madulay's thunder is comin'!!\"{w}",
+  "kind": "msg",
+  "note": "Speaker = Rookie (context). kaminari kept as 'thunder' (temper)."
+ },
+ {
+  "en": "\"Oi! You there, rookie!{w}Why've you got your hands stuffed in your pockets!?{w}Those are for your tools, ya damn fool!\"{w}{p}\"Listen up! Don't you slack off on the job!\nIt won't end with just you gettin' hurt!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Anybody dawdlin' around gets thrown in the mana furnace!!\"{w}",
+  "kind": "msg",
+  "note": "makouro -> 'mana furnace' (new term; the ship's engine furnace)."
+ },
+ {
+  "en": "\"Hey!{w}Draggin' around long stuff like swords and spears -- what if you bang 'em into the equipment!?\"{w}{p}\"Breakin' stuff is what you adventurers are good for.{w}Buildin' stuff is what us craftsfolk are good for.{w}There's no work for you here!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Useless lot! Get the hell out!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You came back!?{w}Just what's a bunch of two-bit adventurers findin' so amusin'...{w}",
+  "kind": "msg",
+  "note": "No closing quote in source; continues in row 838."
+ },
+ {
+  "en": "{0E}\"You came back!?\nJust what's a bunch of two-bit adventurers findin' so amusin'...{0F}\nHmm...\"{w}{p}\"Say, you folks, lemme ask you somethin'...{w}You got any business over at the Rinos Sea Volcano?\"{w}{p}\"Thing is, the rookie went and cracked my whetstones...{w}The rookie? Oh, I gave the kid a good earful, naturally.\"{w}{p}\"So here's the deal. Could you nip over to the Rinos Sea Volcano and dig me up some whetstones?{w}Maintenance tools are the most important thing after carpentry tools.\"{w}",
+  "kind": "msg",
+  "note": "Rinos Undersea Volcano = new place name. 'the kid' keeps the Rookie gender-neutral."
+ },
+ {
+  "en": "\"The coarse stone came through fine. But...{w}the medium stone and the fine stone, now...{w}Those two. ...Please.\"{w}",
+  "kind": "msg",
+  "note": "Whetstone grades: ara-to = coarse, naka-to = medium, shiage-to = finishing."
+ },
+ {
+  "en": "\"The Medium Whetstone and the Fine Whetstone, those two.{w}Maintenance tools matter most, right after your work tools......... I'm countin' on ya.\"{w}",
+  "kind": "msg",
+  "note": "Capitalised as key-item names (chap slice_017 rows 1347-1348 are their pickup messages)."
+ },
+ {
+  "en": "\"Medium Whetstone and Fine Whetstone, both of 'em, all right.{w}Thanks, you really bailed me out.\"{w}{p}\"I coulda just bought new whetstones, sure, but the stones from these parts suit my tools just right.\"{w}",
+  "kind": "msg",
+  "note": "koko no toishi read as 'the local stones' (from the volcano near Roscadil)."
+ },
+ {
+  "en": "\"...These tools have been in my family for three generations. I wanna take good care of 'em.{w}You really saved me there{w}",
+  "kind": "msg",
+  "note": "No closing quote or period in source; kept."
+ },
+ {
+  "en": "\"...Hey, you folks, what d'you make of this thing?{w}Pretty over-the-top, ain't it?{w}...It's a warship.\"{w}{p}\"My granddad and my old man were both magic airship shipwrights.{w}So I'm buildin' this thing just like they did.\"{w}{p}\"I take pride in this work, and I'm gonna get this thing flyin', no matter what.\"{w}",
+  "kind": "msg",
+  "note": "makuutei (magic airship) = new term. Grandfather/father genders are explicit in the source."
+ },
+ {
+  "en": "\"A warship... huh.{w}Sinful business, this, when all I want is to see this thing fly...\"{w}{p}\"Empress Rianna is a person of principle.{w}So she won't go puttin' this thing to wicked use, I'd say.\"{w}",
+  "kind": "msg",
+  "note": "Queen (joou) is explicit in source, so 'she' for Rianna."
+ },
+ {
+  "en": "\"...Hah! No use grumblin' about it!{w}I'll just do my job, and do it right, that's all!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oi, you lot! Put some fire in it!{w}Anybody dawdlin' around gets thrown in the mana furnace!!\"{w}",
+  "kind": "msg",
+  "note": "Addressed to the shipyard workers."
+ },
+ {
+  "en": "\"Shape up, the lot of you! I won't stand for anyone goin' slack on the job!\"{w}{p}\"Anybody dawdlin' around gets thrown in the mana furnace!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Old Woman",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh?\nOut for a stroll too, are you?\"{w}{p}\"Lovely night view, isn't it? Ukiki!\"{w}{p}\"What's this, you came up here without knowing who I am? You lot are a funny bunch.{w}Ukiki!\"{w}",
+  "kind": "msg",
+  "note": "ukiki = Shimerief's monkey-like cackle, kept as a verbal tic."
+ },
+ {
+  "en": "Shimerief",
+  "kind": "name",
+  "note": "New name (romanised shi-me-ri-e-fu). Also appears untranslated in chap slice_006."
+ },
+ {
+  "en": "\"Shimerief. That's my name.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Here's an old-timer's tale from long ago. Keep me company a little while.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...When I was young, I wandered here, there and everywhere with a sword in hand.\"{w}{p}\"Always on about who's strong, and how do I stack up.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Good with a sword? More skilled than anyone?{w}Compared to who, exactly?{w}",
+  "kind": "msg",
+  "note": "No closing quote in source; continues in row 855."
+ },
+ {
+  "en": "{0E}\"Good with a sword? More skilled than anyone?\nCompared to who, exactly?{0F}\nWhat a load of nonsense... Ukiki!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...The ones who come begging me to teach 'em are all like that, too...{w}Honestly, it's as silly as it gets.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......Come to think of it, there was one interesting kid lately... now who was it...\"{w}",
+  "kind": "msg",
+  "note": "omoshiroi ko: gender unknown, kept as 'kid'."
+ },
+ {
+  "en": "\"When all you do is swing a sword,{w}it's 'Am I stronger than anyone? What is strength?'{w}That's all you end up thinking about.\"{w}{p}\"That's when I met a certain sage.\"{w}{p}\"So I counted my lucky stars and asked about this and that...{w}",
+  "kind": "msg",
+  "note": "No closing quote in source; continues in row 859."
+ },
+ {
+  "en": "{0E}\"So I counted my lucky stars and asked about this and that...{0F}\nand it was like, 'Geez, there's no end to any of this...'{w}Overcomplicated, and no limit to it, either.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's ridiculous beyond words.{w}Living, dying, killing, being killed, winning, losing, strong, weak.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All of that, every last bit of it,{w}is just in your head. Ukiki!\"{w}",
+  "kind": "msg",
+  "note": "tada no ki no sei -> 'just in your head'."
+ },
+ {
+  "en": "\"Been waiting for you. You lot have nothing better to do anyway, right?{w}Keep me company tonight.\"{w}{p}\"Come on, hurry up and get ready.{w}We're headed for the Blue Cave. Ukiki!\"{w}",
+  "kind": "msg",
+  "note": "Blue Cave as in wmap slice_03 row 235."
+ },
+ {
+  "en": "\"What are you doing? We're headed for the Blue Cave. Ukiki!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Seen a swordswoman wearing a beard, have you? I'm the one who gave her that, you know. Suited her, didn't it? Ukiki!\"{w}",
+  "kind": "msg",
+  "note": "hige -> 'beard' to match the key item 'Sword Elder's Beard' (chap slice_001 row 66), which this likely refers to; 'mustache' is possible."
+ },
+ {
+  "en": "No one seems to be here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welcome in~!{w}Welcome to Toner's Armory~!\"{w}{p}\"Oh, are you maybe... from Algrantz?{w}I knew it! You bought that at my mom's shop, didn't you?\"{w}{p}\"I thought it looked familiar!{w}Please give Toner's Armory your business, too!\"{w}",
+  "kind": "msg",
+  "note": "Toner no bugu-ten / Toner bugu-ten -> 'Toner's Armory' (new). Mom = Gia (Kembeck's Shop). Toner's gender unknown: no pronouns."
+ },
+ {
+  "en": "\"Hmm~ hmm hmm hmm-hmm~ hmm~~...{w}Oh, welcome in~!\"{w}{p}\"What do you all think of this outfit?{w}Doesn't it get you super excited?{w}It's so fluffy, and frilly, and silky!\"{w}",
+  "kind": "msg",
+  "note": "Humming; music-note symbol replaced by '~' (ASCII). wakuwaku = Toner's catchword, rendered with 'thrill/thrilling' throughout."
+ },
+ {
+  "en": "\"...What should I do, it's merchandise...{w}But just for a little bit... Hmmm...{w}",
+  "kind": "msg",
+  "note": "No closing quote in source."
+ },
+ {
+  "en": "\"Yep! I've decided!{w}I'll save up my allowance and buy it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eh heh heh heh... All right! Time to work my hardest, all for the excitement!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And you all, too,{w}if you find anything exciting, please{w}bring it to my shop, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...........So exciiiting-- waaaah!!{w}",
+  "kind": "msg",
+  "note": "The squeal turns into a shriek on noticing the party. No closing quote; continues in row 873."
+ },
+ {
+  "en": "{0E}\"...........So exciiiting-- waaaah!!{0F}\nWh-- How long have you all been here!? Th-this, this isn't what it looks like!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Okay, if you asked me how it's different, I'd be stuck, but it's not what it looks like! Huh, what am I even talking about... I was just trying on some exciting clothes, that's all!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But even if I say 'trying,' it's merchandise, okay!? I'd never... like, actually wear it... never...{w}..............................................\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...W-welcome iiin~! Welcome to Toner's Armory!!{w}......Waaaaah!!\"{w}",
+  "kind": "msg",
+  "note": "uwaan = crying wail."
+ },
+ {
+  "en": "Toner was nowhere to be seen.{w}Instead, for some reason, a blonde girl was standing there.{w}",
+  "kind": "msg",
+  "note": "'girl' is the narration's own word for the figure (it is Toner in costume, slice_12 rows 880-887); no gender implied for Toner."
+ },
+ {
+  "en": "\"Oh, good evening, everyone! You came back to see us!{w}Welcome to Toner's Arm-- ...Oh.\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? = Toner as 'Safi'. Cut off mid-word as in source."
+ },
+ {
+  "en": "\"...No, I mean-- I'm Safi! Safi!\"{w}",
+  "kind": "msg",
+  "note": "safi -> 'Safi' (new name; Toner's alter ego, see slice_12)."
+ }
+]

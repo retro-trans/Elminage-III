@@ -1,0 +1,350 @@
+[
+ {
+  "en": "\"Everyone, it's this way!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This way, this way!\nIt's just past this door.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We're almost there.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We're here!\nThis is where Emera lives.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "An earthquake...?{w}No -- along with the rumbling of the ground,\nyou can hear the sound of something approaching.{w}",
+  "kind": "msg",
+  "note": "Narration: rumbling plus an approaching sound; JP has no subject, 'you can hear' supplied (party)."
+ },
+ {
+  "en": "What emerged from the cloud of dust was a gigantic two-headed dragon.{w}There was no way a meeting like this would end on friendly terms.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "It seems you have arrived at the Alchemy Department.{w}You made a mark on the blackboard.{w}{p}Then a voice rang out from out of nowhere.{w}",
+  "kind": "msg",
+  "note": "Alchemy Department = [JP] (school department; this dungeon appears to be a haunted academy). New term."
+ },
+ {
+  "en": "\"Dooon't... diiis... turrrb...\nourrr... sleeeeep...\naaaaaah!\"{w}",
+  "kind": "msg",
+  "note": "Drawn-out ghostly wail (JP stretches every mora: 'don't disturb our sleep'); rendered as stretched syllables. ??? = the lost spirits of row 648."
+ },
+ {
+  "en": "The lost spirits vanished.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The mark you made is on the blackboard.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Magic 1st-Year",
+  "kind": "name",
+  "note": "Name box [JP] = first-year student of the Magic Department (a ghost). 14 chars. Gender not assumed (speech in 652/655 is feminine-coded)."
+ },
+ {
+  "en": "\"Waah! Get away from me!{w}H-Harias... I can't cast it!\nGyaaah!\"{w}",
+  "kind": "msg",
+  "note": "Harias = spell name (SPELL.CSV:33:3), romanized; [JP] is a stammer."
+ },
+ {
+  "en": "\"Look, all you have to do is run. Just run!{w}Here it comes, run for it!{w}Whaaat, I failed to escape!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] right after 'run!' = the escape attempt failed (Wizardry-style 'couldn't get away'); made explicit."
+ },
+ {
+  "en": "1st-Year",
+  "kind": "name",
+  "note": "Name box [JP] = '1st-Year', same pattern as row 650."
+ },
+ {
+  "en": "\"Truth is, I'm actually a Thief...{w}Hide, hide... and there.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Thief class; capitalized like other class names (not yet in glossary)."
+ },
+ {
+  "en": "\"Come to think of it, people cast Dispel on me\nsometimes,{w}but like that would ever work on me.{w}{p}...Huh?{w}...Wait, could it be...{w}that the ghost here is... m... me...?\"{w}",
+  "kind": "msg",
+  "note": "The ghost student realizes they are the ghost; stammer [JP]……[JP] = 'm... me'. Quote opens once and closes at the end, as in the source."
+ },
+ {
+  "en": "There was a small clearing in the forest.\nA beautiful spring lay nearby, and the spot got plenty of sun.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Sapling",
+  "kind": "name"
+ },
+ {
+  "en": "\"Here... good... Warm...\nLike, that kid... cute...\"{w}",
+  "kind": "msg",
+  "note": "Sapling talks in katakana (odd, halting voice, slangy [JP]). Rendered as broken, halting English, no caps. 'that kid' = [JP] (probably Bona); no gender assumed."
+ },
+ {
+  "en": "Plant the sapling?",
+  "kind": "data"
+ },
+ {
+  "en": "You planted the sapling beside the spring\nand decided to leave the place.{w}{p}A faint voice reached your ears.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I believe.\nI believe you will come back...\"{w}",
+  "kind": "msg",
+  "note": "Subjects restored: 'I' (sapling) believes 'you' (party) will come back."
+ },
+ {
+  "en": "\"...............\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Bona",
+  "kind": "name"
+ },
+ {
+  "en": "\"Looks like the weather's bad right now,\nso come back when it's sunny, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Climb it?",
+  "kind": "data"
+ },
+ {
+  "en": "You tried to climb the tree to reach the Palace of the Sun,\nbut it stayed just one step out of reach.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The great tree towers up toward the heavens.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Girl",
+  "kind": "name",
+  "note": "Speaker box [JP] = 'Girl' (literal; shown before Bona gives a name)."
+ },
+ {
+  "en": "\"Aah, that was scary...\nI almost died back there.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you for saving me, Adventurers!\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered as the vocative 'Adventurers' throughout (party is plural and player-made); third-person uses become 'you' or 'the adventurers'."
+ },
+ {
+  "en": "\"I'm Bona!{w}I wanna thank you somehow, but... if I don't hurry home,\nBig Brother's gonna scold me again.\"{w}{p}\"Bona's house is in Perpeco Village,\nso will you stop by when you have time?\"{w}{p}\"The village has lots of useful stuff and rare stuff,\nand Bona's cookies are super yummy!\"{w}{p}\"Oh, I have to go now...\nThank you, really!\"{w}",
+  "kind": "msg",
+  "note": "Bona refers to self as 'Bona' (childish speech); kept as a third-person self-reference wherever JP says [JP], 'I' elsewhere. [JP] = 'Big Brother', capitalized as a form of address."
+ },
+ {
+  "en": "\"So you have to come visit, for sure!\nI'll be waiting for you, Adventurers!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh... it's the adventurers from the other day!\"{w}{p}\"You came to visit!\nThe village has lots of yummy things and rare things!\"{w}{p}\"Oh, Big Brother, I'm home!\"{w}{p}\"Adventurers, this is Bona's big brother, Anib!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The \"big brother\" who appeared before you\nwas quite clearly a monster\nknown as an Arob.{w}",
+  "kind": "msg",
+  "note": "Arob = monster species (MONSTER2 / MON_TEXT [JP]). 'Anib' puns on [JP] (ani, older brother) + Arob (MON_TEXT 359); the pun is not reproduced. Avoided 'her' for Bona."
+ },
+ {
+  "en": "Anib",
+  "kind": "name"
+ },
+ {
+  "en": "\"Gunya? Nyanyanya...?\"{w}",
+  "kind": "msg",
+  "note": "Anib's cat-like noises romanized consistently: [JP]=Gunya, [JP]=Nya, [JP]=Nyaa, [JP]=nyan."
+ },
+ {
+  "en": "\"That's right. They're the adventurers who saved me in the forest the other day.\nThey're super strong!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nyanyanyaa-nyanya\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Big Brother and Bona have been through a lot, see...{w}Big Brother's not much of a talker and looks kinda different,\nbut nobody in the village is stronger than Big Brother!\"{w}",
+  "kind": "msg",
+  "note": "Pronouns for Anib avoided by repeating 'Big Brother'."
+ },
+ {
+  "en": "\"Just the other day, Big Brother beat up\na monster in no time flat!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I bet Big Brother's just as strong as you, Adventurers!{w}Bona loves strong Big Brother so much.\"{w}{p}\"'Cause Bona really understands Big Brother,\nyou know.\"{w}",
+  "kind": "msg",
+  "note": "'[JP]' = Bona can really understand Big Brother (incl. the nyas). Avoided 'her' for Bona."
+ },
+ {
+  "en": "\"Nya, nyannyanyanonyainya\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Big Brother says you should take it easy and get some rest.{w}And Big Brother wants to hear about your adventures, too.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nyanyanyaa-nyaa\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, yes. I know, I know.\nOh... don't worry about the little details. Okay?\"{w}",
+  "kind": "msg",
+  "note": "[JP], said to the party = never mind the details (i.e. that Big Brother is a monster)."
+ },
+ {
+  "en": "\"Haah...\"{w}{p}\"Oh, Adventurers... welcome.\"{w}{p}\"There's a place in the forest where lots of\npretty flowers bloom.\nI wanted you to see it too, Adventurers, but...\"{w}{p}\"When I went there the other day, it was all wrecked...\"{w}{p}\"Bona was so shocked and told Big Brother,\nand got scolded really bad...\"{w}{p}\"Big Brother says I'm not allowed\nto go out and play anymore...\"{w}{p}\"'Cause it's dangerous outside the village...\"{w}{p}\"Bona's so bored...\"{w}{p}\"Haah...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Haah...\"{w}{p}\"Oh, Adventurers... welcome.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Will you listen to Bona for a little bit?\"{w}{p}\"After that, Bona snuck out of the village...\"{w}{p}\"I wanted to bake you some cookies, Adventurers,\nso I went to gather nuts and berries.\"{w}{p}\"But forget nuts and berries -- the whole forest\nwas a total wreck...\"{w}{p}\"The big tree with the yummy fruit,\nthe super pretty spring...\nall the favorite places Bona always goes to...\"{w}{p}\"Haah...\"{w}{p}\"............\"{w}{p}\"Maybe...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = nuts and berries. [JP] = after being told not to go out (row 686)."
+ },
+ {
+  "en": "With those words, Bona held out\na small stone that shone beautifully.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This... I picked it up in the flower field...\"{w}{p}\"It was so pretty, Bona wanted\nto keep it as a treasure...\"{w}{p}\"Maybe this is what's to blame...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gunya, nyanyanyaa-nya!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Big Brother, don't get so mad...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nyanyanyanya. Nya!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Anib stretched out a tentacle, wrapped it around the stone,\nand set off toward the forest without a word.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wait... Big Brother!\"{w}{p}\"Big Brother's going to give the stone back all alone!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's a monster that could wreck the forest like that.\nEven Big Brother is sure to get hurt really bad...\"{w}{p}\"Please, Adventurers...\nplease help Big Brother...\nPlease...\"{w}",
+  "kind": "msg",
+  "note": "Source has a stray closing bracket mid-page (...[JP]……[JP] then [JP]……[JP]); fixed to a single quote pair. Second page matches row 697 exactly."
+ },
+ {
+  "en": "\"Please, Adventurers...\nplease help Big Brother...\nPlease...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Big Brother! You got hurt so bad...\nIt's all Bona's fault... I'm sorry.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bona was a good kid and waited, just like I was supposed to...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'good kid' (not 'good girl': Bona's gender is not in the glossary)."
+ },
+ {
+  "en": "\"Gunya! Nyanyanya\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah. I'll have to bake lots of cookies...\nmore than we can ever eat...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Big Brother says eating Bona's cookies\nwill make Big Brother feel all better.\"{w}{p}\"You should eat some with us too, Adventurers!\nThey're so yummy! Bona's cookies!\"{w}",
+  "kind": "msg",
+  "note": "Pronoun for Anib avoided ('make Big Brother feel all better')."
+ },
+ {
+  "en": "\"Nya! Nyanyanyaa-nya~\"{w}",
+  "kind": "msg",
+  "note": "♪ (non-ASCII) rendered as '~', as in earlier slices."
+ },
+ {
+  "en": "\"I'm sorry, Adventurers.\nThis all happened because of Bona...\"{w}{p}\"You're in the middle of your journey, and you saved\nnot just Bona, but Big Brother too...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bona's going to be good from now on.\nI'll listen to what Big Brother says, and become\na good monster just like Big Brother!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Bona's not very good at it, but\nI'll pray lots and lots for you, Adventurers.\"{w}{p}\"May the forest and the Sun Spirit protect you, Adventurers!\nCome play again, okay!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hi, Adventurers!\nBona's been a good kid this whole time!\"{w}{p}\"The forest is still a big mess,\nbut it'll go back to how it was for sure, right?\"{w}{p}\"Bona's gonna try really hard! I'm gonna become\na cool monster like Big Brother,\nand be just like you, Adventurers!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hi, Adventurers!\nBona's so happy to see you again!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gunya! Nyanyanyaa-nya~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Big Brother says it's great to see you too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So, what brings you here today?{w}Huh? A place to plant a sapling?{w}A chatty sapling?\"{w}{p}\"A good spot to plant a sapling, huh?\nThen there's a nice place in the northeast part of the forest!\"{w}",
+  "kind": "msg",
+  "note": "'talkative sapling' = key item [JP] (EVENT_TEXT 13 / ITEM_PRIZ 17); no English item name fixed yet, used descriptively in lowercase."
+ },
+ {
+  "en": "\"Hi, Adventurers!\nBona and Big Brother are both doing great!\"{w}{p}\"And so is that chatty sapling, of course.\"{w}{p}\"Don't you worry, Adventurers.\nBona's gonna take good care of it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gunya... nyanyanya\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah. Right, Big Brother?{w}{p}If only there was something good we could use...\"{w}",
+  "kind": "msg",
+  "note": "{w}{p} mid-quote kept; the second page continues the same quote without a new opening bracket, as in the source."
+ },
+ {
+  "en": "\"Nya...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, hi, Adventurers.{w}Your timing's perfect, as always!\"{w}{p}\"It's about that sapling...\"{w}{p}\"Lately it hasn't had much pep.{w}I give it water and everything,\nbut it's been talking less and less.\"{w}{p}\"I've been giving it turmeric that Bona grew,\nbut it just won't perk up.\"{w}{p}\"So we were just talking about whether there's\nsome good fertilizer out there somewhere.{w}Right, Big Brother?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = turmeric (the item that solves this later is [JP], ITEM_PRIZ 18)."
+ },
+ {
+  "en": "\"Nya\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, I know! Adventurers, do you know any good fertilizer?\"{w}{p}\"I bet if we give it fertilizer,\nit'll perk right up.\"{w}{p}\"Bona's begging you! I'm counting on you, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Did you find anything good, Adventurers?\nI really want it to get better soon...\"{w}{p}\"I wish something splendid would turn up...\"{w}",
+  "kind": "msg",
+  "note": "'splendid' echoes [JP], the item the player has to find."
+ }
+]

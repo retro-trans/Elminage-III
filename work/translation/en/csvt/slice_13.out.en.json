@@ -1,0 +1,358 @@
+[
+ {
+  "en": "Star Helm",
+  "kind": "name",
+  "note": "[JP] = hoshi-kabuto (riveted Eastern helm)."
+ },
+ {
+  "en": "Iron Mask",
+  "kind": "name"
+ },
+ {
+  "en": "Sugarloaf",
+  "kind": "name",
+  "note": "Sugarloaf = historical great-helm type; kept as the bare name."
+ },
+ {
+  "en": "Phantom Mask",
+  "kind": "name"
+ },
+ {
+  "en": "Black Bull Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Magic Laurel Wreath",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Silver Tiara",
+  "kind": "name"
+ },
+ {
+  "en": "Bahamut Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Golden Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Mithril Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Helm",
+  "kind": "name"
+ },
+ {
+  "en": "Fur Hat",
+  "kind": "name"
+ },
+ {
+  "en": "Eboshi",
+  "kind": "name",
+  "note": "Eastern court/shrine cap; romanized (desc calls it formal wear of the [JP] class)."
+ },
+ {
+  "en": "Bandana",
+  "kind": "name"
+ },
+ {
+  "en": "Red Hood",
+  "kind": "name",
+  "note": "[JP]: hood worn by Red Caps; also the Little Red Riding Hood word."
+ },
+ {
+  "en": "Torn Hat",
+  "kind": "name"
+ },
+ {
+  "en": "Wing Hat",
+  "kind": "name"
+ },
+ {
+  "en": "Bald Wig",
+  "kind": "name"
+ },
+ {
+  "en": "Straw Hat",
+  "kind": "name"
+ },
+ {
+  "en": "Steel Hairband",
+  "kind": "name"
+ },
+ {
+  "en": "Mage's Hat",
+  "kind": "name",
+  "note": "[JP] = Mage (glossary)."
+ },
+ {
+  "en": "Laughing Hood",
+  "kind": "name"
+ },
+ {
+  "en": "Bandana Soul",
+  "kind": "name",
+  "note": "New name. Desc pun: 'soul of a bandana, so [JP]'; 'Bander Soul' is the literal alternative."
+ },
+ {
+  "en": "Archmage's Hat",
+  "kind": "name",
+  "note": "[JP] = archmage."
+ },
+ {
+  "en": "Blue Rain-1",
+  "kind": "name",
+  "note": "Glossary: [JP] = Blue Rain; -1 kept as in source."
+ },
+ {
+  "en": "Plate Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Knight's Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Chipped Plate Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Lorica Segmentata",
+  "kind": "name",
+  "note": "Real Roman armor name; source spelling [JP] is a short form."
+ },
+ {
+  "en": "Plate Mail +1",
+  "kind": "name"
+ },
+ {
+  "en": "Neutral Armor",
+  "kind": "name",
+  "note": "[JP] = Neutral (glossary)."
+ },
+ {
+  "en": "Brigandine",
+  "kind": "name"
+ },
+ {
+  "en": "Magic Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Evil Armor",
+  "kind": "name",
+  "note": "[JP] = Evil (glossary); matches 'Evil Saber' in slice_10."
+ },
+ {
+  "en": "Crystal Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Swan Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Mithril Plate",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Breastplate",
+  "kind": "name",
+  "note": "Matches ?Breastplate (ebt slice_17) and chap 'Forebear's Breastplate'."
+ },
+ {
+  "en": "Ashigaru Armor",
+  "kind": "name",
+  "note": "[JP] = low-rank Eastern foot soldier; romanized."
+ },
+ {
+  "en": "Cuirass",
+  "kind": "name"
+ },
+ {
+  "en": "Fallen Samurai Armor",
+  "kind": "name",
+  "note": "[JP] = defeated samurai on the run; exactly 20 bytes. Alt: 'Ochimusha Armor'."
+ },
+ {
+  "en": "Hunter Guard",
+  "kind": "name"
+ },
+ {
+  "en": "Jeweled Breastplate",
+  "kind": "name"
+ },
+ {
+  "en": "Sakimori Armor",
+  "kind": "name",
+  "note": "[JP] = Eastern coastal/border guard (desc); romanized like Ashigaru."
+ },
+ {
+  "en": "Silver Breastplate",
+  "kind": "name",
+  "note": "[JP] = (pure) silver."
+ },
+ {
+  "en": "Icing Heart",
+  "kind": "name"
+ },
+ {
+  "en": "Goddess Breastplate",
+  "kind": "name",
+  "note": "'Goddess's Breastplate' is 21 bytes; possessive dropped."
+ },
+ {
+  "en": "Kuroito Odoshi",
+  "kind": "name",
+  "note": "[JP] = black-laced Japanese armor; romanized because the desc treats it as a foreign Eastern style. Alt: 'Black-Laced Armor'."
+ },
+ {
+  "en": "Sword Saint's Armor",
+  "kind": "name",
+  "note": "[JP] = sword saint (desc: title for sword masters); kept distinct from glossary [JP] 'Swordsage'."
+ },
+ {
+  "en": "Chain Mail",
+  "kind": "name",
+  "note": "Matches ?Chain Mail."
+ },
+ {
+  "en": "Scale Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Elven Chain",
+  "kind": "name",
+  "note": "Matches wmap 'Elven Chain +1'."
+ },
+ {
+  "en": "Lamellar Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Elven Chain +1",
+  "kind": "name",
+  "note": "Matches wmap slice_12."
+ },
+ {
+  "en": "Flame Chain Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Ice Chain Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Cursed Chain Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Chain Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Frostfire Chain Mail",
+  "kind": "name",
+  "note": "[JP] = ice+flame; exactly 20 bytes. Also used in SP_TEXT 4132 transform message."
+ },
+ {
+  "en": "Dolk Paccano",
+  "kind": "name",
+  "note": "New name, romanized; [JP] could also be Durk."
+ },
+ {
+  "en": "Leather Armor",
+  "kind": "name",
+  "note": "Matches ?Leather Armor."
+ },
+ {
+  "en": "Hard Leather Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Rotten Leather Armor",
+  "kind": "name",
+  "note": "[JP]: desc says rotted to tatters; exactly 20 bytes."
+ },
+ {
+  "en": "Koinunu",
+  "kind": "name",
+  "note": "New name, romanized (hunting-tribe hide armor)."
+ },
+ {
+  "en": "Jewel Leather",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Leather",
+  "kind": "name"
+ },
+ {
+  "en": "Luci Koinunu",
+  "kind": "name",
+  "note": "New name: [JP] romanized as Luci (alt Rushi/Lusi); chieftain's Koinunu."
+ },
+ {
+  "en": "Discipline",
+  "kind": "name",
+  "note": "Bondage-armor pun kept as the plain word."
+ },
+ {
+  "en": "Robe",
+  "kind": "name",
+  "note": "Matches ?Robe."
+ },
+ {
+  "en": "Fairy Clothes",
+  "kind": "name",
+  "note": "[JP] = fairy (race-only item)."
+ },
+ {
+  "en": "Ninja Garb",
+  "kind": "name"
+ },
+ {
+  "en": "Holey Robe",
+  "kind": "name",
+  "note": "[JP] = full of holes."
+ },
+ {
+  "en": "Green Robe",
+  "kind": "name"
+ },
+ {
+  "en": "Pearl Jamas",
+  "kind": "name",
+  "note": "New name. [JP] puns on [JP] (pajamas; desc: puts the wearer into a dream). 'Pearl Jamas' keeps the pun; literal 'Pearl Jaman'."
+ },
+ {
+  "en": "Robe Gladi",
+  "kind": "name",
+  "note": "New name. [JP] likely from gladiator (desc: dogi worn by fighters); literal 'Robe Gradi'."
+ },
+ {
+  "en": "Blue Robe",
+  "kind": "name"
+ },
+ {
+  "en": "Morning Glory Garb",
+  "kind": "name",
+  "note": "[JP] = morning glory (fairy-sized clothes)."
+ },
+ {
+  "en": "Chihaya Benizakura",
+  "kind": "name",
+  "note": "[JP] = shrine-maiden overgarment, [JP] = crimson cherry blossom (desc: formal wear of the [JP] class); romanized. Alt: 'Crimson Sakura Robe'."
+ }
+]

@@ -1,0 +1,98 @@
+[
+ {
+  "id": "JOBABL.CSV:6:3",
+  "en": "Fighter",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOBABL.CSV:7:3",
+  "en": "Mage",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOBABL.CSV:8:3",
+  "en": "Priest",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOBABL.CSV:9:3",
+  "en": "Thief",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOBABL.CSV:10:3",
+  "en": "Alchem.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOBABL.CSV:11:3",
+  "en": "Servant",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOBABL.CSV:12:3",
+  "en": "Bishop",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOBABL.CSV:13:3",
+  "en": "Ranger",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOBABL.CSV:14:3",
+  "en": "Gladiat.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOBABL.CSV:15:3",
+  "en": "Bard",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOBABL.CSV:16:3",
+  "en": "Kannagi",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "JOBABL.CSV:17:3",
+  "en": "Summoner",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOBABL.CSV:18:3",
+  "en": "Valkyrie",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOBABL.CSV:19:3",
+  "en": "Lord",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOBABL.CSV:20:3",
+  "en": "Samurai",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "JOBABL.CSV:21:3",
+  "en": "Ninja",
+  "max": 8,
+  "used": true
+ }
+]

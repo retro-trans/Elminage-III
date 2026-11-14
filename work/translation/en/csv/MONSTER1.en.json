@@ -1,0 +1,2738 @@
+[
+ {
+  "id": "MONSTER1.CSV:6:4",
+  "en": "(Reserve)",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:5",
+  "en": "Slime",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:6",
+  "en": "Funny Ball",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:7",
+  "en": "Red Slime",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:8",
+  "en": "Blob",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:9",
+  "en": "Homunculus",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:10",
+  "en": "Inukshuk",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:11",
+  "en": "Jellita",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:12",
+  "en": "Leg Ball",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:13",
+  "en": "Weird Kelp",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:14",
+  "en": "Charmy Lip",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:15",
+  "en": "Gold Right Hand",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:16",
+  "en": "Gold Left Hand",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:17",
+  "en": "Mask of Desire",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:18",
+  "en": "Gallery Knight",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:19",
+  "en": "Gallery Beast",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:20",
+  "en": "Stymphalides",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:21",
+  "en": "Pleia",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:22",
+  "en": "Edumo",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:23",
+  "en": "Greater Slime",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:24",
+  "en": "Rag",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:25",
+  "en": "Mimic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:26",
+  "en": "Impressionist",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:27",
+  "en": "Homunculus+1",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:28",
+  "en": "Edumo Senior",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:29",
+  "en": "Tetramystica",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:30",
+  "en": "Zombie Lady",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:31",
+  "en": "Skeleton",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:32",
+  "en": "Zombie Fang",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:33",
+  "en": "Grave Pitter",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:34",
+  "en": "Bass Zombi",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:35",
+  "en": "Langsuir",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:36",
+  "en": "Vampire",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:37",
+  "en": "Zaqqum",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:38",
+  "en": "Lich",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:39",
+  "en": "Mirurubana",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:40",
+  "en": "Girou",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:41",
+  "en": "Skull Crown",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:42",
+  "en": "Death Knight",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:43",
+  "en": "La Fanure",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:44",
+  "en": "Samael",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:45",
+  "en": "Earth Elemental",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:46",
+  "en": "Korred",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:47",
+  "en": "Mandragora",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:48",
+  "en": "Water Elemental",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:49",
+  "en": "Fairy",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:50",
+  "en": "Undine",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:51",
+  "en": "Rubezahl",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:52",
+  "en": "Wind Elemental",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:53",
+  "en": "Yugdrias",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:54",
+  "en": "Fire Elemental",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:55",
+  "en": "Snow Rabbit",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:56",
+  "en": "Zilphe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:57",
+  "en": "Leprechaun",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:58",
+  "en": "Sign",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:59",
+  "en": "Will-o'-Wisp",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:60",
+  "en": "Narv",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:61",
+  "en": "Alraune",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:62",
+  "en": "Snow Woman",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:63",
+  "en": "Storm",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:64",
+  "en": "Lightning",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:65",
+  "en": "Snowman",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:66",
+  "en": "Dullahan",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:67",
+  "en": "Soul Rotate",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:68",
+  "en": "Earthworm",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:69",
+  "en": "Mad Jumper",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:70",
+  "en": "Mockricketta?",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:71",
+  "en": "Doom Mantis",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:72",
+  "en": "Amber Roach",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:73",
+  "en": "Ultimate Runner",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:74",
+  "en": "Shell Combine",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:75",
+  "en": "Pirieraua",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:76",
+  "en": "Shield Centipede",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:77",
+  "en": "Cordyceps",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:78",
+  "en": "Ultimate Flyer",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:79",
+  "en": "Twin Scobill",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:80",
+  "en": "Royal Honey",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:81",
+  "en": "Frasteria",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:82",
+  "en": "Insector Lord",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:83",
+  "en": "Wiwaxia",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:84",
+  "en": "Hovering Straw",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:85",
+  "en": "Chick Bomb",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:86",
+  "en": "Camel Duff",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:87",
+  "en": "Wise Hammer",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:88",
+  "en": "Tonafel",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:89",
+  "en": "Deathgaroo",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:90",
+  "en": "Full Moon Rabbit",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:91",
+  "en": "Armgorion",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:92",
+  "en": "Vortex Eye",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:93",
+  "en": "Diamond Colony",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:94",
+  "en": "Deep Dresser",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:95",
+  "en": "Beast",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:96",
+  "en": "Airy Vider",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:97",
+  "en": "Nose Tyrant",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:98",
+  "en": "Emperor Bird",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:99",
+  "en": "Babirusa",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:100",
+  "en": "Harpy",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:101",
+  "en": "Carbuncle",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:102",
+  "en": "Afanc",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:103",
+  "en": "Basilisk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:104",
+  "en": "Peryton",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:105",
+  "en": "Nekomata",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:106",
+  "en": "Unicorn",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:107",
+  "en": "Merlion",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:108",
+  "en": "Chimera",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:109",
+  "en": "Cockatrice",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:110",
+  "en": "Tengu",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:111",
+  "en": "Scylla",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:112",
+  "en": "Cerberus",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:113",
+  "en": "Griffon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:114",
+  "en": "Lamia",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:115",
+  "en": "Tenko",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:116",
+  "en": "Bicorn",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:117",
+  "en": "Bahamut",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:118",
+  "en": "Sphinx",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:119",
+  "en": "Poltergeist",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:120",
+  "en": "Ghost Fighter",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:121",
+  "en": "Ghost Mage",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:122",
+  "en": "Ghost",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:123",
+  "en": "Ghost Thief",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:124",
+  "en": "Hanger",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:125",
+  "en": "Ghost Priestess",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:126",
+  "en": "Ghost Maid",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:127",
+  "en": "Ghost Ship",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:128",
+  "en": "Klein",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:129",
+  "en": "Ghost Ranger",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:130",
+  "en": "Ghost Smash",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:131",
+  "en": "Ghost Valkyrie",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:132",
+  "en": "Shouting Fear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:133",
+  "en": "Ansatacris",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:134",
+  "en": "Ghost Daimyo",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:135",
+  "en": "Ghost Summer",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:136",
+  "en": "Inugami",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:137",
+  "en": "Mayokal",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:138",
+  "en": "Wraith",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:139",
+  "en": "Gremlin",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:140",
+  "en": "Bolmophis",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:141",
+  "en": "Gargoyle",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:142",
+  "en": "Karussa",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:143",
+  "en": "Lesser Demon",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:144",
+  "en": "Bistora",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:145",
+  "en": "Demon Valkyrie",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:146",
+  "en": "Incubus",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:147",
+  "en": "Succubus",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:148",
+  "en": "Greater Demon",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:149",
+  "en": "Fake Angel",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:150",
+  "en": "Walpurgis",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:151",
+  "en": "Hell Master",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:152",
+  "en": "Empusa",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:153",
+  "en": "Archdemon",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:154",
+  "en": "Medusa",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:6:155",
+  "en": "Demon Lord",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:4",
+  "en": "(Reserve)",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:5",
+  "en": "Slime",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:6",
+  "en": "Funny Ball",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:7",
+  "en": "Red Slime",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:8",
+  "en": "Blob",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:9",
+  "en": "Homunculus",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:10",
+  "en": "Inukshuk",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:11",
+  "en": "Jellita",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:12",
+  "en": "Leg Ball",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:13",
+  "en": "Weird Kelp",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:14",
+  "en": "Charmy Lip",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:15",
+  "en": "Gold Right Hand",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:16",
+  "en": "Gold Left Hand",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:17",
+  "en": "Mask of Desire",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:18",
+  "en": "Gallery Knight",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:19",
+  "en": "Gallery Beast",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:20",
+  "en": "Stymphalides",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:21",
+  "en": "Pleia",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:22",
+  "en": "Edumo",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:23",
+  "en": "Greater Slime",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:24",
+  "en": "Rag",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:25",
+  "en": "Mimic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:26",
+  "en": "Impressionist",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:27",
+  "en": "Homunculus+1",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:28",
+  "en": "Edumo Senior",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:29",
+  "en": "Tetramystica",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:30",
+  "en": "Zombie Lady",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:31",
+  "en": "Skeleton",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:32",
+  "en": "Zombie Fang",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:33",
+  "en": "Grave Pitter",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:34",
+  "en": "Bass Zombi",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:35",
+  "en": "Langsuir",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:36",
+  "en": "Vampire",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:37",
+  "en": "Zaqqum",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:38",
+  "en": "Lich",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:39",
+  "en": "Mirurubana",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:40",
+  "en": "Girou",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:41",
+  "en": "Skull Crown",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:42",
+  "en": "Death Knight",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:43",
+  "en": "La Fanure",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:44",
+  "en": "Samael",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:45",
+  "en": "Earth Elemental",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:46",
+  "en": "Korred",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:47",
+  "en": "Mandragora",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:48",
+  "en": "Water Elemental",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:49",
+  "en": "Fairy",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:50",
+  "en": "Undine",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:51",
+  "en": "Rubezahl",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:52",
+  "en": "Wind Elemental",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:53",
+  "en": "Yugdrias",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:54",
+  "en": "Fire Elemental",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:55",
+  "en": "Snow Rabbit",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:56",
+  "en": "Zilphe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:57",
+  "en": "Leprechaun",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:58",
+  "en": "Sign",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:59",
+  "en": "Will-o'-Wisp",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:60",
+  "en": "Narv",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:61",
+  "en": "Alraune",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:62",
+  "en": "Snow Woman",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:63",
+  "en": "Storm",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:64",
+  "en": "Lightning",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:65",
+  "en": "Snowman",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:66",
+  "en": "Dullahan",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:67",
+  "en": "Soul Rotate",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:68",
+  "en": "Earthworm",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:69",
+  "en": "Mad Jumper",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:70",
+  "en": "Mockricketta?",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:71",
+  "en": "Doom Mantis",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:72",
+  "en": "Amber Roach",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:73",
+  "en": "Ultimate Runner",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:74",
+  "en": "Shell Combine",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:75",
+  "en": "Pirieraua",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:76",
+  "en": "Shield Centipede",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:77",
+  "en": "Cordyceps",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:78",
+  "en": "Ultimate Flyer",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:79",
+  "en": "Twin Scobill",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:80",
+  "en": "Royal Honey",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:81",
+  "en": "Frasteria",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:82",
+  "en": "Insector Lord",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:83",
+  "en": "Wiwaxia",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:84",
+  "en": "Hovering Straw",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:85",
+  "en": "Chick Bomb",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:86",
+  "en": "Camel Duff",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:87",
+  "en": "Wise Hammer",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:88",
+  "en": "Tonafel",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:89",
+  "en": "Deathgaroo",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:90",
+  "en": "Full Moon Rabbit",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:91",
+  "en": "Armgorion",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:92",
+  "en": "Vortex Eye",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:93",
+  "en": "Diamond Colony",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:94",
+  "en": "Deep Dresser",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:95",
+  "en": "Beast",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:96",
+  "en": "Airy Vider",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:97",
+  "en": "Nose Tyrant",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:98",
+  "en": "Emperor Bird",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:99",
+  "en": "Babirusa",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:100",
+  "en": "Harpy",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:101",
+  "en": "Carbuncle",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:102",
+  "en": "Afanc",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:103",
+  "en": "Basilisk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:104",
+  "en": "Peryton",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:105",
+  "en": "Nekomata",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:106",
+  "en": "Unicorn",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:107",
+  "en": "Merlion",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:108",
+  "en": "Chimera",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:109",
+  "en": "Cockatrice",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:110",
+  "en": "Tengu",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:111",
+  "en": "Scylla",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:112",
+  "en": "Cerberus",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:113",
+  "en": "Griffon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:114",
+  "en": "Lamia",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:115",
+  "en": "Tenko",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:116",
+  "en": "Bicorn",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:117",
+  "en": "Bahamut",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:118",
+  "en": "Sphinx",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:119",
+  "en": "Poltergeist",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:120",
+  "en": "Ghost Fighter",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:121",
+  "en": "Ghost Mage",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:122",
+  "en": "Ghost",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:123",
+  "en": "Ghost Thief",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:124",
+  "en": "Hanger",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:125",
+  "en": "Ghost Priestess",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:126",
+  "en": "Ghost Maid",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:127",
+  "en": "Ghost Ship",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:128",
+  "en": "Klein",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:129",
+  "en": "Ghost Ranger",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:130",
+  "en": "Ghost Smash",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:131",
+  "en": "Ghost Valkyrie",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:132",
+  "en": "Shouting Fear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:133",
+  "en": "Ansatacris",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:134",
+  "en": "Ghost Daimyo",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:135",
+  "en": "Ghost Summer",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:136",
+  "en": "Inugami",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:137",
+  "en": "Mayokal",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:138",
+  "en": "Wraith",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:139",
+  "en": "Gremlin",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:140",
+  "en": "Bolmophis",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:141",
+  "en": "Gargoyle",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:142",
+  "en": "Karussa",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:143",
+  "en": "Lesser Demon",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:144",
+  "en": "Bistora",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:145",
+  "en": "Demon Valkyrie",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:146",
+  "en": "Incubus",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:147",
+  "en": "Succubus",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:148",
+  "en": "Greater Demon",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:149",
+  "en": "Fake Angel",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:150",
+  "en": "Walpurgis",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:151",
+  "en": "Hell Master",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:152",
+  "en": "Empusa",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:153",
+  "en": "Archdemon",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:154",
+  "en": "Medusa",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:7:155",
+  "en": "Demon Lord",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:4",
+  "en": "Reserve",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:5",
+  "en": "Goopy-Gloopy",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:6",
+  "en": "Mystery Sphere",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:7",
+  "en": "Crimson",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:8",
+  "en": "Doe-Eyed",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:9",
+  "en": "Bottled Life",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:10",
+  "en": "Walking Monolith",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:11",
+  "en": "Gulps Anything",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:12",
+  "en": "Tumble King",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:13",
+  "en": "Ugh! So Grassy!",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:14",
+  "en": "Juicy Kissable",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:15",
+  "en": "Taker of Lives",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:16",
+  "en": "Taker of Memories",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:17",
+  "en": "Laughing Riches",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:18",
+  "en": "Canvas Knight",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:19",
+  "en": "Canvas Beast",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:20",
+  "en": "Clockwork",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:21",
+  "en": "Devotee",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:22",
+  "en": "Void Hound",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:23",
+  "en": "Big Ol' Goopy",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:24",
+  "en": "Carrion Horror",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:25",
+  "en": "Boxed Doom",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:26",
+  "en": "Strange Figure",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:27",
+  "en": "Fishbowl Life",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:28",
+  "en": "Predator of Space",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:29",
+  "en": "No Blind Spots",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:30",
+  "en": "Seeking Warmth",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:31",
+  "en": "Ultra Nude",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:32",
+  "en": "Gnaws Own Bone",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:33",
+  "en": "Grave-Born",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:34",
+  "en": "Rot-Scaled",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:35",
+  "en": "2-Mouth Vamp",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:36",
+  "en": "Night Prince",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:37",
+  "en": "Cursed Tree",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:38",
+  "en": "Rotten but Rich",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:39",
+  "en": "Deathly Gaze",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:40",
+  "en": "Many Dead",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:41",
+  "en": "Sky Bone King",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:42",
+  "en": "Death-Born",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:43",
+  "en": "Love-Death Bliss",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:44",
+  "en": "Reaper",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:45",
+  "en": "Earthborn",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:46",
+  "en": "Always Jittery",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:47",
+  "en": "Ukyaaah!!",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:48",
+  "en": "Waterborn",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:49",
+  "en": "Mana Front",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:50",
+  "en": "Nixie Queen",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:51",
+  "en": "Turnips All Over",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:52",
+  "en": "Windborn",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:53",
+  "en": "Moonbud Eye",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:54",
+  "en": "Fireborn",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:55",
+  "en": "Snow-Nurtured",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:56",
+  "en": "Jolly Gale",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:57",
+  "en": "Dummies, Too!",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:58",
+  "en": "Glowskin",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:59",
+  "en": "Phantom Lamplight",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:60",
+  "en": "Shadowborn",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:61",
+  "en": "Bloom Maid",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:62",
+  "en": "Icy Beauty",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:63",
+  "en": "Silver Icon",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:64",
+  "en": "Golden Icon",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:65",
+  "en": "Snow Fiend",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:66",
+  "en": "Death-Omen Fae",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:67",
+  "en": "Spinning Idiot",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:68",
+  "en": "Man-Eating",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:69",
+  "en": "Grass-Hopping",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:70",
+  "en": "Head-Tilting",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:71",
+  "en": "Beheading Mantis",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:72",
+  "en": "Amber Miracle",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:73",
+  "en": "Black Devil",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:74",
+  "en": "Hard-Shell Tank",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:75",
+  "en": "Stinger Lady",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:76",
+  "en": "Sheltered Centipede",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:77",
+  "en": "Spring and Fall?",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:78",
+  "en": "King of Terror",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:79",
+  "en": "Ancient-Born",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:80",
+  "en": "Queen Bee's Heir",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:81",
+  "en": "Eerie Glow",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:82",
+  "en": "King of Fly Manor",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:83",
+  "en": "Spiky Bun",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:84",
+  "en": "Slurp-Slurp",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:85",
+  "en": "Meat Racer",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:86",
+  "en": "Camel Revenge",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:87",
+  "en": "Blind Only Ahead",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:88",
+  "en": "Nosewalker",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:89",
+  "en": "Punch! Kick!",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:90",
+  "en": "Red/White Mochi?",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:91",
+  "en": "Anything Goes",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:92",
+  "en": "Silent Thinker",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:93",
+  "en": "Eternal Brilliance",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:94",
+  "en": "Deep-Sea Fashion",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:95",
+  "en": "Beastlike",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:96",
+  "en": "Big Lug",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:97",
+  "en": "Forest Tyrant",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:98",
+  "en": "Pomp and Majesty",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:99",
+  "en": "Holy Fiend",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:100",
+  "en": "Sky Frolicker",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:101",
+  "en": "Gem Beast",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:102",
+  "en": "Kshaaa!",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:103",
+  "en": "Venomous",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:104",
+  "en": "Man-Shadow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:105",
+  "en": "Loyal Cat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:106",
+  "en": "Pure Steed",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:107",
+  "en": "Sea Guardian",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:108",
+  "en": "Fusion",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:109",
+  "en": "Rock-a-Doodle",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:110",
+  "en": "Geho",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:111",
+  "en": "Siren",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:112",
+  "en": "Dark Hound",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:113",
+  "en": "Highborn",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:114",
+  "en": "Snake Lady",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:115",
+  "en": "Inari-sama",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:116",
+  "en": "Foul Beast",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:117",
+  "en": "Gleamscale",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:118",
+  "en": "Dream Riddle",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:119",
+  "en": "Mischievous",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:120",
+  "en": "Famously Tenacious",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:121",
+  "en": "Seething Mana",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:122",
+  "en": "Lonesome",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:123",
+  "en": "Light-Fingered",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:124",
+  "en": "Happy to Hang",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:125",
+  "en": "Wandering Nun",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:126",
+  "en": "Here to Serve",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:127",
+  "en": "Run 'Em Down!",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:128",
+  "en": "4-D Body",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:129",
+  "en": "Not Done Hunting",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:130",
+  "en": "Indomitable Soul",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:131",
+  "en": "The Unredeemed",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:132",
+  "en": "Death-Calling Shout",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:133",
+  "en": "Swims Dead Sky",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:134",
+  "en": "Blade of Regret",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:135",
+  "en": "Shinobi Soul",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:136",
+  "en": "Forged Ghost",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:137",
+  "en": "Wishy-Washy",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:138",
+  "en": "Overlord",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:139",
+  "en": "Tiny-Fanged",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:140",
+  "en": "Fluffy Tum-Tum",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:141",
+  "en": "I'll Keep Watch!",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:142",
+  "en": "Beep Beep",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:143",
+  "en": "Fledgling Demon",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:144",
+  "en": "Soul-Rip Hand",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:145",
+  "en": "Demonic Thrust",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:146",
+  "en": "Soul Rape",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:147",
+  "en": "Dark Lover",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:148",
+  "en": "Grand Demon",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:149",
+  "en": "Despair Is My Joy",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:150",
+  "en": "Revelry Begins",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:151",
+  "en": "Demons, Obey",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:152",
+  "en": "Cruel Grin",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:153",
+  "en": "Dark Pontiff",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:154",
+  "en": "Stonewitch",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER1.CSV:8:155",
+  "en": "Dark Monarch",
+  "max": 14,
+  "used": true
+ }
+]

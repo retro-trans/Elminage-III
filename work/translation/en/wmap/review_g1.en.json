@@ -1,0 +1,1800 @@
+[
+ {
+  "en": "With a strange whirring, a Tetramystica glides across the floor.{w}{p}A Tetramystica specialized for guard duty -- a \"Guard Mystica,\" you might call it.{w}{p}Here and there the students have scrawled on it: \"Idiot,\" \"Moron,\" even doodled nose hairs.{w}Even so, its function of guarding the Academy is still fully intact.{w}{p}So it is only natural that, on spotting you outsiders who don't belong to the Academy, it moves to eliminate you.{w}",
+  "kind": "msg",
+  "note": "Tetramystica = monster name (MONRAW), romanized; 'Guard Mystica' keeps the clipped coinage. Gakufu = 'the Academy' (Santorea Academy dungeon, DGN_NAME 28-30). Nose hairs = doodled on it like the insults."
+ },
+ {
+  "en": "You have run into a foe you never expected.{w}A vast form, its whole body blazing with light.{w}{p}Without a sound, the very air shudders and trembles.{w}With the word \"alien\" lodged in your hearts, you stand exposed to its savage power.{w}",
+  "kind": "msg",
+  "note": "'ishitsu' -> \"alien\" (of a wholly different nature)."
+ },
+ {
+  "en": "Suddenly, a gigantic beast appears before you.{w}Half tiger and half horse, it flails its arms and thrashes its whole body wildly.{w}{p}And now its fury turns on you as well.{w}",
+  "kind": "msg",
+  "note": "Editorial: progressive 'is wildly flailing ... its whole body' read awkwardly in present-tense narration."
+ },
+ {
+  "en": "Darkness within darkness.{w}Welling up from the abode of the Nether King, it fills the air around it with an incomprehensible tongue.{w}{p}What it is saying: unknown.{w}What it is even trying to do: unknown.{w}{p}But one thing is clear:\nit means to destroy you.{w}",
+  "kind": "msg",
+  "note": "'kuraki ou' -> 'the Nether King' (title, not in glossary). Kept the terse 'unknown' fragments as deliberate style."
+ },
+ {
+  "en": "A giant leaps out in front of you.{w}It seems to be distracted by something else.{w}{p}It doesn't appear able to tell whether you are enemies or mere visitors.{w}{p}No -- for just a moment it seemed to give it some thought, but\n'Eh, I'll just punch them for now and...'{w}seems to be the conclusion it reached.{w}",
+  "kind": "msg",
+  "note": "Inner thought in single quotes (source uses the double-corner brackets); trailing-off kept. Giant -> 'it' (gender unknown)."
+ },
+ {
+  "en": "You succeeded in driving off the fearsome enemy.",
+  "kind": "msg",
+  "note": "Source string is damaged: the first kana of 'osoroshii' (fearsome) is missing and a stray half-width long-vowel mark stands in its place. Translated the evident full meaning. Source has no {w}; none added."
+ },
+ {
+  "en": "The Floor Master spotted you{w}",
+  "kind": "op031",
+  "note": "op031 system/telop line; short, no period like the source."
+ },
+ {
+  "en": "You shook off the Floor Master{w}",
+  "kind": "op031",
+  "note": "op031 system/telop line."
+ },
+ {
+  "en": "Suffocated",
+  "kind": "op096",
+  "note": "op096 status-type label."
+ },
+ {
+  "en": "You've encountered something!",
+  "kind": "op096"
+ },
+ {
+  "en": "[Key Item]\nObtained Ninja Fiend's Helm.{w}",
+  "kind": "msg",
+  "note": "Key item (ITEM_PRIZ 25:3, trophy of an Archduke boss). 'ninma no tetsuzu' = ninja-fiend's iron head -> 'Ninja Fiend's Helm' (18 chars = ITEM_PRIZ name max). Frame follows pilot style 'Obtained X.'"
+ },
+ {
+  "en": "[Key Item]\nObtained Song of Spirits.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 27:3."
+ },
+ {
+  "en": "[Key Item]\nObtained Flesh-Lump Flower.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 28:3; 'nikukai' = lump of flesh, kept grotesque."
+ },
+ {
+  "en": "[Key Item]\nObtained Deltoi Empty Room.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 29:3. Joke on its boss, a monster named 'Deltoi's Living Room'. 19 chars: one over ITEM_PRIZ max 18 if that table reuses it ('Deltoi Empty Room' = 17)."
+ },
+ {
+  "en": "[Key Item]\nObtained Dark Sakil Shell.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 30:3; boss 'Fanisakil' -> romanized 'Sakil'."
+ },
+ {
+  "en": "[Key Item]\nObtained Aleed Palette.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 31:3; boss 'Aleed Painter' (romanized; possibly a pun on 'arid')."
+ },
+ {
+  "en": "[Key Item]\nObtained Demon-Boob Undies.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 32:3; boss 'Manyuu Salebos'. 'manyuu' is slang for monstrously big breasts; kept the crude-comic register. Source lacks the final period (typo); period added to match the other 19 key-item lines."
+ },
+ {
+  "en": "[Key Item]\nObtained Seot's Demon Nest.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 33:3; boss 'Seot Mar'."
+ },
+ {
+  "en": "[Key Item]\nObtained Unclean Water.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 34:3."
+ },
+ {
+  "en": "[Key Item]\nObtained Menolist's Candle.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 35:3; boss 'Menolist'. 22 chars -- over ITEM_PRIZ max 18; short form 'Menolist's Candle' (17) if that table must match."
+ },
+ {
+  "en": "[Key Item]\nObtained Ponya Sausage.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 36:3; boss 'Ponyapo'."
+ },
+ {
+  "en": "[Key Item]\nObtained Taizarti Lamp.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 37:3; boss 'Taizarti' (Archduke)."
+ },
+ {
+  "en": "[Key Item]\nObtained Glittering Scale.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 38:3."
+ },
+ {
+  "en": "[Key Item]\nObtained Swordsage's Beard.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 39:3; 'kenrou' = aged sword master. 19 chars (ITEM_PRIZ max 18: 'Swordsage's Beard' = 17)."
+ },
+ {
+  "en": "[Key Item]\nObtained Red Light Rank.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 41:3; '<color>-kou no i' -> '<Color> Light Rank' series (6 colors, Qualia battles, post-game)."
+ },
+ {
+  "en": "[Key Item]\nObtained Blue Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Green Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Yellow Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Black Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained White Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "After defeating the mighty Duke of the Demon World,\nyou found something.{w}",
+  "kind": "msg",
+  "note": "Generic line reused after every Archduke trophy fight (11 places), so no specific name."
+ },
+ {
+  "en": "After winning the battle,\nyou found something.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "# Current floor: {0B:0003:0000}",
+  "kind": "op029",
+  "note": "op029 debug print. Full-width black square -> '#' (ASCII rule)."
+ },
+ {
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "note": "op029 debug print. 'shin'ei' (god-shadow encounter) -> 'Divine Shadow' (new term)."
+ },
+ {
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The great shadow fades away{w}",
+  "kind": "msg",
+  "note": "Source variant without period; kept."
+ },
+ {
+  "en": "Friendly foes appear. Fight?",
+  "kind": "data",
+  "note": "Prompt; number of enemies unknown, plural chosen (group encounter)."
+ },
+ {
+  "en": "Yes",
+  "kind": "data"
+ },
+ {
+  "en": "No",
+  "kind": "data"
+ },
+ {
+  "en": "{0A:0003:0006}'s alignment changed to Good{w}",
+  "kind": "op096",
+  "note": "Glossary alignment 'Good'. No period, like the source."
+ },
+ {
+  "en": "{0A:0003:0006}'s alignment changed to Evil{w}",
+  "kind": "op096",
+  "note": "Glossary alignment 'Evil'."
+ },
+ {
+  "en": "Above the clouds{w}",
+  "kind": "op096",
+  "note": "op096 label (likely debug/area flag)."
+ },
+ {
+  "en": "No floor{w}",
+  "kind": "op096",
+  "note": "op096 label (likely debug/area flag)."
+ },
+ {
+  "en": "Suddenly, your bodies seemed to grow lighter.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "# Divine Shadow check start",
+  "kind": "op029",
+  "note": "op029 debug print."
+ },
+ {
+  "en": "VICTORY_COUNT: {0B:0003:0039}",
+  "kind": "op029",
+  "note": "Debug; full-width colon -> ASCII."
+ },
+ {
+  "en": "     NEXT_GOD: {0B:0003:003A}",
+  "kind": "op029",
+  "note": "Debug; full-width indent -> 5 spaces so the colon aligns under VICTORY_COUNT."
+ },
+ {
+  "en": "Divine Shadow appears",
+  "kind": "op029",
+  "note": "Debug."
+ },
+ {
+  "en": "No Divine Shadow",
+  "kind": "op029",
+  "note": "Debug."
+ },
+ {
+  "en": "You sense a great presence and stop in your tracks.{w}{p}In an instant the presence blankets the world, bearing down on you with overwhelming force.{w}{p}This is the shadow of one who lies \"outside\" the world.{w}A being unlike you.{w}{p}Beware!\nYou must never encounter it!{w}{p}This is a warning.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hide, lest your souls be blown away.",
+  "kind": "data",
+  "note": "Single forced choice (data). Full sense: 'Hide yourselves before your souls are blown away.' (49); shortened to 35 -- over the ~30 menu guide; flag for fit check."
+ },
+ {
+  "en": "You held your breath and waited for the calamity to pass.{w}{p}\"It\" vanished in an instant, just as it had appeared.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You feel a great temptation and falter.{w}{p}In an instant the temptation blankets your reason, bearing down on you with overwhelming allure.{w}{p}This is the costume change of one who lies \"outside\" common sense.{w}A being unlike you.{w}{p}Beware!\nYou must never awaken to it!{w}{p}This is a warning.{w}",
+  "kind": "msg",
+  "note": "Parody of row 50: 'kage' (shadow) -> 'kigae' (change of clothes). Sound pun not reproducible; kept the parallel structure. 'mezamete wa naranai' = must never be awakened (to a kink) -> 'awaken to it'."
+ },
+ {
+  "en": "Obey, lest your reason be blown away.",
+  "kind": "data",
+  "note": "Parody of row 51. Full sense: 'Do as you're told before your reason is blown away.' 37 chars; flag for fit check."
+ },
+ {
+  "en": "The giant shadow that appeared before you looked somehow familiar.{w}{p}It walked away without a word.{w}{p}Was it just your imagination?\nIts lips seemed to curl into a faint smile.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Searching the area, you found something.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You found {0C:0001:0001}.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Take it?",
+  "kind": "data"
+ },
+ {
+  "en": "if it fits",
+  "kind": "op093",
+  "note": "op093 branch label, damaged fragment ('...ru baai' = 'case where (it) ...'). Probably never shown; meaning inferred from rows 60/62."
+ },
+ {
+  "en": "[Key Item]\nObtained {0C:0001:0001}.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "if it doesn't",
+  "kind": "op093",
+  "note": "op093 branch label fragment ('...nai baai'). Probably never shown."
+ },
+ {
+  "en": "You left {0C:0001:0001} behind.{w}",
+  "kind": "msg",
+  "note": "'houki shita' = gave up / abandoned the item."
+ },
+ {
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "note": "Key item / insert name (ITEM_PRIZ 4:3). 'hikari no kaiseki' = remains of the Stair of Light (castle line 91152 glosses it that way). 16 chars. NEW TERM."
+ },
+ {
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "note": "ITEM_PRIZ 5:3. 'Hemaid' = the red Phantom Stone (pun on hematite); siblings Plakio (green), Menon (blue). 18 chars."
+ },
+ {
+  "en": "The Stairway of Light stretches up toward the Palace of the Sun.{w}But you can't touch it!{w}{p}It seems that by entering the Palace of the Sun some other way, you lost the right to climb the Stairway of Light.{w}",
+  "kind": "msg",
+  "note": "'hikari no kaidan' -> 'Stair of Light' (new term)."
+ },
+ {
+  "en": "The Stairway of Light stretches up toward the Palace of the Sun.{w}But you can't touch it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Stairway of Light stretches up toward the Palace of the Sun.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Go to the Palace of the Sun?",
+  "kind": "data"
+ },
+ {
+  "en": "Balgert",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hey, you made it!\nHave you offered the three Phantom Stones\nat their altars?\"{w}",
+  "kind": "msg",
+  "note": "Balgert (king of Algrantz per slice_02; rough speech) -> blunt, casual English. 'genseki' -> 'Phantom Stone' (new term)."
+ },
+ {
+  "en": "\"What, you haven't done it yet!{w}Come on, let's hurry up and bring out that stairway!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: 'get that stair out' was unidiomatic."
+ },
+ {
+  "en": "\"Looks like you're all set!{w}Look, Natori and Mayleen came out for us too!\"{w}",
+  "kind": "msg",
+  "note": "'kite kureta' = came (for our sake) -> 'came out for us'."
+ },
+ {
+  "en": "Natori",
+  "kind": "name"
+ },
+ {
+  "en": "\"You got all three Phantom Stones! That's amazing!\"{w}",
+  "kind": "msg",
+  "note": "'sangenseki' -> 'all three Phantom Stones'."
+ },
+ {
+  "en": "Mayleen",
+  "kind": "name"
+ },
+ {
+  "en": "\"My, you people are quite capable.{w}You rise ever higher in my esteem!\"{w}",
+  "kind": "msg",
+  "note": "Mayleen: refined 'desu wa' speech -> formal, slightly haughty English. 'masumasu minaoshita' = thinks even better of them than before. Natori's next line reacts to this unusual praise."
+ },
+ {
+  "en": "\"M-Mayleen...?\"{w}",
+  "kind": "msg",
+  "note": "Natori taken aback by Mayleen's praise."
+ },
+ {
+  "en": "\"What is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"N-no, nothing...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Save the celebrating for when the Stairway of Light appears.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Will it really show up, even in conditions like these?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I don't believe we need concern ourselves with the weather or the time of day.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: dropped added emphasis 'in the least' (accuracy item 4); wording follows 'need not worry about' in Mayleen's formal register."
+ },
+ {
+  "en": "\"Why not?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"They say Rafa climbed these very stairs to reach the Palace of the Sun, don't they?\"{w}",
+  "kind": "msg",
+  "note": "Honorific -sama on Rafa dropped (Rafa gender unknown, so no Lord/Lady); Mayleen's respectful tone carried by phrasing."
+ },
+ {
+  "en": "\"Yeah.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There was no sun back then, so it can't have been sunny or daytime either.{w}The conditions are the same, you see.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, I get it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As if in answer to the two of them, light flooded the surroundings!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Right, from here on out we're in the realm of myth.{w}Anything could happen.\nDon't you lot go losing your nerve on me!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Soldier",
+  "kind": "name"
+ },
+ {
+  "en": "\"Lord Balgert, the three Phantom Stones have begun to glow!\"{w}",
+  "kind": "msg",
+  "note": "Balgert-sama -> \"Lord Balgert\" (kept literal for consistency; \"Your Majesty\" also possible since Balgert is king, see row 105). Mitsu-genseki -> \"the three Phantom Stones\"."
+ },
+ {
+  "en": "\"Yeaaaaahhh!!\"{w}{p}\"You lot...\nthanks for letting me do my duty as king.\"{w}{p}\"These folks here are the finest Algrantz has to offer.\"{w}{p}\"We'll bring the sun back, no question, so just sit tight and wait for us!\"{w}",
+  "kind": "msg",
+  "note": "Pages 2-4: Balgert addresses \"omee-ra\" (thanks, probably to the party) and then the soldiers (introducing the party as Algrantz's elite, telling them to wait). \"You lot\" kept so it works for either listener."
+ },
+ {
+  "en": "\"All right, you lot!{w}We're storming the Palace of the Sun!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "With a war cry, Balgert charged toward the stairs.{w}But...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gwah!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Balgert's foot passed right through the Stairway of Light.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What the hell...?\"{w}",
+  "kind": "msg",
+  "note": "dou iu koto da -- rough-voiced bewilderment; \"hell\" matches Balgert's register."
+ },
+ {
+  "en": "Mayleen reached out to touch the stairs as well, only for her fingertips to slip right through too.{w}",
+  "kind": "msg",
+  "note": "Source \"sono yubisaki\" (those fingertips); no pronoun used since Mayleen's gender is not in the glossary. | Editorial: glossary now lists Mayleen as female; pronoun replaces 'those fingertips'."
+ },
+ {
+  "en": "\"Everyone, over here, please.{w}...Now, give me a paw.\"{w}",
+  "kind": "msg",
+  "note": "O-te = the \"shake/paw\" command given to a dog; Mayleen is jokingly ordering the party to put a hand on the stairs."
+ },
+ {
+  "en": "At Mayleen's urging, you tried touching the stairs.{w}...It seems that you, at least, can touch them.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see. It seems the stairs choose who may use them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No way... You've gotta be kidding me!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Balgert stood before the stairs once more and tried to set a foot on them.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "But his foot could not find purchase on the step.{w}",
+  "kind": "msg",
+  "note": "Editorial: Balgert is named in row 103 directly before; pronoun (glossary: male) avoids the repetition."
+ },
+ {
+  "en": "\"I'm the king of Algrantz, damn it!{w}All I'm trying to do is take back the Palace of the Sun!{w}And you're telling me I'm STILL not worthy!?\"{w}",
+  "kind": "msg",
+  "note": "O = king (source word). \"damn it\" carries the emphatic zo; caps on STILL for soredemo -- drop if caps are unwanted."
+ },
+ {
+  "en": "\"Lord Balgert, please calm down!\"{w}{p}\"Maybe only the ones who searched out the Phantom Stones and made the stairs appear can climb them!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"True enough. It isn't the sort of place one storms with a whole army.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So what, you're telling me to dump the fate of the whole land on these guys' shoulders!?\"{w}",
+  "kind": "msg",
+  "note": "koitsu-ra = the party."
+ },
+ {
+  "en": "\"A heavy job like that is exactly the kind a king's supposed to steel himself and take on!!{w}Damn it...!!\"{w}",
+  "kind": "msg",
+  "note": "\"himself\" refers to a king in general (the source noun \"o\"), not a gender call on a specific person. | Editorial: same oath spelled 'damn it' in row 105."
+ },
+ {
+  "en": "Balgert clenched his fist in bitter frustration.{w}Then, as if he had come to a decision, he turned to face you.{w}",
+  "kind": "msg",
+  "note": "Name repeated instead of \"he/his\": glossary gender for Balgert is unknown. | Editorial: glossary now lists Balgert as male; pronouns replace the repeated name."
+ },
+ {
+  "en": "\"Truth is...{w}I meant to lead the army up there myself, but... well, you can see how that went.\"{w}{p}\"It's hard, putting something this big on the shoulders of plain adventurers, but...{w}would you take back the Palace of the Sun in my place?\"{w}{p}\"I, Balgert, ask this of you as the favor of a lifetime.{w}Please, I'm counting on you!\"{w}",
+  "kind": "msg",
+  "note": "Issho no tanomi = \"favor of a lifetime\"; \"kono Balgert\" self-naming kept as \"I, Balgert\"."
+ },
+ {
+  "en": "As if beckoning you, the Stairway of Light shone brighter still.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You tried touching the stairs as well.{w}...But you could not touch them.{w}",
+  "kind": "msg",
+  "note": "Alternate branch: the party already entered the Palace another way (cf. rows 65 and 114-116)."
+ },
+ {
+  "en": "\"Could it be... that you have already been inside the Palace of the Sun?\"{w}",
+  "kind": "msg",
+  "note": "Source is missing its closing quote bracket (likely a source typo); closing quote added in English."
+ },
+ {
+  "en": "\"Now that you mention it, I did hear a rumor like that...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Most likely, there is only one road to the Palace of the Sun.\"{w}{p}\"Once, this Stairway of Light was the only way to the Palace.\"{w}{p}\"But now that surface technology can reach it as well, to keep interference from the surface to a bare minimum,{w}{p}some power guarding the Palace of the Sun must be blocking the Stairway of Light.\"{w}{p}\"In other words, only they can enter the Palace of the Sun... That's what it comes to, I suppose.\"{w}",
+  "kind": "msg",
+  "note": "Page 1: \"michi wa hitotsu\" = only one road (implied: a party that entered another way loses the stairs; not spelled out, so not added). Page 3->4 is one sentence split across a page break, so page 4 has no opening quote, as in the source. \"they\" (karera) = the party, said to Natori."
+ },
+ {
+  "en": "\"Lord Balgert, please calm down!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Girl's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"The presence of darkness grows thicker still...\"{w}{p}\"Mayer, can you truly free and save Rafa?\"{w}",
+  "kind": "msg",
+  "note": "New name Mayer (meiyaa). Rafa repeated instead of a pronoun (gender unknown). Speaker is the Girl's Voice; row 126 calls her \"that Moonlight Spirit\". | Editorial: 'free Rafa and save Rafa' read stiffly; merged verbs, still no pronoun (Rafa gender unknown)."
+ },
+ {
+  "en": "Man's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"Of course. Once all is done, I will take you all to whatever land you desire, as promised.\"{w}",
+  "kind": "msg",
+  "note": "omae-tachi = plural \"you\"; who is included is not stated."
+ },
+ {
+  "en": "\"......\"{w}{p}\"Rafa, wait for me...\nI won't let you suffer any longer.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Woman's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"My, how desperate.\nIt's enough to make me cry... Ahahaha!\"{w}",
+  "kind": "msg",
+  "note": "nakaseru wa ne -- sarcastic \"how touching\"."
+ },
+ {
+  "en": "Strange Voice",
+  "kind": "name",
+  "note": "fushigi na koe; \"Mysterious Voice\" is exactly 16 chars, so the shorter form."
+ },
+ {
+  "en": "\"That Moonlight Spirit seems to have room in her head for nothing but her own goals.\"{w}",
+  "kind": "msg",
+  "note": "New term gekkousei -> \"Moonlight Spirit\". \"her\": the spirit referred to is the speaker labelled Girl's Voice (shoujo)."
+ },
+ {
+  "en": "\"All the better for us...\nLet her dance to our tune while she can.\"{w}",
+  "kind": "msg",
+  "note": "seizei odotte morau -- \"let her dance\" (same girl as row 126)."
+ },
+ {
+  "en": "Rafa",
+  "kind": "name"
+ },
+ {
+  "en": "\"Yorfa, please understand.\"{w}{p}\"From here, I can shine down on everyone's smiling faces.\nThere's no greater joy than that. Isn't that right?\"{w}{p}\"When the sun was lost, the land was shrouded in darkness for a long while.\"{w}{p}\"In that darkness, no one could find any light of hope, and sorrow covered the land.\"{w}{p}\"But I rose into the sky, and made it a place overflowing with smiles and life.\"{w}{p}\"There's no greater joy than this!\nYou were happy about it too, Yorfa!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Yorfa",
+  "kind": "name"
+ },
+ {
+  "en": "\"Well, I never thought it would come to this!\"{w}{p}\"It's all because of that swindler, that Zaalhaut or whatever...{w}That wretch...!!\"{w}",
+  "kind": "msg",
+  "note": "petenshi = swindler/con artist."
+ },
+ {
+  "en": "\"She did a great deal for us.\"{w}",
+  "kind": "msg",
+  "note": "Source says kanojo (\"she\"). Context (reply to row 131) makes the referent Zaalhaut, whose glossary gender is unknown and who speaks with old-man \"washi\" elsewhere -- kept \"She\" because the source says it; flag for glossary."
+ },
+ {
+  "en": "\"But your body, Rafa, it keeps getting more and more...!\"{w}",
+  "kind": "msg",
+  "note": "Trails off in source; kept unfinished."
+ },
+ {
+  "en": "\"Even if this body of mine is destroyed,\nI want to go on shining on the land\nuntil the very last moment.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I see.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You understand, don't you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're being deceived.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're so kind, Rafa, that everyone takes advantage and deceives you.\"{w}{p}\"They use you however they please...{w}Poor, poor Rafa.\"{w}",
+  "kind": "msg",
+  "note": "Yorfa uses Rafa's name in place of \"you\" throughout; rendered as you + vocative."
+ },
+ {
+  "en": "\"Yorfa?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's all right. I'll save you, okay?{w}I'll set you free from all that pain, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What are you planning, Yorfa!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shaharon and the others are going to separate you from the True Crystal, Rafa.\"{w}{p}\"Until then, I won't let anyone into this Chamber of the True Sun.\"{w}",
+  "kind": "msg",
+  "note": "New name Shaharon; new terms shinsuishou -> \"True Crystal\", shinjitsu no ma -> \"Chamber of the True Sun\"."
+ },
+ {
+  "en": "\"Yorfa! That's enough!{w}I'm doing this of my own free will!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's all right, Rafa.{w}I'll protect you.{w}I'll save you, I swear.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...So now... even my words can't reach you...{w}Yorfa...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Rafa... I love you so much...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"D-don't come any closer...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My precious Rafa...{w}My very own Rafa...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't touch me!{w}You're out of your mind right now!\"{w}",
+  "kind": "msg",
+  "note": "ima no omae wa kurutteru -- \"the you of right now is mad\"."
+ },
+ {
+  "en": "\"Why?{w}Why would you say something like that?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yorfa! Please, go back to who you used to be!\"{w}{p}\"We watched over the land together in Nertowa, didn't we!\"{w}{p}\"Be the way you were back then! I'm begging you!!\"{w}",
+  "kind": "msg",
+  "note": "New name Nertowa (place, nerutowa)."
+ },
+ {
+  "en": "\"It's all right, we can go back.\"{w}{p}\"Once I set you free, you and I will be just like before.\nLike old times... together forever...\"{w}{p}\"Nothing else matters...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yor...fa...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Listen, Rafa...\"{w}{p}\"I won't let you suffer any longer.\"{w}{p}\"If it means losing you...\"{w}",
+  "kind": "msg",
+  "note": "Sentence continues in row 156 (anata wo ushinau kurai nara / daichi nado yami ni...); cut at the same point."
+ },
+ {
+  "en": "\"...then let the land be swallowed by darkness.\"{w}",
+  "kind": "msg",
+  "note": "Continuation of row 155; dupes 3 -- in every place it follows 155."
+ },
+ {
+  "en": "\"Why...{w}Why do you keep getting in my way?\"{w}",
+  "kind": "msg",
+  "note": "Addressed to the party (anata-tachi)."
+ },
+ {
+  "en": "In the Chamber of the True Sun, at the very heart of the Palace of the Sun, was the Moonlight Spirit, Yorfa.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Beyond here... is where Rafa is, you know.{w}Yes, my very own Rafa.{w}Mine, and mine alone...\"{w}",
+  "kind": "msg",
+  "note": "Source has no stops after the first two segments; punctuation added."
+ },
+ {
+  "en": "Yorfa went on, wearing a look of rapture.{w}",
+  "kind": "msg",
+  "note": "Narration in past tense, matching the pilot's narration style."
+ },
+ {
+  "en": "\"Would you all please step back?{w}I'm begging you, don't get in my way.\"{w}{p}\"I'll ask you once more.{w}Would you please step back, adventurers?\"{w}",
+  "kind": "msg",
+  "note": "Also reused in castle-talk scripts (91152, 91251); kept generic. Yorfa asks the party to step back; polite-request form kept."
+ },
+ {
+  "en": "\"......\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I see. Then it can't be helped.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Little by little, Yorfa began to change.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......{w}Rafaaa...{w}RAFAAAAAAAAAAAA!\"{w}",
+  "kind": "msg",
+  "note": "Stretched scream of Rafa (glossary spelling) kept as an elongated 'Rafaaa' / 'RAFAAA...'."
+ },
+ {
+  "en": "\"Why?{w}Why won't you just leave me be?\"{w}",
+  "kind": "msg",
+  "note": "Source has no object for 'leave alone' (sotto shite oite). Rendered 'leave me be'; could also be read as 'leave us (Yorfa and Rafa) alone'."
+ },
+ {
+  "en": "Tears poured endlessly from Yorfa's eyes.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I just... I just...{w}I just want to save Rafa...{w}That's all, and yet...\"{w}",
+  "kind": "msg",
+  "note": "Row 169 is the same line without the opening fragment; both rendered identically from 'I just want to save Rafa...' on."
+ },
+ {
+  "en": "\"I just want to save Rafa...{w}That's all, and yet...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you.\"{w}",
+  "kind": "msg",
+  "note": "Reused in 4 places (incl. 91431 town script); plain 'Thank you.' works everywhere."
+ },
+ {
+  "en": "From here, the Stairway of Light must once have stretched all the way up to the Palace of the Sun.{w}{p}But now the place lay desolate, a mere shadow of what it had been, with nothing divine left about it.{w}There was no sign that the Stairway of Light would appear, either.{w}{p}Was something missing?{w}",
+  "kind": "msg",
+  "note": "'Stairway of light' (hikari no kaidan) left descriptive/lowercase; it recurs in slices 01, 02, 06, 08 -- unify if the project decides it is a proper name."
+ },
+ {
+  "en": "As you puzzled over it, the rocks around you began to roll in an unnatural way.{w}Grinding and clattering, they gathered into a human shape.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A colossus made of rock appeared before you.{w}Was it the guardian of this place?{w}{p}All around, birds and insects began to gather, as though driven by some will of their own.{w}{p}They must be the protectors of the sacred ruins.{w}You would have to face this trial.{w}",
+  "kind": "msg",
+  "note": "Kyozou = 'colossus'. Narration past tense."
+ },
+ {
+  "en": "Under your attacks, the colossus began to crumble.{w}The small creatures that had gathered around it went on their way, as though freed from a spell.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{$08}{$01}",
+  "kind": "msg",
+  "note": "Control codes only; kept verbatim."
+ },
+ {
+  "en": "\"Hey, you there...\"{w}",
+  "kind": "msg",
+  "note": "Speaker box is 'Woman's Voice' (row 123, slice_02). Same laugh as Necrophilis, so this is her."
+ },
+ {
+  "en": "A voice came from out of nowhere.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So this is our first time meeting face to face, huh...\nNot that I'll bother telling you my name.{w}I doubt you'll be needing it.\"{w}",
+  "kind": "msg",
+  "note": "'You won't need it' implies they will not live to use it; kept that undertone."
+ },
+ {
+  "en": "In an instant, a red-haired woman appeared before you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Red-Haired Woman",
+  "kind": "name",
+  "note": "Name box, 16 chars."
+ },
+ {
+  "en": "\"Hey...\nThere's no point in you holding on to that thing, is there?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Talking in a flat, detached voice, she walked toward you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It doesn't look like it's worth a thing...\nbut you'd be in trouble without it, right?{w}Well, whatever. In that case, why not give it to me?\"{w}",
+  "kind": "msg",
+  "note": "'Sore' = the worthless-looking object the party carries (unnamed here)."
+ },
+ {
+  "en": "Hand it over?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Come on. Hand it over already!\"{w}",
+  "kind": "msg",
+  "note": "Placed between the choice and the refusal branch; read as her impatient demand (likely the no/hesitation path). Wording works either way."
+ },
+ {
+  "en": "This woman looked human, yet she was not.\nNo trace of life could be felt from her.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmm... So you're dead set on not handing it over.{w}Then I guess there's only one way to do this!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tch...{w}You're better than I thought.\"{w}{p}\"Well, whatever you lot do,\nthe outcome won't change.\"{w}",
+  "kind": "msg",
+  "note": "She switches from kimitachi to the rougher antatachi -> 'you lot'."
+ },
+ {
+  "en": "\"Ahahaha!\nGo on, keep struggling for all you're worth!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Necrophilis",
+  "kind": "name"
+ },
+ {
+  "en": "\"I am Necrophilis! The next time we meet,\nI will be the one to destroy you! Remember that!\"{w}",
+  "kind": "msg",
+  "note": "Her speech turns harsh/commanding (omae-tachi, oboete oke); rendered more forcefully than her earlier casual tone."
+ },
+ {
+  "en": "Leaving only her laughter behind,\nthe woman vanished into the darkness.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You there... Wait.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "From where the voice had come, a spirit with a face like the Grim Reaper's appeared before you.{w}",
+  "kind": "msg",
+  "note": "Shinigami -> 'the Grim Reaper'."
+ },
+ {
+  "en": "Spirit",
+  "kind": "name"
+ },
+ {
+  "en": "\"I will have you leave behind what you hold in your hands.\"{w}{p}\"Hmph... As you can see, it is a worthless thing.\nSurely you do not wish to die for something like that?\"{w}{p}\"Do as you are told,\nand I shall let you die without suffering...\"{w}",
+  "kind": "msg",
+  "note": "Villain register, no contractions. 'Let you die without suffering' -- even compliance means death; kept."
+ },
+ {
+  "en": "Leave it behind?",
+  "kind": "data"
+ },
+ {
+  "en": "\"A wise choice.{w}And while I am at it, I may as well finish my other business.\"{w}",
+  "kind": "msg",
+  "note": "Source uses the kenmei homophone meaning 'diligent', almost certainly a typo for the kenmei meaning 'wise'; translated as 'A wise choice'. 'Other business' = killing them anyway."
+ },
+ {
+  "en": "The spirit took a step forward.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see...\nSo you would choose an agonizing death...\"{w}{p}\"If that is what you wish, I shall grant it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Heh heh.{w}Fighting back here has merely\nput off your own deaths...\"{w}",
+  "kind": "msg",
+  "note": "Post-battle line (the party resisted)."
+ },
+ {
+  "en": "Shaharon",
+  "kind": "name",
+  "note": "New name: Shaharon (not in glossary; also appears in slices 02 and 14)."
+ },
+ {
+  "en": "\"I am Shaharon.\nThe next time we meet,\nyou will come to know your own folly...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The spirit vanished, as if melting into the darkness.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You there...\nWhat do you intend to do with that thing in your hands?\"{w}",
+  "kind": "msg",
+  "note": "Speaker box is 'Man's Voice' (slice_02 row 127 uses the same label)."
+ },
+ {
+  "en": "A voice suddenly rang out from behind you.{w}From where it had come, a demon appeared, wreathed in a hideous aura unlike anything you had ever seen.{w}",
+  "kind": "msg",
+  "note": "No pronoun used for the demon; 'Man's Voice' label exists but glossary gives no gender, so kept to 'the demon'."
+ },
+ {
+  "en": "Demon",
+  "kind": "name"
+ },
+ {
+  "en": "\"Cast away that useless thing,\nturn your backs on what you fear, and flee.\"{w}{p}\"Or... will you struggle, knowing it is futile?{w}If you give up gracefully, I might yet be persuaded to let you go.\"{w}",
+  "kind": "msg",
+  "note": "Proof: \"turn your backs on fear\" reads as defying fear; source is turn your back on (the thing you fear) and flee."
+ },
+ {
+  "en": "Throw it away?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Very good.{w}Tell me, do you understand the worth of the Palace of the Sun?\"{w}{p}\"...Hm, it hardly matters whether you do.{w}You will die here regardless.\"{w}",
+  "kind": "msg",
+  "note": "Kisamara (contemptuous you) -- contempt carried by tone rather than an insult word."
+ },
+ {
+  "en": "With a fearless smile, the demon took a step toward you.{w}",
+  "kind": "msg",
+  "note": "Futeki na emi = 'fearless smile'; repeated in row 216."
+ },
+ {
+  "en": "\"Heh... I see...\nSo you would boldly choose the road to death.\"{w}{p}\"How amusing...\nThen I shall help you to your deaths myself.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oho... So you had this much power hidden away.{w}...This should keep me entertained for a long while.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Dark Mayer",
+  "kind": "name",
+  "note": "New name: Dark Mayer (romanized from Daaku Meiyaa; not in glossary)."
+ },
+ {
+  "en": "\"I am Dark Mayer.\nDo try to stay alive from here on.{w}I look forward to our next meeting...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Still wearing that fearless smile, the demon\nvanished soundlessly into the darkness.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Rotating Floor{w}",
+  "kind": "op096",
+  "note": "op096 label for the TURN_FLOOR script. 'Rotating Floor' chosen over the Wizardry jargon 'Spinner' for clarity; swap if the UI glossary settles on another term."
+ },
+ {
+  "en": "?????",
+  "kind": "name",
+  "note": "Unknown-speaker box; question marks kept."
+ },
+ {
+  "en": "\"...The hell are you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tch...{w}What the hell is with you people...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Brassel",
+  "kind": "name"
+ },
+ {
+  "en": "\"Don't tell me you wanna join the Brassel Gang?{w}Hah, well, looks like you can handle yourselves.\"{w}",
+  "kind": "msg",
+  "note": "New term: Brassel Gang (Brassel tozokudan, lit. 'Brassel band of thieves'). Brassel's gender not in glossary; no pronouns used for Brassel anywhere in the slice."
+ },
+ {
+  "en": "\"...Huh? No?{w}Then why the hell did you come here?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Underling",
+  "kind": "name",
+  "note": "Kobun -> 'Underling' (gender-neutral)."
+ },
+ {
+  "en": "\"Boss, I knew it, they heard about us from that brat...\nThat little snitch went and blabbed...\"{w}",
+  "kind": "msg",
+  "note": "The 'brat' is not gendered here; avoided pronouns."
+ },
+ {
+  "en": "\"Gyah!\"{w}",
+  "kind": "msg",
+  "note": "No speaker box: the underling yelping when Brassel hits them."
+ },
+ {
+  "en": "\"Shut your trap! Keep quiet!{w}And you lot, get lost already!{w}Show your faces again and this time I'll kill you for real!!\"{w}",
+  "kind": "msg",
+  "note": "Kondo koso -> 'for real'."
+ },
+ {
+  "en": "\"You came back again!?{w}I'm heading out!!\nHey, kill these guys while I'm gone!!\"{w}",
+  "kind": "msg",
+  "note": "Koroshite oke -> 'kill these guys while I'm gone' (te-oku = have it done by the time)."
+ },
+ {
+  "en": "\"Ow, ow, ow...{w}No way we can win without the boss...\nWhat the heck do you guys keep coming here for...\"{w}{p}\"It's all that brat's fault anyway...{w}We've never let anybody walk out of here alive before,\nand that brat's blabbing about us, I just know it.\"{w}{p}\"...You guys really don't know anything?{w}A while back, near Roscadil,\nwe jumped this little brat of a girl, see.\"{w}{p}\"...And the boss, who knows what for,\nwent and let her go.\"{w}{p}\"A little brat in fancy duds like that,{w}we coulda snatched her for a ransom,\nor sold her off...\"{w}{p}\"Crap! The boss is coming back!{w}Please! Just say you got away!{w}Okay? Or the boss is gonna kill us!!\"{w}",
+  "kind": "msg",
+  "note": "Mesugaki (crude, 'female brat') -> 'little brat of a girl'; she/her is used for this girl only, since mesugaki fixes the gender. 'Oobebe' (baby-talk for nice clothes) -> 'fancy duds'. Avoided he/him for the boss."
+ },
+ {
+  "en": "\"Hey! Isn't anybody here!?{w}...Oh, it's you lot.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...You lot didn't hear anything\nfrom a blond brat, did you?{w}...Then that's fine.\"{w}",
+  "kind": "msg",
+  "note": "Blond brat = presumably the same girl, but not confirmed in-line; no pronoun."
+ },
+ {
+  "en": "\"Shut up! It's nothing!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..................................\n...So even a kid with just one parent gets to wear stuff that nice......\"{w}",
+  "kind": "msg",
+  "note": "Kept the \\n to separate the long silence from the muttered line. Avoided gendering the kid."
+ },
+ {
+  "en": "\"...You lot said something about wanting to join up, right?{w}What? You think I'd hear something like that wrong?{w}This job's just you and me. You're coming along.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The job's at the Blue Cave.{w}Word is, deep inside there's a bunch of mimics\nthat eat adventurers and hoard treasure.\"{w}",
+  "kind": "msg",
+  "note": "New place name: Blue Cave (ao no doukutsu; also slice 11 rows 862-863)."
+ },
+ {
+  "en": "\"We hit 'em.{w}Relax, they're just monsters.{w}That's your specialty, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's no one here.{w}",
+  "kind": "msg",
+  "note": "Generic status line reused 6 times; present tense."
+ },
+ {
+  "en": "\"All right, this is it! The Soleil Stone!{w}Hey, you lot can have the rest.\"{w}",
+  "kind": "msg",
+  "note": "New item name: Soleil Stone (soreiyu sutoon)."
+ },
+ {
+  "en": "Received 5000 GP.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...By the way, that brat's... No, I'll find the kid myself.{w}...It's a matter of settling up. This is payment for the trouble.{w}Only one parent, and still nothing like me...\"{w}{p}\"But don't think I'm going straight now.{w}I'm a thief till the day I die. That's who I am.{w}So I'll settle up with loot from a job, too.\"{w}{p}\"And next time we meet, I'll kill you lot too.{w}Don't come to the hideout again.\"{w}",
+  "kind": "msg",
+  "note": "Brassel keeps the Soleil Stone (row 238) as amends for the blond kid from Roscadil (rows 229-233). \"the brat\"/\"the kid\" kept gender-neutral. \"kataoya da tte no ni, ore to wa oochigai\" read with row 233: the kid also has one parent, yet turned out nothing like Brassel (\"same as me\" is an inference from that contrast -- flag). | Accuracy: 'same as me' removed -- source only says 'kataoya da tte no ni, ore to wa oochigai'; whether Brassel also had one parent is not stated, so the contrast is kept without asserting it."
+ },
+ {
+  "en": "Certain NPCs join your adventure in the summoned-monster slot.{w}{p}If a similar NPC is already with you, another one cannot be added.{w}{p}Either finish the event of the NPC currently with you, or disband your party once at the tavern.{w}",
+  "kind": "msg",
+  "note": "System help text."
+ },
+ {
+  "en": "\"Oh, it's you guys again!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How's it going?\"",
+  "kind": "data",
+  "note": "Menu choice."
+ },
+ {
+  "en": "Talk",
+  "kind": "data",
+  "note": "Menu choice."
+ },
+ {
+  "en": "\"Electra, come on, let's get going!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wait, I haven't introduced everyone yet.{w}This is Mig.{w}A unicorn, as you can see.\"{w}{p}\"Mig and I have been together since birth,{w}and Mig travels with me like this.{w}And...........\"{w}",
+  "kind": "msg",
+  "note": "Mig's gender not in glossary: repeated the name instead of a pronoun. \"umareta toki kara\" is unclear whose birth -- \"since birth\" keeps it open. Trailing \"And...\" is cut off by Yamuru."
+ },
+ {
+  "en": "\"Yamuru. I'm a bounty hunter.{w}I hear the Proclamation pays a pretty good sum,{w}so they've let me join this party.\"{w}",
+  "kind": "msg",
+  "note": "Source has the variant spelling of the Proclamation term; used glossary \"the Proclamation\". | Editorial: 'let in on' means sharing a secret; reworded to 'let me join'."
+ },
+ {
+  "en": "\"I'm Maniron~! Nice ta meetcha~!\"{w}",
+  "kind": "msg",
+  "note": "Childish sing-song voice."
+ },
+ {
+  "en": "\"My name is Korbitz.{w}We may end up relying on each other from here on,{w}so let's look out for one another, eh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mokero",
+  "kind": "name",
+  "note": "Name box."
+ },
+ {
+  "en": "\"The name's Mokero, it is!{w}The Miss has done a whole heap for me,{w}and I'll be followin' the Miss for the rest o' my days!\"{w}",
+  "kind": "msg",
+  "note": "\"Ojou\" rendered \"the Miss\" (Mokero's fixed address for Electra). The source word itself is feminine; this is a translation of the title, not an inferred gender, but flagged since Electra is \"unknown\" in the glossary. Mokero's humble-roughneck \"asshi ... yasu\" speech -> dropped g's and \"it is!/I will!\" tags."
+ },
+ {
+  "en": "\"Mokero, I keep telling you,\nyou don't have to be so formal...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Miss! Don't go sayin' such cold things!{w}The debt I owe you, Miss, is............\"{w}",
+  "kind": "msg",
+  "note": "Trails off; cut short by Korbitz."
+ },
+ {
+  "en": "\"Electra's a kind child, you see,{w}and took us in, just like this.{w}So please, all of you, be good to Electra.\"{w}",
+  "kind": "msg",
+  "note": "Repeated the name instead of a pronoun. | Editorial: added 'and' to fix the dangling clause."
+ },
+ {
+  "en": "\"Ugh, honestly! You're all exaggerating!{w}If someone's in trouble, I help them.{w}",
+  "kind": "msg",
+  "note": "Unclosed quote as in source; row 256 re-shows this text inside {0E}..{0F} and finishes it."
+ },
+ {
+  "en": "{0E}\"Ugh, honestly! You're all exaggerating!\nIf someone's in trouble, I help them.{0F}\nThat's only natural, right?\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} part mirrors row 255 word for word."
+ },
+ {
+  "en": "\"Me too, y'know~ Electra once~\"{w}",
+  "kind": "msg",
+  "note": "Maniron starts to say Electra helped them too and is cut off by Electra (row 258). Kept as a fragment."
+ },
+ {
+  "en": "\"Okay, okay, I get it!{w}Anyway, that's how it is, so be nice to all of us, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"By the way... yours looks\nlike a pretty decent party.\"{w}",
+  "kind": "msg",
+  "note": "Yamuru to the player party."
+ },
+ {
+  "en": "\"We might end up competing with each other in all kinds of ways.{w}What do you say? How about you lot\nand us have a little test of skill?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, Yamuru!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"These are the people who'll be our rivals from here on.{w}We need to see what they can do now, don't we?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, that's...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Besides, you need the bounty money, right?{w}Or was this something you started half-heartedly?\"{w}",
+  "kind": "msg",
+  "note": "Yamuru to Electra."
+ },
+ {
+  "en": "\"Electra, what'll we do?\nIf you're going to fight, I'll help, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"............Okay, I've made up my mind!\"{w}{p}\"You guys, let's have a match!{w}All right, everyone, let's go!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ooh~ I'm gonna lop off some heads~!\"{w}",
+  "kind": "msg",
+  "note": "Maniron (ninja-style beheading joke, cf. slice_05 rows 329-330)."
+ },
+ {
+  "en": "Leave",
+  "kind": "data",
+  "note": "Menu choice (30 dupes)."
+ },
+ {
+  "en": "You sent Electra's party packing.{w}",
+  "kind": "msg",
+  "note": "Narration after the battle (30 dupes); subject = player party."
+ },
+ {
+  "en": "\"Ow ow ow...{w}You guys are amazing...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not bad at all.{w}Still, Electra,{w}your alchemy spells are as half-baked as ever.\"{w}",
+  "kind": "msg",
+  "note": "Added \"Electra\" as the addressee: Mig answers this at row 274 by reassuring Electra."
+ },
+ {
+  "en": "\"I wanted a Bulafei~~!\"{w}",
+  "kind": "msg",
+  "note": "NEW NAME: Bluffy = alchemy spell (SPELL.CSV row 64: hides one ally from enemy targeting). Maniron wanted Electra to cast it on them; Electra's reply (row 273) settles it."
+ },
+ {
+  "en": "\"Th-then go hide yourself!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's okay, Electra!\nYour alchemy spells will get better from here on!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th... thank you, Mig...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's all right,{w}there's no need to rush.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll be lendin' a hand too, I will!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Everyone... thank you.{w}Okay, so that's how it is,{w}next time I'll be able to do a lot more!\"{w}{p}\"See you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Electra and the others went on their way.{w}",
+  "kind": "msg",
+  "note": "Narration (30 dupes)."
+ },
+ {
+  "en": "\"............\"",
+  "kind": "data",
+  "note": "Menu choice (silent option)."
+ },
+ {
+  "en": "Talk to them",
+  "kind": "data",
+  "note": "Menu choice (24 dupes)."
+ },
+ {
+  "en": "\"Look, alchemy spells and Rangers go well together.{w}But if your success rate's low, it's pointless.\"{w}",
+  "kind": "msg",
+  "note": "NEW TERM: kariudo (class) -> \"Hunter\"; check against the class list once UI is translated (an earlier English Elminage release may have used \"Ranger\")."
+ },
+ {
+  "en": "\"I know that already!{w}That's why I'm studying like this, okay!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't be so hard on the Miss!{w}I'll be pitchin' in too, I will!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Maniron's gonna try hard too~!\"{w}",
+  "kind": "msg",
+  "note": "Maniron refers to self by name in the source."
+ },
+ {
+  "en": "\"That's right, Electra!{w}You can't go through life bending your convictions!{w}You can still do it! Hang in there!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: stiff phrasing; spoken form, matches Mig's 'bending your convictions' in row 335."
+ },
+ {
+  "en": "\"You're right... I'll try a little harder!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's no need to hurry, just go at your own pace...{w}",
+  "kind": "msg",
+  "note": "Unclosed quote as in source; row 289 re-shows it."
+ },
+ {
+  "en": "{0E}\"There's no need to hurry, just go at your own pace...{0F}\nOh?\"{w}",
+  "kind": "msg",
+  "note": "Korbitz notices the player party."
+ },
+ {
+  "en": "\"Oh, it's you guys! What a coincidence!{w}",
+  "kind": "msg",
+  "note": "Unclosed quote as in source; row 291 re-shows it."
+ },
+ {
+  "en": "{0E}\"Oh, it's you guys! What a coincidence!{0F}\nHow's it going? Things are going great for us!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come to think of it, you got the better of us last time.{w}It won't go that way this time, got it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yamuru, you're more hot-blooded than you look.{w}Didn't you have a rule about never doing anything that doesn't pay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's something I want to check...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll be showin' what I'm made of too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Chop-chop, off with their heads~~~!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hm? Fine by me, but...?{w}",
+  "kind": "msg",
+  "note": "Unclosed quote as in source; row 298 re-shows it (source drops the \"?\" there, mirrored)."
+ },
+ {
+  "en": "{0E}\"Hm? Fine by me, but...{0F}\nOkay, everyone, let's go!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Just as I thought.\"{w}",
+  "kind": "msg",
+  "note": "What Yamuru wanted to check (row 294) is never stated here; left vague."
+ },
+ {
+  "en": "\"What's wrong?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, it's nothing.{w}",
+  "kind": "msg",
+  "note": "Unclosed quote as in source; row 302 re-shows it."
+ },
+ {
+  "en": "{0E}\"No, it's nothing.{0F}\nYou lot look like a pretty good party.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, it's parties like ours, with a unicorn,\nthat are the rare ones, y'know.\"{w}",
+  "kind": "msg",
+  "note": "Maniron cuts in on Yamuru's praise of the player party: having a unicorn makes their own party the special one."
+ },
+ {
+  "en": "\"Having me around is proof of Innocence, after all!\"{w}",
+  "kind": "msg",
+  "note": "\"Innocent\" capitalised to keep the link with the Innocent series / never-changed-class idea (pilot row 33; Mig taunts Yamuru as a class-changer in slice_05 row 343). Whose innocence is left open, as in the source."
+ },
+ {
+  "en": "\"Yeah, yeah, you're absolutely right.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Miss! It's about time we...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're right.{w}",
+  "kind": "msg",
+  "note": "Unclosed quote as in source; row 308 re-shows it."
+ },
+ {
+  "en": "{0E}\"You're right.{0F}\nWe won't lose next time, you hear? See you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmm...\"",
+  "kind": "data",
+  "note": "Menu choice."
+ },
+ {
+  "en": "\"But I really do need to study...{w}Even you can read and write, right, Yamuru?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's a harsh way to put it.\nWhat good is a bounty hunter who can't read a wanted poster?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I can't read, but\nit's never been a problem, y'know?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll teach you, then.{w}Perhaps we'll hold a little study session one of these days, hm?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I hate studyyying...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But what about textbooks... and the money for them?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, we'll manage somehow.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Electra, Electra, look!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh! You again, in a place like this!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We must share quite the bond of fate, eh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We've been getting stronger too, you know,\nso we won't lose this time!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right then,{w}let's go, everyone!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: spelling 'All right' as in rows 93/266."
+ },
+ {
+  "en": "\"Mighty impressive, as always!\"{w}",
+  "kind": "msg",
+  "note": "Post-battle line (player won); [JP] read as praise of the player party. Works in all 6 dupes."
+ },
+ {
+  "en": "\"Oh, that reminds me.\nDo you guys know anything about the Moonlight Spirit?\"{w}",
+  "kind": "msg",
+  "note": "New term [JP] = \"Moonlight Spirit\"; [JP] (row 324) = \"Sun Spirit\". Both recur often (ITEM_TEXT pairs them as paired spirit motifs); propose for glossary."
+ },
+ {
+  "en": "\"You really do march to your own beat.{w}The Moonlight Spirit? Don't you mean the Sun Spirit?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nope, the Moonlight Spirit.{w}I've been kinda sorta looking for it.{w}And since I can't find it, it bugs me even more~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"One way or another, you guys sure know a lot...{w}I really do need to study.{w}",
+  "kind": "msg",
+  "note": "[JP] kept as \"you guys\": could be aimed at Maniron/Yamuru (who just talked spirits) or the player party; English keeps both readings."
+ },
+ {
+  "en": "{0E}\"One way or another, you guys sure know a lot...\nI really do need to study.{0F}\nAnd I have to work harder at alchemy, too...\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} re-displays row 326 (same English, {w} -> \\n as in source), then continues."
+ },
+ {
+  "en": "\"Then just change classes.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ninja! Ninja's the way to go!{w}YAMURU IS DECAPITATED!{w}",
+  "kind": "msg",
+  "note": "Hiragana [JP] mimics the Wizardry battle message; rendered as caps system message \"YAMURU IS DECAPITATED!\"."
+ },
+ {
+  "en": "{0E}\"Ninja! Ninja's the way to go!\nYAMURU IS DECAPITATED!{0F}\n*ding* R.I.P.!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Buddhist altar bell rung for the dead (comic \"he's dead\"); rendered \"*ding* R.I.P.!\" to carry the meaning."
+ },
+ {
+  "en": "\"Why's it gotta be me!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, pipe down.{w}We don't neeeed a thief who can't\neven disarm traps!\"{w}",
+  "kind": "msg",
+  "note": "Aimed at Yamuru (reply to \"Why me?\"); pilot row 362 confirms Yamuru has thief skills."
+ },
+ {
+  "en": "\"You can just go end up\n    *INSIDE THE STONE*\nall by yourself!\"{w}",
+  "kind": "msg",
+  "note": "Wizardry reference: [JP] (party teleported into rock). Rendered as a centered system message \"*INSIDE THE STONE*\"; leading spaces kept for centering, can be dropped if the wrapper mishandles them."
+ },
+ {
+  "en": "\"W-wait a sec...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's right! Electra, don't give up!{w}You're gonna make loads of money as an alchemist, right?{w}Don't go bending your convictions!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mig...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Look.{w}Electra, you need to knock it off too.{w}If you keep wavering any longer, I'm out.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hold... on, Yamuru...{w}Where's this coming from all of a sudden...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Someone who's half-hearted drags everyone else down too.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aw, don't go sayin' that, chief!{w}I'll just dig in all the harder to make up for it!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (Mokero addressing Yamuru) -> \"chief\" to avoid a gendered \"bro\"; glossary gender for Yamuru is unknown."
+ },
+ {
+  "en": "\"That's right!\nElectra's working really hard, you know!\"{w}",
+  "kind": "msg",
+  "note": "Avoided \"her\" (Electra gender unknown in glossary)."
+ },
+ {
+  "en": "\"You'd better think a little harder{w}about what you're actually\nsaying.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Says the one who's already changed classes!\"{w}",
+  "kind": "msg",
+  "note": "\"the one\" instead of \"the guy\" (gender unknown)."
+ },
+ {
+  "en": "\"...Mig.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'll stick with you a little longer, at least.{w}Studying's something you can start bit by bit, too.{w}Now give me an answer.\"{w}",
+  "kind": "msg",
+  "note": "Order kept: stick around / studying can start bit by bit / give an answer."
+ },
+ {
+  "en": "\"......Yeah... You're right...\nI'll try a little harder...{w}...Is that okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Fine.{w}Anyway, we're moving on.{w}Hanging around here forever won't get us anywhere.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Right!{w}Well then, you guys take care too, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Dvel Soft Steel and Frozen Elven Iron...\"",
+  "kind": "data",
+  "note": "data row (overheard line before the Talk/Leave choice). 42 chars; source slot is 40 bytes but text is relocated. New item names: [JP] \"Dvel Mild Steel\", [JP] \"Frozen Elven Iron\" (no ITEM.json English yet)."
+ },
+ {
+  "en": "\"Those two make an Angel's Window...{w}I know that one, since I've made it before.{w}",
+  "kind": "msg",
+  "note": "New item name: [JP] \"Angel's Window\" (RENKIN recipe: Dvel x Frozen Elven = Angel's Window, matches the line)."
+ },
+ {
+  "en": "{0E}\"Those two make an Angel's Window...\nI know that one, since I've made it before.{0F}\nAnd then Ma... Mazu... Mazu-ree-tay?\"{w}",
+  "kind": "msg",
+  "note": "Kanji-reading joke adapted: Electra misreads [JP] (reads [JP] as \"ao\"). English: she mispronounces the coined item name \"Mazurite\" (new name for [JP], ma+azurite). Rows 351-361 depend on this name; if the item list picks another name, rework these rows."
+ },
+ {
+  "en": "\"Miss, that'd be '-rite'...\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"Miss\" (Mokero's fixed address for Electra; it is the source word, not an inferred gender). Mokero corrects only the misread syllable, as in the source ([JP])."
+ },
+ {
+  "en": "\"Huh? Oh, so it's pronounced 'Mazurite'!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Heyyy, some alchemist you are~~...\"{w}",
+  "kind": "msg",
+  "note": "[JP] as a mocking address -> \"some alchemist you are~~\"."
+ },
+ {
+  "en": "\"B-but I know the real thing when I see it, and I can transmute it,{w}and I know what it's called and everything!{w}...Even if I didn't know how to read it.\"{w}",
+  "kind": "msg",
+  "note": "[JP] (what it is called) vs [JP] (how it is read) kept as \"know what it's called\" / \"how to read it\"."
+ },
+ {
+  "en": "\"It's that sort of carelessness, you see,{w}that leaves you red-faced in front of others like this...{w}Now, can you spell 'Mazurite'?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Um... 'Mazuright'...\"{w}",
+  "kind": "msg",
+  "note": "Wrong-kanji homophone [JP] -> misspelling \"Mazuright\" (looks similar, sounds the same), so row 361 still works."
+ },
+ {
+  "en": "\"Ooh, that's our Miss! Beautifully done!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Isn't that kinda wrong-ish?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"'Mazurite'... Like this.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It looks close and it sounds the same, so who cares!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, now, take your time learning it.{w}I'd call that... sixty out of a hundred, shall we say.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"sixty out of a hundred\"."
+ },
+ {
+  "en": "\"Way to go, Electra!\nThat's a better score than last time!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I guess so.........{w}Hmm, with this stuff, I guess the only way\nis to write it out a lot until it sticks...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Electra?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ahahahaha!\nMig, Electra thinks you're a pest!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh!? That's not true, Mig!\nThank you, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Am I getting in your way, Electra?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're overthinking it. It's fine!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"You're overthinking it. It's fine!{0F}\nOh, it is you guys.{w}Sorry I'm always so slow to notice!\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} re-displays row 369."
+ },
+ {
+  "en": "\"Maybe they're all ninjas?{w}",
+  "kind": "msg",
+  "note": "Third person (\"they\") for the player party, matching Mokero's reply in row 373; source [JP] is ambiguous between talking to or about them."
+ },
+ {
+  "en": "{0E}\"Maybe they're all ninjas?{0F}\nChop! Off with their heads!\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} re-displays row 371. [JP] -> \"Chop! Off with their heads!\""
+ },
+ {
+  "en": "\"Nah, nah, maybe{w}every last one of 'em's a thief,\nsame as me, eh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Okay, okay, that's enough!{w}Now then, let's put all that studying to the test!{w}...Mig?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, it's nothing, Electra!\nLet's show them what we can do!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah, let's!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Heeeads!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> Maniron craving heads."
+ },
+ {
+  "en": "\"...Electra, am I really not getting in your way?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Seriously, what's wrong?{w}Of course you're not.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But we couldn't win this time either...{w}Electra, could it be you actually want to change classes?{w}Because if you do, I...\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: 'moshikashite ... n ja nai no' is a tentative guess ('could it be'); 'don't you really want' read as a challenge/negation."
+ },
+ {
+  "en": "\"Took you long enough to figure it out.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yamuru!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Yamuru!{0F}\n...It's all right, okay?\"{w}{p}\"If I wanted to change classes, I wouldn't be studying alchemy.{w}I'm studying like this because\nI decided to keep at it, see?\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} re-displays row 382."
+ },
+ {
+  "en": "\"Really? Are you really sure?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Really.\nThe more I learn, the more I can do,{w}and I keep wondering what I'll be able to do next...\"{w}{p}\"Lately studying's been so much fun I can hardly stand it.{w}Maybe I should've started sooner?\"{w}{p}\"So you keep cheering me on, just like that,{w}so I don't run away from it.{w}That way I can try all the harder. ...Is that okay?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Mig (reply to Mig's worry); kept as \"you\", the scene settles it."
+ },
+ {
+  "en": "\"...Yeah! If you're asking, Electra,\nI'll cheer you on forever and ever!{w}Go for it, Electra! I'll always be with you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ugh, now the noisy one's back to normal...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, you! I'll chop your head off!\nRead the room!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (rough \"you\") -> \"Hey, you!\"; threat kept at full strength."
+ },
+ {
+  "en": "\"Reckon that's a happy endin' all round, eh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So it would seem.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right, you guys!\nIt won't go the same way next time, okay?{w}Well then, take care!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: spelling 'All right' as in rows 93/266."
+ },
+ {
+  "en": "\"Oh?\"",
+  "kind": "data"
+ },
+ {
+  "en": "\"How are you guys doing?{w}We're doing great over here.{w}I've learned a whole lot more letters, too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Half-baked or not,{w}once you start something, you see it through till it's settled.{w}Otherwise nothing good ever comes of it...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Sounds like someone's speakin' from experience!\"{w}",
+  "kind": "msg",
+  "note": "Refers to Yamuru without naming; \"someone's\" avoids a pronoun (gender unknown)."
+ },
+ {
+  "en": "\"Words only ever come from what\na body has lived through, after all...\"{w}",
+  "kind": "msg",
+  "note": "Korbitz, old-man register: \"a body\" = a person."
+ },
+ {
+  "en": "\"That's what they call\na contrary sort, right...?\"{w}",
+  "kind": "msg",
+  "note": "Editorial: 'crank' (eccentric/grouch) did not match hinekure-mono (twisted/contrary person) (accuracy item 3); 'contrary sort' keeps Yamuru's 'I am not!' reply working."
+ },
+ {
+  "en": "\"I am not!\"{w}",
+  "kind": "msg",
+  "note": "[JP] answers the \"crank\" jab (and the experience jab before it) -> \"I am not!\"."
+ },
+ {
+  "en": "\"Go, Electra!\nI'll always be cheering for you!\"{w}",
+  "kind": "msg"
+ }
+]

@@ -1,0 +1,371 @@
+[
+ {
+  "en": "Greater Pekoe",
+  "kind": "name",
+  "note": "High-grade tea leaf used by Servants (ITEM_TEXT 616); 'Pekoe' is the tea grade. Same string is the ITEM_HELP/ITEM_TEXT mirror key."
+ },
+ {
+  "en": "Old Land-King Prayer",
+  "kind": "name",
+  "note": "Scroll; ITEM_TEXT 705 gives the archaic reading furugatari mutsu-sumeragi norito and says the 'land' kanji is misleading (it also reads mutsu = 'six'). The pun cannot survive in 20 bytes; 'Land-King' keeps the surface reading the description comments on. Tell the ITEM_TEXT translator."
+ },
+ {
+  "en": "Attacks one enemy row with fire.",
+  "kind": "help"
+ },
+ {
+  "en": "Strikes one enemy with lightning.",
+  "kind": "help"
+ },
+ {
+  "en": "Creates a barrier that blocks one drain attack. Can be stacked.",
+  "kind": "help",
+  "note": "'drain barrier' as in the battle messages."
+ },
+ {
+  "en": "High chance to instantly kill one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Rainbow light hits one enemy; stronger per spell cast this battle.",
+  "kind": "help",
+  "note": "Compressed: 'grows according to the number of spells activated during the battle'."
+ },
+ {
+  "en": "Asks the gods to work a mighty miracle at the cost of one level.",
+  "kind": "help"
+ },
+ {
+  "en": "Unleashes a breath attack.",
+  "kind": "help"
+ },
+ {
+  "en": "Grants all allies the Inf Range status.",
+  "kind": "help",
+  "note": "'Inf Range' = UI status label for the infinite-range buff (ebt row 1047). Brackets dropped."
+ },
+ {
+  "en": "Lowers all enemies' spell resistance. Stackable.",
+  "kind": "help"
+ },
+ {
+  "en": "Shows the map of every floor of the current dungeon.",
+  "kind": "help"
+ },
+ {
+  "en": "Heals all allies a little.",
+  "kind": "help"
+ },
+ {
+  "en": "Heals one ally a little.",
+  "kind": "help"
+ },
+ {
+  "en": "Fully restores one ally's HP.",
+  "kind": "help"
+ },
+ {
+  "en": "Cures one ally of Sleep.",
+  "kind": "help",
+  "note": "Status names follow the UI list (Sleep/Poison/Paralysis/Silence/Confusion/Charm), capitalised; Japanese brackets dropped."
+ },
+ {
+  "en": "Cures one ally of Poison.",
+  "kind": "help",
+  "note": "Mogoku = the Poison status."
+ },
+ {
+  "en": "Cures one ally of Paralysis.",
+  "kind": "help"
+ },
+ {
+  "en": "Cures one ally of Silence.",
+  "kind": "help"
+ },
+ {
+  "en": "Cures one ally of Confusion.",
+  "kind": "help"
+ },
+ {
+  "en": "Cures one ally of Charm.",
+  "kind": "help"
+ },
+ {
+  "en": "Cures one ally of Petrification.",
+  "kind": "help",
+  "note": "UI status label is 'Petrify'; noun form used for grammar."
+ },
+ {
+  "en": "Has a chance to revive one dead ally.",
+  "kind": "help",
+  "note": "Lit. 'cures one ally's Death at a fixed chance'."
+ },
+ {
+  "en": "Cures one ally of Sleep, Silence, Confusion and Charm.",
+  "kind": "help"
+ },
+ {
+  "en": "[Instrument] Lifts the curse on spirit and undead monsters.",
+  "kind": "help",
+  "note": "[Instrument] tag as in the '?Instrument' unidentified name. Literal: removes the curse laid on spirit/undead monsters (a Dispel-type effect); kept literal."
+ },
+ {
+  "en": "[Instrument] High chance to put one enemy to sleep.",
+  "kind": "help"
+ },
+ {
+  "en": "[Instrument] Raises all enemies' AC by 4. Stackable.",
+  "kind": "help",
+  "note": "Higher AC is worse (Wizardry rule), so this weakens enemies, as in the battle message."
+ },
+ {
+  "en": "[Instrument] Blesses all allies' weapons so they can hit spirits.",
+  "kind": "help"
+ },
+ {
+  "en": "[Instrument] High chance to charm one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "[Instrument] Draws enemy attacks onto one ally.",
+  "kind": "help",
+  "note": "Matches the 'marked for focused attacks' battle message."
+ },
+ {
+  "en": "[Instrument] A fissure damages foes; low chance to swallow them.",
+  "kind": "help"
+ },
+ {
+  "en": "[Instrument] Resets stat changes made in battle for friend and foe.",
+  "kind": "help",
+  "note": "'all of friend and foe' compressed to 'friend and foe'."
+ },
+ {
+  "en": "[Instrument] Cures minor status ailments for all allies.",
+  "kind": "help"
+ },
+ {
+  "en": "[Instrument] Strikes one enemy with lightning.",
+  "kind": "help"
+ },
+ {
+  "en": "[Servant] Spends money to deal up to 100 damage to one enemy.",
+  "kind": "help",
+  "note": "[Servant] = item used by a Servant via the Servant's Bag, as in HELP_TEXT."
+ },
+ {
+  "en": "[Servant] Spends money to deal up to 200 damage to one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "[Servant] Spends all your money for limitless damage to one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "[Servant] Restores 1 MP to all allies.",
+  "kind": "help"
+ },
+ {
+  "en": "Attacks one enemy with holy power.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to inflict Poison on one enemy row.",
+  "kind": "help"
+ },
+ {
+  "en": "Raises all allies' spell resistance. Stackable.",
+  "kind": "help"
+ },
+ {
+  "en": "Raises an ally's number of attacks by 1. Stackable.",
+  "kind": "help",
+  "note": "Source says only 'mikata no' (ally/allies), neither 'all' nor 'one'; the battle message for this buff has no 'everyone' form, so singular chosen. Uncertain."
+ },
+ {
+  "en": "[Instrument] Has a chance to confuse one enemy row.",
+  "kind": "help"
+ },
+ {
+  "en": "The whole party rests until the next night or morning.",
+  "kind": "help",
+  "note": "Lit. 'everyone rests and time advances to the next night or morning'."
+ },
+ {
+  "en": "Fully restores one ally's HP. Not for those with the Cook skill.",
+  "kind": "help",
+  "note": "Compressed 'cannot be used on characters with the Cook skill' (skill name 'Cook' from UI) to fit 67."
+ },
+ {
+  "en": "Restores one ally's MP. Not for those with the Cook skill.",
+  "kind": "help"
+ },
+ {
+  "en": "Restores one ally's SP. Not for those with the Cook skill.",
+  "kind": "help",
+  "note": "Source has a trailing space; not reproduced."
+ },
+ {
+  "en": "Attacks one enemy row with freezing cold.",
+  "kind": "help"
+ },
+ {
+  "en": "Knocks an enemy's gear loose, or steals an item it is carrying.",
+  "kind": "help",
+  "note": "Monsters hold items as equipped or carried: Dropkick turns an equipped item into a carried one, or takes a carried one."
+ },
+ {
+  "en": "The whole party is guaranteed to escape from battle.",
+  "kind": "help"
+ },
+ {
+  "en": "Wonderful Turmeric",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Strange Bookmark",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Sun's Light Rank",
+  "kind": "name",
+  "note": "Not in glossary. chap slice_021 rows 1719-1720 use 'Radiant Rank of the Sun' (23 bytes, does not fit 18); chap slice_017 row 1398 calls the same item 'Light Rank'. Chose the Light Rank series form. Flag chap 1719/1720 for consistency."
+ },
+ {
+  "en": "Divine Sun Spirit",
+  "kind": "name",
+  "note": "Cut item (designer note: cut). 'Divine-Rank Sun Spirit' (22) does not fit."
+ },
+ {
+  "en": "Stellar Sun Spirit",
+  "kind": "name",
+  "note": "Cut item. Star-rank Sun Spirit; 18 bytes, at the limit."
+ },
+ {
+  "en": "Faulty Sun Spirit",
+  "kind": "name",
+  "note": "Cut item. Furyou = defective/delinquent."
+ },
+ {
+  "en": "Ninja Fiend's Helm",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Sacred Treasure",
+  "kind": "name",
+  "note": "Hiragana kamudakara = archaic reading of 'sacred treasure'; dropped by Asunamuchi, who speaks archaically. Translated rather than romanised. New term."
+ },
+ {
+  "en": "Song of Spirits",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Flesh-Lump Flower",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Deltoi Empty Room",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Dark Sakil Shell",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Aleed Palette",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Demon-Boob Undies",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Seot's Demon Nest",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Unclean Water",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Menolist's Candle",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Ponya Sausage",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Taizarti Lamp",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Glittering Scale",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Swordsage's Beard",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Polarized Stida",
+  "kind": "name",
+  "note": "Cut item. 'Stida' follows the Ryug crystal Aura Stida (ITEM row 666), not yet translated; align with whatever the ITEM slice chose. New name."
+ },
+ {
+  "en": "Red Light Rank",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Blue Light Rank",
+  "kind": "name",
+  "note": "Glossary series."
+ },
+ {
+  "en": "Green Light Rank",
+  "kind": "name",
+  "note": "Glossary series."
+ },
+ {
+  "en": "Yellow Light Rank",
+  "kind": "name",
+  "note": "Glossary series."
+ },
+ {
+  "en": "Black Light Rank",
+  "kind": "name",
+  "note": "Glossary series."
+ },
+ {
+  "en": "White Light Rank",
+  "kind": "name",
+  "note": "Glossary series."
+ },
+ {
+  "en": "Crystal Flower",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Mud Pie",
+  "kind": "name",
+  "note": "As in chap slice_011 rows 879-890."
+ }
+]

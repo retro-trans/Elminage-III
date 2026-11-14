@@ -1,0 +1,257 @@
+[
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@7f83",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@88f7",
+  "en": "[Key Item]\nObtained Ninja Fiend's Helm.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8964",
+  "en": "[Key Item]\nObtained Song of Spirits.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@89cf",
+  "en": "[Key Item]\nObtained Flesh-Lump Flower.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8a3a",
+  "en": "[Key Item]\nObtained Deltoi Empty Room.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8aaf",
+  "en": "[Key Item]\nObtained Dark Sakil Shell.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8b20",
+  "en": "[Key Item]\nObtained Aleed Palette.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8b93",
+  "en": "[Key Item]\nObtained Demon-Boob Undies.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8bfe",
+  "en": "[Key Item]\nObtained Seot's Demon Nest.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8c6f",
+  "en": "[Key Item]\nObtained Unclean Water.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8cdc",
+  "en": "[Key Item]\nObtained Menolist's Candle.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8d4f",
+  "en": "[Key Item]\nObtained Ponya Sausage.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8dc2",
+  "en": "[Key Item]\nObtained Taizarti Lamp.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8e37",
+  "en": "[Key Item]\nObtained Glittering Scale.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8ea4",
+  "en": "[Key Item]\nObtained Swordsage's Beard.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8f10",
+  "en": "[Key Item]\nObtained Red Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8f7b",
+  "en": "[Key Item]\nObtained Blue Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8fe6",
+  "en": "[Key Item]\nObtained Green Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9051",
+  "en": "[Key Item]\nObtained Yellow Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@90bc",
+  "en": "[Key Item]\nObtained Black Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9127",
+  "en": "[Key Item]\nObtained White Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@915f",
+  "en": "After defeating the mighty Duke of the Demon World,\nyou found something.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@91a2",
+  "en": "After winning the battle,\nyou found something.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@91e0",
+  "en": "# Current floor: {0B:0003:0000}",
+  "kind": "op029"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9263",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9288",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@92f3",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9318",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9383",
+  "en": "The great shadow fades away{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@93a6",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9411",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9436",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9497",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@94bc",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9527",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@954c",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9823",
+  "en": "{0A:0003:0006}'s alignment changed to Good{w}",
+  "kind": "op096"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@98c3",
+  "en": "{0A:0003:0006}'s alignment changed to Evil{w}",
+  "kind": "op096"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9bdc",
+  "en": "Obtained {12:0003:0018}.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9c0b",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9c60",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9e13",
+  "en": "Suddenly, your bodies seemed to grow lighter.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9e85",
+  "en": "With a strange whirring, a Tetramystica glides across the floor.{w}{p}A Tetramystica specialized for guard duty -- a \"Guard Mystica,\" you might call it.{w}{p}Here and there the students have scrawled on it: \"Idiot,\" \"Moron,\" even doodled nose hairs.{w}Even so, its function of guarding the Academy is still fully intact.{w}{p}So it is only natural that, on spotting you outsiders who don't belong to the Academy, it moves to eliminate you.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9ff4",
+  "en": "You have run into a foe you never expected.{w}A vast form, its whole body blazing with light.{w}{p}Without a sound, the very air shudders and trembles.{w}With the word \"alien\" lodged in your hearts, you stand exposed to its savage power.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@a0a1",
+  "en": "Suddenly, a gigantic beast appears before you.{w}Half tiger and half horse, it flails its arms and thrashes its whole body wildly.{w}{p}And now its fury turns on you as well.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@a130",
+  "en": "Darkness within darkness.{w}Welling up from the abode of the Nether King, it fills the air around it with an incomprehensible tongue.{w}{p}What it is saying: unknown.{w}What it is even trying to do: unknown.{w}{p}But one thing is clear:\nit means to destroy you.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@a213",
+  "en": "A giant leaps out in front of you.{w}It seems to be distracted by something else.{w}{p}It doesn't appear able to tell whether you are enemies or mere visitors.{w}{p}No -- for just a moment it seemed to give it some thought, but\n'Eh, I'll just punch them for now and...'{w}seems to be the conclusion it reached.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91112-ARG_MYUSHA_TALK.bin@8a4c3",
+  "en": "\"Welcome! You must be hungry, huh?{w}I'll get some hot food ready for you, so hang on a sec!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3dde",
+  "en": "\"Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1a55",
+  "en": "\"Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3dbb",
+  "en": "Not enough money.{w}",
+  "kind": "msg"
+ }
+]

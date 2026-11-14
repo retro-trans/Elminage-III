@@ -1,0 +1,357 @@
+[
+ {
+  "en": "\"Y-you there~!{w}Please, help me calm my horse down~!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Dullahan",
+  "kind": "name"
+ },
+ {
+  "en": "\"Waaah, somebody~~~!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Phew~~, thank you so much.\nYou really helped me out with all sorts of stuff.{w}*bow*\"{w}",
+  "kind": "msg",
+  "note": "pekori = bowing sound effect, rendered *bow*"
+ },
+ {
+  "en": "With that, the girl tipped her severed head downward.{w}",
+  "kind": "msg",
+  "note": "source names her shoujo (girl); bowing with the head she carries"
+ },
+ {
+  "en": "\"This little one's called Coiste Bodhar,\nbut it's been all worked up since this morning.\"{w}{p}\"You mustn't go causing everyone trouble, okay?\"{w}",
+  "kind": "msg",
+  "note": "kosutabawaa = Coiste Bodhar, the Dullahan's coach/horse in Irish folklore; NEW NAME. Second quote is said to the horse"
+ },
+ {
+  "en": "The horse just turned its head away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But I've got this uneasy feeling too, you know.{w}Is just taking back that Palace of the Sun really going to fix everything, I wonder...\"{w}{p}\"Hmmm...{w}Oh well, whatever.\"{w}{p}\"I'd better get going.{w}I've got my job of splashing buckets of blood on everyone's houses, too~\"{w}{p}\"I owe you one.{w}Thank you kindly! *bow, bow*\"{w}",
+  "kind": "msg",
+  "note": "blood bucket = Dullahan folklore (douses those who open their door); arigatou deshita is cutesy-ungrammatical, kept light"
+ },
+ {
+  "en": "*  The wind enveloped you  *{0F}{w}",
+  "kind": "op096",
+  "note": "source has {0F} with no {0E} in this row; kept verbatim"
+ },
+ {
+  "en": "{0E}                                            \n                  Updraft                   \n                                            {0F}{w}",
+  "kind": "msg",
+  "note": "area-title banner; full-width padding replaced by ASCII spaces (44-col lines, title centred) like slice_003 banners"
+ },
+ {
+  "en": "Friendly Spirit",
+  "kind": "name"
+ },
+ {
+  "en": "\"You made it all the way up here!{w}Color me surprised!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"For wingless folk to make it this far...{w}...I'm speechless.{w}Welcome to the Castle of the Wind.\"{w}{p}\"And the one who dwells at the summit is the master of the Castle of the Wind.\"{w}{p}\"Don't you even think of going up there.{w}That is not someone who would ever deign to deal with the likes of you.\"{w}",
+  "kind": "msg",
+  "note": "akireru = taken aback/exasperated -> speechless"
+ },
+ {
+  "en": "Wind Spirit",
+  "kind": "name"
+ },
+ {
+  "en": "\"...Creatures from below, is it.{w}Begone, before the wind casts you out and dashes you against the earth.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Dragon",
+  "kind": "name"
+ },
+ {
+  "en": "\"Why are denizens of the world below in this place?{w}This Castle of the Wind is no place for the likes of you to set foot.\"{w}{p}\"Leave at once.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Before you stands a woman wearing a hood.{w}{p}She is most likely the woman Hanoi spoke of.{w}",
+  "kind": "msg",
+  "note": "Hooded Woman (as in wmap slice_19); Hanoi not gendered"
+ },
+ {
+  "en": "\"Oh, hello.{w}What brings you adventurers all the way out here?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "She was a woman with a truly mysterious air about her.{w}{p}Under her gaze, you were seized by the feeling that she could see into the very depths of your heart.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Looks like you're in some kind of trouble.{w}If you don't mind it being me, why not tell me about it?\"{w}{p}\"I might be able to help, you know.\nFufu.\"{w}",
+  "kind": "msg",
+  "note": "fufu as in Hisbert/Hooded Woman lines in wmap slice_19/20"
+ },
+ {
+  "en": "You told the woman about Rafa{w}and that you were looking for a way to save Rafa.{w}",
+  "kind": "msg",
+  "note": "source says kare (him) for Rafa; glossary gender unknown, so name repeated instead of a pronoun"
+ },
+ {
+  "en": "\"Hmmm...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shall I lend you a hand?\"{w}{p}\"Thanks to Ruu and Makakuri helping me out,\nI got to see my dear wicked mage,\nand my business in this land is mostly finished.\"{w}{p}\"So maybe I can be of some use to you.\"{w}",
+  "kind": "msg",
+  "note": "jaaku na majutsushi-san = Zaalhaut, rendered \"my dear wicked mage\" as in wmap slice_20 1533; Ruu/Makakuri spellings from wmap slice_19 1513"
+ },
+ {
+  "en": "With that, she held out her hand to you.{w}{p}A mysterious light enveloped you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Agintaitus",
+  "kind": "name"
+ },
+ {
+  "en": "\"What business do little ones have in this Castle of the Wind?{w}I have no business with those who know nothing of this land's history. Leave at once.\"{w}",
+  "kind": "msg",
+  "note": "chiisaki mono = little ones (dragon addressing the party)"
+ },
+ {
+  "en": "\"What business do little ones have in this Castle of the Wind?{w}I have no business with those who know nothing of this land's history. Leave at once.\"{w}{p}\"...Hm? That box...!\nIs that... the Sun Prison Shrine?{w}Why would little ones have such a thing...\"{w}{p}\"Little ones,\nwhere did you obtain that?{w}That is not a thing to be handled lightly.\"{w}{p}\"...Hmm... Miasuna... the Meiroin...{w}I see... Little ones, you could hardly know\nwhat that object truly means...\"{w}{p}\"Little ones, since it has come into your hands,\nyou must learn the reason it was made.{w}Because you dwell upon this land, that is why.\"{w}{p}\"...When this land,{w}Rainal Manoza, was forsaken by the gods,\nthere was one who was sacrificed to save it...\"{w}{p}\"That one was chosen from the fairy village,\nbecame the Sun Spirit with the aid of a sage,\nand saved Rainal Manoza from collapse.\"{w}{p}\"But there was a fairy who grieved over it...\"{w}{p}\"That fairy became the Moonlight Spirit\nand kept watch over the Sun Spirit ever after.{w}...The two of them were lovers.\"{w}{p}\"...I watched it all unfold from beginning to end,\ntogether with the sage.\"{w}{p}\"That doll is the fairy's form from before becoming the Sun Spirit.{w}...It must have been kept tucked away with great care.\"{w}{p}\"Little ones, you must never forget this tale.{w}Hold it firmly in your hearts.\"{w}",
+  "kind": "msg",
+  "note": "first page repeats row 1533 verbatim (same JP). NEW TERMS: youro no zushi = Sun Cage Reliquary (key item; box holding a handmade fairy doll, SCD10), Miasuna (place, castle of a Demon Duke per MON_TEXT), Meiroin (meirouin, building in Miasuna, romanized). sono mono (the sacrificed one) kept neutral. The sage = Zaalhaut (row 1577). \"It must have been kept\" left subjectless: JP does not say who kept the doll (likely Yorfa)"
+ },
+ {
+  "en": "\"Little ones.{w}Never forget the tragedy of those two,\nthe Sun Spirit and the Moonlight Spirit...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Figure (Center)",
+  "kind": "name",
+  "note": "nazo no jinbutsu chuuou = mysterious figure, centre; pre-reveal name box for the Ryug"
+ },
+ {
+  "en": "\"Have you not learned!?\nSo you too would invade our land!\"{w}",
+  "kind": "msg",
+  "note": "shoukori mo naku = undeterred by others' failures"
+ },
+ {
+  "en": "Figure (Left)",
+  "kind": "name"
+ },
+ {
+  "en": "\"This land belongs to us, the Ryug.{w}We will never hand it over to the likes of you.\"{w}",
+  "kind": "msg",
+  "note": "Ryug spelling from wmap slice_20 1534; used as the people's name (uninflected plural)"
+ },
+ {
+  "en": "Figure (Right)",
+  "kind": "name"
+ },
+ {
+  "en": "\"This land is not where you will find healing.{w}Withdraw.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Somehow, you managed to drive off the Ryug.{w}Then you told them that you had heard about this land from Hisbert.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Destroyer Ryug",
+  "kind": "name",
+  "note": "hakai no Ryuugu = Ryug of Destruction; NEW short name-box form"
+ },
+ {
+  "en": "\"...The honored Hisbert...\"{w}",
+  "kind": "msg",
+  "note": "dono honorific -> \"the honored\" (gender-neutral)"
+ },
+ {
+  "en": "Shield Ryug",
+  "kind": "name",
+  "note": "tate no Ryuugu = Ryug of the Shield"
+ },
+ {
+  "en": "\"It must mean the situation has grown that dire.{w}The power of the Dark Realm has certainly become something we cannot ignore.\"{w}",
+  "kind": "msg",
+  "note": "an'iki = Dark Realm (wmap slice_20 1526)"
+ },
+ {
+  "en": "Healer Ryug",
+  "kind": "name",
+  "note": "iyashi no Ryuugu = Ryug of Healing"
+ },
+ {
+  "en": "\"But this land has only just been born.{w}Even our power has its limits.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Even so, we must drive them back.{w}This is our land, the land of the chosen!\"{w}",
+  "kind": "msg",
+  "note": "\"them\" = the Dark Realm's forces (row 1546)"
+ },
+ {
+  "en": "\"......{w}You were told by Hisbert to come to this land.\"{w}{p}\"That means fighting the forces of the Dark Realm.{w}If the librarian of the Elminage System says so,\nour own power must not be enough...\"{w}{p}\"Galling as that is.\"{w}",
+  "kind": "msg",
+  "note": "Elminage System / librarian as in wmap slice_19 1474"
+ },
+ {
+  "en": "\"No... Then we just stay like this...\nunable to do anything...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nonsense! Then why are we here!?\nAre you saying the gods have abandoned us!?\"{w}",
+  "kind": "msg",
+  "note": "kami (no number in JP) -> \"the gods\" (the world has the Six Gods of Creation)"
+ },
+ {
+  "en": "\"I don't know... But they are here.{w}Their power, strong enough to drive back even us...\nThat must be what Hisbert saw in them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Adventurers.{w}This land now stands under threat from the Dark Realm.\"{w}{p}\"Would you be willing to save this land with your strength?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Envoys of the honored Hisbert or not,\nborrowing the strength of otherworlders...\nDo you mean to sully the pride of the Ryug!?\"{w}{p}\"Besides, can they truly be trusted?\nThese creatures of a lower race?\"{w}",
+  "kind": "msg",
+  "note": "kisama addressed to Shield Ryug; katou shuzoku = lower race (wmap slice_19 1488)"
+ },
+ {
+  "en": "\"Then we should simply perish as we are?{w}I have no intention of indulging that drivel\nabout the beauty of a noble end.\"{w}",
+  "kind": "msg",
+  "note": "horobi no bigaku = aesthetics of ruin"
+ },
+ {
+  "en": "\"What did you say!?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Stop it, both of you.{w}Then here is what we shall do.\"{w}{p}\"It is true that we face a crisis.{w}And it is just as true that there are things we cannot manage on our own.\"{w}{p}\"But however strong they may be, they are a lower race.{w}We are the Ryug, the chosen people.\"{w}{p}\"So, how about this plan?{w}We will have them defeat those detestable Demon Dukes for us.\"{w}{p}\"And then have them bring back proof of it.\"{w}",
+  "kind": "msg",
+  "note": "NEW TERM: daimakou = Demon Duke(s) (rank of the Kin of Darkness; many named ones in MON_TEXT)"
+ },
+ {
+  "en": "\"Hmm... If it is that, then...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Very well.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm sorry this is the only way we can ask.{w}Will you do this for us?\"{w}{p}\"We have allowed many Demon Dukes to invade.{w}We want you to defeat every one of them\nand bring back proof.\"{w}{p}\"I'm counting on you. With the power that drove back even us Ryug,\ndefeat the Demon Dukes.\"{w}{p}\"We entrust the fate of the Ryug to you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Toiling away, are we, lower race?\nIs the burden too heavy for the likes of you?\"{w}",
+  "kind": "msg",
+  "note": "gokurou da (condescending) said while the quest is unfinished"
+ },
+ {
+  "en": "\"And yet it is also true\nthat we must borrow that lower race's strength.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's enough. We will be right here.\nWe'll be waiting for good news.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well done, lower race!{w}Just what one would expect of adventurers chosen by us!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Power enough to drive back even the Demon Dukes...{w}Perhaps the word 'hero' was made for the likes of you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thanks to you, a time of healing will come to this land as well.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We have been saved.{w}But your own goal is not yet achieved, is it?\"{w}{p}\"Our power may fall short, but tell us if there is anything we can do.{w}On the pride of the Ryug, we will see your wish granted without fail.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Wicked Mage",
+  "kind": "name",
+  "note": "jaaku na majutsushi = Zaalhaut (wmap slice_20: \"wicked mage\")"
+ },
+ {
+  "en": "\"Then I'll have you grant my wish.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Who goes there?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And you are...? Could you be that...{w}wicked mage...?\"{w}{p}\"It was not you who defeated the Demon Dukes, surely.\"{w}",
+  "kind": "msg",
+  "note": "the point: he did not earn the promised wish; literal sense kept"
+ },
+ {
+  "en": "\"Their goal... and you are connected to it...{w}Is that right...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Indeed, my name is Zaalhaut.{w}And what you say is, well, not far off the mark.\"{w}{p}\"Without me, this lot cannot achieve their goal.\nNor can my own wish be fulfilled...\"{w}{p}\"In any case, you will send this lot\nto the Sanctum of Genesis.\"{w}",
+  "kind": "msg",
+  "note": "koyatsura = the party. NEW TERM: seisouken = Holy Genesis Sphere (dungeon with lower/middle/upper levels, SCD17)"
+ },
+ {
+  "en": "\"The Sanctum of Genesis? What could be in a place like that...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"With our power it is not impossible, but what are you scheming?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That is none of your concern.{w}Besides, this lot has no path but the Sanctum of Genesis.\"{w}{p}\"Listen well, adventurers.\"{w}{p}\"The Sanctum of Genesis is where Agintaitus and I\nonce created the Sun Spirit.\"{w}{p}\"Yes, the place where we made Rafa the Sun Spirit.\"{w}{p}\"Back then, Agintaitus and I\nwere both still far from skilled...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We could not make Rafa a true Sun Spirit.{w}And because of that, Rafa and\nYorfa both had to suffer so...\"{w}",
+  "kind": "msg",
+  "note": "subject \"we\" = Zaalhaut and Agintaitus (previous row says both were unskilled)"
+ },
+ {
+  "en": "\"With my present power and your help,\nwe may be able to make Rafa, still incomplete,\ninto a true Sun Spirit.\"{w}{p}\"If Rafa's power returns, that land will surely be saved too.\"{w}{p}\"Understood, adventurers!?{w}I will be waiting ahead of you at the Sanctum of Genesis. Be sure to come.\"{w}",
+  "kind": "msg",
+  "note": "\"that land\" = Rainal Manoza (they are now in the Ryug's land)"
+ },
+ {
+  "en": "With that, Zaalhaut vanished.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The Sun Spirit...{w}So you too were striving to save a land.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The Dark Realm's invasion must be stopped.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If that Sun Spirit is restored, it could become a means of countering the Dark Realm.\"{w}{p}\"That is so, is it not?\nVery well.\"{w}",
+  "kind": "msg",
+  "note": "speaker field says Shield Ryug for both pages; kept as data says"
+ },
+ {
+  "en": "\"We shall send you to the Sanctum of Genesis.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Go to the Sanctum of Genesis?",
+  "kind": "data",
+  "note": "30 chars, at the data limit"
+ },
+ {
+  "en": "\"When you are ready, come to us.\"{w}",
+  "kind": "msg"
+ }
+]

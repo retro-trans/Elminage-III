@@ -1,0 +1,372 @@
+[
+ {
+  "en": "\"Gyahahahaha!\nNow you're talkin', hey!\"{w}{p}\"Here it comes, here it comes -- Joker Land's famous specialty!{w}Poison-poisoooon FLAAAAASH!!\"{w}",
+  "kind": "msg",
+  "note": "Clown doll; the player just picked the poison option. 'dokudoku~ furaaaashu' is the stretched-out name of the menu choice in slice_011 row 935 (dokudoku flash); English assumes that choice reads 'Poison-Poison Flash' -- sync with slice_011."
+ },
+ {
+  "en": "\"Gyahahaha!\nServes you right! Hee hee hee!!\"{w}{p}\"..........{w}Y'know what? I'm bored of playing with these guys.{w}...Guess I'll just kill 'em.\"{w}",
+  "kind": "msg",
+  "note": "Sudden mood drop is in the source (long silence, then 'korosu ka'); kept at full force."
+ },
+ {
+  "en": "There is an open space here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Use the Strange Box Garden?",
+  "kind": "data",
+  "note": "Item name 'fushigi na hakoniwa' (key item, ITEM_PRIZ 62, max 18 chars): 'Strange Box Garden' = 18. 'fushigi na' -> 'Strange' as in wmap (Strange Bookmark, Strange Voice)."
+ },
+ {
+  "en": "Dungeon Load data created successfully.{w}",
+  "kind": "op096",
+  "note": "System/op096 message. Read 'dungeon roodo' as 'load' (data being generated); could also be 'road'. Unverified in game."
+ },
+ {
+  "en": "Failed to create Dungeon Load data.{w}",
+  "kind": "op096",
+  "note": "See row 940."
+ },
+ {
+  "en": "There are marks where something used to be placed.{w}",
+  "kind": "msg",
+  "note": "Source writes 'ato' with the kanji for 'after' -- a typo for 'trace/mark'."
+ },
+ {
+  "en": "\"Ah, Makakuri...{w}Look.\"{w}",
+  "kind": "msg",
+  "note": "Speaker box is '??' (row 943) -- it is Lu, not yet introduced. Lu's lines are written in odd katakana-mixed script (an unnatural, stilted voice); English renders this as plain, contraction-free, slightly stiff speech rather than mangled spelling."
+ },
+ {
+  "en": "Makakuri",
+  "kind": "name",
+  "note": "New name (MON_TEXT 368: Hilde's demon follower, once a skeleton, now has a flesh body)."
+ },
+ {
+  "en": "\"Adventurers, huh... Your kind's never given me{w}a single good memory.{w}Get lost... And Ruu, don't bother with the likes of them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Ruu",
+  "kind": "name",
+  "note": "New name (small-u 'Ruu'); romanized 'Lu'."
+ },
+ {
+  "en": "\"...Do you travel to many different places?\"{w}",
+  "kind": "msg",
+  "note": "Lu to the party."
+ },
+ {
+  "en": "\"Hey, Ruu! We're going!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Okay...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah...\"{w}",
+  "kind": "msg",
+  "note": "Start of the second meeting."
+ },
+ {
+  "en": "\"...What do you lot want?{w}Like I told you before, you adventurers've never given me\na single good...\"{w}",
+  "kind": "msg",
+  "note": "Trails off in the source; kept unfinished."
+ },
+ {
+  "en": "\"...Hey, Ruu?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Are you searching for something too?\"{w}",
+  "kind": "msg",
+  "note": "'mo' = 'you too' -- Lu and Makakuri are also searching."
+ },
+ {
+  "en": "\"Hey, Ruu!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But we cannot find it by ourselves.{w}We have searched for so long, and still we have not found it.\"{w}",
+  "kind": "msg",
+  "note": "'it' = their sagashimono (what they are looking for); it turns out to be a girl (row 962), but Lu has not said so yet."
+ },
+ {
+  "en": "\"That doesn't mean we have to...\"{w}",
+  "kind": "msg",
+  "note": "Cut off; Makakuri objects to asking adventurers for help."
+ },
+ {
+  "en": "\"...Makakuri.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Oh, fine, I get it already! Do what you want!{w}But if it comes down to it, I'm running, you hear!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But I know you will not run.{w}That is why I like you, Makakuri.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shut up!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you find a short girl with blue hair,{w}please tell us.{w}We are looking for her.\"{w}",
+  "kind": "msg",
+  "note": "'her' is safe: the source says onna no ko (girl)."
+ },
+ {
+  "en": "\"That's the deal! Got it?{w}...Jeez, why're we asking adventurers, of all people...\"{w}",
+  "kind": "msg",
+  "note": "'nandatte boukensha nanzo ni...' -- object of the sentence is implied (asking/relying on); restored as 'asking'."
+ },
+ {
+  "en": "\"A short brat with blue hair!{w}Don't you forget it, got that!?\"{w}",
+  "kind": "msg",
+  "note": "'gaki' = brat; kept rude, which is what Lu objects to next."
+ },
+ {
+  "en": "\"Makakuri, that is a rude way to say it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Butt out!\"{w}",
+  "kind": "msg",
+  "note": "'hottoke' -- same English in row 976."
+ },
+ {
+  "en": "You told them about the girl you had met\nin the Crystal Labyrinth.{w}",
+  "kind": "msg",
+  "note": "'Crystal Labyrinth' as in wmap slice_06 rows 468/470."
+ },
+ {
+  "en": "\"The Crystal Labyrinth, huh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I really don't get you adventurers.\"{w}{p}\"Why would you go out of your way\nto help the likes of us...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Some people are good people, you know.\"{w}",
+  "kind": "msg",
+  "note": "Lu answers row 970: some adventurers are good people."
+ },
+ {
+  "en": "\"If you say so.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then we will go now.{w}Thank you. Truly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Be nice to the undead, y'hear!\"{w}",
+  "kind": "msg",
+  "note": "'fushizoku' = the undead (as a race). Makakuri was formerly a skeleton (MON_TEXT 368), hence the parting shot; Lu calls it rude again."
+ },
+ {
+  "en": "\"Makakuri... like I said, that is a rude way to say it.\"{w}",
+  "kind": "msg",
+  "note": "'dakara' = 'I told you' -- callback to row 965."
+ },
+ {
+  "en": "\"Butt out!\"{w}",
+  "kind": "msg",
+  "note": "Same as row 966."
+ },
+ {
+  "en": "There are many gravestones with no names on them.{w}{p}But no one seems to have tended them lately.\nThe graves have been dug up and ransacked, and bones lie scattered about.{w}",
+  "kind": "msg",
+  "note": "Nameless graveyard of Rust Temple's quest (wmap slice_07 row 558)."
+ },
+ {
+  "en": "There are many gravestones with no names on them.{w}{p}But no one seems to have tended them lately.\nWeeds have sprung up all around, and bones dug up from the graves lie scattered about.{w}{p}From somewhere comes the growl of wild dogs.{w}It seems they are the ones ransacking the graves.{w}",
+  "kind": "msg",
+  "note": "'yaken' = wild dogs, as in wmap slice_07 row 558; plural kept to match row 979. 'kono koe no nushi' (the owner of this voice) -> 'they'."
+ },
+ {
+  "en": "You drove off the wild dogs that were ransacking the graves.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There are many gravestones with no names on them.{w}Looking closely, you see small letters carved into them.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                                          *\n*              Rest in peace.              *\n*                                          *{0F}{w}",
+  "kind": "msg",
+  "note": "Grave inscription in an asterisk frame (not an echo of the previous row). Full-width padding replaced by ASCII spaces; 3-line frame kept."
+ },
+ {
+  "en": "\"What do you want?{w}Come to take back your goods?{w}Too bad. I already sold off the whole lot.\"{w}{p}\"Huh? This book? Couldn't get a price for it.{w}Read it to kill time, and it turned out to be pretty good.\"{w}{p}\"So that's how it is. Go on home.{w}There's nothin' left for you to take ba-- What? This book, you say?{w}...Sorry, but this one I ain't givin' back. Hey, boys!\"{w}",
+  "kind": "msg",
+  "note": "Thief who robbed Lotz's cargo (EVENT_TEXT 33, ITEM_PRIZ 55 'Lotz event'). 'Omaera ga torikaesu mon nanka...' is cut off by 'nani?'; rendered as an interruption."
+ },
+ {
+  "en": "\"I give! I'm sorry! I'll give it back, I'll give it back!{w}Don't get so worked up over a book nobody'd even pay for!\"{w}{p}\"...But hey, you're takin' it back to its owner, right?{w}Um... about me comin' by to borrow it... if that'd be okay...{w}I'm in no position to ask, but... put in a word for me, would ya?\"{w}",
+  "kind": "msg",
+  "note": "Page 2 is identical to row 985; same English. 'Karini ittemo... moshi dekiru nara... tanondoite kure' = ask the owner whether he may come borrow the book."
+ },
+ {
+  "en": "[Key Item]\nObtained Mujirod Manuscript.{w}",
+  "kind": "msg",
+  "note": "New name 'Mujid' (romanized). 'shahon' = hand-copied manuscript. 18 chars, fits ITEM_PRIZ 55 (max 18)."
+ },
+ {
+  "en": "\"...But hey, you're takin' it back to its owner, right?{w}Um... about me comin' by to borrow it... if that'd be okay...{w}I'm in no position to ask, but... put in a word for me, would ya?\"{w}",
+  "kind": "msg",
+  "note": "Identical to row 983 page 2."
+ },
+ {
+  "en": "You passed on Lotz's message.{w}",
+  "kind": "msg",
+  "note": "New name 'Lotz' (romanized): old goblin who runs a magic shop in Lumisthenes (MON_TEXT 347)."
+ },
+ {
+  "en": "\"Really!? Thanks a ton!{w}Never figured I'd actually be welcome...\"{w}{p}\"...Right. It ain't much of a thank-you, but\nuse this. I prob'ly won't need it anymore.\"{w}",
+  "kind": "msg",
+  "note": "'kangei sareru' -- Lotz's message evidently welcomes him to come read/borrow the book."
+ },
+ {
+  "en": "\"Well, so long. Thanks a lot.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A knight of fearsome appearance stood before you.{w}You could not make out the knight's face well,\nbut its bearing suggested no trace of reason.{w}{p}You had shown no particular hostility,\nyet it seemed you were fated to fight.{w}",
+  "kind": "msg",
+  "note": "Floor Master encounter (Crotoa NE). Knight's gender unknown: 'the knight's' / 'its bearing' (bearing of a mindless figure)."
+ },
+ {
+  "en": "Threading through the rubble of the city streets, a lone knight appeared.{w}",
+  "kind": "msg",
+  "note": "Crotoa SE Floor Master."
+ },
+ {
+  "en": "Dark Lord",
+  "kind": "name",
+  "note": "Monster/class name 'daakuroodo' (MONRAW/MONSTER2)."
+ },
+ {
+  "en": "Neither side said a word.{w}{p}Of course, adventurers are free to offer a greeting.{w}Free to doubt, free to accept,\nand free to draw their swords, too...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Bishop",
+  "kind": "name",
+  "note": "Glossary: shikyou = Bishop."
+ },
+ {
+  "en": "\"...Same line of work, huh? How's business on your end?\nUs? Haha, can't complain, I guess.\"{w}",
+  "kind": "msg",
+  "note": "'go-dougyou' = fellow adventurers; 'keiki' (business/fortunes) kept as the joke."
+ },
+ {
+  "en": "Fighter",
+  "kind": "name",
+  "note": "'senshi' as the Wizardry-style class name; no precedent in the corpus."
+ },
+ {
+  "en": "\"C'mon, it's not even that.\nThat weird thing's brought us nothin' but grief.\nLet's just ditch it already, right around here's fine...\"{w}",
+  "kind": "msg",
+  "note": "'fundari kettari' = one misfortune after another."
+ },
+ {
+  "en": "\"Don't say that. It might be worth somethin', y'know?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No way in heck!\nWe got tossed inside it, the terrain changed every single time,\nit put us through hell, y'know!? Toss it, toss it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Once we took it out of that place, it stopped doing anything, right?\nIf we just figure out how to use it, it'll be A-OK...\nAh, I said don't throw it away!\"{w}",
+  "kind": "msg",
+  "note": "'daijoobu' in katakana = breezy 'A-OK'."
+ },
+ {
+  "en": "\"And who's gonna figure that out?\nIf we can't toss it, then we hand it off to somebody... Oh?\nPerfect timing. Hey, you folks want this?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa, whoa.\"{w}",
+  "kind": "msg",
+  "note": "'oioi' -- the Bishop protests the Fighter dumping it on strangers."
+ },
+ {
+  "en": "\"We picked it up in the Crotoa City Ruins, and\nget this! It's a Strange Box Garden -- you can go inside it\nand have all kinds of adventures! Whaddaya say?\"{w}",
+  "kind": "msg",
+  "note": "Source spells kurotowa here, kurotoa elsewhere (DGN_NAME, wmap slice_07 row 558); same place -> 'Crotoa City Ruins'."
+ },
+ {
+  "en": "\"Mind you, it only seems to work\nin the Crotoa City Ruins.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Right, right, it's safe as long as you just carry it.\nHere, take it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Strange Box Garden.{w}",
+  "kind": "msg",
+  "note": "See row 939."
+ },
+ {
+  "en": "\"Put it back where it was in the Crotoa City Ruins\nand you can go inside. As for the spot... ...Sorry, I forgot.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But if you're goin' in, watch yourselves.\nIt's a real handful in there.\nSee ya!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you put that box garden back where it was\nin the Crotoa City Ruins, you can get inside.\nAs for the spot... ...Sorry, I forgot.\"{w}",
+  "kind": "msg",
+  "note": "Repeat-talk variant of row 1006."
+ },
+ {
+  "en": "*  Desert Wind  *{0F}{w}",
+  "kind": "op096",
+  "note": "op096 with a closing {0F} but no {0E}, as in the source. 'sabaku no kaze' -- probably a title/inscription; what it names is not clear from the script."
+ },
+ {
+  "en": "{0E}\n                    Desert Wind\n{0F}{w}",
+  "kind": "msg",
+  "note": "Centred framed text: full-width padding lines -> ASCII spaces / empty lines (3-line box kept). See row 1009."
+ },
+ {
+  "en": "A plant has taken root here, enduring the dryness of the desert.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A plant has taken root here, enduring the dryness of the desert.{w}As you reach out to take it,\nyou hear a bird cry out from somewhere.{w}",
+  "kind": "msg",
+  "note": "Ties to the cactus/bird story in wmap slice_17 row 1358 (birds eat desert-plant flesh for their voices)."
+ },
+ {
+  "en": "Take it?",
+  "kind": "data"
+ },
+ {
+  "en": "Something swooped down from the sky and attacked you!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Cactus Pulp.{w}",
+  "kind": "msg",
+  "note": "'saboten no kaniku' -> 'Cactus Pulp' (wmap slice_17 row 1358 says 'the flesh of a plant'; 'pulp' reads better as an item name)."
+ },
+ {
+  "en": "Deep in the desert,\nthere was a monster of grotesque form.{w}{p}Why did it look this way?{w}Why had it been locked up?{w}Why was it here?{w}{p}All of it was shrouded in mystery.{w}But judging by that raised fist,{w}{p}he (or she),\nas far as you were concerned, at least,{w}was hardly a presence to be welcomed, it is safe to say.{w}",
+  "kind": "msg",
+  "note": "'kare (moshikuwa kanojo)' -- the narrator's deliberate he (or she) joke kept. Sentence spans a page break as in the source."
+ }
+]

@@ -1,0 +1,366 @@
+[
+ {
+  "en": "\"...If only I could sing in that voice{w}just one more time, I thought.{w}...I humbly ask this of you.\"{w}",
+  "kind": "msg",
+  "note": "Standalone copy of the last page of row 1359 (Arlotte asks the party to fetch the plant from the Giaf Dunes)."
+ },
+ {
+  "en": "\"Adventurers! Thank you so much!{w}So that is the fruit's flesh!!\"{w}{p}\"You have my heartfelt thanks!{w}If I eat this, that voice of mine will once again...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......You went to all the trouble of picking it for me, but{w}I'm sorry.\"{w}{p}\"If I were to eat this,{w}it would mean denying{w}my entire life as a singer up to now.\"{w}{p}\"Every day I remembered the voice I used to have,{w}and longed to have that voice again...\"{w}{p}\"That is what I thought, but{w}holding this in my hands,\nI have realized my mistake.\"{w}",
+  "kind": "msg",
+  "note": "Branch: Arlotte declines to eat the fruit. Rows 1361 and 1362 are alternative reactions."
+ },
+ {
+  "en": "\"From now on, I will sing the songs\nthat only the person I am now -- older, with the years piled up --\ncan sing.\"{w}{p}\"Adventurers,{w}thank you, truly!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Travelers of the highway,{w}if you are not in a hurry,\"{w}{p}\"please enjoy the voice of Arlotte,\nthe seasoned songstress!\"{w}",
+  "kind": "msg",
+  "note": "Kaidou = the highway (cf. row 1350 \"the finest songstress on the highway\"). Jukuren no utahime = \"seasoned songstress\": she embraces her age, matching row 1363."
+ },
+ {
+  "en": "\"Argh, I need more hands!{w}Why on earth is there so much...!{w}Hmm? You guys... you're adventurers, right?\"{w}{p}\"Perfect timing! Please!{w}Won't you help us keep the peace\nhere in Teridon!?\"{w}{p}\"By rights, the guards should be handling all of it,\nbut we just don't have the manpower.\"{w}{p}\"If worrying about shame kept the peace,\nwe patrolmen wouldn't be needed at all.{w}Please, take this on.\"{w}{p}\"I'm Molder, Captain of the Guard.\nGlad to be working with you.\"{w}",
+  "kind": "msg",
+  "note": "Haji de chian ga mamoreru nara...: Molder means he is not too proud to ask outsiders for help; kept the \"shame\" image. Keibiheichou = Captain of the Guard."
+ },
+ {
+  "en": "\"Here in Teridon, a town whose chief\nis Barjeff, the Evangelist of Love...\"{w}",
+  "kind": "msg",
+  "note": "Fragment leading into row 1367; trailing \"...\" added since the sentence continues there. Barjeff-shi rendered via his post (chief) to avoid a gendered \"Mr.\""
+ },
+ {
+  "en": "\"...and as head of this town's guard,\nmy creed is 'Non-Violence & Reform BY Dialogue'!\"{w}{p}\"No matter how vicious the criminal, if they share the same kind of soul,{w}a passionate heart and burning words\ncan always set them straight!\"{w}",
+  "kind": "msg",
+  "note": "The source writes the \"DE\" particle in capitals as a gag; mirrored with a capitalised \"BY\". \"...and\" joins on from row 1366."
+ },
+ {
+  "en": "\"Violence is the last resort!{w}First, you hit them with a passionate heart!\"{w}{p}\"...That said, we're short on people.{w}Chief Barjeff, show the guard some love already!{w}",
+  "kind": "msg",
+  "note": "Source \"kudasatto~\" read as a garbled \"kudasai yo~\" (a plea for more support/funding). Row has no closing quote: it is cut off and repeated in row 1369."
+ },
+ {
+  "en": "{0E}\"...That said, we're short on people.\nChief Barjeff, show the guard some love already!{0F}\nDistrict Nine! Go! Run!\"{w}",
+  "kind": "msg",
+  "note": "Echo of the last page of row 1368, with its {w} turned into \\n as in the source. Molder breaks off to bark orders at his men."
+ },
+ {
+  "en": "\"Hey, has anyone gone out to District Two?{w}Hurry! Anyone will do! Go! Run!{w}Phew............hm?\"{w}{p}\"Oh, it's you guys.{w}Haha............as you can see, this is how things are.\"{w}{p}\"Too few people for way more cases than we can handle.{w}We get new recruits, but their training never gets anywhere.\"{w}{p}\"And me, I've got field duty, paperwork,\ncommanding, and negotiating with the higher-ups. Plus all the odd jobs and my own errands.{w}...I've got a private life too, y'know?\"{w}{p}\"Honestly, how many jobs am I juggling here, right?{w}..................But y'know what?\"{w}{p}\"If we're short-handed\nand I'm the only one who can do it, then I'll do it.{w}It's that simple.\"{w}{p}\"Besides,\nyou could say it just shows how lively this town is.{w}Which is exactly why I've got to protect it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa, here we go! What is it!? Zonette again!?{w}Take over here, I'll handle this one myself!{w}This time I'm gonna reform Zonette for sure!\"{w}{p}\"See you guys later!{w}Alllright, let's go!!\"{w}",
+  "kind": "msg",
+  "note": "Kaishin se(sa)te yaru: the object is left out; the call just named Zonette, so the name is restored (avoids a pronoun, gender not in glossary). Ties in with row 1344 (Zonette says they will only tease Molder from now on)."
+ },
+ {
+  "en": "\"I'm counting on you with that request.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Make sure you get that request done right, okay?{w}",
+  "kind": "msg",
+  "note": "No quote brackets in the source; kept without quotes."
+ },
+ {
+  "en": "\"You guys! Man, you've been a real lifesaver!{w}Thanks to you, things have gotten a lot less hectic.\"{w}{p}\"I know what I said the other day, but we were barely holding on...{w}We had mountains of problems, and it was rewarding,{w}but... when it goes on and on like that...\"{w}{p}\"You helped this town, and you helped me too.{w}I owe you guys one.{w}...Let me thank you again. Thank you.\"{w}{p}\"Next time, let's go grab a bite together.{w}Don't worry, I've got at least that much breathing room............{w}",
+  "kind": "msg",
+  "note": "Kono aida wa aa itta ga: refers to row 1370 (\"If I'm the only one who can do it, I'll do it\"). Last page has no closing quote: it is cut off and repeated in row 1375."
+ },
+ {
+  "en": "{0E}\"Next time, let's go grab a bite together.\nDon't worry, I've got at least that much breathing room............{0F}\nWhat!? Sorry, we'll finish this another time!\"{w}",
+  "kind": "msg",
+  "note": "Echo of the last page of row 1374 ({w} -> \\n as in the source)."
+ },
+ {
+  "en": "\"Let's goooo!!\"{w}",
+  "kind": "msg",
+  "note": "No speaker box; from context this is Molder running off (row 1375)."
+ },
+ {
+  "en": "\"Hey there, you guys really helped us out a lot.{w}Thanks to you, we can afford to take on more people\nand train them up.\"{w}{p}\"............Training on the job... that is.{w}Hahaha...\"{w}",
+  "kind": "msg",
+  "note": "Genba kyouiku = on-the-job training: wry joke that the \"training\" is just throwing recruits into the field."
+ },
+ {
+  "en": "\"You guys, did you get that request taken care of?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Request resolved?",
+  "kind": "data",
+  "note": "Prompt/menu text before a yes/no choice; kept short."
+ },
+ {
+  "en": "\"Well, I'm counting on you again.\"{w}",
+  "kind": "msg",
+  "note": "Reply after the player answers no."
+ },
+ {
+  "en": "\"Well done! Just what I'd expect!\nIf you're up for it, take the next one too, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Received 2000 GP.{w}",
+  "kind": "msg",
+  "note": "Same pattern as slice_03 row 239 (\"Received 5000 GP.\")."
+ },
+ {
+  "en": "\"Hmm... I won't say much, but...\nwell, I'm counting on you again.\"{w}",
+  "kind": "msg",
+  "note": "Apparently the reply when a request was cleared badly (no reward)."
+ },
+ {
+  "en": "\"That request's already been resolved, hasn't it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welcome, adventurers!{w}I am Chief Barjeff!{w}Now, a huuuuuuuug!!!\"{w}",
+  "kind": "msg",
+  "note": "Bargef/Barjeff (baajefu) romanized as Barjeff -- new name. Shuchou = chief (head of Teridon)."
+ },
+ {
+  "en": "You were hugged by Barjeff.{w}",
+  "kind": "msg",
+  "note": "Narration; passive keeps the party as the one hugged and avoids a pronoun for Barjeff (gender not in glossary)."
+ },
+ {
+  "en": "\"Love for your friends! Love for your neighbors! Love for neighboring nations!\nLove for all! Love shall save the whole wide world!\nAh, what a splendid thing love is!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Adventurers!{w}You must never... forget love, hmm?{w}Even toward those who oppose you... love.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"If you intend to make use of this town,\nthere is something important I must tell you.{w}It concerns this town's ordinance.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That ordinance is 'Love.'{w}In the end, it is love that will save the land.{w}I shall love you, and so you shall love me as well.\"{w}{p}\"That is this town's ordinance.{w}And there is one more thing.{w}This one is advice.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The simplest way to express love is the hug!{w}Skin-to-skin contact!{w}Come now, let us hug, you and I!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What? You were tricked?{w}Hahahaha, the one who falls for it is at fault too.{w}Now you're one bit wiser, aren't you?\"{w}",
+  "kind": "msg",
+  "note": "Context of the \"trick\" not shown in this slice (likely the party fell for the hug offer, or a later Teridon event). Translated literally."
+ },
+ {
+  "en": "\"Now listen, love even the wicked.{w}If your love gets through, even the wicked will love you back.{w}But you must not love the sin, hmm?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Once a matter is over, that is the end of it.{w}No matter who was involved, or how,\nlove them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"In the end, that is what will save the world.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A message from Chief Barjeff.{w}'Deliver this cargo to the Sovereign, Rianna,\nat the Roscadil palace,' it says.\"{w}{p}\"It also said, 'As discreetly as you can.'{w}It's a rather bulky parcel, so it may be hard going,\nbut we're counting on you!\"{w}",
+  "kind": "msg",
+  "note": "Koutei Rianna-dono rendered \"the Sovereign, Rianna\" to stay gender-neutral: row 949 calls Rianna nyotei (empress), but the glossary lists gender unknown. Switch to \"Her Majesty the Empress\" if the glossary is updated. The parcel is Barjeff in hiding (slice_14 rows 1049-1056)."
+ },
+ {
+  "en": "[Key Item]\nObtained Contraband?{w}",
+  "kind": "msg",
+  "note": "Item name is \"mitsuyuhin?\" (Contraband?) with the question mark part of the name; no closing period so it does not read \"?.\". Check against the item table name."
+ },
+ {
+  "en": "\"We're counting on you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Feeling the love every day?{w}Next time I'm planning to ambush Rianna right out of bed --\nwhat do you think of that!\"{w}",
+  "kind": "msg",
+  "note": "After the parcel fiasco (slice_14 rows 1049-1066) Barjeff is undeterred. Neza'oki wo nerau = target the moment Rianna wakes up."
+ },
+ {
+  "en": "Dealer",
+  "kind": "data",
+  "note": "Speaker label."
+ },
+ {
+  "en": "\"Good day to you,\nand welcome to MILL.GP.\"{w}{p}\"My name is Linesman,\nand I have the honor of serving\nas your dealer.\"{w}{p}\"Our establishment chiefly offers\nblackjack for your enjoyment.\"{w}{p}\"Now then,\nplease take your time and enjoy yourselves.\"{w}",
+  "kind": "msg",
+  "note": "MILL.GP. kept as written (casino name, full-width Latin in source). Rainzuman romanized as Linesman -- new name."
+ },
+ {
+  "en": "\"Good day to you.{w}Thank you most kindly for honoring us\nwith your visit again today.\"{w}{p}\"All manner of guests visit our establishment,\nsome of them incognito.\"{w}{p}\"Therefore, should anything at all occur,\nhowever unlikely,\nplease inform us at once.\"{w}{p}\"We strive to ensure that every guest\ncan enjoy themselves with peace of mind.\"{w}{p}\"Now then,\nplease take your time and enjoy yourselves.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Good day to you.\nWe have been expecting you all.\"{w}{p}\"For drinks, please ask at the bar counter,\nor tell a dealer or any member of staff.\"{w}{p}\"If any of you are underage\nor do not care for alcohol,\nplease let us know.\"{w}{p}\"We have all manner of drinks,\nso we shall bring whatever you prefer right away.\"{w}{p}\"Now then,\nplease take your time and enjoy yourselves.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Nora",
+  "kind": "data",
+  "note": "Speaker label. Nooura romanized as Nora -- new name. Gender: row 1426 has Yuna say she is a girl."
+ },
+ {
+  "en": "Yuna",
+  "kind": "data",
+  "note": "Speaker label (glossary)."
+ },
+ {
+  "en": "\"What's up, debuu?\nI'm Nora, debuu.\"{w}",
+  "kind": "msg",
+  "note": "Verbal tic debu(u) (lit. \"fatty\") kept as a romanized sentence-ender: \"debu\" for debu, \"debuu\" for the long debuu. Achishi (cutesy first person) rendered plain \"I\"."
+ },
+ {
+  "en": "\"You're a customer, debuu?\nThen come this way, debuu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "??",
+  "kind": "name",
+  "note": "Unknown-speaker name box; the voice is Yuna (named in row 1411)."
+ },
+ {
+  "en": "\"Oh, welco......{w}",
+  "kind": "msg",
+  "note": "Cut off mid-word; repeated in row 1410."
+ },
+ {
+  "en": "{0E}\"Oh, welco......{0F}\n-- Nora!?{w}What are you wearing!?\"{w}",
+  "kind": "msg",
+  "note": "Echo of row 1409. Nante kakkou = \"what a state you're in\": Nora turns out to be wearing no underwear (row 1412)."
+ },
+ {
+  "en": "\"Debu?{w}Yuna, is something weird about me, debu?\"{w}",
+  "kind": "msg",
+  "note": "Yuna-chin (Nora's cutesy nickname) rendered plain \"Yuna\"; honorific/nickname suffixes are dropped elsewhere in the project."
+ },
+ {
+  "en": "\"Oh, for crying out loud! I'm so sorry, customer!{w}Just for a moment!{w}Sorry, but could you please step outside!\"{w}{p}\"...You have to at least wear panties, okay?\"{w}",
+  "kind": "msg",
+  "note": "First page is to the customer (party), second page to Nora."
+ },
+ {
+  "en": "\"I don't mind, debu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, come ON!\"{w}",
+  "kind": "msg",
+  "note": "Moo~tsu! (exasperated); rendered \"Oh, come ON!\""
+ },
+ {
+  "en": "\"Okaaay, rinsing you off with hot water, debuu.{w}Sploooooooooosh!{w}I can do my own shower, debuu!\"{w}{p}\"Customer, is there anything you want me to do, debu?{w}My nose can do anything, debuu!\"{w}",
+  "kind": "msg",
+  "note": "Nora showers the customer with her own nose (a trunk, apparently). Kept \"nose\" as in the source."
+ },
+ {
+  "en": "\"Noraaa?{w}",
+  "kind": "msg",
+  "note": "Cut off; repeated in row 1417."
+ },
+ {
+  "en": "{0E}\"Noraaa?{0F}\nHow's our customer doing... Aaaaaaah!\nAaaaaaah--!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yuna, you're funny, debu!{w}Oh, the basket's gonna fall, debu?{w}I'll hold it up for you, debuu!\"{w}",
+  "kind": "msg",
+  "note": "Kago = basket (literal). Possibly a bath basket Yuna is carrying while she panics."
+ },
+ {
+  "en": "\"Customer, look the other way! ...Please!{w}Your apron's all flipped up, I'm telling you! Geez!\"{w}",
+  "kind": "msg",
+  "note": "First sentence to the customer; second to Nora (Nora is wearing an apron and no underwear). \"Your\" kept without a name since the source has none; the scene makes it Nora's."
+ },
+ {
+  "en": "\"How's this ribbon, debuu?{w}I just bought it, debuu!{w}It's cute, debuu!\"{w}{p}\"When I make myself cute,\nthe customers praise me lots, debuu.\"{w}{p}\"Uncle Barjeff\ngives me pocket money too, debuu{w}I get pocket money and dress up all nice, debuu!\"{w}",
+  "kind": "msg",
+  "note": "Baajefu ojichan = \"Uncle Barjeff\" (affectionate, not a relative). No sentence end before the third {w} in the source either."
+ },
+ {
+  "en": "\"...Noraaa?{w}Doesn't putting on panties\ncount as dressing up?\"{w}{p}\"I'd really like to see you in panties, Nora.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yuna doesn't give me pocket money, debu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's not the point!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Like I keep telling you, Noraaa!\nPanties!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Geez, Yuna, you worry way too much\nabout every little thing, debu?{w}Just take it easy, debuu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Sigh.{w}Customer, please say something to her too.\"{w}{p}\"She's a girl, you know?{w}This just won't do...\"{w}{p}\"Hmm... customer,{w}would you happen to know anywhere that makes\npanties Nora could wear?\"{w}{p}\"We'll pay for them,\nso if it's not too much trouble, could you bring some here?\"{w}{p}\"...Before dressing up,{w}she needs to put on panties first...\"{w}",
+  "kind": "msg",
+  "note": "\"her\"/\"she\" for Nora: Yuna states in this row that Nora is a girl (onna no ko). Starts the panties fetch-quest."
+ },
+ {
+  "en": "\"I'm fine without panties, debu?{w}Why do you worry about it so much, Yuna, debu?{w}You should take your panties off too, Yuna, debuu!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa, they're huge... these are panties...?{w}But something this big\nshould fit even Nora!\"{w}{p}\"Noraaa!\"{w}",
+  "kind": "msg",
+  "note": "The party hands over the panties they found."
+ },
+ {
+  "en": "\"What is it, debu?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nora,{w}panties! P-A-N-T-I-E-S!\"{w}",
+  "kind": "msg",
+  "note": "Pa-n-tsu spelled out syllable by syllable; rendered as spelling out the word."
+ },
+ {
+  "en": "\"...They're not very cute, debuu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll make them cute for you one of these days,{w}so come on, let's put them on, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Yep, they suit you, they suit you!{w}You look adorable!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Debuu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, Nora!\nWait, stop a sec!{w}I hear a nasty sound...... Ahh!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "RRRIP-RIP-RIP-RIP!{w}",
+  "kind": "msg",
+  "note": "Sound effect (biribiri = tearing cloth)."
+ },
+ {
+  "en": "\"...They ripped, debu.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aww, no! Hmm,{w}I guess even these were too small...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's better with no panties at all, debuu!{w}I don't mind, debuu!\"{w}{p}\"If you don't wear any either, Yuna,\nyou won't mind either, debuu!\"{w}",
+  "kind": "msg"
+ }
+]

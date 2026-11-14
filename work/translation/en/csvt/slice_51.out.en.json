@@ -1,0 +1,42 @@
+[
+ {
+  "en": "Enemies flee",
+  "kind": "desc",
+  "note": "[JP] read as the enemy side (battle tarot used against opponents)."
+ },
+ {
+  "en": "Fully restores allies' HP",
+  "kind": "desc",
+  "note": "Wording matches csvt slice_19 'Fully restores one ally's HP.'"
+ },
+ {
+  "en": "Weak near death; turn ends",
+  "kind": "desc",
+  "note": "[JP] (the weak) kept unspecific: it is not clear whether it hits weak enemies, weak allies or both. [JP] = brought to the brink of death. Verb compressed to fit 26 bytes."
+ },
+ {
+  "en": "All lose def. resistances",
+  "kind": "desc",
+  "note": "Matches EBOOT battle message 'Everyone's defensive resistances vanished' (ebt slice_11); [JP] = everyone on both sides."
+ },
+ {
+  "en": "Magic Drain",
+  "kind": "name",
+  "note": "Trap: every spell level loses 1 MP, whole party."
+ },
+ {
+  "en": "Spell Blaster",
+  "kind": "name",
+  "note": "Kept the source's 'Spell' (not Wizardry's 'Mage Blaster'); hits those who know mage spells."
+ },
+ {
+  "en": "Priest Blaster",
+  "kind": "name",
+  "note": "Hits those who know priest spells."
+ },
+ {
+  "en": "Counter Punch",
+  "kind": "name",
+  "note": "Trap: instant death to the opener."
+ }
+]

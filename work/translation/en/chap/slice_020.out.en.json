@@ -1,0 +1,385 @@
+[
+ {
+  "en": "There is an inscription here.{w}{p}Mysterious numbers are carved into its surface.{w}{p}{0E}                                  *  714631.825  *\n\n    61045023  >{0F}{w}",
+  "kind": "msg",
+  "note": "Number puzzle: digits, \".\" and \">\" kept exactly, converted to ASCII; line 1 centred, line 2 indented a little like the source."
+ },
+ {
+  "en": "* Dukes' Territory *",
+  "kind": "op096",
+  "note": "New area name: dyukusu teritori = \"Dukes' Territory\" (the zone of the archdukes, daimakou, whose bosses follow). Plural possessive because of the -su ending."
+ },
+ {
+  "en": "{0E}\n                        This Lovable, Unclean World{0F}{w}",
+  "kind": "msg",
+  "note": "Title card: full-width centring replaced by leading ASCII spaces (measured with text_build.text_width), leading blank line kept as in chap slice_002; a fresh banner, not an echo of the previous row. aisubeki fujou naru sekai."
+ },
+ {
+  "en": "You heard a high-pitched laugh.{w}{p}A figure slowly took shape in the empty air...{w}and suddenly a stench stung your noses.{w}{p}Poison? All at once, you found it hard to breathe.{w}",
+  "kind": "msg",
+  "note": "takawarai = loud, haughty laughter."
+ },
+ {
+  "en": "The back of your throat turned raw and scratchy,\nand breathing grew difficult.{w}What could have come over you so suddenly?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Fighting the discomfort, you looked toward the source of the smell{w}and saw a man, contentedly bathing in hot water.{w}Hot water? That must be what was causing the stench.{w}",
+  "kind": "msg",
+  "note": "Boss = Castromandy (MON_TEXT 309: bathes in human excrement). The text only hints, so kept the hint (\"hot water? ... the stench\"); final period added (source has none)."
+ },
+ {
+  "en": "Lover of Filth",
+  "kind": "name",
+  "note": "fujou wo aisuru mono (name box). Lover of Filth, 14 chars."
+ },
+ {
+  "en": "\"Come on, come a little closer.{w}It's all right, I won't do anything. Okay?{w}By the way, are there any women among you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\n     Where the Candelabra Shines, a Gentleman Stands{0F}{w}",
+  "kind": "msg",
+  "note": "Title card: full-width centring replaced by leading ASCII spaces (measured with text_build.text_width), leading blank line kept as in chap slice_002; a fresh banner, not an echo of the previous row."
+ },
+ {
+  "en": "Flames... one, two, three.{w}The moment the three flames flickered,\na gentleman emerged from the depths of a cloak.{w}{p}His head, however, was a candelabra.{w}",
+  "kind": "msg",
+  "note": "\"His\" from the source's shinshi (gentleman). Final period added."
+ },
+ {
+  "en": "\"Welcome! I am Menolist!\"{w}{p}\"Ah, but what a cruel turn of events!{w}My long-awaited guests, and they turn out to be you!\"{w}{p}\"I'm afraid I must ask you to die!{w}My apologies for dragging you\ninto this little hobby of mine.\"{w}{p}\"At the very least, allow me to kill you swiftly!\"{w}",
+  "kind": "msg",
+  "note": "New name: Menolist (MONSTER3 / MON_TEXT 310: a gentleman archduke who wants duels, except against people of the new lands -- hence his disappointment). sekkaku no kyakujin = guests he had looked forward to."
+ },
+ {
+  "en": "{0E}\n          Built XXXX, Reinforced-Adductor Clamshell{0F}{w}",
+  "kind": "msg",
+  "note": "Real-estate listing parody: chiku XXXX-nen (built in year XXXX) + kaigara heikakukin kenchiku, a pun on tekkin (reinforced concrete) construction with heikakukin = adductor muscle. Rendered \"Built XXXX, Reinforced-Adductor Clamshell\" to keep the pun; x-marks turned into XXXX. Title card: full-width centring replaced by leading ASCII spaces (measured with text_build.text_width), leading blank line kept as in chap slice_002; a fresh banner, not an echo of the previous row."
+ },
+ {
+  "en": "A clam was walking along.{w}When its shell opened, a huge eyeball looked out of the gap.{w}It glared at you.{w}{p}Its gaze was overwhelming, arrogant.{w}You felt as though you were being appraised\ndown to your guts, right into your pores.{w}",
+  "kind": "msg",
+  "note": "Final period added after \"glared at you\" (source has none before {w}{p})."
+ },
+ {
+  "en": "Fanisakil",
+  "kind": "name",
+  "note": "New name: Fanisakil (fanisakiru; MON_TEXT 305: a parasite archduke currently living in a bivalve)."
+ },
+ {
+  "en": "\"Hmm? Well, I suppose you'll do.{w}Oh, and take all that weird junk off.{w}It's in the way.\"{w}",
+  "kind": "msg",
+  "note": "mazu konna tokoro ka = sizing the party up (\"you'll do\"). sono hen na mono = their equipment, presumably; kept vague as \"weird junk\". Fanisakil is a parasite, so the demand is sinister; gender unknown, no pronouns used."
+ },
+ {
+  "en": "{0E}\n                                 !Ponyapo-nyapo!{0F}{w}",
+  "kind": "msg",
+  "note": "Source banner is the nonsense chant \"!ponyaa-poonyapo!\". Title card: full-width centring replaced by leading ASCII spaces (measured with text_build.text_width), leading blank line kept as in chap slice_002; a fresh banner, not an echo of the previous row."
+ },
+ {
+  "en": "Something delicious-looking was dancing.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Ponyapo",
+  "kind": "name",
+  "note": "New name: Ponyapo (ponyaapo). Joke monster; MON_TEXT 311 describes it with the same deadpan."
+ },
+ {
+  "en": "\"I am Ponyapo! Ponyapo is the one and only, the\ngreatest Ponyapo! Being Ponyapo leads to the\nhappiness of all creation!\"{w}{p}\"And Ponyapo shall make all the world Ponyapo,\nmass-producing Ponyapo of Ponyapo, by Ponyapo,\nfor Ponyapo, and Ponyapo shall become Ponyapo!\"{w}{p}\"!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!?!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\"{w}",
+  "kind": "msg",
+  "note": "Gibberish speech. \"ponyaapo ni yoru ponyaapo no tame no ponyaapo\" parodies \"of the people, by the people, for the people\" -> \"Ponyapo of Ponyapo, by Ponyapo, for Ponyapo\". Source fills each page with exactly 3 lines, so explicit \\n kept to give the same wall-of-text look; the \"!\" page keeps its single \"?\" in the middle of line 2. The \"!\" lines are padded to about 330 px (\"!\" is 3 px wide) to mirror the full-width wall; all explicit lines checked < 376 px."
+ },
+ {
+  "en": "{0E}\n                             The Prodigy's Canvas{0F}{w}",
+  "kind": "msg",
+  "note": "kisai = eccentric genius. Title card: full-width centring replaced by leading ASCII spaces (measured with text_build.text_width), leading blank line kept as in chap slice_002; a fresh banner, not an echo of the previous row."
+ },
+ {
+  "en": "A man was painting in silence.{w}One stroke made the sky, one stroke made the earth,{w}and in no time at all the picture was complete.{w}{p}Looking closer, you saw that it couldn't be held by the canvas;{w}his painting had splattered everywhere around it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Giant Painter",
+  "kind": "name",
+  "note": "kyodai na gaka. MON_TEXT 306: court painter of the giants (Allied Painter in the bestiary)."
+ },
+ {
+  "en": "\"Just when I thought I'd run out of the color of life,\nhere you come right on cue. Such is my genius!{w}Hey, paint's not supposed to run away, got it?\"{w}",
+  "kind": "msg",
+  "note": "Source lacks the closing quote bracket; added it in English. wagahai = pompous \"I\". The party is his \"paint\" (seimei no iro = color of life, i.e. their blood)."
+ },
+ {
+  "en": "{0E}\n                                 Garden of Flesh{0F}{w}",
+  "kind": "msg",
+  "note": "nikukai kaen. Title card: full-width centring replaced by leading ASCII spaces (measured with text_build.text_width), leading blank line kept as in chap slice_002; a fresh banner, not an echo of the previous row."
+ },
+ {
+  "en": "A writhing mass of flesh.{w}{p}Yet its surface was as smooth as a baby's,{w}and the contrast was almost revolting.{w}{p}Its mouth was tiny for all that flesh;{w}it was saying something, but the thick flesh swallowed the sound and you could barely make any of it out.{w}",
+  "kind": "msg",
+  "note": "First sentence kept as a verbless fragment, like the source."
+ },
+ {
+  "en": "Lump of Flesh",
+  "kind": "name",
+  "note": "nikukai (name box)."
+ },
+ {
+  "en": "\"...is what you'd think, right?{w}You feeble little things.{w}See, with a single swing like this...\"{w}",
+  "kind": "msg",
+  "note": "Starts mid-sentence on purpose: the previous row says its words are swallowed by the flesh, so you only catch the end. Trailing-off ending kept."
+ },
+ {
+  "en": "{0E}\n                Multi-Dimensional Stacked Residence{0F}{w}",
+  "kind": "msg",
+  "note": "tajigen-sou-shiki juukyo: real-estate style label. Title card: full-width centring replaced by leading ASCII spaces (measured with text_build.text_width), leading blank line kept as in chap slice_002; a fresh banner, not an echo of the previous row."
+ },
+ {
+  "en": "A presence of unearthly menace,{w}its massive body twisted and contorted,\nwas poking its face out of a tiny burrow.{w}{p}Where and how did that body fit inside?{w}Surely it worked by some law\nbeyond all reckoning.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Burrow Peeker",
+  "kind": "name",
+  "note": "suana kara kao wo dasu mono = \"one who pokes its face out of the burrow\"; shortened for the name box (13 chars)."
+ },
+ {
+  "en": "\"Whoa there! No peeking inside!{w}What else do you think is going to come out?{w}Some candy? Some flowers?\"{w}{p}\"Or maybe... monsters?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\n                    Smells good... Is it stew tonight?{0F}{w}",
+  "kind": "msg",
+  "note": "Title card: full-width centring replaced by leading ASCII spaces (measured with text_build.text_width), leading blank line kept as in chap slice_002; a fresh banner, not an echo of the previous row."
+ },
+ {
+  "en": "A lump of metal was floating before your eyes.{w}There was a slit in it.{w}{p}Peering through the slit, you saw a room with a fireplace, and an old couple relaxing inside.{w}{p}Puffing on his pipe, the old man spoke.{w}",
+  "kind": "msg",
+  "note": "\"his\" from roujin/rou-fuufu (old man of an old married couple; next speaker is roubaa, old woman)."
+ },
+ {
+  "en": "Old Man",
+  "kind": "name"
+ },
+ {
+  "en": "\"Welcome, from so very far away.{w}You must be weary. Do come in, please.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's still some of the pie I baked this morning.{w}Do you like meat pie?{w}I'll warm it up for you right now.\"{w}",
+  "kind": "msg",
+  "note": "Speaker roubaa (Old Woman; its name row is translated elsewhere)."
+ },
+ {
+  "en": "{0E}\n                               Smog the Legdars{0F}{w}",
+  "kind": "msg",
+  "note": "sumoggu za reggudaasu. The bestiary spells the boss rekkudaasu (MON_TEXT 300), the banner reggudaasu; romanized the banner as written: \"Legdars\". New name -- unify with the monster table if it becomes \"Reckdars\"."
+ },
+ {
+  "en": "The fog was thick.{w}It seemed the thing at the heart of the fog{w}was where it came from.{w}{p}All sorts of shadows flickered in the fog.{w}With every passing moment, they changed shape.{w}{p}When the source waved a finger, the shadows vanished.{w}Perhaps even the source itself\nwas only an illusion.{w}{p}As if it had read that thought,\nthe source blasted out a great burst of fog.{w}And it grinned.{w}",
+  "kind": "msg",
+  "note": "hasseigen = \"the source\" (of the fog), kept as the narration's label for the creature. shinri (psychology) read as \"that thought\". niyari to warau given the subject \"it\"."
+ },
+ {
+  "en": "{0E}\n                  Within the Womb of the Demon Milk{0F}{w}",
+  "kind": "msg",
+  "note": "mamyuu no tainai. mamyuu is the epithet of the boss (MONSTER3: mamyuu Sarebos, a wet-nurse archduke); \"Demon Milk\" literal. Title card: full-width centring replaced by leading ASCII spaces (measured with text_build.text_width), leading blank line kept as in chap slice_002; a fresh banner, not an echo of the previous row."
+ },
+ {
+  "en": "You heard a voice.{w}A groan? A scream? A moan?{w}{p}Your eyes darted toward the voice,{w}and there you saw a giant pregnant woman.{w}{p}It seemed that whatever she said,{w}it all came out sounding like that.{w}You couldn't tell what she was trying to say.{w}{p}But in her glittering eyes\nyou saw no friendly light.{w}",
+  "kind": "msg",
+  "note": "\"she\" from the source (ninpu, kanojo)."
+ },
+ {
+  "en": "{0E}\n                   Sing! Sing of This Sorrow and Joy!{0F}{w}",
+  "kind": "msg",
+  "note": "utae! kono nageki to yorokobi wo! Title card: full-width centring replaced by leading ASCII spaces (measured with text_build.text_width), leading blank line kept as in chap slice_002; a fresh banner, not an echo of the previous row."
+ },
+ {
+  "en": "You heard singing.{w}The singer was drawing steadily closer.{w}{p}You couldn't even tell what language it was in,{w}yet you could recognize it as a 'song.'{w}For whom was he singing?{w}{p}The song grew louder still,{w}and you were swallowed up by it.{w}",
+  "kind": "msg",
+  "note": "\"he\" from the source (kare). The single-quoted 'song' mirrors the source's quote brackets."
+ },
+ {
+  "en": "{0E}\n           The Hour the Shining Twin Serpents Dance{0F}{w}",
+  "kind": "msg",
+  "note": "hikaru sooja ga odoru toki. Title card: full-width centring replaced by leading ASCII spaces (measured with text_build.text_width), leading blank line kept as in chap slice_002; a fresh banner, not an echo of the previous row."
+ },
+ {
+  "en": "There were two great serpents.{w}The pair were entwined as if dancing,{w}so that they even looked like a single pillar.{w}{p}The two did not speak.{w}But the sound of their dancing, rubbing bodies{w}told you one simple fact.{w}{p}You are 'food.'{w}",
+  "kind": "msg",
+  "note": "Last line kept in present tense (\"You are 'food.'\") as the fact the serpents convey."
+ },
+ {
+  "en": "{0E}\n                                  Trapania Mighty{0F}{w}",
+  "kind": "msg",
+  "note": "torapania maitii, romanized. Boss is apparently Taizalti (MON_TEXT 312). Title card: full-width centring replaced by leading ASCII spaces (measured with text_build.text_width), leading blank line kept as in chap slice_002; a fresh banner, not an echo of the previous row."
+ },
+ {
+  "en": "How should one even describe him?{w}By any measure, a mollusk.{w}And yet you sensed a tremendous charisma.{w}{p}Clattering the countless arrows that ran through his head as if they were fangs,{w}he spoke to you like a friend of ten-odd years.{w}",
+  "kind": "msg",
+  "note": "Source says yumi (bows) piercing the head; rendered \"arrows\" because the bestiary (MON_TEXT 312) says the things in its head are arrows (ya) from a fight with Polyte, and bows cannot pierce a head. \"him/he\" from the source (kare)."
+ },
+ {
+  "en": "?Mollusk?",
+  "kind": "name",
+  "note": "Name box ?nantai doubutsu? kept with its question marks."
+ },
+ {
+  "en": "\"To think you made it thith far...{w}...Forgive me, talking ith a little hard for me.\"{w}{p}\"Talented people are treathureth,{w}and I theek them out, whatever their rathe.{w}Treating them with contempt ith thimply foolish.\"{w}{p}\"Now then, let'th have a little practical exam.{w}Don't dithappoint me, will you?\"{w}",
+  "kind": "msg",
+  "note": "Speech impediment: source garbles sentence endings (da -> fa, masu -> fu, yo -> hyo) because of the arrows through his head, and says talking is hard. Rendered as a consistent s -> th lisp so it stays readable; adjust if a different style is preferred."
+ },
+ {
+  "en": "{0E}\n                             The Old Blade's Reach{0F}{w}",
+  "kind": "msg",
+  "note": "rouha no maai: maai = striking distance. Title card: full-width centring replaced by leading ASCII spaces (measured with text_build.text_width), leading blank line kept as in chap slice_002; a fresh banner, not an echo of the previous row."
+ },
+ {
+  "en": "An old man was sitting quietly.{w}{p}He gave off a presence as though\nhe had been sitting there\nfor hundreds of years.{w}{p}The old man's eyes slowly opened{w}and fixed upon you.{w}!!!!!!!!!!!!!!!{w}",
+  "kind": "msg",
+  "note": "15 \"!\" as in the source."
+ },
+ {
+  "en": "Ebirahan",
+  "kind": "name",
+  "note": "New name: Ebirahan (MON_TEXT 314: his jaw drops with a \"Vaa!\" before he slaughters)."
+ },
+ {
+  "en": "\"VAAAH!!!\"{w}",
+  "kind": "msg",
+  "note": "vaa! = the jaw-drop cry from the bestiary. Caps for the roar."
+ },
+ {
+  "en": "{0E}The presence of darkness has grown thicker.{0F}\nWithout enough strength, experience and resolve,\nit would be dangerous to go any further. {w}",
+  "kind": "msg",
+  "note": "Floor warning; highlighted first sentence kept inside {0E}..{0F}; \"presence of darkness\" as in wmap slice_02 row 119. Trailing space before {w} kept as in the source."
+ },
+ {
+  "en": "When you reached the Sanctum of Genesis,\nZaalhaut was waiting for you, looking impatient.{w}",
+  "kind": "msg",
+  "note": "New term: seisouken = \"Sanctum of Genesis\" (sei holy + sou creation + ken sphere; 18 chars, fits the DGN_NAME dungeon-name max of 18)."
+ },
+ {
+  "en": "\"Just how long do you intend to keep ME waiting!?\"{w}",
+  "kind": "msg",
+  "note": "kono washi wo = \"me, of all people\" -> stressed ME."
+ },
+ {
+  "en": "\"Listen well. There is something\nI need you to obtain.\"{w}{p}\"Defeat every one of the Qualia that guard\nthis Sanctum of Genesis, and claim their ranks.\"{w}{p}\"Bear those ranks into the Coronation Hall,\nand you can gain the Sun's Light Rank.\"{w}{p}\"With the Sun's Light Rank,\nRafa can be made a true Sun Spirit.\"{w}{p}\"Come on, let's get moving.\nWe can't stay here for long, you know.\"{w}",
+  "kind": "msg",
+  "note": "New terms: kuoria = \"Qualia\" (Red/Blue/... Qualia in EL_KIRO/MONSTER3; used as a count noun, same form singular and plural); kurai = \"rank\"; taikan no ma = \"Coronation Hall\"; taiyou no koui = \"the Sun's Radiant Rank\"; taiyousei = Sun Spirit (existing). Last page identical to row 1644 on purpose."
+ },
+ {
+  "en": "\"Come on, let's get moving.\nWe can't stay here for long, you know.\"{w}",
+  "kind": "msg",
+  "note": "Same source text as the last page of row 1643; English kept identical."
+ },
+ {
+  "en": "\"This is the Sanctum of Genesis, ruled by the Light of All Knowledge.{w}Beings such as you\nwill not be permitted to go one step further.\"{w}{p}\"Let me say this at the outset:\nthere is no room whatsoever for discussion.{w}You will be eliminated without delay.\"{w}{p}\"Entering this place,\nhaving come this far at all --\nthat alone warrants elimination.\"{w}{p}\"Commencing elimination.{w}Be burned by the holy light, and vanish.\"{w}",
+  "kind": "msg",
+  "note": "No speaker name (6 reuses; likely the Qualia guardians). New term: banchi no hikari = \"the Light of All Knowledge\". Cold, formal register."
+ },
+ {
+  "en": "* The light enveloped you *{0F}{w}",
+  "kind": "op096",
+  "note": "Stray {0F} with no {0E} kept as in the source. Source typo (tsutsumikomikonda) ignored."
+ },
+ {
+  "en": "{0E}\n                                  Within the Light{0F}{w}",
+  "kind": "msg",
+  "note": "hikari no naka. Title card: full-width centring replaced by leading ASCII spaces (measured with text_build.text_width), leading blank line kept as in chap slice_002; a fresh banner, not an echo of the previous row."
+ },
+ {
+  "en": "The light from the upper level has grown stronger.{w}With Zaalhaut gone,\nit would be dangerous for you to go on alone.{w}",
+  "kind": "msg",
+  "note": "jousou = upper level (DGN_NAME: Sanctum upper/middle/lower floors)."
+ },
+ {
+  "en": "\"That will be quite enough mischief, if you please.\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? (an Opinion Bit, revealed in row 1652)."
+ },
+ {
+  "en": "Turning toward the voice, you saw strange beings clad in light.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is the Sanctum of Genesis, ruled by the Light of All Knowledge.{w}It is no place for those like yourselves,\nwhose soles are soiled with mud.\"{w}",
+  "kind": "msg",
+  "note": "First sentence worded exactly as row 1645 (same Japanese)."
+ },
+ {
+  "en": "\"So you've shown up again...{w}Opinion Bit...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Opinion Bit",
+  "kind": "name"
+ },
+ {
+  "en": "\"...Oh? How very odd.{w}You came to the Sanctum of Genesis last time as well, did you not?\"{w}{p}\"Why would you try to throw away\nthe life you were lucky enough to keep?\"{w}",
+  "kind": "msg",
+  "note": "Addressed to Zaalhaut (anata written with the female kanji in the source; English \"you\" needs no gender). hirotta inochi = a life narrowly saved."
+ },
+ {
+  "en": "\"Heh heh. I left a little something behind, you see.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see. So this time you mean to use these people as a shield to reach the Coronation Hall.\"{w}",
+  "kind": "msg",
+  "note": "sono monodomo = slightly disdainful \"those ones\"; kept neutral as \"these people\"."
+ },
+ {
+  "en": "\"No, you're wrong, Opinion Bit.{w}I'm the one who'll be dealing with you lot.\nThey're the ones heading to the Coronation Hall.\"{w}",
+  "kind": "msg",
+  "note": "omaetachi = the Opinion Bits (plural, there are several) -> \"you lot\"."
+ },
+ {
+  "en": "\"Allow me to confirm: you were nearly killed\nby us once before, were you not?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aye, that's right. What of it?\"{w}",
+  "kind": "msg",
+  "note": "\"sono toori da ga\" -- trailing \"ga\" (but...) rendered as \"What of it?\"."
+ },
+ {
+  "en": "\"Please wait a moment.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Opinion Bits each began to give off light\nand started exchanging auras.{w}{p}Before long, the Opinion Bits\nall turned toward Zaalhaut at once.{w}",
+  "kind": "msg",
+  "note": "Parallel narration in slice_021 row 1668 (\"again...\"); keep the wording aligned there."
+ },
+ {
+  "en": "\"..........{w}...We have reached the conclusion that this cannot be understood.\"{w}{p}\"We will set this topic aside.{w}Now, let us proceed with your elimination.\nAnd after that, everyone behind you.\"{w}",
+  "kind": "msg",
+  "note": "gidai wo kaihi shimasu = \"We will set this topic aside\" -- recurs in slice_021 rows 1669 and 1676; keep the same wording. Speaking to Zaalhaut; \"sono ushiro no minasama\" = the party."
+ },
+ {
+  "en": "Magic power enough to make you freeze in your tracks began to gather around the Opinion Bits.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Opinion Bit.\"{w}",
+  "kind": "msg",
+  "note": "Vocative \"Opinion Bit yo\" -- a calm call for attention before the riddle."
+ },
+ {
+  "en": "\"Yes? What is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The longer it grows, the closer it gets to the ground...{w}Do you know what it is?\"{w}",
+  "kind": "msg",
+  "note": "Riddle; answer \"Hair\" comes in slice_021 row 1670. Worded so \"hair\" works as the answer."
+ },
+ {
+  "en": "The Opinion Bits stopped moving.{w}",
+  "kind": "msg"
+ }
+]

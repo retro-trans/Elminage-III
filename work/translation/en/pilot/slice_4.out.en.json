@@ -1,0 +1,422 @@
+[
+ {
+  "id": "91101-ARG_TOP_IN.bin@85464",
+  "en": "???",
+  "kind": "name",
+  "note": "Speaker is Electra (named at row 262); ??? kept because the game hides the name here."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8546d",
+  "en": "\"Mig, will you just listen to me!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8549e",
+  "en": "Mig",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@854a5",
+  "en": "\"No way! I'm not sleeping in a stable! That's what happened in Perpeco too!\"{w}",
+  "kind": "msg",
+  "note": "Kept 'that's what happened' rather than naming who made Mig sleep in a stable; the source does not say."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8550a",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85513",
+  "en": "\"This is a fortress city! It's not like the village! Everything here costs money...\"{w}",
+  "kind": "msg",
+  "note": "Deliberate trail-off kept (Mig cuts in)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8556c",
+  "en": "Mig",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85573",
+  "en": "\"That's a lie! This dragon geezer is just being mean!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@855be",
+  "en": "Zeppo",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@855c7",
+  "en": "\"It's Zeppo, y'know. Slurrrp... Ahh, tea sure is tasty.\"{w}",
+  "kind": "msg",
+  "note": "Zeppo corrects 'dragon geezer' with his own name; zuzuu rendered as the word 'Slurrrp'."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85616",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8561f",
+  "en": "\"What's going on, gramps?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8564e",
+  "en": "Zeppo",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85657",
+  "en": "\"They're squabblin' over where to stay tonight. That horse there, Mig or some such, is throwin' a tantrum, sayin' 'I won't sleep in a stable.'\"{w}",
+  "kind": "msg",
+  "note": "Japanese double-corner quote rendered as single quotes inside the line. No pronoun used for Mig."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@856dc",
+  "en": "Mig",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@856e3",
+  "en": "\"I'm not a horse! I'm a unicorn!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8571e",
+  "en": "Zeppo",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85727",
+  "en": "\"Ehh, what's that? This dragon geezer's hard of hearin'... Can't hear ya! Kwah kwah kwah!\"{w}",
+  "kind": "msg",
+  "note": "Laugh kuwa-kuwa-kuwa kept as 'Kwah kwah kwah' (Zeppo's laugh); same at row 285."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@857a0",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@857a9",
+  "en": "\"You're a horse, so you sleep in the stable! We don't have any money!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@857fa",
+  "en": "Mig",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85801",
+  "en": "\"No way, never! I'm staying in the royal suite with Electra! Or else I'll sleep outside!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85872",
+  "en": "Electra",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8587f",
+  "en": "\"Stop being so selfish!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@858ac",
+  "en": "Zeppo",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@858b5",
+  "en": "\"Well, it's just a lovers' spat, I reckon. ...So, who might you folks be? New adventurers?\"{w}",
+  "kind": "msg",
+  "note": "anta-tachi = the player party."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8591b",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85924",
+  "en": "\"Yeah. I'm showing them around town. This is old Zeppo. He runs the inn.\"{w}",
+  "kind": "msg",
+  "note": "'He' for Zeppo: established as male by jii-san / jijii."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8597d",
+  "en": "Zeppo",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85986",
+  "en": "\"Ho ho. Pleased to meet ya. Mind you, if you're stayin', make it the stable, eh?\"{w}{p}\"You wouldn't be so cruel as to make this old body fix beds for a whole crowd, or cook your meals, or heat the bath, now would ya?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85a59",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85a62",
+  "en": "\"He says that, but he's a dragonewt, y'know.\"{w}{p}\"He's got way more energy than any of us, so don't worry about it.{w}Stay in the suite or wherever you like -- go wild.\"{w}",
+  "kind": "msg",
+  "note": "Full-width indent after the inner {w} dropped per brief."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85b15",
+  "en": "Zeppo",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85b1e",
+  "en": "\"Why, you...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85b41",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85b4a",
+  "en": "\"But money's gonna be tight for a while when you're starting out, so you're better off using the stable, since it's free.{w}You can at least recover your spell and skill power there.\"{w}",
+  "kind": "msg",
+  "note": "'dake wa' = spell/skill power at least recovers in the stable (implying HP does not)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85bea",
+  "en": "Electra",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85bf7",
+  "en": "\"See? Even the traveling merchant over there is saying so!\"{w}",
+  "kind": "msg",
+  "note": "ryoushou-san (traveling merchant) = Hanoi."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85c40",
+  "en": "Mig",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85c47",
+  "en": "\"No, no, no! I won't, not ever!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85c7c",
+  "en": "Zeppo",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85c85",
+  "en": "\"Stable's open~ Only 0 GP~\"{w}",
+  "kind": "msg",
+  "note": "Uses ASCII '~' for the sing-song wave dash; check the font has a glyph for it."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85cc4",
+  "en": "Mig",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85ccb",
+  "en": "\"Shut up, geezer!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85cf4",
+  "en": "Zeppo",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85cfd",
+  "en": "\"Kwah kwah kwah!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85d4e",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85d57",
+  "en": "\"As you can see, you're not the only adventurers around.{w}You might run into them in all sorts of places, so if you hit it off, it's worth making friends.\"{w}{p}\"All right, next up is Kembeck's Shop. Go on in, go on in.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85e33",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85e3c",
+  "en": "\"...Ah, welcome.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85e6b",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85e74",
+  "en": "\"Hiya.{w}This is Gia, the owner. She buys up the goods I bring in.\"{w}",
+  "kind": "msg",
+  "note": "'She' for Gia: established by rows 306-312 (Toner calls Gia Mom) and slice 5 row 334."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85ee1",
+  "en": "Gia",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85ee8",
+  "en": "\"I'm Gia. Nice to meet you. I haven't got anything special, but take your time.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85f3f",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85f48",
+  "en": "\"The stuff Gia and I can get hold of is mostly just standard gear made for adventurers, plus consumables.\"{w}{p}\"Magic weapons and armor, or powerful magic items -- you'll have to find those yourselves on your journey.\"{w}{p}\"There is one thing I'd really recommend, though. Gia, you've still got it, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86069",
+  "en": "Gia",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86070",
+  "en": "\"That one? All right, let me bring it out.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@860a3",
+  "en": "Gia went into the back of the shop and brought out a two-handed sword, handling it as if it were something precious.{w}",
+  "kind": "msg",
+  "note": "Narration; nanyara taisetsu-sou ni = handling it as if precious."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8610c",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86115",
+  "en": "\"This is a Flamberge.{w}Beautiful, huh? It's a strong sword in its own right, but use it in battle and it shoots out flames.\"{w}",
+  "kind": "msg",
+  "note": "Flamberge: standard English name for this wavy-bladed sword (new item name)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8617a",
+  "en": "Gia",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86181",
+  "en": "\"It's a bit pricey, but it's a fine blade. Of everything I've got in stock right now, this is the best.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@861fe",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86207",
+  "en": "\"Gia dug this up at a junk market, you know.\"{w}{p}\"Her eye for appraisal is reliable, so if you get hold of an item you can't identify, try asking her.\"{w}",
+  "kind": "msg",
+  "note": "kantei = Wizardry-style identify/appraise."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@862b9",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@862c2",
+  "en": "\"Mo-o-om! Did the Blue Rain come in yet?\"{w}",
+  "kind": "msg",
+  "note": "Speaker is Toner (named in slice 5 row 320); gender unknown, no pronouns used."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86305",
+  "en": "Gia",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8630c",
+  "en": "\"Welcome home. It hasn't come in yet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8633f",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86348",
+  "en": "\"Whaaat, not yet!?{w}It doesn't have to be something for sale...{w}What about yours, Mom? You don't have any? None at all?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@863c5",
+  "en": "Gia",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@863cc",
+  "en": "\"Goodness, you're a handful. Your mother doesn't wear Blue Rain.\"{w}",
+  "kind": "msg",
+  "note": "Blue Rain takes the verb haku (worn on the legs/feet: pants, skirt, shoes); kept generic 'wear'. Gia calls herself okaasan, rendered 'Your mother'."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8641d",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86426",
+  "en": "\"Why not!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8644d",
+  "en": "Gia",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86454",
+  "en": "\"Th-that'd be wrong in all sorts of ways, surely.\"{w}",
+  "kind": "msg",
+  "note": "Implies Blue Rain is risque for a mother to wear; kept the hint without explaining it."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@86485",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8648e",
+  "en": "\"Yo.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@864ab",
+  "en": "???",
+  "kind": "name",
+  "note": "Toner (named row 320)."
+ }
+]

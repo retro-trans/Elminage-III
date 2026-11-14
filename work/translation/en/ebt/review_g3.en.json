@@ -1,0 +1,1891 @@
+[
+ {
+  "en": "Leanmakana Mountains",
+  "kind": "ui",
+  "note": "Glossary. 20 chars vs 16-column source; no hard limit set."
+ },
+ {
+  "en": "Roscadil",
+  "kind": "ui",
+  "note": "Glossary."
+ },
+ {
+  "en": "Perpeco Forest",
+  "kind": "ui",
+  "note": "Glossary Perpeco + corpus."
+ },
+ {
+  "en": "Crotoa City Ruins",
+  "kind": "ui",
+  "note": "Corpus spelling."
+ },
+ {
+  "en": "Lumisthenes",
+  "kind": "ui",
+  "note": "Glossary."
+ },
+ {
+  "en": "Giaf Dunes",
+  "kind": "ui",
+  "note": "Corpus spelling."
+ },
+ {
+  "en": "Santorea Academy",
+  "kind": "ui",
+  "note": "Glossary Santorea + corpus 'Santorea Academy'."
+ },
+ {
+  "en": "Ogre Bay",
+  "kind": "ui",
+  "note": "Corpus spelling."
+ },
+ {
+  "en": "Teridon",
+  "kind": "ui",
+  "note": "Corpus spelling."
+ },
+ {
+  "en": "Miasuna",
+  "kind": "ui",
+  "note": "Corpus spelling (chap, 11 uses); not in glossary."
+ },
+ {
+  "en": "Crystal Labyrinth",
+  "kind": "ui",
+  "note": "Corpus spelling."
+ },
+ {
+  "en": "Rinos Sea Volcano",
+  "kind": "ui",
+  "note": "Corpus spelling. 17 chars vs 14-column source; no hard limit set."
+ },
+ {
+  "en": "Elminage",
+  "kind": "ui",
+  "note": "Corpus (wmap/chap)."
+ },
+ {
+  "en": "Palace of the Sun",
+  "kind": "ui",
+  "note": "Glossary."
+ },
+ {
+  "en": "Fairy Village",
+  "kind": "ui",
+  "note": "Corpus 'the fairy village' (chap slice_018)."
+ },
+ {
+  "en": "Castle of the Wind",
+  "kind": "ui",
+  "note": "Corpus spelling."
+ },
+ {
+  "en": "Sanctum of Genesis",
+  "kind": "ui",
+  "note": "Corpus majority (8) over 'Holy Creation Sphere' (3); needs unifying."
+ },
+ {
+  "en": "Krypton",
+  "kind": "ui",
+  "note": "Not found elsewhere in the corpus; romanized. New term."
+ },
+ {
+  "en": "  Adventurer",
+  "kind": "ui",
+  "note": "Leading full-width space kept as 2 ASCII spaces (same width). Glossary 'adventurer', capitalized as a label."
+ },
+ {
+  "en": "Monster",
+  "kind": "ui",
+  "note": "Pairs with row 1152 (category toggle)."
+ },
+ {
+  "en": "Infinite Magic",
+  "kind": "ui"
+ },
+ {
+  "en": "Cure Level Drain",
+  "kind": "ui"
+ },
+ {
+  "en": "Cure & Heal",
+  "kind": "ui",
+  "note": "Kenkou to kaifuku: kenkou = 'healthy' status (cure ailments), kaifuku = HP recovery."
+ },
+ {
+  "en": "Enemy Loses Spell Resist",
+  "kind": "ui",
+  "note": "Rows 1154-1160 look like a list of effect labels (context unconfirmed); kept as short noun phrases."
+ },
+ {
+  "en": "Party Fully Resists Spells",
+  "kind": "ui",
+  "note": "mikata = own side; rendered 'Party'."
+ },
+ {
+  "en": "Party Evasion Up",
+  "kind": "ui"
+ },
+ {
+  "en": "Enemy Teleport",
+  "kind": "ui",
+  "note": "Ambiguous in source (teleports the enemy vs. enemy's teleport); kept ambiguous."
+ },
+ {
+  "en": "Mimic",
+  "kind": "ui",
+  "note": "Probably also the shared string for the Mimic trap: the trap-name block (rows 1201-1210) has no gap where Mimic would sit, so the compiler likely pooled it here."
+ },
+ {
+  "en": "Strength",
+  "kind": "ui",
+  "note": "Bare 'chikara'. The Tarot list in slice_16 (rows 1268-1287) lacks the card 'chikara', with no gap for it, so this pooled string is very likely the Tarot card Strength too. 'Strength' fits both readings. Stat Strength (wanryoku) is row 1164."
+ },
+ {
+  "en": "Intellect",
+  "kind": "ui"
+ },
+ {
+  "en": "Strength",
+  "kind": "ui",
+  "note": "Stat wanryoku = Strength (as slice_01 row 56)."
+ },
+ {
+  "en": "Piety",
+  "kind": "ui"
+ },
+ {
+  "en": "Vitality",
+  "kind": "ui"
+ },
+ {
+  "en": "Agility",
+  "kind": "ui"
+ },
+ {
+  "en": "Luck",
+  "kind": "ui"
+ },
+ {
+  "en": "None",
+  "kind": "ui",
+  "note": "Element list: none/ice/thunder/holy/dark (fire pooled elsewhere)."
+ },
+ {
+  "en": "Ice",
+  "kind": "ui"
+ },
+ {
+  "en": "Lightning",
+  "kind": "ui",
+  "note": "kaminari; 'Thunder' chosen over 'Lightning' for width. Editorial: unified with row 1326 'Lightning Breath' and slice_14 row 1100 (lead decision: kaminari = Lightning)."
+ },
+ {
+  "en": "Holy",
+  "kind": "ui"
+ },
+ {
+  "en": "Dark",
+  "kind": "ui"
+ },
+ {
+  "en": "Low    ",
+  "kind": "ui",
+  "note": "Chance labels: source pads 'kanarazu' with a full-width space so all four are 6 columns wide. English pads all four to 7 columns (trailing spaces) so they stay equal-width and leave a space before any text that follows."
+ },
+ {
+  "en": "Med    ",
+  "kind": "ui",
+  "note": "See row 1174."
+ },
+ {
+  "en": "High   ",
+  "kind": "ui",
+  "note": "See row 1174."
+ },
+ {
+  "en": "Always ",
+  "kind": "ui",
+  "note": "kanarazu + full-width space; see row 1174."
+ },
+ {
+  "en": "Sleep",
+  "kind": "ui"
+ },
+ {
+  "en": "Poison",
+  "kind": "ui",
+  "note": "moudoku (deadly poison) is the game's poison ailment."
+ },
+ {
+  "en": "Paralysis",
+  "kind": "ui"
+ },
+ {
+  "en": "Silence",
+  "kind": "ui"
+ },
+ {
+  "en": "Confusion",
+  "kind": "ui"
+ },
+ {
+  "en": "Charm",
+  "kind": "ui"
+ },
+ {
+  "en": "Petrification",
+  "kind": "ui",
+  "note": "Proof: glossary status term is the noun \"Petrification\" (glossary row-level fix for this row); matches the noun labels around it."
+ },
+ {
+  "en": "Curse",
+  "kind": "ui"
+ },
+ {
+  "en": "Death",
+  "kind": "ui"
+ },
+ {
+  "en": "Ash",
+  "kind": "ui",
+  "note": "haika = turned to ash."
+ },
+ {
+  "en": "Fear",
+  "kind": "ui"
+ },
+ {
+  "en": "OK",
+  "kind": "ui",
+  "note": "Hiragana status labels (party status column, Wizardry style). kenkou = healthy; 'OK' is the genre convention. Alternative: 'Healthy'."
+ },
+ {
+  "en": "Asleep",
+  "kind": "ui"
+ },
+ {
+  "en": "Poisoned",
+  "kind": "ui"
+ },
+ {
+  "en": "Paralyzed",
+  "kind": "ui",
+  "note": "9 chars vs 8-column source width of the longest label in this list; fallback 'Paralyzd' if the column clips."
+ },
+ {
+  "en": "Silenced",
+  "kind": "ui"
+ },
+ {
+  "en": "Confused",
+  "kind": "ui"
+ },
+ {
+  "en": "Charmed",
+  "kind": "ui"
+ },
+ {
+  "en": "Stoned",
+  "kind": "ui",
+  "note": "sekika = petrified; Wizardry-style 'Stoned' keeps it within 8 columns."
+ },
+ {
+  "en": "Cursed",
+  "kind": "ui"
+ },
+ {
+  "en": "Dead",
+  "kind": "ui"
+ },
+ {
+  "en": "Ashes",
+  "kind": "ui",
+  "note": "haika; Wizardry-style status 'Ashes'."
+ },
+ {
+  "en": "Afraid",
+  "kind": "ui"
+ },
+ {
+  "en": "Flying Stones",
+  "kind": "ui",
+  "note": "Trap names (TRAP.CSV). ishitsubute = thrown stones; damage to one character."
+ },
+ {
+  "en": "Poison Needle",
+  "kind": "ui"
+ },
+ {
+  "en": "Poison Gas",
+  "kind": "ui"
+ },
+ {
+  "en": "Bomb",
+  "kind": "ui"
+ },
+ {
+  "en": "Ghost Horde",
+  "kind": "ui",
+  "note": "bourei no mure; trap drops everyone's HP to one digit."
+ },
+ {
+  "en": "Cobra's Curse",
+  "kind": "ui",
+  "note": "Glossary."
+ },
+ {
+  "en": "Demon's Eye",
+  "kind": "ui",
+  "note": "akuma no medama (eyeball); trap petrifies the party."
+ },
+ {
+  "en": "Urashima's Box",
+  "kind": "ui",
+  "note": "tamatebako: the box from the Urashima Taro tale that ages whoever opens it; this trap adds 1-5 years of age. Alternative: 'Tamatebako'."
+ },
+ {
+  "en": "Goddess's Kiss",
+  "kind": "ui",
+  "note": "Trap: age -1."
+ },
+ {
+  "en": "Teleporter",
+  "kind": "ui"
+ },
+ {
+  "en": "Drain",
+  "kind": "ui",
+  "note": "Skill: lowers the target's level (JOB_EX 94)."
+ },
+ {
+  "en": "Hide",
+  "kind": "ui",
+  "note": "Rows 1212-1233: skill / battle-command names (JOB_EX.CSV)."
+ },
+ {
+  "en": "Steal",
+  "kind": "ui"
+ },
+ {
+  "en": "Strip Gear",
+  "kind": "ui",
+  "note": "soubi kaijo = remove equipment. Sits next to Steal in the thief-type skills, so read as stripping the target's gear. 'Disarm' avoided so it is not confused with trap disarm (row 1243). Unconfirmed."
+ },
+ {
+  "en": "Tarot",
+  "kind": "ui"
+ },
+ {
+  "en": "First Strike",
+  "kind": "ui",
+  "note": "sokkou: lets the Ranger act before the enemy (ITEM_TEXT 393)."
+ },
+ {
+  "en": "Cook",
+  "kind": "ui"
+ },
+ {
+  "en": "Malediction",
+  "kind": "ui",
+  "note": "jugon (spoken curse); inflicts Fear."
+ },
+ {
+  "en": "Corpse Throw",
+  "kind": "ui"
+ },
+ {
+  "en": "Mimicry",
+  "kind": "ui",
+  "note": "monomane: copies an enemy action. 'Mimicry' keeps it distinct from the monster Mimic (row 1161)."
+ },
+ {
+  "en": "War Rite",
+  "kind": "ui",
+  "note": "ikusa no gishiki: raises party attack for that turn."
+ },
+ {
+  "en": "Ki Blast",
+  "kind": "ui",
+  "note": "kikouha: non-elemental damage to one enemy."
+ },
+ {
+  "en": "Haughty Laugh",
+  "kind": "ui",
+  "note": "takawarai: may inflict Fear on all enemies."
+ },
+ {
+  "en": "Song of Healing",
+  "kind": "ui"
+ },
+ {
+  "en": "Song of Ruin",
+  "kind": "ui",
+  "note": "hakai no uta: damages enemies."
+ },
+ {
+  "en": "Song of Warding",
+  "kind": "ui",
+  "note": "mamori no uta: reduces damage."
+ },
+ {
+  "en": "Song of Hope",
+  "kind": "ui",
+  "note": "kibou no uta: cures ailments."
+ },
+ {
+  "en": "Sacrifice",
+  "kind": "ui"
+ },
+ {
+  "en": "Absolute Guard",
+  "kind": "ui",
+  "note": "zettai bouheki (internal name ALL_GUARD): nullifies enemy attacks."
+ },
+ {
+  "en": "Sever Summon",
+  "kind": "ui",
+  "note": "shoukan-dan: kills a summoned monster in one blow."
+ },
+ {
+  "en": "Clone",
+  "kind": "ui",
+  "note": "bunshin: summons your own double into the summon slot."
+ },
+ {
+  "en": "Soul Pact",
+  "kind": "ui"
+ },
+ {
+  "en": "Appraise",
+  "kind": "ui"
+ },
+ {
+  "en": " Reinforce",
+  "kind": "ui",
+  "note": "Battle command list (1234-1240), leading/trailing spaces kept as in source. zouen = call reinforcements (likely the Summoner's call). 10 cols vs 5; fallback ' Backup'."
+ },
+ {
+  "en": " Item",
+  "kind": "ui"
+ },
+ {
+  "en": " Equip",
+  "kind": "ui"
+ },
+ {
+  "en": " Defend ",
+  "kind": "ui"
+ },
+ {
+  "en": " Run ",
+  "kind": "ui"
+ },
+ {
+  "en": " Pursuit ",
+  "kind": "ui",
+  "note": "tsuigeki = follow-up attack on the enemy (pursuit)."
+ },
+ {
+  "en": " Strafe Pursuit ",
+  "kind": "ui",
+  "note": "sousha tsuigeki = sweeping/raking follow-up attack (multi-target variant of 1239). 16 cols vs JP 10; fallback ' Strafe '."
+ },
+ {
+  "en": "Chest TOP",
+  "kind": "ui",
+  "note": "Treasure-chest menu top label (looks like an internal screen name; 'TOP' kept as in source)."
+ },
+ {
+  "en": "Identify Trap",
+  "kind": "ui",
+  "note": "Chest menu (Wizardry-style): identify the trap."
+ },
+ {
+  "en": "Disarm Trap",
+  "kind": "ui"
+ },
+ {
+  "en": "Select Trap Type",
+  "kind": "ui",
+  "note": "Choose which trap you believe it is before disarming."
+ },
+ {
+  "en": "Transform",
+  "kind": "ui",
+  "note": "henshin; starts the list 1245-1256 (target/slot types). Context uncertain."
+ },
+ {
+  "en": "Decided on Use",
+  "kind": "ui",
+  "note": "jikkouji kettei = 'decided at execution time' (target picked when the action runs). Possibly a debug/data label."
+ },
+ {
+  "en": "Out of Range",
+  "kind": "ui"
+ },
+ {
+  "en": "Main",
+  "kind": "ui",
+  "note": "Main weapon slot (cf. slice_01 row 74 main/sub)."
+ },
+ {
+  "en": "Sub",
+  "kind": "ui",
+  "note": "Sub weapon slot."
+ },
+ {
+  "en": "Head",
+  "kind": "ui",
+  "note": "Equipment slot."
+ },
+ {
+  "en": "Body",
+  "kind": "ui",
+  "note": "Equipment slot."
+ },
+ {
+  "en": "Hands",
+  "kind": "ui",
+  "note": "Equipment slot (gloves/gauntlets)."
+ },
+ {
+  "en": "Feet",
+  "kind": "ui",
+  "note": "Equipment slot (boots)."
+ },
+ {
+  "en": "Accessory",
+  "kind": "ui",
+  "note": "Equipment slot."
+ },
+ {
+  "en": "Two-Handed",
+  "kind": "ui",
+  "note": "ryoute = both hands (two-handed weapon)."
+ },
+ {
+  "en": "All",
+  "kind": "ui"
+ },
+ {
+  "en": "Talisman",
+  "kind": "ui",
+  "note": "ofuda = paper charm/talisman. Item list 1257-1267."
+ },
+ {
+  "en": "Salve",
+  "kind": "ui",
+  "note": "kizugusuri; 'salves' in pilot slice_3 row 167."
+ },
+ {
+  "en": "Full Heal Potion",
+  "kind": "ui",
+  "note": "Matches wmap slice_08 row 574."
+ },
+ {
+  "en": "Wake-Up Potion",
+  "kind": "ui",
+  "note": "mezamashi-gusuri: cures sleep. New term."
+ },
+ {
+  "en": "Antidote",
+  "kind": "ui",
+  "note": "dokukeshi-gusuri: cures poison. New term."
+ },
+ {
+  "en": "Paralysis Cure",
+  "kind": "ui",
+  "note": "Matches wmap slice_08 row 574."
+ },
+ {
+  "en": "Nightdew Lozenge",
+  "kind": "ui",
+  "note": "Matches wmap slice_08 row 574."
+ },
+ {
+  "en": "Calming Herb",
+  "kind": "ui",
+  "note": "Matches wmap slice_08 row 575."
+ },
+ {
+  "en": "First Love Gem",
+  "kind": "ui",
+  "note": "Matches wmap slice_08 row 575 (literally 'crystal of the first-love flower')."
+ },
+ {
+  "en": "Stonemelt Water",
+  "kind": "ui",
+  "note": "Matches wmap slice_08 row 575."
+ },
+ {
+  "en": "Headache Remedy",
+  "kind": "ui",
+  "note": "zutsuuyaku = headache medicine. New term; fallback 'Headache Pill'."
+ },
+ {
+  "en": "The Fool",
+  "kind": "ui",
+  "note": "Tarot names 1268-1287, same forms as slice_11 rows 835-882 but without numerals. The Magician and Strength are missing here: presumably merged with identical strings elsewhere (majutsushi = 'Mage' slice_01 row 75; chikara)."
+ },
+ {
+  "en": "The High Priestess",
+  "kind": "ui"
+ },
+ {
+  "en": "The Empress",
+  "kind": "ui"
+ },
+ {
+  "en": "The Emperor",
+  "kind": "ui"
+ },
+ {
+  "en": "The Hierophant",
+  "kind": "ui"
+ },
+ {
+  "en": "The Lovers",
+  "kind": "ui"
+ },
+ {
+  "en": "The Chariot",
+  "kind": "ui"
+ },
+ {
+  "en": "Justice",
+  "kind": "ui"
+ },
+ {
+  "en": "The Hermit",
+  "kind": "ui"
+ },
+ {
+  "en": "Wheel of Fortune",
+  "kind": "ui"
+ },
+ {
+  "en": "The Hanged Man",
+  "kind": "ui"
+ },
+ {
+  "en": "Death",
+  "kind": "ui"
+ },
+ {
+  "en": "Temperance",
+  "kind": "ui"
+ },
+ {
+  "en": "The Devil",
+  "kind": "ui"
+ },
+ {
+  "en": "The Tower",
+  "kind": "ui"
+ },
+ {
+  "en": "The Star",
+  "kind": "ui"
+ },
+ {
+  "en": "The Moon",
+  "kind": "ui"
+ },
+ {
+  "en": "The Sun",
+  "kind": "ui"
+ },
+ {
+  "en": "Judgement",
+  "kind": "ui",
+  "note": "Spelling as slice_11 row 880."
+ },
+ {
+  "en": "The World",
+  "kind": "ui"
+ },
+ {
+  "en": "Male",
+  "kind": "ui",
+  "note": "Gender."
+ },
+ {
+  "en": "Female",
+  "kind": "ui",
+  "note": "Gender."
+ },
+ {
+  "en": "(Reserve)",
+  "kind": "ui",
+  "note": "Unused/reserved slot label; full-width parentheses -> ASCII."
+ },
+ {
+  "en": "Good",
+  "kind": "ui",
+  "note": "Glossary alignment."
+ },
+ {
+  "en": "Neutral",
+  "kind": "ui",
+  "note": "Glossary alignment."
+ },
+ {
+  "en": "Evil",
+  "kind": "ui",
+  "note": "Glossary alignment."
+ },
+ {
+  "en": "Fighter",
+  "kind": "ui",
+  "note": "Class table 1294-1313 (continues in slice_17): full name followed by the developer's 3-letter abbreviation. Mage/Priest/Alchemist/Summoner full names are absent (merged with slice_01 rows 75-78). Fighter as in chap slice_012 row 995."
+ },
+ {
+  "en": "Fig",
+  "kind": "ui",
+  "note": "Developer abbreviation (full-width Latin -> ASCII)."
+ },
+ {
+  "en": "Mag",
+  "kind": "ui"
+ },
+ {
+  "en": "Pri",
+  "kind": "ui"
+ },
+ {
+  "en": "Thief",
+  "kind": "ui",
+  "note": "As in chap slice_003 row 197."
+ },
+ {
+  "en": "Thi",
+  "kind": "ui"
+ },
+ {
+  "en": "Alc",
+  "kind": "ui"
+ },
+ {
+  "en": "Servant",
+  "kind": "ui",
+  "note": "shiyounin = servant. NEW TERM. The developer abbreviation 'Mai' (row 1302) implies 'Maid'; 'Servant' chosen to stay gender-neutral. If 'Maid' is adopted, restore 'Mai' in row 1302."
+ },
+ {
+  "en": "Srv",
+  "kind": "ui",
+  "note": "Source 'Mai' (Maid) changed to match the English class name 'Servant' (row 1301). See note there."
+ },
+ {
+  "en": "Bishop",
+  "kind": "ui",
+  "note": "Glossary class."
+ },
+ {
+  "en": "Bis",
+  "kind": "ui"
+ },
+ {
+  "en": "Ranger",
+  "kind": "ui",
+  "note": "karyuudo. NEW TERM. Developer abbreviation 'Ran' = Ranger. CONFLICT: story text renders the class 'Hunter(s)' (wmap slice_04 row 282, chap slice_004 row 302, chap slice_010 row 818 'Gossipy Hunter'). ACCURACY: glossary class term (kariudo) is 'Hunter' (fixed); 'Ranger' changed. The source's own abbreviation 'Ran' (row 1306) is kept as the developer's ASCII, but it points to 'Ranger': orchestrator should decide whether the glossary entry ('Draft; check against the class list') is revised. Editorial: lead decision, class = Ranger (matches developer abbreviation 'Ran', row 1306); reverts the accuracy-stage change."
+ },
+ {
+  "en": "Ran",
+  "kind": "ui"
+ },
+ {
+  "en": "Gladiator",
+  "kind": "ui",
+  "note": "toushi. NEW TERM, from the developer abbreviation 'Gla'."
+ },
+ {
+  "en": "Gla",
+  "kind": "ui"
+ },
+ {
+  "en": "Bard",
+  "kind": "ui",
+  "note": "yuurakusha (lit. 'pleasure-seeker/entertainer'). NEW TERM, from the developer abbreviation 'Bar'."
+ },
+ {
+  "en": "Bar",
+  "kind": "ui"
+ },
+ {
+  "en": "Kannagi",
+  "kind": "ui",
+  "note": "kannagi = shrine medium/shaman. NEW TERM, romanized to match the developer's all-caps abbreviation 'KAN' (like SAM/NIN). Alternative: 'Shaman'."
+ },
+ {
+  "en": "KAN",
+  "kind": "ui",
+  "note": "Kept as in source (all caps, like SAM/NIN in slice_17)."
+ },
+ {
+  "en": "Sum",
+  "kind": "ui",
+  "note": "Summoner abbreviation; the full name 'Summoner' is slice_01 row 78."
+ },
+ {
+  "en": "Valkyrie",
+  "kind": "ui",
+  "note": "NEW TERM (class). Abbreviation 'Val' in the next row confirms it."
+ },
+ {
+  "en": "Val",
+  "kind": "ui",
+  "note": "Source is already English (full-width); converted to ASCII."
+ },
+ {
+  "en": "Lord",
+  "kind": "ui",
+  "note": "NEW TERM (class)."
+ },
+ {
+  "en": "Lor",
+  "kind": "ui",
+  "note": "Full-width -> ASCII."
+ },
+ {
+  "en": "Samurai",
+  "kind": "ui",
+  "note": "NEW TERM (class)."
+ },
+ {
+  "en": "SAM",
+  "kind": "ui",
+  "note": "Full-width -> ASCII; source upper case kept."
+ },
+ {
+  "en": "Ninja",
+  "kind": "ui",
+  "note": "NEW TERM (class)."
+ },
+ {
+  "en": "NIN",
+  "kind": "ui",
+  "note": "Full-width -> ASCII; source upper case kept."
+ },
+ {
+  "en": "rsv",
+  "kind": "ui",
+  "note": "Reserved/unused class slot label (end of class table); kept as the source's ASCII abbreviation."
+ },
+ {
+  "en": "Fire Breath",
+  "kind": "ui"
+ },
+ {
+  "en": "Fire",
+  "kind": "ui",
+  "note": "Standalone element label between the breath names (row 1335 'Charm' is the same pattern)."
+ },
+ {
+  "en": "Ice Breath",
+  "kind": "ui"
+ },
+ {
+  "en": "Lightning Breath",
+  "kind": "ui",
+  "note": "16 chars vs 10 cols; fallback 'Bolt Breath'."
+ },
+ {
+  "en": "Holy Breath",
+  "kind": "ui"
+ },
+ {
+  "en": "Dark Breath",
+  "kind": "ui"
+ },
+ {
+  "en": "Sleep Breath",
+  "kind": "ui",
+  "note": "Status name Sleep (slice_0x status list)."
+ },
+ {
+  "en": "Poison Breath",
+  "kind": "ui",
+  "note": "Moudoku = deadly poison; 'Venom' keeps the intensity and fits. If the game has only one poison status, 'Poison Breath' is the alternative. Editorial: the breath set is named after the status labels (Sleep/Paralysis/Silence... Breath) and moudoku is 'Poison' in rows 1179/1191."
+ },
+ {
+  "en": "Paralysis Breath",
+  "kind": "ui",
+  "note": "Status name Paralysis."
+ },
+ {
+  "en": "Silence Breath",
+  "kind": "ui",
+  "note": "Status name Silence."
+ },
+ {
+  "en": "Confusion Breath",
+  "kind": "ui",
+  "note": "Status name Confusion."
+ },
+ {
+  "en": "Charm Breath",
+  "kind": "ui",
+  "note": "Status name Charm."
+ },
+ {
+  "en": "Charm",
+  "kind": "ui",
+  "note": "Standalone label (cf. row 1324)."
+ },
+ {
+  "en": "Stone Breath",
+  "kind": "ui",
+  "note": "Status name Stone (project status list: St=Stone)."
+ },
+ {
+  "en": "Death Breath",
+  "kind": "ui"
+ },
+ {
+  "en": "Human",
+  "kind": "ui",
+  "note": "Start of the race / creature-type table: full name followed by a 1-character abbreviation. The kana-only abbreviations (rows 1341, 1343, 1345, 1347, 1349, 1354, 1357, 1359) were excluded from the slices but need English too."
+ },
+ {
+  "en": "Hu",
+  "kind": "ui",
+  "note": "Abbreviation of Human. Source is 1 full-width char (2 columns), so a 2-letter abbreviation keeps the width; 3-letter fallback 'Hum'."
+ },
+ {
+  "en": "Elf",
+  "kind": "ui"
+ },
+ {
+  "en": "Dwarf",
+  "kind": "ui"
+ },
+ {
+  "en": "Gnome",
+  "kind": "ui"
+ },
+ {
+  "en": "Hotlet",
+  "kind": "ui",
+  "note": "NEW TERM (race). Elminage Gothic fan wiki (official English release of the series) spells this hobbit-like race 'Hotlet'; wiki wins over a fresh romanization ('Hortlut')."
+ },
+ {
+  "en": "Fairy",
+  "kind": "ui"
+ },
+ {
+  "en": "Werebeast",
+  "kind": "ui",
+  "note": "NEW TERM (race); matches the katakana loanword."
+ },
+ {
+  "en": "Dragonewt",
+  "kind": "ui",
+  "note": "Glossary 'dragonewt' (race), capitalised as a label."
+ },
+ {
+  "en": "Dg",
+  "kind": "ui",
+  "note": "Abbreviation for Dragonewt (ryuu = dragon); 3-letter fallback 'Drg'."
+ },
+ {
+  "en": "Devilish",
+  "kind": "ui",
+  "note": "NEW TERM (race); katakana loanword kept, as in Elminage Gothic."
+ },
+ {
+  "en": "Magic Puppet",
+  "kind": "ui",
+  "note": "NEW TERM. Ma-kairai = magic puppet (an animated construct). 'Golem' is the alternative; avoided in case Golem is a monster name. ACCURACY: glossary term 'magic puppet' (fixed); 'Puppet' changed, capitalised as a label."
+ },
+ {
+  "en": "Ogre",
+  "kind": "ui"
+ },
+ {
+  "en": "Goblin",
+  "kind": "ui"
+ },
+ {
+  "en": "Magical Creature",
+  "kind": "ui",
+  "note": "Mahou seibutsu = magical creature (creature type). 11 chars vs 8 cols; fallback 'Magical'. Editorial: lead decision, mahou seibutsu = Magical Creature(s) (matches '[Wpn] Slay Magical Creatures', slice_14 row 1111). Singular like the other type labels."
+ },
+ {
+  "en": "Undead",
+  "kind": "ui"
+ },
+ {
+  "en": "Ud",
+  "kind": "ui",
+  "note": "Abbreviation of Undead."
+ },
+ {
+  "en": "Spirit",
+  "kind": "ui"
+ },
+ {
+  "en": "Sp",
+  "kind": "ui",
+  "note": "Abbreviation of Spirit."
+ },
+ {
+  "en": "Insect",
+  "kind": "ui"
+ },
+ {
+  "en": "In",
+  "kind": "ui",
+  "note": "Abbreviation of Insect."
+ },
+ {
+  "en": "Animal",
+  "kind": "ui"
+ },
+ {
+  "en": "An",
+  "kind": "ui",
+  "note": "Abbreviation of Animal."
+ },
+ {
+  "en": "Mythical Beast",
+  "kind": "ui",
+  "note": "Genjuu = mythical/phantom beast (creature type). 12 chars vs 4 cols; fallback 'Mythic'. ACCURACY: glossary term 'mythical beast' (fixed); 'Mythic Beast' changed, capitalised as a label. Abbreviation 'My' (1370) unaffected."
+ },
+ {
+  "en": "My",
+  "kind": "ui",
+  "note": "Abbreviation of Mythical Beast."
+ },
+ {
+  "en": "Gh",
+  "kind": "ui",
+  "note": "Abbreviation with no full name next to it (full string likely pooled elsewhere). Rei = spirit/ghost; 'Sp' is taken by Spirit, so 'Gh' (Ghost). Uncertain."
+ },
+ {
+  "en": "Fi",
+  "kind": "ui",
+  "note": "Abbreviation with no adjacent full name: sen = Fighter (senshi), whose string is pooled with the class table. 'Fi' (game's own class abbreviation is 'Fig')."
+ },
+ {
+  "en": "Th",
+  "kind": "ui",
+  "note": "Abbreviation with no adjacent full name: tou = Thief (touzoku), pooled with the class table. Class abbreviation is 'Thi'."
+ },
+ {
+  "en": "Beastfolk",
+  "kind": "ui",
+  "note": "NEW TERM (creature type), kept distinct from the Werebeast race. Editorial: lead decision, juujin = Beastfolk (matches '[Wpn] Slay Beastfolk', slice_14 row 1124)."
+ },
+ {
+  "en": "Bf",
+  "kind": "ui",
+  "note": "Abbreviation of Beastman. Editorial: abbreviation follows the renamed type Beastfolk (row 1374); 'Bf' is unused by other abbreviations."
+ },
+ {
+  "en": "Giant",
+  "kind": "ui"
+ },
+ {
+  "en": "Gi",
+  "kind": "ui",
+  "note": "Abbreviation of Giant."
+ },
+ {
+  "en": "Divine Shadow",
+  "kind": "ui",
+  "note": "Established term (wmap slice_01: shin'ei -> Divine Shadow)."
+ },
+ {
+  "en": "Di",
+  "kind": "ui",
+  "note": "Abbreviation of Divine Shadow ('Dv' left free for Devilish)."
+ },
+ {
+  "en": "?Junk",
+  "kind": "ui",
+  "note": "Unidentified-item names: '?' + item category, Wizardry style. Full-width ? -> ASCII, no space as in the source."
+ },
+ {
+  "en": "?Sword",
+  "kind": "ui"
+ },
+ {
+  "en": "?Dagger",
+  "kind": "ui"
+ },
+ {
+  "en": "?Katana",
+  "kind": "ui"
+ },
+ {
+  "en": "?Spear",
+  "kind": "ui"
+ },
+ {
+  "en": "?Axe",
+  "kind": "ui"
+ },
+ {
+  "en": "?Hammer",
+  "kind": "ui"
+ },
+ {
+  "en": "?Mace",
+  "kind": "ui"
+ },
+ {
+  "en": "?Club",
+  "kind": "ui"
+ },
+ {
+  "en": "?Bow",
+  "kind": "ui"
+ },
+ {
+  "en": "?Whip",
+  "kind": "ui"
+ },
+ {
+  "en": "?Staff",
+  "kind": "ui"
+ },
+ {
+  "en": "?Weapon",
+  "kind": "ui",
+  "note": "Source writes buki (weapon) in hiragana; generic weapon."
+ },
+ {
+  "en": "?Book",
+  "kind": "ui"
+ },
+ {
+  "en": "?Shield",
+  "kind": "ui"
+ },
+ {
+  "en": "?Helm",
+  "kind": "ui"
+ },
+ {
+  "en": "?Hat",
+  "kind": "ui"
+ },
+ {
+  "en": "?Armor",
+  "kind": "ui"
+ },
+ {
+  "en": "?Breastplate",
+  "kind": "ui",
+  "note": "12 chars vs 8 cols; fallback '?Cuirass'."
+ },
+ {
+  "en": "?Chain Mail",
+  "kind": "ui"
+ },
+ {
+  "en": "?Leather Armor",
+  "kind": "ui",
+  "note": "14 chars vs 6 cols; kept distinct from '?Armor'. Fallback '?Leather'."
+ },
+ {
+  "en": "?Robe",
+  "kind": "ui"
+ },
+ {
+  "en": "?Gauntlets",
+  "kind": "ui",
+  "note": "Unidentified-item class name ('?' + category, as rows 1380-1415). kote = gauntlets/bracers."
+ },
+ {
+  "en": "?Boots",
+  "kind": "ui",
+  "note": "kutsu = shoes/footwear; 'Boots' is the usual RPG word and matches row 1420."
+ },
+ {
+  "en": "?Cloak",
+  "kind": "ui"
+ },
+ {
+  "en": "?Belt",
+  "kind": "ui"
+ },
+ {
+  "en": "?Amulet",
+  "kind": "ui",
+  "note": "mayoke = charm/talisman; Wizardry-style 'amulet' category (cf. Amulet of Life)."
+ },
+ {
+  "en": "?Ring",
+  "kind": "ui"
+ },
+ {
+  "en": "?Ankh",
+  "kind": "ui"
+ },
+ {
+  "en": "?Potion",
+  "kind": "ui",
+  "note": "kusuri = medicine/drug; 'Potion' as the item category."
+ },
+ {
+  "en": "?Scroll",
+  "kind": "ui"
+ },
+ {
+  "en": "?Instrument",
+  "kind": "ui",
+  "note": "gakki = musical instrument."
+ },
+ {
+  "en": "?Tarot Card",
+  "kind": "ui"
+ },
+ {
+  "en": "?Mystic Item",
+  "kind": "ui",
+  "note": "shinpi no shina = 'article of mystery'. NEW TERM."
+ },
+ {
+  "en": "?Material",
+  "kind": "ui",
+  "note": "sozai = crafting/alchemy material."
+ },
+ {
+  "en": "?Other",
+  "kind": "ui"
+ },
+ {
+  "en": "Shield",
+  "kind": "ui",
+  "note": "Equipment category/slot list 1416-1420 (no '?' prefix)."
+ },
+ {
+  "en": "Helm",
+  "kind": "ui"
+ },
+ {
+  "en": "Armor",
+  "kind": "ui",
+  "note": "Matches slice_10 row 810 'Armor'."
+ },
+ {
+  "en": "Gauntlets",
+  "kind": "ui"
+ },
+ {
+  "en": "Boots",
+  "kind": "ui"
+ },
+ {
+  "en": "Inukshuk",
+  "kind": "ui",
+  "note": "List 1421-1447 is probably the music/scene slot list (bosses, places, then weather) -- see report. NEW NAME: Inukshuk (Inuit stone landmark word; not in glossary or story corpus)."
+ },
+ {
+  "en": "Necrophilis",
+  "kind": "ui",
+  "note": "Glossary."
+ },
+ {
+  "en": "Shaharon",
+  "kind": "ui",
+  "note": "As in wmap story text."
+ },
+ {
+  "en": "Dark Mayer",
+  "kind": "ui",
+  "note": "As in wmap/chap story text."
+ },
+ {
+  "en": "Palace of the Sun Showdown",
+  "kind": "ui",
+  "note": "kessen = decisive battle. Glossary 'Palace of the Sun'."
+ },
+ {
+  "en": "Wicked Mage",
+  "kind": "ui",
+  "note": "As the name label in chap slice_019 row 1569."
+ },
+ {
+  "en": "Tiger Centaur III",
+  "kind": "ui",
+  "note": "As in chap slice_014 row 1124."
+ },
+ {
+  "en": "Yorfa",
+  "kind": "ui",
+  "note": "Glossary."
+ },
+ {
+  "en": "Fourth Generation",
+  "kind": "ui",
+  "note": "As in wmap slice_20 row 1526 (land beyond Hisbert's door)."
+ },
+ {
+  "en": "Red Qualia",
+  "kind": "ui",
+  "note": "Qualia as in chap slice_020/021."
+ },
+ {
+  "en": "Blue Qualia",
+  "kind": "ui"
+ },
+ {
+  "en": "Green Qualia",
+  "kind": "ui"
+ },
+ {
+  "en": "Yellow Qualia",
+  "kind": "ui"
+ },
+ {
+  "en": "Black Qualia",
+  "kind": "ui"
+ },
+ {
+  "en": "White Qualia",
+  "kind": "ui"
+ },
+ {
+  "en": "Executor of the Divine Realm",
+  "kind": "ui",
+  "note": "Spectoria's title, as in chap slice_021 row 1715."
+ },
+ {
+  "en": "Hevayur",
+  "kind": "ui",
+  "note": "As in wmap/chap story text."
+ },
+ {
+  "en": "Dark Generalissimo Welsconi",
+  "kind": "ui",
+  "note": "Welsconi as in chap slice_018. NEW TERM: ankoku soutou = 'Dark Generalissimo' (soutou = supreme leader/Fuhrer; ASCII-only rules out an umlaut)."
+ },
+ {
+  "en": "Lightstair Ruins",
+  "kind": "ui",
+  "note": "Key-item name in wmap slice_01 row 63 / slice_08. Note: wmap slice_09 uses 'Stairway Ruins of Light' -- corpus inconsistency."
+ },
+ {
+  "en": "Altar",
+  "kind": "ui"
+ },
+ {
+  "en": "Clear",
+  "kind": "ui",
+  "note": "Weather 1441-1444, same words as the story's weather list (wmap slice_17 rows 1294-1297 use Clear/Cloudy/Rainy/Stormy as adjectives); here nouns for a label list."
+ },
+ {
+  "en": "Cloudy",
+  "kind": "ui"
+ },
+ {
+  "en": "Rain",
+  "kind": "ui"
+ },
+ {
+  "en": "Storm",
+  "kind": "ui"
+ },
+ {
+  "en": "Fair Weather",
+  "kind": "ui",
+  "note": "Second weather set (seiten/donten/uten, no storm). Use unknown; rendered distinct from 1441-1443."
+ },
+ {
+  "en": "Overcast",
+  "kind": "ui"
+ },
+ {
+  "en": "Rainy Weather",
+  "kind": "ui"
+ },
+ {
+  "en": "*",
+  "kind": "ui",
+  "note": "Star mark, max_bytes 2 -> ASCII '*'. Only id eb@08974130 looks like a real string; the other 6 ids sit at odd addresses inside the UTF-8 fragments of rows 1460-1469 (false hits) and should NOT be patched."
+ },
+ {
+  "en": "About Hisbert",
+  "kind": "ui",
+  "note": "Topic menu for Hisbert (answers in wmap slice_20 rows 1521-1528). Source has a typo (no 'no' before tsuite)."
+ },
+ {
+  "en": "About the Gods",
+  "kind": "ui"
+ },
+ {
+  "en": "About the Kin of Darkness",
+  "kind": "ui",
+  "note": "yami no kenzoku = 'kin of darkness', as in wmap slice_20 row 1523."
+ },
+ {
+  "en": "About This Land",
+  "kind": "ui"
+ },
+ {
+  "en": "About the Gods' World",
+  "kind": "ui"
+ },
+ {
+  "en": "About the Inner Door",
+  "kind": "ui",
+  "note": "oku no tobira = the door at the back; Hisbert answers 'Beyond this door ... the Fourth Generation' (wmap row 1526)."
+ },
+ {
+  "en": "Humans and Elves",
+  "kind": "ui",
+  "note": "ningen ya erufu-tachi = 'humans, elves and the like'; no 'about' in source. Likely answered by wmap row 1527 ('Cute. Very cute indeed.')."
+ },
+ {
+  "en": "What Is Life?",
+  "kind": "ui",
+  "note": "inochi to wa = 'Life is...' / 'What is life?'. Likely answered by wmap row 1528 ('Who knows?')."
+ },
+ {
+  "en": "Invalid tpg=%d specified\n",
+  "kind": "ui",
+  "note": "Debug message (texture page)."
+ },
+ {
+  "en": "Problem with install data. Please reinstall.\nLoading from the UMD instead.",
+  "kind": "ui",
+  "note": "Trademark glyph after UMD (PSP font private-use char) dropped, as the Memory Stick TM glyph is dropped in earlier slices. Editorial: line 2 'Switching to loading from' was a clumsy gerund stack; same meaning (the game switches to the UMD)."
+ },
+ {
+  "en": "Can't load install data from the Memory Stick.\nLoading from the UMD instead.",
+  "kind": "ui",
+  "note": "Line 1 is exactly 46 chars. TM glyphs dropped. Editorial: same line-2 fix as row 1458."
+ },
+ {
+  "en": "Screenshot comment (1)\nScreenshot comment (2)",
+  "kind": "ui",
+  "note": "PSP screenshot metadata placeholder text; probably never shown in game."
+ },
+ {
+  "en": "Not enough free space. Saving requires at least %s more free space.",
+  "kind": "ui",
+  "note": "One line in source too (72 half-width columns), so this dialog wraps on its own; kept on one line."
+ },
+ {
+  "en": "The operation was interrupted.",
+  "kind": "ui"
+ },
+ {
+  "en": "Operation cancelled due to sleep mode.",
+  "kind": "ui",
+  "note": "Literal: the process was stopped because (the PSP) entered sleep mode."
+ },
+ {
+  "en": "No Memory Stick is inserted.",
+  "kind": "ui",
+  "note": "Matches slice_03/04 wording. TM glyph dropped."
+ },
+ {
+  "en": "The Memory Stick was removed.",
+  "kind": "ui"
+ },
+ {
+  "en": "The Memory Stick is write-protected.",
+  "kind": "ui"
+ },
+ {
+  "en": "Memory Stick access error",
+  "kind": "ui",
+  "note": "max_bytes 36; 25 used."
+ },
+ {
+  "en": "The data is corrupted.",
+  "kind": "ui"
+ },
+ {
+  "en": "Transparency: %s",
+  "kind": "ui",
+  "note": "nuki settei = colour-key (transparency) setting for imported images; options follow in slice_19 (1483 'key out blue', 1484 'leave as is')."
+ },
+ {
+  "en": "Make blue clear",
+  "kind": "ui",
+  "note": "Value of 1482 'transparency setting: %s'. HELP_TEXT 349/378: treat blue as the transparent (key) colour when importing Face Load/Style Load BMPs. Pairs with 1484."
+ },
+ {
+  "en": "Keep as is",
+  "kind": "ui",
+  "note": "Other value of the 1482 transparency setting (no colour keyed out)."
+ },
+ {
+  "en": "Saving...\nDo not remove the Memory Stick.",
+  "kind": "ui",
+  "note": "Matches ebt slice_03 rows 232/233."
+ },
+ {
+  "en": "The image is not in 256 colors. If imported as is, it will be automatically converted to the colors above.",
+  "kind": "ui",
+  "note": "Face/Style Load BMP import. No line break in source (78 JP columns), so the box wraps or is wide; kept as one line. Editorial: 'is not 256 colors' -> 'is not in 256 colors' (grammar)."
+ },
+ {
+  "en": "The image is not 48x48 pixels.",
+  "kind": "ui",
+  "note": "'dots' rendered as pixels."
+ },
+ {
+  "en": "Overwrite the selected data. Are you sure?",
+  "kind": "ui"
+ },
+ {
+  "en": "Importing dungeon data...",
+  "kind": "ui"
+ },
+ {
+  "en": "Importing sound data...",
+  "kind": "ui"
+ },
+ {
+  "en": "No images to import.",
+  "kind": "ui"
+ },
+ {
+  "en": "No data to import.",
+  "kind": "ui"
+ },
+ {
+  "en": "No sound data found.",
+  "kind": "ui"
+ },
+ {
+  "en": "  No Memory Stick is inserted.  ",
+  "kind": "ui",
+  "note": "Source is padded with one full-width space each side; kept as two ASCII spaces each side."
+ },
+ {
+  "en": "Add New",
+  "kind": "ui"
+ },
+ {
+  "en": "Reset the music settings to default. Are you sure?",
+  "kind": "ui",
+  "note": "Custom BGM replacement (HELP_TEXT 392)."
+ },
+ {
+  "en": "Delete the selected data. Are you sure?",
+  "kind": "ui"
+ },
+ {
+  "en": "Export and overwrite the existing data. Are you sure?",
+  "kind": "ui"
+ },
+ {
+  "en": "Export the selected data. Are you sure?",
+  "kind": "ui"
+ },
+ {
+  "en": "Replacing dungeon data...",
+  "kind": "ui"
+ },
+ {
+  "en": "Exporting dungeon data...",
+  "kind": "ui"
+ },
+ {
+  "en": "Deleting dungeon data...",
+  "kind": "ui"
+ },
+ {
+  "en": "Resetting the music settings to default...",
+  "kind": "ui"
+ },
+ {
+  "en": "Failed to search for data.",
+  "kind": "ui"
+ },
+ {
+  "en": "No PICTURE folder found.",
+  "kind": "ui",
+  "note": "PICTURE is the Memory Stick folder name the game reads: left in Latin caps."
+ },
+ {
+  "en": "Searching for Dungeon Load data...",
+  "kind": "ui",
+  "note": "TERM: 'Dungeon Load' = the custom-menu feature that imports/exports dungeon data to the Memory Stick (HELP_TEXT 385/396-398), parallel to Face Load / Style Load. CONFLICT: ebt slice_07 rows 553/587 used 'Dungeon Road'; chap slice_012 rows 940-941 used 'dungeon load data'. Editorial: lead decision, feature name = 'Dungeon Road' corpus-wide (matches slice_07/slice_19)."
+ },
+ {
+  "en": "No Dungeon Load data found.",
+  "kind": "ui",
+  "note": "See 1506. Editorial: lead decision 'Dungeon Road'; see row 1506."
+ },
+ {
+  "en": "No MUSIC folder found.",
+  "kind": "ui",
+  "note": "MUSIC is a folder name: left as is."
+ },
+ {
+  "en": "                        Elminage III",
+  "kind": "credits",
+  "note": "Credits title, centred on the JP centre (col ~30)."
+ },
+ {
+  "en": "        ~The Dark Apostle and the Palace of the Sun~",
+  "kind": "credits",
+  "note": "Subtitle 'Ankoku no Shito to Taiyou no Kyuuden'. 'Palace of the Sun' per glossary."
+ },
+ {
+  "en": "                      Production Staff",
+  "kind": "credits"
+ },
+ {
+  "en": "                    Scenario    Takahiro Matsutani",
+  "kind": "credits",
+  "note": "Layout: job title right-aligned to end at col 28, name at col 32 (JP grid, 1 full-width = 2 columns). Names in Western order, Hepburn without macrons."
+ },
+ {
+  "en": "                                Yuko Tanaka",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Yuri Murakami",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Shinji Iwase",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Masayuki Ishikawa",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Takahiro Kogo",
+  "kind": "credits",
+  "note": "Surname reading Kogo (alt. Kougo)."
+ },
+ {
+  "en": "              Dungeon Design    Yutaka Kurosawa",
+  "kind": "credits"
+ },
+ {
+  "en": "           Encyclopedia Text    Junichi Sogawa",
+  "kind": "credits",
+  "note": "zukan = the in-game monster/item/people encyclopedias."
+ },
+ {
+  "en": "                 Programming    Hiroyuki Fujiwara",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Makoto Ichinoseki",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Yutaka Yamaguchi",
+  "kind": "credits",
+  "note": "Given name single kanji: reading Yutaka is a guess (alt. Hiroshi, Yu)."
+ },
+ {
+  "en": "                                Yusuke Yamane",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Akinori Tomonaga",
+  "kind": "credits",
+  "note": "Reading unverified (alt. Asanaga)."
+ },
+ {
+  "en": "                 Character &    Sachiko Koriyama",
+  "kind": "credits",
+  "note": "JP title split over two rows ('Character-' / 'Item Design'); English cut at the same point."
+ },
+ {
+  "en": "                 Item Design    Satomi Onodera",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Daijiro Kataoka",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Masaki Hirauchi",
+  "kind": "credits",
+  "note": "Reading unverified (alt. Masanori; Hiranai)."
+ },
+ {
+  "en": "                                Koji Igusa",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Tatsuya Higashisakihara",
+  "kind": "credits",
+  "note": "Rare surname; reading unverified."
+ },
+ {
+  "en": "                                Yu Nakajima",
+  "kind": "credits",
+  "note": "Given name single kanji: reading Yu is a guess (alt. Haruka, Hisashi)."
+ },
+ {
+  "en": "                                Tatsuya Megumi",
+  "kind": "credits",
+  "note": "Single-kanji surname; reading unverified (alt. Kei)."
+ },
+ {
+  "en": "                 2D Graphics    Sachiko Koriyama",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Satomi Onodera",
+  "kind": "credits"
+ },
+ {
+  "en": "         Background Graphics    Koji Akagi",
+  "kind": "credits"
+ },
+ {
+  "en": "                                Ken Takagi",
+  "kind": "credits"
+ },
+ {
+  "en": "                 3D Graphics    Yohei Matsuo",
+  "kind": "credits"
+ },
+ {
+  "en": "               Opening Movie    Satomi Onodera",
+  "kind": "credits"
+ },
+ {
+  "en": "                 Main Visual",
+  "kind": "credits",
+  "note": "Three-row credit: Main Visual / Monster & / Item Design, name on the middle row (1540), as in JP."
+ },
+ {
+  "en": "                   Monster &    Ken Miyauchi",
+  "kind": "credits"
+ },
+ {
+  "en": "                 Item Design",
+  "kind": "credits"
+ },
+ {
+  "en": "            Sound Production    Sound Tech",
+  "kind": "credits",
+  "note": "Studio name (katakana 'Saundo Tekku')."
+ },
+ {
+  "en": "                    Composer    Yusuke Wakebe",
+  "kind": "credits",
+  "note": "Surname reading Wakebe unverified (alt. Betsubu)."
+ },
+ {
+  "en": "                                Takanori Mashiko",
+  "kind": "credits"
+ },
+ {
+  "en": "               Sound Effects    Masahiro Ito",
+  "kind": "credits"
+ },
+ {
+  "en": "     Preset Character Design  (honorifics omitted)",
+  "kind": "credits",
+  "note": "keishou-ryaku = honorifics omitted; placed 2 columns after the title as in JP."
+ },
+ {
+  "en": "                       Grace    Kikuya",
+  "kind": "credits",
+  "note": "Rows 1547-1556: preset character name, then its artist (mostly online handles). Character names follow ebt slice_04 rows 276-295."
+ },
+ {
+  "en": "                    Kanosuke    Yutaka Nakamura",
+  "kind": "credits",
+  "note": "NEW NAME: preset character Kanosuke (kanji ka-no-suke)."
+ },
+ {
+  "en": "                       Aruna    Enocchi",
+  "kind": "credits"
+ },
+ {
+  "en": "                 Meme Stampy    Yodozumi",
+  "kind": "credits",
+  "note": "NEW NAME: preset character 'Meme(star)Stampy': the star glyph is not ASCII, replaced by a space. Artist handle reading unverified (alt. Orizumi)."
+ },
+ {
+  "en": "                       Green    Ojii",
+  "kind": "credits",
+  "note": "Handle 'ojii' (old man)."
+ },
+ {
+  "en": "                      Froila    Enocchi",
+  "kind": "credits"
+ },
+ {
+  "en": "                     Garveon    Tongari Corn",
+  "kind": "credits",
+  "note": "Handle 'tongari(star)koon' (pointy corn): star replaced by a space."
+ },
+ {
+  "en": "                      Common    IPPY",
+  "kind": "credits"
+ },
+ {
+  "en": "                    Fujiyama    Komii",
+  "kind": "credits",
+  "note": "Source already 'Fujiyama' in full-width Latin. Handle 'komii' (alt. Komy/Commie)."
+ },
+ {
+  "en": "                      Hiyora    Tongari Corn",
+  "kind": "credits",
+  "note": "Hiyora per ebt slice_04 (alt. Hiyorer)."
+ },
+ {
+  "en": "                   Publicity    Hiroshi Kunihara",
+  "kind": "credits"
+ },
+ {
+  "en": "          Assistant Director    Yohei Matsuo",
+  "kind": "credits"
+ },
+ {
+  "en": "                    Director    Shingo Magota",
+  "kind": "credits",
+  "note": "Surname reading unverified (alt. Mageta)."
+ },
+ {
+  "en": "    Dev. Support  Priocine Inc.",
+  "kind": "credits",
+  "note": "Company block: label at col 4, company at col 18 as in JP (slice_20 rows 1563-1565 use the same columns). 'kaihatsu kyouryoku' shortened to 'Dev. Support' to keep col 18. Company 'Purioshiinu' romanized Priocine (no English name found)."
+ },
+ {
+  "en": "                  Bunshoya Ltd.",
+  "kind": "credits",
+  "note": "yuugen-gaisha = Ltd."
+ },
+ {
+  "en": "                  Lago Inc.",
+  "kind": "credits",
+  "note": "Company 'Raago' romanized Lago (unverified; alt. Largo)."
+ },
+ {
+  "en": "    Developers    Starfish SD Inc.",
+  "kind": "credits",
+  "note": "Credits block layout: each full-width space = 2 ASCII spaces; company column kept at half-width column 18 as in source. Kaihatsumoto = developer(s); two companies follow (rows 1563-1564), so plural 'Developers'. Kabushiki-gaisha rendered as 'Inc.' after the name."
+ },
+ {
+  "en": "                  Opera House Inc.",
+  "kind": "credits",
+  "note": "Second developer, aligned under row 1563's company column (9 full-width spaces -> 18 ASCII)."
+ },
+ {
+  "en": "    Copyright     Starfish SD Inc.",
+  "kind": "credits",
+  "note": "Chosaku/Kenri (authorship/rights) = copyright holder line."
+ },
+ {
+  "en": "                            ~ Fin ~",
+  "kind": "credits",
+  "note": "Leading spaces chosen to keep the source's horizontal centre (half-width column ~31)."
+ },
+ {
+  "en": "Failed to delete.\n",
+  "kind": "ui",
+  "note": "Matches slice_05 row 358 wording; trailing newline kept."
+ }
+]

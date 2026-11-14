@@ -1,0 +1,423 @@
+[
+ {
+  "id": "91101-ARG_TOP_IN.bin@83d7c",
+  "en": "The morning mist slowly lifts, and the towering mountains and the forests that nurture life gently awaken.{w}{p}The Crestard Continent is a land that has prospered under the light pouring down from the Palace of the Sun.{w}{p}Many races live on the continent, among them humans, elves and ogres.{w}{p}Over the long course of history, the elves built an empire in Roscadil, and the ogres raised their stronghold in Ogre Bay.{w}{p}And the humans flourish, with Algrantz at their heart.{w}",
+  "kind": "msg",
+  "note": "New place name: Ogre Bay (romanized from the katakana; 'bay' is literal). Narration kept in present tense as in the source."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83f1c",
+  "en": "The fortress city of Algrantz lies in the north-central part of the continent.{w}Its defining feature is the great wall that rings the entire city.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83f95",
+  "en": "The outside of the wall bore the painful scars of fierce fighting.{w}It was a stark contrast to the view inside, where not a stone was scratched.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8400a",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84013",
+  "en": "\"It looks proud, doesn't it? It's done its job, and done it well. It's not much to look at, but I like it.\"{w}",
+  "kind": "msg",
+  "note": "Speaker is Hanoi (revealed row 171). 'It' = the city wall the party is looking at (rows 161-162)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8406b",
+  "en": "In front of you stood a traveling merchant you had never seen before.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84090",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84099",
+  "en": "\"You're adventurers here, right?{w}Want to buy some salves? I'll give you a good price.\"{w}{p}\"...Hm?{w}You haven't registered yet?{w}I see, you're greenhorns... Let's have a look, then...\"{w}",
+  "kind": "msg",
+  "note": "'otaku' (you) = the party; plural kept since NPCs address the party."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84131",
+  "en": "The merchant walked a full circle around you, as if sizing you up, then gave a small nod.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84188",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84191",
+  "en": "\"...Well, whatever.{w}You came because you saw the Proclamation too, right? The one telling people to restore the Altar of Light?\"{w}{p}\"I hear a fortune-teller is coming from the Star Capital soon to hand out compasses again.\"{w}{p}\"If you register as adventurers now, you might just make it in time.\"{w}",
+  "kind": "msg",
+  "note": "New terms: 'Altar of Light' (hikari no saidan), 'Star Capital' (seito, a city name, not in glossary). 'too' = like the other applicants."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8427e",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84287",
+  "en": "\"I'm Hanoi, a traveling merchant.{w}I travel all over and make my living doing business wherever I go.{w}If you like, I can show you around town.\"{w}{p}\"...Why am I being so nice, you ask?{w}Ha ha! Connections are the foundation of business.{w}If we get along, we both come out ahead, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84368",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84388",
+  "en": "\"In times like these, let's help each other out.\"",
+  "kind": "data",
+  "note": "kind=data after a Hanoi name box: looks like the prompt line of the yes/no choice offering the tour (row 176 = refusal branch, row 182 = accept branch). 49 chars vs 22 full-width JP (~44 half-width). If the prompt slot is ~30 chars, short alt: \"Times are hard. Let's help each other.\""
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@843bf",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@843c8",
+  "en": "\"...Hmm.\"{w}{p}\"Well, I guess you've got your own plans. If you're short on time, I'll just give you the quick version.\"{w}",
+  "kind": "msg",
+  "note": "Refusal branch of the tour offer."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84438",
+  "en": "Hanoi gave you a quick rundown of the people in town.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8446f",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84478",
+  "en": "\"Well then, take care.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@844a1",
+  "en": "Hanoi left.{w}",
+  "kind": "msg",
+  "note": "Avoided a pronoun for Hanoi (glossary gender unknown)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@844d5",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@844de",
+  "en": "\"Okay, let's start with the Training Hall.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84555",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8455e",
+  "en": "\"I think that about covers everything.{w}I can't exactly take you into the castle, so you'll have to go there on your own.\"{w}{p}\"Well then, here's hoping you have a good journey.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84601",
+  "en": "Hanoi left.{w}",
+  "kind": "msg",
+  "note": "Same as row 180 (JP differs only in kana/kanji spelling)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8466d",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84676",
+  "en": "\"Registering here is an adventurer's first step.{w}If you don't register, you can't use any of the town's facilities for adventurers.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@846e7",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@846f2",
+  "en": "\"That's rare, you coming all the way out here. Don't tell me you're here to register?\"{w}",
+  "kind": "msg",
+  "note": "Fena speaks to Hanoi ('kimi' = Hanoi); Hanoi's reply in 191 confirms."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84743",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8474c",
+  "en": "\"No, no, these folks are the ones registering. Seems they came because they saw the Proclamation.\"{w}{p}\"They were wandering around near the wall, so I'm showing them around town.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@847e3",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@847ee",
+  "en": "\"I see. That's good of you to go to the trouble.{w}Nice to meet you. I'm Fena. I'm an instructor here.\"{w}{p}\"If you want to go adventuring, register here first, okay?\"{w}",
+  "kind": "msg",
+  "note": "'gokurousama' is addressed to Hanoi, for guiding the party."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84889",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84892",
+  "en": "\"Could you show them how to register? I don't know how things work inside the Training Hall myself.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@848f3",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@848fe",
+  "en": "\"Yeah, sure.\"{w}{p}\"Registering is easy.{w}You just decide on an epithet, a name and a nickname, then write down your race, gender and age.\"{w}{p}\"The classes you can take come in three tiers: basic, intermediate and advanced.\"{w}{p}\"As long as you meet the requirements, you can take any class you like. But the more advanced the class, the harder the requirements are to meet, so keep that in mind.\"{w}{p}\"Once you've built up some experience, I can help you change classes, too.\"{w}",
+  "kind": "msg",
+  "note": "'futatsuna' rendered 'epithet' -- check against the character-creation UI term once it is translated."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84a5d",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84a68",
+  "en": "\"I'm gonna whip you into shape, nice and hard, so look forward to it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84aab",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84ab4",
+  "en": "\"Just so you don't get the wrong idea, an advanced class doesn't necessarily make you stronger.{w}Strength comes in all kinds of forms, after all.\"{w}{p}\"The best thing you can do is take the class you actually want.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84b69",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84b74",
+  "en": "\"That's right!{w}Once you've had your tour of the town, come back and see me!\"{w}",
+  "kind": "msg",
+  "note": "Restructured to avoid gendering Hanoi: 'Once you've had your tour of the town' for 'once you've been shown around'."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84bbf",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84bc8",
+  "en": "\"All right, next let's head to the tavern.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84c21",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84c2a",
+  "en": "\"Once you've registered at the Training Hall, you can form a party at the tavern.{w}That's where you call in companions you get along with and get ready to set out.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84cca",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84cd3",
+  "en": "\"Huh, Hanoi? You're still here?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84d0a",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84d13",
+  "en": "\"Nah, I'm about to head out. I found some new marks... ahem, some folks who look like they'll make adventurers, so I'm showing them around town a little.\"{w}{p}\"This is Mucha.{w}She's the young lady who runs the tavern.\"{w}",
+  "kind": "msg",
+  "note": "'kamo' (sucker/easy mark) rendered 'marks', self-corrected with 'ahem' as in the source. Mucha's gender from the source ('musume-san' = young woman)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84dc8",
+  "en": "Mucha",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84dd3",
+  "en": "\"I'm Mucha! Ba-boom~!\"{w}",
+  "kind": "msg",
+  "note": "Mucha's catchphrase 'dondoon' (a drum boom) rendered 'Ba-boom'; reused in row 235. The music note in the source was replaced with '~' (ASCII only)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84e06",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84e0f",
+  "en": "\"...Well, she's a lively one.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84e40",
+  "en": "Mucha",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84e4b",
+  "en": "\"Everyone's welcome here, so feel free to drop by anytime!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84e8a",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84e93",
+  "en": "\"Say, Mucha, is that thing still not allowed?{w}You know, between people who don't get along...\"{w}",
+  "kind": "msg",
+  "note": "Deliberate trail-off kept. 'that thing' = the tavern rule against mixing Good and Evil (explained in row 225)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84efa",
+  "en": "Mucha",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84f05",
+  "en": "\"No!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84f24",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84f2d",
+  "en": "\"R-Right.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84f50",
+  "en": "Mucha",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@84f5b",
+  "en": "\"This tavern doesn't care who you are or where you come from, but I do have just one favor to ask...\"{w}{p}\"Please don't sit people of Good alignment and people of Evil alignment at the same table, or force them into a party together.\"{w}{p}\"Whenever good folks and bad folks end up side by side, nothing good ever comes of it!\"{w}{p}\"Just be careful about that one thing.{w}",
+  "kind": "msg",
+  "note": "Source leaves the last quote open at the {w}; row 227 continues the same quote. English mirrors that (no closing quote here)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85086",
+  "en": "Mucha",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85091",
+  "en": "{0E}\"Just be careful about that one thing.{0F}\n...And that goes for you too, Hanoi. Got it?\"{w}",
+  "kind": "msg",
+  "note": "Retranslated after escape-table fix: {0E}..{0F} highlights the repeated line."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@850dc",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@850e5",
+  "en": "\"This is Mucha.{w}She's a lively one, but she can really hold a grudge.\"{w}",
+  "kind": "msg",
+  "note": "Appears to be an alternative introduction of Mucha (separate branch from row 211)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8513a",
+  "en": "Mucha",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85145",
+  "en": "\"Hey, Hanoi!?{w}This was all your fault to begin with, you know!? After you went and...!\"{w}",
+  "kind": "msg",
+  "note": "Interrupted line kept unfinished ('After you went and...!')."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@851aa",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@851b3",
+  "en": "\"W-Well then, let's head to the inn next!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@851ec",
+  "en": "Mucha",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@851f7",
+  "en": "\"Hey! Don't you run away, ba-boom!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85258",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@85261",
+  "en": "\"Geez, she's such a nag...{w}Huh? You want to know what I did?{w}Don't worry about it. It's nothing big, really.\"{w}{p}\"Mucha says not to put good and evil in the same party, but...\"{w}{p}\"If you just meet up somewhere once you're out adventuring, she's got no right to complain.\"{w}{p}\"What I'm saying is, folks like us have all the loopholes we could ever want.\"{w}{p}\"All right, next up is the inn.\"{w}",
+  "kind": "msg",
+  "note": "'oretachi' (folks like us) taken as a general 'us' (Hanoi plus adventurers in general); could also mean Hanoi and his own kind. 'she' = Mucha."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@853eb",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@853f4",
+  "en": "\"This is the inn old man Zeppo runs.{w}Quiet, isn't it? You can rest up from your travels here.\"{w}",
+  "kind": "msg",
+  "note": "Zeppo is 'jii-san' (old man) in the source, so 'old man Zeppo'."
+ }
+]

@@ -1,0 +1,254 @@
+[
+ {
+  "id": "KIROKU.CSV:2:1",
+  "en": "Record 01",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:2:2",
+  "en": "Inukshuk",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:3:1",
+  "en": "Record 02",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:3:2",
+  "en": "Necrophilis",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:4:1",
+  "en": "Record 03",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:4:2",
+  "en": "Shaharon",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:5:1",
+  "en": "Record 04",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:5:2",
+  "en": "Dark Mayer",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:6:1",
+  "en": "Record 05",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:6:2",
+  "en": "Necrophilis",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:7:1",
+  "en": "Record 06",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:7:2",
+  "en": "Shaharon",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:8:1",
+  "en": "Record 07",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:8:2",
+  "en": "Showdown: Sun Palace",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:9:1",
+  "en": "Record 08",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:9:2",
+  "en": "Dark Fuhrer",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:10:1",
+  "en": "Record 09",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:10:2",
+  "en": "Wicked Mage",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:11:1",
+  "en": "Record 10",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:11:2",
+  "en": "Tiger Centaur III",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:12:1",
+  "en": "Record 11",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:12:2",
+  "en": "Yorfa",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:13:1",
+  "en": "Record 12",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:13:2",
+  "en": "Fourth Generation",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:14:1",
+  "en": "Record 13",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:14:2",
+  "en": "Red Qualia",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:15:1",
+  "en": "Record 14",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:15:2",
+  "en": "Blue Qualia",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:16:1",
+  "en": "Record 15",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:16:2",
+  "en": "Green Qualia",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:17:1",
+  "en": "Record 16",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:17:2",
+  "en": "Yel. Qualia",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:18:1",
+  "en": "Record 17",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:18:2",
+  "en": "Black Qualia",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:19:1",
+  "en": "Record 18",
+  "max": 12,
+  "used": false
+ },
+ {
+  "id": "KIROKU.CSV:19:2",
+  "en": "White Qualia",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:20:1",
+  "en": "Record 19",
+  "max": 12,
+  "used": false
+ },
+ {
+  "id": "KIROKU.CSV:20:2",
+  "en": "Divine Realm Executor",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:21:1",
+  "en": "Record 20",
+  "max": 12,
+  "used": false
+ },
+ {
+  "id": "KIROKU.CSV:21:2",
+  "en": "Hevayur",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "KIROKU.CSV:22:1",
+  "en": "Record 21",
+  "max": 12,
+  "used": false
+ },
+ {
+  "id": "KIROKU.CSV:22:2",
+  "en": "Demon Gen. Welsconi",
+  "max": 24,
+  "used": false
+ }
+]

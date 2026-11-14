@@ -1,0 +1,365 @@
+[
+ {
+  "en": "A kitchen knife beloved in homes and kitchens. It lacks the edge of a legendary weapon, but its blade radiates the unshakable confidence of having cut through every ingredient there is.",
+  "kind": "desc"
+ },
+ {
+  "en": "A technique that flicks any object with finger strength, turning it into a bullet. Pebbles, beans, coins: anything will do. Mastering it is a real asset; there was even a thief, \"Pessel the Finger Shot\", who aimed for the top with finger shots alone and got far, until an overcut nail forced retirement.",
+  "kind": "desc",
+  "note": "New name Pessel ([JP]); gender not stated, kept pronoun-free."
+ },
+ {
+  "en": "A magic brush that can paint only what really happened. History is always written and handed down by the victors to suit themselves. But this brush lays everything bare in broad daylight, convenient or not. That is why the powerful once loathed it and ordered it destroyed, it seems.",
+  "kind": "desc",
+  "note": "Item name not used in the text (name not yet fixed)."
+ },
+ {
+  "en": "A throwing knife carried by Jokers. A special treatment keeps it silent in flight. Thrown from the shadows, it can deal a fatal wound even to a veteran warrior. And once the victim can no longer move, the Joker appears, grinning from ear to ear.",
+  "kind": "desc",
+  "note": "Joker = the monster (MONSTER2)."
+ },
+ {
+  "en": "Swing it down hard and fast to pound mochi that is smooth and springy. When pounding mochi, keeping time with the partner who turns the dough is vital. One slip, and that partner's hand is mashed to a pulp, and the mochi turns bright red.",
+  "kind": "desc"
+ },
+ {
+  "en": "A splendid leaf, beautiful and firm. Its fibers are tightly intertwined, so it cannot be cut easily. This Flower King's Leaf purifies the air extremely well, enough to always supply fresh air even with no other plants around.",
+  "kind": "desc"
+ },
+ {
+  "en": "A buckler carried by Abi. \"Shield in the right hand! Shield in the left too, that's double! Raise them by the face, five times! Run, ten times! Total: a hundred times the defense!\" So Abi cried when cornered, and charged to the front line.",
+  "kind": "desc",
+  "note": "Abi: gender unknown, no pronouns."
+ },
+ {
+  "en": "A shield carried by Abi. Abi's theory made little sense, and even if defense really rose a hundredfold, no fight is won by defending alone. Abi only realized this when the enemy copied the trick and gave chase.",
+  "kind": "desc"
+ },
+ {
+  "en": "A phantom fog spawned by Reckdas. It is said to spread so wide and thick it can blanket a whole town or land. Within this nightmare, fear is said to take real form; once frightened, even a great hero will soon be fleeing in panic.",
+  "kind": "desc"
+ },
+ {
+  "en": "Ideas of the fist vary; thunder is often called \"the fist of the gods\". Indeed, perhaps only the gods can bring down a parent's fist on humans and elves in this land. But if a fist of divine wrath truly fell, we could only run away like babies.",
+  "kind": "desc",
+  "note": "[JP] = a parent's scolding knuckle-punch; rendered 'fist' to match item name Fist +3."
+ },
+ {
+  "en": "Some oozes are strongly acidic. Doused in one, armor melts and skin festers. Just how monsters keep such ooze inside their bodies is a fascinating question.",
+  "kind": "desc"
+ },
+ {
+  "en": "Light hitting a gem normally reflects and escapes as sparkle. But tweak that reflection with magic, and light can get in but not out. Give the light raging inside the gem one exit, and it will burst out as a single spear of light.",
+  "kind": "desc",
+  "note": "Compressed to fit 312."
+ },
+ {
+  "en": "The Progenitor: the vampire reigning at the top of the Kin of Night. Called the rulers of the night, they feed quite unlike lesser vampires. A single mouthful is said to sustain them for hundreds of years.",
+  "kind": "desc",
+  "note": "[JP] = 'kin of night' as in chap slice_021."
+ },
+ {
+  "en": "It is said that, very rarely, someone bearing this factor is found in the land. How the factor arises, and what purpose it serves, are both unknown.",
+  "kind": "desc"
+ },
+ {
+  "en": "A huge, hard, bullet-like rock gouged into a strange shape. Its nature changes with its maker's will: it can harden further or explode on impact as needed. But scarier than any trick is the plain attack of giant rocks raining down like hail.",
+  "kind": "desc"
+ },
+ {
+  "en": "Claws painted jet-black. A set crest is carved into them, meant to amplify magic power. A simple scratch can do damage too. Where these claws scratch, the spot is said to throb with heat and swell up.",
+  "kind": "desc"
+ },
+ {
+  "en": "It freely wields long, supple tentacles, raining them down like countless whips. At the tips are things like a flower's pistils. They simply act as weights that add damage, but their true role is to suck out nutrients.",
+  "kind": "desc",
+  "note": "Subject (the monster) unstated in source; kept impersonal 'It'."
+ },
+ {
+  "en": "This shining pure-white liquid has a beauty that enthralls all who see it. It also smells sweet and tempts you to lick it, but licking the Milky Way means death. Yet it is said to be sweeter than anything in this world, so dying that way might be happiness.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor said to guard its wearer, its defense growing with the strength of the oath held in the heart. But should the heart waver or the oath be broken, the breastplate will lose its defense. For this reason, its wearers are sometimes viewed with respect.",
+  "kind": "desc",
+  "note": "Item name ([JP], not yet fixed) replaced by 'the breastplate'."
+ },
+ {
+  "en": "A claw turned white like marble. Whether from grooming or by nature is unknown, but it stands out among the claws of all races.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bow possessed by the grudge of a beast of darkness. The grudge flies with each arrow; to the one shot, it looks like a savage beast flying at them, fangs bared.",
+  "kind": "desc"
+ },
+ {
+  "en": "A novice clown's outfit must look funny to make up for lacking skill. A seasoned clown, though, can create humor from within without relying on looks. So this outfit is tailored for ease of movement rather than a funny look.",
+  "kind": "desc",
+  "note": "[JP] = clown (wmap/chap)."
+ },
+ {
+  "en": "A spear spoken of among the Kin of Darkness as a famed lance. It never breaks, and it is said that gripping it lets you feel the thoughts of its past owners.",
+  "kind": "desc"
+ },
+ {
+  "en": "The robe worn by the king of the netherworld. The whole robe is wrapped in darkness, and looking at it feels like being drawn into the dark. In fact, surrender to that feeling and your soul is said to be torn out and taken to the netherworld.",
+  "kind": "desc",
+  "note": "[JP] kept generic, not the glossary title 'Nether King' ([JP])."
+ },
+ {
+  "en": "A Water Shot uses ordinary water, but this Foul Water Shot is fired using filth: sewage, mud and the like. If hit, countless toxins and germs enter the wound; even if you win that fight, you will not live long, they say.",
+  "kind": "desc",
+  "note": "[JP] rendered 'Water Shot' to match Foul Water Shot (slice_17)."
+ },
+ {
+  "en": "A terminus bored into the world: that is a Nonsense Codon. As the world's end nears, they are said to arise in many places at once. Any event pierced by a Nonsense Codon has no future left. It can only begin its slow march toward death.",
+  "kind": "desc"
+ },
+ {
+  "en": "Slimy stuff feels awful stuck to your clothes or body. But if you give in, thinking \"Oh, whatever,\" the discomfort turns dramatically into pleasure. Why not stop resisting and accept it just once? No responsibility taken if you can't come back from that world, though.",
+  "kind": "desc",
+  "note": "Compressed to fit 312."
+ },
+ {
+  "en": "Unlike an ordinary snowball, it is packed hard with magic, so it can withstand a fair amount of heat. If one is thrown at you, think less \"hard snowball\" and more \"fist-sized rock\".",
+  "kind": "desc"
+ },
+ {
+  "en": "Moisture in the air hardened into an arrow. Mages can produce similar ice arrows too, but snow spirits are said to fire five or six at once without even trying.",
+  "kind": "desc"
+ },
+ {
+  "en": "Water resists hard, so fish are surprisingly strong. This is their secret move: deftly using tail and fins, they knock a foe up, then smack the falling body sideways. Fishermen know its power well; with a green captain, you can watch them pop off the side of the boat one after another.",
+  "kind": "desc",
+  "note": "Compressed to fit 312."
+ },
+ {
+  "en": "A cruel move that crushes a foe under a huge foot. It looks like slow motion to an onlooker, but when targeted, your body freezes and you can't get away. And some stomps, even by feet of normal size, are said to inflict mental torment: fear and humiliation.",
+  "kind": "desc"
+ },
+ {
+  "en": "A costume for celebs, brought from a land far to the east. Many robes of different colors are layered so the colors show as stripes at the hem. But get carried away and pile on too many, and their weight will leave you unable to move, so beware.",
+  "kind": "desc",
+  "note": "[JP] (junihitoe); name not used in text."
+ },
+ {
+  "en": "A hooked-claw weapon made of bronze. Some are worn on the hand like gloves, but a monster's is usually part of its body. With the hardness of metal and a talon shape modeled on birds of prey, it can rip prey to shreds at will.",
+  "kind": "desc"
+ },
+ {
+  "en": "A heavy blow from a bronze foot. Rather than kick damage, it is built to \"break\" things through impact. The more precise and delicate the target, the greater the threat a Bronze Kick poses... Like, say, the human body.",
+  "kind": "desc",
+  "note": "Item name [JP] assumed 'Bronze Kick' (ITEM slice_18 not yet fixed)."
+ },
+ {
+  "en": "A very sturdy, hard club. Get hit in the wrong spot and you'll pass out, no trouble at all.",
+  "kind": "desc"
+ },
+ {
+  "en": "A club studded here and there with nails and the like for extra killing power. Get hit and you'll be bloodied and off to heaven, nice and easy.",
+  "kind": "desc"
+ },
+ {
+  "en": "The student handbook issued at Santorea Academy. It holds a mage's precepts in three scripts: Common, Ritual Magic and Spirit. Each year's classes teach students to read more, so each can learn the precepts suited to their power. The forebears clearly knew that neither too strict nor too lax will do.",
+  "kind": "desc",
+  "note": "Compressed to fit 312 (script names shortened)."
+ },
+ {
+  "en": "A wind shock wave, so to speak. A Sonic Boom closely resembles the attack called Vacuum Blade. The difference is that a Sonic Boom damages the brain directly rather than causing wounds. An unseen attack on the brain is terrifying, and no amount of caution helps much.",
+  "kind": "desc",
+  "note": "[JP] = Vacuum Blade (slice_17)."
+ },
+ {
+  "en": "A katana said to rival the legendary Murasame. Its blade evokes a tiger; whoever wields Kotetsu becomes fierce as a tiger and cuts down all in sight, they say. Its cut differs too: unlike Murasame, whose cut cannot even be seen, it leaves the wound in tatters.",
+  "kind": "desc",
+  "note": "New name Murasame ([JP])."
+ },
+ {
+  "en": "A simple yet razor-sharp sword. The blood of all it has cut has soaked into its blade, giving it a faint red glow. That blood grants its wielder the power of grudges. A dreadful sword that grows stronger the more people it cuts.",
+  "kind": "desc"
+ },
+ {
+  "en": "Said to be unleashed when a cursed spawn tears through its mother's womb to enter the world by its own will. A child born by nature's law, whatever its kind, is received and blessed by the land. But a life born without that blessing will have the land as its enemy from birth.",
+  "kind": "desc",
+  "note": "[JP] = 'cursed spawn'."
+ },
+ {
+  "en": "The blue flame rising from the ornate stand burns away the soul of all it touches. Unlike normal fire, it leaves not one burn on the body; it gnaws only at the mind. When touched by Blue Strike, what matters most is showing willpower that yields to nothing.",
+  "kind": "desc",
+  "note": "[JP] = 'ornate stand' (literal; context unclear)."
+ },
+ {
+  "en": "A farm tool found anywhere. But in a Farmer's hands, it turns from tool to weapon. I once heard that farm tools evolved from weapons, and it seems that was right. Still, one would rather it were used properly.",
+  "kind": "desc",
+  "note": "Farmer = job (chap slice_010)."
+ },
+ {
+  "en": "The ring around a sphere that always emits gravity is called a Gravity Ring; as the ring grows, so does the area of heavier gravity. But as it grows, the gravity waves disperse, so unless you get close to the sphere, it is not much of an attack.",
+  "kind": "desc",
+  "note": "Item name [JP] assumed 'Gravity Ring'."
+ },
+ {
+  "en": "A move where you leap at a foe and kick with both feet together. Botch the fall and the attacker is in danger too, but done right, its power is tremendous. The one kicked will likely drop whatever they were holding.",
+  "kind": "desc",
+  "note": "Dropkick (chap slice_002)."
+ },
+ {
+  "en": "Wings that not only fly but also create shock waves when flapped. Their colors and looks vary: wings like a bird of prey's, bat wings evoking the Kin of Darkness, beautiful pure-white wings and more.",
+  "kind": "desc"
+ },
+ {
+  "en": "Form a sign with the fingertips and jab it into the foe's *. Done right, the foe can't speak or move and just stands frozen. If an amateur tries, or hesitates, the user risks injury. The name Three-Year Death comes from a rumor that in a tournament for this move, many losers died three years later.",
+  "kind": "desc",
+  "note": "'*' kept as in source (censored target). Three-Year Death (glossary). Compressed to fit 312."
+ },
+ {
+  "en": "A stomp with a big, heavy bottom is harder to dodge than a normal foot stomp and does more damage. Partly it's just that the area is bigger than a foot, but more than that, anyone caught in this situation will freeze for an instant.",
+  "kind": "desc"
+ },
+ {
+  "en": "Once it clamps down, it is said to hold on with great force until its catch is split in two. If an ally gets caught, cast a fire spell at once. A clam roasted by fire soon opens its shell. Then rescue your ally right away.",
+  "kind": "desc"
+ },
+ {
+  "en": "A great fan also called the \"Banana Leaf Fan\". Tengu are said to raise winds and storms with it. Legend also says whoever holds a Tengu Fan gains the power to fly. That legend even suggests tengu may be humans who got hold of a Tengu Fan.",
+  "kind": "desc",
+  "note": "[JP] = Banana Leaf Fan; item name [JP] assumed 'Tengu Fan'."
+ },
+ {
+  "en": "If pitch-black clouds gather in the daytime sky, beware. The black lightning they unleash puts common lightning to shame. Struck by it, body and soul are burned away and held captive in the demon world, they say. To defend, get precious metals off your body at once.",
+  "kind": "desc",
+  "note": "[JP] kept generic 'black lightning' (item name not yet fixed)."
+ },
+ {
+  "en": "The mightiest swallow-whole, warping space to gulp down even things too big to swallow. Once targeted, there is next to no escape.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gloves made of tough animal hide. The outside is very hard leather, made for knocking foes down. But the inside is shock-absorbing material that protects your own fist. Truly gloves made for the fist.",
+  "kind": "desc"
+ },
+ {
+  "en": "Wasabi is a spice from the East, but it stings the nose more than the tongue, and differs a bit from what we eat daily. The sting can apparently be eased by breathing in through the nose. As for what role wasabi plays as a war banner, that's a long story, so let's save it for another time.",
+  "kind": "desc",
+  "note": "[JP] = war banner."
+ },
+ {
+  "en": "A war banner inscribed with the teaching \"Strike the foe swift as lightning.\" The larger an army grows, the less mobile it becomes. The Hatamoto, a unit's leader so to speak, must deal properly with such problems too.",
+  "kind": "desc",
+  "note": "Hatamoto (chap slice_016)."
+ },
+ {
+  "en": "A superhuman knee strike unleashed with genius flair. Its reach is long: at any opening, the user dashes in, steps up on the foe's body and delivers a humiliating knee. Truly a flash of a move, but it takes either the ultimate body or levitation magic adapted for speed.",
+  "kind": "desc",
+  "note": "[JP] = 'Shining Wizard' wrestling move; name not used in text."
+ },
+ {
+  "en": "The horn of a unicorn, ruler of purity. Hard to obtain, but it glows faintly even in darkness and is so beautiful it is highly prized as an antique. Since it is only the horn, anyone can touch it.",
+  "kind": "desc"
+ },
+ {
+  "en": "The horn of a bicorn, ruler of impurity. Bicorns are thought to be foes of unicorns, but some say a unicorn is a young bicorn that grows horns as it matures: the unicorn gave up understanding for purity, the bicorn knew the world at the cost of impurity. But is it true?",
+  "kind": "desc",
+  "note": "Compressed to fit 312."
+ },
+ {
+  "en": "A long, thick nail. From the far East, a charm came with it: on a night so dark even the moon hides, write the name of one you wish health and happiness, tie that person's hair to a magic puppet, and nail it to a tree with this nail.",
+  "kind": "desc",
+  "note": "Ironic 'health and happiness' kept as in source (it is a curse ritual). [JP] = magic puppet (glossary)."
+ },
+ {
+  "en": "Pour boiling water in through the spout on top, and Atnewolo's Hot Flask shows its true worth. If you have one, set it on wrinkled clothes and move it as if smoothing them out. The wrinkles will vanish and the clothes will look as good as new.",
+  "kind": "desc",
+  "note": "New name Atnewolo ([JP]), romanization guessed; item name assumed 'Atnewolo's Hot Flask' (a clothes iron)."
+ },
+ {
+  "en": "Once the host is gone, the monsters in the Hivanask all start using their powers to protect themselves from enemies. That combined power may or may not easily surpass even their host, Seot Mar. Either way, it is unwise to wake a sleeping child.",
+  "kind": "desc",
+  "note": "New names Hivanask ([JP]), Seot Mar ([JP]; Seot per glossary 'Seot's Demon Nest')."
+ },
+ {
+  "en": "A whip for drilling manners into children of good families. Unlike a normal whip, it is shaped like a springy rod. A snappy blow is a real menace to a child, and can scar them for life. But if the wielder is attractive or worthy of respect, that strictness can be felt as love, they say.",
+  "kind": "desc"
+ },
+ {
+  "en": "You hear a knock, fling the door wide open, and no one is there. Thinking it odd, you close it, and a groan comes from outside. The one who opened it says it's the fault of whoever stood there. That makes some sense, yet it somehow feels unfair.",
+  "kind": "desc"
+ },
+ {
+  "en": "Being told \"Come again!\" feels nice, however roughly you're thrown out. You resolve not to get kicked out next time, but next time, too, you get kicked out with a \"Come again!\"",
+  "kind": "desc"
+ },
+ {
+  "en": "A leotard steeped in the pleasure of destruction. The snug fabric clings to the skin with a suction-like fit, so much so that you could think you were wearing nothing. That strange feeling brings an even greater thrill.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mysterious barrier the Ryug possess. The Ryug alter it to suit their own nature as they go into battle. It takes three broad forms, but it is said some Aura Steeda change into something that fits none of the three.",
+  "kind": "desc",
+  "note": "Ryug (glossary). New name Aura Steeda ([JP]), romanization guessed."
+ },
+ {
+  "en": "In full, the Camp Edict on Regular Tuna. A helmet made by the Eastern lords called Daimyo. It was the first law on tuna, revered as divine in Eastern culture. Warriors and the court once feuded over tuna, but this helmet's enactment made tuna part of the cuisine, and peace came. --Eastern Records",
+  "kind": "desc",
+  "note": "[JP]: [JP] read as tuna grade ('regular'). New terms Daimyo, Eastern Records ([JP])."
+ },
+ {
+  "en": "The helmet worn by Taizarti, Demon Duke of the direct line. It is a plain iron helmet, but the Kin of Darkness know whose it is, and all who see it tremble in fear. With this helmet, it is said, the Sea of the Wastes is as good as conquered.",
+  "kind": "desc",
+  "note": "Taizarti (glossary), [JP] = Demon Duke (chap slice_019). New: Sea of the Wastes ([JP]). Item name not used."
+ },
+ {
+  "en": "A white cloth often worn by ghosts born in Eastern lands. It is said to mark a ghost's rank, so aiming at the cloth may rattle them. Snatch it and run, and you can enjoy a game of tag to the ends of the earth, with your life on the line.",
+  "kind": "desc",
+  "note": "[JP] (hitai-eboshi); name not used in text."
+ },
+ {
+  "en": "The noble armor of a royal palace knight. Its beautiful ornaments nurture the wearer's heart and instill dignity worthy of the armor. The more you wear it, the better you will know the importance of the duty called Imperial Guard.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor said to hold the magic of obsidian. Wear it, and it will guard you like a solid tortoise-shell wall.",
+  "kind": "desc",
+  "note": "Four Symbols set (tortoise/phoenix/tiger/dragon) with 2345-2347."
+ },
+ {
+  "en": "The trousers worn by Don Magus. They look hard to move in, but try them on and you'll be amazed how easy they are. The cloth carries a light magic that lets the sluggish move fairly well. It is thanks to Big Daddy that Don Magus moves in ways that don't fit that build.",
+  "kind": "desc",
+  "note": "New name Don Magus ([JP]); gender not stated, no pronouns."
+ },
+ {
+  "en": "A sword Undine holds dear. Only a knight she has opened her heart to may wield it. The water clan cherishes Undine; should anyone make her cry, the whole clan will come for revenge. Do you have the heart to answer her devotion?",
+  "kind": "desc",
+  "note": "Undine ([JP] in source)."
+ },
+ {
+  "en": "In Eastern culture, the hadajuban is apparently seen as underwear. It is also common garb for the dead, so it seems essential for Eastern ghosts. When wet, the cloth turns see-through. A young maiden bathing in a hadajuban would make a picture all on her own.",
+  "kind": "desc"
+ },
+ {
+  "en": "A corset laced so tight its tip has become pointed. Wear this, and you too can gain a wonderfully toned body! ...Maybe. Rumor has it the tip of this corset actually leads to the \"Point\".",
+  "kind": "desc",
+  "note": "[JP] unclear reference; rendered literally as \"Point\"."
+ },
+ {
+  "en": "Gauntlets said to hold the magic of ruby. Worn on both arms, their trail of rubies seems to blaze like a phoenix.",
+  "kind": "desc"
+ },
+ {
+  "en": "Shoes the pale color of ivory. Wear them, and a noble heart dwells in you, giving you the strength and beauty of a tiger, they say.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mantle that gives off a deep blue light. Wear it, and as an incarnation of the blue water dragon, you are said to gain rare wisdom.",
+  "kind": "desc"
+ },
+ {
+  "en": "A fashion item made for people without facial hair. Put it on and any face turns pretty, so pretty that no one can resist teasing you.",
+  "kind": "desc"
+ },
+ {
+  "en": "\"Furugatari Mutsusumeragi Norito.\" It uses the character for land, so you might think it a prayer to the earth, but apparently not. What could \"Land Sovereign\" mean? This prayer is a blood scroll, written in blood. Whose blood, no one knows.",
+  "kind": "desc",
+  "note": "Reading of [JP] given in source; romanized."
+ }
+]

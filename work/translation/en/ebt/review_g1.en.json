@@ -1,0 +1,1791 @@
+[
+ {
+  "en": "Saving screenshot...",
+  "kind": "ui"
+ },
+ {
+  "en": "Resuming...",
+  "kind": "ui",
+  "note": "Fukki shori = return/restore processing; likely shown when resuming after the screenshot or sleep. Could also be 'Restoring...'."
+ },
+ {
+  "en": "Alumite",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Arumaito = the word 'alumite' (anodized aluminium)."
+ },
+ {
+  "en": "Nicol",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). 'Nicol' chosen over gendered 'Nicole'."
+ },
+ {
+  "en": "So-Elia",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Double-hyphen separator rendered as '-'. Could be 'So-Eria'."
+ },
+ {
+  "en": "Massa",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...)."
+ },
+ {
+  "en": "Novent",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Could be 'Nobent'."
+ },
+ {
+  "en": "Wakasaa",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Long vowel written as doubled vowel."
+ },
+ {
+  "en": "VILER",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Full-width Latin -> ASCII."
+ },
+ {
+  "en": "Konsaisai",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...)."
+ },
+ {
+  "en": "Yomogi",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Fills max_bytes exactly (6)."
+ },
+ {
+  "en": "Geepoe",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...)."
+ },
+ {
+  "en": "Wasshii",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...)."
+ },
+ {
+  "en": "DDT",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Full-width Latin -> ASCII."
+ },
+ {
+  "en": "Nepda",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...)."
+ },
+ {
+  "en": "Dontesu",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). 'Don' + kana 'tesu' (pun on 'desu'?)."
+ },
+ {
+  "en": "Hahn",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Could be 'Haan'."
+ },
+ {
+  "en": "Piccano",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Could be 'Pikkano'."
+ },
+ {
+  "en": "Eckas",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...)."
+ },
+ {
+  "en": "Sendy",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Could be 'Sendi'."
+ },
+ {
+  "en": "What is the self?",
+  "kind": "ui",
+  "note": "Riddle/prompt; literal 'What is the self (ware)?'. 'What am I?' also possible."
+ },
+ {
+  "en": "           Mysterious letters rose into view\n   ",
+  "kind": "ui",
+  "note": "Kept leading indent so the line stays centred on the same column as the Japanese (11 cols indent); trailing '\n' + 3 spaces = full-width+half-width space indent for the following runtime text."
+ },
+ {
+  "en": "\n   ",
+  "kind": "ui",
+  "note": "Line break + indent only (full-width + half-width space -> 3 ASCII spaces)."
+ },
+ {
+  "en": "Which stat do you want to raise?",
+  "kind": "ui"
+ },
+ {
+  "en": "        Strength      Intellect     Piety",
+  "kind": "ui",
+  "note": "Option row: words start at half-width columns 8/22/36 like the Japanese (assumes fixed-pitch layout / cursor positions). Stat names to be matched with the status-screen stat labels."
+ },
+ {
+  "en": "        Vitality      Agility       Luck",
+  "kind": "ui",
+  "note": "Option row: words start at columns 8/22/36 like the Japanese."
+ },
+ {
+  "en": "Change to which alignment?",
+  "kind": "ui",
+  "note": "Seikaku here = alignment (options are Good/Neutral/Evil)."
+ },
+ {
+  "en": "        Good          Neutral       Evil",
+  "kind": "ui",
+  "note": "Glossary alignment terms; words start at columns 8/22/36 like the Japanese."
+ },
+ {
+  "en": "1st",
+  "kind": "ui",
+  "note": "Yuushou = victory/champion; rendered as '1st' to match the 2nd/3rd rows and the 4-column width. 'Winner' is the alternative."
+ },
+ {
+  "en": "2nd",
+  "kind": "ui"
+ },
+ {
+  "en": "3rd",
+  "kind": "ui"
+ },
+ {
+  "en": "%s has vanished",
+  "kind": "ui",
+  "note": "Shoushitsu = vanished/disappeared, kept distinct from the 'Lost' (rosuto) status used in row 66."
+ },
+ {
+  "en": "%s has turned to ash",
+  "kind": "ui"
+ },
+ {
+  "en": "Your party was wiped out",
+  "kind": "ui"
+ },
+ {
+  "en": "\nAll members have been lost",
+  "kind": "ui",
+  "note": "Follows row 65 on a second line; 'lost' = permanent Lost status."
+ },
+ {
+  "en": "You deactivated the compass.",
+  "kind": "ui"
+ },
+ {
+  "en": "You set the compass to %s.",
+  "kind": "ui",
+  "note": "%s = compass target (likely a location or person)."
+ },
+ {
+  "en": "There are no usable skills",
+  "kind": "ui"
+ },
+ {
+  "en": "Enter a password to use the Book of the Next Age.",
+  "kind": "ui",
+  "note": "Literal: the Book's effect cannot be used unless a password is entered. Rephrased to fit one line (49 cols vs 50 for the Japanese)."
+ },
+ {
+  "en": "The Training Hall is full",
+  "kind": "ui",
+  "note": "No free slot in the Training Hall (glossary)."
+ },
+ {
+  "en": "Requires a class change to equip",
+  "kind": "ui",
+  "note": "Literal: cannot equip unless (the character) has changed class."
+ },
+ {
+  "en": "This item is equipped",
+  "kind": "ui"
+ },
+ {
+  "en": "A main weapon can't be equipped as a sub",
+  "kind": "ui",
+  "note": "Main/sub weapon slots."
+ },
+ {
+  "en": "Mage",
+  "kind": "ui",
+  "note": "Glossary class name."
+ },
+ {
+  "en": "Priest",
+  "kind": "ui",
+  "note": "Glossary class name."
+ },
+ {
+  "en": "Alchemist",
+  "kind": "ui",
+  "note": "NEW TERM (class). 9 cols vs 8 for the Japanese; used in 2 places."
+ },
+ {
+  "en": "Summoner",
+  "kind": "ui",
+  "note": "NEW TERM (class). 8 cols vs 6 for the Japanese; used in 3 places."
+ },
+ {
+  "en": "0",
+  "kind": "ui",
+  "note": "Full-width digit -> ASCII; digit list continues in slice_02."
+ },
+ {
+  "en": "1",
+  "kind": "ui"
+ },
+ {
+  "en": "2",
+  "kind": "ui"
+ },
+ {
+  "en": "3",
+  "kind": "ui"
+ },
+ {
+  "en": "4",
+  "kind": "ui"
+ },
+ {
+  "en": "5",
+  "kind": "ui"
+ },
+ {
+  "en": "6",
+  "kind": "ui"
+ },
+ {
+  "en": "7",
+  "kind": "ui"
+ },
+ {
+  "en": "8",
+  "kind": "ui"
+ },
+ {
+  "en": "9",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a character to treat.",
+  "kind": "ui",
+  "note": "Rust Temple treatment menu."
+ },
+ {
+  "en": "Choose who will pay the offering.",
+  "kind": "ui",
+  "note": "[JP] = 'offering', as in the temple dialogue (wmap slice_08/16)."
+ },
+ {
+  "en": "O Ildraha, god of life,\nplease grant us your blessing.",
+  "kind": "ui",
+  "note": "Temple prayer. [JP] rendered 'god of life' to match wmap slice_16. Kept the single line break."
+ },
+ {
+  "en": "Treatment complete.",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a character to retrieve.",
+  "kind": "ui",
+  "note": "Temple corpse retrieval ([JP] = 'corpse retrieval' in wmap slice_07)."
+ },
+ {
+  "en": "Retrieving............",
+  "kind": "ui",
+  "note": "Six ellipsis characters (12 columns) -> 12 dots."
+ },
+ {
+  "en": "Retrieval complete.",
+  "kind": "ui"
+ },
+ {
+  "en": "Enter the dungeon's name.",
+  "kind": "ui",
+  "note": "Text-entry prompt; feature context (user dungeon data?) not confirmed."
+ },
+ {
+  "en": "Enter the dungeon's description.",
+  "kind": "ui"
+ },
+ {
+  "en": "Enter the line spoken before battle.",
+  "kind": "ui",
+  "note": "[JP] = a character's spoken line."
+ },
+ {
+  "en": "Enter the line spoken after battle.",
+  "kind": "ui"
+ },
+ {
+  "en": "Select the routine for the Circle button.",
+  "kind": "ui",
+  "note": "[JP] 'routine': feature not identified (battle shortcut?)."
+ },
+ {
+  "en": "Select the spell for the Triangle button.",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a topic.",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a picture.",
+  "kind": "ui",
+  "note": "[JP] = picture; likely a gallery/painting viewer."
+ },
+ {
+  "en": "Choose a recorded history.",
+  "kind": "ui",
+  "note": "[JP] 'recorded history'; probably a log/book viewer."
+ },
+ {
+  "en": "Choose a request.",
+  "kind": "ui",
+  "note": "[JP] = townsfolk problems brought to the party (cf. ebt row 184 'solve this one'). Rendered 'request'; [JP] appears only in an appraisal prompt, so no clash."
+ },
+ {
+  "en": "Obtained 3 Fame!",
+  "kind": "ui",
+  "note": "Matches story wording 'Obtained {..} Fame!'. Japanese uses a literal full-width 3, no placeholder."
+ },
+ {
+  "en": "Choose a hint.",
+  "kind": "ui"
+ },
+ {
+  "en": "Who will pay the fee?",
+  "kind": "ui"
+ },
+ {
+  "en": "Hint purchased.",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose an alchemy item.",
+  "kind": "ui"
+ },
+ {
+  "en": "Alchemy item info purchased.",
+  "kind": "ui"
+ },
+ {
+  "en": "Researching...                    ",
+  "kind": "ui",
+  "note": "Progress animation frames 123-128: text + growing dots, padded with ASCII spaces to a constant 34 columns (source pads with full-width spaces to a constant 17 full-width chars = 34 columns). If the font is proportional, padding is approximate."
+ },
+ {
+  "en": "Researching.......                ",
+  "kind": "ui"
+ },
+ {
+  "en": "Researching...........            ",
+  "kind": "ui"
+ },
+ {
+  "en": "Researching...............        ",
+  "kind": "ui"
+ },
+ {
+  "en": "Researching...................    ",
+  "kind": "ui"
+ },
+ {
+  "en": "Researching.......................",
+  "kind": "ui",
+  "note": "Last frame: no padding needed (source has none either)."
+ },
+ {
+  "en": "This party was wiped out. It can't be resumed.",
+  "kind": "ui",
+  "note": "Shown on a suspended ([JP]) save whose party was annihilated. Editorial: 'It cannot resume' made the party the one resuming; reworded so the suspended game is what cannot be resumed."
+ },
+ {
+  "en": "Save Data %s",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose the weather you want. ",
+  "kind": "ui",
+  "note": "Source ends with a full-width space; kept one ASCII space."
+ },
+ {
+  "en": "Choose a character to swap.",
+  "kind": "ui"
+ },
+ {
+  "en": "Swapped.",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a class.",
+  "kind": "ui"
+ },
+ {
+  "en": "Class changed.",
+  "kind": "ui"
+ },
+ {
+  "en": "Registration changed.",
+  "kind": "ui"
+ },
+ {
+  "en": "Enter the new spell name.",
+  "kind": "ui",
+  "note": "[JP] literally 'please change the spell name'; prompt for a name-entry screen."
+ },
+ {
+  "en": "Choose a character to check.",
+  "kind": "ui"
+ },
+ {
+  "en": "%s Level %s Spells",
+  "kind": "ui",
+  "note": "First %s probably a spell school (Mage/Priest/Alchemist/Summoner, rows 75-78); second %s probably a full-width digit (rows 79-88)."
+ },
+ {
+  "en": "Cast it on which item?",
+  "kind": "ui"
+ },
+ {
+  "en": "Cast the spell.",
+  "kind": "ui"
+ },
+ {
+  "en": "Used.",
+  "kind": "ui",
+  "note": "Subject/object not settled (item or skill?); kept impersonal."
+ },
+ {
+  "en": "Choose a floor.",
+  "kind": "ui",
+  "note": "[JP] = dungeon floor/level."
+ },
+ {
+  "en": "Choose a location.",
+  "kind": "ui"
+ },
+ {
+  "en": "Select a skill.",
+  "kind": "ui"
+ },
+ {
+  "en": "The monster set out on a second life\nas an adventurer.",
+  "kind": "ui",
+  "note": "Kept one line break; moved to the natural break point."
+ },
+ {
+  "en": "Select an item.",
+  "kind": "ui"
+ },
+ {
+  "en": "Equipped.",
+  "kind": "ui",
+  "note": "max_bytes 12; 9 bytes."
+ },
+ {
+  "en": "Triangle: Resists & Slaying   Cross: Back",
+  "kind": "ui",
+  "note": "[JP] = extra damage vs a creature type; 'Slaying' (Wizardry convention). Coordinate with item-effect slices ([Wpn] [JP])."
+ },
+ {
+  "en": "Triangle: Special Effects & Resists  Cross: Back",
+  "kind": "ui",
+  "note": "[JP] = on-hit status effects (sleep, poison...). 44 chars, under the ~46 line width."
+ },
+ {
+  "en": "Triangle: Equip Limits & Passives  Cross: Back",
+  "kind": "ui",
+  "note": "[JP] = who can equip, [JP] = automatic/passive effects."
+ },
+ {
+  "en": "Choose who to use it on.",
+  "kind": "ui"
+ },
+ {
+  "en": "Handed over.",
+  "kind": "ui",
+  "note": "Item given to another character."
+ },
+ {
+  "en": "The Rock Counter reads %03d.",
+  "kind": "ui",
+  "note": "[JP]: new term 'Lock Counter' (an item/device; not in glossary)."
+ },
+ {
+  "en": "You rested in the tent.",
+  "kind": "ui"
+ },
+ {
+  "en": "(",
+  "kind": "ui"
+ },
+ {
+  "en": "Cannot create more than %d entries.",
+  "kind": "ui",
+  "note": "[JP] = save/data entries."
+ },
+ {
+  "en": "?",
+  "kind": "ui",
+  "note": "Item-list marker next to [JP] and [JP] (equipped): [JP] = unidentified. One-glyph slot; used '?' (Wizardry convention)."
+ },
+ {
+  "en": "B",
+  "kind": "ui",
+  "note": "Item-list marker: [JP] = broken item (items can be put in [JP]). One-glyph slot; 'B' chosen, could also be '#'/'X'."
+ },
+ {
+  "en": "E",
+  "kind": "ui",
+  "note": "Equipped marker in item lists (assumed)."
+ },
+ {
+  "en": "O",
+  "kind": "ui",
+  "note": "Full-width circle -> ASCII 'O' (can-use/available mark). Font may have the real glyph; orchestrator may prefer keeping it."
+ },
+ {
+  "en": "X",
+  "kind": "ui",
+  "note": "Full-width cross -> ASCII 'X' (pairs with row 161)."
+ },
+ {
+  "en": "Sold Out",
+  "kind": "ui"
+ },
+ {
+  "en": "Inf",
+  "kind": "ui",
+  "note": "Infinity sign (unlimited shop stock, assumed). ASCII has no infinity; 'Inf' is 3 chars vs 2 cols in JP -- check column fit."
+ },
+ {
+  "en": "Yes",
+  "kind": "ui",
+  "note": "'ari' = present/yes. Context unseen; could be On/Off if this is an option toggle. Pairs with row 166."
+ },
+ {
+  "en": "None",
+  "kind": "ui",
+  "note": "'nashi' (5 uses): 'None' chosen to cover empty-slot uses; if the pair is an option toggle, 'Off' may read better."
+ },
+ {
+  "en": "-Storage-",
+  "kind": "ui"
+ },
+ {
+  "en": "------",
+  "kind": "ui",
+  "note": "Separator/empty-slot filler; 6 ASCII hyphens for 6 full-width dashes (narrower on screen)."
+ },
+ {
+  "en": "Yes",
+  "kind": "ui"
+ },
+ {
+  "en": "No",
+  "kind": "ui"
+ },
+ {
+  "en": "Return to the inn?",
+  "kind": "ui"
+ },
+ {
+  "en": "Change to this class?",
+  "kind": "ui"
+ },
+ {
+  "en": "Buy this. Are you sure?",
+  "kind": "ui"
+ },
+ {
+  "en": "Sell this. Are you sure?",
+  "kind": "ui"
+ },
+ {
+  "en": "Trade this. Are you sure?",
+  "kind": "ui",
+  "note": "'torihiki' = trade/exchange (trading menu)."
+ },
+ {
+  "en": "Change personality comment?",
+  "kind": "ui"
+ },
+ {
+  "en": "Change Extra Skill?",
+  "kind": "ui",
+  "note": "New term: Extra Skill."
+ },
+ {
+  "en": "Enter personality comment?",
+  "kind": "ui"
+ },
+ {
+  "en": "Register this character?",
+  "kind": "ui"
+ },
+ {
+  "en": "Suspend adventure. Are you sure?",
+  "kind": "ui",
+  "note": "'chuudan' = suspend (quit for now)."
+ },
+ {
+  "en": "Use this?",
+  "kind": "ui",
+  "note": "Facility/service unknown; generic."
+ },
+ {
+  "en": "Is this OK?",
+  "kind": "ui"
+ },
+ {
+  "en": "Dismantle it. Are you sure?",
+  "kind": "ui",
+  "note": "'bunkai' = break an item down (alchemy)."
+ },
+ {
+  "en": "Solve this request for 'em! Got it!?",
+  "kind": "ui",
+  "note": "Speaker unseen; rough, pushy voice ('yare yo! na!?'). 'soudan' = someone's problem/consultation, pairs with Solved/Unsolved rows 225-226. Editorial: soudan unified as 'request' with row 116 and csvt 497/498 (request list / request solved); same feature."
+ },
+ {
+  "en": "Buy a hint?",
+  "kind": "ui"
+ },
+ {
+  "en": "Delete this character?",
+  "kind": "ui"
+ },
+ {
+  "en": "Restore all options to default?",
+  "kind": "ui"
+ },
+ {
+  "en": "Request an appraisal?",
+  "kind": "ui"
+ },
+ {
+  "en": "Sell this item. Are you sure?",
+  "kind": "ui"
+ },
+ {
+  "en": "Uncurse/Repair it?",
+  "kind": "ui"
+ },
+ {
+  "en": "Unleash its hidden power?",
+  "kind": "ui"
+ },
+ {
+  "en": "Really discard it?",
+  "kind": "ui"
+ },
+ {
+  "en": "Save to which slot?",
+  "kind": "ui",
+  "note": "Lit. 'Where will you save?'"
+ },
+ {
+  "en": "Is it OK to save your current progress?",
+  "kind": "ui"
+ },
+ {
+  "en": "Resume the game?",
+  "kind": "ui"
+ },
+ {
+  "en": "Are you really sure you want to delete this?",
+  "kind": "ui"
+ },
+ {
+  "en": "Are you sure you want to delete this?",
+  "kind": "ui"
+ },
+ {
+  "en": "Install game data?",
+  "kind": "ui"
+ },
+ {
+  "en": "Spend Fame to imbue it with light?",
+  "kind": "ui",
+  "note": "'hikari wo yadosu': 'it' is assumed to be the compass (wmap rows 1184/1220: Fame turned into compass light). Exactly 34 bytes."
+ },
+ {
+  "en": "Change the icon image and style image?",
+  "kind": "ui",
+  "note": "Icon = small portrait, style = full character art (assumed)."
+ },
+ {
+  "en": "Save your data?",
+  "kind": "ui"
+ },
+ {
+  "en": "No confirmation message available\n",
+  "kind": "ui",
+  "note": "Debug fallback; trailing \n kept (counts 1 byte)."
+ },
+ {
+  "en": "Item sold.",
+  "kind": "ui"
+ },
+ {
+  "en": "Uncursed/Repaired.",
+  "kind": "ui"
+ },
+ {
+  "en": "Strange smoke rises!!",
+  "kind": "ui",
+  "note": "Alchemy Storage mishap."
+ },
+ {
+  "en": "It exploded!!",
+  "kind": "ui",
+  "note": "Subject = the Alchemy Storage (row 207)."
+ },
+ {
+  "en": "You found something in the wreckage.",
+  "kind": "ui",
+  "note": "Full sense 'found something from the exploded Alchemy Storage' does not fit 36; 'wreckage' + row 206 'It exploded!!' carries it. Exactly 36 bytes."
+ },
+ {
+  "en": "Discarded.",
+  "kind": "ui"
+ },
+ {
+  "en": "Donated.",
+  "kind": "ui"
+ },
+ {
+  "en": "Purchased.",
+  "kind": "ui"
+ },
+ {
+  "en": "Select the save data to load.",
+  "kind": "ui"
+ },
+ {
+  "en": "\nPress Triangle to delete this data.",
+  "kind": "ui",
+  "note": "Triangle button glyph spelled out (ASCII only)."
+ },
+ {
+  "en": "Save data loaded.",
+  "kind": "ui"
+ },
+ {
+  "en": "Starting a new game.",
+  "kind": "ui"
+ },
+ {
+  "en": "Installing data will make\nthe game load faster.",
+  "kind": "ui"
+ },
+ {
+  "en": "\n*Existing install data will be deleted.",
+  "kind": "ui",
+  "note": "Reference mark -> '*'."
+ },
+ {
+  "en": "\n*No Memory Stick is inserted.",
+  "kind": "ui",
+  "note": "U+2502 after the Memory Stick name is presumably the TM glyph in the game font; dropped (ASCII only). Same in 232/238/239."
+ },
+ {
+  "en": "Installation failed.\nAborting installation.",
+  "kind": "ui"
+ },
+ {
+  "en": "Bare Hands",
+  "kind": "ui",
+  "note": "Empty weapon slot / unarmed."
+ },
+ {
+  "en": "-",
+  "kind": "ui"
+ },
+ {
+  "en": "Current HP is below ",
+  "kind": "ui",
+  "note": "First half of 'HP below N% of max HP'; a number is assumed to be drawn between 221 and 222. Trailing space kept for the number; 20 chars = JP width."
+ },
+ {
+  "en": "percent of max HP",
+  "kind": "ui",
+  "note": "Second half (see 221). | Orchestrator: no literal % (string may go through printf)."
+ },
+ {
+  "en": "Save          ",
+  "kind": "ui",
+  "note": "'Save' + 10 ASCII spaces = JP width (4 + 5 full-width spaces); padding likely blanks a wider label."
+ },
+ {
+  "en": "Party %3d",
+  "kind": "ui"
+ },
+ {
+  "en": "Solved",
+  "kind": "ui"
+ },
+ {
+  "en": "Unsolved",
+  "kind": "ui"
+ },
+ {
+  "en": "Bought",
+  "kind": "ui",
+  "note": "Hint purchased status (row 185)."
+ },
+ {
+  "en": "????????????????",
+  "kind": "ui",
+  "note": "Unknown/masked field: 16 ASCII '?' for 16 full-width (1:1; narrower on screen)."
+ },
+ {
+  "en": "                ",
+  "kind": "ui",
+  "note": "Blank filler: 16 ASCII spaces for 16 full-width spaces (1:1). If it must blank the same pixel width, use 32."
+ },
+ {
+  "en": "...",
+  "kind": "ui"
+ },
+ {
+  "en": "   ",
+  "kind": "ui",
+  "note": "Blank filler: 3 ASCII spaces for 3 full-width (1:1); pairs with row 230."
+ },
+ {
+  "en": "%s\nDo not remove the Memory Stick.",
+  "kind": "ui"
+ },
+ {
+  "en": "Saving...",
+  "kind": "ui"
+ },
+ {
+  "en": "Save complete.",
+  "kind": "ui",
+  "note": "Exactly 14 bytes."
+ },
+ {
+  "en": "Save failed.",
+  "kind": "ui"
+ },
+ {
+  "en": "Loading data...",
+  "kind": "ui"
+ },
+ {
+  "en": "Save data is corrupt.\nIt will be deleted.",
+  "kind": "ui",
+  "note": "Exactly 41 bytes incl. newline."
+ },
+ {
+  "en": "Deleting corrupted save data.\nDo not remove the Memory Stick.",
+  "kind": "ui",
+  "note": "Editorial: 'corrupted' to match the parallel messages 356/359/360 (237 keeps 'corrupt' for its 41-byte limit)."
+ },
+ {
+  "en": "Please insert a Memory Stick with\nat least %dKB of free space.",
+  "kind": "ui"
+ },
+ {
+  "en": "No Memory Stick\nis inserted.",
+  "kind": "ui",
+  "note": "Source has the font's TM glyph after Memory Stick; dropped (ASCII only). Pro-drop restored as 'No Memory Stick is inserted'."
+ },
+ {
+  "en": "Not enough free space.\nNeed %dKB more.",
+  "kind": "ui",
+  "note": "max_bytes 39: 38 used."
+ },
+ {
+  "en": "No Memory Stick is inserted.\nA Memory Stick with %dKB\nof free space is required.",
+  "kind": "ui"
+ },
+ {
+  "en": "Not enough space on the Memory Stick.\n%dKB more is needed.\nLaunching the data deletion utility.",
+  "kind": "ui"
+ },
+ {
+  "en": "Failed to load.",
+  "kind": "ui"
+ },
+ {
+  "en": "No Memory Stick is inserted.\nTo save data, a Memory Stick with at least\n%dKB of free space is required.",
+  "kind": "ui"
+ },
+ {
+  "en": "To save this game's data,\n%dKB more is required.",
+  "kind": "ui"
+ },
+ {
+  "en": "Which save data do you want to overwrite?\n(Up/Down: select, Circle: confirm)",
+  "kind": "ui",
+  "note": "Circle button written as 'Circle' (no ASCII circle glyph)."
+ },
+ {
+  "en": "Deleting...",
+  "kind": "ui",
+  "note": "Progress message; '...' added to match an ongoing action."
+ },
+ {
+  "en": "to",
+  "kind": "ui",
+  "note": "Single kanji 'until/up to', 2-byte fixed slot, 2 uses; display context unknown. If it is appended directly after a number, '~' may read better."
+ },
+ {
+  "en": "Resurrection failed. The character is lost.",
+  "kind": "ui",
+  "note": "Wizardry-style permanent loss ('lost'). Subject restored as 'the character' (no name insert in source)."
+ },
+ {
+  "en": "Resurrection failed. The character is now ash.",
+  "kind": "ui",
+  "note": "Ashed state (one step before lost)."
+ },
+ {
+  "en": "%s-%s",
+  "kind": "ui",
+  "note": "Full-width dash -> ASCII hyphen."
+ },
+ {
+  "en": "Class Icons",
+  "kind": "ui",
+  "note": "Portrait-set list: the class-icon set, followed by the preset character design sets (credited in slice_20 rows 1546-1556 as preset character designs)."
+ },
+ {
+  "en": "Grace 1",
+  "kind": "ui",
+  "note": "Preset portrait set name (credits slice_20 row 1547)."
+ },
+ {
+  "en": "Grace 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Kanosuke 1",
+  "kind": "ui",
+  "note": "Credits spell it in kanji (slice_20 row 1548); romanized Kanosuke."
+ },
+ {
+  "en": "Kanosuke 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Aruna 1",
+  "kind": "ui",
+  "note": "Romanized Aruna (alt. 'Alna')."
+ },
+ {
+  "en": "Aruna 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Meme 1",
+  "kind": "ui",
+  "note": "Credits give the full set name as 'Meme(star)Stampy' (slice_20 row 1550); menu uses short form."
+ },
+ {
+  "en": "Meme 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Green 1",
+  "kind": "ui",
+  "note": "Source already in Latin letters (full-width)."
+ },
+ {
+  "en": "Green 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Froila 1",
+  "kind": "ui",
+  "note": "Romanized Froila (alt. 'Floira'/'Furoira')."
+ },
+ {
+  "en": "Froila 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Garveon 1",
+  "kind": "ui",
+  "note": "Romanized Garveon (v from the source's vu-kana)."
+ },
+ {
+  "en": "Garveon 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Common 1",
+  "kind": "ui",
+  "note": "Read as the English word 'common' (generic set); credited to IPPY in slice_20 row 1554."
+ },
+ {
+  "en": "Common 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Fuji 1",
+  "kind": "ui",
+  "note": "Source in Latin letters; credits use 'Fujiyama'."
+ },
+ {
+  "en": "Fuji 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Hiyora 1",
+  "kind": "ui",
+  "note": "Romanized Hiyora (long vowel dropped); alt. 'Hiyorer'. No source found."
+ },
+ {
+  "en": "Hiyora 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Doppel %d",
+  "kind": "ui",
+  "note": "Doppel(ganger) portrait slots; space added before the number like the other sets."
+ },
+ {
+  "en": "  ",
+  "kind": "ui",
+  "note": "Single full-width blank (dupes 4) -> two ASCII spaces to keep the same column width."
+ },
+ {
+  "en": "The Book of the Next Age was bathed in light.",
+  "kind": "ui",
+  "note": "Glossary: Book of the Next Age."
+ },
+ {
+  "en": "Nothing happened.",
+  "kind": "ui"
+ },
+ {
+  "en": "Downed characters were carried to the temple.",
+  "kind": "ui",
+  "note": "'Downed' = any character unable to move (dead/ashed/etc.); kept under 46 cols. Generic 'temple' (source does not name Rust Temple)."
+ },
+ {
+  "en": "Nothing for sale.",
+  "kind": "ui"
+ },
+ {
+  "en": "??????",
+  "kind": "ui",
+  "note": "Unknown-name placeholder; full-width ? -> ASCII, same count."
+ },
+ {
+  "en": "--",
+  "kind": "ui",
+  "note": "Full-width dashes -> ASCII."
+ },
+ {
+  "en": "Back",
+  "kind": "ui"
+ },
+ {
+  "en": "Data hasn't been installed yet.\nInstalling the data lets you\nplay the game more smoothly.",
+  "kind": "ui",
+  "note": "Data Install (PSP media install) prompt."
+ },
+ {
+  "en": "No Memory Stick is inserted.\nThe game will start without one.",
+  "kind": "ui",
+  "note": "max_bytes 69: 61 used."
+ },
+ {
+  "en": "%s was carried to the temple.",
+  "kind": "ui",
+  "note": "Full-width space after %s dropped; normal English spacing."
+ },
+ {
+  "en": "\"You do mighty fine work, you do.\nI like you. Hah hah hah!\"",
+  "kind": "ui",
+  "note": "Speaker is Grand Merchant Walmitt (next row; ITEM_TEXT 468 calls him Grand Merchant Walmitt). Source has a typo (sasuna for suru na) read as 'do'. Addressee 'kimi' = the player/party, rendered 'you'."
+ },
+ {
+  "en": "Walmitt",
+  "kind": "ui",
+  "note": "NEW NAME: Walmitt (Grand Merchant; his hat is 'Walmy Hat' in ITEM_TEXT 468). Speaker-name string, 4 uses."
+ },
+ {
+  "en": "Enough. Kindly get out of here at once.\"",
+  "kind": "ui",
+  "note": "Tail of a quote whose opening quote is in another string; closing quote bracket kept as \". Pompous -tamae register ('kindly'). Exactly 40/40 bytes."
+ },
+ {
+  "en": "A new light now dwells in the compass.",
+  "kind": "ui",
+  "note": "Compass = the temple's Fame compass (wmap: 'the Compass'). | Accuracy: glossary term \"compass\" is lowercase in running text (glossary note; rows 67/68 use lowercase)."
+ },
+ {
+  "en": "You already have it.",
+  "kind": "ui",
+  "note": "Neighbours (321-323) are the Compass/Fame menu; object left as 'it' (item not named in source)."
+ },
+ {
+  "en": "You don't have enough Fame.",
+  "kind": "ui"
+ },
+ {
+  "en": "This is the current weather.",
+  "kind": "ui",
+  "note": "Help/label line for the weather display."
+ },
+ {
+  "en": "Data error",
+  "kind": "ui"
+ },
+ {
+  "en": "Installation failed.\nAborting installation.k",
+  "kind": "ui",
+  "note": "Trailing ASCII 'k' after the Japanese full stop kept as in source (looks like a stray byte; do not strip without checking). Editorial: matched the identical message in row 218 ('Aborting installation.'); stray 'k' kept."
+ },
+ {
+  "en": "Writing data...",
+  "kind": "ui"
+ },
+ {
+  "en": "Stable",
+  "kind": "ui",
+  "note": "Inn room grade (Zeppo's Inn; wmap uses 'the stable')."
+ },
+ {
+  "en": "Economy",
+  "kind": "ui",
+  "note": "Inn room grade; matches wmap 'Economy'."
+ },
+ {
+  "en": "Suite",
+  "kind": "ui",
+  "note": "Inn room grade."
+ },
+ {
+  "en": "Tent",
+  "kind": "ui",
+  "note": "Inn/rest option."
+ },
+ {
+  "en": "-Storage-",
+  "kind": "ui",
+  "note": "Hiragana spelling of souko; same label as slice_03 row 167 (kanji); use the same English there."
+ },
+ {
+  "en": "* Alchemy Storage Use *",
+  "kind": "ui",
+  "note": "Alchemy Storage = established term (wmap/PLACE_NM). Header of the fee notice 333-337."
+ },
+ {
+  "en": "Smith/Alchemy/Dismantle/Storage",
+  "kind": "ui",
+  "note": "31 chars vs 22-column source; no hard limit but the notice box may be narrow -- check in game. Fallback: 'Smith/Alch/Dismantle/Store'."
+ },
+ {
+  "en": "Per use %6d GP",
+  "kind": "ui"
+ },
+ {
+  "en": "If an explosion occurs,",
+  "kind": "ui",
+  "note": "Continues into 337."
+ },
+ {
+  "en": "all GP on hand is seized.",
+  "kind": "ui",
+  "note": "Completes 336. botsushuu = confiscated; zengaku = the whole amount."
+ },
+ {
+  "en": "For the next level,",
+  "kind": "ui",
+  "note": "Continues into 339."
+ },
+ {
+  "en": "you need %d more EXP.",
+  "kind": "ui"
+ },
+ {
+  "en": "Level is already at max",
+  "kind": "ui",
+  "note": "max 24 (23 used). Literal: 'the level will not go up any more'."
+ },
+ {
+  "en": "%s leveled up!",
+  "kind": "ui"
+ },
+ {
+  "en": "Gained Summa ability",
+  "kind": "ui",
+  "note": "NEW TERM: Summa = katakana 'samaa', a rank above High Master (JOBABL header 'High Master / Summa ability'; MON_TEXT: a ninja ghost that rose to the rank of Summa). Romanization uncertain ('Summer' is the literal reading). Subject omitted as in source: log line following '%s leveled up!'."
+ },
+ {
+  "en": "Gained High Master ability",
+  "kind": "ui",
+  "note": "NEW TERM: High Master (rank). Subject omitted as in 342."
+ },
+ {
+  "en": "%s %s",
+  "kind": "ui",
+  "note": "First %s = what changed, second %s = row 345 'gained' / 346 'lost' -> e.g. 'Poison Resist gained'. Placeholder order kept; the particle wo is absorbed."
+ },
+ {
+  "en": "gained",
+  "kind": "ui",
+  "note": "Fills the 2nd %s of row 344; lower case on purpose."
+ },
+ {
+  "en": "lost",
+  "kind": "ui",
+  "note": "Fills the 2nd %s of row 344; lower case on purpose."
+ },
+ {
+  "en": "Learned new spells",
+  "kind": "ui",
+  "note": "Number not shown in source; plural chosen (may be one spell). Subject omitted as in 342. Editorial: dropped the full stop so the level-up log lines 342/343/347/348 match (source has none)."
+ },
+ {
+  "en": "HP increased by %4d",
+  "kind": "ui"
+ },
+ {
+  "en": "%s went to sleep.",
+  "kind": "ui",
+  "note": "Probably inn rest message."
+ },
+ {
+  "en": "Happy birthday!",
+  "kind": "ui"
+ },
+ {
+  "en": "%s died of old age.",
+  "kind": "ui"
+ },
+ {
+  "en": "( Died at age %d )",
+  "kind": "ui",
+  "note": "kyounen = age at death; spaced parentheses kept."
+ },
+ {
+  "en": "There is no save data on the Memory Stick.\n",
+  "kind": "ui",
+  "note": "The box-drawing char after the Memory Stick name (probably a custom TM/Duo glyph in the font) was DROPPED to stay ASCII-only. Re-add the game's glyph at build time if the font needs it (TRC wording)."
+ },
+ {
+  "en": "No Memory Stick is inserted.\n",
+  "kind": "ui",
+  "note": "Box-drawing glyph after the Memory Stick name dropped (see 353)."
+ },
+ {
+  "en": "Failed to load.\n",
+  "kind": "ui"
+ },
+ {
+  "en": "Deleting corrupted save data.\nDo not remove the Memory Stick.",
+  "kind": "ui",
+  "note": "Box-drawing glyph dropped (see 353)."
+ },
+ {
+  "en": "\nDeleted.",
+  "kind": "ui"
+ },
+ {
+  "en": "\nFailed to delete.",
+  "kind": "ui"
+ },
+ {
+  "en": "Installed data is corrupted\nand will be deleted.",
+  "kind": "ui",
+  "note": "max 53 (48 used)."
+ },
+ {
+  "en": "Deleting corrupted install data.\nDo not remove the Memory Stick.",
+  "kind": "ui",
+  "note": "Box-drawing glyph dropped (see 353)."
+ },
+ {
+  "en": " 3.Char Image View",
+  "kind": "ui",
+  "note": "Debug menu; numbering and leading space kept."
+ },
+ {
+  "en": " 5.New Game",
+  "kind": "ui",
+  "note": "Debug menu: saisho kara = start from the beginning."
+ },
+ {
+  "en": "13.Battle Effects",
+  "kind": "ui",
+  "note": "Debug menu."
+ },
+ {
+  "en": "16.Load Save Data",
+  "kind": "ui",
+  "note": "Debug menu."
+ },
+ {
+  "en": "Adv=%d",
+  "kind": "ui",
+  "note": "Debug: bou = adventurer count (inferred)."
+ },
+ {
+  "en": "Mon=%d",
+  "kind": "ui",
+  "note": "Debug: mo = monster count (inferred)."
+ },
+ {
+  "en": "MonRow=%03d",
+  "kind": "ui",
+  "note": "Debug: monster row/group (retsu)."
+ },
+ {
+  "en": "[Normal]",
+  "kind": "ui"
+ },
+ {
+  "en": "[Phys]",
+  "kind": "ui"
+ },
+ {
+  "en": "[Spell]",
+  "kind": "ui"
+ },
+ {
+  "en": "( Regular )",
+  "kind": "ui",
+  "note": "seiki = regular/legitimate (vs the all-character debug mode in 372). Uncertain."
+ },
+ {
+  "en": "All Characters Mode",
+  "kind": "ui",
+  "note": "Character viewer debug."
+ },
+ {
+  "en": "Defeated Monsters Only",
+  "kind": "ui",
+  "note": "Character viewer filter."
+ },
+ {
+  "en": "Opening 01",
+  "kind": "ui"
+ },
+ {
+  "en": "Opening 02",
+  "kind": "ui"
+ },
+ {
+  "en": "Ending",
+  "kind": "ui"
+ },
+ {
+  "en": "(Single Row)",
+  "kind": "ui",
+  "note": "Debug: tanretsu = single monster row."
+ },
+ {
+  "en": "(Normal)",
+  "kind": "ui"
+ },
+ {
+  "en": "TrsTBL=#%3d",
+  "kind": "ui",
+  "note": "Debug: treasure table number."
+ },
+ {
+  "en": "Press the Cross button to go back.",
+  "kind": "ui",
+  "note": "Cross button written as X."
+ },
+ {
+  "en": "<-                ->",
+  "kind": "ui",
+  "note": "Full-width arrows (2 columns) -> '<-' / '->'; the 16 spaces kept so the total width stays the same."
+ },
+ {
+  "en": "SQJingle-Int",
+  "kind": "ui",
+  "note": "Debug sound-test label."
+ },
+ {
+  "en": "STR-BGM: ",
+  "kind": "ui",
+  "note": "max 9: full-width colon (2 cols) -> ': '."
+ },
+ {
+  "en": "Int-SE: ",
+  "kind": "ui",
+  "note": "max 8."
+ },
+ {
+  "en": "BVOL  : ",
+  "kind": "ui",
+  "note": "max 8."
+ },
+ {
+  "en": "Monsters defeated=%d",
+  "kind": "ui"
+ },
+ {
+  "en": "Elminage Character Viewer",
+  "kind": "ui"
+ },
+ {
+  "en": "Left/Right:ID+-1, Up/Down:ID+-10, LStick up/down:Pan, Cross button:Quit.",
+  "kind": "ui",
+  "note": "Debug help; plus-minus sign -> '+-'."
+ },
+ {
+  "en": "Left/Right:ID+-1, Up/Down:ID+-10, L/R:Change anim, Stick up/down:Pan, Cross:Quit.",
+  "kind": "ui",
+  "note": "Debug help."
+ },
+ {
+  "en": "SCERR:CALL instruction nested too deep(SC:%05d)",
+  "kind": "ui",
+  "note": "Script-engine error; 'SCERR:' prefix and '(SC:%05d)' kept."
+ },
+ {
+  "en": "SCERR:Invalid RET instruction(SC:%05d)",
+  "kind": "ui"
+ },
+ {
+  "en": "Above the Clouds",
+  "kind": "ui",
+  "note": "Area name (also MONAPP/MONRAW area); wmap row 42 uses 'Above the clouds' (op label). Title case here as a place name."
+ },
+ {
+  "en": "You can't create that here.",
+  "kind": "ui",
+  "note": "What is being created is not stated (alchemy/character); object left as 'that'."
+ },
+ {
+  "en": "SCERR:CALL instruction nesting error(SC:%05d)",
+  "kind": "ui"
+ },
+ {
+  "en": "?",
+  "kind": "ui",
+  "note": "Full-width -> ASCII."
+ },
+ {
+  "en": "!",
+  "kind": "ui",
+  "note": "Full-width -> ASCII."
+ },
+ {
+  "en": "Gimmick data has been updated. Please delete the save data.",
+  "kind": "ui",
+  "note": "Debug/dev warning: dungeon gimmick (trap/mechanism) data changed, old saves are invalid. 'Gimmick' kept as dev jargon."
+ },
+ {
+  "en": "Floor Data Analysis",
+  "kind": "ui",
+  "note": "Debug menu (rows 514-553 are the debug menu: labels, then one help line per item)."
+ },
+ {
+  "en": "Map Flag Settings",
+  "kind": "ui"
+ },
+ {
+  "en": "Game Flag Settings",
+  "kind": "ui"
+ },
+ {
+  "en": "Game Item Flag Settings",
+  "kind": "ui"
+ },
+ {
+  "en": "Party Status Settings",
+  "kind": "ui"
+ },
+ {
+  "en": "Compass Target Info",
+  "kind": "ui",
+  "note": "Compass search targets (cf. rows 568-581)."
+ },
+ {
+  "en": "Change Floor",
+  "kind": "ui",
+  "note": "Lit. 'moving floor levels' (floor warp)."
+ },
+ {
+  "en": "Oland's Shop Discovered Item Settings",
+  "kind": "ui",
+  "note": "NEW TERM: Oland's Shop (romanized; patterned on glossary 'Kembeck's Shop'). Only seen in debug strings and a TEST script (SCDWMAP)."
+ },
+ {
+  "en": "Oland's Shop Item Settings",
+  "kind": "ui"
+ },
+ {
+  "en": "Summoner Contract Settings",
+  "kind": "ui",
+  "note": "Source uses the variant kanji for Summoner; same class, glossary/slice_01 'Summoner'."
+ },
+ {
+  "en": "Fame-Related Settings",
+  "kind": "ui",
+  "note": "Glossary: Fame."
+ },
+ {
+  "en": "Floor Master Info",
+  "kind": "ui",
+  "note": "Glossary: Floor Master."
+ },
+ {
+  "en": "Force Chest Trap Setting",
+  "kind": "ui"
+ },
+ {
+  "en": "Move to a different floor",
+  "kind": "ui",
+  "note": "Help line for row 520. Help lines 527-553 have no final period, like the source."
+ },
+ {
+  "en": "Set the map's flag info",
+  "kind": "ui"
+ },
+ {
+  "en": "Set the game flag info",
+  "kind": "ui"
+ },
+ {
+  "en": "Set the item flag info",
+  "kind": "ui"
+ },
+ {
+  "en": "Show info on the compass search targets",
+  "kind": "ui"
+ },
+ {
+  "en": "Settings for items found at Oland's Shop",
+  "kind": "ui",
+  "note": "Hakken-zumi = already discovered."
+ },
+ {
+  "en": "Settings for Oland's Shop items",
+  "kind": "ui"
+ },
+ {
+  "en": "Summoner contract settings",
+  "kind": "ui"
+ },
+ {
+  "en": "Fame-related settings",
+  "kind": "ui"
+ },
+ {
+  "en": "Turn on all footprint flags in the current dungeon",
+  "kind": "ui",
+  "note": "Ashiato (footprints) = the automap's visited-square marks; rendered 'footprint' throughout rows 536-549."
+ },
+ {
+  "en": "Force the window to close",
+  "kind": "ui"
+ },
+ {
+  "en": "Force a fade-in",
+  "kind": "ui"
+ },
+ {
+  "en": "Analyze the floor data",
+  "kind": "ui"
+ },
+ {
+  "en": "Clear the fixed-enemy flag table",
+  "kind": "ui",
+  "note": "Fixed enemies = placed (non-random) encounters."
+ },
+ {
+  "en": "Clear the free-memory monitor's peak",
+  "kind": "ui"
+ },
+ {
+  "en": "Mirror-copy the footprints of Jesbayler",
+  "kind": "ui",
+  "note": "NEW TERM: Jesbayler (romanized; not in glossary or story text found; probably a dungeon/area name). Hanten copy = flipped/mirrored copy."
+ },
+ {
+  "en": "Set VICTORY_COUNT to 2048",
+  "kind": "ui",
+  "note": "VICTORY_COUNT is a program identifier; kept as is."
+ },
+ {
+  "en": "Return to the starting point",
+  "kind": "ui"
+ },
+ {
+  "en": "Toggle the timer state",
+  "kind": "ui"
+ },
+ {
+  "en": "Force the timer to 0",
+  "kind": "ui",
+  "note": "Full-width 0 -> ASCII."
+ },
+ {
+  "en": "Copy the footprint flags to the history",
+  "kind": "ui"
+ },
+ {
+  "en": "Clear the footprint flag history",
+  "kind": "ui"
+ },
+ {
+  "en": "Clear the footprint flags",
+  "kind": "ui"
+ },
+ {
+  "en": "Make an item broken",
+  "kind": "ui",
+  "note": "Kowa-re joutai = broken state."
+ },
+ {
+  "en": "Show Floor Master info",
+  "kind": "ui"
+ },
+ {
+  "en": "Force-set a treasure chest's trap",
+  "kind": "ui"
+ },
+ {
+  "en": "Show the Dungeon Load treasure info table",
+  "kind": "ui",
+  "note": "NEW TERM / CONFLICT: 'Dungeon Road' (dungeon roodo). chap slice_012 rows 940-941 used 'dungeon load data'; here (and row 587 'not a Dungeon Road floor') it names a kind of dungeon/floor, so 'road' reads better. Could also be 'Dungeon Lord'. Unverified; needs one decision corpus-wide."
+ },
+ {
+  "en": "The floor data is normal.",
+  "kind": "ui"
+ },
+ {
+  "en": "The floor data and map data don't match.",
+  "kind": "ui",
+  "note": "Lit. 'there are differences between the floor data and the map data'."
+ },
+ {
+  "en": "Slp",
+  "kind": "ui",
+  "note": "One-kanji status abbreviation (sleep). Status set: Slp Psn Par Sil Cnf Chm Stn Crs Dead Ash Fear. Strings sit in 4-byte-stride tables (eb@0896b960.., eb@0896fb94..); if ever written in place the limit is 3 bytes: fallback Ded/Fer for Dead/Fear. Japanese is 2 columns wide; display width unchecked."
+ },
+ {
+  "en": "Psn",
+  "kind": "ui",
+  "note": "Status abbreviation (poison); see row 556."
+ },
+ {
+  "en": "Par",
+  "kind": "ui",
+  "note": "Status abbreviation (paralysis); see row 556."
+ },
+ {
+  "en": "Sil",
+  "kind": "ui",
+  "note": "Status abbreviation (silence); see row 556."
+ },
+ {
+  "en": "Cnf",
+  "kind": "ui",
+  "note": "Status abbreviation (confusion); see row 556."
+ },
+ {
+  "en": "Chm",
+  "kind": "ui",
+  "note": "Status abbreviation (charm); see row 556."
+ },
+ {
+  "en": "Stn",
+  "kind": "ui",
+  "note": "Status abbreviation (stone/petrified); see row 556."
+ },
+ {
+  "en": "Crs",
+  "kind": "ui",
+  "note": "Status abbreviation (cursed); see row 556."
+ },
+ {
+  "en": "Dead",
+  "kind": "ui",
+  "note": "Status abbreviation (dead); see row 556."
+ },
+ {
+  "en": "Ash",
+  "kind": "ui",
+  "note": "Status abbreviation (ash); see row 556."
+ },
+ {
+  "en": "Fear",
+  "kind": "ui",
+  "note": "Status abbreviation (fear); see row 556."
+ },
+ {
+  "en": "No contract",
+  "kind": "ui",
+  "note": "Summoner contract slot state (mi-keiyaku = not contracted)."
+ },
+ {
+  "en": "Hemaid Red Stone",
+  "kind": "ui",
+  "note": "Compass target names 568-578 (two copies each), spelled as in chap/slice_001 rows 4-13 and wmap slice_01 row 64. Note: some wmap dialogue says 'the Hemaid Red Stone'."
+ },
+ {
+  "en": "Blue Menon",
+  "kind": "ui"
+ },
+ {
+  "en": "Selcoa Paint",
+  "kind": "ui"
+ },
+ {
+  "en": "Celestial Readings",
+  "kind": "ui"
+ },
+ {
+  "en": "Wing Soul",
+  "kind": "ui"
+ },
+ {
+  "en": "Old Man's Plans",
+  "kind": "ui",
+  "note": "As in chap/slice_001 row 8 (Fulgrant's father's cannon blueprints)."
+ },
+ {
+  "en": "Cannon Tools",
+  "kind": "ui"
+ },
+ {
+  "en": "Seasoned Snacks",
+  "kind": "ui"
+ },
+ {
+  "en": "Alton's Treasure",
+  "kind": "ui"
+ },
+ {
+  "en": "Behiem Royal Tomb",
+  "kind": "ui"
+ },
+ {
+  "en": "Gamea House Legacy",
+  "kind": "ui"
+ },
+ {
+  "en": "Jewel Ring Search",
+  "kind": "ui",
+  "note": "NEW TERM: Jewel Ring (the rings sought in the story). Compass search category."
+ },
+ {
+  "en": "Key Item Search",
+  "kind": "ui"
+ },
+ {
+  "en": "Altar Search",
+  "kind": "ui"
+ },
+ {
+  "en": "Current compass: %s",
+  "kind": "ui",
+  "note": "Full-width space after the label -> ': '. %s = current compass target."
+ }
+]

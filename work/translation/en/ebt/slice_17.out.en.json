@@ -1,0 +1,368 @@
+[
+ {
+  "en": "Valkyrie",
+  "kind": "ui",
+  "note": "NEW TERM (class). Abbreviation 'Val' in the next row confirms it."
+ },
+ {
+  "en": "Val",
+  "kind": "ui",
+  "note": "Source is already English (full-width); converted to ASCII."
+ },
+ {
+  "en": "Lord",
+  "kind": "ui",
+  "note": "NEW TERM (class)."
+ },
+ {
+  "en": "Lor",
+  "kind": "ui",
+  "note": "Full-width -> ASCII."
+ },
+ {
+  "en": "Samurai",
+  "kind": "ui",
+  "note": "NEW TERM (class)."
+ },
+ {
+  "en": "SAM",
+  "kind": "ui",
+  "note": "Full-width -> ASCII; source upper case kept."
+ },
+ {
+  "en": "Ninja",
+  "kind": "ui",
+  "note": "NEW TERM (class)."
+ },
+ {
+  "en": "NIN",
+  "kind": "ui",
+  "note": "Full-width -> ASCII; source upper case kept."
+ },
+ {
+  "en": "rsv",
+  "kind": "ui",
+  "note": "Reserved/unused class slot label (end of class table); kept as the source's ASCII abbreviation."
+ },
+ {
+  "en": "Fire Breath",
+  "kind": "ui"
+ },
+ {
+  "en": "Fire",
+  "kind": "ui",
+  "note": "Standalone element label between the breath names (row 1335 'Charm' is the same pattern)."
+ },
+ {
+  "en": "Ice Breath",
+  "kind": "ui"
+ },
+ {
+  "en": "Lightning Breath",
+  "kind": "ui",
+  "note": "16 chars vs 10 cols; fallback 'Bolt Breath'."
+ },
+ {
+  "en": "Holy Breath",
+  "kind": "ui"
+ },
+ {
+  "en": "Dark Breath",
+  "kind": "ui"
+ },
+ {
+  "en": "Sleep Breath",
+  "kind": "ui",
+  "note": "Status name Sleep (slice_0x status list)."
+ },
+ {
+  "en": "Poison Breath",
+  "kind": "ui",
+  "note": "Moudoku = deadly poison; 'Venom' keeps the intensity and fits. If the game has only one poison status, 'Poison Breath' is the alternative."
+ },
+ {
+  "en": "Paralysis Breath",
+  "kind": "ui",
+  "note": "Status name Paralysis."
+ },
+ {
+  "en": "Silence Breath",
+  "kind": "ui",
+  "note": "Status name Silence."
+ },
+ {
+  "en": "Confusion Breath",
+  "kind": "ui",
+  "note": "Status name Confusion."
+ },
+ {
+  "en": "Charm Breath",
+  "kind": "ui",
+  "note": "Status name Charm."
+ },
+ {
+  "en": "Charm",
+  "kind": "ui",
+  "note": "Standalone label (cf. row 1324)."
+ },
+ {
+  "en": "Stone Breath",
+  "kind": "ui",
+  "note": "Status name Stone (project status list: St=Stone)."
+ },
+ {
+  "en": "Death Breath",
+  "kind": "ui"
+ },
+ {
+  "en": "Human",
+  "kind": "ui",
+  "note": "Start of the race / creature-type table: full name followed by a 1-character abbreviation. The kana-only abbreviations (rows 1341, 1343, 1345, 1347, 1349, 1354, 1357, 1359) were excluded from the slices but need English too."
+ },
+ {
+  "en": "Hu",
+  "kind": "ui",
+  "note": "Abbreviation of Human. Source is 1 full-width char (2 columns), so a 2-letter abbreviation keeps the width; 3-letter fallback 'Hum'."
+ },
+ {
+  "en": "Elf",
+  "kind": "ui"
+ },
+ {
+  "en": "Dwarf",
+  "kind": "ui"
+ },
+ {
+  "en": "Gnome",
+  "kind": "ui"
+ },
+ {
+  "en": "Hotlet",
+  "kind": "ui",
+  "note": "NEW TERM (race). Elminage Gothic fan wiki (official English release of the series) spells this hobbit-like race 'Hotlet'; wiki wins over a fresh romanization ('Hortlut')."
+ },
+ {
+  "en": "Fairy",
+  "kind": "ui"
+ },
+ {
+  "en": "Werebeast",
+  "kind": "ui",
+  "note": "NEW TERM (race); matches the katakana loanword."
+ },
+ {
+  "en": "Dragonewt",
+  "kind": "ui",
+  "note": "Glossary 'dragonewt' (race), capitalised as a label."
+ },
+ {
+  "en": "Dg",
+  "kind": "ui",
+  "note": "Abbreviation for Dragonewt (ryuu = dragon); 3-letter fallback 'Drg'."
+ },
+ {
+  "en": "Devilish",
+  "kind": "ui",
+  "note": "NEW TERM (race); katakana loanword kept, as in Elminage Gothic."
+ },
+ {
+  "en": "Puppet",
+  "kind": "ui",
+  "note": "NEW TERM. Ma-kairai = magic puppet (an animated construct). 'Golem' is the alternative; avoided in case Golem is a monster name."
+ },
+ {
+  "en": "Ogre",
+  "kind": "ui"
+ },
+ {
+  "en": "Goblin",
+  "kind": "ui"
+ },
+ {
+  "en": "Magical Creature",
+  "kind": "ui",
+  "note": "Mahou seibutsu = magical creature (creature type). 11 chars vs 8 cols; fallback 'Magical'."
+ },
+ {
+  "en": "Undead",
+  "kind": "ui"
+ },
+ {
+  "en": "Ud",
+  "kind": "ui",
+  "note": "Abbreviation of Undead."
+ },
+ {
+  "en": "Spirit",
+  "kind": "ui"
+ },
+ {
+  "en": "Sp",
+  "kind": "ui",
+  "note": "Abbreviation of Spirit."
+ },
+ {
+  "en": "Insect",
+  "kind": "ui"
+ },
+ {
+  "en": "In",
+  "kind": "ui",
+  "note": "Abbreviation of Insect."
+ },
+ {
+  "en": "Animal",
+  "kind": "ui"
+ },
+ {
+  "en": "An",
+  "kind": "ui",
+  "note": "Abbreviation of Animal."
+ },
+ {
+  "en": "Mythical Beast",
+  "kind": "ui",
+  "note": "Genjuu = mythical/phantom beast (creature type). 12 chars vs 4 cols; fallback 'Mythic'."
+ },
+ {
+  "en": "My",
+  "kind": "ui",
+  "note": "Abbreviation of Mythic Beast."
+ },
+ {
+  "en": "Gh",
+  "kind": "ui",
+  "note": "Abbreviation with no full name next to it (full string likely pooled elsewhere). Rei = spirit/ghost; 'Sp' is taken by Spirit, so 'Gh' (Ghost). Uncertain."
+ },
+ {
+  "en": "Fi",
+  "kind": "ui",
+  "note": "Abbreviation with no adjacent full name: sen = Fighter (senshi), whose string is pooled with the class table. 'Fi' (game's own class abbreviation is 'Fig')."
+ },
+ {
+  "en": "Th",
+  "kind": "ui",
+  "note": "Abbreviation with no adjacent full name: tou = Thief (touzoku), pooled with the class table. Class abbreviation is 'Thi'."
+ },
+ {
+  "en": "Beastfolk",
+  "kind": "ui",
+  "note": "NEW TERM (creature type), kept distinct from the Werebeast race."
+ },
+ {
+  "en": "Bm",
+  "kind": "ui",
+  "note": "Abbreviation of Beastman."
+ },
+ {
+  "en": "Giant",
+  "kind": "ui"
+ },
+ {
+  "en": "Gi",
+  "kind": "ui",
+  "note": "Abbreviation of Giant."
+ },
+ {
+  "en": "Divine Shadow",
+  "kind": "ui",
+  "note": "Established term (wmap slice_01: shin'ei -> Divine Shadow)."
+ },
+ {
+  "en": "Di",
+  "kind": "ui",
+  "note": "Abbreviation of Divine Shadow ('Dv' left free for Devilish)."
+ },
+ {
+  "en": "?Junk",
+  "kind": "ui",
+  "note": "Unidentified-item names: '?' + item category, Wizardry style. Full-width ? -> ASCII, no space as in the source."
+ },
+ {
+  "en": "?Sword",
+  "kind": "ui"
+ },
+ {
+  "en": "?Dagger",
+  "kind": "ui"
+ },
+ {
+  "en": "?Katana",
+  "kind": "ui"
+ },
+ {
+  "en": "?Spear",
+  "kind": "ui"
+ },
+ {
+  "en": "?Axe",
+  "kind": "ui"
+ },
+ {
+  "en": "?Hammer",
+  "kind": "ui"
+ },
+ {
+  "en": "?Mace",
+  "kind": "ui"
+ },
+ {
+  "en": "?Club",
+  "kind": "ui"
+ },
+ {
+  "en": "?Bow",
+  "kind": "ui"
+ },
+ {
+  "en": "?Whip",
+  "kind": "ui"
+ },
+ {
+  "en": "?Staff",
+  "kind": "ui"
+ },
+ {
+  "en": "?Weapon",
+  "kind": "ui",
+  "note": "Source writes buki (weapon) in hiragana; generic weapon."
+ },
+ {
+  "en": "?Book",
+  "kind": "ui"
+ },
+ {
+  "en": "?Shield",
+  "kind": "ui"
+ },
+ {
+  "en": "?Helm",
+  "kind": "ui"
+ },
+ {
+  "en": "?Hat",
+  "kind": "ui"
+ },
+ {
+  "en": "?Armor",
+  "kind": "ui"
+ },
+ {
+  "en": "?Breastplate",
+  "kind": "ui",
+  "note": "12 chars vs 8 cols; fallback '?Cuirass'."
+ },
+ {
+  "en": "?Chain Mail",
+  "kind": "ui"
+ },
+ {
+  "en": "?Leather Armor",
+  "kind": "ui",
+  "note": "14 chars vs 6 cols; kept distinct from '?Armor'. Fallback '?Leather'."
+ },
+ {
+  "en": "?Robe",
+  "kind": "ui"
+ }
+]

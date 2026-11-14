@@ -1,0 +1,360 @@
+[
+ {
+  "en": "\"You! Stay away from me!\nHey, what's the deal with law and order in this town!?\"{w}",
+  "kind": "msg",
+  "note": "Decoy fleeing Milonya; tema = 'you' (hostile), aimed at Milonya."
+ },
+ {
+  "en": "\"Hellooo, everyone!\nAm I not looking for Decoykins today, you ask?{w}I already had my fill just now! ...Guheh~\"{w}",
+  "kind": "msg",
+  "note": "Decoy-chan rendered 'Decoykins' throughout (Milonya's doting -chan); the party's question is implied by -tte?; guhe-heart giggle -> 'Guheh~' (no ASCII music note)."
+ },
+ {
+  "en": "\"Oh, this beard?{w}My master gave it to me.\"{w}{p}\"Master said something really complicated about it, but{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Master said something really complicated about it, but{0F}\nthe bearded look was just so cute that I happily took it!\"{w}{p}\"My master is Master Shimerief.{w}You'll find Master up in the watchtower\nin Roscadil every night.\"{w}",
+  "kind": "msg",
+  "note": "New name Shimerief (romanized). 'Sono hige-sugata' kept as 'the bearded look' (whose look is unstated). Master referred to without pronouns."
+ },
+ {
+  "en": "\"GYAAH! Oh, it's you guys!\nDon't you dare tell anyone I came this way!? I mean it!?{w}Later!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Deee-cooy-kiiins! Where are youuu?{w}Geez, after I went to all the trouble of saving y... Oh, hello.\nHave you seen Decoykins?\"{w}{p}\"A drunk was picking on Decoykins, so I gave\nthe drunk a good thrashing, and as thanks I'd lick... ahem.{w}I was just hoping to be allowed a little touch, you know?\"{w}",
+  "kind": "msg",
+  "note": "Name-mangled call kept as stretched 'Deee-cooy-kiiins'. Interrupted 'nameh...' (lick) kept as a cut-off 'I'd lick... ahem'."
+ },
+ {
+  "en": "\"I know! I've thought of something!{w}If Decoykins keeps running away, then a trap's the answer!\nI just have to catch the little darling!\"{w}",
+  "kind": "msg",
+  "note": "Object of torae- (catch) is Decoy by context; 'the little darling' avoids repeating the name and a pronoun."
+ },
+ {
+  "en": "\"I call it... the Decoykins-Only Trap!\"{w}",
+  "kind": "msg",
+  "note": "Decorative star between the words dropped (ASCII only)."
+ },
+ {
+  "en": "\"And that's where you all come in!{w}The goblins are sure to have something good,\nso please go and get it from them at Ogre Bay!\"{w}{p}\"I'm going to try catching Decoykins\nall on my own!{w}I'm counting on you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, you lot! What are you scheming!?\nDon't you DARE help with anything like that!{w}I mean it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Deee-cooy-kiiiiiiiins------!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"GYAAAAH!\nDie! Die and then die some more!\"{w}",
+  "kind": "msg",
+  "note": "Shinde shine (lit. 'die by dying') = doubled curse; full force kept."
+ },
+ {
+  "en": "\"Run around while you still can!\nDecoykiiins!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I've been waiting for this!\nThank you so much!!\"{w}{p}\"And the mechanism's nice and sturdy... The goblins really know their stuff!\nAlll right, Decoykins... Guheh~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Everyone! Look at this, look!{w}So I used the capture trap, right,\nand inside there was a letter from Decoykins!\"{w}",
+  "kind": "msg",
+  "note": "'Hokaku torappu' = the goblin item (ITEM_PRIZ 54, a magic-puppet capture trap); kept generic lowercase."
+ },
+ {
+  "en": "You think I'm some pushover, moron?{w}Die.{w}Die twice.{w}",
+  "kind": "msg",
+  "note": "Decoy's letter (no quote marks in source, so none here). Namete n no ka = 'are you making a fool of me'; full rudeness kept."
+ },
+ {
+  "en": "\"That's what it says!{w}And this squiggly handwriting, like a worm\ncrawled across the page, is just too cute!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Master was right all along.{w}Against cuteness that deadly, it doesn't matter\nwhether your sword is strong or weak!\"{w}",
+  "kind": "msg",
+  "note": "Read as Master's teaching (cf. ITEM_TEXT 704: the false beard is Shimerief's graduation gift to Milonya)."
+ },
+ {
+  "en": "\"Cuteness is mightier than the sword!{w}Ahh, Decoykiiins!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\".........*SPLURT* (nosebleed)\"{w}",
+  "kind": "msg",
+  "note": "Sound effect bushi! + stage direction (hanaji) translated."
+ },
+ {
+  "en": "\"I'm keeping that letter as my treasure!\nI get a new letter every time I set the trap!{w}Ahh, Decoykiiins!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...*SPLURT* (nosebleed)\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Who're you guys? Haven't seen your faces around.\nWhatcha doing? Oh, I got it! You guys are those,\nad-ven-churers! Right? I'm right, aren't I?\"{w}",
+  "kind": "msg",
+  "note": "Decoy says boukensha in katakana (childish/garbled); rendered as a mangled 'ad-ven-churers'."
+ },
+ {
+  "en": "\"Okay, now you guess who I am! Go on!\nAww, ya can't, huh? Fine, I'll tell ya!\nI'm Decoy! Got it? Yeah, ya got it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yo, you guys! What's up today?\nOh! Whatcha holding there?\nWhat is it? What is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't be such a drag! C'mon, what's the harm!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, your heads change shape, right?\nDo they ever shrink?\nHuh? They don't shrink? Liar!\"{w}{p}\"I know your hair gets shorter!\"{w}",
+  "kind": "msg",
+  "note": "Decoy (a puppet) mistakes haircuts for heads changing shape; kept literal."
+ },
+ {
+  "en": "\"Hey, lemme up on your shoulder!\nAnd don't go saying I'm cute or like a doll!\nI'm taking a bit of the stuff on your head!\"{w}",
+  "kind": "msg",
+  "note": "Kata ni nosero: Decoy asks to be lifted onto the listener's shoulder."
+ },
+ {
+  "en": "\"...What, it grows back, right?\nThe stuff on your face is fine too, y'know.\nI'm gonna yank it out! Hup!\"{w}",
+  "kind": "msg",
+  "note": "Kao no = facial hair, matching 'the stuff on your head' in 1147."
+ },
+ {
+  "en": "\"Ow! Hey, don't drop me!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Ow! Hey, don't drop me!{0F}\n...Huh? ...Did it hurt that bad?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Ow! Hey, don't drop me!\n...Huh? ...Did it hurt that bad?{0F}\n...............Sorry.\"{w}{p}\"I heard Beard Girl's comes off,\nso I figured yours did too...\"{w}",
+  "kind": "msg",
+  "note": "Hige-onna = Decoy's insult for Milonya, 'Beard Girl'. 'Beard Girl's' = her beard (the false beard). Echo repeats 1150 visibly."
+ },
+ {
+  "en": "\"...Sorry, okay? Are you mad?\n...You're not mad?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"...Sorry, okay? Are you mad?\n...You're not mad?{0F}\nOkay, then we're good! So gimme that thing!\"{w}",
+  "kind": "msg",
+  "note": "'Sore' = the item the party is holding (row 1144)."
+ },
+ {
+  "en": "\"Aww, I can't have it, huh... Hmm...{w}Hmm? Why do I want hair?{w}...It's to scare off that Beard Girl.\"{w}{p}\"If all Beard Girl does is go 'cute, cute!' at me,\nthen I just gotta not be cute, right?{w}If I stuck on a beard like that Beard Girl has...\"{w}",
+  "kind": "msg",
+  "note": "Pronoun for Milonya avoided by repeating the nickname."
+ },
+ {
+  "en": "\"Hey, you know Joker Land?{w}I hear the clowns have a makeup room there.{w}Could you bring me something from it?\"{w}{p}\"Lemme think...\njust a beard, and I might still lose...{w}Beard Glasses! Gimme some Beard Glasses!\"{w}",
+  "kind": "msg",
+  "note": "Source typo 'arashii' read as 'aru rashii'. Hige-megane (novelty glasses with nose and mustache, ITEM_PRIZ 53) = 'Beard Glasses' to keep the beard motif; item name not yet fixed elsewhere."
+ },
+ {
+  "en": "\"I mean, look at this body of mine, right?{w}If I walked, who knows how many days it'd take...{w}C'mon, I'm counting on ya, best buddy!!\"{w}",
+  "kind": "msg",
+  "note": "Shinyuu = 'best buddy' (Decoy's chummy address to the party)."
+ },
+ {
+  "en": "\"Okay, I'm counting on ya, best buddy!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa, you guys are the best!\"{w}{p}\"With these, that Beard Girl won't come at me going\n'So cute!' anymore! Pretty awesome, huh!\"{w}{p}\"I'm gonna go try 'em right now!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": ".................................\n.................................\n...........................GYAAAH!{w}",
+  "kind": "msg",
+  "note": "Dots converted 2 ellipsis chars -> '...'. Narration window (Decoy's scream offscreen)."
+ },
+ {
+  "en": "\"...Hah... hah... That was a close one...{w}That freak went 'Soooo cute!' while spurting blood...{w}It totally backfired...\"{w}",
+  "kind": "msg",
+  "note": "Yarou (crude 'that bastard') aimed at Milonya; 'that freak' keeps the insult without gendering."
+ },
+ {
+  "en": "\"Ahh... but thanks anyway, you guys.\nIf I think up another good plan, I'm counting on ya!\"{w}{p}\"Oh yeah, here's your reward!\nI don't need it, so keep it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yo, best buddy! Anything fun happen lately?\nIf there was, tell m\"{w}",
+  "kind": "msg",
+  "note": "Source cuts off mid-word (oshie-); English cut mid-word too, interrupted by Milonya."
+ },
+ {
+  "en": "\"Decoykiiiiiiiins!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa! Get lost! Get away from meee!{w}GYAAH\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Lumisthenes is peaceful again today.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Lotz",
+  "kind": "name",
+  "note": "New name: Lotz (rottsu), goblin elder of the Jakobis Spell Hall. Gender unknown: no 'old man' used."
+ },
+ {
+  "en": "\"Oho, you've come all the way from Algrantz.{w}This Lumisthenes is a place where wisdom gathers,{w}so take your time and look around.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But... traveler from Algrantz,{w}I'm ashamed to say this shop has no wares at present.{w}Take home an old-timer's stories instead, if you would.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Forgive me for not introducing myself sooner.{w}I am Lotz, of this Jakobis Spell Hall.\"{w}",
+  "kind": "msg",
+  "note": "New name: Jakobis Spell Hall (Jakobis jutsuhoudou; also HELP_TEXT 110 town facility)."
+ },
+ {
+  "en": "\"We goblins, like the ogres,{w}set great store by a closed society.{w}But that alone will not do.\"{w}{p}\"There is much that we cannot do.{w}And conversely, there is much that only we can do.{w}And from mingling, new things are born, too.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The role of the old is to pass things on...{w}If there is anything you don't understand, ask me any time.\"{w}{p}\"But only after you have thought it through yourselves.{w}Relying on my knowledge is all well and good,{w}but it is you young ones who will build the future.\"{w}{p}\"Never forget that, hm?\"{w}{p}\"Knowledge, they say, is a treasure without form.{w}However much you gather and keep, it is never a burden,{w}and it never vanishes. So learn.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Traveler from Algrantz,{w}I would ask you to hear an old-timer's request.\"{w}{p}\"You know this shop has nothing in it.{w}...The other day, I thought the goods had finally arrived,{w}but all that came was an empty wagon and a dying peddler...\"{w}{p}\"Never mind the goods. But...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Never mind the goods. But...{0F}\nthe copy of Mujirod's writings I had sought for many years{w}was stolen by ruffians, along with the rest.\"{w}{p}\"It is filled with words that cannot be replaced.{w}I thought my attachment to things\nhad faded away long ago, but\"{w}{p}\"that one, it seems, is the exception.\"{w}",
+  "kind": "msg",
+  "note": "New name: Mujirod (romanized; ITEM_PRIZ 55 spells it 'Mujiddo' -- likely a typo there). Shahon = hand copy. Yakara = 'ruffians', reused in 1178/1180."
+ },
+ {
+  "en": "\"I haven't much time left myself.{w}To come across a work by Mujirod again...{w}a chance like that will never come twice.\"{w}{p}\"Will you do this for me?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The ruffians headed for the Crotoa City Ruins,{w}or so I heard from someone who survived.{w}I'm... counting on you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All things come down to fate, true. Even so,{w}if one can draw it in with one's own hands,{w}how could one not?\"{w}",
+  "kind": "msg",
+  "note": "En = fate/karmic ties; impersonal 'one' kept since it is a maxim (probably Lotz's reply if the party hesitates)."
+ },
+ {
+  "en": "\"Thank you. I'm truly grateful.{w}I had resigned myself to never having it again.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Still, it has come back in fine condition.\n...So one of those ruffians understood this book's worth.{w}Would you pass a word on to them: 'Any time.'?\"{w}",
+  "kind": "msg",
+  "note": "Lotz invites the thief to visit; 'them' = the unnamed ruffian(s) (gender-neutral)."
+ },
+ {
+  "en": "\"Knowledge is a treasure without form,\nso it belongs equally to all who see its worth.{w}They will be most welcome.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"............Heh. No... forgive me.{w}I just remembered that I had been calling such a person a 'ruffian.'\nA funny thing...\"{w}",
+  "kind": "msg",
+  "note": "Source quotes the word in single brackets; kept as 'ruffian.'"
+ },
+ {
+  "en": "\"It seems there is still much I do not know.{w}Traveler from Algrantz,\nI am no longer young enough to travel.\"{w}{p}\"But...\"{w}{p}\"If you find anything rare,\nwould you bring it here, if only to humor\nan old-timer who hasn't long left?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"As it happens, this shop has nothing in it right now.{w}I look forward to it livening up.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Traveler from Algrantz,\nwelcome indeed.{w}Make yourself at home.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Here at the temple, besides putting light into Fame,\nwe can also tell you about the myths,\nor give you an oracle.\"{w}{p}\"Feel free to ask me about anything.\"{w}",
+  "kind": "msg",
+  "note": "Fame: glossary term. 'Fame ni hikari wo yadosu' = turning Fame into compass light (cf. slice_16 row 1220)."
+ },
+ {
+  "en": "\"I hope you find the Three Phantom Stones!{w}I'm rooting for you!\"{w}",
+  "kind": "msg",
+  "note": "Sangenseki = 'Three Phantom Stones' (slice_01/02 usage); slice_09 used 'Three Mystic Stones' -- needs harmonising."
+ },
+ {
+  "en": "\"Seeing karma is what a fortune-teller does,\nbut we can read other people's, never our own.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Seeing karma is what a fortune-teller does,\nbut we can read other people's, never our own.{0F}\nIf we could, I'd be raking it in by now...\"{w}",
+  "kind": "msg",
+  "note": "Inga = karma/cause and effect; generic 'we' for fortune-tellers, 'I' for Natori's own greed."
+ },
+ {
+  "en": "\"There are two kinds of fortune-telling, you know.{w}Either you listen to someone's troubles,\nor you look into that person's destiny.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Either way, it's all up to the person...{w}Sigh... my reading said red, though...{w}Why did it have to be black...\"{w}",
+  "kind": "msg",
+  "note": "Red/black = roulette (Natori gambles at the casino, slice_16)."
+ },
+ {
+  "en": "\"............Are they cheating or something?\"{w}",
+  "kind": "msg",
+  "note": "Ikasama = the casino rigging the game; subject 'they' restored."
+ },
+ {
+  "en": "\"Heh heh heh, just as foretold.{w}I knew you would come.{w}And that you would grant my wish, too, hm?\"{w}{p}\"No, no, I don't need to hear your answer!{w}You're going to bring me\nthe Dice of Fate, aren't you?\"{w}{p}\"My next big bet is riding on it!{w}",
+  "kind": "msg",
+  "note": "Unmei no daisu = 'Dice of Fate' (ITEM 467, alchemy item; name not yet fixed elsewhere)."
+ },
+ {
+  "en": "{0E}\"My next big bet is riding on it!{0F}\nI'm counting on you, 'kay!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Any time is fine.{w}I know my luck will be at its very best\nthe moment you bring me the Dice of Fate!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm countin' on youuu!\"{w}",
+  "kind": "msg",
+  "note": "Decorative star dropped (ASCII)."
+ },
+ {
+  "en": "\"Heh heh, I knew it all along...{w}that you would come today...{w}Thank you. Today, I'm going to...\"{w}",
+  "kind": "msg",
+  "note": "Sentence continues into 1196 ('WIN!!'); cut at the matching point."
+ },
+ {
+  "en": "\"WIN!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..............................\n..............................\n..............................\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'm back.{w}They said no bringing in your own dice,\nand threw me out... Boo hoo...\"{w}{p}\"Guess you really can't cheat after all...{w}My luck was supposed to be at its very best... and yet...?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Guess you really can't cheat after all...\nMy luck was supposed to be at its very best... and yet...?{0F}\n...Oh!\"{w}",
+  "kind": "msg",
+  "note": "Continues in slice_16 row 1200 ('I should've just played normally!')."
+ }
+]

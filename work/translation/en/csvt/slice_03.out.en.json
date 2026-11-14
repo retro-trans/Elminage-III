@@ -1,0 +1,375 @@
+[
+ {
+  "en": "Forbidden Blue Rain",
+  "kind": "name",
+  "note": "Blue Rain = glossary (blue-striped underwear)."
+ },
+ {
+  "en": "Plan: Hug Decoykins",
+  "kind": "name",
+  "note": "Decoykins = glossary pet name (Milonya's) for Decoy. 'Operation Hug Decoykins' (23) exceeds 22."
+ },
+ {
+  "en": "Don't Call Me Cute!",
+  "kind": "name"
+ },
+ {
+  "en": "Formless Treasure",
+  "kind": "name",
+  "note": "Matches the old man's line 'Knowledge is a treasure without form' (wmap slice_15 rows 1171/1179)."
+ },
+ {
+  "en": "The Emera Program",
+  "kind": "name"
+ },
+ {
+  "en": "An Outcast's Path",
+  "kind": "name",
+  "note": "Lit. 'the way a person in the shadows lives'."
+ },
+ {
+  "en": "Martial Arts Tourney",
+  "kind": "name",
+  "note": "'Martial Arts Tournament' (23) exceeds 22; the corpus uses 'Martial Arts Tournament' only in a designer label (chap slice_021 row 1726)."
+ },
+ {
+  "en": "Magical Party",
+  "kind": "name",
+  "note": "As in chap slice_013 row 1083."
+ },
+ {
+  "en": "What Makes a King",
+  "kind": "name",
+  "note": "Lit. 'one who is a king' (Fairy King Meem's quest)."
+ },
+ {
+  "en": "LooKing foR SomeOne...",
+  "kind": "name",
+  "note": "Source mixes stray katakana into hiragana to show the woman's broken speech (desc: 'a woman of broken speech'); mimicked with odd capitals. Exactly 22 bytes."
+ },
+ {
+  "en": "Strange Box Garden",
+  "kind": "name",
+  "note": "Item name as in chap slice_012 rows 939/1005; 18/18 bytes."
+ },
+ {
+  "en": "Dice of Fate Jackpot",
+  "kind": "name",
+  "note": "Dice of Fate = glossary (ITEM.CSV:467). boromouke = rake in a fortune."
+ },
+ {
+  "en": "Geezers' Wand",
+  "kind": "name",
+  "note": "Glossary item name (ITEM.CSV:158)."
+ },
+ {
+  "en": "A Clouded Heart",
+  "kind": "name"
+ },
+ {
+  "en": "The Aging Songstress",
+  "kind": "name",
+  "note": "Songstress as for Arlotte (wmap slices 17-18)."
+ },
+ {
+  "en": "Yo! Bunch of Softies!",
+  "kind": "name",
+  "note": "Glossary: ohitoyoshi-domo = 'softies' (Zonette's word for the party)."
+ },
+ {
+  "en": "Love's Smuggling Run",
+  "kind": "name",
+  "note": "bin = delivery/shipment; Barjeff's 'confidential parcel' for the Empress."
+ },
+ {
+  "en": "Casino",
+  "kind": "name"
+ },
+ {
+  "en": "Secret Service",
+  "kind": "name",
+  "note": "Special service at the Love Jacuzzi."
+ },
+ {
+  "en": "Put Something On!!",
+  "kind": "name",
+  "note": "haku = put on (lower garments); the quest is about Nora not wearing panties."
+ },
+ {
+  "en": "Tarrit's Close Call!",
+  "kind": "name"
+ },
+ {
+  "en": "Mandelgius's Trial 1",
+  "kind": "name"
+ },
+ {
+  "en": "Mandelgius's Trial 2",
+  "kind": "name"
+ },
+ {
+  "en": "Mandelgius's Trial 3",
+  "kind": "name"
+ },
+ {
+  "en": "Mandelgius's Trial 4",
+  "kind": "name"
+ },
+ {
+  "en": "Can't Get Out~",
+  "kind": "name",
+  "note": "Echoes Tarrit's line 'I can't get out~' (chap slice_002 row 145); she is stuck in a crack."
+ },
+ {
+  "en": "Crumbling Stone Tablet",
+  "kind": "name",
+  "note": "As in chap slice_003 row 207 'crumbling stone tablet'; 22/22 bytes."
+ },
+ {
+  "en": "Old School Ghost Story",
+  "kind": "name",
+  "note": "kyuu-kousha = old school building; kitan = strange tale. 22/22 bytes."
+ },
+ {
+  "en": "Don't Pick on Me",
+  "kind": "name",
+  "note": "As in the Garden Keeper's line 'D-don't pick on me' (chap slice_010 row 841)."
+ },
+ {
+  "en": "Ogre Bay Cleanup Op.",
+  "kind": "name",
+  "note": "Ogre Bay = glossary. sakusen = operation."
+ },
+ {
+  "en": "The Ruler's Amusement",
+  "kind": "name",
+  "note": "ryoushu = lord of a domain; identity unknown (the Molder hint itself asks who it is), so gender-neutral 'Ruler' rather than 'Lord'. yokyou = entertainment/diversion."
+ },
+ {
+  "en": "When you meet King Balgert, he tells you to\nfind the Light Ruins, and hands you a\ncompass.\nAnd so you set out for the Konnu Plains Ruins.",
+  "kind": "desc",
+  "note": "hikari no ikou = 'Light Ruins', matching the event title in slice_02 row 181 ('Find the Light Ruins'); not the glossary Lightstair Ruins (hikari no kaiseki)."
+ },
+ {
+  "en": "Following King Balgert's suggestion,\nyou head for the Temple of Rafa.",
+  "kind": "desc"
+ },
+ {
+  "en": "You have found the Lightstair Ruins, but its\nlight is already gone. To restore it, you\nmust place the Three Phantom Stones\nin the three altars.",
+  "kind": "desc"
+ },
+ {
+  "en": "You have found the Lightstair Ruins, but its\nlight is already gone. To restore it, you\nmust place the Three Phantom Stones\nin the three altars.",
+  "kind": "desc",
+  "note": "Same text as row 243 (source differs only by trailing full-width spaces)."
+ },
+ {
+  "en": "Empress Rianna is building a magic airship to\nfly straight into the Palace of the Sun and\ntake it back from the Kin of Darkness. But\nthe work is proving very hard, and you are\nordered to get the 'Selcoa Paint' needed to\ncoat the hull.",
+  "kind": "desc"
+ },
+ {
+  "en": "To keep the magic airship out of unforeseen\ntrouble, the movements of the heavens must\nbe predicted. You are ordered to report\nthe 'Celestial Readings'.",
+  "kind": "desc"
+ },
+ {
+  "en": "The last material needed to fly the magic\nairship: the 'Wing Soul'. Said to be a\nshining wing that gained a soul, it is also\ncalled the wings of all beings. Empress\nRianna has tried everything but has yet to\nfind it. You are ordered to seek it\nyour own way.",
+  "kind": "desc",
+  "note": "Compressed to fit 260 bytes; all clauses kept."
+ },
+ {
+  "en": "Ogre Bay, led by King Fulgrant, has a bold\nplan: shoot down the Palace of the Sun with\na cannon. But the cannon design drawn by\nthe King's father, 'The Old Man's\nBlueprints', has been lost. You are to find\nit using the compass.",
+  "kind": "desc"
+ },
+ {
+  "en": "You found 'Old Man's Plans', but it\nturns out the 'Cannon Tools' needed to build\nthe cannon were lost too.\nOnce again, you must search, this time for\nthe 'Cannon Tools'.",
+  "kind": "desc"
+ },
+ {
+  "en": "With 'Old Man's Plans' and the\n'Cannon Tools' in hand, only the building is\nleft. But King Fulgrant declares that the\ncannon's debut must be a big festival, with\n'Seasoned Snacks' to nibble on. And so\nyou must search yet again.",
+  "kind": "desc",
+  "note": "No pronoun for Fulgrant (glossary gender unknown)."
+ },
+ {
+  "en": "Perpeco Village in the Perpeco Forest is under\nattack by monsters. You can't just leave it.\nHurry, adventurers!",
+  "kind": "desc"
+ },
+ {
+  "en": "A chatty sapling with plenty of demands about\nwhere it will put down roots. Where could\nthere be a place that satisfies it?",
+  "kind": "desc",
+  "note": "chatty sapling lowercase in running text, per glossary."
+ },
+ {
+  "en": "The sapling says it needs some wonderful\nfertilizer in order to grow.\nWhere could you possibly get some,\nand how?",
+  "kind": "desc"
+ },
+ {
+  "en": "Lumisthenes has been attacked by someone.\nJoin forces with everyone and defend\nthe city!",
+  "kind": "desc"
+ },
+ {
+  "en": "The far, far distant tale of certain fairies,\nheld within the Sun Prison Shrine.\nAnd the one who tells it is...",
+  "kind": "desc",
+  "note": "Youryou no zushi is not in the glossary; corpus has 'Sun Prison Shrine' (chap slice_016 rows 1266-1267, key-item line) and 'Sun Cage Reliquary' (chap slice_019 row 1534). Used the key-item form, as slice_02 row 196 does; needs a glossary decision."
+ },
+ {
+  "en": "Humans, elves, ogres, and... Bearing all of\ntheir hopes, the adventurers have at last\nreached the Palace of the Sun.\nCan you save the land?",
+  "kind": "desc"
+ },
+ {
+  "en": "You have retaken the Palace of the Sun and\nspared the land from collapse. Evil beings,\nmonsters, the scars of past tragedy: these\nwill never vanish, but your deeds were\nbeyond doubt. Praise the great\nadventurers!",
+  "kind": "desc"
+ },
+ {
+  "en": "King Balgert still seems concerned about the\nPalace of the Sun. Once again you head for\nthe stage of the final battle,\nthe Palace of the Sun.\nAnd there...",
+  "kind": "desc"
+ },
+ {
+  "en": "You passed through the door the librarian\nled you to. Beyond it spread a land you had\nnever seen.",
+  "kind": "desc",
+  "note": "librarian lowercase per glossary."
+ },
+ {
+  "en": "The Palace of the Sun, thought to be the\nbeginning and the end of everything.\nBut its role was not yet over. Yes, there\nare still those who cannot let their\nstory end...",
+  "kind": "desc"
+ },
+ {
+  "en": "\"You'll cause trouble in the shop!\" -- and\nso you aren't allowed to form a mixed party\nof Good and Evil. Just then, Mucha sets\nyou a challenge.",
+  "kind": "desc",
+  "note": "Opening line is Mucha's reason, set off in quotes. Good/Evil capitalised as glossary alignment terms; 'mixed party' as in wmap slice_06 row 445."
+ },
+ {
+  "en": "Old Zeppo the dragonewt asks you to gather\na Crystal Flower \"for my late wife.\"",
+  "kind": "desc",
+  "note": "Source quotes the old man's words; kept as a quote."
+ },
+ {
+  "en": "Since Gia is injured, you are more or less\nforced to go with Toner to a health checkup\nin her place.",
+  "kind": "desc",
+  "note": "'her' = Gia (female per glossary); no pronoun for Toner (gender unknown)."
+ },
+ {
+  "en": "Word is that Hardy the Money-Grubber is\nlooking after a graveyard.\nWhy do something that earns no money?",
+  "kind": "desc",
+  "note": "Hardy: gender unknown, no pronoun."
+ },
+ {
+  "en": "King Balgert is pushing Fena to train more\nadventurers, but the Training Hall is\nunderstaffed. You are asked to find someone\nideal for training the rookies. There seems\nto be more on Fena's mind.",
+  "kind": "desc",
+  "note": "Fena: gender unknown, name repeated instead of a pronoun (slice_02 row 206 note says 'her', unsupported by the glossary)."
+ },
+ {
+  "en": "He claims that prosperity shows most in\namusements and luxuries. Right or not, he\nseems, in his own way, to be worried about\nthe state of the town.",
+  "kind": "desc",
+  "note": "Source says kare (he): the cookie-eating noble of wmap slice_10 row 768."
+ },
+ {
+  "en": "Madulay, the artisan who builds the magic\nairship, asks you to go and get whetstones\nfor the job.",
+  "kind": "desc",
+  "note": "Madulay: gender unknown; 'artisan' for shokunin, no pronoun."
+ },
+ {
+  "en": "Every night Shimerief sits in the watchtower\nand will not budge. Asked why, she dodges\nthe question, but...",
+  "kind": "desc"
+ },
+ {
+  "en": "Toner is looking for Blue Rain. Blue Rain\nseems to be very important to Toner.\nBlue Rain is apparently 'something exciting.'\nBlue Rain, Blue Rain,\nexciting Blue Rain...",
+  "kind": "desc",
+  "note": "wakuwaku = 'exciting' per glossary. Toner: no pronoun."
+ },
+ {
+  "en": "Out of her obsessive devotion to Decoy,\nshe hits on the idea of setting a trap.\nAll for love's sake...",
+  "kind": "desc",
+  "note": "she = Milonya (female; Decoykins quest). Source says kanojo."
+ },
+ {
+  "en": "He surely never wished to look\nthe way he does.\nThat is why he hatches a plan.",
+  "kind": "desc",
+  "note": "Source says kare (he); who it is (the 'Don't Call Me Cute!' quest) is not named here."
+ },
+ {
+  "en": "Knowledge, however much you store, takes up\nno space and can be carried anywhere. Today\ntoo, the old man goes on passing it on.",
+  "kind": "desc"
+ },
+ {
+  "en": "Counselor Emera's healing program.\nAll who carry darkness in their hearts,\ncome along now.",
+  "kind": "desc",
+  "note": "kaunseraa = Counselor (Emera's glossary position is 'Soul Therapist')."
+ },
+ {
+  "en": "They should have shared the same lot, so why\ndid they turn out so different?\nA thief and a girl. What was it that set\nthe two apart?\nOnce the thief learns it, what will go\nthrough the thief's mind?",
+  "kind": "desc",
+  "note": "Thief: gender unknown, noun repeated instead of a pronoun."
+ },
+ {
+  "en": "In the Martial Arts Wing of Santorea Academy,\nyou can fight Professor Rombino!\nWin it all, and something good\nmight happen.",
+  "kind": "desc",
+  "note": "Professor Rombino as in chap slice_013. butsujutsu-tou = Martial Arts Wing (building of the Academy)."
+ },
+ {
+  "en": "In the Magic Wing of Santorea Academy,\nyou can fight Professor Nambino!\nWin it all, and something good\nmight happen.",
+  "kind": "desc",
+  "note": "Professor Nambino as in chap slice_013."
+ },
+ {
+  "en": "Ghosts have appeared, troubling the fairy\nvillage. On the orders of Meem, the Fairy\nKing, you were tasked with driving them out.",
+  "kind": "desc",
+  "note": "Meem, the Fairy King as in chap slice_018 row 1464."
+ },
+ {
+  "en": "A woman of broken speech and a foul-mouthed\nman. The pair ask you to help find someone.",
+  "kind": "desc"
+ },
+ {
+  "en": "A strange box garden: set it up in 'a certain\nplace' and it activates, drawing you into the\nlittle garden for all kinds of exploring.\nNow, where might 'a certain place' be?",
+  "kind": "desc"
+ },
+ {
+  "en": "What is gambling? A heap of numbers, or\nsomething decided by fate?\nThat eternal question is about to be settled\nby the fortune-teller Natori.",
+  "kind": "desc"
+ },
+ {
+  "en": "The Central Council, where many views are\ngathered and debated. Its Council Chair is\nWattner.\nLately he seems rather worn out.",
+  "kind": "desc",
+  "note": "Source uses kare (he) for Wattner here; glossary has gender unknown -- evidence for a glossary update."
+ },
+ {
+  "en": "Driven by ambition and a thirst for knowledge,\nshe carries on her research. And her dislike\nof adventurers had its reasons.",
+  "kind": "desc",
+  "note": "Source says kanojo (she); the researcher at the Stargazing Lighthouse, not named here."
+ },
+ {
+  "en": "'Let song speak, let verse sing.' A singer\nshould speak through song, yet from her lips\ncome only words of longing for the old days.\nWhat is on the aging songstress's mind?",
+  "kind": "desc",
+  "note": "Opening is a set phrase (uta wa katare yo, shi wa utae); rendered as a quoted maxim. her = the songstress (Arlotte, female)."
+ },
+ {
+  "en": "She has values of her own. That blatant lie\nmay have some purpose behind it.",
+  "kind": "desc",
+  "note": "Zonette's quest (ctx). Source says kanojo (she), and the hint also says kanojo -- evidence for Zonette's glossary gender (currently unknown). Dropped the source's trailing line break."
+ },
+ {
+  "en": "A man living out 'love saves the world'\nto the letter. He plotted to smuggle love.",
+  "kind": "desc",
+  "note": "Barjeff's quest (ctx 'Chief Barjeff'); source says otoko/kare (man/he)."
+ },
+ {
+  "en": "Good day to you,\nand welcome to MILL.GP.\nHonored guest, might I interest you in a\ngame with me today?",
+  "kind": "desc",
+  "note": "MILL.GP. per glossary; greeting style as the dealer Linesman in wmap slice_18 row 1401."
+ },
+ {
+  "en": "The Love Jacuzzi has a special service of its\nown for valued customers.\nBut for that, something is needed.",
+  "kind": "desc",
+  "note": "Rabu Jakujii romanized 'Love Jacuzzi' (new name). Source o-toku-sama is a typo for o-tokui-sama (valued customers)."
+ },
+ {
+  "en": "Do different races have different senses of\nshame? Nora doesn't mind at all, but\nher coworker Yuna fusses over Nora's\nunderwear.",
+  "kind": "desc",
+  "note": "Yuna: gender unknown, no pronoun. 'her' = Nora."
+ },
+ {
+  "en": "Her ordeals never end.\nOr is it you, the ones involved with her,\nupon whom the ordeals are truly falling...?",
+  "kind": "desc",
+  "note": "her = Tarrit (female)."
+ }
+]

@@ -1,0 +1,50 @@
+[
+ {
+  "id": "EL_TALK.CSV:4:3",
+  "en": "About Hisbert",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "EL_TALK.CSV:5:3",
+  "en": "About the Gods",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "EL_TALK.CSV:6:3",
+  "en": "Kin of Darkness",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "EL_TALK.CSV:7:3",
+  "en": "About This Land",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "EL_TALK.CSV:8:3",
+  "en": "The Gods' World",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "EL_TALK.CSV:9:3",
+  "en": "The Inner Door",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "EL_TALK.CSV:10:3",
+  "en": "Humans and Elves",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "EL_TALK.CSV:11:3",
+  "en": "What Is Life?",
+  "max": 18,
+  "used": true
+ }
+]

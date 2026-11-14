@@ -1,0 +1,353 @@
+[
+ {
+  "en": "Lowers all allies' AC by 3. Stackable.",
+  "kind": "help"
+ },
+ {
+  "en": "Shows any dead adventurers on the current floor.",
+  "kind": "help"
+ },
+ {
+  "en": "Heals one ally moderately.",
+  "kind": "help",
+  "note": "[JP] = moderate heal (cf. ITEM_HELP [JP] 'a little')."
+ },
+ {
+  "en": "Lights the dungeon so hidden mechanisms are easier to find. No time limit.",
+  "kind": "help"
+ },
+ {
+  "en": "Cures all allies of Sleep, Silence, Confusion, Charm and Fear.",
+  "kind": "help",
+  "note": "Status names as in ebt / ITEM_HELP."
+ },
+ {
+  "en": "Lowers all allies' AC by 2. Lasts the whole expedition.",
+  "kind": "help",
+  "note": "[JP] = stays in effect for the whole trip (until back in town); contrasts with the in-battle [JP] version."
+ },
+ {
+  "en": "Returns the party to the castle. Forgotten once cast.",
+  "kind": "help",
+  "note": "[JP]: the spell is lost from the caster's list after one use."
+ },
+ {
+  "en": "Cures all allies of every ailment except Petrification, Death and Ash.",
+  "kind": "help",
+  "note": "[JP] = Petrification (ITEM_HELP precedent), [JP] = Ash (ebt)."
+ },
+ {
+  "en": "Sets one ally's AC to -20.",
+  "kind": "help",
+  "note": "ebt 'now has AC -20'."
+ },
+ {
+  "en": "Fully restores one ally's HP and cures all ailments but Death and Ash.",
+  "kind": "help"
+ },
+ {
+  "en": "Creates a barrier that blocks one breath attack. Can be stacked.",
+  "kind": "help",
+  "note": "Same pattern as ITEM_HELP drain-barrier row (slice_19:1550)."
+ },
+ {
+  "en": "In exchange for all MP, cuts every enemy's current HP by a set ratio.",
+  "kind": "help",
+  "note": "[JP] = all of the caster's MP."
+ },
+ {
+  "en": "Heals all allies' HP moderately.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to revive one ally from Death or Ash.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to instantly kill one enemy row.",
+  "kind": "help"
+ },
+ {
+  "en": "High chance to paralyze one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Identifies the trap on a treasure chest.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to paralyze one enemy row.",
+  "kind": "help"
+ },
+ {
+  "en": "Hides one ally so enemies won't target them.",
+  "kind": "help",
+  "note": "Bluffy (glossary)."
+ },
+ {
+  "en": "Raises all allies' speed.",
+  "kind": "help",
+  "note": "[JP] = speed (ebt)."
+ },
+ {
+  "en": "High chance to confuse one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Lowers all enemies' speed.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to confuse one enemy row.",
+  "kind": "help",
+  "note": "Same as ITEM_HELP slice_19:1588 minus the [Instrument] tag."
+ },
+ {
+  "en": "Draws enemy attacks onto one ally.",
+  "kind": "help"
+ },
+ {
+  "en": "High chance to charm one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Resets stat changes made in battle for friend and foe.",
+  "kind": "help",
+  "note": "Same as ITEM_HELP slice_19:1577 minus the [Instrument] tag."
+ },
+ {
+  "en": "Restores all allies' items that were broken in battle.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to charm one enemy row.",
+  "kind": "help"
+ },
+ {
+  "en": "Destroys a cursed item.",
+  "kind": "help"
+ },
+ {
+  "en": "Safely disarms the trap on a treasure chest.",
+  "kind": "help"
+ },
+ {
+  "en": "Grants a special wish, but is forgotten once cast.",
+  "kind": "help"
+ },
+ {
+  "en": "Forms a contract with a monster.",
+  "kind": "help",
+  "note": "Summoner spell [JP]; ebt uses 'contract'. Dupes 7."
+ },
+ {
+  "en": "Summons a contracted monster.",
+  "kind": "help"
+ },
+ {
+  "en": "Sends back the summoned monster.",
+  "kind": "help",
+  "note": "[JP]: dismiss the current summon."
+ },
+ {
+  "en": "Contract9012",
+  "kind": "key?",
+  "note": "UNCERTAIN: designer label with a width ruler ([JP] + full-width 3..12). Kept as 'Contract' + ruler digits to a 12-char width. Probably not player-visible. Spell name [JP] itself not yet fixed (slice_48)."
+ },
+ {
+  "en": "Piety",
+  "kind": "key?",
+  "note": "Learning stat; ebt [JP] = Piety, cf. Ankh of Piety."
+ },
+ {
+  "en": "(None)",
+  "kind": "key?",
+  "note": "ebt [JP] = None; parentheses kept."
+ },
+ {
+  "en": "Class changed to Fighter",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Mage",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Priest",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Thief",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Alchemist",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Servant",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Bishop",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Ranger",
+  "kind": "desc",
+  "note": "[JP] = Hunter (glossary, csvt majority). ebt slice_16:1305 has 'Ranger'; conflict flagged."
+ },
+ {
+  "en": "Class changed to Gladiator",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Bard",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Kannagi",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Summoner",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Valkyrie",
+  "kind": "desc",
+  "note": "[JP] = Valkyrie (ebt; glossary [JP])."
+ },
+ {
+  "en": "Class changed to Lord",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Samurai",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Ninja",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed",
+  "kind": "desc",
+  "note": "Random basic class."
+ },
+ {
+  "en": "Race changed to Human",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Elf",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Dwarf",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Gnome",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Hobbit",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Fairy",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Werebeast",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Dragonewt",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Devilish",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Magic Puppet",
+  "kind": "desc",
+  "note": "[JP] = magic puppet (glossary term). ebt race list slice_17:1355 has 'Puppet'; conflict flagged."
+ },
+ {
+  "en": "Race changed to Ogre",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Goblin",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed",
+  "kind": "desc",
+  "note": "Random race Human..Devilish."
+ },
+ {
+  "en": "Received the Blessing of Life",
+  "kind": "desc",
+  "note": "Ildraha, god of life (ebt slice_02:97)."
+ },
+ {
+  "en": "Received the Blessing of Change",
+  "kind": "desc",
+  "note": "Ashtel, god of change (story)."
+ },
+ {
+  "en": "Received the Blessing of Dark Oblivion",
+  "kind": "desc",
+  "note": "Rogera; [JP] = Dark Oblivion (glossary [JP]). 38/38 bytes. ebt slice_08:640 has [JP] = 'Blessing of Dark Ruin'; conflict flagged."
+ },
+ {
+  "en": "Received the Blessing of Space",
+  "kind": "desc",
+  "note": "Void, god of space (story)."
+ },
+ {
+  "en": "Received the Blessing of Time",
+  "kind": "desc",
+  "note": "Naru, god of time (story)."
+ },
+ {
+  "en": "Received the Blessing of Existence",
+  "kind": "desc",
+  "note": "Dehain, god of existence (story)."
+ },
+ {
+  "en": "Gender changed to Male",
+  "kind": "desc"
+ },
+ {
+  "en": "Gender changed to Female",
+  "kind": "desc"
+ },
+ {
+  "en": "Alignment changed to Good",
+  "kind": "desc",
+  "note": "[JP] here = alignment (ctx [JP]; wmap 'alignment changed to Good')."
+ },
+ {
+  "en": "Alignment changed to Neutral",
+  "kind": "desc"
+ },
+ {
+  "en": "Alignment changed to Evil",
+  "kind": "desc"
+ },
+ {
+  "en": "Strength increased",
+  "kind": "desc",
+  "note": "[JP] = Strength (ebt)."
+ },
+ {
+  "en": "Intellect increased",
+  "kind": "desc",
+  "note": "[JP] = Intellect (ebt)."
+ }
+]

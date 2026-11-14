@@ -1,0 +1,352 @@
+[
+ {
+  "en": "Read it?",
+  "kind": "data"
+ },
+ {
+  "en": "{0E}*            Night is dangerous            *\n*    When the sun goes down, go on home    *\n*                                          *{0F}{w}{p}{0E}*            Night is dangerous            *\n*    When the sun goes down, go on home    *\n*         Or you'll die, you know          *{0F}{w}",
+  "kind": "msg",
+  "note": "Sign gag: page 1 leaves the third line blank, page 2 fills it with the punchline. Box lines centred with ASCII spaces inside '*...*', 44 chars wide."
+ },
+ {
+  "en": "There's a signpost.{w}You could probably read it from the front.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Adventurer",
+  "kind": "name"
+ },
+ {
+  "en": "\"Damn it, what IS that freak!?\nIf we fight it head-on, we'll get wiped out...{w}Maybe it'll go to sleep if we wait till night?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That freak's gone to sleep...{w}Now we can probably get past it, but moving around at night is dangerous.\n...Wait, so we STILL can't go on!? Ugh, man...\"{w}",
+  "kind": "msg",
+  "note": "tohoho -> 'Ugh, man...'. The joke: they waited for night so the monster would sleep, but night travel is too risky."
+ },
+ {
+  "en": "\"That stone statue over there is a real trickster.\nIt's fine while it's asleep, but once it wakes up...\"{w}",
+  "kind": "msg",
+  "note": "kuwasemono = something not as harmless as it looks."
+ },
+ {
+  "en": "\"I-I feel sick...\nWhy is there a spinning floor in a place like this...\"{w}",
+  "kind": "msg",
+  "note": "Rows 167-192: two unnamed adventurers. A (ore, rough) and B (atashi, gets dizzy and throws up). Speakers alternate as noted; no pronouns used for either, since neither has a glossary gender."
+ },
+ {
+  "en": "\"Didn't I tell you?\nDon't rush in. You've gotta be more careful.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "(...Not that any of that is sinking in, I bet.){w}",
+  "kind": "msg",
+  "note": "A's thought. Japanese has no subject ('kiitya inee'); rendered impersonally to avoid a he/she for B."
+ },
+ {
+  "en": "\"My head's spinning... Urp...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Night's already fallen.\nIt's dangerous, so let's stop moving and camp out here.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'm sorry.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm always causing you trouble, aren't I?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-what's gotten into you all of a sudden!?{w}You, apologizing to me? That's not normal!{w}Did you hit your head or something?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is how everyone ends up leaving me.{w}In the end I'll be traveling all alone!{w}And then I'll die in a ditch somewhere! Uuu...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You've got me, so...\nyou won't be all alone...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I-I mean, well... y'know!\"{w}{p}\"You don't listen, you're pushy, you're an idiot,\nyou've got nothing going for you at all.{w}But strong-willed types... I don't hate 'em.\"{w}",
+  "kind": "msg",
+  "note": "A. 'ki no tsuyoi yatsu, kirai ja... nai shi' = a fumbled confession; kept the hesitation before the admission."
+ },
+ {
+  "en": "\"...Ugh... Uuuuugh...\"{w}",
+  "kind": "msg",
+  "note": "B is about to vomit; A mistakes it for crying (row 181). Kept the sound ambiguous between a sob and a retch."
+ },
+ {
+  "en": "\"Hey, hey~ No need to cry, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Urp...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How do I put it? It's not like I'm against it either...\"{w}",
+  "kind": "msg",
+  "note": "A. 'manzara demo...' (not entirely unwilling) -- interrupted, kept trailing."
+ },
+ {
+  "en": "\"Nope. Gonna puke.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......\"{w}",
+  "kind": "msg",
+  "note": "Shared line (dupes 7)."
+ },
+ {
+  "en": "\"Phew, that feels so much better.{w}...Ew, what's with that robe!? It's filthy!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Y-y-y-YOU DID THIIIS!!\"{w}",
+  "kind": "msg",
+  "note": "A: 'o-oooo, omae ga--!!' = 'you (did this)!' Rendered as the accusation it implies."
+ },
+ {
+  "en": "\"You stink, so stay away from me. Honestly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why, you little...{w}Hey... wait, not that way!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whoa-a-a-a-a~?\"{w}",
+  "kind": "msg",
+  "note": "B: 'aaare--?' = the classic cry of someone being swept/spun away; B wanders onto the spinning floor again."
+ },
+ {
+  "en": "\"Where am I supposed to take all this rage...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you stood before the door, it began to open with an earth-shaking rumble.{w}",
+  "kind": "msg",
+  "note": "Generic door line (dupes 72)."
+ },
+ {
+  "en": "There's a firmly sealed door.\nYou can't see anything that looks like a keyhole.{w}",
+  "kind": "msg",
+  "note": "Generic door line (dupes 70)."
+ },
+ {
+  "en": "Mage",
+  "kind": "name"
+ },
+ {
+  "en": "\"Something's off.\nThere's a patch around here I can't fill in on the map.{w}Have we overlooked something?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Thief",
+  "kind": "name"
+ },
+ {
+  "en": "\"Sounds to me like\nwe oughta suspect a secret door.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A hidden door, hm...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My gut says it's gotta be real close by.\nLet's go look for it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's an altar.{w}It's the perfect place to throw yourself down and grovel.{w}",
+  "kind": "msg",
+  "note": "dogeza = kneeling bow to the floor (abject apology/begging). Joke sign-off kept."
+ },
+ {
+  "en": "There's a signpost that reads \"Kembeck's Shop\".{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}*          To all you adventurers          *{0F}{w}{p}{0E}*       First, check your equipment        *\n* Have you equipped your swords and armor? *\n*  Get potions and such at Kembeck's Shop  *{0F}{w}{p}{0E}*   Mages w/o a Magic Seal have it rough   *\n*     If there's a mage in your party,     *\n*      get one at Kembeck's Shop too       *{0F}{w}{p}{0E}*     Next, let's set up your compass      *\n*      Just carrying it isn't enough       *\n*      Open Camp and use the compass       *{0F}{w}{p}{0E}* Make an Angel's Window to find your way  *\n*      You'll get lost way less often      *\n*  Get home without string or breadcrumbs  *{0F}{w}{p}{0E}*   Head west down the road to find Abi    *\n*   Near the entrance: a healing spring    *\n*       In Roscadil: Toner's Armory!       *{0F}{w}{p}{0E}\n*      Good luck out there, everyone       *{0F}{w}",
+  "kind": "msg",
+  "note": "Tutorial sign. Angel's Window and compass as in wmap slices 05/09; 'Toner's Armory' = Tonaa bugu-ten (new shop name, Toner from glossary). 'Abi-san ga' = Abi is there. Kept source layout: leading blank line, page 1 one line, last page on line 2."
+ },
+ {
+  "en": "A huge flood of water came surging in.{w}The water, pumped up from underground, swept you away before you could do a thing.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Water came crashing down from overhead.{w}The water pumped up from underground became a raging torrent, and blasted you away with overwhelming force!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Water came flowing out of the room.{w}You tried to hold your ground but slipped,\nand the water carried you away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's a crumbling stone tablet.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Examine it?",
+  "kind": "data"
+ },
+ {
+  "en": "As you brushed away the thick heaps of dust, barely legible letters came into view.{w}{p}'Sudden** light was lost from the l*nd, and those born of dark*** be*an to run ram*ant.'{w}{p}'Even with the ** power of the wind, we could n** hold back the encroachment of ****.'{w}{p}'Among the fiends that welled up from the earth*** was the form ** the Progenitor.{w}Though a fi**, ** held ** in high regard.'{w}{p}'*e made the **priest and the daughter of the *icked **mage Zanu** our proxies for the land, and negotiated with the Pro*****.'{w}{p}'Through the work of the * priest and the daughter, ** welcomed the Progenitor's ** true ** as the new ** light.'{w}{p}'From among the spirits dwelling in *****rtowa, a suitable guard*** was led **.'{w}{p}'By some means, the daughter guided the guardian's ***stal and crowned the Sun Spirit.{w}The sunlight was succes*fully reg*ined.'{w}{p}'*light shall pour down upon the land ** dispel the darkness and drive back evil.'{w}{p}'However, not all came to a goo* end ***.'{w}{p}'Those wh* cared for the guardian thought ill of the coronation.{w}In response, the spirits ** the wind broke away, and built an otherworldly realm in the gap betw*en heaven ** earth.'{w}{p}'And the Progenitor did not return, but descended upon the eastern lands. **s intent is beyond fathoming.'{w}{p}'We earnestly ** that this ** decision of ours will lead to a ***ght future.'{w}{p}The inscription ends there.{w}",
+  "kind": "msg",
+  "note": "Damaged inscription: '*' marks missing letters, placed at roughly the same points as the source gaps. taiso -> 'the Progenitor' (new term; a demonic being the land's people negotiated with, later 'new light'). Zanu** = partial name of a (wicked?) mage whose daughter was the proxy. '*****rtowa' = most likely Nertowa (wmap slice_02). taiyousei = Sun Spirit (wmap). 'tsukasa' read as priest (sai-shi?) -- could be another office. Gaps used to avoid a pronoun for the Progenitor."
+ },
+ {
+  "en": "Graffiti-like letters were carved into the crusty old stone desk.{w}{p}'Patrol outside on a stormy day!? You've gotta be kidding me!\nO great Agin, won't you come down here...'{w}",
+  "kind": "msg",
+  "note": "Agin (Agin-sama) = new name, apparently a deity (asked to 'come down'); 'O great' used instead of 'Lord' to avoid assuming gender. 'urotsuke' read as an order the writer was given (guard on patrol)."
+ },
+ {
+  "en": "Sluice Room{w}",
+  "kind": "op031",
+  "note": "op031 map/room label (cf. wmap 'Rotating Floor'). housui-beya = water-discharge room."
+ },
+ {
+  "en": "The hole in the wall is pumping up the water at your feet.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's a strange mechanism in the wall,\nand a hole just above the floor.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The hole in the wall began pumping up the water at your feet.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's a switch. Press it?",
+  "kind": "data"
+ },
+ {
+  "en": "The switch turned off.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The switch turned on.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's a slimy signpost.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You tried to read it, but the water had risen too high to make it out.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*      Safety check! One, two, Konnu!      *\n*   Mind your head! Three, four, Konnu!    *\n*  Mind the water level when discharging   *{0F}{w}",
+  "kind": "msg",
+  "note": "Konnu -> 'Connu' (new name; the dungeon files are named FM_CONNU, so probably the place). Workplace safety-chant parody. 'chuui saretashi' (archaic notice style) -> plain notice wording."
+ },
+ {
+  "en": "On the stone desk lies a weathered parchment document.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Read it?",
+  "kind": "data"
+ },
+ {
+  "en": "'Incident Report of Koreapper, Reservoir Guard'{w}{p}'I, Koreapper, charged with guarding the reservoir, have lost the key to the reservoir pump.'{w}{p}--Why did you lose it?{w}{p}'It seems I dropped it somewhere while making my rounds. I am terribly sorry.'{w}{p}--Where did you lose it?{w}{p}'Well... I was short on sleep, so I don't remember last night very well.'{w}{p}--Stayed up late, did you?{w}{p}'Yes.'{w}{p}--Doing what?{w}{p}'Huh? ...Oh, this and that.'{w}{p}--No hiding. Be specific.{w}{p}'W-well, it doesn't really matter what, does it?'{w}{p}--I hear you borrowed the new one from Ildam.{w}{p}'*gulp*!?'{w}{p}--You borrowed it, I hear?{w}{p}'...Yes. That's what did it.'{w}{p}--So how was it?{w}{p}'Oh, it was just... hee hee hee...'{w}{p}--Lend it to me next!{w}{p}'Ehh, should I? I dunno~'{w}{p}--I'll throw you in jail, y'know?{w}{p}'W-wait, please!\nAll right, all right,\nI'll lend it to you the day after tomorrow!!'{w}{p}After that, a largely pointless exchange went on and on in the record.{w}",
+  "kind": "msg",
+  "note": "shimatsu-roku -> 'Incident Report' (written account of a blunder). Koreapper (Koreappaa) and Ildam (Irudamu) = new names. shinsaku = 'the new one' (a new work -- book or similar, left vague as in source). '--' lines are the interrogator."
+ },
+ {
+  "en": "You found something in a corner of the passage.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Reservoir Key.{w}",
+  "kind": "msg",
+  "note": "New key item: Reservoir Key (chosuichi no kagi)."
+ },
+ {
+  "en": "There's nothing in particular here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "On the stone desk lies a weathered parchment document.{w}{p}'The same menu up to three times, I can forgive. But...'{w}{p}It went on and on with gripes about the wife's cooking.{w}",
+  "kind": "msg",
+  "note": "'the wife's' keeps the writer's gender open."
+ },
+ {
+  "en": "On the stone desk lies a weathered parchment document.{w}{p}'Today's weather: sunny.{w}Seems like a good time to sow the regie seeds...'{w}{p}It was crammed with records of the weather and the crops.{w}",
+  "kind": "msg",
+  "note": "Rejie -> 'regie' (new term: a crop; lowercase as a plant name)."
+ },
+ {
+  "en": "Tarrit is surrounded by monsters.{w}",
+  "kind": "msg",
+  "note": "Tarrit (Taaritto) = new name, Valkyrie girl met in slice_002 rows 118-153. Calls the player 'aruji' -> 'Master'."
+ },
+ {
+  "en": "\"GYAAAH! He-e-elp me-e-e-e!{w}Ooh! Passing by over there -- it's Master!{w}",
+  "kind": "msg",
+  "note": "No closing quote: the line continues in row 231 (as in the source)."
+ },
+ {
+  "en": "{0E}\"GYAAAH! He-e-elp me-e-e-e!\nOoh! Passing by over there -- it's Master!{0F}\nI'm Tarrit, by the way... wait, did I say that already?\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} repeats row 230 exactly ({w} of row 230 shown as \\n here, matching the source)."
+ },
+ {
+  "en": "\"GYAAH! This is no time for that!{w}Master, as you can see, I'm in a real pickle!{w}Help me out heeere! GEEEEEH!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..........Okay! Playing dead!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm leaving the rest to you, Master!{w}I'm gonna play dead till it all blows over!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "More and more monsters keep appearing.{w}",
+  "kind": "msg",
+  "note": "Shared line (dupes 7)."
+ },
+ {
+  "en": "\"...I'm dead and all, but go get 'em~...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..........I'm dead and all, but is it over yet?{w}",
+  "kind": "msg",
+  "note": "No closing quote: continues in row 238."
+ },
+ {
+  "en": "{0E}\"..........I'm dead and all, but is it over yet?{0F}\nAah, I'm saved! Thank you, Master!\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} repeats row 237 exactly."
+ },
+ {
+  "en": "\"Boy, traveling alone sure is dangerous~{w}It's way better to be with somebody!{w}",
+  "kind": "msg",
+  "note": "No closing quote: continues in slice_004 row 240, whose {0E}..{0F} part must repeat this text exactly (with \\n in place of the {w})."
+ }
+]

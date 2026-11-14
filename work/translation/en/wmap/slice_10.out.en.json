@@ -1,0 +1,349 @@
+[
+ {
+  "en": "When you went inside, you were showered with praise.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Congratulations! That's amazing!{w}You really went to the Palace of the Sun and came back victorious!{w}You did it!\"{w}",
+  "kind": "msg",
+  "note": "[JP] has no stated object; rendered 'came back victorious' rather than inventing who was defeated."
+ },
+ {
+  "en": "\"Congratulations...{w}No -- rather than that, I suppose I should be saying thank you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Wattner",
+  "kind": "name",
+  "note": "New name [JP], romanized Wattner (not in glossary). Gender unknown."
+ },
+ {
+  "en": "\"You have done splendidly.{w}This is all thanks to your courage and your drive.{w}...With this, we can rest easy, for now at least.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Here's your reward. Take it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As a reward, you received\n1,000,000 GP.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Right, enough of the stuffy talk!{w}Let's go have ourselves a victory parade!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey! So you lot made it back!{w}I've put you through a lot of trouble, too.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But now you're big heroes yourselves.{w}How's it feel?{w}Well, it's all thanks to me, of course! Gahahaha!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"By the way, aren't you curious\nwhat's become of the Palace of the Sun?\"{w}{p}\"I've got a feeling something's still going on there...{w}So, would you do me a favor?\"{w}{p}\"Go take a look at the Palace of the Sun for me.{w}If there's nothing there, that's fine.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, I'm counting on you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey! You lot doing all right?{w}What're you here for, after betraying me like that?{w}Nwahahahaha!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] kept as a joking accusation (he laughs right after); which betrayal it refers to is not visible in this slice."
+ },
+ {
+  "en": "\"Hey, you lot. How are things going?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What? The Sun Spirit...?\"{w}{p}\"That... might be something really serious, huh?\"{w}{p}\"If the Sun Spirit kicks the bucket, the world'll be\nswallowed up in darkness.\"{w}{p}\"And then everything'll go just the way\nthat bunch wants.\"{w}{p}\"I'll ask around on my end.{w}You lot keep up the investigation.\"{w}{p}\"Right then. I'm counting on you.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Sun Spirit' (new term). [JP] = 'that bunch' (the known enemy faction, unnamed here)."
+ },
+ {
+  "en": "\"Bright! Way too bright!{w}So the Sun Spirit's doing better, huh?{w}Isn't it too bright now, though?\"{w}{p}\"Well, as long as the Sun Spirit's healthy, that's fine by me.{w}You lot really did a whole lot for us.\nThanks!\"{w}{p}\"On behalf of everyone, you have my thanks.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Rianna was looking for you, y'know.\"{w}{p}\"Go on over to Roscadil.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Fulgrant was looking for you, y'know.\"{w}{p}\"Go on over to Ogre Bay.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Ogre Bay, as in pilot row 160."
+ },
+ {
+  "en": "\"Someone from Perpeco Village was looking\nfor you, y'know.\"{w}{p}\"Go on over to Perpeco Forest.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You carve out your own path -- that's what an adventurer is.{w}If you're ready to carry your own life on your back,\nsign up on this roster!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Plenty of adventurers have already\ngot their compasses and set out, you know.\"{w}{p}\"If you don't want to get beaten to it,\nyou'd better hurry to Algrantz Castle.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, you got your compass!\nAlrighty, let the adventure begin!\nNow off you go -- ZOOM!{w}",
+  "kind": "msg",
+  "note": "Source has no closing quote; kept without one. [JP] (Fena's sound-word habit) -> 'ZOOM'."
+ },
+ {
+  "en": "\"Hey, you guys! How's it going?\nUp for a bit of retraining?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A spear can thrust, slash and sweep, but\nit really comes down to two: ZABANG and SHABASHOOM.{w}And even thrusts come in ZABANG, ZUNK, all sorts...\"{w}{p}\"Then there are two big ways to cut with a blade!\nZANG and ZAGANG. Katana and sword, basically.{w}",
+  "kind": "msg",
+  "note": "Fena's onomatopoeia teaching rendered with invented English sound words; the illogic (three moves -> 'two') is in the source. Last page has no closing quote; it continues in row 744."
+ },
+ {
+  "en": "{0E}\"Then there are two big ways to cut with a blade!\nZANG and ZAGANG. Katana and sword, basically.{0F}\n...Hm? It's easier to follow this way?\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} part repeats the last page of row 743 verbatim."
+ },
+ {
+  "en": "\"Oh, it's you guys... Hey, there's something I want to ask you.\nIs stuff like WHAM and SHZAK... hard to follow?{w}But WHAM is WHAM, right...? Mutter, mutter...\"{w}{p}\"...Lately people say their instructor talks in\nthe language of another world. Is it really that bad?{w}But real combat isn't about logic... is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, how's it going?{w}There's something I'd like to ask of you,\nif that's okay?\"{w}{p}\"'Send me more adventurers!'{w}King Balgert keeps rushing me like that.{w}...Well, if the King's asking, I can't really say no.\"{w}{p}\"But there just aren't enough instructors for all the trainees...{w}And you guys are busy with your adventures, right?\nIt's not like I can ask you to be instructors.\"{w}{p}\"So, anyway, you know Abi, right?{w}Yep, yep -- the one that's just right for beginners.{w}Could you bring Abi over here for me?\"{w}{p}\"I think Abi would make a great sparring partner.{w}If you could just whoosh Abi over here with summoning\nmagic, I'll take care of the rest. Please!\"{w}",
+  "kind": "msg",
+  "note": "Abi has no glossary gender; phrased with the name, no pronoun. [JP] -> 'King Balgert' ([JP] rendered King, used as a title; no he/she used for Balgert anywhere in the slice)."
+ },
+ {
+  "en": "\"Think of it as helping out your juniors. Please!\nBesides, if they head out on adventures half-trained,{w}you know what'll happen to them... right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yay! That's my guys!{w}Abi, looking forward to working with you!\nI'll give you a nice SHWAAA polish now and then!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you guys too. You really helped me out.{w}",
+  "kind": "msg",
+  "note": "No closing quote in source; continues in row 750."
+ },
+ {
+  "en": "{0E}\"Thank you guys too. You really helped me out.{0F}\n...This is just something I took on myself, but...{w}do you know how King Balgert got that scar on the forehead?\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as Fena's self-appointed mission explained in rows 756-758 (protecting people/training in the King's place). Could also refer to the Abi favor. 'that scar on the forehead' avoids a pronoun."
+ },
+ {
+  "en": "\"This was back when I was a kid, playing outside the city walls...\nEven though Mom had told me not to go out there.{w}And then a monster attacked me...\"{w}{p}\"Just when I thought, 'This is it, I'm done for...'{w}...the King appeared.\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered 'the King' throughout Fena's story (rows 751-760) to avoid a gendered pronoun; Fena's fondness carried by tone instead."
+ },
+ {
+  "en": "\"Why would a king even be out in a place like that?{w}And guess what the King was equipped with?{w}Bare fists. Bare fists! ...Honestly, what a fool.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I bet the King had snuck out to skip royal duties.{w}...Well, with a personality like that...\n...there's no way I'd be remembered, huh.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...It was so cool.{w}This huge shadow came WHOOSHING in, and then:\n'I'll not let you lay one finger on my people!'\"{w}{p}\"And then, with a fist -- KA-BLAM!{w}",
+  "kind": "msg",
+  "note": "Quoted royal line uses [JP] (old/kingly 'I'); rendered with a slightly archaic 'I'll not'. Last page has no closing quote; continues in row 755."
+ },
+ {
+  "en": "{0E}\"And then, with a fist -- KA-BLAM!{0F}\n...That's when the scar came to be.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It was pure chance that I was the one who got saved.{w}But I think the King would save anyone at all,\nand still feels that way even now.\"{w}{p}\"But a king can't act -- it'd start a war.{w}So I'll protect lots of people in the King's place.{w}",
+  "kind": "msg",
+  "note": "Last page has no closing quote; continues in row 757."
+ },
+ {
+  "en": "{0E}\"But a king can't act -- it'd start a war.\nSo I'll protect lots of people in the King's place.{0F}\nWe'll do what the King couldn't do -- all of us, okay?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Fena together with the trainees/party; rendered 'all of us'."
+ },
+ {
+  "en": "\"It's a promise I made with the King that day, all on my own.{w}Sorry for dragging you into something like that, okay?\"{w}{p}\"But my training's been useful, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}    *  Custom face icons are now unlocked  *    {0F}{w}",
+  "kind": "msg",
+  "note": "System notice: full-width centring spaces replaced by ASCII spaces."
+ },
+ {
+  "en": "\"With a floppy stance like that,\nKing Balgert's gonna laugh at you!\nPlant your feet with more THUNK! THUNK!\"{w}{p}\"The King protects this country,\nso you get strong too, and protect\nthe people weaker than you!\"{w}{p}\"That's how you repay the favor!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Branon",
+  "kind": "data"
+ },
+ {
+  "en": "Chirocco",
+  "kind": "data"
+ },
+ {
+  "en": "\"Mmf, nngh... This cake is quite something!\nAs expected of that patissier............?{w}",
+  "kind": "msg",
+  "note": "No closing quote in source; continues in row 764. Branon's speech: [JP]/[JP]/misused [JP]/[JP] rendered as pompous 'so it is', a recurring misplaced tag 'would you suppose', and 'you chaps' (the [JP] lisp itself is not reproduced)."
+ },
+ {
+  "en": "{0E}\"Mmf, nngh... This cake is quite something!\nAs expected of that patissier............?{0F}\nWhat might you want, one wonders? I am on duty, so I am.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"*Gulp*... I am Executor Branon, so I am.{w}And I am on duty... *munch*{w}Now, if you will excuse me. Nom, munch...\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Executor' (new title, Roscadil state official). Draft; could also be 'Enforcement Officer'."
+ },
+ {
+  "en": "\"Ohh, what flavor this is!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mmf, nom... This town has grown prosperous indeed.{w}This baked treat! The contrast in texture between outside and inside...!{w}",
+  "kind": "msg",
+  "note": "No closing quote in source; continues in row 768."
+ },
+ {
+  "en": "{0E}\"Mmf, nom... This town has grown prosperous indeed.\nThis baked treat! The contrast in texture between outside and inside...!{0F}\nHm? Oh, it's you chaps. Would you chaps care for one?\"{w}{p}\"Why am I eating so much, would you suppose?{w}...*Gulp*{w}This is important verification work, to learn how the people live.\"{w}{p}\"Where do you chaps think prosperity shows itself?{w}In amusements.{w}Above all, it shows itself in luxuries, so it does.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No one dies for lack of sweets.{w}But that is precisely the point, so it is.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I, as an Executor of the state, thus... mmf...{w}partake of the people's sweets... nngh... and take their measure.{w}Now, if you will excuse me. Nom, munch... \"{w}",
+  "kind": "msg",
+  "note": "Trailing space before the closing quote kept as in source."
+ },
+ {
+  "en": "\"Mmf, nngh... Mmm-hmm, so it is.{w}Oh, it's you chaps. Would you chaps...\nhappen to know of any unusual sweets, would you suppose?\"{w}{p}\"I see, you do not know, then...{w}Of late, the sweets of this town have changed little,\nand I find myself growing a tad bored, so I do...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"A lack of variety leads to\npoverty of the heart, so it does... Hmm...{w}Something must be done about this grave state of affairs...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...What do you chaps think this town is\nlacking?{w}I believe it is new sweets, would you suppose.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You chaps! I have a request, so I do!{w}Bring me the most outlandish sweet you can find,\none nobody has ever eaten, would you suppose!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yes, and for outlandish, there is Joker Land!{w}Surely there will be sweets there\nthat even I have never tasted, would you suppose!\"{w}{p}\"Go! You are adventurers, so you aaare!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Joker Land' (new place name)."
+ },
+ {
+  "en": "\"A lack of variety leads to poverty of the heart!\nIt is a crisis for the nation, would you suppose!\nI am counting on you, so I aaam!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ohh, well done!\nJust what I expected of you chaps I had my eye on, would you suppose!\"{w}",
+  "kind": "msg",
+  "note": "Branon says [JP] here instead of his usual [JP]; invisible in English."
+ },
+ {
+  "en": "\"This is...\na sweet that even I have never seen before...{w}Then, without delay... *chomp*... mmf...!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......................................!{w}Delicious! How utterly exquisite it is!{w}This taste! This aroma! Magnificent!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I must take this sweet to the patissier at once... Ahh!{w}",
+  "kind": "msg",
+  "note": "No closing quote in source; continues in row 781."
+ },
+ {
+  "en": "{0E}\"I must take this sweet to the patissier at once... Ahh!{0F}\nI've eaten it all already! A blunder, so it is!{w}Mmmh... Joker Land is not to be underestimated...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"At any rate, you were a great help this time, would you suppose.{w}You chaps, with such a keen eye for sweets,\nare surely people I can trust, would you suppose.\"{w}{p}\"From now on, whenever you chaps have business at the palace,\nyou must come to me, would you suppose.{w}Leave it to me, so it iiis!\"{w}",
+  "kind": "msg",
+  "note": "[JP]: Branon offers to handle the party's business at the palace (likely unlocks a feature)."
+ },
+ {
+  "en": "\"Mmf, nngh... Ohh, it's you chaps!\nCare for one, would you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "????",
+  "kind": "name"
+ },
+ {
+  "en": "\"Ah! Watch your step there!{w}",
+  "kind": "msg",
+  "note": "Speaker ????; row 786 shows it is Chirocco. No closing quote; continues in row 786."
+ },
+ {
+  "en": "{0E}\"Ah! Watch your step there!{0F}\nSorry about that, I only just planted some seedlings.{w}Maybe I really should put up a fence or something...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm the gardener here at Wells Garden.\nThe name's Chirocco.{w}I'm usually working somewhere around here.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Wells Garden' (new place name)."
+ },
+ {
+  "en": "\"Whoa there!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Whoa there!{0F}\n...You okay? Didn't get splashed with water, did you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry, you just popped up out of nowhere... Or were you here all along?{w}My bad, I was so wrapped up in my work.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Pretty, isn't it?{w}You can't get a garden looking like this\nunless you really lose yourself in it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Maybe it's partly 'cause I'm an elf, but\nlooking after plants is just fun for me... Haha.\"{w}",
+  "kind": "msg",
+  "note": "Chirocco states being an elf here."
+ },
+ {
+  "en": "\"Plants seem like they grow all by themselves, right?{w}If all you want is for them to grow, that works fine.\"{w}{p}\"But if you want them to look beautiful,\nyou've got to put in the effort.\"{w}{p}\"This'll sound strange, but\nI can sort of hear what plants are saying.{w}Not that they actually talk, mind you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, have you guys been well?\nWhat do you think? Pretty as ever, right?{w}The plants are as lively as always, anyway.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"As for me... well, actually,\nI've got a bit of a problem...{w}If you've got the time, I'd like you to hear me out.\"{w}{p}\"See, I got hold of this strange little sapling.\nCould you take a look at it, just once?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Chirocco led you to a spot where\na small sapling sat, not yet planted.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is the one.{w}Could you come a bit closer?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you come close to the sapling,\na strange voice echoes in your heads.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Sapling",
+  "kind": "name"
+ }
+]

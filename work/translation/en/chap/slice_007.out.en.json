@@ -1,0 +1,374 @@
+[
+ {
+  "en": "You picked up an item from the trash.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You couldn't pick up any of the trash.{w}",
+  "kind": "msg",
+  "note": "Literal. Likely the fail/empty result of a rummage (vs row 480 'picked up an item'); the goblin's full-inventory line is row 485."
+ },
+ {
+  "en": "Rummage some more?",
+  "kind": "data",
+  "note": "Menu prompt after a rummage; slice_006 row 478 is the first-time 'Rummage?'."
+ },
+ {
+  "en": "\"You ain't got enough money!\nWhat the hell are you thinkin', huh!?\"{w}",
+  "kind": "msg",
+  "note": "Goblin: rough, contemptuous voice (omae)."
+ },
+ {
+  "en": "\"No money, no trash!{w}Get lost!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What, you can't carry any more!?{w}Dammit... Bleeaarrgh!\"{w}",
+  "kind": "msg",
+  "note": "oeeee = retching/gagging noise; kept as a sound effect."
+ },
+ {
+  "en": "Who will pay?",
+  "kind": "op093",
+  "note": "Same as wmap slice_08 row 580."
+ },
+ {
+  "en": "Not enough money.{w}",
+  "kind": "msg",
+  "note": "Same as wmap slice_08 row 581."
+ },
+ {
+  "en": "Toner",
+  "kind": "name"
+ },
+ {
+  "en": "\"Okay, everyone.\nLet's take the stairs straight ahead of us and go see Emera.\"{w}",
+  "kind": "msg",
+  "note": "Toner's polite register toward the party (as in pilot row 320). Source lacks the closing bracket; closing quote added."
+ },
+ {
+  "en": "Traveler",
+  "kind": "name"
+ },
+ {
+  "en": "\"They say there's a mansion up on this mountain,{w}and a real beauty lives there who'll listen to any trouble you've got...\"{w}{p}\"But why on earth would anyone live way out here in the mountains?\"{w}",
+  "kind": "msg",
+  "note": "bijin = 'a beauty'. Second page is the traveler wondering aloud; subject 'anyone' and verb 'live' restored."
+ },
+ {
+  "en": "When you came to, you were outside the room.{w}",
+  "kind": "msg",
+  "note": "Plays after Toner wipes the party's memory (rows 547-549)."
+ },
+ {
+  "en": "\"Hellooo, Emera!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Emera",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh my, Toner.\nGia isn't with you today?\"{w}",
+  "kind": "msg",
+  "note": "Toner-sama / Gia-san: honorifics dropped (Toner's gender unknown, so no Lord/Lady); Emera's courtesy carried by register."
+ },
+ {
+  "en": "\"Mom got a little hurt.{w}So these people brought me here instead.\"{w}{p}\"I'd be fine on my own, really, but Mom said no.\"{w}",
+  "kind": "msg",
+  "note": "okaasan = Gia (glossary note: Toner calls Gia 'Mom')."
+ },
+ {
+  "en": "\"I understand how she feels.\"{w}",
+  "kind": "msg",
+  "note": "'she' = Gia (female in glossary), whose worry Toner just described."
+ },
+ {
+  "en": "\"Well then, let me examine you right away.\nThis way, please.\"{w}",
+  "kind": "msg",
+  "note": "o-karada wo haiken = look over your body (the health checkup)."
+ },
+ {
+  "en": "\"Sorry, adventurers,\nbut could you wait outside the room for a bit, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Will you eavesdrop on what's going on inside?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Eavesdrop?",
+  "kind": "data"
+ },
+ {
+  "en": "\"Well?\"{w}",
+  "kind": "msg",
+  "note": "Toner asking for the checkup result."
+ },
+ {
+  "en": "\"Nothing seems out of the ordinary. You're perfectly normal.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Great!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mm-hm.\"{w}",
+  "kind": "msg",
+  "note": "Bare acknowledgement; whatever it answers is not in the text (likely an unvoiced cue from Emera). Kept minimal."
+ },
+ {
+  "en": "\"Fwaaaaaaah...\"{w}",
+  "kind": "msg",
+  "note": "Yawn/stretch sound."
+ },
+ {
+  "en": "\"Hup!\nHey, do I still have to keep pretending it's Rogera?\"{w}",
+  "kind": "msg",
+  "note": "Rogera = 'the god of oblivion' (wmap slice_16 row 1227); Emera calls them the previous one in slice_008 row 595. 'mada Rogera-san ni shite okanai to dame?' = must I still leave it as Rogera, i.e. let people go on believing Rogera holds the post. 'pretending' interprets 'shite oku'."
+ },
+ {
+  "en": "\"It's not that you mustn't,\nbut if you were to explain about the Divine Realm,\npeople would begin to question what you are, Toner, to know such things.\"{w}",
+  "kind": "msg",
+  "note": "shin'iki = 'the Divine Realm' (wmap slice_19). Literal: 'the very existence of Toner-sama, who holds that information, would be doubted'."
+ },
+ {
+  "en": "\"And I'd end up causing trouble for Mom, huh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Does she matter to you, then? That woman?\"{w}",
+  "kind": "msg",
+  "note": "ano josei = Gia."
+ },
+ {
+  "en": "\"Well, look at the vessel I'm in. I'm bound to be affected by it.\nAnd you know, she's so warm and big!\nThe way she wraps you up, it's like...\"{w}",
+  "kind": "msg",
+  "note": "yorishiro = the vessel/host body a god inhabits -> 'vessel'. 'kore' = this (body). Line trails off (kou...) by design; 'big' sets up row 513."
+ },
+ {
+  "en": "\"That is simply what motherhood is.\nA mother who has a child...\"{w}",
+  "kind": "msg",
+  "note": "Cut off by Toner."
+ },
+ {
+  "en": "\"No, I mean her boobs!\"{w}",
+  "kind": "msg",
+  "note": "oppai: crude/childish word kept at strength."
+ },
+ {
+  "en": "\"...That will do.\nAbout the matter from earlier...\"{w}{p}\"Do you wish to spread the word that it is now you, and no longer Rogera?\"{w}{p}\"If that is truly what you want, give me a little time and I can change it to Sanafeet.\"{w}",
+  "kind": "msg",
+  "note": "Sanafeet = NEW name (sanafiito); Emera uses it for Toner, i.e. Toner's divine name. 'change it to Sanafeet' = change the name people pray to."
+ },
+ {
+  "en": "\"What should I do, huh?\"{w}{p}\"I don't mind either way.\nIt's just, the people who are still praying to Rogera...\nthey're kind of... you know.\"{w}{p}\"Same goes for Dehain's followers, too.\"{w}",
+  "kind": "msg",
+  "note": "Dehain = god of existence (wmap slice_16). Deliberate trailing '...ne' kept."
+ },
+ {
+  "en": "\"It is common on every land.\"{w}{p}\"Prayer and faith are what the heart leans on.\nIf they bring peace of mind,\nthe truth has no value.\"{w}",
+  "kind": "msg",
+  "note": "'land' = daichi in the world-plane sense ('another land' in the pilot)."
+ },
+ {
+  "en": "\"So that's how it is. That's kind of sad.\"{w}",
+  "kind": "msg",
+  "note": "sabishii -> 'sad' (lonely-sad)."
+ },
+ {
+  "en": "\"You are a strange one, Sanafeet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Am I?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No god has come down to the land since Mixia,\nand yet here you are.\"{w}",
+  "kind": "msg",
+  "note": "Mixia = NEW name (mikushia), honorific dropped. 'to iu noni' = even though; the implied 'and yet you did' made explicit."
+ },
+ {
+  "en": "\"Yeah, that!\nFulfaray made such a racket about it!\"{w}{p}\"Fulfaray kept going on and on, so I just got all excited right back.\nAnd then off they ran, ranting and raving! Ahaha!\"{w}",
+  "kind": "msg",
+  "note": "Fulfaray = NEW name (furufaree; a god, Emera adds -sama). 'wakuwaku shite ageta' = (mockingly) 'got all excited at them' in reply to the scolding -- exact sense uncertain. aitsu -> singular 'they' (gender unknown); name repeated to avoid a gendered pronoun."
+ },
+ {
+  "en": "\"You did that to Fulfaray, of all gods!?\nGood heavens...\"{w}",
+  "kind": "msg",
+  "note": "'ano Fulfaray-sama ni' = to THE Fulfaray."
+ },
+ {
+  "en": "\"Who cares? Descending to the land isn't forbidden or anything.\"{w}",
+  "kind": "msg",
+  "note": "kourin = (divine) descent."
+ },
+ {
+  "en": "\"Is that so?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh? It isn't, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I've never heard that.\"{w}",
+  "kind": "msg",
+  "note": "Emera has never heard that descent is permitted."
+ },
+ {
+  "en": "\"...It's not forbidden... right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, I really couldn't say.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Uuu... My heart's pounding...\"{w}",
+  "kind": "msg",
+  "note": "dokidoki = nervous heartbeat."
+ },
+ {
+  "en": "\"It's a little late to worry about that now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"W-well, come on!\nIf I don't see what's really going on with my own eyes,\nhow am I supposed to know how to deal with it!\"{w}{p}\"Hey, hey, if Void and the others ask,\ncover for me, okay?\nTell them I never came to this land.\"{w}",
+  "kind": "msg",
+  "note": "Void = god of space (wmap slice_16/19). 'Void-san tachi' = Void and the others (the other gods). Toner says -san, so no 'Lord' here."
+ },
+ {
+  "en": "\"I can go along with your story\nas much as you like.\"{w}{p}\"However, everything, this conversation included,\nis surely being recorded by the System.\"{w}",
+  "kind": "msg",
+  "note": "kikou = 'the System' (Elminage System, wmap slice_19/20 rows 1474, 1521). 'hazu' -> 'surely'."
+ },
+ {
+  "en": "\"Wha!? Really!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Really.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ehhh, I don't wanna!\"{w}",
+  "kind": "msg",
+  "note": "yada = childish refusal."
+ },
+ {
+  "en": "\"You can say 'don't wanna' all you like, but...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...They really are such a pain, those guys.\nCan't I just squash them?\"{w}",
+  "kind": "msg",
+  "note": "aitsura = Void and co. (row 531) / the System's side."
+ },
+ {
+  "en": "\"That, of all things, would get you sent to the Horizon.\"{w}",
+  "kind": "msg",
+  "note": "chihei-okuri = 'sent to the Horizon' (NEW term; a punishment/exile, literally 'horizon-sending')."
+ },
+ {
+  "en": "\"You know, I think Void's going to fail.\nEven this sending-to-the-Horizon business\nis actually insurance for when the Phase Shift happens...\"{w}",
+  "kind": "msg",
+  "note": "isou tenkan = 'the Phase Shift' (wmap slice_19 row 1496). 'shita toki' -> 'when it happens' (tense uncertain). Cut off by Emera."
+ },
+ {
+  "en": "\"Sanafeet! You're saying far too much!\"{w}",
+  "kind": "msg",
+  "note": "o-kuchi ga sugimasu = speaking out of turn."
+ },
+ {
+  "en": "\"...Sorry.\"{w}{p}\"But still, I don't want to just sit on the sidelines\nand watch!\nApasha too -- I'll make them cough up that soul, no matter what!\"{w}",
+  "kind": "msg",
+  "note": "Apasha = NEW name (apaasha). 'zettai ni tamashii hakaseru' = 'make (them) spit out soul': UNCERTAIN whether Toner means forcing Apasha to give back a soul/souls taken, or beating Apasha until their own soul comes out. Kept close to literal; singular 'them' for unknown gender."
+ },
+ {
+  "en": "\"Why Rogera instructed me to help you descend, Sanafeet...\nI understand it well now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Rogera should've just done as they pleased a little more, huh.\"{w}",
+  "kind": "msg",
+  "note": "Singular 'they' for Rogera (gender unknown)."
+ },
+ {
+  "en": "\"Rogera was never one to let feelings show.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No problem there for me! I do whatever I want!\"{w}",
+  "kind": "msg",
+  "note": "sono ten = on that point."
+ },
+ {
+  "en": "\"Sanafeet, you get far too carried away.\"{w}{p}\"Now, your friends must be getting confused about now.\n...Your friends from the land, with their ears to the door.\"{w}",
+  "kind": "msg",
+  "note": "'daichi no otomodachi' = friends of/from the land, i.e. the mortal party; Emera knows they are eavesdropping."
+ },
+ {
+  "en": "\"It's fine, I'll just erase it.\"{w}",
+  "kind": "msg",
+  "note": "kesu = erase (their memory, row 548)."
+ },
+ {
+  "en": "\"Sorry for the wait!\nAnd sorry, but I'm going to erase a bit of your memory.\"{w}",
+  "kind": "msg",
+  "note": "Toner to the party."
+ },
+ {
+  "en": "\"......{w}......\"{w}",
+  "kind": "msg",
+  "note": "Silent beat across one {w}."
+ },
+ {
+  "en": "\"Sorry to keep you waiting, everyone!\"{w}",
+  "kind": "msg",
+  "note": "Back to Toner's polite voice for the party (memory now wiped)."
+ },
+ {
+  "en": "[Key Item]\nObtained Toner's Checkup.{w}",
+  "kind": "msg",
+  "note": "Key item 'Toner's Checkup' (kenkou shindan = health checkup); frame as wmap slice_01."
+ },
+ {
+  "en": "\"Okay, let's head back.\nI want to put Mom's mind at ease as soon as I can.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You came back to see me. Welcome.\nNow, what shall we talk about today?\"{w}",
+  "kind": "msg",
+  "note": "Emera's return-visit greeting to the party: warm, soft register (cf. slice_008 row 637)."
+ },
+ {
+  "en": "\"How lovely, you came again.\nYou're welcome to come every day, you know?\nI'll take good care of you.\"{w}",
+  "kind": "msg",
+  "note": "Source typo 'kitekure mo' (for kitekurete mo). omotenashi = hospitality."
+ },
+ {
+  "en": "Necrophilis",
+  "kind": "name"
+ },
+ {
+  "en": "\"I heard there was some vampire woman\nputting on airs as a 'Soul Therapist'.\nThat's you, right?\"{w}",
+  "kind": "msg",
+  "note": "Soul Therapist = NEW term (katakana title, Emera's job). kyuuketsu-onna = 'vampire woman' (slighting; 'woman' is in the source). kakkou tsuketeru = putting on airs."
+ },
+ {
+  "en": "\"It isn't a title I'm especially fond of, though.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That flowing hair... that pure white skin...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ahahaha!!{w}For a corpse, you look just like you're alive!!\"{w}",
+  "kind": "msg",
+  "note": "Answered by slice_008 row 560 ('A corpse... hmm')."
+ }
+]

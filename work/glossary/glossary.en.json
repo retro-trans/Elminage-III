@@ -1,0 +1,3834 @@
+[
+ {
+  "jp": "エレクトラ",
+  "en": "Electra",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ヤムル",
+  "en": "Yamuru",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "まにろん",
+  "en": "Maniron",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ミグ",
+  "en": "Mig",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "モケーロ",
+  "en": "Mokero",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "コルビッツ",
+  "en": "Korbitz",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ボーナ",
+  "en": "Bona",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ナトリ",
+  "en": "Natori",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ヨルファ",
+  "en": "Yorfa",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ネクロフィリス",
+  "en": "Necrophilis",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "エメラ",
+  "en": "Emera",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ブラッセル",
+  "en": "Brassel",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "トナー",
+  "en": "Toner",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "メイリーン",
+  "en": "Mayleen",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ラーファ",
+  "en": "Rafa",
+  "type": "character/deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ゾネット",
+  "en": "Zonette",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ハノイ",
+  "en": "Hanoi",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ザールハウト",
+  "en": "Zaalhaut",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "アニブ",
+  "en": "Anib",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "バルゲルト",
+  "en": "Balgert",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "リアンナ",
+  "en": "Rianna",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ミローニャ",
+  "en": "Milonya",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ゼッポ",
+  "en": "Zeppo",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "オピニオンビット",
+  "en": "Opinion Bit",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "マデュレー",
+  "en": "Madulay",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "マンデルギウス",
+  "en": "Mandelgius",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "デコイ",
+  "en": "Decoy",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ハーディー",
+  "en": "Hardy",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ヒズベルト",
+  "en": "Hisbert",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "フルグラント",
+  "en": "Fulgrant",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ブラーノン",
+  "en": "Branon",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "フェーナ",
+  "en": "Fena",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ジア",
+  "en": "Gia",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "モルダー",
+  "en": "Molder",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ユナ",
+  "en": "Yuna",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "弓聖ポリーテ",
+  "en": "Polyte the Bow Saint",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ミュシャ",
+  "en": "Mucha",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "チロッコ",
+  "en": "Chirocco",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ペルペコ",
+  "en": "Perpeco",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "アルグランツ",
+  "en": "Algrantz",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "アルグランツ城",
+  "en": "Algrantz Castle",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ミュシャの酒場",
+  "en": "Mucha's Tavern",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ゼッポの宿屋",
+  "en": "Zeppo's Inn",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ケンベック商店",
+  "en": "Kembeck's Shop",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ルスト寺院",
+  "en": "Rust Temple",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ルミステネス",
+  "en": "Lumisthenes",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "クレスタード大陸",
+  "en": "Crestard Continent",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ロスカディル",
+  "en": "Roscadil",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "太陽宮",
+  "en": "Palace of the Sun",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "レアンマカナ山脈",
+  "en": "Leanmakana Mountains",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "訓練所",
+  "en": "Training Hall",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "お触れ",
+  "en": "the Proclamation",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "フロアマスター",
+  "en": "Floor Master",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "フェイム",
+  "en": "Fame",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "魔印",
+  "en": "Magic Seal",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "イノセントシリーズ",
+  "en": "Innocent series",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "マイントラッパー",
+  "en": "Mine Trapper",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "アビ",
+  "en": "Abi",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found: no official English release (2026-11 web search)"
+ },
+ {
+  "jp": "ミリア",
+  "en": "Miria",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found; possibly guest characters from an earlier Elminage title -- verify against an official English source if one exists"
+ },
+ {
+  "jp": "ソアラ",
+  "en": "Soara",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found; possibly guest characters from an earlier Elminage title -- verify against an official English source if one exists"
+ },
+ {
+  "jp": "コストー",
+  "en": "Costo",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found; possibly guest characters from an earlier Elminage title -- verify against an official English source if one exists"
+ },
+ {
+  "jp": "サントレア",
+  "en": "Santorea",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found; possibly guest characters from an earlier Elminage title -- verify against an official English source if one exists"
+ },
+ {
+  "jp": "イルドラハ",
+  "en": "Ildraha",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "none found; possibly guest characters from an earlier Elminage title -- verify against an official English source if one exists"
+ },
+ {
+  "jp": "ビステール",
+  "en": "Bistel",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "フィーナス・ラーデ",
+  "en": "Finas Rade",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "ネリネリ",
+  "en": "Nerineri",
+  "type": "unknown",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "ラグナスティア",
+  "en": "Ragnastia",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "アルケロン",
+  "en": "Archelon",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "シグレット",
+  "en": "Sigret",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "次代の書",
+  "en": "Book of the Next Age",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "魔術局",
+  "en": "Magic Bureau",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "女王の試練",
+  "en": "Queen's Trial",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "神具",
+  "en": "divine relic",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "力のメダル",
+  "en": "Medal of Power",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "フランベルジュ",
+  "en": "Flamberge",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "ブルーレイン",
+  "en": "Blue Rain",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "竜人",
+  "en": "dragonewt",
+  "type": "race",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "星都",
+  "en": "Star Capital",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "光の祭壇",
+  "en": "Altar of Light",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "二つ名",
+  "en": "epithet",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "コブラの呪い",
+  "en": "Cobra's Curse",
+  "type": "trap",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "善",
+  "en": "Good",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "悪",
+  "en": "Evil",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "中立",
+  "en": "Neutral",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "魔術師",
+  "en": "Mage",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "僧侶",
+  "en": "Priest",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "司教",
+  "en": "Bishop",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "冒険者",
+  "en": "adventurer",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "from pilot translation 0.1.2 (no official source); verify if an English source appears"
+ },
+ {
+  "jp": "ターリット",
+  "en": "Tarrit",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "サフィ",
+  "en": "Safi",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "サナフィート",
+  "en": "Sanafeet",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ワットナー",
+  "en": "Wattner",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "シャハロン",
+  "en": "Shaharon",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "メイヤー",
+  "en": "Mayer",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ダークメイヤー",
+  "en": "Dark Mayer",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "バージェフ",
+  "en": "Barjeff",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "アギンタイトゥス",
+  "en": "Agintaitus",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "シメリエフ",
+  "en": "Shimerief",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ロッツ",
+  "en": "Lotz",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ムジロッド",
+  "en": "Mujirod",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "アルロッテ",
+  "en": "Arlotte",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ラインズマン",
+  "en": "Linesman",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ノーラ",
+  "en": "Nora",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "アズナンド",
+  "en": "Aznand",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "スペクトリア",
+  "en": "Spectoria",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ヘヴァユール",
+  "en": "Hevayur",
+  "type": "character",
+  "gender": "male",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ヒルデ",
+  "en": "Hilde",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ゾニ",
+  "en": "Zoni",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "サブラ",
+  "en": "Sabra",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "マカクーリ",
+  "en": "Makakuri",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ルゥ",
+  "en": "Ruu",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ボイド",
+  "en": "Void",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "デーハイン",
+  "en": "Dehain",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ナルゥ",
+  "en": "Naru",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "アシュテル",
+  "en": "Ashtel",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ロジェラ",
+  "en": "Rogera",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ミクシア",
+  "en": "Mixia",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "フルファレー",
+  "en": "Fulfaray",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "アパーシャ",
+  "en": "Apasha",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "フィリス",
+  "en": "Philis",
+  "type": "nickname",
+  "gender": "female",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "コレアッパー",
+  "en": "Koreapper",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "アギン",
+  "en": "Agin",
+  "type": "deity",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ザヌ",
+  "en": "Zanu",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "メアトリフ",
+  "en": "Meatrif",
+  "type": "vehicle",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "新人",
+  "en": "Rookie",
+  "type": "name box",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "衛兵",
+  "en": "Guard",
+  "type": "name box",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "兵士",
+  "en": "Soldier",
+  "type": "name box",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "子分",
+  "en": "Underling",
+  "type": "name box",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "光の階段",
+  "en": "Stairway of Light",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "光の階跡",
+  "en": "Lightstair Ruins",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "コンヌ",
+  "en": "Konnu",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "コンヌ草原",
+  "en": "Konnu Plains",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "コンヌ草原遺跡",
+  "en": "Konnu Plains Ruins",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "星見の灯台",
+  "en": "Stargazing Lighthouse",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ラーファ神殿",
+  "en": "Temple of Rafa",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "水晶の迷宮",
+  "en": "Crystal Labyrinth",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "青の洞窟",
+  "en": "Blue Cave",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "クロトア市街跡地",
+  "en": "Crotoa City Ruins",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "リノス海底火山",
+  "en": "Rinos Sea Volcano",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ジョーカーランド",
+  "en": "Joker Land",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ウェルズ庭園",
+  "en": "Wells Garden",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ペルペコの森",
+  "en": "Perpeco Forest",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ペルペコの村",
+  "en": "Perpeco Village",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "オーグルベイ",
+  "en": "Ogre Bay",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ギアフ砂丘",
+  "en": "Giaf Dunes",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "テリドン",
+  "en": "Teridon",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ネルトワ",
+  "en": "Nertowa",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "風の城",
+  "en": "Castle of the Wind",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "観測所",
+  "en": "Observatory",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "トナーの武具店",
+  "en": "Toner's Armory",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ジャコビス術法堂",
+  "en": "Jakobis Spell Hall",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ＭＩＬＬ.ＧＰ.",
+  "en": "MILL.GP.",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "錬金倉庫",
+  "en": "Alchemy Storage",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "真日の間",
+  "en": "Chamber of the True Sun",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "学府",
+  "en": "the Academy",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "神域",
+  "en": "Divine Realm",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "暗域",
+  "en": "Dark Realm",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ライナル・マノザ",
+  "en": "Rainal Manoza",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "リューグ",
+  "en": "Ryug",
+  "type": "unknown",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "第九地区",
+  "en": "District Nine",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ブラッセル盗賊団",
+  "en": "Brassel Gang",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "中央議会",
+  "en": "Central Council",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "エルミナージュ機構",
+  "en": "Elminage System",
+  "type": "organization",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "闇の眷族",
+  "en": "Kin of Darkness",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "闇の眷属",
+  "en": "Kin of Darkness",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "月光精",
+  "en": "Moonlight Spirit",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "太陽精",
+  "en": "Sun Spirit",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "幻石",
+  "en": "Phantom Stone",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "三幻石",
+  "en": "Three Phantom Stones",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "神影",
+  "en": "Divine Shadow",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "冥き王",
+  "en": "Nether King",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "貴重品",
+  "en": "Key Item",
+  "type": "UI term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "魔界の公爵",
+  "en": "Duke of the Demon World",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "真水晶",
+  "en": "True Crystal",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "魔空艇",
+  "en": "magic airship",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "魔恒炉",
+  "en": "mana furnace",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "魔空砲",
+  "en": "magic cannon",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "魔砲銃",
+  "en": "magic gun",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "魔傀儡",
+  "en": "magic puppet",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "闇の軍勢",
+  "en": "forces of darkness",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "創世六神",
+  "en": "Six Gods of Creation",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "位相転換",
+  "en": "Phase Shift",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "流転の儀式",
+  "en": "Rite of Flux",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "合成錬金",
+  "en": "synthesis alchemy",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ソウルセラピスト",
+  "en": "Soul Therapist",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "地平送り",
+  "en": "sent to the Horizon",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "幻獣",
+  "en": "mythical beast",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "暗滅の神",
+  "en": "god of Dark Oblivion",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "執行官",
+  "en": "Executor",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "議長",
+  "en": "Council Chair",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "警備兵長",
+  "en": "Captain of the Guard",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "首長",
+  "en": "Chief",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "特命大臣",
+  "en": "Minister Extraordinary",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "守銭奴",
+  "en": "Money-Grubber",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "愛の伝道師",
+  "en": "Evangelist of Love",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "お人好し",
+  "en": "softies",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "あるじ",
+  "en": "Master",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "お嬢",
+  "en": "Miss",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "デコイちゃん",
+  "en": "Decoykins",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ヒゲ女",
+  "en": "Beard Girl",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "わくわく",
+  "en": "exciting / excited",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "デブ",
+  "en": "debu / debuu",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "アフターサービス",
+  "en": "after-sales service",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "司書",
+  "en": "librarian",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "第四世代",
+  "en": "Fourth Generation",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "エルド",
+  "en": "the Eld",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "天候操作",
+  "en": "weather control",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ヘマイドの赤石",
+  "en": "Hemaid Red Stone",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "グリーンプラキオ",
+  "en": "Green Plakio",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ブルーメノン",
+  "en": "Blue Menon",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "セルコアの塗料",
+  "en": "Selcoa Paint",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "天位測量結果",
+  "en": "Celestial Readings",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ウィングソウル",
+  "en": "Wing Soul",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "天使の小窓",
+  "en": "Angel's Window",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ドヴェル軟鋼",
+  "en": "Dvel Soft Steel",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "氷化エルブン鉄",
+  "en": "Frozen Elven Iron",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "魔蒼石",
+  "en": "Mazurite",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "マカナエッセンス",
+  "en": "Makana Essence",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "水晶花",
+  "en": "Crystal Flower",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "不思議な栞",
+  "en": "Strange Bookmark",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "おしゃべりな苗木",
+  "en": "Chatty Sapling",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "中砥石",
+  "en": "Medium Whetstone",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "仕上げ砥石",
+  "en": "Fine Whetstone",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "運命のダイス",
+  "en": "Dice of Fate",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "わしらのワンド",
+  "en": "Geezers' Wand",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ヒゲメガネ",
+  "en": "Beard Glasses",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "捕獲トラップ",
+  "en": "capture trap",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "解石水",
+  "en": "Stonemelt Water",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "密輸品？",
+  "en": "Contraband?",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ソレイユストーン",
+  "en": "Soleil Stone",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "青蒼魚",
+  "en": "Azure Fish",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "素晴らしいウコン",
+  "en": "Wonderful Turmeric",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "貯水池の鍵",
+  "en": "Reservoir Key",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "三年殺し",
+  "en": "Three-Year Death",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "トナーの健康診断",
+  "en": "Toner's Checkup",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "命のアミュレット",
+  "en": "Amulet of Life",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "炎の魔印",
+  "en": "Fire Magic Seal",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ホワイトアッシュ",
+  "en": "White Ash",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "忍魔の鉄頭",
+  "en": "Ninja Fiend's Helm",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "精霊の歌",
+  "en": "Song of Spirits",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "肉塊の花",
+  "en": "Flesh-Lump Flower",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "デルトイの空き部屋",
+  "en": "Deltoi Empty Room",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "暗黒のサキル貝",
+  "en": "Dark Sakil Shell",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "アリードパレット",
+  "en": "Aleed Palette",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "魔乳の下着",
+  "en": "Demon-Boob Undies",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "セオットの魔巣",
+  "en": "Seot's Demon Nest",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "不浄なる水",
+  "en": "Unclean Water",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "メノリストの燭台",
+  "en": "Menolist's Candle",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ポニャソーセージ",
+  "en": "Ponya Sausage",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "タイザルティランプ",
+  "en": "Taizarti Lamp",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "煌くウロコ",
+  "en": "Glittering Scale",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "剣老の髭",
+  "en": "Swordsage's Beard",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "赤光の位",
+  "en": "Red Light Rank",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "全快の薬",
+  "en": "Full Heal Potion",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "麻痺消し薬",
+  "en": "Paralysis Cure",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "夜露のノド飴",
+  "en": "Nightdew Lozenge",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "鎮心ハーブ",
+  "en": "Calming Herb",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "初恋花の結晶",
+  "en": "First Love Gem",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "コンパス",
+  "en": "compass",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ブラッフィ",
+  "en": "Bulafei",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "ハリアス",
+  "en": "Harias",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ディスペル",
+  "en": "Dispel",
+  "type": "ability",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "狩人",
+  "en": "Ranger",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "盗賊",
+  "en": "Thief",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ヴァルキリー",
+  "en": "Valkyrie",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "テトラミスティカ",
+  "en": "Tetramystica",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "キメラ",
+  "en": "Chimera",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "アロブ",
+  "en": "Arob",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ゴブリン",
+  "en": "Goblin",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus 2026-11"
+ },
+ {
+  "jp": "ザヌゥ",
+  "en": "Zanu",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ナルヴ",
+  "en": "Narv",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ヌンブラ・ナルヴ",
+  "en": "Numbra Narv",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ヌンブラ・マレム",
+  "en": "Numbra Malem",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "エルノア＝マレム",
+  "en": "Elnoa-Malem",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ウェルスコーニ",
+  "en": "Welsconi",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "暗黒総統",
+  "en": "Dark Generalissimo",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ダークフューラー",
+  "en": "Dark Fuhrer",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ミーム",
+  "en": "Meem",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "妖精王",
+  "en": "Fairy King",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "デュラハン",
+  "en": "Dullahan",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "コシュタバワー",
+  "en": "Coiste Bodhar",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "アスナムチ",
+  "en": "Asunamuchi",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "天上魔縁",
+  "en": "the Heavenly Fiend",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "悪代官",
+  "en": "Evil Magistrate",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "マッド博士",
+  "en": "Dr. Mad",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ロンビーノ先生",
+  "en": "Professor Rombino",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ナンビーノ先生",
+  "en": "Professor Nambino",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "メノリスト",
+  "en": "Menolist",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ビーストロード",
+  "en": "Beast Lord",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "タイガーケンタウロス３世",
+  "en": "Tiger Centaur III",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ジェナス",
+  "en": "Jenas",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "シューティングムーン",
+  "en": "Shooting Moon",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "タランティ",
+  "en": "Taranti",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "セフィリージュ",
+  "en": "Sephiriege",
+  "type": "character",
+  "gender": "female",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "暗滅魔将",
+  "en": "Demon General of Dark Oblivion",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "魔神槍",
+  "en": "Demon God Lance",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "アザバス",
+  "en": "Azabas",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "フェンデル",
+  "en": "Fendel",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "クオリア",
+  "en": "Qualia",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "邪悪な魔術師",
+  "en": "Wicked Mage",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "神域の執行者",
+  "en": "Executor of the Divine Realm",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "破壊のリューグ",
+  "en": "Destroyer Ryug",
+  "type": "name box",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "下等種族",
+  "en": "lower race",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "大地の民",
+  "en": "people of the land",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "夜の眷族",
+  "en": "Kin of Night",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "大魔公",
+  "en": "Demon Duke",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "デュークス・テリトリー",
+  "en": "Dukes' Territory",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "聖創圏",
+  "en": "Sanctum of Genesis",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "戴冠の間",
+  "en": "Coronation Hall",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "明牢院",
+  "en": "Meiroin",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ミアスナ",
+  "en": "Miasuna",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "サントレア学府",
+  "en": "Santorea Academy",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "教務棟",
+  "en": "Faculty Building",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "妖精の里",
+  "en": "fairy village",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "環天頂アーク",
+  "en": "Zenith Arc",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "セイリオン＝ダエラ",
+  "en": "Seirion-Daera",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ゼフカカ",
+  "en": "Zefkaka",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "新創地",
+  "en": "the New Lands",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "廃地",
+  "en": "the Wastelands",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "クリプトン",
+  "en": "Krypton",
+  "type": "place",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "実枢基",
+  "en": "Real Axis",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "虚枢基",
+  "en": "Void Axis",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "光位",
+  "en": "Light Rank",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "太陽の光位",
+  "en": "Sun's Light Rank",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "万知の光",
+  "en": "the Light of All Knowledge",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "光のオピニオン",
+  "en": "the Opinion of Light",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "再戴冠の儀",
+  "en": "rite of re-coronation",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "太陽神",
+  "en": "Sun God",
+  "type": "title",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "アーギュメント",
+  "en": "Argument",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ベルドール",
+  "en": "Beldoll",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "暗滅の加護",
+  "en": "Blessing of Dark Oblivion",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "暗域の加護",
+  "en": "Blessing of the Dark Realm",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ダンジョンロード",
+  "en": "Dungeon Load",
+  "type": "UI term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "おやじの設計図",
+  "en": "Old Man's Plans",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "熟練のおつまみ",
+  "en": "Seasoned Snacks",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "大砲工具",
+  "en": "Cannon Tools",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ガメア家の遺産",
+  "en": "Gamea House Legacy",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ジョーカーメダル",
+  "en": "Joker Medal",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "マッドパイ",
+  "en": "Mud Pie",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ムジッドの写本",
+  "en": "Mujirod Manuscript",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "不思議な箱庭",
+  "en": "Strange Box Garden",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "サボテンの果肉",
+  "en": "Cactus Pulp",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "特注ぱんつ",
+  "en": "Custom Panties",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "鍛錬の証",
+  "en": "Proof of Training",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "忍耐の証",
+  "en": "Proof of Endurance",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "魔傀儡捕獲罠",
+  "en": "Magic Puppet Trap",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "陽牢の厨子",
+  "en": "Sun Prison Shrine",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "幻視の結晶",
+  "en": "Vision Crystal",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "先代の胸当て",
+  "en": "Forebear's Cuirass",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ガーデンキーパー",
+  "en": "Garden Keeper",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "天の大樹",
+  "en": "Great Tree of Heaven",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ハンガー",
+  "en": "Hanger",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ギャラリーナイト",
+  "en": "Gallery Knight",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ゴブリンマジシャン",
+  "en": "Goblin Magician",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "チャーミーリップ",
+  "en": "Charmy Lip",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ピクニッカー",
+  "en": "Picnicker",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ダークロード",
+  "en": "Dark Lord",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ドラゴンロード",
+  "en": "Dragon Lord",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "サマー",
+  "en": "Summer",
+  "type": "monster",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "戦士",
+  "en": "Fighter",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "錬金術師",
+  "en": "Alchemist",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "召喚師",
+  "en": "Summoner",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "使用人",
+  "en": "Servant",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "闘士",
+  "en": "Gladiator",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "遊楽者",
+  "en": "Bard",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "巫",
+  "en": "Kannagi",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "神女",
+  "en": "Valkyrie",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "君主",
+  "en": "Lord",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "侍",
+  "en": "Samurai",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "忍者",
+  "en": "Ninja",
+  "type": "class",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "人間",
+  "en": "Human",
+  "type": "race",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "エルフ",
+  "en": "Elf",
+  "type": "race",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ドワーフ",
+  "en": "Dwarf",
+  "type": "race",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ノーム",
+  "en": "Gnome",
+  "type": "race",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ホートルット",
+  "en": "Hotlet",
+  "type": "race",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "フェアリー",
+  "en": "Fairy",
+  "type": "race",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ワービースト",
+  "en": "Werebeast",
+  "type": "race",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ドラゴニュート",
+  "en": "Dragonewt",
+  "type": "race",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "デビリッシュ",
+  "en": "Devilish",
+  "type": "race",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "魔法生物",
+  "en": "Magical Creature",
+  "type": "creature type",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "獣人",
+  "en": "Beastfolk",
+  "type": "creature type",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "不死",
+  "en": "Undead",
+  "type": "creature type",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "精霊",
+  "en": "Spirit",
+  "type": "creature type",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "霊",
+  "en": "Ghost",
+  "type": "creature type",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "巨人",
+  "en": "Giant",
+  "type": "creature type",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "腕力",
+  "en": "Strength",
+  "type": "stat",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "石化",
+  "en": "Petrification",
+  "type": "status",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "猛毒",
+  "en": "Poison",
+  "type": "status",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "睡眠",
+  "en": "Sleep",
+  "type": "status",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "雷",
+  "en": "Lightning",
+  "type": "element",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "呪言",
+  "en": "Malediction",
+  "type": "ability",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "高笑い",
+  "en": "Haughty Laugh",
+  "type": "ability",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "速攻",
+  "en": "First Strike",
+  "type": "ability",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ものまね",
+  "en": "Mimicry",
+  "type": "ability",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "追撃",
+  "en": "Pursuit",
+  "type": "ability",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "守る",
+  "en": "Defend",
+  "type": "command",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "精霊契約",
+  "en": "Spirit Contract",
+  "type": "ability",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "装備解除",
+  "en": "Strip Gear",
+  "type": "ability",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "おみくじ",
+  "en": "Fortune Slip",
+  "type": "ability",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "総攻撃",
+  "en": "All-Out Attack",
+  "type": "UI term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "タロット",
+  "en": "Tarot",
+  "type": "ability",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ボタン",
+  "en": "button",
+  "type": "UI term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "石つぶて",
+  "en": "Flying Stones",
+  "type": "trap",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "傷薬",
+  "en": "Salve",
+  "type": "item",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ワルミット",
+  "en": "Walmitt",
+  "type": "character",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "ハイマスター",
+  "en": "High Master",
+  "type": "UI term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "太陽宮の決戦",
+  "en": "Palace of the Sun Showdown",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "イヌクシュク",
+  "en": "Inukshuk",
+  "type": "term",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "translation consensus, terminology pass 2 (2026-11)"
+ },
+ {
+  "jp": "バラド",
+  "en": "Balad",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ミサーマ",
+  "en": "Misama",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "ティオシード",
+  "en": "Dioseed",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "バラドス",
+  "en": "Balados",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "グラス",
+  "en": "Glass",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ラミサーマ",
+  "en": "Ramisama",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "ビネム",
+  "en": "Venom",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "マバラド",
+  "en": "Mabalad",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/posts/5162431"
+ },
+ {
+  "jp": "ジアカラ",
+  "en": "Ziakal",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ラビネム",
+  "en": "Ravenom",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ロブティ",
+  "en": "Robuti",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "マグラス",
+  "en": "Maglass",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ストーマ",
+  "en": "Stoma",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "ソーサレオ",
+  "en": "Sosareo",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ラバラド",
+  "en": "Rabalad",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "アルゲイズ",
+  "en": "Argeiss",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "ハロブティ",
+  "en": "Hallobuti",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ラグラス",
+  "en": "Raglass",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ジアカラド",
+  "en": "Ziakalad",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "ラストーマ",
+  "en": "Rastoma",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "エンテルクミスタ",
+  "en": "Enterook Mista",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "ティオメンテ",
+  "en": "Diomente",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/posts/5162431"
+ },
+ {
+  "jp": "ウルマクル",
+  "en": "Miracle",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://www.gog.com/forum/elminage_gothic/instant_death_2nd_dungeon_8_hrs_in"
+ },
+ {
+  "jp": "フィリア",
+  "en": "Feria",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "タシフ",
+  "en": "Tashif",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "エロード",
+  "en": "Erod",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ビネムフィ",
+  "en": "Venom-Fei",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ラタシフ",
+  "en": "Latasif",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ハロブカン",
+  "en": "Hallobukan",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://www.gog.com/forum/elminage_gothic/instant_death_2nd_dungeon_8_hrs_in"
+ },
+ {
+  "jp": "ゾンペリ",
+  "en": "Zomperi",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "フィリマ",
+  "en": "Feirima",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ロイドフィ",
+  "en": "Roodfei",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "エローマ",
+  "en": "Eroma",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ラフィリマ",
+  "en": "Rafelima",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://www.gog.com/forum/elminage_gothic/the_biggest_possible_heal"
+ },
+ {
+  "jp": "ミーアエイス",
+  "en": "Mirror Eyes",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ハロブカーム",
+  "en": "Hallobukarm",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ハニラストラ",
+  "en": "Honey Restorer",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/posts/5162431"
+ },
+ {
+  "jp": "サーマエイス",
+  "en": "Sama Eyes",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ゼフェフス",
+  "en": "Zefeifus",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "ロブカンド",
+  "en": "Robukand",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "サイドレイ",
+  "en": "Psi Drain",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "フィリード",
+  "en": "Feireed",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://www.gog.com/forum/elminage_gothic/the_biggest_possible_heal"
+ },
+ {
+  "jp": "リゼフェス",
+  "en": "Rizefus",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://www.gog.com/forum/elminage_gothic/instant_death_2nd_dungeon_8_hrs_in ; https://rpgcodex.net/forums/posts/5162431"
+ },
+ {
+  "jp": "エルナム",
+  "en": "Elnam",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "サイブレス",
+  "en": "Psi Breath",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "イムルアラティ",
+  "en": "Immolarati",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ラフィリード",
+  "en": "Rafeireed",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "リゼフェイド",
+  "en": "Rezefeid",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://www.gog.com/forum/elminage_gothic/instant_death_2nd_dungeon_8_hrs_in"
+ },
+ {
+  "jp": "ラゼフェス",
+  "en": "Razefeis",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "パムデウン",
+  "en": "Pomedoon",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "ロイド",
+  "en": "Rood",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://www.gog.com/forum/elminage_gothic/instant_death_2nd_dungeon_8_hrs_in"
+ },
+ {
+  "jp": "マハマハ",
+  "en": "Mahamaha",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage.fandom.com/wiki/Spells ; https://steamcommunity.com/sharedfiles/filedetails/?id=321865136"
+ },
+ {
+  "jp": "ポートル",
+  "en": "Portal",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ラロイド",
+  "en": "Rarood",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://www.gog.com/forum/elminage_gothic/instant_death_2nd_dungeon_8_hrs_in"
+ },
+ {
+  "jp": "スコレク",
+  "en": "Skorekh",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "カラチャ",
+  "en": "Karacha",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://www.gog.com/forum/elminage_gothic/instant_death_2nd_dungeon_8_hrs_in"
+ },
+ {
+  "jp": "オラース",
+  "en": "Orath",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "ラスコレク",
+  "en": "Lascorek",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "マカラチャ",
+  "en": "Makaracha",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://www.gog.com/forum/elminage_gothic/instant_death_2nd_dungeon_8_hrs_in"
+ },
+ {
+  "jp": "ヴィッフィ",
+  "en": "Bifei",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "ユニハコット",
+  "en": "Yuniwa Coat",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ピント",
+  "en": "Pinto",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "ラポールフィ",
+  "en": "Rapoolfei",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "ラミアーフ",
+  "en": "Ramialf",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage.fandom.com/wiki/Spells ; https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ペンデク",
+  "en": "Pendeku",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage.fandom.com/wiki/Spells ; https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ラピント",
+  "en": "Rapinto",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "ラポードス",
+  "en": "Rapidos",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage.fandom.com/wiki/Spells ; https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "ペンデアコット",
+  "en": "Pendea Coat",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage.fandom.com/wiki/Spells ; https://steamcommunity.com/sharedfiles/filedetails/?id=321865136"
+ },
+ {
+  "jp": "ゼオナダル",
+  "en": "Zeo Nadar",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/threads/elminage-gothic-former-japan-only-dungeon-crawler.91683/page-34"
+ },
+ {
+  "jp": "バイポートル",
+  "en": "High Portal",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage-gothic.fandom.com/wiki/Spells"
+ },
+ {
+  "jp": "プリテクトラット",
+  "en": "Protectorate",
+  "type": "spell",
+  "gender": "unknown",
+  "status": "draft",
+  "source": "https://elminage.fandom.com/wiki/Spells ; https://rpgcodex.net/forums/posts/5162431"
+ }
+]

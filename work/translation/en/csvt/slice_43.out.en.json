@@ -1,0 +1,360 @@
+[
+ {
+  "en": "A fearsome mage who has learned every Mage spell. Naturally, they cast the strongest attack spells. They expect foes to target them first, so they always have a spell ready to go. If they spot a Kannagi among the foes, they pull a very sour face.",
+  "kind": "desc"
+ },
+ {
+  "en": "One who has completed the full course of alchemical study. She has even brought the artificial life 'Homunculus' into being; all that remains is the Philosopher's Stone. People with a goal seem full of life, and this old woman is no exception: she looks very spry.",
+  "kind": "desc"
+ },
+ {
+  "en": "A noisy bard who blares away on an instrument called the bagpipe. With a bellows-like air bag, a tune can be played without a break. But handling it takes real stamina, so by the time you can play it freely, you may have become a muscle-bound spellcaster.",
+  "kind": "desc",
+  "note": "'Bard' for the ctx class; source says [JP] (muscle-type mage); 'spellcaster' kept generic since a Bard is not the Mage class."
+ },
+ {
+  "en": "A mage of unknown identity in a clown's guise. It loves death and decadent games, and once its curiosity is sated, it laughs a shrill, strange laugh. Everyone wonders about its true face, but no one has seen it. It appears from nowhere and vanishes, so it may not even be human.",
+  "kind": "desc",
+  "note": "'it' used: the text itself doubts it is human; gender not given."
+ },
+ {
+  "en": "A priestess serving directly under Ashtel, goddess of growth and love. Her body, which captivates all, man or woman, is truly a divine blessing. But every rose has its thorns. A mistress of tarot arcana, nuclear magic and barriers, she will send you to heaven, body and soul.",
+  "kind": "desc",
+  "note": "Name not in MONSTER tables; romanize Sarijany if needed (not used in text). [JP] = 'love' (carnal sense). [JP] pun (die / ecstasy) kept with 'send you to heaven'. [JP] = 'nuclear magic' (Wizardry-style nuke spell)."
+ },
+ {
+  "en": "Not a few priests turn to evil alignments or seek to serve dark gods. Some Priest spells are frightening, but at this level, you can safely treat them as a not-very-good Fighter.",
+  "kind": "desc"
+ },
+ {
+  "en": "A novice maid with a bucket and a deck brush. Maybe because she is new, she makes blunder after blunder. She is hard to dislike, but you can still get hurt in the fallout, so you had better be careful.",
+  "kind": "desc"
+ },
+ {
+  "en": "Casts both Priest and Mage spells, but at this level, there is nothing much to worry about. Among foes of similar rank, Priests and Mages are scarier than Bishops. Don't let the title fool you into choosing the wrong target first.",
+  "kind": "desc"
+ },
+ {
+  "en": "Said to have gained eternal youth by eating mermaid flesh, but Mermaid meat does no such thing. Those scared by her ageless beauty and odd ways likely spread it. She prefers young female adventurers to mermaid: laughing eerily, she chases them, savors their soft flesh with her long tongue, then eats them.",
+  "kind": "desc",
+  "note": "Heavily compressed to fit 312 bytes; all points kept (rumour, real cause, preference, chase, tongue, eating)."
+ },
+ {
+  "en": "A female priest who lives by an alignment unlike ours. Take her lightly and you will get hurt. Yet one question remains. Any priest must worship some god, but plainly not one of the six. So who lends them power?",
+  "kind": "desc",
+  "note": "[JP] = the six gods (Six Gods of Creation in wmap); 'the six' kept short. [JP] -> 'them'."
+ },
+ {
+  "en": "A maid now trusted with key duties such as hosting guests. Tray of tea things in hand, hand on her hip, she exudes confidence in her work. Why not order something if you feel like it? You will pay with your life.",
+  "kind": "desc"
+ },
+ {
+  "en": "Traveling with adventurers, this one now fights better than a proper bishop. Still, a bishop is a bishop, so some dubious preaching goes on too. After thrashing foes with spells comes the fun, fun sermon time.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ascetic who irons out wrinkles in clothes under extreme conditions. Training spans mountains, seas, woods, rivers, sheer cliffs, even above the clouds. It demands calm, a mind strong enough never to be shaken by any danger... though few would ever attack such a bizarre type.",
+  "kind": "desc",
+  "note": "Extreme ironing parody; 'Ironist' kept."
+ },
+ {
+  "en": "A priest who goes around spreading the gods' teachings. Their faith is so strong that at some point they learned to fly. On finding prey, they creep up without a sound, surround it with their comrades, and begin to speak of love.",
+  "kind": "desc",
+  "note": "[JP] singular/plural unclear; 'the gods' teachings' chosen (six-god pantheon)."
+ },
+ {
+  "en": "A man who rings a bell to celebrate adventurers' departure for the next world. He must really love ringing it: he rings away with a broad (creepy) grin. And though it is very rare, in the dark world people have reportedly had him officiate real ceremonies.",
+  "kind": "desc",
+  "note": "[JP] could be a wedding (chapel); kept 'ceremonies'."
+ },
+ {
+  "en": "A priestly calling from a land far to the east. With strange paper and sticks, they fight undead monsters, spirits among them. But as foes, what you should fear is their 'Barrier'. It reflects most spells, so a party that relies solely on spells will struggle.",
+  "kind": "desc",
+  "note": "[JP] = 'Barrier' (ebt UI term)."
+ },
+ {
+  "en": "One who has reached the highest level of power among priests. A priest's true calling is healing and comfort, but in battle they use instant-death spells. To them, granting death is also a kind of mercy. That mercy, of course, we would rather decline.",
+  "kind": "desc"
+ },
+ {
+  "en": "Head maid of the labyrinth. With calm judgment and precise action, she meets her master's every wish. Her planner reportedly holds the master's schedule in fine detail. Leave it to her and all is well, but she is rigid, so also strict. In battle, her fierce kicks crush her master's foes.",
+  "kind": "desc"
+ },
+ {
+  "en": "'Master Bishop' has two meanings. One is master by trade, trusted with a church; the other is master as an adventurer grown as strong as one can get. It may be none of our business, but for a bishop, which life is more worthwhile?",
+  "kind": "desc"
+ },
+ {
+  "en": "A man who passes every judgment. Good or evil, heads or tails, lie or truth, IN or OUT--they draw a line through anything and settle it. But they are only human; bad calls happen. So when a call is unfair, the 'Challenge' system lets you summon another Linesman to judge again.",
+  "kind": "desc",
+  "note": "Compressed: [JP] (wide range) merged into 'draw a line through anything'; [JP] = 'settle it'."
+ },
+ {
+  "en": "One who has mastered the way of the battle maiden. Following the gods' teachings, she skewers foes with a holy spear. Her code is very strict; she loathes impurity of body, and above all of soul: heart and faith. Their fixations may look comic to others. But have you found anything you believe in as they do?",
+  "kind": "desc"
+ },
+ {
+  "en": "The strongest, most evil pontiff, who cast off his self and gave his soul to evil. He wished his soul enslaved to his god; his self is all but gone. His deeds are bound by that god's doctrine. Knowing no doubt, he seems almost a puppet. Perhaps this is one form of 'ultimate happiness'.",
+  "kind": "desc",
+  "note": "[JP] = pontiff (slice_36 epithet uses 'Arch-Pope'); [JP] in source -> he."
+ },
+ {
+  "en": "A thief after adventurers' belongings. With a full party, they are not much of a problem. Leave them alone and they will run off on their own.",
+  "kind": "desc"
+ },
+ {
+  "en": "Deep in the forest, rangers stalk live animals nearly every day. Their focus and patience on the hunt are formidable, so if poison or paralysis slows you down, be prepared for the worst.",
+  "kind": "desc"
+ },
+ {
+  "en": "The lowest rank of ninja. Being a novice, its moves are still clumsy. At worst, a Fighter or Mage of the same level may even be stronger, but it does still have a small chance to decapitate.",
+  "kind": "desc"
+ },
+ {
+  "en": "A warden of the forest, merciless to any who despoil it. A famous Forest Guard is Polyte, though she is a woman. Her tale became the play 'Periatif'. The scene in which she, in tears, shoots the lover who broke the forest's law is unforgettable once seen.",
+  "kind": "desc",
+  "note": "[JP] = Periatif (chap slice_022)."
+ },
+ {
+  "en": "An elusive gentleman thief, a pest who always gets his prize, but most prizes were seized by force or wrongly taken from owners. After admiring them a while, he returns them to their owners, so he is a noble thief too. His three watchwords: 'Sharp', 'Pervy', 'Great Success'. Have all three and you are one too!",
+  "kind": "desc",
+  "note": "Heavily compressed ([JP] 'a nuisance' and [JP] repeated name folded in). [JP] rendered 'Pervy'; could also be read as 'metamorphosis/disguise' pun - flag."
+ },
+ {
+  "en": "An eastern counterpart of the courtesan. She also serves as an attendant, giving guests all manner of hospitality. The strange notes of her stringed instrument can pin foes down. She is also said to command a mysterious cat that beckons people in.",
+  "kind": "desc",
+  "note": "[JP] read as courtesan/entertainer; [JP] = beckoning cat (maneki-neko)."
+ },
+ {
+  "en": "A Blob that learned to use a bow. Human types have only two arms, but these have many tentacles, so when each one draws a bow and they fire in volleys, they are a handful. Luckily, their aim is poor, so stay calm and seize your chance to win.",
+  "kind": "desc"
+ },
+ {
+  "en": "Appears at night and downs prey in the dark. Its accuracy earned it the name of one who could shoot down the moon. In 'Periatif', it is known as Jenas, Polyte's rival. The scene where their arrows collide over the moon on the lake, sending sparks flying, has even been painted.",
+  "kind": "desc"
+ },
+ {
+  "en": "Some people just have sticky fingers: they pick pockets with no real need, or steal for fun. A Beauty lulls you with her looks and walks off with your valuables. And should she be found out, one stab of a hidden knife settles it.",
+  "kind": "desc",
+  "note": "Beauty treated as female ([JP], appearance-based lure); not explicit in source - flag."
+ },
+ {
+  "en": "A kunoichi who could no longer hold back her wish to show off her beauty to all. Other kunoichi scorn them as heretics, but such words don't reach these wild girls. Kunoichi arts honed even further--can you weather them?",
+  "kind": "desc"
+ },
+ {
+  "en": "Werebeasts' special ability lets normal attacks carry poison, and a werebeast Ranger can follow up on itself. An Arc Launcher, being a werebeast, is a dire threat to parties with no poison resistance.",
+  "kind": "desc",
+  "note": "[JP] = self follow-up attack; [JP] = Ranger class."
+ },
+ {
+  "en": "A ninja holding the title of Summa. Don't underestimate it just because it is alone. Once it hides, you cannot touch it, and one by one your heads will be lopped off.",
+  "kind": "desc",
+  "note": "[JP] = Summa (ebt 'Summa ability', slice_36)."
+ },
+ {
+  "en": "A small, imp-like race common on the continent. Being small, they are not much of a threat even when they attack by force. Just brush them off.",
+  "kind": "desc"
+ },
+ {
+  "en": "A race akin to the Werebeasts, but more savage than the other races. They have their own culture and territory, and outside battle they have no contact with humans or elves.",
+  "kind": "desc"
+ },
+ {
+  "en": "Like Kobolds, a race akin to the Werebeasts. With big appetites, they know 512 kinds of cheap eats, likely the fruit of chasing their own idea of fine food. The Orc king is chosen by this gourmet score: the one who lets everyone eat better is truly king.",
+  "kind": "desc",
+  "note": "[JP] = 512; B[JP] = 'cheap eats'."
+ },
+ {
+  "en": "A beastfolk girl with skunk blood. Maybe it's her skunk nature, but when worked up, she gasses. When angry, of course, but also when happy or sad; any feeling sets her off. So she is shunned, friendless and lonely. And then, feeling lonely, she gasses again.",
+  "kind": "desc"
+ },
+ {
+  "en": "Among beastfolk and demi-humans, the Ogre has the most commanding presence. Good at swinging axes and hammers, it has the most muscular body of all beastfolk. However sturdy your shield, it can hit you right through it. It often hangs out with Goblins.",
+  "kind": "desc"
+ },
+ {
+  "en": "A demi-human that evolved in an odd way. It spears fish, and adventurers, with the spear in its hand. Weak to dryness, it prefers to live in marshes. Lately, orcs taught it about seasonings, and salt-grilled fish is said to be all the rage.",
+  "kind": "desc"
+ },
+ {
+  "en": "Half human, half horse. While toying with you with swift moves, she aims a bow said never to miss. Get behind her and you take a mighty kick. She likes to carry those she fancies on her back and gallop till sunset. If your hearts connect, why not watch the sun set together? How romantic.",
+  "kind": "desc",
+  "note": "Compressed: [JP] and 'adventurers' folded; 'the Centauress herself' -> 'she'."
+ },
+ {
+  "en": "A kobold sergeant. Back when power on the land was unsettled, kobolds had fangs in their hearts. But as territories split and culture grew, they slowly lost their wildness. This Sarge drills body and mind to wake the heart-fangs of soft, complacent kobolds.",
+  "kind": "desc"
+ },
+ {
+  "en": "An orc general. It hangs a big spiked iron ring on itself, believing it boosts defense. In truth, it hampers the close combat it excels at, so it is poor gear. Still, hefting that heavy ring with ease is impressive. Knows 1000 B- and C-grade eats, and 24 kinds of food poisoning.",
+  "kind": "desc",
+  "note": "Compressed [JP]. B[JP]C[JP] kept as 'B- and C-grade eats' to keep the joke's grading."
+ },
+ {
+  "en": "A lizardman high priest, a king of intellect who reads their future and spreads Lizardmanship. Said to rival the Lizard King. It preaches justice to its kin, yet gets rare spices from orcs and often lies that rites need them to keep them for itself. If caught, it gets a beating.",
+  "kind": "desc",
+  "note": "Heavily compressed: [JP] (guides) and [JP] (morals) folded into 'preaches justice'/'reads their future'. Lizard King = [JP] (not yet in corpus)."
+ },
+ {
+  "en": "A beautiful monster, human above and fish below. Trespass in their waters and they will come in groups to drive the intruder out. But for all their aggression, they are said to be keenly interested in romance. When they drive off a gentleman, they sigh among the waves.",
+  "kind": "desc"
+ },
+ {
+  "en": "A guard of the Ogre Lord. A trained ogre, it acts with discipline, for an ogre. When ogre brawn and goblin spells attack together, they become tough foes.",
+  "kind": "desc",
+  "note": "[JP] = Ogre Lord (not yet in corpus)."
+ },
+ {
+  "en": "A beastfolk girl who hunts strays in the woods with a cute look. Turn it around and ask, 'Why are your hands so hairy?' 'Why do your eyes gleam so?' 'Why are there fangs in your mouth?' She will answer you politely, while edging closer step by step with a hidden knife.",
+  "kind": "desc"
+ },
+ {
+  "en": "A girl born to a tiger and a human. She thinks she is a tiger. Get near with ulterior motives and she'll surely bite, taking you for food. She has feline habits; before rain, she rubs her face very hard. But go near thinking 'Aww, cute!' and you will still get eaten.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Goblin whose talent for magic has blossomed. It knows both fire and ice spells, a nuisance when it hangs back. Then again, drag it to the front or poke it with long-reach weapons, and it is no problem at all.",
+  "kind": "desc"
+ },
+ {
+  "en": "Queen of the mermaids, ruler of the sea. In hand she holds a special spear, the 'Holy Sea Trident', and strikes intruders with lightning. She usually sits deep in the sea, but on calm full-moon nights she leads the mermaids up to the surface to enjoy a feast.",
+  "kind": "desc"
+ },
+ {
+  "en": "A dread lord who has lost reason and swings his sword at friend and foe alike. No longer human, he is a mad beast. Yet by chance even a Raver Lord may come to his senses. Then, unable to bear his sins, he will try to destroy himself... dragging those around him along.",
+  "kind": "desc"
+ },
+ {
+  "en": "A giant living in the forest. Not evil, but if you approach, it will usually shoo you away as a nuisance, or attack. If you are unlucky enough to fight it, try using wits, not strength.",
+  "kind": "desc"
+ },
+ {
+  "en": "Bull-headed, closer to a monster than a giant. One tale says a noblewoman pined for a young, sturdy bull, and through a cursed act she conceived and bore this monster. Its body is human, but it attacks with a bull's wits and ferocity.",
+  "kind": "desc"
+ },
+ {
+  "en": "A giant of fire that lives on flames. It prefers natural fire to man-made or spell-made flame. Old friends with Frost Giants. Them being together seems bad, but they are not Elementals, so it's fine. Shaking hands, singing arm in arm: no sweat.",
+  "kind": "desc"
+ },
+ {
+  "en": "A giant girl skilled at smithing. She lives in volcanoes and mountains, quietly making swords and armor. She works alone, and between jobs looks down the slopes hoping someone will come. Become friends and she will teach you her smithing skills.",
+  "kind": "desc"
+ },
+ {
+  "en": "A giant of ice. Fond of the 'Freezing Sword' that freezes what it touches, it likes to freeze foes and shatter them on the spot. It sometimes brings seafood to Fire Giants, but it always gets grilled piping hot. Inwardly, it sighs, 'It's better raw...'",
+  "kind": "desc",
+  "note": "[JP] = Freezing Sword (csvt slice_16 item)."
+ },
+ {
+  "en": "A giant with three faces. The top one thinks, the second moves the arms, the third the legs. Cheerful, it makes friends with anyone, but after a while its pushy nature starts to show. In a good mood, it can be seen racing over hills and fields with a booming laugh.",
+  "kind": "desc"
+ },
+ {
+  "en": "A giant girl who lives in the sea. Despite her huge body, she is shy and bashful. When a tsunami she caused by moving heads for ships or fishing villages, she frets that it will take small lives (which makes more tsunamis). Her dream is to be a lovely bride.",
+  "kind": "desc"
+ },
+ {
+  "en": "A giant cloaked in toxins. One theory says life evolves in many ways in many environments. Did this giant evolve this way to survive in toxic lands? Either way, it became a vicious giant whose very breath inflicts deadly poison.",
+  "kind": "desc"
+ },
+ {
+  "en": "A wounded giant was treated by a passing priest and, deeply moved, began training to be a priest too. That is a Cosplay Priest. But not knowing how to train, it can only swing a club while shouting spell names it picked up. Someone should guide it, don't you think?",
+  "kind": "desc"
+ },
+ {
+  "en": "Once a female spirit ruling the sky, she grew close to a wind spirit and made the other spirits jealous. As a result, she was dragged down from the sky to the ground. Her longing for the sky remains, but now she drifts over the land as one of the wind spirits.",
+  "kind": "desc"
+ },
+ {
+  "en": "God of death, ruling the end of life. Though young, this god grasps life and death deeply, fit to be the last hope of the Divine Realm. Grieving over, cherishing and accepting a body of both sexes, the young god... will the Path of Souls be repaired?",
+  "kind": "desc",
+  "note": "New name: [JP] = Yobient ([JP] pattern 'X of Oblivion', cf. Sanafeet of Oblivion); not named in text. [JP] = both sexes: no he/she used. [JP] = Path of Souls (chap slice_022). [JP] read as 'will the Path of Souls be repaired?'"
+ },
+ {
+  "en": "God of existence, who affirms that all things 'are'. Named Void's aide by the Divine Realm, it took office after Dehain stepped down. Clearing every obstacle to create the Eld, it outdoes all in its love of ruthless rule. Even Void is said to shudder at a will that cares not even for the land.",
+  "kind": "desc",
+  "note": "Fulfaray gender unknown -> 'it' avoided where possible; 'it took office' used for the deity. [JP] = stepped down (abdicated). [JP] (sic, [JP]) = clearing every obstacle."
+ },
+ {
+  "en": "A wind-up doll made by people plagued by evil giants, to drive them off. Giants chosen as her playmates were kept playing until their lives ran out. With the giants gone, the people feared she would turn on them and banished her far away. The doll still wanders, seeking playmates.",
+  "kind": "desc",
+  "note": "[JP] = wind-up (karakuri) doll; source uses [JP] -> her."
+ },
+ {
+  "en": "One who reigns at the very top of the undead, also called a True Ancestor. With vast magic and many minions, it keeps lowly adventurers at bay. Even if you get in close, its sharp fangs are hard to fend off. Do mind your manners.",
+  "kind": "desc",
+  "note": "[JP] = True Ancestor (vampire progenitor)."
+ },
+ {
+  "en": "Narv was a spirit of darkness, but not an evil being. Numbra Narv, however, is not so. Hailing from a world other than this one, they hold intense hostility toward this world. Meet them and you will be carried off, soul and all, and dyed the color of darkness.",
+  "kind": "desc",
+  "note": "[JP] = Narv (chap/csvt). Number unclear: Narv singular (named character), Numbra Narv plural 'they' per [JP]."
+ },
+ {
+  "en": "The form that emerges when someone answers the question of a Mockricketta?. Glowing fluid flows in its clear wings, making the whole Phosphor Moth shine faintly. It is said to forever guard whoever helped it emerge. Some regions call it a holy insect, an omen of good fortune.",
+  "kind": "desc",
+  "note": "[JP] = Mockricketta? (csvt slice_32 monster name, '?' is part of the name)."
+ },
+ {
+  "en": "A deep-realm fish that forever swims the world's 'Depths'. Savage, it tolerates no life but its own kind. With eyes beyond space, it attacks any caught in the 'Depths', human or Kin of Darkness. Live a normal life and you'll never meet it. So if this fish attacks you, it's your own fault.",
+  "kind": "desc",
+  "note": "[JP] = 'deep-realm fish' (new term); [JP] = 'Depths' in quotes. [JP] = Kin of Darkness."
+ },
+ {
+  "en": "Legend gives it a monkey's face, a tanuki's body, a tiger's legs and a snake's tail, yet no one has seen a nue's true form. Some say the nue has no form; others say it is because whoever sees its true form dies.",
+  "kind": "desc"
+ },
+ {
+  "en": "Don't keep denying your reflection, saying, 'That isn't me.' The 7th time, you set it free. Freed, the 'something' that played you beyond the glass will grin with your face, then attack to take your place.",
+  "kind": "desc",
+  "note": "Compressed slightly; [JP] kept as the 'something' that played you."
+ },
+ {
+  "en": "Azabas swore he would one day rule all, but as his growth stalled he felt the limits of his talent, and could not hide his fretting at Fendel's steady path to Demon Duke. At last he split with Fendel. As he writhed at his limit, a scorching wind of ruin blew. What power did that price buy?",
+  "kind": "desc",
+  "note": "[JP] = Fendel (chap slice_021). [JP] = Demon Duke (csvt slice_28 / chap slice_019). [JP] = 'scorching winds of destruction' in chap; 'scorching wind of ruin' here to fit. Heavily compressed."
+ },
+ {
+  "en": "Far too bizarre to be called a dragon. Said to be the forebear of dragons, or a monster born of gathered dragon wrath; the truth is unknown. Its round dome serves as an eye, seeing not just light but darkness and magic too. Whoever obtains a Cetus Dragon's eye is said to gain its power.",
+  "kind": "desc"
+ },
+ {
+  "en": "A LEGENDARY GOD OF WAR, SAID TO BE THE FINAL GOAL OF KNIGHTS. ITS GEAR HOLDS MYTHIC BEAST POWER AND RULES 5 AXES: FIRE, WATER, EARTH, METAL, WOOD. IT DESCENDS ON LANDS WHOSE BALANCE HAS BROKEN AND PURGES THE SOURCE OF THE CHAOS WITH RAGING MIGHT.",
+  "kind": "desc",
+  "note": "Source is all hiragana with detached dakuten (retro 8-bit text style, deliberate); rendered in ALL CAPS to echo old-console text. Name not in MONSTER tables (War Master). [JP] read as [JP] 'mythic beast'; 5[JP] = five axes (Chinese five phases)."
+ },
+ {
+  "en": "Boss of the mages. Spell-formula tattoos on his body boost his magic further. Pampered with fine food, carried around and skipping training, he is rather flabby. As he puts it, 'This fat's packed full of magic, y'know.' In battle, he works the earth with one hand and the sky with the other to crush foes.",
+  "kind": "desc"
+ },
+ {
+  "en": "A female doctor of the dark world. In battle she stings like a bee; tending the wounded, she is a lovely butterfly. Her specialty: combo vaccine shots. It is a cure-all that wards off any disease, but between the syringe's size and how she uses it, patients drop out in droves.",
+  "kind": "desc",
+  "note": "Name [JP] not in MONSTER tables (Holly/Holy?) and not used in text. Compressed."
+ },
+ {
+  "en": "A Bow Saint passed down in the tale 'Periatif'. Each shot from her bow surely pierces 5 targets. The bow she is said to have used bears her name and is the dream of every archer. In the Wastelands she hunts Demon Dukes, and she seems to have faced Taizarti before.",
+  "kind": "desc",
+  "note": "[JP] = the Wastelands (chap slice_021); [JP] = Taizarti."
+ },
+ {
+  "en": "A spider-like enchantress. From near her rear she spins sticky thread to snare prey. It is hard to cut, so escape is not easy. But she has a weak spot: thrust an arm into the spinneret and rip out the thread's source to wear Taranti down. Not that she'll easily let you.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bizarre giant of many heads and arms. In the Age of Ada, he upheld the Kingdom of Kondar with the Allied Painters. Since the dragon age, he curses the gods and the land, and hates the former age's five races, humans, elves and all. 'We lost to such tiny things?' The shock gives him wry laughs and great rage.",
+  "kind": "desc",
+  "note": "New names: [JP] = Ada, [JP] = Kondar, [JP] = Allied Painter(s) (unclear; could be a creature/race name). [JP] read as 'five races of the former age' - uncertain which era [JP] refers to. Source uses [JP] -> 'he'. Compressed: [JP] -> 'since the dragon age'."
+ },
+ {
+  "en": "Learning her mother's soul was trapped in the Abyss, Sephirine rashly challenged Apasha. As she was about to be absorbed, Rogera, former god of Dark Oblivion, appeared. The unchangeable Path of Souls and a girl's will to save her mother spoke of new hope. Named Demon General of Dark Oblivion, she went to Sanafeet.",
+  "kind": "desc",
+  "note": "New name: [JP] = Sephirine (her name before becoming Sephiriege). [JP] (sic, [JP]) = the Abyss (chap slice_022). [JP] = Demon General of Oblivion (chap slice_022). [JP] -> 'hope' to fit."
+ },
+ {
+  "en": "'A shield in my right hand, and in my left, a shield too! ...Huh?' At a cave mouth stands a statue of a boy who carelessly equipped two shields in battle and died. At some point, the statue began to spar with anyone who talks to it, even while dozing off.",
+  "kind": "desc",
+  "note": "Text says [JP] (boy) for the statue's subject; Abi glossary gender unset - not named in this row."
+ }
+]

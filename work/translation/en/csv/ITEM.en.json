@@ -1,0 +1,8480 @@
+[
+ {
+  "id": "ITEM.CSV:8:4",
+  "en": "(Not Set)",
+  "max": 20,
+  "used": false
+ },
+ {
+  "id": "ITEM.CSV:9:4",
+  "en": "Junk",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:9:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:10:4",
+  "en": "Long Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:10:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:11:4",
+  "en": "Scimitar",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:11:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:12:4",
+  "en": "Rusty Long Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:12:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:13:4",
+  "en": "Broadsword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:13:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:14:4",
+  "en": "Long Sword +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:14:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:15:4",
+  "en": "Beast-Bone Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:15:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:16:4",
+  "en": "Innocent Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:16:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:17:4",
+  "en": "Palindroma",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:17:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:18:4",
+  "en": "Thunderbolt Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:18:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:19:4",
+  "en": "Evil Saber",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:19:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:20:4",
+  "en": "Sagabringer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:20:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:21:4",
+  "en": "Hyakka Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:21:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:22:4",
+  "en": "King's Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:22:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:23:4",
+  "en": "Neil Amues",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:23:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:24:4",
+  "en": "Diamond Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:24:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:25:4",
+  "en": "Alverstar",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:25:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:26:4",
+  "en": "Holy Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:26:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:27:4",
+  "en": "Evening Calm Foil",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:27:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:28:4",
+  "en": "Crimson Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:28:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:29:4",
+  "en": "Chopper Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:29:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:30:4",
+  "en": "Varios Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:30:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:31:4",
+  "en": "Bastard Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:31:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:32:4",
+  "en": "Flamberge",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:32:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:33:4",
+  "en": "Dragon Killer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:33:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:34:4",
+  "en": "Blade of the Nether",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:34:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:35:4",
+  "en": "Claymore",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:35:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:36:4",
+  "en": "Dagger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:36:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:37:4",
+  "en": "Short Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:37:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:38:4",
+  "en": "Kukri",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:38:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:39:4",
+  "en": "Stiletto",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:39:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:40:4",
+  "en": "Rusty Dagger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:40:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:41:4",
+  "en": "Jamadhar",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:41:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:42:4",
+  "en": "Swift Dagger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:42:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:43:4",
+  "en": "Defensive Dagger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:43:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:44:4",
+  "en": "Dazzling Dagger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:44:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:45:4",
+  "en": "Chimera Dagger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:45:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:46:4",
+  "en": "Circle Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:46:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:47:4",
+  "en": "Blood-Soaked Dagger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:47:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:48:4",
+  "en": "Dagger of Kelhens",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:48:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:49:4",
+  "en": "Scramasax",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:49:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:50:4",
+  "en": "Sword of Azoth",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:50:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:51:4",
+  "en": "Silberam",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:51:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:52:4",
+  "en": "Happy Seven",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:52:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:53:4",
+  "en": "Marquise Knife",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:53:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:54:4",
+  "en": "Vile Blade Ramshanok",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:54:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:55:4",
+  "en": "Silver Rapier",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:55:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:56:4",
+  "en": "Katana",
+  "max": 20,
+  "used": false
+ },
+ {
+  "id": "ITEM.CSV:56:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:57:4",
+  "en": "Kodachi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:57:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:58:4",
+  "en": "Hundred Bamboo Edge",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:58:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:59:4",
+  "en": "Kogarasumaru",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:59:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:60:4",
+  "en": "Dancing Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:60:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:61:4",
+  "en": "Karasu Tengu",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:61:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:62:4",
+  "en": "Sacred Sword of Dawn",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:62:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:63:4",
+  "en": "Fretful Aramisaki",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:63:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:64:4",
+  "en": "Mikaboshi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:64:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:65:4",
+  "en": "Helm Splitter",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:65:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:66:4",
+  "en": "Odenta",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:66:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:67:4",
+  "en": "Oni Slayer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:67:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:68:4",
+  "en": "Embraced Head",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:68:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:69:4",
+  "en": "Rainy Four Lights",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:69:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:70:4",
+  "en": "Muramasa",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:70:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:71:4",
+  "en": "Lance",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:71:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:72:4",
+  "en": "Mop",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:72:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:73:4",
+  "en": "Retort Pike",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:73:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:74:4",
+  "en": "Vermilion Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:74:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:75:4",
+  "en": "Spite Spear Kavirane",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:75:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:76:4",
+  "en": "Gowen's Wringer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:76:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:77:4",
+  "en": "Demon Soul Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:77:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:78:4",
+  "en": "Mithril Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:78:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:79:4",
+  "en": "High Branch Basher",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:79:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:80:4",
+  "en": "Tonbokiri",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:80:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:81:4",
+  "en": "Godslayer Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:81:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:82:4",
+  "en": "Yasha Princess",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:82:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:83:4",
+  "en": "Ice Magic Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:83:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:84:4",
+  "en": "Furiwells",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:84:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:85:4",
+  "en": "Holy Maiden's Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:85:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:86:4",
+  "en": "Hand Axe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:86:5",
+  "en": "?Axe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:87:4",
+  "en": "Battle Axe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:87:5",
+  "en": "?Axe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:88:4",
+  "en": "Francisca",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:88:5",
+  "en": "?Axe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:89:4",
+  "en": "Double-Bladed Axe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:89:5",
+  "en": "?Axe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:90:4",
+  "en": "Greataxe of the Dead",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:90:5",
+  "en": "?Axe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:91:4",
+  "en": "Savage Axe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:91:5",
+  "en": "?Axe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:92:4",
+  "en": "Giant's Axe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:92:5",
+  "en": "?Axe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:93:4",
+  "en": "War Hammer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:93:5",
+  "en": "?Hammer",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:94:4",
+  "en": "Blood Hammer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:94:5",
+  "en": "?Hammer",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:95:4",
+  "en": "Hinged Headcraze",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:95:5",
+  "en": "?Hammer",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:96:4",
+  "en": "Colmet Hammer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:96:5",
+  "en": "?Hammer",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:97:4",
+  "en": "Death Piko Hammer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:97:5",
+  "en": "?Hammer",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:98:4",
+  "en": "Mithril Hammer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:98:5",
+  "en": "?Hammer",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:99:4",
+  "en": "Entraie",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:99:5",
+  "en": "?Hammer",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:100:4",
+  "en": "Great Wrecking Maul",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:100:5",
+  "en": "?Hammer",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:101:4",
+  "en": "Mace",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:101:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:102:4",
+  "en": "Mace +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:102:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:103:4",
+  "en": "Morning Star",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:103:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:104:4",
+  "en": "Mace of Straying",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:104:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:105:4",
+  "en": "Serpent Mace",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:105:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:106:4",
+  "en": "Camel Mace",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:106:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:107:4",
+  "en": "Mace of Destruction",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:107:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:108:4",
+  "en": "Mond Mace",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:108:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:109:4",
+  "en": "Holy Mace",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:109:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:110:4",
+  "en": "Mace of Lapsed Faith",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:110:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:111:4",
+  "en": "Quenzstein",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:111:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:112:4",
+  "en": "Sheep's Silver Ladle",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:112:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:113:4",
+  "en": "Wood Club",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:113:5",
+  "en": "?Club",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:114:4",
+  "en": "Cudgel",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:114:5",
+  "en": "?Club",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:115:4",
+  "en": "Iron Club",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:115:5",
+  "en": "?Club",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:116:4",
+  "en": "Shamrock",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:116:5",
+  "en": "?Club",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:117:4",
+  "en": "Asuna's Battledore",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:117:5",
+  "en": "?Club",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:118:4",
+  "en": "Club of Frenzy",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:118:5",
+  "en": "?Club",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:119:4",
+  "en": "Runed Flail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:119:5",
+  "en": "?Club",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:120:4",
+  "en": "Crystal Club",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:120:5",
+  "en": "?Club",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:121:4",
+  "en": "Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:121:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:122:4",
+  "en": "Longbow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:122:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:123:4",
+  "en": "Atlatl",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:123:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:124:4",
+  "en": "Twisted Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:124:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:125:4",
+  "en": "Longbow +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:125:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:126:4",
+  "en": "Demonbane Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:126:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:127:4",
+  "en": "Skylark Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:127:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:128:4",
+  "en": "Violent Arrow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:128:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:129:4",
+  "en": "Holy Bow of Polyte",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:129:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:130:4",
+  "en": "Meltscorm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:130:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:131:4",
+  "en": "Expert's Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:131:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:132:4",
+  "en": "Wizard's Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:132:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:133:4",
+  "en": "Diamond Shower",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:133:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:134:4",
+  "en": "Spirit Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:134:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:135:4",
+  "en": "Whip",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:135:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:136:4",
+  "en": "Iron Whip",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:136:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:137:4",
+  "en": "Whip of Silence",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:137:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:138:4",
+  "en": "Fanged Serpent",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:138:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:139:4",
+  "en": "Angel Ribbon",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:139:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:140:4",
+  "en": "Queen Beat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:140:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:141:4",
+  "en": "Hell Master",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:141:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:142:4",
+  "en": "Ringstetza",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:142:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:143:4",
+  "en": "Staff",
+  "max": 20,
+  "used": false
+ },
+ {
+  "id": "ITEM.CSV:143:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:144:4",
+  "en": "Fairy Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:144:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:145:4",
+  "en": "Gohei",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:145:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:146:4",
+  "en": "Rotten Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:146:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:147:4",
+  "en": "Trick Rod",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:147:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:148:4",
+  "en": "Iron Mallet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:148:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:149:4",
+  "en": "Flame Rod",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:149:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:150:4",
+  "en": "Great Tree Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:150:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:151:4",
+  "en": "Holy Rod",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:151:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:152:4",
+  "en": "Reaper's Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:152:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:153:4",
+  "en": "Star Rod",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:153:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:154:4",
+  "en": "Elemental Wand",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:154:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:155:4",
+  "en": "Welish Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:155:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:156:4",
+  "en": "Rabbit Wand",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:156:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:157:4",
+  "en": "Weasel Wand",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:157:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:158:4",
+  "en": "Geezers' Wand",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:158:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:159:4",
+  "en": "White Ash",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:159:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:160:4",
+  "en": "Spell Emperor Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:160:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:161:4",
+  "en": "Hand Wraps",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:161:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:162:4",
+  "en": "Tonfa",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:162:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:163:4",
+  "en": "Hawk Talon",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:163:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:164:4",
+  "en": "Vector Knuckle",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:164:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:165:4",
+  "en": "Boomerang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:165:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:166:4",
+  "en": "Iron Boomerang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:166:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:167:4",
+  "en": "Obsidian Boomerang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:167:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:168:4",
+  "en": "Double Cropping",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:168:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:169:4",
+  "en": "Pirate Pick",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:169:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:170:4",
+  "en": "Life Stealer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:170:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:171:4",
+  "en": "Iron Maiden",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:171:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:172:4",
+  "en": "Ladle +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:172:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:173:4",
+  "en": "Frying Pan +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:173:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:174:4",
+  "en": "Thousand-Sheet Awl",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:174:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:175:4",
+  "en": "Mage's Crystal",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:175:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:176:4",
+  "en": "Kunai",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:176:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:177:4",
+  "en": "Three-Ray Star",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:177:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:178:4",
+  "en": "Steel Crane",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:178:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:179:4",
+  "en": "Azure Sky Snowflake",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:179:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:180:4",
+  "en": "Wild-Ray Star",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:180:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:181:4",
+  "en": "Shuriken",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:181:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:182:4",
+  "en": "Long-Nosed Prince",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:182:5",
+  "en": "?Book",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:183:4",
+  "en": "Eastern Yokai Tales",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:183:5",
+  "en": "?Book",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:184:4",
+  "en": "Lopez's Magiconomics",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:184:5",
+  "en": "?Book",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:185:4",
+  "en": "Secret Book",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:185:5",
+  "en": "?Book",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:186:4",
+  "en": "Torikaebaya Tale II",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:186:5",
+  "en": "?Book",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:187:4",
+  "en": "Great Crestard Hist.",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:187:5",
+  "en": "?Book",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:188:4",
+  "en": "Book of the Next Age",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:188:5",
+  "en": "?Book",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:189:4",
+  "en": "Encyc. of All Things",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:189:5",
+  "en": "?Book",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:190:4",
+  "en": "Black Scripture",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:190:5",
+  "en": "?Book",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:191:4",
+  "en": "Libretto of Prayer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:191:5",
+  "en": "?Book",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:192:4",
+  "en": "Buckler",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:192:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:193:4",
+  "en": "Targe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:193:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:194:4",
+  "en": "Iron Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:194:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:195:4",
+  "en": "Varios Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:195:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:196:4",
+  "en": "Knight Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:196:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:197:4",
+  "en": "Cursed Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:197:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:198:4",
+  "en": "Beast-Bone Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:198:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:199:4",
+  "en": "Knight Shield +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:199:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:200:4",
+  "en": "Innocent Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:200:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:201:4",
+  "en": "Exorcist Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:201:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:202:4",
+  "en": "Holy Guard",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:202:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:203:4",
+  "en": "Evil Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:203:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:204:4",
+  "en": "Tri-Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:204:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:205:4",
+  "en": "Truth Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:205:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:206:4",
+  "en": "Demon Wing",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:206:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:207:4",
+  "en": "Mithril Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:207:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:208:4",
+  "en": "Dragon Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:208:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:209:4",
+  "en": "Goddess's Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:209:5",
+  "en": "?Shield",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:210:4",
+  "en": "Leather Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:210:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:211:4",
+  "en": "Kettle Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:211:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:212:4",
+  "en": "Ashigaru Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:212:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:213:4",
+  "en": "Coif",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:213:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:214:4",
+  "en": "Bascinet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:214:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:215:4",
+  "en": "Skull Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:215:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:216:4",
+  "en": "Flower Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:216:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:217:4",
+  "en": "Evil Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:217:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:218:4",
+  "en": "Star Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:218:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:219:4",
+  "en": "Iron Mask",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:219:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:220:4",
+  "en": "Sugarloaf",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:220:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:221:4",
+  "en": "Phantom Mask",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:221:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:222:4",
+  "en": "Black Bull Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:222:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:223:4",
+  "en": "Magic Laurel Wreath",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:223:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:224:4",
+  "en": "Dragon Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:224:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:225:4",
+  "en": "Silver Tiara",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:225:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:226:4",
+  "en": "Bahamut Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:226:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:227:4",
+  "en": "Golden Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:227:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:228:4",
+  "en": "Mithril Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:228:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:229:4",
+  "en": "Holy Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:229:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:230:4",
+  "en": "Fur Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:230:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:231:4",
+  "en": "Eboshi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:231:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:232:4",
+  "en": "Bandana",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:232:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:233:4",
+  "en": "Red Hood",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:233:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:234:4",
+  "en": "Torn Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:234:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:235:4",
+  "en": "Wing Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:235:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:236:4",
+  "en": "Bald Wig",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:236:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:237:4",
+  "en": "Straw Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:237:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:238:4",
+  "en": "Steel Hairband",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:238:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:239:4",
+  "en": "Mage's Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:239:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:240:4",
+  "en": "Laughing Hood",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:240:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:241:4",
+  "en": "Bandana Soul",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:241:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:242:4",
+  "en": "Archmage's Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:242:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:243:4",
+  "en": "Blue Rain-1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:243:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:244:4",
+  "en": "Plate Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:244:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:245:4",
+  "en": "Knight's Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:245:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:246:4",
+  "en": "Chipped Plate Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:246:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:247:4",
+  "en": "Lorica Segmentata",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:247:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:248:4",
+  "en": "Plate Mail +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:248:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:249:4",
+  "en": "Neutral Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:249:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:250:4",
+  "en": "Brigandine",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:250:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:251:4",
+  "en": "Magic Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:251:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:252:4",
+  "en": "Evil Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:252:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:253:4",
+  "en": "Crystal Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:253:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:254:4",
+  "en": "Swan Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:254:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:255:4",
+  "en": "Mithril Plate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:255:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:256:4",
+  "en": "Holy Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:256:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:257:4",
+  "en": "Breastplate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:257:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:258:4",
+  "en": "Ashigaru Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:258:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:259:4",
+  "en": "Cuirass",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:259:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:260:4",
+  "en": "Fallen Samurai Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:260:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:261:4",
+  "en": "Hunter Guard",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:261:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:262:4",
+  "en": "Jeweled Breastplate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:262:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:263:4",
+  "en": "Sakimori Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:263:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:264:4",
+  "en": "Silver Breastplate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:264:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:265:4",
+  "en": "Icing Heart",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:265:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:266:4",
+  "en": "Goddess Breastplate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:266:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:267:4",
+  "en": "Kuroito Odoshi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:267:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:268:4",
+  "en": "Sword Saint's Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:268:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:269:4",
+  "en": "Chain Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:269:5",
+  "en": "?Chain",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:270:4",
+  "en": "Scale Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:270:5",
+  "en": "?Chain",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:271:4",
+  "en": "Elven Chain",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:271:5",
+  "en": "?Chain",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:272:4",
+  "en": "Lamellar Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:272:5",
+  "en": "?Chain",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:273:4",
+  "en": "Elven Chain +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:273:5",
+  "en": "?Chain",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:274:4",
+  "en": "Flame Chain Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:274:5",
+  "en": "?Chain",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:275:4",
+  "en": "Ice Chain Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:275:5",
+  "en": "?Chain",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:276:4",
+  "en": "Cursed Chain Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:276:5",
+  "en": "?Chain",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:277:4",
+  "en": "Holy Chain Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:277:5",
+  "en": "?Chain",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:278:4",
+  "en": "Frostfire Chain Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:278:5",
+  "en": "?Chain",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:279:4",
+  "en": "Dolk Paccano",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:279:5",
+  "en": "?Chain",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:280:4",
+  "en": "Leather Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:280:5",
+  "en": "?Leather",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:281:4",
+  "en": "Hard Leather Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:281:5",
+  "en": "?Leather",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:282:4",
+  "en": "Rotten Leather Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:282:5",
+  "en": "?Leather",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:283:4",
+  "en": "Koinunu",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:283:5",
+  "en": "?Leather",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:284:4",
+  "en": "Jewel Leather",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:284:5",
+  "en": "?Leather",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:285:4",
+  "en": "Dragon Leather",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:285:5",
+  "en": "?Leather",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:286:4",
+  "en": "Luci Koinunu",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:286:5",
+  "en": "?Leather",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:287:4",
+  "en": "Discipline",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:287:5",
+  "en": "?Leather",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:288:4",
+  "en": "Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:288:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:289:4",
+  "en": "Fairy Clothes",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:289:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:290:4",
+  "en": "Ninja Garb",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:290:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:291:4",
+  "en": "Holey Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:291:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:292:4",
+  "en": "Green Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:292:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:293:4",
+  "en": "Pearl Jamas",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:293:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:294:4",
+  "en": "Robe Gladi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:294:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:295:4",
+  "en": "Blue Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:295:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:296:4",
+  "en": "Morning Glory Garb",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:296:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:297:4",
+  "en": "Chihaya Benizakura",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:297:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:298:4",
+  "en": "Crested Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:298:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:299:4",
+  "en": "Breeze Clothes",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:299:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:300:4",
+  "en": "Scarlet Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:300:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:301:4",
+  "en": "Thunder Guard",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:301:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:302:4",
+  "en": "Moon Feather Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:302:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:303:4",
+  "en": "Bridal Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:303:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:304:4",
+  "en": "Coloratura",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:304:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:305:4",
+  "en": "Pontiff's Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:305:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:306:4",
+  "en": "Leather Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:306:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:307:4",
+  "en": "Fairy Gloves",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:307:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:308:4",
+  "en": "Tekko",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:308:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:309:4",
+  "en": "Iron Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:309:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:310:4",
+  "en": "Shredded Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:310:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:311:4",
+  "en": "Magic Gloves",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:311:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:312:4",
+  "en": "Rose Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:312:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:313:4",
+  "en": "Evil Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:313:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:314:4",
+  "en": "Steel Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:314:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:315:4",
+  "en": "Lace Gloves",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:315:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:316:4",
+  "en": "Mantis Gloves",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:316:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:317:4",
+  "en": "Reaper's Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:317:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:318:4",
+  "en": "Mithril Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:318:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:319:4",
+  "en": "Holy Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:319:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:320:4",
+  "en": "Buskins",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:320:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:321:4",
+  "en": "Straw Sandals",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:321:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:322:4",
+  "en": "Boots",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:322:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:323:4",
+  "en": "Forest Walkers",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:323:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:324:4",
+  "en": "Iron Boots",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:324:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:325:4",
+  "en": "Red Shoes",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:325:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:326:4",
+  "en": "Steel Boots",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:326:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:327:4",
+  "en": "Dwarven Shoes",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:327:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:328:4",
+  "en": "Evil Boots",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:328:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:329:4",
+  "en": "Fire Boots",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:329:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:330:4",
+  "en": "Silver Shoes",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:330:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:331:4",
+  "en": "Angel's Sandals",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:331:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:332:4",
+  "en": "Platinum Slippers",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:332:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:333:4",
+  "en": "Boots of Darkness",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:333:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:334:4",
+  "en": "Glass Slippers",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:334:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:335:4",
+  "en": "Holy Boots",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:335:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:336:4",
+  "en": "Traveler's Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:336:5",
+  "en": "?Cloak",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:337:4",
+  "en": "Fallen Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:337:5",
+  "en": "?Cloak",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:338:4",
+  "en": "Innocent Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:338:5",
+  "en": "?Cloak",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:339:4",
+  "en": "New Moon Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:339:5",
+  "en": "?Cloak",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:340:4",
+  "en": "Master Apron",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:340:5",
+  "en": "?Cloak",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:341:4",
+  "en": "Midsummer Garb",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:341:5",
+  "en": "?Cloak",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:342:4",
+  "en": "Wild Dillon",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:342:5",
+  "en": "?Cloak",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:343:4",
+  "en": "Griffin Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:343:5",
+  "en": "?Cloak",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:344:4",
+  "en": "Black Dream Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:344:5",
+  "en": "?Cloak",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:345:4",
+  "en": "Mirage Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:345:5",
+  "en": "?Cloak",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:346:4",
+  "en": "Fundoshi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:346:5",
+  "en": "?Belt",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:347:4",
+  "en": "Fundoshi-1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:347:5",
+  "en": "?Belt",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:348:4",
+  "en": "Blue Rain",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:348:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:349:4",
+  "en": "Bat Belt",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:349:5",
+  "en": "?Belt",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:350:4",
+  "en": "Foxtail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:350:5",
+  "en": "?Belt",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:351:4",
+  "en": "Warrior's Black Belt",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:351:5",
+  "en": "?Belt",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:352:4",
+  "en": "Bone Belt",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:352:5",
+  "en": "?Belt",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:353:4",
+  "en": "Buster Champ",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:353:5",
+  "en": "?Belt",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:354:4",
+  "en": "Tiger Loincloth",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:354:5",
+  "en": "?Belt",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:355:4",
+  "en": "Talisman",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:355:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:356:4",
+  "en": "Exorcism Talisman",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:356:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:357:4",
+  "en": "Pure Talisman",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:357:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:358:4",
+  "en": "Fire Magic Seal",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:358:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:359:4",
+  "en": "Fire Magic Seal +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:359:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:360:4",
+  "en": "Fire Magic Seal +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:360:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:361:4",
+  "en": "Fire Magic Seal +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:361:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:362:4",
+  "en": "Ice Magic Seal",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:362:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:363:4",
+  "en": "Ice Magic Seal +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:363:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:364:4",
+  "en": "Ice Magic Seal +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:364:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:365:4",
+  "en": "Ice Magic Seal +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:365:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:366:4",
+  "en": "Bolt Magic Seal",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:366:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:367:4",
+  "en": "Bolt Magic Seal +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:367:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:368:4",
+  "en": "Bolt Magic Seal +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:368:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:369:4",
+  "en": "Bolt Magic Seal +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:369:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:370:4",
+  "en": "Light Magic Seal",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:370:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:371:4",
+  "en": "Light Magic Seal +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:371:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:372:4",
+  "en": "Light Magic Seal +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:372:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:373:4",
+  "en": "Light Magic Seal +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:373:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:374:4",
+  "en": "Dark Magic Seal",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:374:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:375:4",
+  "en": "Dark Magic Seal +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:375:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:376:4",
+  "en": "Dark Magic Seal +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:376:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:377:4",
+  "en": "Dark Magic Seal +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:377:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:378:4",
+  "en": "Silence Anklet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:378:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:379:4",
+  "en": "Sleep Anklet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:379:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:380:4",
+  "en": "Confusion Anklet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:380:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:381:4",
+  "en": "Charm Anklet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:381:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:382:4",
+  "en": "Beheading Anklet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:382:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:383:4",
+  "en": "Mageslayer Anklet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:383:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:384:4",
+  "en": "Water Quartz",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:384:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:385:4",
+  "en": "Fringe Choker",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:385:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:386:4",
+  "en": "Lucky Charm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:386:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:387:4",
+  "en": "Lucky Charm +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:387:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:388:4",
+  "en": "Amulet of Life",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:388:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:389:4",
+  "en": "Pacifier",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:389:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:390:4",
+  "en": "Geo Rune",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:390:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:391:4",
+  "en": "Wooden Pillbox",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:391:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:392:4",
+  "en": "Inro",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:392:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:393:4",
+  "en": "Reverse Scale",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:393:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:394:4",
+  "en": "Vorpal Misanga",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:394:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:395:4",
+  "en": "Pearl Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:395:5",
+  "en": "?Ring",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:396:4",
+  "en": "Bone Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:396:5",
+  "en": "?Ring",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:397:4",
+  "en": "Sacred Wood Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:397:5",
+  "en": "?Ring",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:398:4",
+  "en": "Diamond Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:398:5",
+  "en": "?Ring",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:399:4",
+  "en": "Rusted Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:399:5",
+  "en": "?Ring",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:400:4",
+  "en": "White Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:400:5",
+  "en": "?Ring",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:401:4",
+  "en": "Fairy Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:401:5",
+  "en": "?Ring",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:402:4",
+  "en": "Cat's Eye Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:402:5",
+  "en": "?Ring",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:403:4",
+  "en": "Ring of Healing",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:403:5",
+  "en": "?Ring",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:404:4",
+  "en": "Ring of Death",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:404:5",
+  "en": "?Ring",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:405:4",
+  "en": "Ring of Fellowship",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:405:5",
+  "en": "?Ring",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:406:4",
+  "en": "Ankh of Strength",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:406:5",
+  "en": "?Ankh",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:407:4",
+  "en": "Ankh of Intellect",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:407:5",
+  "en": "?Ankh",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:408:4",
+  "en": "Ankh of Piety",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:408:5",
+  "en": "?Ankh",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:409:4",
+  "en": "Ankh of Vitality",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:409:5",
+  "en": "?Ankh",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:410:4",
+  "en": "Ankh of Agility",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:410:5",
+  "en": "?Ankh",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:411:4",
+  "en": "Ankh of Luck",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:411:5",
+  "en": "?Ankh",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:412:4",
+  "en": "Salve",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:412:5",
+  "en": "?Potion",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:413:4",
+  "en": "Wake-Up Potion",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:413:5",
+  "en": "?Potion",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:414:4",
+  "en": "Antidote",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:414:5",
+  "en": "?Potion",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:415:4",
+  "en": "Paralysis Cure",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:415:5",
+  "en": "?Potion",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:416:4",
+  "en": "Nightdew Lozenge",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:416:5",
+  "en": "?Potion",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:417:4",
+  "en": "Calming Herb",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:417:5",
+  "en": "?Potion",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:418:4",
+  "en": "First Love Gem",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:418:5",
+  "en": "?Potion",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:419:4",
+  "en": "Stonemelt Water",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:419:5",
+  "en": "?Potion",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:420:4",
+  "en": "Full Heal Potion",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:420:5",
+  "en": "?Potion",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:421:4",
+  "en": "Revival Elixir",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:421:5",
+  "en": "?Potion",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:422:4",
+  "en": "Headache Remedy",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:422:5",
+  "en": "?Potion",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:423:4",
+  "en": "Holy Flute",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:423:5",
+  "en": "?Musical",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:424:4",
+  "en": "Harp of Sleep",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:424:5",
+  "en": "?Musical",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:425:4",
+  "en": "Startle Trumpet",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:425:5",
+  "en": "?Musical",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:426:4",
+  "en": "Kagura Bells",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:426:5",
+  "en": "?Musical",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:427:4",
+  "en": "Enchanting Lute",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:427:5",
+  "en": "?Musical",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:428:4",
+  "en": "Puppet Maracas",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:428:5",
+  "en": "?Musical",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:429:4",
+  "en": "Earthsplit Drum",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:429:5",
+  "en": "?Musical",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:430:4",
+  "en": "Zero Flute",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:430:5",
+  "en": "?Musical",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:431:4",
+  "en": "Healing Tuning Fork",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:431:5",
+  "en": "?Musical",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:432:4",
+  "en": "Divine Bolt Harp",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:432:5",
+  "en": "?Musical",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:433:4",
+  "en": "Magic Sitar",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:433:5",
+  "en": "?Musical",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:434:4",
+  "en": "Dvel Soft Steel",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:434:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:435:4",
+  "en": "Dvel Soft Steel +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:435:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:436:4",
+  "en": "Dvel Soft Steel +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:436:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:437:4",
+  "en": "Frozen Elven Iron",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:437:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:438:4",
+  "en": "Frozen Elven Iron +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:438:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:439:4",
+  "en": "Frozen Elven Iron +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:439:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:440:4",
+  "en": "Vectreim",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:440:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:441:4",
+  "en": "Vectreim +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:441:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:442:4",
+  "en": "Vectreim +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:442:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:443:4",
+  "en": "Mazurite",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:443:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:444:4",
+  "en": "Mazurite +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:444:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:445:4",
+  "en": "Mazurite +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:445:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:446:4",
+  "en": "Tri-Layer Orat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:446:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:447:4",
+  "en": "Tri-Layer Orat +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:447:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:448:4",
+  "en": "Tri-Layer Orat +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:448:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:449:4",
+  "en": "Milstone",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:449:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:450:4",
+  "en": "Milstone +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:450:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:451:4",
+  "en": "Milstone +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:451:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:452:4",
+  "en": "Tent",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:452:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:453:4",
+  "en": "Wooden Coin Bank",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:453:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:454:4",
+  "en": "Iron Coin Bank",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:454:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:455:4",
+  "en": "Piggy Bank",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:455:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:456:4",
+  "en": "Devil's Coin Bank",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:456:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:457:4",
+  "en": "Medal of Power",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:457:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:458:4",
+  "en": "Tea Leaves",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:458:5",
+  "en": "?Potion",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:459:4",
+  "en": "Air Fruit",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:459:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:460:4",
+  "en": "Angel's Window",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:460:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:461:4",
+  "en": "Rock Counter",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:461:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:462:4",
+  "en": "Dove Bell",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:462:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:463:4",
+  "en": "Crow Bell",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:463:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:464:4",
+  "en": "Sheep's Brush",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:464:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:465:4",
+  "en": "Bone Slippers",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:465:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:466:4",
+  "en": "Death Pinwheel",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:466:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:467:4",
+  "en": "Dice of Fate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:467:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:468:4",
+  "en": "Philos. Stone",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:468:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:469:4",
+  "en": "Wand of Records",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:469:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:470:4",
+  "en": "Fiery Soul",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:470:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:471:4",
+  "en": "Nudie Heart",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:471:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:472:4",
+  "en": "Side Deathscythe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:472:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:473:4",
+  "en": "Ring of Otherspace",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:473:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:474:4",
+  "en": "Water of Return",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:474:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:475:4",
+  "en": "Gauze of Eternity",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:475:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:476:4",
+  "en": "Forebear's Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:476:5",
+  "en": "?Cloak",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:477:4",
+  "en": "Ragnas Garb",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:477:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:478:4",
+  "en": "Forebear's Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:478:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:479:4",
+  "en": "Leaf Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:479:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:480:4",
+  "en": "Forebear's Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:480:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:481:4",
+  "en": "Walmy Hat",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:481:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:482:4",
+  "en": "Forebear's Cuirass",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:482:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:483:4",
+  "en": "Shock Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:483:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:484:4",
+  "en": "Forebear's Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:484:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:485:4",
+  "en": "Spiritual Staff",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:485:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:486:4",
+  "en": "Forebear's Sash",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:486:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:487:4",
+  "en": "Bungee Belt",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:487:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:488:4",
+  "en": "Holy Heavy Sash",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:488:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:489:4",
+  "en": "Wave Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:489:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:490:4",
+  "en": "Superstring Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:490:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:491:4",
+  "en": "Adelheid",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:491:5",
+  "en": "?Leather",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:492:4",
+  "en": "Altouche",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:492:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:493:4",
+  "en": "Helix Spear Euphoron",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:493:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:494:4",
+  "en": "Magic Gun Boanilus",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:494:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:495:4",
+  "en": "Everblade Einblau",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:495:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:496:4",
+  "en": "Fried Rice",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:496:5",
+  "en": "?Material",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:497:4",
+  "en": "Strawberry Shortcake",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:497:5",
+  "en": "?Other",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:498:4",
+  "en": "Hand-Rolled Sushi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:498:5",
+  "en": "?Scroll",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:499:4",
+  "en": "White Fox Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:499:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:500:4",
+  "en": "Politan Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:500:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:501:4",
+  "en": "Maid's Pride",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:501:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:502:4",
+  "en": "Turtle Bikini",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:502:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:503:4",
+  "en": "Geimaga",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:503:5",
+  "en": "?Amulet",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:504:4",
+  "en": "Magic Glasses",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:504:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:505:4",
+  "en": "(Reserve)",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:506:4",
+  "en": "(Reserve)",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:507:4",
+  "en": "Lucky Bag",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:507:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:508:4",
+  "en": "(Enemy-only below)",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:509:4",
+  "en": "Antique Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:509:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:510:4",
+  "en": "Paint Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:510:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:511:4",
+  "en": "Water Sprite Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:511:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:512:4",
+  "en": "Freezing Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:512:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:513:4",
+  "en": "Ogre Broadblade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:513:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:514:4",
+  "en": "Evilcalibur",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:514:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:515:4",
+  "en": "Spirit-Calling Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:515:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:516:4",
+  "en": "Dragon Emperor Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:516:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:517:4",
+  "en": "Imperial Sword",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:517:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:518:4",
+  "en": "Dark Saber",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:518:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:519:4",
+  "en": "Scourge",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:519:5",
+  "en": "?Sword",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:520:4",
+  "en": "Dish Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:520:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:521:4",
+  "en": "Joker Knife",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:521:5",
+  "en": "?Dagger",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:522:4",
+  "en": "Kotetsu",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:522:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:523:4",
+  "en": "Yoringen",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:523:5",
+  "en": "?Katana",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:524:4",
+  "en": "Garden Keeper",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:524:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:525:4",
+  "en": "Shadow Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:525:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:526:4",
+  "en": "Holy Sea Trident",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:526:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:527:4",
+  "en": "Demon God's Spear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:527:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:528:4",
+  "en": "Atrorubens",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:528:5",
+  "en": "?Spear",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:529:4",
+  "en": "Black Lightspear",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:529:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:530:4",
+  "en": "Unicorn Horn",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:530:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:531:4",
+  "en": "Bicorn Horn",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:531:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:532:4",
+  "en": "Identita",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:532:5",
+  "en": "?Mace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:533:4",
+  "en": "Fallen Tree",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:533:5",
+  "en": "?Club",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:534:4",
+  "en": "Body-Pounding Pestle",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:534:5",
+  "en": "?Club",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:535:4",
+  "en": "Feireed",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:535:5",
+  "en": "?Club",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:536:4",
+  "en": "Rezefeid",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:536:5",
+  "en": "?Club",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:537:4",
+  "en": "Snowball",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:537:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:538:4",
+  "en": "Icicle Arrow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:538:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:539:4",
+  "en": "Silver Bow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:539:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:540:4",
+  "en": "Finger Shot",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:540:5",
+  "en": "?Weapon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:541:4",
+  "en": "Elsoavice",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:541:5",
+  "en": "?Bow",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:542:4",
+  "en": "Flower King's Leaf",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:542:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:543:4",
+  "en": "Old Tree Vine",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:543:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:544:4",
+  "en": "Thorn Vine",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:544:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:545:4",
+  "en": "Alraune Vine",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:545:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:546:4",
+  "en": "Hell Master +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:546:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:547:4",
+  "en": "Flame Whip",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:547:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:548:4",
+  "en": "Punishment Whip",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:548:5",
+  "en": "?Whip",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:549:4",
+  "en": "Joker Rod",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:549:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:550:4",
+  "en": "Forbidden Paintbrush",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:550:5",
+  "en": "?Staff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:551:4",
+  "en": "Abi Buckler",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:551:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:552:4",
+  "en": "Abi Shield",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:552:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:553:4",
+  "en": "Ooze",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:553:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:554:4",
+  "en": "Ooze +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:554:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:555:4",
+  "en": "Ooze +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:555:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:556:4",
+  "en": "Ooze +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:556:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:557:4",
+  "en": "Mist",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:557:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:558:4",
+  "en": "Poison Moth Dust",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:558:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:559:4",
+  "en": "Reckdas' Evil Fog",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:559:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:560:4",
+  "en": "Sharp Horn",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:560:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:561:4",
+  "en": "Sharp Fang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:561:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:562:4",
+  "en": "Sharp Fang +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:562:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:563:4",
+  "en": "Sharp Fang +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:563:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:564:4",
+  "en": "Sharp Fang +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:564:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:565:4",
+  "en": "Poison Fang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:565:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:566:4",
+  "en": "Poison Fang +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:566:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:567:4",
+  "en": "Paralyzing Fang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:567:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:568:4",
+  "en": "Drain Fang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:568:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:569:4",
+  "en": "Hydra Fang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:569:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:570:4",
+  "en": "Rainbow Fang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:570:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:571:4",
+  "en": "Progenitor Fang",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:571:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:572:4",
+  "en": "Cold Hand",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:572:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:573:4",
+  "en": "Cold Hand +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:573:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:574:4",
+  "en": "Sharp Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:574:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:575:4",
+  "en": "Sharp Claw +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:575:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:576:4",
+  "en": "Demon Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:576:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:577:4",
+  "en": "Demon Claw +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:577:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:578:4",
+  "en": "Demon Claw +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:578:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:579:4",
+  "en": "Wraith Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:579:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:580:4",
+  "en": "Wraith Claw +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:580:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:581:4",
+  "en": "Wraith Claw +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:581:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:582:4",
+  "en": "Dragon Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:582:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:583:4",
+  "en": "Dragon Claw +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:583:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:584:4",
+  "en": "Dragon Claw +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:584:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:585:4",
+  "en": "Dragon Claw +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:585:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:586:4",
+  "en": "Fiend Beast Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:586:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:587:4",
+  "en": "Fiend Beast Claw +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:587:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:588:4",
+  "en": "Fiend Beast Claw +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:588:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:589:4",
+  "en": "Paint Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:589:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:590:4",
+  "en": "Crimson Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:590:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:591:4",
+  "en": "Demon Lord Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:591:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:592:4",
+  "en": "Alabaster Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:592:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:593:4",
+  "en": "Dark Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:593:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:594:4",
+  "en": "Tentacle",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:594:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:595:4",
+  "en": "Tentacle +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:595:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:596:4",
+  "en": "Tentacle +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:596:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:597:4",
+  "en": "Calamity Pistil",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:597:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:598:4",
+  "en": "Spirit Rock",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:598:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:599:4",
+  "en": "Water Shot",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:599:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:600:4",
+  "en": "Drift Ice",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:600:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:601:4",
+  "en": "Fly Knight Shot",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:601:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:602:4",
+  "en": "Strange Rock Shot",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:602:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:603:4",
+  "en": "Milky Way",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:603:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:604:4",
+  "en": "Foul Water Shot",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:604:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:605:4",
+  "en": "Deprus Factor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:605:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:606:4",
+  "en": "Nonsense Codon",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:606:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:607:4",
+  "en": "Mysterious Wave",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:607:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:608:4",
+  "en": "Vibration Wave",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:608:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:609:4",
+  "en": "Vacuum Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:609:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:610:4",
+  "en": "Sonic Boom",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:610:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:611:4",
+  "en": "Psi Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:611:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:612:4",
+  "en": "Psi Blade +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:612:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:613:4",
+  "en": "Caesarean Burst",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:613:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:614:4",
+  "en": "Blue Strike",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:614:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:615:4",
+  "en": "Fist",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:615:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:616:4",
+  "en": "Fist +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:616:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:617:4",
+  "en": "Fist +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:617:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:618:4",
+  "en": "Fist +3",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:618:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:619:4",
+  "en": "Great Wheel",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:619:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:620:4",
+  "en": "Great Wheel +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:620:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:621:4",
+  "en": "Mantis Blade",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:621:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:622:4",
+  "en": "Demon-Rend Pincers",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:622:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:623:4",
+  "en": "Bone Scythe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:623:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:624:4",
+  "en": "Samael's Scythe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:624:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:625:4",
+  "en": "Iron Hoe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:625:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:626:4",
+  "en": "Poison Tail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:626:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:627:4",
+  "en": "Lamia Tail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:627:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:628:4",
+  "en": "Flame Arm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:628:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:629:4",
+  "en": "Flame Arm +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:629:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:630:4",
+  "en": "Beak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:630:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:631:4",
+  "en": "Shining Finger",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:631:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:632:4",
+  "en": "Silken Fingers",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:632:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:633:4",
+  "en": "Sultry Sigh",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:633:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:634:4",
+  "en": "Wicked French Kiss",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:634:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:635:4",
+  "en": "Demon Halo",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:635:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:636:4",
+  "en": "Gravity Ring",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:636:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:637:4",
+  "en": "Swallow Whole",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:637:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:638:4",
+  "en": "Swallow Whole +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:638:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:639:4",
+  "en": "Swallow Whole +2",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:639:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:640:4",
+  "en": "Paralytic Thread",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:640:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:641:4",
+  "en": "Brutal Hoof",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:641:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:642:4",
+  "en": "Shining Wizard",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:642:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:643:4",
+  "en": "Dropkick",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:643:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:644:4",
+  "en": "Three-Year Death",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:644:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:645:4",
+  "en": "Stomp",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:645:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:646:4",
+  "en": "O.P.I.",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:646:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:647:4",
+  "en": "Clamshell Pinch",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:647:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:648:4",
+  "en": "Phantom Prow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:648:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:649:4",
+  "en": "Fish Buster",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:649:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:650:4",
+  "en": "Spike Heel",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:650:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:651:4",
+  "en": "Takasago Fan",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:651:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:652:4",
+  "en": "Armrest",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:652:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:653:4",
+  "en": "Tengu Fan",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:653:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:654:4",
+  "en": "Brass Lightning",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:654:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:655:4",
+  "en": "Black Lightning",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:655:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:656:4",
+  "en": "Beast-Hide Gloves",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:656:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:657:4",
+  "en": "Five-Inch Nail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:657:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:658:4",
+  "en": "Atonewolo's Hot Jug",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:658:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:659:4",
+  "en": "Bronze Claw",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:659:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:660:4",
+  "en": "Bronze Kick",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:660:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:661:4",
+  "en": "Air Distortion",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:661:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:662:4",
+  "en": "Crystal Ray",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:662:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:663:4",
+  "en": "Hivanask",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:663:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:664:4",
+  "en": "Oh, Who Is It?",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:664:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:665:4",
+  "en": "Come Again!",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:665:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:666:4",
+  "en": "Aura Steeda",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:666:5",
+  "en": "?Mystic",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:667:4",
+  "en": "Rationalist Planner",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:667:5",
+  "en": "?Book",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:668:4",
+  "en": "Santorea Handbook",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:668:5",
+  "en": "?Book",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:669:4",
+  "en": "Alchemy Flask Beta",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:669:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:670:4",
+  "en": "Tuna Edict",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:670:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:671:4",
+  "en": "Taizary Helm",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:671:5",
+  "en": "?Helm",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:672:4",
+  "en": "Rose Headband",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:672:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:673:4",
+  "en": "Hitai-Eboshi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:673:5",
+  "en": "?Hat",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:674:4",
+  "en": "Alchemy Flask Alpha",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:674:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:675:4",
+  "en": "Paint Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:675:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:676:4",
+  "en": "Imperial Garb",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:676:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:677:4",
+  "en": "Raver Plate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:677:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:678:4",
+  "en": "Progenitor Vestment",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:678:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:679:4",
+  "en": "Fiend King Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:679:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:680:4",
+  "en": "Cheap Iron",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:680:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:681:4",
+  "en": "Obsidian Armor",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:681:5",
+  "en": "?Armor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:682:4",
+  "en": "Lich's Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:682:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:683:4",
+  "en": "Cocktail Dress",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:683:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:684:4",
+  "en": "Spirit Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:684:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:685:4",
+  "en": "Loser's Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:685:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:686:4",
+  "en": "Midnight Silk",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:686:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:687:4",
+  "en": "White Night Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:687:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:688:4",
+  "en": "Serpent Deity Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:688:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:689:4",
+  "en": "Celestia Belly",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:689:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:690:4",
+  "en": "Clown Garb",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:690:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:691:4",
+  "en": "Clown Garb +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:691:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:692:4",
+  "en": "Big Daddy",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:692:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:693:4",
+  "en": "Netherlord's Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:693:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:694:4",
+  "en": "Under-Kimono",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:694:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:695:4",
+  "en": "Twelve-Layer Robe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:695:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:696:4",
+  "en": "Destruction Leotard",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:696:5",
+  "en": "?Robe",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:697:4",
+  "en": "Honey Mail",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:697:5",
+  "en": "?Chain",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:698:4",
+  "en": "Pointy Corset",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:698:5",
+  "en": "?Chain",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:699:4",
+  "en": "Evil Breastplate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:699:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:700:4",
+  "en": "Shell Breastplate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:700:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:701:4",
+  "en": "Shell Breastplate +1",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:701:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:702:4",
+  "en": "Oath Breastplate",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:702:5",
+  "en": "?Plate",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:703:4",
+  "en": "Ruby Gauntlets",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:703:5",
+  "en": "?Gauntlets",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:704:4",
+  "en": "Ivory Legs",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:704:5",
+  "en": "?Boots",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:705:4",
+  "en": "Rime Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:705:5",
+  "en": "?Cloak",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:706:4",
+  "en": "Wings of Destruction",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:706:5",
+  "en": "?Cloak",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:707:4",
+  "en": "Sapphire Cloak",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:707:5",
+  "en": "?Cloak",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:708:4",
+  "en": "War Banner: Blitz",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:708:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:709:4",
+  "en": "War Banner: Wasabi",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:709:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:710:4",
+  "en": "Fake Beard",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:710:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:711:4",
+  "en": "Tin Bucket",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:711:5",
+  "en": "?Junk",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:712:4",
+  "en": "Greater Pekoe",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:712:5",
+  "en": "?Potion",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:713:4",
+  "en": "Old Land-King Prayer",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:713:5",
+  "en": "?Scroll",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:714:4",
+  "en": "(Reserve)",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:715:4",
+  "en": "(Reserve)",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:716:4",
+  "en": "(Reserve)",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:717:4",
+  "en": "(Reserve)",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "ITEM.CSV:718:4",
+  "en": "(Reserve)",
+  "max": 20,
+  "used": true
+ }
+]

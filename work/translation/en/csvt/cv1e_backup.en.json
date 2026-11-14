@@ -1,0 +1,1857 @@
+[
+ {
+  "en": "Title",
+  "kind": "name"
+ },
+ {
+  "en": "Gathered Fates",
+  "kind": "name"
+ },
+ {
+  "en": "Memories Handed Down",
+  "kind": "name"
+ },
+ {
+  "en": "The Bustling Town",
+  "kind": "name"
+ },
+ {
+  "en": "Spirit Observation",
+  "kind": "name",
+  "note": "Night town theme; literal."
+ },
+ {
+  "en": "Exotic Hello Paparapo",
+  "kind": "name",
+  "note": "Literal 'Foreign Greeting Paparapo' (25) over limit; 'Exotic Hello' keeps both ideas. Paparapo romanized from the coined word."
+ },
+ {
+  "en": "The Distant Continent",
+  "kind": "name"
+ },
+ {
+  "en": "To Friends Back Safe!",
+  "kind": "name",
+  "note": "Tavern theme; a toast ('Cheers to our friends' safe return!') compressed to fit 22."
+ },
+ {
+  "en": "Blissful Slumber",
+  "kind": "name"
+ },
+ {
+  "en": "Shining Flamberge",
+  "kind": "name",
+  "note": "Flamberge per glossary."
+ },
+ {
+  "en": "O God, Save Us",
+  "kind": "name",
+  "note": "Object restored (the singer asks salvation for us)."
+ },
+ {
+  "en": "Royal Blood",
+  "kind": "name"
+ },
+ {
+  "en": "Signed with Resolve",
+  "kind": "name",
+  "note": "Training Hall theme: [JP] = a stroke of the pen made with resolve (signing up)."
+ },
+ {
+  "en": "Creeping Dread",
+  "kind": "name"
+ },
+ {
+  "en": "Blue Sky March",
+  "kind": "name"
+ },
+ {
+  "en": "Inviolate Sanctuary",
+  "kind": "name"
+ },
+ {
+  "en": "The Twilight Garden",
+  "kind": "name",
+  "note": "[JP] = setting sun and decline (ctx: faded glory); 'Twilight' carries both."
+ },
+ {
+  "en": "Aramitama",
+  "kind": "name",
+  "note": "Shinto term (rough/wild spirit) for the Japanese-style track; romanized rather than translated."
+ },
+ {
+  "en": "Let's Play Together...",
+  "kind": "name",
+  "note": "Haunted house theme; exactly 22 bytes."
+ },
+ {
+  "en": "Into Despair's Domain",
+  "kind": "name"
+ },
+ {
+  "en": "Discord of Lights",
+  "kind": "name"
+ },
+ {
+  "en": "Begone, Faint of Heart",
+  "kind": "name",
+  "note": "[JP]: 'those without courage, scatter/fall'. Read as an order to cowards to get out; exactly 22 bytes."
+ },
+ {
+  "en": "Amid Madness and Death",
+  "kind": "name",
+  "note": "Literal 'I am between madness and death' (25+) over limit; exactly 22 bytes."
+ },
+ {
+  "en": "Floor Master",
+  "kind": "name",
+  "note": "Glossary term."
+ },
+ {
+  "en": "Beyond the Nether Dark",
+  "kind": "name",
+  "note": "[JP] rendered 'Nether' as in glossary [JP] = Nether King. Exactly 22 bytes."
+ },
+ {
+  "en": "Shade Demon Lord Waltz",
+  "kind": "name",
+  "note": "[JP] (baleful shadow) + [JP] (demon lord) + [JP] (waltz). Plays for the Demon Dukes ([JP]); singular/plural not settled by the title. Exactly 22 bytes."
+ },
+ {
+  "en": "Sovereign of All Life",
+  "kind": "name",
+  "note": "Literal 'One who reigns over all life'."
+ },
+ {
+  "en": "Why You! You'll Paaay!",
+  "kind": "name",
+  "note": "[JP] = 'Why you! I won't forgive youuu!'; drawn-out vowel kept as 'Paaay'. Exactly 22 bytes."
+ },
+ {
+  "en": "Downcast Eyes",
+  "kind": "name",
+  "note": "[JP] = dejection."
+ },
+ {
+  "en": "A Suspicious Figure",
+  "kind": "name"
+ },
+ {
+  "en": "A Sunlit Smile",
+  "kind": "name"
+ },
+ {
+  "en": "Dumbass Dance",
+  "kind": "name",
+  "note": "[JP] is a strong 'damn idiot'; not softened."
+ },
+ {
+  "en": "Chests Tell No Tales",
+  "kind": "name"
+ },
+ {
+  "en": "Where All Hearts Sleep",
+  "kind": "name",
+  "note": "Literal 'The room where all feelings sleep' (28+); 'room' dropped to fit."
+ },
+ {
+  "en": "Hum Fighter",
+  "kind": "name",
+  "note": "Debug roster. Pattern 'Race Class'; race cut to 3 letters only where the full form does not fit. Class names follow the UI (ebt slice_16/17). [JP] = Human."
+ },
+ {
+  "en": "Fighter",
+  "kind": "name"
+ },
+ {
+  "en": "Elf Mage",
+  "kind": "name"
+ },
+ {
+  "en": "Mage",
+  "kind": "name"
+ },
+ {
+  "en": "Gnm Priest",
+  "kind": "name",
+  "note": "'Gnome Priest' (12) over limit 10."
+ },
+ {
+  "en": "Priest",
+  "kind": "name"
+ },
+ {
+  "en": "Hobbit Thief",
+  "kind": "name"
+ },
+ {
+  "en": "Thief",
+  "kind": "name"
+ },
+ {
+  "en": "Gnm Alchemist",
+  "kind": "name",
+  "note": "'Gnome Alchemist' (15) over limit 14."
+ },
+ {
+  "en": "Alchemist",
+  "kind": "name"
+ },
+ {
+  "en": "Fairy Servant",
+  "kind": "name",
+  "note": "[JP] = Servant per UI (ebt slice_16)."
+ },
+ {
+  "en": "Maid",
+  "kind": "name"
+ },
+ {
+  "en": "Devilish Bishop",
+  "kind": "name"
+ },
+ {
+  "en": "Bishop",
+  "kind": "name"
+ },
+ {
+  "en": "Elf Ranger",
+  "kind": "name",
+  "note": "[JP] = Ranger per UI (ebt slice_16); glossary has draft 'Hunter' and dialogue uses 'Hunters' -- conflict to resolve."
+ },
+ {
+  "en": "Ranger",
+  "kind": "name"
+ },
+ {
+  "en": "Wrb Gladiator",
+  "kind": "name",
+  "note": "'Werebeast Gladiator' (19) over limit 16."
+ },
+ {
+  "en": "Gladiator",
+  "kind": "name",
+  "note": "[JP] (truncated katakana of 'gladiator')."
+ },
+ {
+  "en": "Hobbit Bard",
+  "kind": "name",
+  "note": "[JP] = Bard per UI (ebt slice_16)."
+ },
+ {
+  "en": "Roma",
+  "kind": "name",
+  "note": "[JP] = Roma (Romani), the nickname paired with the Bard class; kept literal."
+ },
+ {
+  "en": "HumKannagi",
+  "kind": "name",
+  "note": "'Hum Kannagi' (11) over limit 10; space dropped."
+ },
+ {
+  "en": "Kannagi",
+  "kind": "name",
+  "note": "Matches UI [JP] = Kannagi."
+ },
+ {
+  "en": "Devilish Summoner",
+  "kind": "name"
+ },
+ {
+  "en": "Summoner",
+  "kind": "name"
+ },
+ {
+  "en": "Elf Valkyrie",
+  "kind": "name",
+  "note": "[JP] = Valkyrie per UI (ebt slice_17)."
+ },
+ {
+  "en": "Valkyrie",
+  "kind": "name"
+ },
+ {
+  "en": "Dragonewt Lord",
+  "kind": "name"
+ },
+ {
+  "en": "Lord",
+  "kind": "name"
+ },
+ {
+  "en": "DwfSamurai",
+  "kind": "name",
+  "note": "'Dwarf Samurai' (13) over limit 10."
+ },
+ {
+  "en": "Samurai",
+  "kind": "name"
+ },
+ {
+  "en": "Hobbit Ninja",
+  "kind": "name"
+ },
+ {
+  "en": "Ninja",
+  "kind": "name"
+ },
+ {
+  "en": "Joker Land",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Seirion-Daera",
+  "kind": "name",
+  "note": "Not in glossary; romanized from [JP]. chap slice_013 has Menolist say 'Serion-Daera' (source there spells [JP], possibly a typo or his mistake) -- align or keep as deliberate."
+ },
+ {
+  "en": "Test",
+  "kind": "name"
+ },
+ {
+  "en": "1F",
+  "kind": "name"
+ },
+ {
+  "en": "B1F",
+  "kind": "name"
+ },
+ {
+  "en": "B2F",
+  "kind": "name"
+ },
+ {
+  "en": "South 1F",
+  "kind": "name",
+  "note": "Blue Cave south side."
+ },
+ {
+  "en": "South B1F",
+  "kind": "name"
+ },
+ {
+  "en": "North 1F",
+  "kind": "name"
+ },
+ {
+  "en": "North B1F",
+  "kind": "name"
+ },
+ {
+  "en": "2F",
+  "kind": "name"
+ },
+ {
+  "en": "3F",
+  "kind": "name"
+ },
+ {
+  "en": "Northwest",
+  "kind": "name"
+ },
+ {
+  "en": "Northeast",
+  "kind": "name"
+ },
+ {
+  "en": "Southwest",
+  "kind": "name"
+ },
+ {
+  "en": "Southeast",
+  "kind": "name"
+ },
+ {
+  "en": "Fun & Games",
+  "kind": "name",
+  "note": "Joker Land secret area reached by the staff's teleporter trap ('a fun, fuuun little treat', chap slice_011 row 894); idiom keeps the ironic 'treat'."
+ },
+ {
+  "en": "Entrance",
+  "kind": "name"
+ },
+ {
+  "en": "Center",
+  "kind": "name"
+ },
+ {
+  "en": "Deep Dunes",
+  "kind": "name",
+  "note": "oku-chi = the remote interior of the dunes."
+ },
+ {
+  "en": "Sword Bldg",
+  "kind": "name",
+  "note": "Santorea Academy wing; 'Bldg' abbreviation to fit 12 (cf. Faculty Building, chap slice_014 row 1151)."
+ },
+ {
+  "en": "Central Bldg",
+  "kind": "name"
+ },
+ {
+  "en": "Magic Bldg",
+  "kind": "name",
+  "note": "Matches the academy's 'Magic Department' (chap slice_013)."
+ },
+ {
+  "en": "Faculty Bldg",
+  "kind": "name",
+  "note": "Dialogue has 'Santorea Academy Faculty Building' (chap slice_014 row 1151); abbreviated to fit 12."
+ },
+ {
+  "en": "W. Tower 1F",
+  "kind": "name"
+ },
+ {
+  "en": "W. Tower 2F",
+  "kind": "name"
+ },
+ {
+  "en": "E. Tower 1F",
+  "kind": "name"
+ },
+ {
+  "en": "E. Tower 2F",
+  "kind": "name",
+  "note": "'West/East Tower 1F' (13) does not fit 12."
+ },
+ {
+  "en": "Meiroin",
+  "kind": "name",
+  "note": "Corpus conflict: chap slice_016 row 1298 'Meirou Prison' (13, does not fit) vs chap slice_019 row 1534 'Meiroin'. Used the romanized 'Meiroin'; one form should be normalised."
+ },
+ {
+  "en": "Castle Halls",
+  "kind": "name",
+  "note": "shiro-uchi = inside the castle; 'Castle Grounds'/'Castle Interior' do not fit 12. Alternative: 'Castle'."
+ },
+ {
+  "en": "Inner Bailey",
+  "kind": "name",
+  "note": "honmaru = the main/inner bailey of a Japanese castle."
+ },
+ {
+  "en": "Castle Keep",
+  "kind": "name",
+  "note": "tenshu = the castle keep (tower)."
+ },
+ {
+  "en": "Lower Level",
+  "kind": "name"
+ },
+ {
+  "en": "Middle Level",
+  "kind": "name"
+ },
+ {
+  "en": "Upper Level",
+  "kind": "name",
+  "note": "'upper level' as in chap slice_020 row 1648."
+ },
+ {
+  "en": "South Peak",
+  "kind": "name"
+ },
+ {
+  "en": "Mid-Slope",
+  "kind": "name",
+  "note": "chuufuku = halfway up the mountain."
+ },
+ {
+  "en": "East Peak",
+  "kind": "name"
+ },
+ {
+  "en": "Crater",
+  "kind": "name"
+ },
+ {
+  "en": "Horizon Arc",
+  "kind": "name",
+  "note": "kan-suihei arc = circumhorizontal arc; full term (20) does not fit 12. Short form parallel to 'Zenith Arc'."
+ },
+ {
+  "en": "Left Sundog",
+  "kind": "name",
+  "note": "gen-jitsu = sundog (parhelion), left of the true sun."
+ },
+ {
+  "en": "True Sun Rm.",
+  "kind": "name",
+  "note": "Glossary 'Chamber of the True Sun' (23) does not fit 12; abbreviated. Alternative: 'True Sun'."
+ },
+ {
+  "en": "Right Sundog",
+  "kind": "name"
+ },
+ {
+  "en": "Zenith Arc",
+  "kind": "name",
+  "note": "Dialogue uses 'Circumzenithal Arc' (chap slice_017 rows 1362, 1419; 18 bytes, does not fit 12); shortened."
+ },
+ {
+  "en": "Nertowayu",
+  "kind": "name",
+  "note": "New name; fairy village floor. Kept distinct from Nertowa (glossary), which is a Castle of the Wind floor (row 129)."
+ },
+ {
+  "en": "Fizion",
+  "kind": "name",
+  "note": "New name (romanized)."
+ },
+ {
+  "en": "Delita",
+  "kind": "name",
+  "note": "New name (romanized)."
+ },
+ {
+  "en": "Nertowa",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Ratopos",
+  "kind": "name",
+  "note": "New name (romanized)."
+ },
+ {
+  "en": "Shiosel",
+  "kind": "name",
+  "note": "New name (romanized)."
+ },
+ {
+  "en": "Zenteres",
+  "kind": "name",
+  "note": "New name (romanized)."
+ },
+ {
+  "en": "Arikes",
+  "kind": "name",
+  "note": "New name (romanized)."
+ },
+ {
+  "en": "South",
+  "kind": "name"
+ },
+ {
+  "en": "West",
+  "kind": "name"
+ },
+ {
+  "en": "East",
+  "kind": "name"
+ },
+ {
+  "en": "North",
+  "kind": "name"
+ },
+ {
+  "en": "test",
+  "kind": "name",
+  "note": "Debug floor written in hiragana; lowercase to set it apart from the dungeon name 'Test'."
+ },
+ {
+  "en": "Seirion-Daera",
+  "kind": "key?",
+  "note": "key?: this spelling (se-ri-on) is translated 'Serion-Daera' in chap slice_013 row 1023. DGN_NAME has the variant se-i-ri-on (slice_01 row 82); if the key must match DGN_NAME, both need the same English. | Accuracy: glossary fixes both source spellings (se-ri-on / se-i-ri-on) as 'Seirion-Daera'; key must match DGN_NAME row 82."
+ },
+ {
+  "en": "(Test)",
+  "kind": "key?",
+  "note": "key? debug label."
+ },
+ {
+  "en": "Dark Fuhrer",
+  "kind": "name",
+  "note": "As chap slice_018 row 1444."
+ },
+ {
+  "en": "Altar of Light",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Magic Airship Meatrif",
+  "kind": "name",
+  "note": "Glossary: magic airship (source typo kanji also = magic airship) + Meatrif. Capitalised as a title."
+ },
+ {
+  "en": "Ogrebarm, Fire!",
+  "kind": "name",
+  "note": "Gallery title (ogre cannon scene). The cannon's name is not translated anywhere in the corpus; romanized from Ogre (as in Ogre Bay) + 'barm'. Flag: may be a pun not caught."
+ },
+ {
+  "en": "The Sky Seen in Folly",
+  "kind": "name",
+  "note": "'The sky looked up at amid recklessness' (scene inside the ogre cannon); 'Recklessness' does not fit 22."
+ },
+ {
+  "en": "Beneath the Yugdrias",
+  "kind": "name",
+  "note": "Yugdrias = new name (monster tree, MON_TEXT 50). 'Under the Yugdrias Tree' (23) does not fit 22."
+ },
+ {
+  "en": "Wind of Legend, Again",
+  "kind": "name",
+  "note": "Agintaitus takes flight."
+ },
+ {
+  "en": "Blaze Up, Moe Courage",
+  "kind": "name",
+  "note": "Pun: moe-agare (blaze up) written with the moe kanji. Kept both senses. Scene: Lumisthenes attack."
+ },
+ {
+  "en": "Wall-Sprouting Tarrit",
+  "kind": "name",
+  "note": "Tarrit stuck in the crack. Designer's old name was 'Butt'."
+ },
+ {
+  "en": "Kin of Night",
+  "kind": "name",
+  "note": "As 'kin of night' in chap slice_021 row 1733."
+ },
+ {
+  "en": "Eclipsed Sun Spirit",
+  "kind": "name",
+  "note": "mushibamareshi = eaten away; the kanji also means eclipse, so 'Eclipsed' keeps both."
+ },
+ {
+  "en": "All-Knowing Light Rank",
+  "kind": "name",
+  "note": "Light Rank (chap slice_017) of the Light of All Knowledge (chap slice_020)."
+ },
+ {
+  "en": "Guardian of the World",
+  "kind": "name"
+ },
+ {
+  "en": "Radiant Heaven's Blade",
+  "kind": "name",
+  "note": "kouten no ken (Hilde). 'Sword of Radiant Heaven' (23) does not fit. Note for the monster title kouten no kimi (MONSTER3): 'Radiant Heaven' would match."
+ },
+ {
+  "en": "Find the Light Ruins",
+  "kind": "name",
+  "note": "Quest title. iko (remains), not the Lightstair Ruins of the glossary."
+ },
+ {
+  "en": "Gathering of Rulers",
+  "kind": "name",
+  "note": "Accuracy: the rulers gathered include Empress Rianna, so gender-neutral 'Rulers' (same as c7 row 301)."
+ },
+ {
+  "en": "Green Plakio",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Save Perpeco Village",
+  "kind": "name",
+  "note": "Glossary Perpeco Village."
+ },
+ {
+  "en": "Chatty Sapling",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "I Love Farming!",
+  "kind": "name"
+ },
+ {
+  "en": "Attack on Lumisthenes",
+  "kind": "name"
+ },
+ {
+  "en": "Sun Prison Shrine",
+  "kind": "name",
+  "note": "Corpus conflict: the [Key Item] line (chap slice_016) has 'Sun Prison Shrine'; chap slice_019 row 1534 has 'Sun Cage Reliquary'. Followed the key-item line; normalise with ITEM_PRIZ."
+ },
+ {
+  "en": "Retake the Sun Palace",
+  "kind": "name",
+  "note": "'Retake the Palace of the Sun' (28) does not fit 22; glossary name shortened to 'Sun Palace'."
+ },
+ {
+  "en": "Hail Great Adventurers",
+  "kind": "name",
+  "note": "Imperative 'praise the great adventurers'; 'Hail, Great Adventurers' (23) is 1 over, so no comma."
+ },
+ {
+  "en": "Truth of the Sun",
+  "kind": "name"
+ },
+ {
+  "en": "Land of the Next Age",
+  "kind": "name",
+  "note": "jidai as in glossary 'Book of the Next Age'."
+ },
+ {
+  "en": "Bring a New Light",
+  "kind": "name",
+  "note": "Trailing -wo implies a verb (bring/seek)."
+ },
+ {
+  "en": "Makana Essence",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "A Gift for a Late Wife",
+  "kind": "name",
+  "note": "Zeppo's Crystal Flower request."
+ },
+ {
+  "en": "Toner's Checkup",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Life and Money",
+  "kind": "name",
+  "note": "Hardy the Money-Grubber's graveyard quest."
+ },
+ {
+  "en": "Fena's Thoughts",
+  "kind": "name",
+  "note": "Fena has something on her mind (event text)."
+ },
+ {
+  "en": "How Utterly Exquisite!",
+  "kind": "name",
+  "note": "Echoes the line in wmap slice_10 ('How utterly exquisite it is!', 28 bytes, too long)."
+ },
+ {
+  "en": "Madulay's Request",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "The Midnight Hunter",
+  "kind": "name",
+  "note": "Shimerief on the watchtower every night. Hunter, not the class name Ranger."
+ },
+ {
+  "en": "Forbidden Blue Rain",
+  "kind": "name",
+  "note": "Blue Rain = glossary (blue-striped underwear)."
+ },
+ {
+  "en": "Plan: Hug Decoykins",
+  "kind": "name",
+  "note": "Decoykins = glossary pet name (Milonya's) for Decoy. 'Operation Hug Decoykins' (23) exceeds 22."
+ },
+ {
+  "en": "Don't Call Me Cute!",
+  "kind": "name"
+ },
+ {
+  "en": "Formless Treasure",
+  "kind": "name",
+  "note": "Matches the old man's line 'Knowledge is a treasure without form' (wmap slice_15 rows 1171/1179)."
+ },
+ {
+  "en": "The Emera Program",
+  "kind": "name"
+ },
+ {
+  "en": "An Outcast's Path",
+  "kind": "name",
+  "note": "Lit. 'the way a person in the shadows lives'."
+ },
+ {
+  "en": "Martial Arts Tourney",
+  "kind": "name",
+  "note": "'Martial Arts Tournament' (23) exceeds 22; the corpus uses 'Martial Arts Tournament' only in a designer label (chap slice_021 row 1726)."
+ },
+ {
+  "en": "Magical Party",
+  "kind": "name",
+  "note": "As in chap slice_013 row 1083."
+ },
+ {
+  "en": "What Makes a King",
+  "kind": "name",
+  "note": "Lit. 'one who is a king' (Fairy King Meem's quest)."
+ },
+ {
+  "en": "LooKing foR SomeOne...",
+  "kind": "name",
+  "note": "Source mixes stray katakana into hiragana to show the woman's broken speech (desc: 'a woman of broken speech'); mimicked with odd capitals. Exactly 22 bytes."
+ },
+ {
+  "en": "Strange Box Garden",
+  "kind": "name",
+  "note": "Item name as in chap slice_012 rows 939/1005; 18/18 bytes."
+ },
+ {
+  "en": "Dice of Fate Jackpot",
+  "kind": "name",
+  "note": "Dice of Fate = glossary (ITEM.CSV:467). boromouke = rake in a fortune."
+ },
+ {
+  "en": "Geezers' Wand",
+  "kind": "name",
+  "note": "Glossary item name (ITEM.CSV:158)."
+ },
+ {
+  "en": "A Clouded Heart",
+  "kind": "name"
+ },
+ {
+  "en": "The Aging Songstress",
+  "kind": "name",
+  "note": "Songstress as for Arlotte (wmap slices 17-18)."
+ },
+ {
+  "en": "Yo! Bunch of Softies!",
+  "kind": "name",
+  "note": "Glossary: ohitoyoshi-domo = 'softies' (Zonette's word for the party)."
+ },
+ {
+  "en": "Love's Smuggling Run",
+  "kind": "name",
+  "note": "bin = delivery/shipment; Barjeff's 'confidential parcel' for the Empress."
+ },
+ {
+  "en": "Casino",
+  "kind": "name"
+ },
+ {
+  "en": "Secret Service",
+  "kind": "name",
+  "note": "Special service at the Love Jacuzzi."
+ },
+ {
+  "en": "Put Something On!!",
+  "kind": "name",
+  "note": "haku = put on (lower garments); the quest is about Nora not wearing panties."
+ },
+ {
+  "en": "Tarrit's Close Call!",
+  "kind": "name"
+ },
+ {
+  "en": "Mandelgius's Trial 1",
+  "kind": "name"
+ },
+ {
+  "en": "Mandelgius's Trial 2",
+  "kind": "name"
+ },
+ {
+  "en": "Mandelgius's Trial 3",
+  "kind": "name"
+ },
+ {
+  "en": "Mandelgius's Trial 4",
+  "kind": "name"
+ },
+ {
+  "en": "Can't Get Out~",
+  "kind": "name",
+  "note": "Echoes Tarrit's line 'I can't get out~' (chap slice_002 row 145); she is stuck in a crack."
+ },
+ {
+  "en": "Crumbling Stone Tablet",
+  "kind": "name",
+  "note": "As in chap slice_003 row 207 'crumbling stone tablet'; 22/22 bytes."
+ },
+ {
+  "en": "Old School Ghost Story",
+  "kind": "name",
+  "note": "kyuu-kousha = old school building; kitan = strange tale. 22/22 bytes."
+ },
+ {
+  "en": "Don't Pick on Me",
+  "kind": "name",
+  "note": "As in the Garden Keeper's line 'D-don't pick on me' (chap slice_010 row 841)."
+ },
+ {
+  "en": "Ogre Bay Cleanup Op.",
+  "kind": "name",
+  "note": "Ogre Bay = glossary. sakusen = operation."
+ },
+ {
+  "en": "The Ruler's Amusement",
+  "kind": "name",
+  "note": "ryoushu = lord of a domain; identity unknown (the Molder hint itself asks who it is), so gender-neutral 'Ruler' rather than 'Lord'. yokyou = entertainment/diversion."
+ },
+ {
+  "en": "When you meet King Balgert, he tells you to\nfind the Light Ruins, and hands you a\ncompass.\nAnd so you set out for the Konnu Plains Ruins.",
+  "kind": "desc",
+  "note": "hikari no ikou = 'Light Ruins', matching the event title in slice_02 row 181 ('Find the Light Ruins'); not the glossary Lightstair Ruins (hikari no kaiseki)."
+ },
+ {
+  "en": "Following King Balgert's suggestion,\nyou head for the Temple of Rafa.",
+  "kind": "desc"
+ },
+ {
+  "en": "You have found the Lightstair Ruins, but its\nlight is already gone. To restore it, you\nmust place the Three Phantom Stones\nin the three altars.",
+  "kind": "desc"
+ },
+ {
+  "en": "You have found the Lightstair Ruins, but its\nlight is already gone. To restore it, you\nmust place the Three Phantom Stones\nin the three altars.",
+  "kind": "desc",
+  "note": "Same text as row 243 (source differs only by trailing full-width spaces)."
+ },
+ {
+  "en": "Empress Rianna is building a magic airship to\nfly straight into the Palace of the Sun and\ntake it back from the Kin of Darkness. But\nthe work is proving very hard, and you are\nordered to get the 'Selcoa Paint' needed to\ncoat the hull.",
+  "kind": "desc"
+ },
+ {
+  "en": "To keep the magic airship out of unforeseen\ntrouble, the movements of the heavens must\nbe predicted. You are ordered to report\nthe 'Celestial Readings'.",
+  "kind": "desc"
+ },
+ {
+  "en": "The last material needed to fly the magic\nairship: the 'Wing Soul'. Said to be a\nshining wing that gained a soul, it is also\ncalled the wings of all beings. Empress\nRianna has tried everything but has yet to\nfind it. You are ordered to seek it\nyour own way.",
+  "kind": "desc",
+  "note": "Compressed to fit 260 bytes; all clauses kept."
+ },
+ {
+  "en": "Ogre Bay, led by King Fulgrant, has a bold\nplan: shoot down the Palace of the Sun with\na cannon. But the cannon design drawn by\nthe King's father, 'The Old Man's\nBlueprints', has been lost. You are to find\nit using the compass.",
+  "kind": "desc"
+ },
+ {
+  "en": "You found 'The Old Man's Blueprints', but it\nturns out the 'Cannon Tools' needed to build\nthe cannon were lost too.\nOnce again, you must search, this time for\nthe 'Cannon Tools'.",
+  "kind": "desc"
+ },
+ {
+  "en": "With 'The Old Man's Blueprints' and the\n'Cannon Tools' in hand, only the building is\nleft. But King Fulgrant declares that the\ncannon's debut must be a big festival, with\n'Seasoned Bar Snacks' to nibble on. And so\nyou must search yet again.",
+  "kind": "desc",
+  "note": "No pronoun for Fulgrant (glossary gender unknown)."
+ },
+ {
+  "en": "Perpeco Village in the Perpeco Forest is under\nattack by monsters. You can't just leave it.\nHurry, adventurers!",
+  "kind": "desc"
+ },
+ {
+  "en": "A chatty sapling with plenty of demands about\nwhere it will put down roots. Where could\nthere be a place that satisfies it?",
+  "kind": "desc",
+  "note": "chatty sapling lowercase in running text, per glossary."
+ },
+ {
+  "en": "The sapling says it needs some wonderful\nfertilizer in order to grow.\nWhere could you possibly get some,\nand how?",
+  "kind": "desc"
+ },
+ {
+  "en": "Lumisthenes has been attacked by someone.\nJoin forces with everyone and defend\nthe city!",
+  "kind": "desc"
+ },
+ {
+  "en": "The far, far distant tale of certain fairies,\nheld within the Sun Prison Shrine.\nAnd the one who tells it is...",
+  "kind": "desc",
+  "note": "Youryou no zushi is not in the glossary; corpus has 'Sun Prison Shrine' (chap slice_016 rows 1266-1267, key-item line) and 'Sun Cage Reliquary' (chap slice_019 row 1534). Used the key-item form, as slice_02 row 196 does; needs a glossary decision."
+ },
+ {
+  "en": "Humans, elves, ogres, and... Bearing all of\ntheir hopes, the adventurers have at last\nreached the Palace of the Sun.\nCan you save the land?",
+  "kind": "desc"
+ },
+ {
+  "en": "You have retaken the Palace of the Sun and\nspared the land from collapse. Evil beings,\nmonsters, the scars of past tragedy: these\nwill never vanish, but your deeds were\nbeyond doubt. Praise the great\nadventurers!",
+  "kind": "desc"
+ },
+ {
+  "en": "King Balgert still seems concerned about the\nPalace of the Sun. Once again you head for\nthe stage of the final battle,\nthe Palace of the Sun.\nAnd there...",
+  "kind": "desc"
+ },
+ {
+  "en": "You passed through the door the librarian\nled you to. Beyond it spread a land you had\nnever seen.",
+  "kind": "desc",
+  "note": "librarian lowercase per glossary."
+ },
+ {
+  "en": "The Palace of the Sun, thought to be the\nbeginning and the end of everything.\nBut its role was not yet over. Yes, there\nare still those who cannot let their\nstory end...",
+  "kind": "desc"
+ },
+ {
+  "en": "\"You'll cause trouble in the shop!\" -- and\nso you aren't allowed to form a mixed party\nof Good and Evil. Just then, Mucha sets\nyou a challenge.",
+  "kind": "desc",
+  "note": "Opening line is Mucha's reason, set off in quotes. Good/Evil capitalised as glossary alignment terms; 'mixed party' as in wmap slice_06 row 445."
+ },
+ {
+  "en": "Old Zeppo the dragonewt asks you to gather\na Crystal Flower \"for my late wife.\"",
+  "kind": "desc",
+  "note": "Source quotes the old man's words; kept as a quote."
+ },
+ {
+  "en": "Since Gia is injured, you are more or less\nforced to go with Toner to a health checkup\nin her place.",
+  "kind": "desc",
+  "note": "'her' = Gia (female per glossary); no pronoun for Toner (gender unknown)."
+ },
+ {
+  "en": "Word is that Hardy the Money-Grubber is\nlooking after a graveyard.\nWhy do something that earns no money?",
+  "kind": "desc",
+  "note": "Hardy: gender unknown, no pronoun."
+ },
+ {
+  "en": "King Balgert is pushing Fena to train more\nadventurers, but the Training Hall is\nunderstaffed. You are asked to find someone\nideal for training the rookies. There seems\nto be more on Fena's mind.",
+  "kind": "desc",
+  "note": "Fena: gender unknown, name repeated instead of a pronoun (slice_02 row 206 note says 'her', unsupported by the glossary)."
+ },
+ {
+  "en": "He claims that prosperity shows most in\namusements and luxuries. Right or not, he\nseems, in his own way, to be worried about\nthe state of the town.",
+  "kind": "desc",
+  "note": "Source says kare (he): the cookie-eating noble of wmap slice_10 row 768."
+ },
+ {
+  "en": "Madulay, the artisan who builds the magic\nairship, asks you to go and get whetstones\nfor the job.",
+  "kind": "desc",
+  "note": "Madulay: gender unknown; 'artisan' for shokunin, no pronoun."
+ },
+ {
+  "en": "Every night Shimerief sits in the watchtower\nand will not budge. Asked why, she dodges\nthe question, but...",
+  "kind": "desc"
+ },
+ {
+  "en": "Toner is looking for Blue Rain. Blue Rain\nseems to be very important to Toner.\nBlue Rain is apparently 'something exciting.'\nBlue Rain, Blue Rain,\nexciting Blue Rain...",
+  "kind": "desc",
+  "note": "wakuwaku = 'exciting' per glossary. Toner: no pronoun."
+ },
+ {
+  "en": "Out of her obsessive devotion to Decoy,\nshe hits on the idea of setting a trap.\nAll for love's sake...",
+  "kind": "desc",
+  "note": "she = Milonya (female; Decoykins quest). Source says kanojo."
+ },
+ {
+  "en": "He surely never wished to look\nthe way he does.\nThat is why he hatches a plan.",
+  "kind": "desc",
+  "note": "Source says kare (he); who it is (the 'Don't Call Me Cute!' quest) is not named here."
+ },
+ {
+  "en": "Knowledge, however much you store, takes up\nno space and can be carried anywhere. Today\ntoo, the old man goes on passing it on.",
+  "kind": "desc"
+ },
+ {
+  "en": "Counselor Emera's healing program.\nAll who carry darkness in their hearts,\ncome along now.",
+  "kind": "desc",
+  "note": "kaunseraa = Counselor (Emera's glossary position is 'Soul Therapist')."
+ },
+ {
+  "en": "They should have shared the same lot, so why\ndid they turn out so different?\nA thief and a girl. What was it that set\nthe two apart?\nOnce the thief learns it, what will go\nthrough the thief's mind?",
+  "kind": "desc",
+  "note": "Thief: gender unknown, noun repeated instead of a pronoun."
+ },
+ {
+  "en": "In the Martial Arts Building of Santorea\nAcademy, you can fight Professor Rombino!\nWin it all, and something good\nmight happen.",
+  "kind": "desc",
+  "note": "Professor Rombino as in chap slice_013. butsujutsu-tou = Martial Arts Wing (building of the Academy). | Accuracy/consistency: butsujutsu-tou = 'Martial Arts Building', as hint row 389 and DGN_NAME '...Bldg'. Rewrapped to keep lines <= 46."
+ },
+ {
+  "en": "In the Magic Building of Santorea Academy,\nyou can fight Professor Nambino!\nWin it all, and something good\nmight happen.",
+  "kind": "desc",
+  "note": "Professor Nambino as in chap slice_013. | Accuracy/consistency: majutsu-tou = 'Magic Building', as hint row 390 and DGN_NAME row 104 'Magic Bldg'."
+ },
+ {
+  "en": "Ghosts have appeared, troubling the fairy\nvillage. On the orders of Meem, the Fairy\nKing, you were tasked with driving them out.",
+  "kind": "desc",
+  "note": "Meem, the Fairy King as in chap slice_018 row 1464."
+ },
+ {
+  "en": "A woman of broken speech and a foul-mouthed\nman. The pair ask you to help find someone.",
+  "kind": "desc"
+ },
+ {
+  "en": "A strange box garden: set it up in 'a certain\nplace' and it activates, drawing you into the\nlittle garden for all kinds of exploring.\nNow, where might 'a certain place' be?",
+  "kind": "desc"
+ },
+ {
+  "en": "What is gambling? A heap of numbers, or\nsomething decided by fate?\nThat eternal question is about to be settled\nby the fortune-teller Natori.",
+  "kind": "desc"
+ },
+ {
+  "en": "The Central Council, where many views are\ngathered and debated. Its Council Chair is\nWattner.\nLately he seems rather worn out.",
+  "kind": "desc",
+  "note": "Source uses kare (he) for Wattner here; glossary has gender unknown -- evidence for a glossary update."
+ },
+ {
+  "en": "Driven by ambition and a thirst for knowledge,\nshe carries on her research. And her dislike\nof adventurers had its reasons.",
+  "kind": "desc",
+  "note": "Source says kanojo (she); the researcher at the Stargazing Lighthouse, not named here."
+ },
+ {
+  "en": "'Let song speak, let verse sing.' A singer\nshould speak through song, yet from her lips\ncome only words of longing for the old days.\nWhat is on the aging songstress's mind?",
+  "kind": "desc",
+  "note": "Opening is a set phrase (uta wa katare yo, shi wa utae); rendered as a quoted maxim. her = the songstress (Arlotte, female)."
+ },
+ {
+  "en": "She has values of her own. That blatant lie\nmay have some purpose behind it.",
+  "kind": "desc",
+  "note": "Zonette's quest (ctx). Source says kanojo (she), and the hint also says kanojo -- evidence for Zonette's glossary gender (currently unknown). Dropped the source's trailing line break."
+ },
+ {
+  "en": "A man living out 'love saves the world'\nto the letter. He plotted to smuggle love.",
+  "kind": "desc",
+  "note": "Barjeff's quest (ctx 'Chief Barjeff'); source says otoko/kare (man/he)."
+ },
+ {
+  "en": "Good day to you,\nand welcome to MILL.GP.\nHonored guest, might I interest you in a\ngame with me today?",
+  "kind": "desc",
+  "note": "MILL.GP. per glossary; greeting style as the dealer Linesman in wmap slice_18 row 1401."
+ },
+ {
+  "en": "The Love Jacuzzi has a special service of its\nown for valued customers.\nBut for that, something is needed.",
+  "kind": "desc",
+  "note": "Rabu Jakujii romanized 'Love Jacuzzi' (new name). Source o-toku-sama is a typo for o-tokui-sama (valued customers)."
+ },
+ {
+  "en": "Do different races have different senses of\nshame? Nora doesn't mind at all, but\nher coworker Yuna fusses over Nora's\nunderwear.",
+  "kind": "desc",
+  "note": "Yuna: gender unknown, no pronoun. 'her' = Nora."
+ },
+ {
+  "en": "Her ordeals never end.\nOr is it you, the ones involved with her,\nupon whom the ordeals are truly falling...?",
+  "kind": "desc",
+  "note": "her = Tarrit (female)."
+ },
+ {
+  "en": "As training to become heroes, Mandelgius\norders you to bring back an Azure Fish.",
+  "kind": "desc",
+  "note": "Glossary: Mandelgius (gender unknown, no pronoun), Azure Fish. Trailing full-width pad spaces dropped (290-299)."
+ },
+ {
+  "en": "As training to become heroes, Mandelgius\norders you to bring back the Proof of\nEndurance.",
+  "kind": "desc"
+ },
+ {
+  "en": "As training to become heroes, Mandelgius\norders you to bring the Evil Magistrate to\njustice.",
+  "kind": "desc",
+  "note": "[JP] rendered 'bring ... to justice' (corpus: Evil Magistrate, 'brought ... to justice')."
+ },
+ {
+  "en": "As training to become heroes, Mandelgius\norders you to defeat the Tiger Centaur.",
+  "kind": "desc",
+  "note": "Source has no 3[JP] here; hint row 407 and the boss name use 'Tiger Centaur III'."
+ },
+ {
+  "en": "Can people never resist temptation?\nThe realization always comes too late.\nHer cries for help fade away into the\nforest.",
+  "kind": "desc",
+  "note": "Quest [JP] (Tarrit stuck in a crack). [JP] = Tarrit (female per glossary). [JP] kept as 'forest' although the hint places her in the Konnu Grassland Ruins."
+ },
+ {
+  "en": "A teacher and scholar at Santorea Academy\nasks you to survey some ruins.",
+  "kind": "desc"
+ },
+ {
+  "en": "It's Santorea Academy's welcome party for\nnew students, in the old school building~!",
+  "kind": "desc",
+  "note": "[JP] = 'old school building' (corpus chap slice_013: 'abandoned school building', held at the old mansion in Perpeco Forest). [JP]! cheer kept with '~!'."
+ },
+ {
+  "en": "Paralyzed, put to sleep, sometimes even\npetrified and then swallowed by a fissure:\nsuch is his lot, poor unlucky soul.\nAnd now, for some reason, he's digging a\nhole...?",
+  "kind": "desc",
+  "note": "The Garden Keeper monster (hint row 411); source uses [JP], so 'he'. Passive kept: the party is implied as the one inflicting it."
+ },
+ {
+  "en": "They say if you find one, there are thirty\nmore around... You know. THOSE.",
+  "kind": "desc",
+  "note": "[JP] = cockroach-type monster left unnamed on purpose (hint row 412 refuses to say the name)."
+ },
+ {
+  "en": "Know too much of everything, and boredom\nsets in. To kill time, the ruler has chosen\nyou.",
+  "kind": "desc",
+  "note": "[JP]: identity and gender unknown (no corpus hit). 'the lord' used as the title for [JP]; flag if the character turns out female. | Accuracy/consistency: ryoushu = 'ruler' as in c2 row 240 / c7 row 359 (identity and gender unknown)."
+ },
+ {
+  "en": "Molder: Find the Light Ruins",
+  "kind": "desc",
+  "note": "c7 Molder board entries (300-340, 349-359): 'Molder: ' + quest title. Titles must match EVENT_TEXT c2 (slice_03); listed in the report for syncing. [JP]: no corpus rendering; distinct from [JP] 'Lightstair Ruins'. | Accuracy/consistency: c7 now mirrors the c2 quest title (row 181) and the c6 summary (row 241)."
+ },
+ {
+  "en": "Molder: Gathering of Rulers",
+  "kind": "desc",
+  "note": "[JP] includes Empress Rianna, so gender-neutral 'Rulers'."
+ },
+ {
+  "en": "Molder: Hemaid Red Stone",
+  "kind": "desc",
+  "note": "Glossary item names reused exactly (302-307)."
+ },
+ {
+  "en": "Molder: Green Plakio",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Blue Menon",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Selcoa Paint",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Celestial Readings",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Wing Soul",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: The Old Man's Blueprints",
+  "kind": "desc",
+  "note": "Corpus chap slice_001 row 8 'The Old Man's Blueprints'."
+ },
+ {
+  "en": "Molder: Cannon Tools",
+  "kind": "desc",
+  "note": "Corpus 'Cannon Tools'."
+ },
+ {
+  "en": "Molder: Seasoned Bar Snacks",
+  "kind": "desc",
+  "note": "Corpus 'Seasoned Bar Snacks'."
+ },
+ {
+  "en": "Molder: Save Perpeco Village",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Chatty Sapling",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: I Love Farming!",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Attack on Lumisthenes",
+  "kind": "desc",
+  "note": "Accuracy/consistency: same title as c2 row 195."
+ },
+ {
+  "en": "Molder: Sun Prison Shrine",
+  "kind": "desc",
+  "note": "Key-item name 'Sun Prison Shrine' (chap slice_016 row 1266). Note: chap slice_019 row 1534 calls it 'Sun Cage Reliquary' in dialogue -- inconsistency to resolve upstream."
+ },
+ {
+  "en": "Molder: Retake the Palace of the Sun",
+  "kind": "desc",
+  "note": "Glossary 'Palace of the Sun'; 28 chars, longer than the c2 limit (22) -- c2 may need 'Retake the Sun Palace'."
+ },
+ {
+  "en": "Molder: Hail the Great Adventurers",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Truth of the Sun",
+  "kind": "desc",
+  "note": "Accuracy/consistency: same title as c2 row 199."
+ },
+ {
+  "en": "Molder: Land of the Next Age",
+  "kind": "desc",
+  "note": "[JP] follows glossary [JP] 'Book of the Next Age'."
+ },
+ {
+  "en": "Molder: Bring a New Light",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Makana Essence",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: A Gift for a Late Wife",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Toner's Checkup",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Life and Money",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Fena's Thoughts",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: How Utterly Exquisite!",
+  "kind": "desc",
+  "note": "Matches the line it quotes (wmap slice_10 row 779: 'How utterly exquisite it is!')."
+ },
+ {
+  "en": "Molder: Madulay's Request",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: The Midnight Hunter",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: The Forbidden Blue Rain",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Operation Hug Decoykins",
+  "kind": "desc",
+  "note": "Glossary [JP] = 'Decoykins'. 23 chars: over the c2 limit (22) if reused there."
+ },
+ {
+  "en": "Molder: Don't Call Me Cute!",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Formless Treasure",
+  "kind": "desc",
+  "note": "Accuracy/consistency: same title as c2 row 213 (echoes 'a treasure without form')."
+ },
+ {
+  "en": "Molder: The Emera Program",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: An Outcast's Path",
+  "kind": "desc",
+  "note": "Accuracy/consistency: same title as c2 row 215."
+ },
+ {
+  "en": "Molder: Martial Arts Tournament",
+  "kind": "desc",
+  "note": "Corpus 'Martial Arts Tournament' (23 chars; c2 limit 22)."
+ },
+ {
+  "en": "Molder: Magical Party",
+  "kind": "desc",
+  "note": "Corpus 'Magical Party'."
+ },
+ {
+  "en": "Molder: What Makes a King",
+  "kind": "desc",
+  "note": "Quest of the Fairy King Meem ([JP])."
+ },
+ {
+  "en": "Molder: I'm LooKing foR SomeOne...",
+  "kind": "desc",
+  "note": "Source mixes katakana into hiragana ([JP]) to show the broken speech of the [JP]; mirrored with stray capitals."
+ },
+ {
+  "en": "Molder: Strange Box Garden",
+  "kind": "desc",
+  "note": "Corpus key item 'Strange Box Garden'."
+ },
+ {
+  "en": "Molder: Dice of Fate Jackpot",
+  "kind": "desc",
+  "note": "[JP] = make a killing; item 'Dice of Fate' (glossary)."
+ },
+ {
+  "en": "Endless, fruitless council sessions are hard\non old bones. We seek the Geezers' Wand,\nsaid to restore vigor to the elderly.",
+  "kind": "desc",
+  "note": "c7 full notice. Speaker is Council Chair Wattner (gender unknown); [JP] / [JP] rendered 'old bones', 'the elderly'. Item 'Geezers' Wand' (glossary)."
+ },
+ {
+  "en": "Not urgent, merely handy: we need a Vision\nCrystal for our observing device. If found,\nbring it to the Stargazing Lighthouse,\nStar Capital Lumisthenes.",
+  "kind": "desc",
+  "note": "Vision Crystal = [JP] (key item, chap slice_016 row 1315). Compressed to fit 151 bytes; 'Not urgent, merely handy' = [JP]."
+ },
+ {
+  "en": "Seeking something to restore strength to an\nold, failing throat. That is a little too\nconvenient a wish, I suppose...",
+  "kind": "desc",
+  "note": "Arlotte's notice (polite [JP]). Item unnamed in source."
+ },
+ {
+  "en": "wanted: sumbody who will lend me munny.\nzonette",
+  "kind": "desc",
+  "note": "Source is all hiragana with no kanji (childlike/crude writing), signed by Zonette; mirrored with lowercase and misspellings."
+ },
+ {
+  "en": "To Her Majesty the Empress, with love.\nSeeking adventurers to deliver a confidential\nparcel. -- Chief Barjeff",
+  "kind": "desc",
+  "note": "[JP] = Rianna (female, glossary); corpus renders [JP] for her as 'the Sovereign'. [JP] = 'Chief' (glossary). | Accuracy/consistency: koutei heika = Rianna, 'Empress' per glossary and the c6/chap corpus ('Empress Rianna')."
+ },
+ {
+  "en": "MILL.GP. looks forward to your visit and\nyour challenge.",
+  "kind": "desc",
+  "note": "[JP].[JP]. -> 'MILL.GP.' (glossary)."
+ },
+ {
+  "en": "We're out of Stonemelt Water for guests and\nI'm in a bind. If you have extra, please\nshare some. I'll treat you to some extra\nservice at the shop!",
+  "kind": "desc",
+  "note": "Love Jacuzzi staff notice; [JP] = 'Stonemelt Water' (glossary). Compressed to fit 151."
+ },
+ {
+  "en": "My coworker... um... well... she won't wear\nany... panties... and it's a problem. Her\nbottom is extra big, so I'm looking for\nbig panties.",
+  "kind": "desc",
+  "note": "Yuna's notice about Nora (female). Source ellipses kept as hesitations."
+ },
+ {
+  "en": "Molder: Tarrit's Close Call!",
+  "kind": "desc",
+  "note": "[JP] = close call."
+ },
+ {
+  "en": "Molder: Mandelgius's Trial 1",
+  "kind": "desc",
+  "note": "Rows 350-353: full-width digits -> ASCII. | Accuracy/consistency: same title as c2 row 231."
+ },
+ {
+  "en": "Molder: Mandelgius's Trial 2",
+  "kind": "desc",
+  "note": "Accuracy/consistency: same title as c2 row 232."
+ },
+ {
+  "en": "Molder: Mandelgius's Trial 3",
+  "kind": "desc",
+  "note": "Accuracy/consistency: same title as c2 row 233."
+ },
+ {
+  "en": "Molder: Mandelgius's Trial 4",
+  "kind": "desc",
+  "note": "Accuracy/consistency: same title as c2 row 234."
+ },
+ {
+  "en": "Molder: Can't Get Out~",
+  "kind": "desc",
+  "note": "Tarrit stuck in a crack (hint row 408). | Accuracy/consistency: same title as c2 row 235 (Tarrit's 'I can't get out~')."
+ },
+ {
+  "en": "Molder: Crumbling Stone Tablet",
+  "kind": "desc",
+  "note": "Corpus 'crumbling stone tablet' (chap slice_003 row 207)."
+ },
+ {
+  "en": "Molder: Old School Ghost Story",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Don't Pick on Me",
+  "kind": "desc",
+  "note": "Corpus 'D-don't pick on me' (chap slice_010 row 841)."
+ },
+ {
+  "en": "Molder: Operation Ogre Bay Cleanup",
+  "kind": "desc",
+  "note": "[JP] = Operation; 26 chars, over the c2 limit (22) if reused there ('Ogre Bay Big Cleanup' fits)."
+ },
+ {
+  "en": "Molder: The Ruler's Amusement",
+  "kind": "desc",
+  "note": "See row 299 on [JP]. | Accuracy/consistency: same title as c2 row 240; ryoushu identity/gender unknown, so 'Ruler'."
+ },
+ {
+  "en": "Haven't you already done this one? Your\nadventure's only just getting started.\nGood luck!",
+  "kind": "desc",
+  "note": "c8 hints (360-369): the hint-giver is a fortune-teller (row 373 / 394 point to Natori, female). Casual feminine voice."
+ },
+ {
+  "en": "So, wasn't that fun? With that many exalted\npeople in one place, it was quite a sight,\nwasn't it? You don't get to see that every\nday, so you'd better thank big sis here,\nokay?",
+  "kind": "desc",
+  "note": "[JP] self-reference rendered 'big sis here'."
+ },
+ {
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to King Balgert.",
+  "kind": "desc",
+  "note": "Source typo [JP] = [JP] ('as long as you use the compass'). Rows 362-364 are the same text with a different person."
+ },
+ {
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to Her Majesty Rianna.",
+  "kind": "desc",
+  "note": "[JP] -> 'Her Majesty' (Rianna female per glossary)."
+ },
+ {
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to King Fulgrant.",
+  "kind": "desc",
+  "note": "[JP] -> 'King Fulgrant': glossary gender is unknown, but [JP] vs [JP]/[JP] (see Balgert note) implies king. Flag."
+ },
+ {
+  "en": "There's a village called Perpeco Village in\nPerpeco Forest, and it seems it's being\nattacked by monsters. Go help them out.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sapling with a lot of demands, hm? Why not\njust toss it? ...Kidding, kidding! Let's see,\nisn't there a kid in Perpeco Village who's\ngood at growing plants? Why not ask them?",
+  "kind": "desc",
+  "note": "The kid who grows plants is Bona (chap slice_009); 'them' keeps the hint vague, as the source does."
+ },
+ {
+  "en": "The reading's come out, but I can't quite\nmake sense of it. It says: Wonderful\nTurmeric, the girl of Perpeco Forest, and a\ngirl stuck fast, unable to move. Huh?",
+  "kind": "desc",
+  "note": "Item 'Wonderful Turmeric' (glossary). [JP] -> 'Huh?'."
+ },
+ {
+  "en": "This one's already settled, right? Thanks\nfor what you did back then.",
+  "kind": "desc"
+ },
+ {
+  "en": "How do you read this? 'Sun... Prison...\nShrine'? Huh. Something this old, only a\nbeing that's lived just as long would\nunderstand it, I bet. And that one is high\nup in the sky.",
+  "kind": "desc",
+  "note": "She sounds out the kanji reading ([JP]); rendered as halting reading of the English item name 'Sun Prison Shrine'. [JP] (being, not person) -> 'a being'."
+ },
+ {
+  "en": "Humans, elves, ogres... I'm leaving all\ntheir hopes in your hands. Do your best,\nokay?",
+  "kind": "desc",
+  "note": "Voice: female fortune-teller (casual -wa/-yo); the voice matches Natori, not Molder (see report). takushita wa yo = speaker entrusts; subject 'I' restored."
+ },
+ {
+  "en": "Thank you! Now the land is saved! I can't\nthank you enough!\n",
+  "kind": "desc",
+  "note": "Source ends with a newline; kept."
+ },
+ {
+  "en": "It seems the Palace of the Sun's role isn't\nover yet. It's a dangerous place, but go\nback once more and search every corner.",
+  "kind": "desc"
+ },
+ {
+  "en": "I sense a mighty power somewhere other than\nhere. One, two... lots. It'll be a dangerous\nbattle, far worse than any so far. ...What?\nLet me say something fortune-teller-ish for\nonce!",
+  "kind": "desc",
+  "note": "Mock-solemn kanjimasu, then back to casual; 'fortune-teller-ish' = uranaishi rashii."
+ },
+ {
+  "en": "Somewhere far, far away from here, far, far\nhigher than the Palace of the Sun. It seems\nyou can head there from a land other than\nthis one... Sorry, that's all I can tell.",
+  "kind": "desc"
+ },
+ {
+  "en": "Ahh, personalities that don't mesh... Nobody\nwants brawls in the tavern, huh. All right!\nGet the Makana Essence with a mixed\ngood-and-evil party and show off how well\nyou get along!",
+  "kind": "desc",
+  "note": "Translated as written: the source asks for the Essence to be fetched with a mixed good/evil party."
+ },
+ {
+  "en": "It's called a Crystal Flower, so it should\nbe near the Crystal Labyrinth's entrance.\nBringing his old lady her favorite flower...\nwhat a good husband he is, huh?",
+  "kind": "desc",
+  "note": "Zeppo (male) and his late wife (obaasan = his old lady)."
+ },
+ {
+  "en": "Why do skilled people always want to live\nsomewhere so remote? Go to the Leanmakana\nMountains and Toner can get the checkup. I\nhope the results are good.",
+  "kind": "desc",
+  "note": "Subject of the checkup restored: Toner (no pronoun; Toner's gender is deliberately unset)."
+ },
+ {
+  "en": "That money-grubber caring about a nameless\ncemetery that earns nothing? Weird, huh? But\ngo chase off those graveyard vandals right\naway! Off to the Crotoa City Ruins, let's\ngo!",
+  "kind": "desc",
+  "note": "Shushen-do = Hardy's title 'Money-Grubber' (glossary), no pronoun (gender unknown). 'nameless cemetery' as wmap slice_08 row 571. Source has Kurotoa shigaichi (no 'ato'); normalised to Crotoa City Ruins."
+ },
+ {
+  "en": "True, Abi would make a good practice\npartner. Abi's in the Konnu Plains Ruins.\nOh, but it's no good unless you can use\nsummoning spells, okay?",
+  "kind": "desc",
+  "note": "No pronoun for Abi (gender unset)."
+ },
+ {
+  "en": "Speaking of outlandish: Joker Land!\nActually, the souvenir shop in Joker Land\nhas a secret recipe.",
+  "kind": "desc",
+  "note": "'Speaking of outlandish' echoes wmap slice_10 row 775 (same patissier quest)."
+ },
+ {
+  "en": "They should be in the Rinos Sea Volcano, but\ndo you know the way? You can get there from\nbeneath Joker Land, but only after helping a\nkid in trouble there. Also, it was two,\nright? Medium and Fine Whetstone. Make sure\nyou bring back both!",
+  "kind": "desc",
+  "note": "238/242 bytes; the two glossary names are merged as 'Medium and Fine Whetstone' to fit."
+ },
+ {
+  "en": "That old lady climbs the watchtower every\nnight and won't budge. Is something up? The\nspot is under the Blue Cave, I hear... What\nis she up to?",
+  "kind": "desc",
+  "note": "Old lady = Shimerief (female, glossary). Chika = the place is underground/below the Blue Cave."
+ },
+ {
+  "en": "Blue Rain? Huh...? That kid wants it? Wait,\nisn't that kid... Well, it's not okay, but\nfine. You can steal it from a guy called\nPhantom. ...You could also steal some off\nthe Santorea Academy girls... but I don't\nrecommend it...",
+  "kind": "desc",
+  "note": "Ano ko = Toner; 'that kid' keeps Toner's gender open (the source hints at it with 'ano ko tashika...'). Phantom = MONSTER2 gentleman thief (kaitou shinshi), so 'guy'."
+ },
+ {
+  "en": "Oh, that one who's always running around?\nFor a weird thing like that, there's a\ndoctor in Ogre Bay who only makes weird\nstuff, I hear. Try asking that doctor.",
+  "kind": "desc",
+  "note": "That one = Decoy (gender unset). Hakase = 'doctor' (the Ogre Bay inventor; wmap calls him Dr. Mad)."
+ },
+ {
+  "en": "Being cute is rough, huh. I'm jealous...\nNobody's called me cute lately... Oh, sorry.\nUm, search Joker Land and you should find\nwhere the Jokers keep their costumes.",
+  "kind": "desc",
+  "note": "Jokers' costumes; the quest-giver (male per event text) is not named in the source."
+ },
+ {
+  "en": "Everyone's fed up with those thieves. It\nhasn't been long since the theft, so you\nshould find them at the Crotoa City Ruins.",
+  "kind": "desc",
+  "note": "Source spelling Kurotowa (variant) normalised to Crotoa City Ruins, as wmap does."
+ },
+ {
+  "en": "Have you met that girl Necrophilis yet? If\nso, you're all set. Just go to Emera's place\nin the Leanmakana Mountains at night.",
+  "kind": "desc",
+  "note": "Necrophilis female (glossary)."
+ },
+ {
+  "en": "A Soleil Stone: a stone for praying for\nsomeone's safety and happiness. But it's\nvery rare and hard to find. The mimics in\nthe Blue Cave are hoarding some, I think,\nbut mimics in numbers are tough.",
+  "kind": "desc",
+  "note": "'mimics' lowercase as in wmap slice_03 row 235."
+ },
+ {
+  "en": "There's a martial arts tournament at the\nSantorea Academy Martial Arts Building. Win\nit, and something good might happen, maybe?",
+  "kind": "desc",
+  "note": "Butsujutsu-tou rendered 'Martial Arts Building' (slice_02 uses 'Magic Bldg'/'Faculty Bldg' for sister buildings; wmap has 'Santorea Martial Arts Department')."
+ },
+ {
+  "en": "There's a Magical Party at the Santorea\nAcademy Magic Building. Win it, and\nsomething good might happen, maybe?",
+  "kind": "desc",
+  "note": "'Magic Building' to match DGN_NAME 'Magic Bldg' (slice_02 row 104)."
+ },
+ {
+  "en": "The fairy village, huh. In a place like\nthat, it's easy to wander in by mistake.\nIt's a bit mean to them, but go tell them\nthey've come to the wrong place, okay?",
+  "kind": "desc",
+  "note": "'fairy village' lowercase as in chap slice_018. Them = the ghosts troubling the village (event text row 277)."
+ },
+ {
+  "en": "A short girl with blue hair, huh. She seems\nto be deep in the Crystal Labyrinth... but\nthat pair looking for her, are they all\nright? They don't seem like ordinary folk...",
+  "kind": "desc",
+  "note": "The pair = the halting-speech woman and foul-mouthed man of the quest summary."
+ },
+ {
+  "en": "That Box Garden: there's a spot northeast in\nthe Crotoa City Ruins where it can be set,\nand placed there, its power awakens. That\nbox... something wonderful will come of it,\nso take good care of it, okay?",
+  "kind": "desc",
+  "note": "Sono hakoniwa = the Strange Box Garden; capitalised 'Box Garden' as a short form of the item."
+ },
+ {
+  "en": "That's MY request! Ehh, you forgot? Geez, I\nasked you, didn't I? You can synthesize it\nif you have Mazurite and Millstone, okay?",
+  "kind": "desc",
+  "note": "The Dice of Fate quest is Natori's (event text row 280), so sore watashi no irai ja nai = 'That's MY request!' (emphatic ja nai, not a negative)."
+ },
+ {
+  "en": "Eh, someone asked you for the Geezers' Wand?\nEhh... I don't wanna tell... Mmm, the\nmonsters in the fairy village have one, I\nhear, so you should get it there...",
+  "kind": "desc",
+  "note": "Glossary: Geezers' Wand."
+ },
+ {
+  "en": "She's a bit uptight, but she's honest and a\ngood girl, so don't hate her, okay? Bring\nher the Vision Crystal from the Crystal\nLabyrinth and she'll rethink a lot. But\nwatch out for the Doppelganger.",
+  "kind": "desc",
+  "note": "Ano ko = Mayleen (female, glossary; the Vision Crystal quest is hers). 'Vision Crystal' as chap slice_016 row 1315."
+ },
+ {
+  "en": "I used to hear her sing whenever I went to\nTeridon. Search the Giaf Dunes and you\nshould find a cactus, so take it to her.\nStill, singers sure have it rough too, huh.",
+  "kind": "desc",
+  "note": "Kanojo = Arlotte (female). Item is Cactus Pulp, but the source says just 'cactus'."
+ },
+ {
+  "en": "Is she straightforward, or just twisted? Who\nknows. But try to believe what she says as\nmuch as you can, okay?",
+  "kind": "desc",
+  "note": "Kanojo = Zonette (female per source pronoun; glossary gender unknown)."
+ },
+ {
+  "en": "First you need to be able to get an audience\nwith Her Majesty Rianna, or you can't hand\nover what you've got. But I've got a baaad\nfeeling about this...",
+  "kind": "desc",
+  "note": "Rianna female; heika = Her Majesty."
+ },
+ {
+  "en": "Beat the dealer at blackjack! It's the only\nway! Think of it as avenging me, and wipe\nthe floor with them!!",
+  "kind": "desc",
+  "note": "Natori lost at the casino (wmap slice_15 rows 1189-1190), hence 'avenging me'."
+ },
+ {
+  "en": "A special service~? You're thinking\nsomething naughty, aren't you? Stonemelt\nWater? Buy it at a shop or pick it up in\ndungeons and you'll have enough in no time,\nwon't you?",
+  "kind": "desc",
+  "note": "Glossary: Stonemelt Water."
+ },
+ {
+  "en": "Panties that big probably aren't sold in\nstores... but handmade ones might exist. Why\nnot visit the Sewing Club at Santorea\nAcademy?",
+  "kind": "desc",
+  "note": "pantsu = panties, as in wmap slice_18 (Nora's quest)."
+ },
+ {
+  "en": "Ummm... I see signs of hardship...\nSpecifically, the Konnu Plains Ruins, B2.\nThat noisy girl is in trouble, it seems.\nWell, I know it'll be rough, but... hang in\nthere~.",
+  "kind": "desc",
+  "note": "Ano sawagashii ko = Tarrit (female). Chika nikai = B2."
+ },
+ {
+  "en": "So it's Professor Mandelgius, Santorea\nAcademy's famous special lecturer. You can\ncatch Azure Fish in the Blue Cave at night,\nbut there are dangerous fish too, so be\ncareful, okay?",
+  "kind": "desc",
+  "note": "Glossary: Azure Fish, Mandelgius."
+ },
+ {
+  "en": "The Rinos Sea Volcano, huh? Just the place\nthat intense one would name. The Proof of\nEndurance is to the south, but be sure to\nuse Sosareo or something to get there, okay?",
+  "kind": "desc",
+  "note": "NEW SPELL: Sosareo (soosareo, levitation spell, SPELL.CSV row 3919). 'that intense one' = Mandelgius (gender unset, no pronoun)."
+ },
+ {
+  "en": "An even greater evil pulling the strings\nbehind every misdeed... sounds fake. Isn't\nthat just talk to fit the mood... oh, there\nreally is one. ...Um, it's in Miasuna's\nCastle Keep.",
+  "kind": "desc",
+  "note": "Tenshu = 'Castle Keep' as DGN_NAME slice_02 row 113. The villain (akudaikan) left as 'it' / 'one' (no gender)."
+ },
+ {
+  "en": "This time it's for real: Tiger Centaur III\nis deep in the Giaf Dunes. But it's a tough\nfoe, so be careful, okay? Mandelgius... just\nwho is that, I wonder...",
+  "kind": "desc",
+  "note": "Tiger Centaur III as wmap slice_18 row 1427. No pronoun for Mandelgius."
+ },
+ {
+  "en": "I see a girl named Tarrit stuck in the Konnu\nPlains Ruins... Besides pulling, kicking\nmight change something... but I don't think\nyou should do that to a girl.",
+  "kind": "desc",
+  "note": "Detedeiru = the reading shows; rendered 'I see'."
+ },
+ {
+  "en": "Just go to the basement of the Konnu Plains\nRuins on a rainy day and examine the stone\ntablet, that's all. Even that is a real help\nto a scholar who's always cooped up.",
+  "kind": "desc",
+  "note": "Scholar unnamed in the source; no pronoun."
+ },
+ {
+  "en": "A test of courage? How nostalgic! I did one\ntoo. Clinging to the one I liked with a\n'Kyaa!'... ahem. Talk to the Santorea\nAcademy kid, then go to the haunted mansion,\nleave a mark and come back to report. No\nrunning away if you get scared!",
+  "kind": "desc",
+  "note": "Source typo suki na koto itte = suki na hito to (the one I liked). 239/242 bytes; lightly compressed."
+ },
+ {
+  "en": "So the Picnicker wants a Garden Keeper.\nYou're always paralyzing it, putting it to\nsleep, petrifying it... You put it through\nso much, so why not help it out for once?\nSomething good might come of it, like new\nplaces to go!",
+  "kind": "desc",
+  "note": "Subject restored: the Picnicker (the Garden Keeper quest, wmap slice_010 rows 839-846; wmap calls it 'it')."
+ },
+ {
+  "en": "Ultimate... ugh, geez! I hate even saying\nthe name! Go wipe out every last one!!",
+  "kind": "desc",
+  "note": "Ultimate... = Ultimate Runner / Ultimate Flyer (the cockroach monsters)."
+ },
+ {
+  "en": "...Hmm, well, once you've done something\nlike going around saving the world, maybe go\ntell them about that? ...I mean, I can't see\na thing! Who is that?! What on earth are\nthey?!",
+  "kind": "desc",
+  "note": "Them = the lord (ryoushu) of the quest title; gender not settled, so 'they'."
+ },
+ {
+  "en": "Select where to load Face Load images from, then press the Circle button.",
+  "kind": "help",
+  "note": "Face Load = the PSP custom-portrait import feature; kept as a feature name. Button names spelled out (Circle/Square/Triangle/X) as in ebt slice_02/11/12."
+ },
+ {
+  "en": "Select the file name to load.",
+  "kind": "help"
+ },
+ {
+  "en": "Loading images from the PICTURE folder...",
+  "kind": "help",
+  "note": "Picture folder = the PSP Memory Stick folder PICTURE."
+ },
+ {
+  "en": "Loading the Face Load list...",
+  "kind": "help"
+ },
+ {
+  "en": "Swapping Face Load data...",
+  "kind": "help"
+ },
+ {
+  "en": "Deleting Face Load data...",
+  "kind": "help"
+ },
+ {
+  "en": "Enter the password shown in the Book of the Next Age.",
+  "kind": "help",
+  "note": "Glossary: Book of the Next Age."
+ },
+ {
+  "en": "Check your spells.",
+  "kind": "help"
+ },
+ {
+  "en": "You cannot move to this location.",
+  "kind": "help",
+  "note": "Shown when Tiomente targets an unvisited place."
+ },
+ {
+  "en": "You cannot cast that spell here right now.",
+  "kind": "help"
+ },
+ {
+  "en": "You have not learned any spells of this level.",
+  "kind": "help"
+ },
+ {
+  "en": "This character is in no condition to cast spells.",
+  "kind": "help",
+  "note": "Subject restored as 'this character' (the selected caster)."
+ },
+ {
+  "en": "No uses remain for spells of this level.",
+  "kind": "help"
+ },
+ {
+  "en": "You cannot teleport to a place with no floor.",
+  "kind": "help",
+  "note": "Shown for Tiomente (teleport spell)."
+ },
+ {
+  "en": "Check the items you are carrying.",
+  "kind": "help"
+ },
+ {
+  "en": "Equip an item.",
+  "kind": "help"
+ },
+ {
+  "en": "Use an item.",
+  "kind": "help"
+ },
+ {
+  "en": "Give an item.",
+  "kind": "help"
+ },
+ {
+  "en": "Discard an item.",
+  "kind": "help"
+ },
+ {
+  "en": "If you have a Bishop, you can identify unidentified items.",
+  "kind": "help",
+  "note": "kantei = identify on the item menu, as slice_06 row 453 and ebt slice_12 row 913; shops use 'appraise'."
+ },
+ {
+  "en": "Choose an equipment slot. Circle: compare with and change current gear. Square: unequip.",
+  "kind": "help",
+  "note": "Button names spelled out as in ebt slice_11 row 893."
+ },
+ {
+  "en": "Triangle: item details. X: back.",
+  "kind": "help",
+  "note": "'X: back' pattern as ebt slice_02 rows 149-150."
+ },
+ {
+  "en": "Select an item to use.",
+  "kind": "help"
+ },
+ {
+  "en": "It is cursed and cannot be removed.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an item to give.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose who will receive the item.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an item to discard.",
+  "kind": "help"
+ },
+ {
+  "en": "This item cannot be used.",
+  "kind": "help"
+ },
+ {
+  "en": "It cannot be identified.",
+  "kind": "help",
+  "note": "Subject restored as 'it' (the selected item)."
+ },
+ {
+  "en": "There is no character who can identify items.",
+  "kind": "help"
+ },
+ {
+  "en": "This character is not carrying any items.",
+  "kind": "help"
+ },
+ {
+  "en": "The item has been unequipped.",
+  "kind": "help"
+ },
+ {
+  "en": "You have been cursed.",
+  "kind": "help",
+  "note": "Shown when equipping a cursed item."
+ },
+ {
+  "en": "It is cursed and cannot be discarded.",
+  "kind": "help"
+ },
+ {
+  "en": "This character is in no condition to identify items.",
+  "kind": "help"
+ },
+ {
+  "en": "Oops! You touched it!",
+  "kind": "help",
+  "note": "Shown when appraisal fails (the classic 'Oops, touched it' bishop failure)."
+ }
+]

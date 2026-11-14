@@ -1,0 +1,380 @@
+[
+ {
+  "en": "Silken Fingers",
+  "kind": "name",
+  "note": "Monster natural weapon; desc: fingers smooth as silk whose caress tames anyone."
+ },
+ {
+  "en": "Sultry Sigh",
+  "kind": "name",
+  "note": "[JP] = a seductive hot sigh (desc: luring a target with sighs), not a fire breath."
+ },
+ {
+  "en": "Wicked French Kiss",
+  "kind": "name",
+  "note": "[JP] = bero (tongue) + baiser; desc says outright it is a French kiss. [JP] rendered 'Wicked' (bewitching/devilish)."
+ },
+ {
+  "en": "Demon Halo",
+  "kind": "name",
+  "note": "Desc: [JP] = halo/aureole."
+ },
+ {
+  "en": "Gravity Ring",
+  "kind": "name"
+ },
+ {
+  "en": "Swallow Whole",
+  "kind": "name",
+  "note": "[JP] = gulping prey down whole."
+ },
+ {
+  "en": "Swallow Whole +1",
+  "kind": "name"
+ },
+ {
+  "en": "Swallow Whole +2",
+  "kind": "name"
+ },
+ {
+  "en": "Paralytic Thread",
+  "kind": "name",
+  "note": "[JP]: sticky thread that numbs/stings on contact."
+ },
+ {
+  "en": "Brutal Hoof",
+  "kind": "name",
+  "note": "Desc: a quadruped's one-hit-kill kick."
+ },
+ {
+  "en": "Shining Wizard",
+  "kind": "name",
+  "note": "[JP] is the Japanese name of the pro-wrestling move Shining Wizard (knee strike stepping off the opponent's body), which the desc describes. Neighbour row 1430 is 'Shining Finger'."
+ },
+ {
+  "en": "Dropkick",
+  "kind": "name",
+  "note": "Matches chap slice_002."
+ },
+ {
+  "en": "Three-Year Death",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Stomp",
+  "kind": "name",
+  "note": "[JP]; the 1445 desc contrasts a butt stomp with this ordinary foot stomp."
+ },
+ {
+  "en": "O.P.I.",
+  "kind": "name",
+  "note": "Kept as initials: source is the acronym [JP]; desc is a stomp with a huge heavy butt. Meaning of the letters unknown (probably a crude pun); not expanded."
+ },
+ {
+  "en": "Clamshell Pinch",
+  "kind": "name",
+  "note": "[JP]: a clam clamping its prey."
+ },
+ {
+  "en": "Phantom Prow",
+  "kind": "name",
+  "note": "[JP] (hazy/ghostly) [JP]; desc: the prow of a Ghost Ship."
+ },
+ {
+  "en": "Fish Buster",
+  "kind": "name"
+ },
+ {
+  "en": "Spike Heel",
+  "kind": "name"
+ },
+ {
+  "en": "Takasago Fan",
+  "kind": "name",
+  "note": "[JP] is a named throw in the fan-toss game [JP] (desc); kept as the proper name."
+ },
+ {
+  "en": "Armrest",
+  "kind": "name",
+  "note": "[JP] (kyosoku): a low eastern armrest, thrown at the party per desc."
+ },
+ {
+  "en": "Tengu Fan",
+  "kind": "name",
+  "note": "'Tengu' as in slice_11 'Karasu Tengu'."
+ },
+ {
+  "en": "Brass Lightning",
+  "kind": "name",
+  "note": "[JP]: brass-coloured lightning called down from the sky."
+ },
+ {
+  "en": "Black Lightning",
+  "kind": "name"
+ },
+ {
+  "en": "Beast-Hide Gloves",
+  "kind": "name",
+  "note": "Plural like 'Mantis Gloves' (slice_14)."
+ },
+ {
+  "en": "Five-Inch Nail",
+  "kind": "name",
+  "note": "[JP]: the long nail of the eastern straw-doll curse (desc)."
+ },
+ {
+  "en": "Atonewolo's Hot Jug",
+  "kind": "name",
+  "note": "New name [JP] romanized 'Atonewolo'. [JP] = hot-water vessel; desc reveals it works like a clothes iron. 'Jug' chosen to fit 20 bytes."
+ },
+ {
+  "en": "Bronze Claw",
+  "kind": "name"
+ },
+ {
+  "en": "Bronze Kick",
+  "kind": "name"
+ },
+ {
+  "en": "Air Distortion",
+  "kind": "name",
+  "note": "[JP]: shifting pressure layers that twist and tear the target (desc)."
+ },
+ {
+  "en": "Crystal Ray",
+  "kind": "name"
+ },
+ {
+  "en": "Hivanask",
+  "kind": "name",
+  "note": "New name [JP] romanized; desc ties it to Seot Ma ([JP]) as its host. Possibly a 'hive' pun; kept as a coined name."
+ },
+ {
+  "en": "Oh, Who Is It?",
+  "kind": "name",
+  "note": "[JP]: a door flung open into the victim's face (desc)."
+ },
+ {
+  "en": "Come Again!",
+  "kind": "name",
+  "note": "[JP]: being kicked out with a cheery 'come again'."
+ },
+ {
+  "en": "Aura Steeda",
+  "kind": "name",
+  "note": "New name [JP] romanized 'Steeda'; ITEM_PRIZ has [JP], which should reuse 'Steeda'. A barrier of the Ryug (glossary)."
+ },
+ {
+  "en": "Rationalist Planner",
+  "kind": "name",
+  "note": "[JP]: a minute-by-minute schedule book. 'Rationalist's Planner' is 21 bytes, so the possessive is dropped."
+ },
+ {
+  "en": "Santorea Handbook",
+  "kind": "name",
+  "note": "[JP] = Santorea (Academy) student handbook; 'Santorea Student Handbook' does not fit 20 bytes. No desc row found."
+ },
+ {
+  "en": "Alchemy Flask Beta",
+  "kind": "name",
+  "note": "β spelled out (ASCII only)."
+ },
+ {
+  "en": "Tuna Edict",
+  "kind": "name",
+  "note": "[JP]: desc says its full name is a set of camp regulations on tuna; [JP] = law/edict."
+ },
+ {
+  "en": "Taizary Helm",
+  "kind": "name",
+  "note": "[JP] is an adjective-like form of Taizarti (glossary); desc: the helm Taizarti wears. Kept distinct as 'Taizary'; 'Taizarti Helm' (13) is the alternative if the link should be explicit."
+ },
+ {
+  "en": "Rose Headband",
+  "kind": "name",
+  "note": "[JP] = hair band."
+ },
+ {
+  "en": "Hitai-Eboshi",
+  "kind": "name",
+  "note": "[JP]: the white triangular headcloth of eastern ghosts; 'Eboshi' romanized as slice_13 did for [JP]."
+ },
+ {
+  "en": "Alchemy Flask Alpha",
+  "kind": "name",
+  "note": "α spelled out."
+ },
+ {
+  "en": "Paint Armor",
+  "kind": "name",
+  "note": "Like slice_17 'Paint Claw': armour from a painting made real."
+ },
+ {
+  "en": "Imperial Garb",
+  "kind": "name"
+ },
+ {
+  "en": "Raver Plate",
+  "kind": "name",
+  "note": "[JP] read as 'Raver': desc [JP] (armour of the frenzied), not 'Labor'."
+ },
+ {
+  "en": "Progenitor Vestment",
+  "kind": "name",
+  "note": "[JP] = 'Progenitor' as in slice_17 'Progenitor's Fang'; possessive dropped for 20 bytes (21 with it)."
+ },
+ {
+  "en": "Fiend King Armor",
+  "kind": "name",
+  "note": "[JP] kept distinct from [JP] ('Demon Lord', slice_17); desc speaks of 'kings' among the dark kin."
+ },
+ {
+  "en": "Cheap Iron",
+  "kind": "name"
+ },
+ {
+  "en": "Obsidian Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Lich's Robe",
+  "kind": "name",
+  "note": "[JP] = Lich (desc: the robe a Lich wears)."
+ },
+ {
+  "en": "Cocktail Dress",
+  "kind": "name"
+ },
+ {
+  "en": "Spirit Robe",
+  "kind": "name",
+  "note": "[JP] = 'Spirit' as in slice_11 'Spirit Bow'."
+ },
+ {
+  "en": "Loser's Robe",
+  "kind": "name"
+ },
+ {
+  "en": "Midnight Silk",
+  "kind": "name"
+ },
+ {
+  "en": "White Night Robe",
+  "kind": "name",
+  "note": "[JP] = white night / midnight sun (desc). 'Midnight Sun Robe' avoided to stay apart from 1485 Midnight Silk."
+ },
+ {
+  "en": "Serpent Deity Robe",
+  "kind": "name",
+  "note": "[JP] is gender-neutral; desc says a goddess wore it, but the name is kept neutral."
+ },
+ {
+  "en": "Celestia Belly",
+  "kind": "name",
+  "note": "[JP] = belly (desc: a belly dress open at the midriff), not 'berry'. 'Celestia' kept as a coined name."
+ },
+ {
+  "en": "Clown Garb",
+  "kind": "name",
+  "note": "[JP] = clown (desc: robe made for jesters), not crown."
+ },
+ {
+  "en": "Clown Garb +1",
+  "kind": "name"
+ },
+ {
+  "en": "Big Daddy",
+  "kind": "name",
+  "note": "Desc: Don Magus's trousers ([JP], not used in the name)."
+ },
+ {
+  "en": "Netherlord's Robe",
+  "kind": "name",
+  "note": "[JP] = king of the underworld."
+ },
+ {
+  "en": "Under-Kimono",
+  "kind": "name",
+  "note": "[JP]: eastern undergarment, also worn by the dead (desc)."
+ },
+ {
+  "en": "Twelve-Layer Robe",
+  "kind": "name",
+  "note": "[JP] (junihitoe): many layered robes (desc)."
+ },
+ {
+  "en": "Destruction Leotard",
+  "kind": "name",
+  "note": "'Leotard of Destruction' (22) does not fit; slice_11 used 'Mace of Destruction'."
+ },
+ {
+  "en": "Honey Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Pointy Corset",
+  "kind": "name"
+ },
+ {
+  "en": "Evil Breastplate",
+  "kind": "name",
+  "note": "Pattern 'Evil Armor/Helm' (slices 12-14); [JP] = Breastplate (slice_13)."
+ },
+ {
+  "en": "Shell Breastplate",
+  "kind": "name",
+  "note": "[JP]: breastplate of pearl-oyster shell; 'Breastplate' instead of 'Chest' so it does not read as a box."
+ },
+ {
+  "en": "Shell Breastplate +1",
+  "kind": "name",
+  "note": "Exactly 20 bytes."
+ },
+ {
+  "en": "Oath Breastplate",
+  "kind": "name"
+ },
+ {
+  "en": "Ruby Gauntlets",
+  "kind": "name",
+  "note": "Plural like 'Rose Gauntlets' (slice_14)."
+ },
+ {
+  "en": "Ivory Legs",
+  "kind": "name",
+  "note": "Shoes (category [JP]); katakana [JP] kept as 'Legs'."
+ },
+ {
+  "en": "Rime Cloak",
+  "kind": "name",
+  "note": "[JP] = rime-frosted trees; [JP] = 'Cloak' per slice_14."
+ },
+ {
+  "en": "Wings of Destruction",
+  "kind": "name",
+  "note": "Exactly 20 bytes; cloak-slot item."
+ },
+ {
+  "en": "Sapphire Cloak",
+  "kind": "name"
+ },
+ {
+  "en": "War Banner: Blitz",
+  "kind": "name",
+  "note": "[JP] = lightning-fast attack (desc)."
+ },
+ {
+  "en": "War Banner: Wasabi",
+  "kind": "name"
+ },
+ {
+  "en": "Fake Beard",
+  "kind": "name",
+  "note": "[JP] = 'beard' as in the Milonya story lines (wmap slice_11/14); desc6 says Shimerief gave it to Milonya."
+ },
+ {
+  "en": "Tin Bucket",
+  "kind": "name"
+ }
+]

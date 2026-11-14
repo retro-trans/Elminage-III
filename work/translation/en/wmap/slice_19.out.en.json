@@ -1,0 +1,366 @@
+[
+ {
+  "en": "\"Hey, Nora!{w}No, no, you can't do that!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Eeeeeeeeeek!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The customer came back again, debuu!\nToday let's try scrubbing each other, debuu!\"{w}",
+  "kind": "msg",
+  "note": "Nora's verbal tic debu(u) kept as a sentence-final 'debuu' (debu = 'chubby'; Nora is an elephant-person per MON_TEXT 355). Align with slice_18, which has most of Nora's lines."
+ },
+ {
+  "en": "\"Welcome.{w}I'm Yuna, and I'll be looking after you.{w}Please take your time and relax.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welcome. Take your time and relax...{w}",
+  "kind": "msg",
+  "note": "Unclosed quote kept: line is interrupted and replayed inside {0E}..{0F} in row 1445."
+ },
+ {
+  "en": "{0E}\"Welcome. Take your time and relax...{0F}\nOh? You've come back again?{w}Thank you so much for your patronage.\"{w}{p}\"You must be worn out from all that adventuring, aren't you?{w}Please let your bodies heal as much as you like.\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} text repeats row 1444 verbatim."
+ },
+ {
+  "en": "\"Oh? Hello there!\nThanks for coming by, as always!{w}Hehe, I guess I'll have to give you some special service, won't I?\"{w}",
+  "kind": "msg",
+  "note": "saabisu kept as 'service' throughout this scene: the innuendo is the joke, and the payoff (row 1457) is a fizzy bath."
+ },
+ {
+  "en": "\"...Oh, huh?{w}Oh dear... Ah, no... It's not really something I should be telling a customer, but...\"{w}{p}\"We've run out of Stonemelt Water...{w}This is a secret... Just between us, okay?{w}Stonemelt Water has another use, you know.\"{w}",
+  "kind": "msg",
+  "note": "kaisekisui (item that cures petrification, ITEM_HELP 290) -> 'Stonemelt Water' (new term; must match the item-name table once that is translated)."
+ },
+ {
+  "en": "\"If you boil down ten of them and concentrate it,\nyou can use it in a slightly unusual way.{w}What way, you ask? That's a secret.\"{w}{p}\"But...\nI bet you'll be surprised.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You've been such loyal customers,\nso I was thinking of giving you some special service...{w}Oh dear... That stuff is expensive, though...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh dear...\nWithout ten Stonemelt Waters, I can't give you\nthe special service...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But that stuff is so expensive...\nOh dear...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, it's you! Hello!{w}What brings you here tod... Is that Stonemelt Water?\"{w}",
+  "kind": "msg",
+  "note": "Interrupted word kept ('tod...')."
+ },
+ {
+  "en": "\"Huh? Are you sure?{w}Thank you so much!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh... But it's not quite enough.{w}I need ten altogether...\"{w}{p}\"Hmm,\nand after you went to the trouble of bringing it, too...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, it's you! Hello!{w}What brings you here tod... Is that Stonemelt Water?\"{w}{p}\"Huh? Are you sure?{w}",
+  "kind": "msg",
+  "note": "Final quote left open like the source; it continues in the {0E}..{0F} replay of row 1456. Wording matches rows 1452/1453."
+ },
+ {
+  "en": "{0E}\"Huh? Are you sure?{0F}\nThank you so much!\"{w}{p}\"Thanks to you, everything's ready.{w}Just wait a moment...\nHup!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There, all done!\"{w}{p}\"Not many people know this, but{w}it scrubs off the grime really well and loosens up your body, too!\"{w}{p}\"And even when you're not petrified,\nit goes fizz-fizz-fizzzz!!\"{w}",
+  "kind": "msg",
+  "note": "Sentence cut at the source's {w} ('...know this, but' / 'it scrubs...'). Shuwashuwa = 'fizz-fizz-fizzzz' (the item text says it fizzes as it un-petrifies)."
+ },
+ {
+  "en": "\"...Is something wrong?{w}",
+  "kind": "msg",
+  "note": "Unclosed quote kept: replayed in row 1459."
+ },
+ {
+  "en": "{0E}\"...Is something wrong?{0F}\nHehe, what funny customers you are!\"{w}{p}\"Now then, I'm going to give you\na whooole lot of service!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, everyone!\nWelcome!{w}How have you been?\"{w}{p}\"Whenever you're tired,\nI'll give you some special service anytime.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Man",
+  "kind": "name"
+ },
+ {
+  "en": "\"Well, now...{w}Have you finished your business?\"{w}",
+  "kind": "msg",
+  "note": "Kore wa... = mild surprise as the hooded woman returns with the party; spoken to her (she answers in 1464)."
+ },
+ {
+  "en": "Hooded Woman",
+  "kind": "name",
+  "note": "Name box (4 dupes); she is revealed as Hisbert in 1473."
+ },
+ {
+  "en": "\"Aznand. Thanks for minding the place while I was out.\"{w}",
+  "kind": "msg",
+  "note": "New name: Aznand (aznando). Male per narration 1469 (otoko)."
+ },
+ {
+  "en": "Aznand",
+  "kind": "name"
+ },
+ {
+  "en": "\"Not at all. This much is no trouble.{w}It's part of my duties, after all.\"{w}{p}\"But what is it this time?\nOne thing after another.\"{w}{p}\"Well, it's no concern of mine,\nso I suppose I don't mind.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Fufu.\nI'd never make trouble for you. I adore you far too much.\"{w}",
+  "kind": "msg",
+  "note": "daisuki na anata = teasing affection; rendered as teasing, not romance."
+ },
+ {
+  "en": "\"I should hope not.{w}Now, I'll be getting back to my own work.\"{w}{p}\"Please, I beg you, spare me any more headaches.\"{w}",
+  "kind": "msg",
+  "note": "Atarimae desu (answering 'I won't trouble you') -> 'I should hope not.'"
+ },
+ {
+  "en": "With that, the man called Aznand left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I do know, Aznand. Or at least, I think I do.\"{w}",
+  "kind": "msg",
+  "note": "wakatte iru tsumori = she believes she understands (hedged)."
+ },
+ {
+  "en": "\"Phew, sorry about that.{w}At last I can change back into my real clothes.\"{w}{p}\"Sorry. Just wait a moment, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When she took off her hood and her coat, her whole air changed completely.{w}",
+  "kind": "msg",
+  "note": "kanojo (she) is in the source, so 'she/her' for Hisbert here is from the text, not assumed."
+ },
+ {
+  "en": "Hisbert",
+  "kind": "name"
+ },
+ {
+  "en": "\"Oh, that's right, I haven't introduced myself yet.{w}My name is Hisbert.\"{w}{p}\"I'm the librarian of this Elminage System.{w}It's nice to meet you, properly this time.\"{w}",
+  "kind": "msg",
+  "note": "Elminage kikou -> 'Elminage System' and shisho -> lowercase 'librarian', matching slice_20 (rows 1521, 1526)."
+ },
+ {
+  "en": "When you entered Elminage, you heard someone talking.{w}",
+  "kind": "msg",
+  "note": "Scene change: a later visit to Elminage."
+ },
+ {
+  "en": "Spectoria",
+  "kind": "name",
+  "note": "New name: Spectoria (supekutoria); 'Executor of the Divine Realm' per chap slice_022. Gender unknown: no pronouns used."
+ },
+ {
+  "en": "\"Hisbert... I trust you are prepared.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You have overstepped your authority time and again.{w}The divine will is no longer with you.\"{w}",
+  "kind": "msg",
+  "note": "Source opens with a noun fragment (repeated overreach); made a full sentence."
+ },
+ {
+  "en": "\"I know.{w}What I did can never be forgiven.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Then that is well.{w}Let us go, Hisbert.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mysterious Man",
+  "kind": "name",
+  "note": "Name box; he names himself Hevayur in 1486."
+ },
+ {
+  "en": "\"Heh heh heh... Look at the state of you, Hisbert.\"{w}{p}\"Don't worry about what comes after.{w}The Elminage System will carry on just as it always has, even without you.\"{w}",
+  "kind": "msg",
+  "note": "ii zama = gloating; kept the sneer."
+ },
+ {
+  "en": "Before your very eyes, Hisbert was about to be taken away by Spectoria.{w}{p}Perhaps you yourselves bear part of the blame.{w}Just then, the mysterious man blocked your path.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh heh heh... Oh, I've heard all about it.\"{w}{p}\"What could lowly commoners like you possibly do?\"{w}{p}\"Don't imagine for a moment that you have any say in the affairs of Elminage.\"{w}",
+  "kind": "msg",
+  "note": "hanashi wa kiite imasu = he has heard about the matter (the party's involvement); 'heard all about it' keeps that open."
+ },
+ {
+  "en": "Hevayur",
+  "kind": "name",
+  "note": "Matches slice_20. Speaker spelled with hiragana he in this file; same character."
+ },
+ {
+  "en": "\"Ah, forgive me for introducing myself so late.\nI am Hevayur.\"{w}{p}\"A being far beyond the reach of the likes of you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hevayur stood in your way.\nHis hand on his sword, he already seemed ready to fight.{w}",
+  "kind": "msg",
+  "note": "kare (he) in source."
+ },
+ {
+  "en": "\"This is a fine opportunity.{w}For a lower race like yours to fancy yourselves librarians is beyond a joke.\"{w}{p}\"I will remove you myself. Know your place.\"{w}",
+  "kind": "msg",
+  "note": "raiburarian (katakana) -> 'librarians', same as shisho; Hevayur is mocking the party for acting as Hisbert's helpers."
+ },
+ {
+  "en": "\"Ngh...\nDefeating me changes nothing.\"{w}{p}\"Hisbert must be judged.\nYou lot can stand there and watch, helpless.\"{w}",
+  "kind": "msg",
+  "note": "After the battle. Hevayur drops to omae-tachi here (ruder), hence 'You lot'. yubi wo kuwaete = watch powerless."
+ },
+ {
+  "en": "\"Thank you. But that's enough now.\"{w}{p}\"Your Excellency Spectoria.\nI'm sorry for all the trouble.{w}I will present myself before the court of the Divine Realm.\"{w}",
+  "kind": "msg",
+  "note": "Thank-you is to the party (they fought Hevayur for her). Spectoria-sama -> 'Your Excellency' (gender-neutral). shin'iki -> 'Divine Realm'; shuttei = appear in court."
+ },
+ {
+  "en": "\"Very well.{w}A motion of no confidence against you is about to be submitted by Void.\"{w}{p}\"You know this already, but this time no one will take your side.{w}It will most likely pass.\"{w}{p}\"You understand the librarian's final duty, do you not?\"{w}",
+  "kind": "msg",
+  "note": "Source never closes the first quote before {p}; closed it in English. Boido-sama -> 'Lord Void' to match slice_20 row 1523 (see report: 'Lord' is a title choice, gender not stated). Spectoria switches to omae here: colder register."
+ },
+ {
+  "en": "\"Yes. In choosing the next librarian, the librarian's authority lets me cast one vote,\nequal to that of each of the Six Gods of Creation. Correct?\"{w}",
+  "kind": "msg",
+  "note": "sousei rokushin -> 'the Six Gods of Creation' (same term as slice_16 row 1225)."
+ },
+ {
+  "en": "\"Give some thought to whom you will recommend as the next librarian.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I've already made up my mind about that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You intend to vote for Aznand to tie the count,\nthen pick up Zoni's votes in the runoff and make Aznand librarian. Am I right?\"{w}{p}\"Now, I wonder if that will go as planned?\"{w}",
+  "kind": "msg",
+  "note": "New name: Zoni (zoni), a third candidate. Vote mechanics per MON_TEXT 331: final count Aznand 2, Hevayur 4, Zoni 1, no runoff."
+ },
+ {
+  "en": "\"With the Phase Shift drawing near, the Divine Realm too must turn to the creation of the Eld.\"{w}{p}\"And neither Rogera nor Dehain is here, after all.\nEven if it did go to Aznand,\nheh heh heh...\"{w}",
+  "kind": "msg",
+  "note": "New terms: isou tenkan -> 'Phase Shift'; Erudo -> 'the Eld' (unexplained concept; MON_TEXT says Hevayur's race seeks it). New names: Rogera, Dehain (Dehain is the god of existence, slice_16). 'Lord' as for Void."
+ },
+ {
+  "en": "\"Bzzzt! Wrooong!\"{w}",
+  "kind": "msg",
+  "note": "Buppuu, chigaimaasu = playful quiz-show 'wrong answer'."
+ },
+ {
+  "en": "\"Ha ha. Then is it Zoni?\nThat would only split the vote.{w}How absurd.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My vote...{w}Hevayur.{w}I intend to entrust it to you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wha...!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're clever. So I'm sure you...\"{w}",
+  "kind": "msg",
+  "note": "Deliberate trail-off kept."
+ },
+ {
+  "en": "\"...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Your Excellency, you mustn't listen to her!\nI have no connection whatsoever with Hisbert...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I understand.\nIt is because librarians like this one keep appearing that Void recommends you.\"{w}{p}\"The farce that began with Sabra ends with Hisbert.\"{w}{p}\"Elminage will return to its true form, quietly recording history, on and on.{w}That is the decision of the Divine Realm.\"{w}",
+  "kind": "msg",
+  "note": "New name: Sabra (sabura), apparently an earlier librarian who started the 'farce'; not stated outright. Hisbert no dai = in Hisbert's tenure."
+ },
+ {
+  "en": "Just then, with a violent crash, a woman appeared.{w}{p}She was clad in red robes like blazing crimson flames.\nA powerful force, almost like rage, filled the air around her.{w}",
+  "kind": "msg",
+  "note": "hitori no josei / kanojo in source."
+ },
+ {
+  "en": "\"...Hilde...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hilde",
+  "kind": "name",
+  "note": "New name: Hilde (hirude). Female per 1505 narration."
+ },
+ {
+  "en": "\"Hisbert!\nWhat on earth is going on?\"{w}{p}\"I got worried and came to see you, and what is all this?\"{w}{p}\"You promised you'd build a new justice together with me!!\"{w}",
+  "kind": "msg",
+  "note": "Stray full-width space before the second {w} in the source dropped (ASCII only)."
+ },
+ {
+  "en": "As the woman called Hilde screamed these words, the area was engulfed in raging flames.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'm so...rry{w}This is as far as I could go...{w}I'm so sorry...\"{w}",
+  "kind": "msg",
+  "note": "Broken-off gomen...n kept as a broken word."
+ },
+ {
+  "en": "\"I don't believe it... I refuse to believe it!\nThe words you said back then... were they all lies!?\"{w}{p}\"Are you saying I was only being used... by Elminage... by you!?\"{w}{p}\"What about me...{w}my heart...{w}my resolve? What becomes of them?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The flames grew fiercer, as if answering Hilde's cries.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I was torn for such a long time, but thanks to Makakuri, Ruu and these young ones helping me,\nI finally made up my mind.\"{w}{p}\"My mind to make him librarian.\"{w}",
+  "kind": "msg",
+  "note": "New names: Makakuri, Ruu (listed together with Hilde in MONRAW 683; no gender info). kono ko-tachi = the party. 'him' = Hevayur (kare)."
+ },
+ {
+  "en": "\"You... You've lost your mind...\"{w}{p}\"The meaning of everything you've done...\nwhat becomes of that?\"{w}{p}\"You... You won't come out of this unharmed...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank you for worrying about me, Hilde.\"{w}{p}\"I'll be fine. Besides,\nhe's very capable. Probably more than I am...\"{w}{p}\"Fufu. No one sane could ever do a librarian's job.\nBrace yourself, Hevayur.\"{w}",
+  "kind": "msg",
+  "note": "'No one sane' answers Hilde's shouki ja nai (1514). Fufu matches slice_20 row 1531."
+ },
+ {
+  "en": "\"Very well.{w}Recommend me, if you dare.{w}I promise you, I'll make you regret it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Hisbert, what are you thinking?\"{w}",
+  "kind": "msg",
+  "note": "Kept 'thinking' so Hisbert's reply ('the thinking is for everyone here') lands."
+ },
+ {
+  "en": "\"Nothing.\"{w}{p}\"The thinking is up to everyone here.\"{w}{p}\"Thank you, all of you, too.\nFor going along with my selfishness.\"{w}{p}\"Maybe what I did was wrong.\nBut you know what?{w}I don't regret it...\"{w}{p}\"There's no answer anywhere yet.{w}Maybe you could...\"{w}{p}\"No. You'll find it, I know you will.{w}I believe in you.\"{w}",
+  "kind": "msg",
+  "note": "anata-tachi mo arigatou = to the party. Trail-off 'Maybe you could...' kept before she corrects herself."
+ },
+ {
+  "en": "With that, Hisbert, together with Spectoria,{$09} vanished into the light.{w}{p}You might never see her again.{w}With that thought, you kept watching the light as it faded, for a long, long time.{w}",
+  "kind": "msg",
+  "note": "{$09} kept at the same point (before 'into the light'); unknown code, possibly a pause or effect."
+ }
+]

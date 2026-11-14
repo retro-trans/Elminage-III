@@ -1,0 +1,373 @@
+[
+ {
+  "en": "With a strange whirring, a Tetramystica glides across the floor.{w}{p}A Tetramystica specialized for guard duty -- a \"Guard Mystica,\" you might call it.{w}{p}Here and there the students have scrawled on it: \"Idiot,\" \"Moron,\" even doodled nose hairs.{w}Even so, its function of guarding the Academy is still fully intact.{w}{p}So it is only natural that, on spotting you outsiders who don't belong to the Academy, it moves to eliminate you.{w}",
+  "kind": "msg",
+  "note": "Tetramystica = monster name (MONRAW), romanized; 'Guard Mystica' keeps the clipped coinage. Gakufu = 'the Academy' (Santorea Academy dungeon, DGN_NAME 28-30). Nose hairs = doodled on it like the insults."
+ },
+ {
+  "en": "You have run into a foe you never expected.{w}A vast form, its whole body blazing with light.{w}{p}Without a sound, the very air shudders and trembles.{w}With the word \"alien\" lodged in your hearts, you stand exposed to its savage power.{w}",
+  "kind": "msg",
+  "note": "'ishitsu' -> \"alien\" (of a wholly different nature)."
+ },
+ {
+  "en": "Suddenly, a gigantic beast appears before you.{w}Half tiger and half horse, it is wildly flailing its arms and its whole body.{w}{p}And now its fury turns on you as well.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Darkness within darkness.{w}Welling up from the abode of the Nether King, it fills the air around it with an incomprehensible tongue.{w}{p}What it is saying: unknown.{w}What it is even trying to do: unknown.{w}{p}But one thing is clear:\nit means to destroy you.{w}",
+  "kind": "msg",
+  "note": "'kuraki ou' -> 'the Nether King' (title, not in glossary). Kept the terse 'unknown' fragments as deliberate style."
+ },
+ {
+  "en": "A giant leaps out in front of you.{w}It seems to be distracted by something else.{w}{p}It doesn't appear able to tell whether you are enemies or mere visitors.{w}{p}No -- for just a moment it seemed to give it some thought, but\n'Eh, I'll just punch them for now and...'{w}seems to be the conclusion it reached.{w}",
+  "kind": "msg",
+  "note": "Inner thought in single quotes (source uses the double-corner brackets); trailing-off kept. Giant -> 'it' (gender unknown)."
+ },
+ {
+  "en": "You succeeded in driving off the fearsome enemy.",
+  "kind": "msg",
+  "note": "Source string is damaged: the first kana of 'osoroshii' (fearsome) is missing and a stray half-width long-vowel mark stands in its place. Translated the evident full meaning. Source has no {w}; none added."
+ },
+ {
+  "en": "The Floor Master spotted you{w}",
+  "kind": "op031",
+  "note": "op031 system/telop line; short, no period like the source."
+ },
+ {
+  "en": "You shook off the Floor Master{w}",
+  "kind": "op031",
+  "note": "op031 system/telop line."
+ },
+ {
+  "en": "Suffocated",
+  "kind": "op096",
+  "note": "op096 status-type label."
+ },
+ {
+  "en": "You've encountered something!",
+  "kind": "op096"
+ },
+ {
+  "en": "[Key Item]\nObtained Ninja Fiend's Helm.{w}",
+  "kind": "msg",
+  "note": "Key item (ITEM_PRIZ 25:3, trophy of an Archduke boss). 'ninma no tetsuzu' = ninja-fiend's iron head -> 'Ninja Fiend's Helm' (18 chars = ITEM_PRIZ name max). Frame follows pilot style 'Obtained X.'"
+ },
+ {
+  "en": "[Key Item]\nObtained Song of Spirits.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 27:3."
+ },
+ {
+  "en": "[Key Item]\nObtained Flesh-Lump Flower.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 28:3; 'nikukai' = lump of flesh, kept grotesque."
+ },
+ {
+  "en": "[Key Item]\nObtained Deltoi Empty Room.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 29:3. Joke on its boss, a monster named 'Deltoi's Living Room'. 19 chars: one over ITEM_PRIZ max 18 if that table reuses it ('Deltoi Empty Room' = 17)."
+ },
+ {
+  "en": "[Key Item]\nObtained Dark Sakil Shell.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 30:3; boss 'Fanisakil' -> romanized 'Sakil'."
+ },
+ {
+  "en": "[Key Item]\nObtained Aleed Palette.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 31:3; boss 'Aleed Painter' (romanized; possibly a pun on 'arid')."
+ },
+ {
+  "en": "[Key Item]\nObtained Demon-Boob Undies.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 32:3; boss 'Manyuu Salebos'. 'manyuu' is slang for monstrously big breasts; kept the crude-comic register. Source lacks the final period (typo); period added to match the other 19 key-item lines."
+ },
+ {
+  "en": "[Key Item]\nObtained Seot's Demon Nest.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 33:3; boss 'Seot Mar'."
+ },
+ {
+  "en": "[Key Item]\nObtained Unclean Water.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 34:3."
+ },
+ {
+  "en": "[Key Item]\nObtained Menolist's Candle.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 35:3; boss 'Menolist'. 22 chars -- over ITEM_PRIZ max 18; short form 'Menolist's Candle' (17) if that table must match."
+ },
+ {
+  "en": "[Key Item]\nObtained Ponya Sausage.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 36:3; boss 'Ponyapo'."
+ },
+ {
+  "en": "[Key Item]\nObtained Taizarti Lamp.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 37:3; boss 'Taizarti' (Archduke)."
+ },
+ {
+  "en": "[Key Item]\nObtained Glittering Scale.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 38:3."
+ },
+ {
+  "en": "[Key Item]\nObtained Swordsage's Beard.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 39:3; 'kenrou' = aged sword master. 19 chars (ITEM_PRIZ max 18: 'Swordsage's Beard' = 17)."
+ },
+ {
+  "en": "[Key Item]\nObtained Red Light Rank.{w}",
+  "kind": "msg",
+  "note": "ITEM_PRIZ 41:3; '<color>-kou no i' -> '<Color> Light Rank' series (6 colors, Qualia battles, post-game)."
+ },
+ {
+  "en": "[Key Item]\nObtained Blue Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Green Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Yellow Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Black Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained White Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "After defeating the mighty Duke of the Demon World,\nyou found something.{w}",
+  "kind": "msg",
+  "note": "Generic line reused after every Archduke trophy fight (11 places), so no specific name."
+ },
+ {
+  "en": "After winning the battle,\nyou found something.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "# Current floor: {0B:0003:0000}",
+  "kind": "op029",
+  "note": "op029 debug print. Full-width black square -> '#' (ASCII rule)."
+ },
+ {
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "note": "op029 debug print. 'shin'ei' (god-shadow encounter) -> 'Divine Shadow' (new term)."
+ },
+ {
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The great shadow fades away{w}",
+  "kind": "msg",
+  "note": "Source variant without period; kept."
+ },
+ {
+  "en": "Friendly foes appear. Fight?",
+  "kind": "data",
+  "note": "Prompt; number of enemies unknown, plural chosen (group encounter)."
+ },
+ {
+  "en": "Yes",
+  "kind": "data"
+ },
+ {
+  "en": "No",
+  "kind": "data"
+ },
+ {
+  "en": "{0A:0003:0006}'s alignment changed to Good{w}",
+  "kind": "op096",
+  "note": "Glossary alignment 'Good'. No period, like the source."
+ },
+ {
+  "en": "{0A:0003:0006}'s alignment changed to Evil{w}",
+  "kind": "op096",
+  "note": "Glossary alignment 'Evil'."
+ },
+ {
+  "en": "Above the clouds{w}",
+  "kind": "op096",
+  "note": "op096 label (likely debug/area flag)."
+ },
+ {
+  "en": "No floor{w}",
+  "kind": "op096",
+  "note": "op096 label (likely debug/area flag)."
+ },
+ {
+  "en": "Suddenly, your bodies seemed to grow lighter.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "# Divine Shadow check start",
+  "kind": "op029",
+  "note": "op029 debug print."
+ },
+ {
+  "en": "VICTORY_COUNT: {0B:0003:0039}",
+  "kind": "op029",
+  "note": "Debug; full-width colon -> ASCII."
+ },
+ {
+  "en": "     NEXT_GOD: {0B:0003:003A}",
+  "kind": "op029",
+  "note": "Debug; full-width indent -> 5 spaces so the colon aligns under VICTORY_COUNT."
+ },
+ {
+  "en": "Divine Shadow appears",
+  "kind": "op029",
+  "note": "Debug."
+ },
+ {
+  "en": "No Divine Shadow",
+  "kind": "op029",
+  "note": "Debug."
+ },
+ {
+  "en": "You sense a great presence and stop in your tracks.{w}{p}In an instant the presence blankets the world, bearing down on you with overwhelming force.{w}{p}This is the shadow of one who lies \"outside\" the world.{w}A being unlike you.{w}{p}Beware!\nYou must never encounter it!{w}{p}This is a warning.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hide, lest your souls be blown away.",
+  "kind": "data",
+  "note": "Single forced choice (data). Full sense: 'Hide yourselves before your souls are blown away.' (49); shortened to 35 -- over the ~30 menu guide; flag for fit check."
+ },
+ {
+  "en": "You held your breath and waited for the calamity to pass.{w}{p}\"It\" vanished in an instant, just as it had appeared.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You feel a great temptation and falter.{w}{p}In an instant the temptation blankets your reason, bearing down on you with overwhelming allure.{w}{p}This is the costume change of one who lies \"outside\" common sense.{w}A being unlike you.{w}{p}Beware!\nYou must never awaken to it!{w}{p}This is a warning.{w}",
+  "kind": "msg",
+  "note": "Parody of row 50: 'kage' (shadow) -> 'kigae' (change of clothes). Sound pun not reproducible; kept the parallel structure. 'mezamete wa naranai' = must never be awakened (to a kink) -> 'awaken to it'."
+ },
+ {
+  "en": "Obey, lest your reason be blown away.",
+  "kind": "data",
+  "note": "Parody of row 51. Full sense: 'Do as you're told before your reason is blown away.' 37 chars; flag for fit check."
+ },
+ {
+  "en": "The giant shadow that appeared before you looked somehow familiar.{w}{p}It walked away without a word.{w}{p}Was it just your imagination?\nIts lips seemed to curl into a faint smile.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Searching the area, you found something.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You found {0C:0001:0001}.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Take it?",
+  "kind": "data"
+ },
+ {
+  "en": "if it fits",
+  "kind": "op093",
+  "note": "op093 branch label, damaged fragment ('...ru baai' = 'case where (it) ...'). Probably never shown; meaning inferred from rows 60/62."
+ },
+ {
+  "en": "[Key Item]\nObtained {0C:0001:0001}.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "if it doesn't",
+  "kind": "op093",
+  "note": "op093 branch label fragment ('...nai baai'). Probably never shown."
+ },
+ {
+  "en": "You left {0C:0001:0001} behind.{w}",
+  "kind": "msg",
+  "note": "'houki shita' = gave up / abandoned the item."
+ },
+ {
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "note": "Key item / insert name (ITEM_PRIZ 4:3). 'hikari no kaiseki' = remains of the Stair of Light (castle line 91152 glosses it that way). 16 chars. NEW TERM."
+ },
+ {
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "note": "ITEM_PRIZ 5:3. 'Hemaid' = the red Phantom Stone (pun on hematite); siblings Plakio (green), Menon (blue). 18 chars."
+ },
+ {
+  "en": "The Stairway of Light stretches up toward the Palace of the Sun.{w}But you can't touch it!{w}{p}It seems that by entering the Palace of the Sun some other way, you lost the right to climb the Stairway of Light.{w}",
+  "kind": "msg",
+  "note": "'hikari no kaidan' -> 'Stair of Light' (new term)."
+ },
+ {
+  "en": "The Stairway of Light stretches up toward the Palace of the Sun.{w}But you can't touch it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Stairway of Light stretches up toward the Palace of the Sun.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Go to the Palace of the Sun?",
+  "kind": "data"
+ },
+ {
+  "en": "Balgert",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hey, you made it!\nHave you offered the three Phantom Stones\nat their altars?\"{w}",
+  "kind": "msg",
+  "note": "Balgert (king of Algrantz per slice_02; rough speech) -> blunt, casual English. 'genseki' -> 'Phantom Stone' (new term)."
+ },
+ {
+  "en": "\"What, you haven't done it yet!{w}Come on, let's hurry up and get that stair out!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Looks like you're all set!{w}Look, Natori and Mayleen came out for us too!\"{w}",
+  "kind": "msg",
+  "note": "'kite kureta' = came (for our sake) -> 'came out for us'."
+ },
+ {
+  "en": "Natori",
+  "kind": "name"
+ },
+ {
+  "en": "\"You got all three Phantom Stones! That's amazing!\"{w}",
+  "kind": "msg",
+  "note": "'sangenseki' -> 'all three Phantom Stones'."
+ },
+ {
+  "en": "Mayleen",
+  "kind": "name"
+ },
+ {
+  "en": "\"My, you people are quite capable.{w}You rise ever higher in my esteem!\"{w}",
+  "kind": "msg",
+  "note": "Mayleen: refined 'desu wa' speech -> formal, slightly haughty English. 'masumasu minaoshita' = thinks even better of them than before. Natori's next line reacts to this unusual praise."
+ },
+ {
+  "en": "\"M-Mayleen...?\"{w}",
+  "kind": "msg",
+  "note": "Natori taken aback by Mayleen's praise."
+ },
+ {
+  "en": "\"What is it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"N-no, nothing...\"{w}",
+  "kind": "msg"
+ }
+]

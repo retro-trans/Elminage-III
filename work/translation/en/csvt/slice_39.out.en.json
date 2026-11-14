@@ -1,0 +1,397 @@
+[
+ {
+  "en": "Holy Word",
+  "kind": "name",
+  "note": "Hevayur's epithet (c65). seigenshi = sacred word/utterance; invented-style title like the Ryug epithets in slice_38."
+ },
+ {
+  "en": "Red Qualia",
+  "kind": "name",
+  "note": "Nickname row = kana form of the name; Qualia colours as in ebt slice_18 rows 1430-1435."
+ },
+ {
+  "en": "Unknowable",
+  "kind": "name",
+  "note": "Epithet shared by all six Qualia (c66-71). 'The Unknowable' is 14 bytes > 12."
+ },
+ {
+  "en": "Blue Qualia",
+  "kind": "name"
+ },
+ {
+  "en": "Green Qualia",
+  "kind": "name"
+ },
+ {
+  "en": "Yel. Qualia",
+  "kind": "name",
+  "note": "'Yellow Qualia' (ebt slice_18 row 1433) is 13 bytes > 12; abbreviated."
+ },
+ {
+  "en": "White Qualia",
+  "kind": "name"
+ },
+ {
+  "en": "Black Qualia",
+  "kind": "name"
+ },
+ {
+  "en": "Spectoria",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Voice of Elnoa",
+  "kind": "name",
+  "note": "Spectoria's epithet. daibensha = spokesperson. Elnoa as in 'Elnoa-Malem' (chap slice_021 rows 1689, 1693)."
+ },
+ {
+  "en": "Mucha",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Ba-boom!",
+  "kind": "name",
+  "note": "Mucha's catchphrase, as in wmap slice_06 rows 436, 449."
+ },
+ {
+  "en": "Zeppo",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Stables, eh?",
+  "kind": "name",
+  "note": "Zeppo the innkeeper (old-man jaro). Wizardry joke: broke adventurers sleep in the stables."
+ },
+ {
+  "en": "Gia",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Toiler",
+  "kind": "name",
+  "note": "kurounin = someone who has been through hardship; 6-byte slot."
+ },
+ {
+  "en": "Hardy",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Miser",
+  "kind": "name",
+  "note": "Glossary 'Money-Grubber' (13 bytes) does not fit 10; 'Miser' keeps the meaning. Reviewer may prefer a different abbreviation."
+ },
+ {
+  "en": "Balgert",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Merely Healthy",
+  "kind": "name",
+  "note": "kenkou dake ga torie = 'health is his only merit'; teasing epithet for King Balgert."
+ },
+ {
+  "en": "Fena",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Hall Big Sis",
+  "kind": "name",
+  "note": "kunrenjo no anego = 'big sis / boss lady of the Training Hall'. 'Big Sis' follows the source word anego (female-coded), not an inference from the name. 12-byte slot."
+ },
+ {
+  "en": "Branon",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Bottomless",
+  "kind": "name",
+  "note": "gohan wa betsubara = 'meals go in a separate stomach' (always room for more); Branon is always eating."
+ },
+ {
+  "en": "Chirocco",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Gardener",
+  "kind": "name",
+  "note": "As in wmap slice_10 row 787."
+ },
+ {
+  "en": "Madulay",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Crusty Tech",
+  "kind": "name",
+  "note": "ganko na rou-gishi = 'stubborn old engineer'; 'crusty' carries old + stubborn in the 12-byte slot."
+ },
+ {
+  "en": "Shimerief",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Sword Ace",
+  "kind": "name",
+  "note": "ken no tatsujin = sword master; 'Swordmaster' is 11 bytes > 10."
+ },
+ {
+  "en": "Toner",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "End",
+  "kind": "name",
+  "note": "Toner = owari, Safi = hajimari (end / beginning pair; Safi is Toner's alter ego). 'The End' is 7 bytes > 6."
+ },
+ {
+  "en": "Safi",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Start",
+  "kind": "name",
+  "note": "Pairs with Toner's 'End' (row 3234)."
+ },
+ {
+  "en": "Empress Rianna",
+  "kind": "name",
+  "note": "Glossary/corpus (wmap slice_03 row 245)."
+ },
+ {
+  "en": "Empress Rianna",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Machine Empress",
+  "kind": "name",
+  "note": "kishin koutei = 'machine-body emperor'; Rianna is female (glossary), so Empress."
+ },
+ {
+  "en": "Milonya",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Luvs Decoykins",
+  "kind": "name",
+  "note": "Decoy-chan rabu; 'Decoykins' per glossary, playful 'Luvs' for the katakana ravu."
+ },
+ {
+  "en": "Decoy",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Milonya's Creepy",
+  "kind": "name",
+  "note": "Decoy's epithet: 'Milonya is gross/creepy' (kimoi). Exactly 16 bytes."
+ },
+ {
+  "en": "Lotz",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Wise Old Teacher",
+  "kind": "name",
+  "note": "chie wo tsutaeru kenrou = 'wise elder who passes on knowledge'."
+ },
+ {
+  "en": "Natori",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Dreams of Riches",
+  "kind": "name",
+  "note": "ikkaku senkin wo yumemiru = 'dreams of striking it rich'."
+ },
+ {
+  "en": "Chair Wattner",
+  "kind": "name",
+  "note": "Glossary form 'Council Chair Wattner' is 21 bytes > 18; 'Chair' as in wmap slice_14 row 1093."
+ },
+ {
+  "en": "Chair Wattner",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "Central Cncl Chair",
+  "kind": "name",
+  "note": "chuuou gikai gichou = Chair of the Central Council (glossary). Full 'Central Council Chair' is 21 > 18; 'Cncl' abbreviation."
+ },
+ {
+  "en": "Mayleen",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Prim Lady",
+  "kind": "name",
+  "note": "keppeki no shukujo = fastidious lady."
+ },
+ {
+  "en": "Arlotte",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Prima Donna",
+  "kind": "name"
+ },
+ {
+  "en": "Zonette",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Dine & Dash Pro",
+  "kind": "name",
+  "note": "kuinige wa makasero = 'leave the dine-and-dash to me'."
+ },
+ {
+  "en": "Molder",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Town Peacekeeper",
+  "kind": "name",
+  "note": "machi no heiwa wa makasero = 'leave the town's peace to me' (Molder, Captain of the Guard); mirrors Zonette's row 3256."
+ },
+ {
+  "en": "Barjeff",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Love Envoy",
+  "kind": "name",
+  "note": "Glossary 'Evangelist of Love' (18 bytes) does not fit 10; shortened. Reviewer may prefer 'Love Guru'."
+ },
+ {
+  "en": "Nora",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Easy, debuu!",
+  "kind": "name",
+  "note": "chooroi debuu = 'easy-peasy / what a pushover, debuu' with Nora's tic (glossary: debuu, lowercase). Who/what is 'easy' is not settled; kept as her exclamation."
+ },
+ {
+  "en": "Yuna",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Scrub Your Back?",
+  "kind": "name",
+  "note": "osenaka, nagashimasu = 'I'll wash your back' (bathhouse attendant offer, polite)."
+ },
+ {
+  "en": "Aznand",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Aloof Deputy Lib",
+  "kind": "name",
+  "note": "seikan suru shisho daikou = 'acting librarian who watches from the sidelines'. 'Lib' = librarian; 16-byte slot."
+ },
+ {
+  "en": "Emera",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Soul Therapist",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Bona",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Precocious",
+  "kind": "name",
+  "note": "omase-san = precocious little one. Exactly 10 bytes."
+ },
+ {
+  "en": "Brassel",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Thief King",
+  "kind": "name",
+  "note": "touzoku-ou; glossary Thief. Exactly 10 bytes."
+ },
+ {
+  "en": "Fulgrant",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Our Chief!",
+  "kind": "name",
+  "note": "ore-tachi no okashira = 'our boss!' (his ogres' cheer); 'Chief Fulgrant' as in chap slice_014."
+ },
+ {
+  "en": "Zaalhaut",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Taboo Mage",
+  "kind": "name",
+  "note": "kinki no majutsushi; glossary majutsushi = Mage. 'Forbidden Mage' is 14 > 12."
+ },
+ {
+  "en": "Hilde",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Radiance",
+  "kind": "name",
+  "note": "kouten no kimi = 'the noble one of the Radiant Heaven' (kouten as in csvt slice_02 row 172). 8-byte slot."
+ },
+ {
+  "en": "Hisbert",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Fairy King Meem",
+  "kind": "name",
+  "note": "Meem as in chap slice_018 rows 1463-1471 (not in glossary)."
+ },
+ {
+  "en": "Fairy King Meem",
+  "kind": "name",
+  "note": "Kana form of the name; same English."
+ },
+ {
+  "en": "The Noble One",
+  "kind": "name",
+  "note": "kedakaki mono."
+ }
+]

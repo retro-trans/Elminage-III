@@ -1,0 +1,224 @@
+[
+ {
+  "en": "No Memory Stick\nis inserted.",
+  "kind": "ui",
+  "note": "Source has the font's TM glyph after Memory Stick; dropped (ASCII only). Pro-drop restored as 'No Memory Stick is inserted'."
+ },
+ {
+  "en": "Not enough free space.\nNeed %dKB more.",
+  "kind": "ui",
+  "note": "max_bytes 39: 38 used."
+ },
+ {
+  "en": "No Memory Stick is inserted.\nA Memory Stick with %dKB\nof free space is required.",
+  "kind": "ui"
+ },
+ {
+  "en": "Not enough space on the Memory Stick.\n%dKB more is needed.\nLaunching the data deletion utility.",
+  "kind": "ui"
+ },
+ {
+  "en": "Failed to load.",
+  "kind": "ui"
+ },
+ {
+  "en": "No Memory Stick is inserted.\nTo save data, a Memory Stick with at least\n%dKB of free space is required.",
+  "kind": "ui"
+ },
+ {
+  "en": "To save this game's data,\n%dKB more is required.",
+  "kind": "ui"
+ },
+ {
+  "en": "Which save data do you want to overwrite?\n(Up/Down: select, Circle: confirm)",
+  "kind": "ui",
+  "note": "Circle button written as 'Circle' (no ASCII circle glyph)."
+ },
+ {
+  "en": "Deleting...",
+  "kind": "ui",
+  "note": "Progress message; '...' added to match an ongoing action."
+ },
+ {
+  "en": "to",
+  "kind": "ui",
+  "note": "Single kanji 'until/up to', 2-byte fixed slot, 2 uses; display context unknown. If it is appended directly after a number, '~' may read better."
+ },
+ {
+  "en": "Resurrection failed. The character is lost.",
+  "kind": "ui",
+  "note": "Wizardry-style permanent loss ('lost'). Subject restored as 'the character' (no name insert in source)."
+ },
+ {
+  "en": "Resurrection failed. The character is now ash.",
+  "kind": "ui",
+  "note": "Ashed state (one step before lost)."
+ },
+ {
+  "en": "%s-%s",
+  "kind": "ui",
+  "note": "Full-width dash -> ASCII hyphen."
+ },
+ {
+  "en": "Class Icons",
+  "kind": "ui",
+  "note": "Portrait-set list: the class-icon set, followed by the preset character design sets (credited in slice_20 rows 1546-1556 as preset character designs)."
+ },
+ {
+  "en": "Grace 1",
+  "kind": "ui",
+  "note": "Preset portrait set name (credits slice_20 row 1547)."
+ },
+ {
+  "en": "Grace 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Kanosuke 1",
+  "kind": "ui",
+  "note": "Credits spell it in kanji (slice_20 row 1548); romanized Kanosuke."
+ },
+ {
+  "en": "Kanosuke 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Aruna 1",
+  "kind": "ui",
+  "note": "Romanized Aruna (alt. 'Alna')."
+ },
+ {
+  "en": "Aruna 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Meme 1",
+  "kind": "ui",
+  "note": "Credits give the full set name as 'Meme(star)Stampy' (slice_20 row 1550); menu uses short form."
+ },
+ {
+  "en": "Meme 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Green 1",
+  "kind": "ui",
+  "note": "Source already in Latin letters (full-width)."
+ },
+ {
+  "en": "Green 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Froila 1",
+  "kind": "ui",
+  "note": "Romanized Froila (alt. 'Floira'/'Furoira')."
+ },
+ {
+  "en": "Froila 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Garveon 1",
+  "kind": "ui",
+  "note": "Romanized Garveon (v from the source's vu-kana)."
+ },
+ {
+  "en": "Garveon 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Common 1",
+  "kind": "ui",
+  "note": "Read as the English word 'common' (generic set); credited to IPPY in slice_20 row 1554."
+ },
+ {
+  "en": "Common 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Fuji 1",
+  "kind": "ui",
+  "note": "Source in Latin letters; credits use 'Fujiyama'."
+ },
+ {
+  "en": "Fuji 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Hiyora 1",
+  "kind": "ui",
+  "note": "Romanized Hiyora (long vowel dropped); alt. 'Hiyorer'. No source found."
+ },
+ {
+  "en": "Hiyora 2",
+  "kind": "ui"
+ },
+ {
+  "en": "Doppel %d",
+  "kind": "ui",
+  "note": "Doppel(ganger) portrait slots; space added before the number like the other sets."
+ },
+ {
+  "en": "  ",
+  "kind": "ui",
+  "note": "Single full-width blank (dupes 4) -> two ASCII spaces to keep the same column width."
+ },
+ {
+  "en": "The Book of the Next Age was bathed in light.",
+  "kind": "ui",
+  "note": "Glossary: Book of the Next Age."
+ },
+ {
+  "en": "Nothing happened.",
+  "kind": "ui"
+ },
+ {
+  "en": "Downed characters were carried to the temple.",
+  "kind": "ui",
+  "note": "'Downed' = any character unable to move (dead/ashed/etc.); kept under 46 cols. Generic 'temple' (source does not name Rust Temple)."
+ },
+ {
+  "en": "Nothing for sale.",
+  "kind": "ui"
+ },
+ {
+  "en": "??????",
+  "kind": "ui",
+  "note": "Unknown-name placeholder; full-width ? -> ASCII, same count."
+ },
+ {
+  "en": "--",
+  "kind": "ui",
+  "note": "Full-width dashes -> ASCII."
+ },
+ {
+  "en": "Back",
+  "kind": "ui"
+ },
+ {
+  "en": "Data hasn't been installed yet.\nInstalling the data lets you\nplay the game more smoothly.",
+  "kind": "ui",
+  "note": "Data Install (PSP media install) prompt."
+ },
+ {
+  "en": "No Memory Stick is inserted.\nThe game will start without one.",
+  "kind": "ui",
+  "note": "max_bytes 69: 61 used."
+ },
+ {
+  "en": "%s was carried to the temple.",
+  "kind": "ui",
+  "note": "Full-width space after %s dropped; normal English spacing."
+ },
+ {
+  "en": "\"You do mighty fine work, you do.\nI like you. Hah hah hah!\"",
+  "kind": "ui",
+  "note": "Speaker is Grand Merchant Walmitt (next row; ITEM_TEXT 468 calls him Grand Merchant Walmitt). Source has a typo (sasuna for suru na) read as 'do'. Addressee 'kimi' = the player/party, rendered 'you'."
+ },
+ {
+  "en": "Walmitt",
+  "kind": "ui",
+  "note": "NEW NAME: Walmitt (Grand Merchant; his hat is 'Walmy Hat' in ITEM_TEXT 468). Speaker-name string, 4 uses."
+ }
+]

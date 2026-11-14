@@ -1,0 +1,371 @@
+[
+ {
+  "en": "2-Head Snake",
+  "kind": "name",
+  "note": "Epithet of Both Heads (slice_34 row 2880). 'Two-Headed Serpent' does not fit 12 bytes."
+ },
+ {
+  "en": "Red Dragon",
+  "kind": "name"
+ },
+ {
+  "en": "Scorching",
+  "kind": "name"
+ },
+ {
+  "en": "Ice Dragon",
+  "kind": "name"
+ },
+ {
+  "en": "Freezing",
+  "kind": "name"
+ },
+ {
+  "en": "Hydra",
+  "kind": "name",
+  "note": "As item Hydra Fang."
+ },
+ {
+  "en": "Dread Serpent",
+  "kind": "name"
+ },
+ {
+  "en": "Grannada",
+  "kind": "name",
+  "note": "Romanized; kept the double n of the kana (not the city Granada)."
+ },
+ {
+  "en": "Lookback Drake",
+  "kind": "name",
+  "note": "Pun on mikaeri bijin ('beauty looking back'); bestiary: it hates being seen from behind and can only turn its head. 'Lookback Dragon' is 15 > 14."
+ },
+ {
+  "en": "Scaly Halo",
+  "kind": "name",
+  "note": "haiirou = Halo, as item Demon Halo."
+ },
+ {
+  "en": "Seven-Hued Dragon",
+  "kind": "name"
+ },
+ {
+  "en": "Rootless Tail",
+  "kind": "name",
+  "note": "Bestiary puns on its unknown 'roots'."
+ },
+ {
+  "en": "Earthswim Dragon",
+  "kind": "name",
+  "note": "'swims' through the ground (bestiary)."
+ },
+ {
+  "en": "Amphisbaena",
+  "kind": "name"
+ },
+ {
+  "en": "2-Head Fell Wyrm",
+  "kind": "name",
+  "note": "majuu = fell/demonic dragon; '2-Head' abbreviation as row 2881."
+ },
+ {
+  "en": "Salamander",
+  "kind": "name"
+ },
+ {
+  "en": "Pink Monster",
+  "kind": "name"
+ },
+ {
+  "en": "Elemental Wieg",
+  "kind": "name",
+  "note": "UNCERTAIN: wiigu romanized as 'Wieg'; source word unknown (a holy wyvern per bestiary)."
+ },
+ {
+  "en": "Radiant Spirit Wing",
+  "kind": "name"
+ },
+ {
+  "en": "Emerald Dragon",
+  "kind": "name"
+ },
+ {
+  "en": "Green Flash Dragon",
+  "kind": "name"
+ },
+ {
+  "en": "Dras Gloria",
+  "kind": "name",
+  "note": "Romanized. Female (bestiary uses kanojo)."
+ },
+ {
+  "en": "Dragon Queen",
+  "kind": "name",
+  "note": "Bestiary also calls her 'Dragon Queen' -- keep MON_TEXT consistent."
+ },
+ {
+  "en": "Adventurer",
+  "kind": "name",
+  "note": "Epithet of Fighter (name deduped). 'Fighting Adventurer' cannot fit 10 bytes; the 'fighting' sense is carried by the name Fighter."
+ },
+ {
+  "en": "Ronin",
+  "kind": "name"
+ },
+ {
+  "en": "Wanderer",
+  "kind": "name",
+  "note": "Wandering samurai; 8 bytes max."
+ },
+ {
+  "en": "Santorea 1st-Yr Martial",
+  "kind": "name",
+  "note": "Santorea Martial Arts Dept.; pattern follows chap speaker names '2nd-Yr Martial'."
+ },
+ {
+  "en": "Santorea 1st-Year",
+  "kind": "name",
+  "note": "Kana nickname form (ichinensei); short form without the department."
+ },
+ {
+  "en": "I Will Master the Sword",
+  "kind": "name",
+  "note": "Boy swordsman's resolve (kiwamen, volitional)."
+ },
+ {
+  "en": "Battle for Fried Bread",
+  "kind": "name",
+  "note": "Second variant (axe girl): scramble for agepan, the sugared fried bread of school lunches."
+ },
+ {
+  "en": "Farmer",
+  "kind": "name",
+  "note": "As chap speaker name."
+ },
+ {
+  "en": "Till Life!",
+  "kind": "name",
+  "note": "jinsei wo tagayase = 'Cultivate your life!'; 12 bytes max."
+ },
+ {
+  "en": "Santorea 2nd-Yr Martial",
+  "kind": "name"
+ },
+ {
+  "en": "Santorea 2nd-Year",
+  "kind": "name"
+ },
+ {
+  "en": "What Is the Sword's Way?",
+  "kind": "name",
+  "note": "Exactly 24 bytes."
+ },
+ {
+  "en": "Battle for Seconds",
+  "kind": "name",
+  "note": "School-lunch second helpings; pairs with row 2910."
+ },
+ {
+  "en": "Barbarian",
+  "kind": "name"
+ },
+ {
+  "en": "Ah-ee-ah-aaah!",
+  "kind": "name",
+  "note": "Tarzan-style jungle yell."
+ },
+ {
+  "en": "Gladiator",
+  "kind": "name"
+ },
+ {
+  "en": "Muscles of Steel",
+  "kind": "name"
+ },
+ {
+  "en": "Fandebu",
+  "kind": "name",
+  "note": "UNCERTAIN: romanized; origin unknown (alchemical chariot-warrior). Epithet uses German 'Attacke'."
+ },
+ {
+  "en": "Onward, Attacke!",
+  "kind": "name",
+  "note": "Kept the German battle cry 'Attacke!' (charge!) that the Japanese borrows; 16 bytes exactly."
+ },
+ {
+  "en": "Santorea 3rd-Yr Martial",
+  "kind": "name"
+ },
+ {
+  "en": "Santorea 3rd-Year",
+  "kind": "name"
+ },
+ {
+  "en": "Sword's Way, Heart's Way",
+  "kind": "name",
+  "note": "ken no michi wa kokoro no michi."
+ },
+ {
+  "en": "Go for the Whole Pot!",
+  "kind": "name",
+  "note": "Bestiary: she demands the whole school-lunch pot."
+ },
+ {
+  "en": "Major Daimyo",
+  "kind": "name"
+ },
+ {
+  "en": "Ho! Wait a Moment!",
+  "kind": "name",
+  "note": "Kabuki call 'Shibaraku!' (Wait a moment!)."
+ },
+ {
+  "en": "Dark Lord",
+  "kind": "name",
+  "note": "As chap speaker name."
+ },
+ {
+  "en": "Fallen Lord",
+  "kind": "name",
+  "note": "yami-ochi = fallen to darkness; 12 bytes max."
+ },
+ {
+  "en": "Maharaja Knight",
+  "kind": "name",
+  "note": "Pun on 'Maharaja Night' kept as Knight."
+ },
+ {
+  "en": "Raja Raja",
+  "kind": "name"
+ },
+ {
+  "en": "Lady Smash",
+  "kind": "name"
+ },
+ {
+  "en": "Fist's Her Lover",
+  "kind": "name",
+  "note": "She has no lover, her fists satisfy her (bestiary)."
+ },
+ {
+  "en": "Hatamoto",
+  "kind": "name",
+  "note": "As chap speaker name."
+ },
+ {
+  "en": "Banners High",
+  "kind": "name",
+  "note": "Kakageyo, gunki = 'Raise the war banner!'; 'Raise the Banner' > 12 bytes."
+ },
+ {
+  "en": "Sovereign's Sword",
+  "kind": "name",
+  "note": "Epithet of Imperial Sword (name deduped). koutei = Rianna in this game, rendered 'Sovereign' elsewhere; gender-neutral."
+ },
+ {
+  "en": "Kurushu Knight",
+  "kind": "name",
+  "note": "Pun: 'kurushuu nai' (lordly 'you may approach') + Knight; pairs with epithet 'Come Hither'. Romanized pun."
+ },
+ {
+  "en": "Come Hither",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Lord",
+  "kind": "name",
+  "note": "As chap speaker name."
+ },
+ {
+  "en": "Dragonewt Lord",
+  "kind": "name",
+  "note": "As CHR.CSV 'Dragonewt Lord'."
+ },
+ {
+  "en": "Mifune",
+  "kind": "name"
+ },
+ {
+  "en": "Guard",
+  "kind": "name",
+  "note": "youjinbou = bodyguard ('Yojimbo', a Mifune film nod) -- 'Yojimbo' is 7 > 6 bytes, so the reference is lost."
+ },
+ {
+  "en": "Spellcaster",
+  "kind": "name",
+  "note": "Epithet of Mage (name deduped)."
+ },
+ {
+  "en": "Alch. Pupil",
+  "kind": "name",
+  "note": "Epithet of Alchemist (name deduped): 'one who studies alchemy'; 12 bytes max."
+ },
+ {
+  "en": "Santorea 1st-Yr Magic",
+  "kind": "name",
+  "note": "Santorea Magic Dept."
+ },
+ {
+  "en": "Let the Studies Begin!",
+  "kind": "name",
+  "note": "Cheery desu! tone."
+ },
+ {
+  "en": "A Season When All Shines",
+  "kind": "name"
+ },
+ {
+  "en": "Witch",
+  "kind": "name"
+ },
+ {
+  "en": "Fey Witch",
+  "kind": "name",
+  "note": "ayashi = bewitching/uncanny; 10 bytes max."
+ },
+ {
+  "en": "Bard",
+  "kind": "name"
+ },
+ {
+  "en": "Tarot of Fate",
+  "kind": "name"
+ },
+ {
+  "en": "Santorea 2nd-Yr Magic",
+  "kind": "name"
+ },
+ {
+  "en": "It's Puberty Time!",
+  "kind": "name",
+  "note": "Cheery desu! tone; bestiary: easily tempted age."
+ },
+ {
+  "en": "Chicks Waiting to Fledge",
+  "kind": "name",
+  "note": "uka = emerging into winged form; 24 bytes exactly."
+ },
+ {
+  "en": "High Sorceress",
+  "kind": "name"
+ },
+ {
+  "en": "Advanced Mage",
+  "kind": "name",
+  "note": "joukyuu majutsushi; glossary Mage."
+ },
+ {
+  "en": "High Alchemy",
+  "kind": "name",
+  "note": "Name is literally 'High Alchemy'."
+ },
+ {
+  "en": "Seeker of Life",
+  "kind": "name",
+  "note": "Pursues the origin of life (bestiary)."
+ },
+ {
+  "en": "Snail Lich",
+  "kind": "name",
+  "note": "As MONSTER1 'Lich'. Its epithet is in slice_36 (row 2961)."
+ }
+]

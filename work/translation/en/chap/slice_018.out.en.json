@@ -1,0 +1,372 @@
+[
+ {
+  "en": "\"...Useless.\"{w}",
+  "kind": "msg",
+  "note": "Narv speaks in stilted katakana in the source; rendered terse and formal throughout, no contractions."
+ },
+ {
+  "en": "\"Ngh...\"{w}{p}\"Wait.\nNot yet... I...!\"{w}",
+  "kind": "msg",
+  "note": "Shaharon pleading as Narv turns on it; \"mada... watashi wa...\" trails off."
+ },
+ {
+  "en": "\"Receive judgment.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ugoooh!!\n...Gwaaargh...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Shaharon was struck by a fierce bolt of lightning.{w}{p}Dark smoke rose from Shaharon's body in countless trails, and those two long arms crumpled to the floor, robes and all.{w}",
+  "kind": "msg",
+  "note": "No pronoun for Shaharon (gender unknown): \"its two long arms\" -> \"those two long arms\"."
+ },
+ {
+  "en": "\"Let us go and dispose\nof the useless one.\"{w}",
+  "kind": "msg",
+  "note": "sutete yuku ka: Narv deciding to dump Shaharon (cf. chap 1376, same verb for Necrophilis)."
+ },
+ {
+  "en": "A dark abyss welled up around Narv and the others.{w}The spirit who had drowned in the power of darkness was swallowed into the bottomless abyss along with Narv, leaving no trace...{w}",
+  "kind": "msg",
+  "note": "Parallel to chap 1378/1392. \"The spirit\" = Shaharon (row 1417: Shaharon was once a spirit like Yorfa)."
+ },
+ {
+  "en": "\"Defy us, and you will suffer the same.\nTake that to heart.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Leaving those ominous words behind,\nNarv departed.{w}",
+  "kind": "msg",
+  "note": "Source has no final period; added one, as in normal narration."
+ },
+ {
+  "en": "At the back of the room were Dark Mayer and a spirit who appeared to be the Moonlight Spirit.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I won't let you get in my way either.\nI will save Rafa, no matter what!\"{w}",
+  "kind": "msg",
+  "note": "Yorfa to the party (\"anata-tachi ni mo\")."
+ },
+ {
+  "en": "\"Yes. If things go on like this,\nall the Sun Spirit can do is waste away.{w}You must carry out the rescue with your own power.\"{w}{p}\"And what must you do to that end?\nYou know, don't you?\"{w}",
+  "kind": "msg",
+  "note": "Dark Mayer to Yorfa (omae). Phrased to avoid a pronoun for Rafa / the Sun Spirit."
+ },
+ {
+  "en": "\"......Hold on.\nVery soon, I'll have you...\"{w}",
+  "kind": "msg",
+  "note": "Yorfa addressing Rafa (anata o), trailing off; kept unfinished."
+ },
+ {
+  "en": "\"N-no...\"{w}{p}\"Rafa... to get you out,{w}I'd have to...\"{w}",
+  "kind": "msg",
+  "note": "sonna... = dismay at what the rescue requires (Dark Mayer's hint in 1436). Sentence cut at the {w} as in the source."
+ },
+ {
+  "en": "\"Enough of this farce.\nYou, stay out of the way now.\"{w}{p}\"In any case, that Sun Spirit is past saving.{w}Your stubborn insistence that all is well\nis touching, I'll grant you.\"{w}",
+  "kind": "msg",
+  "note": "Dark Mayer turning on Yorfa. \"kataku-na ni buji o shinjiru\" rendered without a pronoun for the Sun Spirit."
+ },
+ {
+  "en": "\"......!\"{w}{p}\"...Ahh!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I must hand it to you lot.{w}But this Palace of the Sun is already\nbeing joined to the Dark Realm.\"{w}",
+  "kind": "msg",
+  "note": "Dark Mayer to the party (omae-tachi), apparently after the fight. anniki = \"the Dark Realm\" (wmap slice_20 row 1526)."
+ },
+ {
+  "en": "Welsconi",
+  "kind": "name",
+  "note": "New name: weru-suko-o-ni. Appears in the same scene slot as Dark Fuhrer (1443/1445, 1446/1451 are parallel lines), so probably alternative bosses of one encounter."
+ },
+ {
+  "en": "\"So this is the true power of the Kin of Darkness...\"{w}{p}\"Our great king...{w}Behold the power of Numbra Malem!\"{w}",
+  "kind": "msg",
+  "note": "kin of darkness: lowercase as in chap slice_008 / wmap slice_20. Numbra Malem: new name (nunbura mare-mu); \"Numbra\" matches \"Numbra Narv\" in chap 1360."
+ },
+ {
+  "en": "Dark Fuhrer",
+  "kind": "name",
+  "note": "New name: da-ku fyu-ra- (German Fuehrer, \"leader\"); umlaut dropped for ASCII."
+ },
+ {
+  "en": "\"With Narv as the conduit, power is\nflowing in from the Void Axis.\"{w}{p}\"The power of our great king,\nNumbra Malem, is growing\never stronger...\"{w}{p}\"Fwahahaha...{w}Nothing is left for you now\nbut despair!!\"{w}",
+  "kind": "msg",
+  "note": "kyosuuki = \"Void Axis\" (new term). Its counterpart jissuuki (chap 1360, slice_017, Narv's true home) would be \"True Axis\". The pair is literally real/imaginary (as in jitsujiku/kyojiku, real/imaginary axis)."
+ },
+ {
+  "en": "\"......\nO king of our Dark Realm...\"{w}{p}\"I could not live up to your expectations...\nForgive... me...\"{w}{p}\"Numbra Male...m...\nmay this world... be... yours...{w}Uuugh... Gwaaah...!!\"{w}",
+  "kind": "msg",
+  "note": "Same wording as 1451 (Dark Fuhrer variant). The name is broken mid-word in the source; kept."
+ },
+ {
+  "en": "Dark light burst outward from Welsconi's body, and the body faded away as if evaporating, starting from the arms stretched toward the heavens.{w}",
+  "kind": "msg",
+  "note": "Same wording as 1452."
+ },
+ {
+  "en": "\"Ah, Rafa...\"{w}{p}\"You're suffering,\nand I can't save you...\"{w}{p}\"I want to be with you like before, too...{w}The two of us, like back when we\nwatched over the land in Nertowa...\"{w}",
+  "kind": "msg",
+  "note": "Same as 1453. Nertowa from wmap slice_02 row 152. watashi mo... = Yorfa echoing Rafa's wish to return to the old days; trails off."
+ },
+ {
+  "en": "Yorfa, the Moonlight Spirit, faded from the spot, utterly dejected...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The presence of darkness faded from the Palace of the Sun, which had been shrouded in the dark, dense presence of the Dark Realm...{w}{p}Strong yet gentle sunlight poured down from the sky, from the Palace of the Sun onto the land.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......{w}O king of our Dark Realm...\"{w}{p}\"I could not live up to your expectations...\nForgive... me...\"{w}{p}\"Numbra Male...m...\nmay this world... be... yours...{w}Uuugh... Gwaaah...!!\"{w}",
+  "kind": "msg",
+  "note": "Same wording as 1446; here the source has {w} after the ellipsis instead of a line break."
+ },
+ {
+  "en": "Dark light burst outward from the Dark Fuhrer's body, and the body faded away as if evaporating, starting from the arms stretched toward the heavens.{w}",
+  "kind": "msg",
+  "note": "Same as 1447. \"the Dark Fuhrer\" with article in narration, like \"the Floor Master\"."
+ },
+ {
+  "en": "\"Ah, Rafa...\"{w}{p}\"You're suffering, and I can't save you...\"{w}{p}\"I want to be with you like before, too...{w}The two of us, like back when we\nwatched over the land in Nertowa...\"{w}",
+  "kind": "msg",
+  "note": "Same as 1448 (the source differs only by one line break)."
+ },
+ {
+  "en": "*            Light enveloped you           *{0F}{w}",
+  "kind": "op096",
+  "note": "Caption box; source width 22 full-width cells = 44 ASCII cells, text centred with spaces. No period, like the source and the parallel \"wind\" caption (chap 1514). The opening {0E} is not in this string (as in the source)."
+ },
+ {
+  "en": "{0E}                                              \n                 In the Light                 \n                                              {0F}{w}",
+  "kind": "msg",
+  "note": "Three-line highlighted banner (area title). Each full-width space -> 2 ASCII spaces (23 cells -> 46), title centred. Check the rendered width: if 46 spaces overflow the 376 px line, shorten all three lines equally."
+ },
+ {
+  "en": "You found Narv.\nA deep presence of darkness clung to Narv.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Here, we shall become the gate\nthat summons the power of the Void Axis.\"{w}",
+  "kind": "msg",
+  "note": "Narv uses the plural \"warera\" throughout."
+ },
+ {
+  "en": "\"Curse you...\nDo not interfere with us...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You... are an eyesore...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Such futile struggling...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The presence of darkness grew thicker.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}The presence of darkness grew thicker.{0F}\nIf you leave it be, the terror of death will descend upon you.{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} re-shows row 1461; English matches it exactly. Source trailing space before {w} dropped."
+ },
+ {
+  "en": "Meem",
+  "kind": "name",
+  "note": "New name: mi-i-mu, the Fairy King (yousei-ou). \"Meem\" chosen over \"Mime\" to avoid the English word. No pronouns used."
+ },
+ {
+  "en": "\"Welcome to the fairy village, after your long journey.\nI am Meem, the Fairy King.\"{w}{p}\"This is the hidden village of the fairies.\nWhat business have you here, people of the land?\"{w}{p}\"Whether you came by design or by chance, I know not.{w}But mind your conduct.{w}The folk of this village do not think kindly of the people of the land.\"{w}",
+  "kind": "msg",
+  "note": "daichi no tami = \"people of the land\" (the land = daichi, as in \"watched over the land\"). Meem's register: regal, measured."
+ },
+ {
+  "en": "\"The land you live on is maintained by our brethren.\nWere you aware of that fact?\"{w}{p}\"Though we live hidden away in the fairy village,\neven we cannot be indifferent to the affairs of the land.{w}We, too, love the land.\"{w}{p}\"I do not mean to lay a debt upon you.{w}It is only that you must never forget it.{w}I would have you engrave it upon your hearts.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"To maintain the land itself...{w}I, Meem, the Fairy King, have never forgotten\ntheir devotion, not for a single moment.\"{w}{p}\"The land is the world itself.{w}Without the world, no one can live.\"{w}{p}\"That is no less true for us.\nWhatever the past may have been, that fact does not change.\"{w}",
+  "kind": "msg",
+  "note": "\"their devotion\" = the brethren who maintain the land (1465). The sentence is cut at the first {w} as in the source."
+ },
+ {
+  "en": "\"You there. If you are indeed people of the land,\nmight I ask you to be of some service?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Some insolent rabble has strayed into this fairy village.{w}They seem to be people of the land, but unlike you, they do not know how to conduct themselves.\"{w}{p}\"Will you take this on for me?\"{w}",
+  "kind": "msg",
+  "note": "tanomarete kure: Meem asking the party."
+ },
+ {
+  "en": "\"I leave it in your hands.\"{w}",
+  "kind": "msg",
+  "note": "yoshina ni na (after the party accepts)."
+ },
+ {
+  "en": "\"I see. So they were the ghosts of people of the land.\nBut this is the haven of the fairies.{w}We cannot take them in.\"{w}",
+  "kind": "msg",
+  "note": "rei = \"ghost\" (seirei is already \"spirit\")."
+ },
+ {
+  "en": "\"I, Meem, the Fairy King...{w}On behalf of my brethren, I shall pray that they rest in peace.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You must not make that same mistake.{w}This is the fairy village. It is not\nwhere the people of the land go when they die.\"{w}",
+  "kind": "msg",
+  "note": "yuku (to pass away): where their dead belong."
+ },
+ {
+  "en": "A wandering ghost is here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Wandering Ghost",
+  "kind": "name",
+  "note": "15 characters."
+ },
+ {
+  "en": "\"This place... how soothing it is...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This place... how soothing it is...\"{w}{p}\"...We escaped from the gate...\nand at long last made our way here...{w}And yet you would turn us away...!!\"{w}{p}\"...Unforgivable!!\"{w}",
+  "kind": "msg",
+  "note": "Source lacks the closing quote of the first sentence; added it so the quotes balance. \"the gate\": cf. Narv as \"the gate\" (1457) -- lowercase, referent unclear."
+ },
+ {
+  "en": "When you peered into the spring, the faces of the people you had met so far strangely came to mind.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Who will you picture?",
+  "kind": "data",
+  "note": "Menu prompt."
+ },
+ {
+  "en": "{0C:0001:0001}",
+  "kind": "data",
+  "note": "Runtime insert, kept verbatim."
+ },
+ {
+  "en": "{0C:0001:0002}",
+  "kind": "data",
+  "note": "Runtime insert, kept verbatim."
+ },
+ {
+  "en": "{0C:0001:0003}",
+  "kind": "data",
+  "note": "Runtime insert, kept verbatim."
+ },
+ {
+  "en": "{0C:0001:0004}",
+  "kind": "data",
+  "note": "Runtime insert, kept verbatim."
+ },
+ {
+  "en": "The people you pictured appeared before you!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The people from your memories vanished into the spring.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "People of Algrantz",
+  "kind": "data"
+ },
+ {
+  "en": "People of Roscadil",
+  "kind": "data"
+ },
+ {
+  "en": "People of Lumisthenes",
+  "kind": "data"
+ },
+ {
+  "en": "People of Teridon",
+  "kind": "data"
+ },
+ {
+  "en": "People met on your travels",
+  "kind": "data",
+  "note": "26 characters."
+ },
+ {
+  "en": "Electra's party",
+  "kind": "data"
+ },
+ {
+  "en": "The Sun Spirit",
+  "kind": "data"
+ },
+ {
+  "en": "Castle of the Wind's Master",
+  "kind": "data",
+  "note": "27 characters; \"Castle of the Wind\" from wmap slice_14. Probably Agintaitus; no gender implied by kept \"Master\"."
+ },
+ {
+  "en": "Soul Therapist",
+  "kind": "data",
+  "note": "Emera (chap slice_008)."
+ },
+ {
+  "en": "Woman in crimson & servant",
+  "kind": "data",
+  "note": "26 characters. makka na koromo no josei to juusha; identity not settled by this slice."
+ },
+ {
+  "en": "Mysterious man",
+  "kind": "data"
+ },
+ {
+  "en": "Next",
+  "kind": "data"
+ },
+ {
+  "en": "Stop peering in",
+  "kind": "data"
+ },
+ {
+  "en": "Fairy",
+  "kind": "name"
+ },
+ {
+  "en": "\"Take a look in there.\nThat spring shows all sorts of things.\"{w}{p}\"It's just like...{w}being inside a dream.\"{w}",
+  "kind": "msg",
+  "note": "yume no naka is in hiragana (soft, dreamy); cut at the {w} as in the source."
+ },
+ {
+  "en": "Hotheaded Fairy",
+  "kind": "name",
+  "note": "kishou no arai yousei; 15 characters."
+ },
+ {
+  "en": "\"This is the fairy village.{w}Ye lot, mind how you carry yourselves.\"{w}{p}\"Fail to, and I'll snatch you up and eat you.\"{w}",
+  "kind": "msg",
+  "note": "unura (archaic, rough \"you lot\") -> \"Ye lot\"."
+ },
+ {
+  "en": "\"Kyaaaah!?{w}Stop, stop, stooop!?\"{w}",
+  "kind": "msg",
+  "note": "Speaker ??? = the headless girl (Dullahan, slice_019 row 1507)."
+ },
+ {
+  "en": "No sooner had you heard a horse whinny than a girl appeared, riding something you weren't sure you could even call a horse.{w}{p}What's more, the girl's head was separated from her body, and the head sat in a basket hanging from her hand.{w}",
+  "kind": "msg",
+  "note": "\"her\" = the girl (shoujo)."
+ },
+ {
+  "en": "\"Calm down, calm down, I said!{w}Jeez, come on!!\"{w}",
+  "kind": "msg",
+  "note": "mo-u-u!! (exasperated)."
+ }
+]

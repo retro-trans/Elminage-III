@@ -1,0 +1,1867 @@
+[
+ {
+  "en": "A ragged sash handed down from the previous generation. It looks tattered enough to tear at any moment, yet it is so tough it won't tear easily. Wearing this sash will straighten you up -- not just your clothes, but your heart and spirit too.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none) [editorial] missing 'at'; tightened"
+ },
+ {
+  "en": "A blanket with a picture of Impala Banchou on it. It is said to be a replica of the favorite blanket of a certain country's queen. Like the original, it even reproduces the rich aroma.",
+  "kind": "desc",
+  "note": "New name: Impala Banchou (inpara banchou, banchou = gang boss), romanized. 'a certain country's queen' = [JP] (probably Ragnastia; not named, so kept vague). [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Princess Leafa: \"Going off on your next adventure without a word to me -- what were you thinking!? Springing it on me like this! What am I... supposed to... Um... Are you really... leaving...? ...I see. Very well. Then take this sword. Even under another sky, you are my proud Sweet Ginger Knights!\"",
+  "kind": "desc",
+  "note": "New names: Princess Leafa (riifa; matches the 'Leaf Blade' pun), Sweet Ginger Knights (suwiito jinjaa kishidan). Elminage II farewell-gift text. [accuracy] removed the wrap line breaks (the game wraps; source has none) [editorial] 'what nerve!?' / 'So suddenly!' read unnaturally; donna shinkei / ikinari iwarete"
+ },
+ {
+  "en": "A historic costume made for Bards with the finest voices. It bears the 'habits' of the great Bards who wore it, so it guides the wearer's posture, and they say it lets them sing as finely as those before. It is also said to shift through seven colors with the quality of the voice.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none) [accuracy] ginyuushijin = Bard class (glossary), capitalized (x2)."
+ },
+ {
+  "en": "Grand Merchant Walmitt: \"Greeting you like this, eh? Keeping well? Gregorio -- I thought that one useless, but turns out they're good at splitting wood. Happily at it now. With that face. I'm not the sentimental type, but... take this hat. Adventure in it, and don't get swindled by shady merchants! Farewell.\"",
+  "kind": "desc",
+  "note": "Walmitt as in ebt glossary. New name: Gregorio. Compressed to fit: 'You'll adventure in my hat, so don't let a strange merchant fool you' -> 'Adventure in it, and don't get swindled by shady merchants!'. [accuracy] removed the wrap line breaks (the game wraps; source has none) [accuracy] Gregorio's gender is not given (source: are wa tsukaen yatsu); removed him/he. [editorial] 'Hello in this form' unclear (konna katachi de aisatsu to wa na)"
+ },
+ {
+  "en": "Jela: \"I wanted the boss to say goodbye too, but the boss went nuts collecting hanafuda. A-ahaha...\" Jelatan: \"Jelatan ishn't to blame! Boss ish a maniac!\" \"From the two of us, here's some armor.\" \"Shnacks too!\" \"I'll always be praying you're all safe. Come back sometimes!\" \"Yesh!\"",
+  "kind": "desc",
+  "note": "Jela (as in 'Jela's General Store'); New name: Jelatan (jeratan, baby-talk -deshu rendered as a lisp: 'ish', 'Shnacks', 'Yesh!'). The boss (oyakata): gender unknown, so no pronoun. Wording lightly compressed; the unlabelled quotes keep the source order (Jela / Jelatan alternate) with no added speaker tags. [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Archbishop Mersenne: \"Ngh... HAAAAAAH!! It's Mersenne! Thanks for helping Namina the other day. She then passed the cathedral's ordination exam with flying colors and now serves at Semnadoc! Now it's our turn to help. I'm sending you this staff. Feels lucky, doesn't it? Blessings upon you!!\"",
+  "kind": "desc",
+  "note": "New names: Archbishop Mersenne, Namina. Semnadoc as in 'Semnadoc Cathedral'. [JP] rendered 'ordination exam'. [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "An anklet wrapped in fluffy fur given a sleep effect, made from the pelt of an animal that died in hibernation. Adds sleep to any bow and arrow. It also brings its owner sound sleep; when worn, it seems to pulse faintly, thump-thump.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A weapon whose pattern works as a magic seal, adding confusion to its owner's attacks. Tracing the pattern with a finger or following it with the eye confuses anyone, owner or not, so handle it with care.",
+  "kind": "desc",
+  "note": "Source calls the anklet a 'weapon' (bow accessory); kept. [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A weapon set with a charming jewel. Once the jewel enters your sight, you cannot help being charmed by its beauty. These jewels sell for high prices, but whether that is due to the charm or to honest appraisal, no one can say.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "An anklet that wraps loosed arrows in vacuum blades, giving them the power to behead. Now mass-produced, but the first was said to be a wind spirit in love with an adventurer who changed form to stay with them forever. The Beheading Anklet you got... perhaps the one you hold now is 'the one'.",
+  "kind": "desc",
+  "note": "[JP] -> 'vacuum blades' (item [JP] = Vacuum Blade). Adventurer's gender unknown: 'them'.  [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "An anklet that senses magic and makes arrows fly straight at its source. Yuja, a witch tormented by past sins yet cursed never to die by her own hand, made it to have Polyte shoot her. Legend says Polyte's superhuman skill spared her a fatal wound, and Yuja, persuaded, set off to atone.",
+  "kind": "desc",
+  "note": "New name: Yuja (yuuja). Polyte as in glossary. [accuracy] removed the wrap line breaks (the game wraps; source has none) [editorial] double 'so ... so that' was hard to parse; 'skill avoided a wound' illogical"
+ },
+ {
+  "en": "King Montana: \"Looks like I made it in time. Heard you're off on a new adventure, so I looked for a parting gift. How's this? Well, it's the only decent thing I had. Getting Holy Granny Ubogenya's Pubic Bone would just be sad, right? It's never been used! Go on, take the leap! I know you can do it!\"",
+  "kind": "desc",
+  "note": "New names: King Montana, Granny Ubogenya (ubogeenya-baa). 'Holy Granny Ubogenya's Pubic Bone' is a joke item name, kept at full crudeness. [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A sash said to be wearable only by those in holy orders. The moment it is put on, it peers into the wearer's heart; if they are unfit, it slips right off. But if they are fit, it is said to bind tight and never come loose.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A charm blessed for family safety, success in studies and such. It is given by parents or close friends. Its power is uncertain. Still, it is a real joy when someone's care for you takes shape like this.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none) [editorial] garden-path sentence"
+ },
+ {
+  "en": "A charm given when one must send loved ones off to a dangerous place. Unlike the everyday charms handed out lightly, it carries the giver's earnest prayer for a safe journey. With it, your hearts will stay joined, however far apart you are.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "This armor exists not as an object, but as a mass of vibrations. Even deflecting a sword is really the vibrations holding the blade back. It has an affinity for water and is always cloaked in moisture, so it is sometimes mistaken for water-element armor.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A strangely shaped sword, as if it were nothing but floating bowstrings. It is said it can be broken down into 11 parts, though some predict only divine wisdom could manage it. Its strokes are hard to read, so it should prove very useful in real combat.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none) [editorial] 'come apart ... take it apart, or so they predict' clumsy"
+ },
+ {
+  "en": "A military uniform only certain ranks may wear. Perhaps clothes shape the heart: even the most pathetic soul who puts it on is said to stand up straight and speak crisply.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Its maker prayed for travelers' safety by the name carved inside the jewel. But whose name could it be? If you have it, prayer will give you strength to face every hardship. Treasure it until you have truly grown strong. Altouche does not choose its owner; it will protect you.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A strange spear worn on the hand. Its tip spins, letting it attack by boring holes into the foe's body. It is said to pair well with Magic Puppets.",
+  "kind": "desc",
+  "note": "[JP] = magic puppet (glossary term). [accuracy] removed the wrap line breaks (the game wraps; source has none) [accuracy] Lead decision: magic puppet term = \"Magic Puppet\"."
+ },
+ {
+  "en": "A lavishly ornamented magic gun. It looks like a kind of bow, but as it was made by chance, how it works is hard to grasp. Like a bow it hits distant foes, and with skill you can even bounce shots off walls to hit enemies hiding behind cover.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "An absurd weapon born of an accident. Its blade truly runs on endlessly, but weaponsmiths scorn it as heresy. Yet its cutting power is too good to ignore. Picture your armor slowly being shaved away by this blade, and you won't sleep at night.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A tiger-striped loincloth. Wearing it, you feel strength bulging through your muscles. If you pick a weapon to match, it has to be a club. Strike a cool, buff pose!",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "The finest fried rice, cooked fast over high heat so every grain is separate. One bite feels like rice dancing in your mouth. As an item it can be sold to shops, but it will never be in stock.\nIt can be sold to shops, but it doesn't keep, so it will never be in stock.",
+  "kind": "desc",
+  "note": "The source itself holds two versions of the last sentence (an old and a revised one, on separate lines); both kept, one row in one row out. Drop the first if the build wants only one. [accuracy] removed the wrap line breaks; kept only the breaks before the source's alternate sentences"
+ },
+ {
+  "en": "Shortcake made with lavish amounts of the finest cream and the strawberries called the king of strawberries.\nAs an item it can be sold to shops, but it will never be in stock.\nIt can be sold to shops, but it doesn't keep, so it will never be in stock.",
+  "kind": "desc",
+  "note": "Same duplicated last sentence as row 2134; both versions kept. [accuracy] removed the wrap line breaks; kept only the breaks before the source's alternate sentences"
+ },
+ {
+  "en": "A scroll-shaped food said to have come from the eastern lands. You lay vinegared rice and your choice of fillings on seaweed, roll it up and eat it. It can be eaten one-handed, so it is popular with busy people.",
+  "kind": "desc",
+  "note": "'scroll-shaped': the item is in the scroll category. [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Gauntlets made with the fur of a legendary fox. True to the tale of the fox that caught its prey with nimble moves, wearing them is said to let you dodge enemy attacks with ease.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A sword adorned with the Politan, king of kings among beasts. Only a king of kings can wield it, so its edge and worth are beyond measure. But said to be worth more than the sword is the Politan itself: catch one alive and the bounty will keep three generations in idle luxury.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none) [editorial] 'king of kings of all beasts' awkward; Politan is a creature (catch one alive)"
+ },
+ {
+  "en": "Every maid carries her pride as a maid, and that pride shows in her headband. This headband has a certain shine, bringing out its wearer's presence with modest boldness. Put it on and you will awaken to your calling as a maid.",
+  "kind": "desc",
+  "note": "Source sentence 2 is garbled ([JP]); read as 'it shines and brings out its wearer's presence'. [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A sexy bikini made from turtle shell. Made for female adventurers who always want to be sexy, it manages to show off sexiness without giving up a fair amount of defense. If there is a female adventurer you like, why not give her one as a present?",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Throwing kunai bearing talismans with great power against evil spirits. The strong talismans let them deal damage directly even to spirit bodies. Ninja are said to always carry a Geimaga somewhere on them to deal with spirits.",
+  "kind": "desc",
+  "note": "Geimaga as in ITEM slice_16. The source ends on a comma (typo); ended with a period. [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Rather flashy for glasses, but there is a reason. They hold a spell that lets you tell, looking through them, whether you have seen something before or are seeing it for the first time. All this ornament exists for that spell.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Step right up, folks, if you're in no hurry! It's everyone's favorite Lucky Bag! What's inside is a surprise for after you buy! Good and bad, all packed in together! But that's the fun of it! So, what's inside? Getting curious now, huh!! Buy quick before they're gone! First come, first served!!",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "** Work in progress **",
+  "kind": "desc",
+  "note": "Designer placeholder on the '(Enemy-only below)' separator row; translated literally."
+ },
+ {
+  "en": "A sticky fluid that many monsters make inside their bodies. Each monster's is different: sometimes it is plain liquid, sometimes it is like a powerful acid that melts whatever it touches in an instant.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A sleep-inducing mist so thick you can see it. It stays afloat in the air for a long time, so it can be packed into leather bags. There is even a technique for turning the packed mist into sleeping medicine.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "The fangs lining a monster's mouth. Perhaps the slight curve is a design to keep bitten flesh from getting away.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "The bloodless hand peculiar to the spirits of the dead. The belief that a hand should be warm makes it feel all the colder.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A weapon beasts are born with. Most curve like hooks and are used to scratch and tear. Their tips can also dig into the ground, letting beasts run fast, among other things.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A venomous fang. It is somewhat modest in size next to other fangs, but its sharpness and killing power are vicious beyond compare. It bites and punches holes in the skin, then pumps deadly venom from its tip to weaken the prey.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A monster's tentacle. They range from slimy ones to vicious spiked ones. They are a tentacled monster's hands, and its weapons.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Rocks left untouched by human hands for ages are said to be spiritually sublimated and to hold special power. These are the rocks spirits attack with; the higher the sublimation, the more freely they can wield them.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A technique that reacts keenly to the hearts around it. If a foe feels hostility toward the user, it projects that hatred back as a psychic shockwave. The greater the foe's hatred, the stronger it gets. If you can treat all things with love, a Psi Blade will never hit you.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A blow from a tightly clenched fist is simple, yet deep. From an amateur, a normal punch might hit harder, but if someone well-built brings one down on you, be very wary.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Vines from an old tree. Their strength and power are nothing much, but their long reach lets them attack foes one-sidedly. We say 'old tree', but they are part of the monster's own body, and many reportedly get angry at being called that.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A weapon monsters are born with, mostly growing from the head. It is mainly used to charge and skewer a foe, but it can also meet your weapon to parry swords and the like.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "The claws of the Kin of Darkness. Being natural, they differ little from us scratching with our nails. But the foe uses them clearly as weapons, so do not underestimate them.",
+  "kind": "desc",
+  "note": "[JP] = Kin of Darkness (glossary). [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Condensed water fired like a bullet. Even mere water becomes a terrifying weapon given speed and mass. A powerful monster can easily punch through plate mail with it.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A stretchy sticky thread, strong and tacky. As liquid it hardens on contact with air and grows strong like thread. The goo tingles to the touch. Not a thread you want to touch, but soaked in medicine it changes into fine thread, often used in crafts.",
+  "kind": "desc",
+  "note": "No ITEM name yet for [JP] (lit. 'numbing sticky thread'); the description never names it. [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A claw far too sharp for an ordinary beast; one look tells you it is dangerous. Wild animals live where life and death are always side by side. Poke at one out of curiosity, and a weapon like this will beat nature's rules into your body.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A hand that radiates a dangerous will to draw you into its kind. Higher spirits are said to be not just cold: they can steal life force with a mere touch.",
+  "kind": "desc",
+  "note": "[JP] rendered 'you'. [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A technique that uses the centrifugal force of spinning to boost an attack. It says 'wheel', but there need be no wheel. You may swing a sword in a circle around yourself, or ram a foe while spinning.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "The scythe of a giant mantis. How many insects has that blade hunted? You may get it by defeating its owner, but even a lifeless scythe must look like a threat to insects.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A tentacle its owner trained on purpose to attack with, until it evolved into a weapon. It hits with whip-like force, and at times even following its motion is hard. Unless you can react even when you can't read it, assume you have no chance to win.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A technique that controls the wind, makes a vacuum vortex in the air and slams it into a foe. Spirits excel at it, and once you know the magic principle it is surprisingly easy to cause. But even then it is hard to control, so we cannot master it without training.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "The rich buy the fangs of large beasts as ornaments. Some adventurers make a living on contract with them, cutting the fangs off their kills to sell.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "The claw of a spirit with no body. Being wounded by a spirit body your attacks can't even touch is hard to accept.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A vine covered in sharp thorns. It can be used like a spiked whip. The thorns are meant to anchor the vine and stick seeds onto birds and beasts, so once they snag, yanking them out easily wounds the prey.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A deadly kick unleashed by four-legged beasts. A bullet-like blow born of wild muscle can deal fatal damage even to a Fighter who takes it unguarded. This is the power of nature.",
+  "kind": "desc",
+  "note": "No ITEM name yet for [JP] (lit. 'fierce hoof'). [accuracy] removed the wrap line breaks (the game wraps; source has none) [accuracy] senshi = Fighter class (glossary), as in review_g5."
+ },
+ {
+  "en": "A fang with stronger venom and bite than a normal poison fang. It is shaped to slice wounds open, helping the venom spread. The truly dangerous ones are said to kill you if you just snag a finger on the poison fang of a slain beast.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "They open and close slowly, but crustacean muscle is said to let them cut anything. They carve bone-in meat with ease; being caught bare would be deadly. Fight monsters with these carefully, or you may watch a loved one torn apart before your eyes, helpless.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A tail with a venomous stinger. Attacking with a tail is like having an extra hand. That alone is a nuisance, but it carries poison too. Even a graze is dangerous, so if your foe has one, mind your distance.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "The claw of a lesser dragon. Lesser, yes, but still a dragon's claw. It is very sharp, and its strength is beyond measure. Dragon claws are often used to make weapons and armor.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A so-called tongue kiss. What effect this attack has depends on who it's used on. But no attractive partner would go smooching just anyone. The only one who would attack like this is... you-know-who.",
+  "kind": "desc",
+  "note": "No ITEM name yet for [JP]. [JP] read as 'the one it is used on'. [JP] (that one) kept gender-neutral as 'you-know-who'. [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "An arm imbued with fire magic. Some are born that way; others wrap flames around it with magic. It is common among fire spirits and the like, but do not even think of copying it.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A fang that releases a nerve venom. What makes it scary is that, however bad the odds, a single bite might turn the tables. If your foe has one, be very careful.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "The prow of a ghost ship. The old ship's grudge has hardened at its tip, longing for a new captain's orders. Weigh anchor! Read the charts! Hard to starboard!! Now, whoever stands in our way, with this huge prooow~~~ R-U-N T-H-E-M D-O-W-N!!",
+  "kind": "desc",
+  "note": "No ITEM name yet for [JP] (lit. 'hazy prow'). [JP] (run them over and kill) -> 'R-A-M T-H-E-M'; the spaced-out spelling keeps the chant. [accuracy] removed the wrap line breaks (the game wraps; source has none) [accuracy] Removed the added \"we'll ride them down\" doubling; hi-ki-ko-ro-se (run them over and kill) -> R-U-N T-H-E-M D-O-W-N, the drawn-out vowel moved onto \"prow\" as in the source (senshu de-eee)."
+ },
+ {
+  "en": "A fang that sucks out life force. For the Kin of Night, it is a kind of refinement. Power is not the point; the 'act' of sucking life force holds special meaning for them. They also love to enslave their prey, and many seem to fall under their spell.",
+  "kind": "desc",
+  "note": "[JP] 'Kin of Night', patterned on glossary 'Kin of Darkness'. [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Fangs of mighty beasts are also used as ornaments and tools of sorcery. Unlike our weapons, a beast kills to live. So the power of beast fangs is held sacred, and many seek to share in it.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "The hard beak of a bird. It depends on the kind, but a truly hard one can even bore out wood.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Made of strange ice that never melts. The sword itself is very fine, high-grade even among monsters' weapons. If you equip it, bring gloves: the bitter cold could give your hands frostbite.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Both bow and arrows are silver. A loosed arrow pierces its target trailing glittering silver motes. Its accuracy is said to vary greatly with its owner's skill.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Originally a sword drawn in a painting. When the painting took on magic and began moving freely, the sword took form along with it. Now it can be swung like any ordinary sword. Strange, isn't it?",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "The claws of a fiend beast painted on a canvas, given form along with the beast. Rumor says their power depends on how good the painting is.",
+  "kind": "desc",
+  "note": "[JP] 'fiend beast', as in ITEM name 'Fiend Beast Claw'. [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "The claws of beasts that are no ordinary animals, but have gained the power of darkness. Made more savage, these fearsome claws, built for pure destruction, overwhelm adventurers.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "An ogre's broadblade. Clumsy-looking, but the perfect shape for smashing with brute force. The grip is wound round and round with non-slip cloth. Grip: excellent.",
+  "kind": "desc",
+  "note": "[JP] kept as the English 'excellent' joke. [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "One move derived from the fist is the Umeboshi, from the eastern lands. You make fists with both hands and grind them into both of the foe's temples. It works wonders on kids.",
+  "kind": "desc",
+  "note": "[JP] (umeboshi, the temple-grinding noogie) romanized as the move's name. [accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "A finger shining as if divine. Its owner feels nothing, but to anyone else it is searing hot. Its normal attacks are strong, but it is vicious enough to turn a foe to stone just by pointing at them.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Ordinary tentacles move vaguely, pushed by shifting body fluids, but this one is driven by real muscle. Think it's the same as before, and a supple, lashing arm will slap you.",
+  "kind": "desc",
+  "note": "[accuracy] removed the wrap line breaks (the game wraps; source has none)"
+ },
+ {
+  "en": "Fingers with a silken, finely textured touch. Their moist beauty seems to draw you in; one look is enough to make you sigh. One slinky stroke, and even the wildest brute turns meek and docile, and the loveliest flower scatters its petals amid tears of joy.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bewitching art that lures the target with aching sighs. To get them in the mood, get in it yourself first. You mean to seduce, then fall for real... a common tale. The scary part is the cool head to kill even one you've grown fond of. If it goes badly, oh well: off to Madrie Church, go go!",
+  "kind": "desc",
+  "note": "Madrie Church (madorie kyoukai) is a new romanized name: not in the glossary or corpus. 'If it goes badly' = damesou nara; the joke is reviving the dead at the church."
+ },
+ {
+  "en": "Claw of a mid-ranked dragon. At this level, store-bought gear grows useless. Block with a sword and the blade chips; guard with armor and it shatters. Please do not be so arrogant as to face it head-on. Think about it: your foe is a \"dragon.\"",
+  "kind": "desc",
+  "note": "Pompous narrator voice (kangaete mitamae) kept; the quoted 'dragon' keeps the source brackets."
+ },
+ {
+  "en": "A huge block of ice drifted in from cold lands. In early spring it is a seasonal sight of sorts, but heaving it up with all your might and slamming it on a foe is an attack with no poetry whatsoever. Then again, the spray can make a rainbow afterward, which is elegant in its own way.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword with value as an antique. Overly ornate swords can rarely be counted on as weapons, and this one is no exception. Collectors prize its age and savor the character seeping from it, but it is a little unreliable to trust your life to.",
+  "kind": "desc"
+ },
+ {
+  "en": "Clerics say a spirit's attack seems to wound the flesh but really strikes the soul. Life is not whittled away because the body is struck; the body crumbles because life has been whittled away. Not that it makes any difference in the end.",
+  "kind": "desc"
+ },
+ {
+  "en": "Shockwave attacks are not so rare, but this wave is said to carry emotions along with the shock: the anger, fear or scorn the foe feels toward you. Tossed about by those feelings, your mind and body come apart, and you can no longer move, as if paralyzed.",
+  "kind": "desc"
+ },
+ {
+  "en": "A rod dark jesters use to reap their prey's lives amid mocking laughter. It is said to grow ever more vicious in answer to their cruel smiles. Its power calls forth more blood and carnage, and the mad revel only speeds up.",
+  "kind": "desc"
+ },
+ {
+  "en": "Heels whose points are sharp as spikes, with a toughness and power you'd never guess from their elegant look. One kick easily wrecks shoddy gear. A nasty weapon... but what if you were the one wearing them? Painful, dangerous, yet beautiful...! A rose without thorns would be dull, wouldn't it?",
+  "kind": "desc"
+ },
+ {
+  "en": "A robe worn by liches. It is highly resistant to Dark magic. Liches already belong to darkness, and on top of that they wear robes like this, so it is no exaggeration to call using Dark magic on a lich suicide.",
+  "kind": "desc",
+  "note": "Lich (monster rikkii) lowercase as a creature type; check against the MONSTER1 name when translated."
+ },
+ {
+  "en": "A scythe that strikes fear into all who see it. Most armor is weak at the joint between neck and torso. Aim for that slim gap, slip the blade in... shhk... then draw it back with a snap of the wrist, and you can harvest your foe's soul.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bewitched spear that seeps out of shadows. As long as there is a shadow, it can strike from anywhere, which makes it a grave threat at night. Dark spirits often wield it, and that is one reason it's said you must never anger them.",
+  "kind": "desc",
+  "note": "[editorial] 'wherever ... anywhere' redundant"
+ },
+ {
+  "en": "Ask which fang truly has value to an adventurer, and one answer is a fang kept as proof of slaying a mighty foe. It can be a legendary beast's, or one from a foe you remember as \"I could beat it easily now, but back then it took everything I had.\" It becomes a fang in the heart that spurs adventurers on.",
+  "kind": "desc",
+  "note": "Quoted phrase kept in quotes; wording compressed to fit 312. [editorial] quoted thought was ungrammatical"
+ },
+ {
+  "en": "The claw of a stronger demon. Among the Kin of Darkness, front-line fighters likely all carry one. Even after its owner is slain, magic still lingers in the claw, and anyone weak of heart who touches it would be swallowed up in an instant.",
+  "kind": "desc"
+ },
+ {
+  "en": "A trident said to belong to the mermaid queen, symbol of rule over the sea. At sea, nothing can escape it. It calls whirlpools, gathers black clouds, and strikes down with lightning any who disrespect the sea. Fishermen greatly fear it for this.",
+  "kind": "desc"
+ },
+ {
+  "en": "A move that drives a clenched fist straight down. Simple, but the shock running from the crown down the spine is not to be taken lightly. Thrown with real hostility, it can even kill. This is no time to joke about it making you shorter.",
+  "kind": "desc"
+ },
+ {
+  "en": "A vine of the alraune, a bewitching flower. It looks thin, wiggly and flimsy, but it bends like a well-tanned whip and slices the skin. Even if you block it, it coils around you and pins you, so even veteran adventurers find it hard to fend off.",
+  "kind": "desc",
+  "note": "Alraune as in the item name 'Alraune Vine'."
+ },
+ {
+  "en": "The scale dust that cloaks a poison moth. It may spray the dust straight at you, or flit around scattering it. It also causes hallucinations, and many adventurers who scoff at a mere bug end up losing their lives.",
+  "kind": "desc"
+ },
+ {
+  "en": "Claw of a high-ranked dragon. A lesser dragon's intellect is little better than a beast's, but a greater one is a match for a human at least, sometimes wiser than us. If it wields its claw's power calmly and precisely, an average adventurer stands no chance.",
+  "kind": "desc"
+ },
+ {
+  "en": "A fan whose wings are finished razor-sharp. Thrown well, it reportedly can part a foe's head from its body, like the 'Takasago' play in the fan-tossing game tosenkyo.",
+  "kind": "desc",
+  "note": "Tosenkyo: Japanese fan-tossing game; 'Takasago' is one of its scoring patterns. 'Wings' = tsubasa (the fan's spread ribs)."
+ },
+ {
+  "en": "A kyosoku is an armrest from a land far to the east. Lean an elbow on it in a relaxed pose and onlookers feel awed and cowed. A must-have for court nobles. So if such a person hurls their armrest at you, they are truly furious. Short of groveling on the floor, you won't be forgiven.",
+  "kind": "desc",
+  "note": "Tenjoubito = court nobles; dogeza = groveling on the floor."
+ },
+ {
+  "en": "A claw borne by beasts whose names are known across the land. They have evolved outside nature's laws, and the land will never make peace with them again. Yet that they survive anyway is proof of nothing but the power this claw holds.",
+  "kind": "desc"
+ },
+ {
+  "en": "Long ago, hearts grew desolate and the land was engulfed in war. When a king asked the dragons for help to end the strife, they gave him this Dragon Emperor Sword instead of their aid. Raise it high, and you can wield the dragons' power against the foe before you.",
+  "kind": "desc",
+  "note": "tasukeru kawari ni read as 'instead of helping directly'; king is 'him' (ou)."
+ },
+ {
+  "en": "A strange art that calls brass-colored lightning down from the sky onto a foe at a thought. Unlike normal lightning, it does not pass through the body into the ground, but races around inside it until spent. Take a hit, and your body will be covered in worm-like burns.",
+  "kind": "desc"
+ },
+ {
+  "en": "Slime serves several purposes: keeping the body from drying out, helping it slide, catching prey, and so on. If you face a foe with slime, working out what it is for may lead you to victory.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword with an evil will. It takes over its wielder's mind and seeks ever greater power. So when it sees that a foe is stronger than its current wielder, it may even let the wielder be killed on purpose, so that the foe will pick it up.",
+  "kind": "desc"
+ },
+ {
+  "en": "Makes destructive waves by quivering. When a wave hits a body, it sets off resonance and destroys it from within. In theory, quivering in time with an incoming wave could amplify it and send it back, a 'wave return', but no one has pulled it off yet.",
+  "kind": "desc"
+ },
+ {
+  "en": "A big move: open wide and swallow the foe whole. Anyone would do it with a favorite food in front of them. Doing the eating is fine, but being gulped down to the stomach with a \"Thanks for the meal!\" is to be avoided at all costs.",
+  "kind": "desc",
+  "note": "itadakimasu / gochisousama joke: eating is fine, being eaten is not."
+ },
+ {
+  "en": "A halo is the glow behind a holy figure. We tend to embrace things linked to what we already embrace. The Demon Halo reflects the heart of whoever faces the demon. If that heart is steeped in evil, they will bow to its evil radiance, even though the foe is a demon.",
+  "kind": "desc",
+  "note": "hairou = halo (kouhai/gokou). Compressed to fit."
+ },
+ {
+  "en": "A hydra's fang. It is thicker and more firmly rooted than an ordinary snake's, so each bite really hurts. And since several heads are dealing them out, it stands to reason that hydras are strong.",
+  "kind": "desc"
+ },
+ {
+  "en": "A lamia's tail. Its supple muscles strike hard enough to knock a foe out in one blow. The tailed lower half is a snake's, yet it shares the human upper half's traits, so it's warm and lovely to touch or have coiled around you. Unable to forget the feel, people keep switching class to Summoner.",
+  "kind": "desc",
+  "note": "tenshoku = class change to Summoner (class name from corpus/HELP_TEXT). Compressed to fit."
+ },
+ {
+  "en": "The fly knights ever on guard around the Insector Lord, king of the flies. Besides their king, they also guard those the king approves of. Fiercely loyal and known to see every duty through, they are feared far and wide.",
+  "kind": "desc",
+  "note": "Insect Lord (insekutaa roodo) is a new name: the MONSTER1 name is not translated yet (slice_33); align when it is. [accuracy] Monster name as in MONSTER1 (review_g7): Insector Lord."
+ },
+ {
+  "en": "A sword that can fire spirits and dispel spirits. Hold it and you'll find it faintly cold, said to be because its guard is linked to the spirit world. Those who take it up, unless lifeless or free of any clinging to life, will reportedly have their souls seized by the sword.",
+  "kind": "desc",
+  "note": "Source typos: tsuba written with the 'spit' kanji (read as the sword guard); 'tamashii wo ken to torawareru' read as 'souls seized by the sword'."
+ },
+ {
+  "en": "A big move that acts on the air to form a pressure fault, then shifts it, catching the foe in the friction. The victim loses balance, gripped by a strange feeling, as if upper and lower body suddenly slid apart. Go along with it, and you'll be gently twisted, swaying, and torn apart.",
+  "kind": "desc"
+ },
+ {
+  "en": "A greatsword that embodies the Imperial Sword itself. Moving the Imperial Sword as if it were part of you is said to be the greatest trial for anyone who would bear the name Imperial Sword. So hard is it to handle that it's even said the sword chooses its wielder.",
+  "kind": "desc",
+  "note": "Source is self-referential (the name seems to be a title as well as the sword); kept literally."
+ },
+ {
+  "en": "The whip of the Hell Master, jailer of Hell. The common Hell Master is toned down in shape and power so adventurers can use it. So some adventurers are baffled by how the Hell Master's original Hell Master differs from their replica one. Of course, the genuine article is far stronger.",
+  "kind": "desc",
+  "note": "Name wordplay kept (monster and whip share the name Hell Master)."
+ },
+ {
+  "en": "A fang of light that shines in rainbow colors. It is very beautiful, and depending on its clarity it can be worth more than diamonds and other gems. But each time it is used to strike a foe, its clarity drops, so very clear ones are extremely rare.",
+  "kind": "desc",
+  "note": "Source says 'attack with the claws'; generalized to 'used to strike'."
+ },
+ {
+  "en": "Fire too many Psi Blades -- that is, be attacked by all around for too long -- and in time the mind is transformed. However it is treated, it takes everything as an attack. It turns every emotion into hatred and grief and fires it out: that is Psi Blade +1. If a foe fired this at you, could you take it?",
+  "kind": "desc",
+  "note": "Source equates firing Psi Blades with a mind under constant attack (the '=' sign); rendered 'that is'. [editorial] the source's '=' gloss was hard to parse as commas"
+ },
+ {
+  "en": "An arm blazing so fiercely it could fairly be called hellfire. A weapon borne by greater spirits and the like. You feel intense heat just standing near it, so friend or foe, take care when getting close to anyone with this arm.",
+  "kind": "desc"
+ },
+ {
+  "en": "Not the usual swallow-whole: an improved move that unhinges the jaw like a snake to swallow prey bigger than its own mouth whole. It's fine to watch an animal do it, but...",
+  "kind": "desc",
+  "note": "Trailing off kept. [proof] hyphenated noun 'swallow-whole' to match 2321"
+ },
+ {
+  "en": "A claw as bright red as blood. That blood-like color is in fact a paralyzing poison. When it scratches, it pours poison into the wound and paralyzes the foe. Once the victim can't move, all that's left is to surrender to the claw's owner.",
+  "kind": "desc"
+ },
+ {
+  "en": "A whip that only chosen demons may wield. Netherworld hellfire spews from the grip, and each lash sends sparks dancing through the air. Struck by it, you'll not only be burned, but have your very soul scraped away.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Great Wheel spinning even faster. There are many theories on the spin path that adds most power; some say an elliptical path with a fast-slow rhythm beats a near-circular one at constant speed. Why not master the Great Wheel yourself?",
+  "kind": "desc"
+ },
+ {
+  "en": "The scythe of Samael, a huge mantis-like skeleton that portends death. All who meet Samael are killed, so bringing its scythe home is considered a pipe dream.",
+  "kind": "desc",
+  "note": "Samael as in item name Samael's Scythe; 'its' used (gender unknown)."
+ },
+ {
+  "en": "The deadly claw of beasts that have become legend. Its power is guaranteed: you will taste its destructive force, greater even than the rumors, with your own bodies.",
+  "kind": "desc"
+ },
+ {
+  "en": "A soul that wanders long as a wraith hones its grudge ever sharper. In time that grudge takes the form of claws, swung at the living.",
+  "kind": "desc"
+ },
+ {
+  "en": "A claw borne by the very highest class of dragons. Before it, ordinary armor and gear tear like paper. A legendary claw that it's said no one has ever brought back.",
+  "kind": "desc"
+ },
+ {
+  "en": "A saber borne by the dark knights. Strengthened by dark rites, it is tuned to bring out their full power. It can also petrify, so even blocking one blow is very dangerous. And if a high-ranking demon wields it, you had best be braced for the worst.",
+  "kind": "desc"
+ },
+ {
+  "en": "Claws of the very highest demons. Small as they look, they hide fearsome power within. Even a scratch could prove fatal. If you must face one, whoever first touches the other's body will be the victor.",
+  "kind": "desc"
+ },
+ {
+  "en": "What could be called the vessel of life for young homunculi. The flask has no special treatment, but it is reinforced by the will of the homunculi desperately guarding this home to survive. When that will breaks, their lives come to an end.",
+  "kind": "desc",
+  "note": "kanojotachi: homunculi referred to as female; 'their' keeps it plural without loss."
+ },
+ {
+  "en": "Armor painted in a picture, made real along with the monster inside it. It does have the defense its looks suggest, but no special abilities beyond that.",
+  "kind": "desc"
+ },
+ {
+  "en": "A legendary mad sword said to torment all who face it. Many adventurers have fallen before it. Now let us ask what adventure means. Even if you fall, you overcame fear and took the first step; a bright future as challengers awaits you. On your backs as you rise again, the moon smiles.",
+  "kind": "desc",
+  "note": "Compressed to fit 312; 'saichousensha' = challengers (trying again)."
+ },
+ {
+  "en": "Headgear a grown homunculus wears to stay alive. It cannot yet live by breathing, so if this flask breaks, it will suffocate and die writhing. If you see a homunculus who broke its flask by accident, call an Alchemist for it before it is too late.",
+  "kind": "desc",
+  "note": "Homunculus as 'it' (gender not settled here). [accuracy] renkinjutsushi = Alchemist class (glossary), capitalized."
+ },
+ {
+  "en": "This dress gently intoxicates the heart like a sweet cocktail. A woman wrapped in it tints her surroundings a soft rose with her charm and the dress's.",
+  "kind": "desc"
+ },
+ {
+  "en": "Holy vestments that only the chosen among the nobles of the night may wear. Should an unworthy vampire put it on by mistake, it would crumble to ash at once.",
+  "kind": "desc",
+  "note": "Vampire as in chap corpus."
+ },
+ {
+  "en": "A robe imbued with the spirits' protection. Whoever wears it, that protection is granted equally. This likely stems from the fact that spirits, at root, are the land's system for circulating mana.",
+  "kind": "desc"
+ },
+ {
+  "en": "A cute headband made of roses. On fine days you can see alraunes making them together in high spirits. It invites sleep and confusion, so it's fine gear too. Filled with the alraunes' heartfelt care, these real roses never wither.",
+  "kind": "desc",
+  "note": "[editorial] 'fresh as they are' ambiguous (seiku de atte mo = even though real flowers)"
+ },
+ {
+  "en": "Mail made for the Royal Honey by its worker bees. Its materials are a complete jumble, but the special defenses they give are not to be scoffed at. When it's damaged, worker bees come and patch it up, so it always looks brand new.",
+  "kind": "desc",
+  "note": "Royal Honey (roiyaru hanii) is a new name: MONSTER1 name not translated yet (slice_33). 'its' used, gender unknown."
+ },
+ {
+  "en": "A robe of humiliation sent to the defeated. No one wants to wear it, yet beaten knights nearly always don it by choice. Wearing it is a way to chasten their defeated selves and stay honest with themselves, and it carries the resolve to win next time and make the victor wear it.",
+  "kind": "desc",
+  "note": "[editorial] unclear subject 'It means'"
+ },
+ {
+  "en": "A cloak adorned with rime from frozen lands. Any frozen tree will do, but lively green leaves frozen just as they were are thought best. Rime itself is rarely seen, so quality seems to vary wildly.",
+  "kind": "desc"
+ },
+ {
+  "en": "A breastplate for Evil alignment only. It is made for easy movement so as not to hinder its owner's attacks. Even if you aren't Evil, you'd want to try it on.",
+  "kind": "desc"
+ },
+ {
+  "en": "A silk robe that shines at midnight. It heightens the wearer's charm further, raising it to a beauty both graceful and alluring. Even if its wearer were one of the Kin of Darkness, you'd be entranced.",
+  "kind": "desc"
+ },
+ {
+  "en": "Nights when the sun does not set: such miraculous nights are called white nights. Cloth woven on a white night is said to hold the power of a sun that never sets. It offers some resistance to Priest spells.",
+  "kind": "desc"
+ },
+ {
+  "en": "A robe said to have been worn by the goddess who rules over serpents. Wear it, they say, and you can command every kind of snake. It also offers strong resistance to snake venom.",
+  "kind": "desc",
+  "note": "megami = goddess (source is explicit)."
+ },
+ {
+  "en": "Armor worn by the \"kings\" among the Kin of Darkness who have a sovereign's makings. Lesser demons may not even know it exists, but greater demons would bow down at the mere sight of someone wearing it.",
+  "kind": "desc"
+ },
+ {
+  "en": "\"Cheap\" means shoddy or low-grade. This is armor scrapped as defective while making Iron Armor, which somehow reached the market. Armor guards your body, so every adventurer is willing to spend on it. The result: the worst armor of all, which won't sell no matter how cheap.",
+  "kind": "desc",
+  "note": "'Iron Armor' is generic here (no ITEM.CSV row named aian aamaa found)."
+ },
+ {
+  "en": "A shovel with uses to suit any job: digging holes, breaking rock, pounding wood. In battle it works as a spear and also as a shield. Normally it is just a tool, but in a farmer's or laborer's hands it makes a fine weapon. In a cook's hands, a fine frying pan.",
+  "kind": "desc",
+  "note": "Item name not yet in ITEM outputs (ctx shows the new-item marker)."
+ },
+ {
+  "en": "A robe made for clowns. It looks extremely flashy, making a clown's every move seem even more exaggerated and fun.",
+  "kind": "desc"
+ },
+ {
+  "en": "A belly dress with the midriff and chest wide open. Spells raise barriers over the bare parts, so its defense is very high, and it strongly resists Holy and Dark magic. Bodily allure has long been an offering to the god of change. So do not ogle. If you can't help it, squint.",
+  "kind": "desc",
+  "note": "hengenshin = god of change (Ashtel's title per glossary); kept as the title, not the name."
+ },
+ {
+  "en": "A bucket made of tin. Surprisingly handy in all sorts of situations. Good for holding water, good for holding things, good for wearing on your head: it's at home anywhere. Truly all-purpose.",
+  "kind": "desc"
+ },
+ {
+  "en": "Inexperienced servants are not trusted with fine tea leaves. Being allowed to handle Greater Pekoe means nothing less than being recognized as a true servant. Fledgling servants watch their seniors handle these leaves and work hard, thinking, \"Someday, me too.\"",
+  "kind": "desc",
+  "note": "Servant: lowercase, generic household servants (not the Servant class)."
+ },
+ {
+  "en": "A planner packed with upcoming plans: a minute-by-minute schedule in meticulous writing. Things often don't go as scheduled, but fear not. It lists what to do in every foreseeable case at every point. Even what to do if you lose this planner is written in this planner.",
+  "kind": "desc"
+ },
+ {
+  "en": "A breastplate made of pearl oyster shell. The sea folk work the shell with a special process to make it. Perhaps that's why it has fair resistance to Mage spells.",
+  "kind": "desc"
+ },
+ {
+  "en": "This breastplate is presented to a clan's chief and is worked with more care than the usual oyster one. Its resistance to Mage spells is greater too, making it formidable armor.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor of the frenzied. While wearing it, you can turn madness into inner strength, making your physical abilities burst into bloom. The bizarre sight sends even allies fleeing. Attacking in such a state, you throw the foe into confusion as well.",
+  "kind": "desc",
+  "note": "Source typo kiteiteiru read as kiteiru."
+ },
+ {
+  "en": "A spear of light that makes even pure white light shine the color of darkness. Where it pierces, dark flames swirl up and burn the foe to nothing in an instant.",
+  "kind": "desc"
+ },
+ {
+  "en": "Claws of the demon kings. Even a fragment holds great power, so when giving a trusted subordinate a vital mission, a king may tear off a claw for protection. Attacked with these claws, with their boundless magic, or by one holding a weapon, you are in for a hard fight.",
+  "kind": "desc"
+ },
+ {
+  "en": "People praise freedom, yet cannot live without some lack of it. For those who crave obedience and servitude, this mace teaches what they must do and how they must live. Past a little endurance, they will taste the thrill of the gap between heart and body being filled.",
+  "kind": "desc",
+  "note": "Source keeps the innuendo; kept at the same strength."
+ },
+ {
+  "en": "A spear born of a demon god. Its destructive power is immense; one thrust is said to bore a hole in the earth. Forged with a grudge against the gods, it will show terrifying power if ever turned against a god.",
+  "kind": "desc"
+ },
+ {
+  "en": "Just an ordinary fallen tree. But being able to use it as a weapon means the foe has that much brute strength. Against a foe who can heft a fallen tree, you may want to think twice before attacking head-on.",
+  "kind": "desc"
+ },
+ {
+  "en": "A kitchen knife beloved in homes and kitchens. It lacks the edge of a legendary weapon, but its blade radiates the unshakable confidence of having cut through every ingredient there is.",
+  "kind": "desc"
+ },
+ {
+  "en": "A technique that flicks any object with finger strength, turning it into a bullet. Pebbles, beans, coins: anything will do. Mastering it is a real asset; there was even a Thief, \"Pessel the Finger Shot\", who aimed for the top with finger shots alone and got far, until an overcut nail forced retirement.",
+  "kind": "desc",
+  "note": "New name Pessel ([JP]); gender not stated, kept pronoun-free. [accuracy] touzoku = Thief class (glossary), capitalized."
+ },
+ {
+  "en": "A magic brush that can paint only what really happened. History is always written and handed down by the victors to suit themselves. But this brush lays everything bare in broad daylight, convenient or not. That is why the powerful once loathed it and ordered it destroyed, it seems.",
+  "kind": "desc",
+  "note": "Item name not used in the text (name not yet fixed)."
+ },
+ {
+  "en": "A throwing knife carried by Jokers. A special treatment keeps it silent in flight. Thrown from the shadows, it can deal a fatal wound even to a veteran Fighter. And once the victim can no longer move, the Joker appears, grinning from ear to ear.",
+  "kind": "desc",
+  "note": "Joker = the monster (MONSTER2). [accuracy] senshi = Fighter class (glossary), as in review_g5."
+ },
+ {
+  "en": "Swing it down hard and fast to pound mochi that is smooth and springy. When pounding mochi, keeping time with the partner who turns the dough is vital. One slip, and that partner's hand is mashed to a pulp, and the mochi turns bright red.",
+  "kind": "desc"
+ },
+ {
+  "en": "A splendid leaf, beautiful and firm. Its fibers are tightly intertwined, so it cannot be cut easily. This Flower King's Leaf purifies the air extremely well, enough to always supply fresh air even with no other plants around.",
+  "kind": "desc"
+ },
+ {
+  "en": "A buckler carried by Abi. \"Shield in the right hand! Shield in the left too, that's double! Raise them by the face, five times! Run, ten times! Total: a hundred times the defense!\" So Abi cried when cornered, and charged to the front line.",
+  "kind": "desc",
+  "note": "Abi: gender unknown, no pronouns."
+ },
+ {
+  "en": "A shield carried by Abi. Abi's theory made little sense, and even if defense really rose a hundredfold, no fight is won by defending alone. Abi only realized this when the enemy copied the trick and gave chase.",
+  "kind": "desc"
+ },
+ {
+  "en": "A phantom fog spawned by Reckdas. It is said to spread so wide and thick it can blanket a whole town or land. Within this nightmare, fear is said to take real form; once frightened, even a great hero will soon be fleeing in panic.",
+  "kind": "desc"
+ },
+ {
+  "en": "The fist is interpreted in many ways; thunder is often called \"the fist of the gods\". Indeed, perhaps only the gods can bring down a parent's fist on humans and elves in this land. But if a fist of divine wrath truly fell, we could only run away like babies.",
+  "kind": "desc",
+  "note": "[JP] = a parent's scolding knuckle-punch; rendered 'fist' to match item name Fist +3. [editorial] 'Ideas of the fist' unclear"
+ },
+ {
+  "en": "Some oozes are strongly acidic. Doused in one, armor melts and skin festers. Just how monsters keep such ooze inside their bodies is a fascinating question.",
+  "kind": "desc"
+ },
+ {
+  "en": "Light hitting a gem normally reflects and escapes as sparkle. But tweak that reflection with magic, and light can get in but not out. Give the light raging inside the gem one exit, and it will burst out as a single spear of light.",
+  "kind": "desc",
+  "note": "Compressed to fit 312."
+ },
+ {
+  "en": "The Progenitor: the vampire reigning at the top of the Kin of Night. Called the rulers of the night, they feed quite unlike lesser vampires. A single mouthful is said to sustain them for hundreds of years.",
+  "kind": "desc",
+  "note": "[JP] = 'kin of night' as in chap slice_021. [accuracy] Glossary term: Kin of Night."
+ },
+ {
+  "en": "It is said that, very rarely, someone bearing this factor is found in the land. How the factor arises, and what purpose it serves, are both unknown.",
+  "kind": "desc"
+ },
+ {
+  "en": "A huge, hard, bullet-like rock gouged into a strange shape. Its nature changes with its maker's will: it can harden further or explode on impact as needed. But scarier than any trick is the plain attack of giant rocks raining down like hail.",
+  "kind": "desc"
+ },
+ {
+  "en": "Claws painted jet-black. A set crest is carved into them, meant to amplify magic power. A simple scratch can do damage too. Where these claws scratch, the spot is said to throb with heat and swell up.",
+  "kind": "desc"
+ },
+ {
+  "en": "It freely wields long, supple tentacles, raining them down like countless whips. At the tips are things like a flower's pistils. They simply act as weights that add damage, but their true role is to suck out nutrients.",
+  "kind": "desc",
+  "note": "Subject (the monster) unstated in source; kept impersonal 'It'."
+ },
+ {
+  "en": "This shining pure-white liquid has a beauty that enthralls all who see it. It also smells sweet and tempts you to lick it, but licking the Milky Way means death. Yet it is said to be sweeter than anything in this world, so dying that way might be happiness.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor said to guard its wearer, its defense growing with the strength of the oath held in the heart. But should the heart waver or the oath be broken, the breastplate will lose its defense. For this reason, its wearers are sometimes viewed with respect.",
+  "kind": "desc",
+  "note": "Item name ([JP], not yet fixed) replaced by 'the breastplate'."
+ },
+ {
+  "en": "A claw turned white like marble. Whether from grooming or by nature is unknown, but it stands out among the claws of all races.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bow possessed by the grudge of a beast of darkness. The grudge flies with each arrow; to the one shot, it looks like a savage beast flying at them, fangs bared.",
+  "kind": "desc"
+ },
+ {
+  "en": "A novice clown's outfit must look funny to make up for lacking skill. A seasoned clown, though, can create humor from within without relying on looks. So this outfit is tailored for ease of movement rather than a funny look.",
+  "kind": "desc",
+  "note": "[JP] = clown (wmap/chap)."
+ },
+ {
+  "en": "A spear spoken of among the Kin of Darkness as a famed lance. It never breaks, and it is said that gripping it lets you feel the thoughts of its past owners.",
+  "kind": "desc"
+ },
+ {
+  "en": "The robe worn by the king of the netherworld. The whole robe is wrapped in darkness, and looking at it feels like being drawn into the dark. In fact, surrender to that feeling and your soul is said to be torn out and taken to the netherworld.",
+  "kind": "desc",
+  "note": "[JP] kept generic, not the glossary title 'Nether King' ([JP])."
+ },
+ {
+  "en": "A Water Shot uses ordinary water, but this Foul Water Shot is fired using filth: sewage, mud and the like. If you are hit, countless toxins and germs enter the wound; even if you win that fight, you will not live long, they say.",
+  "kind": "desc",
+  "note": "[JP] rendered 'Water Shot' to match Foul Water Shot (slice_17). [editorial] dangling modifier"
+ },
+ {
+  "en": "A terminus bored into the world: that is a Nonsense Codon. As the world's end nears, they are said to arise in many places at once. Any event pierced by a Nonsense Codon has no future left. It can only begin its slow march toward death.",
+  "kind": "desc"
+ },
+ {
+  "en": "Slimy stuff feels awful stuck to your clothes or body. But if you give in, thinking \"Oh, whatever,\" the discomfort turns dramatically into pleasure. Why not stop resisting and accept it just once? No responsibility taken if you can't come back from that world, though.",
+  "kind": "desc",
+  "note": "Compressed to fit 312."
+ },
+ {
+  "en": "Unlike an ordinary snowball, it is packed hard with magic, so it can withstand a fair amount of heat. If one is thrown at you, think less \"hard snowball\" and more \"fist-sized rock\".",
+  "kind": "desc"
+ },
+ {
+  "en": "Moisture in the air hardened into an arrow. Mages can produce similar ice arrows too, but snow spirits are said to fire five or six at once without even trying.",
+  "kind": "desc"
+ },
+ {
+  "en": "Water pushes back hard, so fish are surprisingly strong. This is their secret move: deftly using tail and fins, they knock a foe up, then smack the falling body sideways. Fishermen know its power well; with a green captain, you can watch the crew pop off the side of the boat one after another.",
+  "kind": "desc",
+  "note": "Compressed to fit 312. [editorial] 'Water resists hard' unclear; 'them' ambiguous (fishermen, not fish); direction: the fish knocks them off"
+ },
+ {
+  "en": "A cruel move that crushes a foe under a huge foot. It looks like slow motion to an onlooker, but when targeted, your body freezes and you can't get away. And some stomps, even by feet of normal size, are said to inflict mental torment: fear and humiliation.",
+  "kind": "desc"
+ },
+ {
+  "en": "A costume for celebs, brought from a land far to the east. Many robes of different colors are layered so the colors show as stripes at the hem. But get carried away and pile on too many, and their weight will leave you unable to move, so beware.",
+  "kind": "desc",
+  "note": "[JP] (junihitoe); name not used in text."
+ },
+ {
+  "en": "A hooked-claw weapon made of bronze. Some are worn on the hand like gloves, but a monster's is usually part of its body. With the hardness of metal and a talon shape modeled on birds of prey, it can rip prey to shreds at will.",
+  "kind": "desc"
+ },
+ {
+  "en": "A heavy blow from a bronze foot. Rather than kick damage, it is built to \"break\" things through impact. The more precise and delicate the target, the greater the threat a Bronze Kick poses... Like, say, the human body.",
+  "kind": "desc",
+  "note": "Item name [JP] assumed 'Bronze Kick' (ITEM slice_18 not yet fixed)."
+ },
+ {
+  "en": "A very sturdy, hard club. Get hit in the wrong spot and you'll pass out, no trouble at all.",
+  "kind": "desc"
+ },
+ {
+  "en": "A club studded here and there with nails and the like for extra killing power. Get hit and you'll be bloodied and off to heaven, nice and easy.",
+  "kind": "desc"
+ },
+ {
+  "en": "The student handbook issued at Santorea Academy. It holds a Mage's precepts in three scripts: Common, Ritual Magic and Spirit. Each year's classes teach students to read more, so each can learn the precepts suited to their power. The forebears clearly knew that neither too strict nor too lax will do.",
+  "kind": "desc",
+  "note": "Compressed to fit 312 (script names shortened). [accuracy] majutsushi = Mage class (glossary), capitalized."
+ },
+ {
+  "en": "A wind shock wave, so to speak. A Sonic Boom closely resembles the attack called Vacuum Blade. The difference is that a Sonic Boom damages the brain directly rather than causing wounds. An unseen attack on the brain is terrifying, and no amount of caution helps much.",
+  "kind": "desc",
+  "note": "[JP] = Vacuum Blade (slice_17)."
+ },
+ {
+  "en": "A katana said to rival the legendary Murasame. Its blade evokes a tiger; whoever wields Kotetsu becomes fierce as a tiger and cuts down all in sight, they say. Its cut differs too: unlike Murasame, whose cut cannot even be seen, it leaves the wound in tatters.",
+  "kind": "desc",
+  "note": "New name Murasame ([JP])."
+ },
+ {
+  "en": "A simple yet razor-sharp sword. The blood of all it has cut has soaked into its blade, giving it a faint red glow. That blood grants its wielder the power of grudges. A dreadful sword that grows stronger the more people it cuts.",
+  "kind": "desc"
+ },
+ {
+  "en": "Said to be unleashed when a cursed spawn tears through its mother's womb to enter the world by its own will. A child born by nature's law, whatever its kind, is received and blessed by the land. But a life born without that blessing will have the land as its enemy from birth.",
+  "kind": "desc",
+  "note": "[JP] = 'cursed spawn'."
+ },
+ {
+  "en": "The blue flame rising from the ornate stand burns away the soul of all it touches. Unlike normal fire, it leaves not one burn on the body; it gnaws only at the mind. When touched by Blue Strike, what matters most is showing willpower that yields to nothing.",
+  "kind": "desc",
+  "note": "[JP] = 'ornate stand' (literal; context unclear)."
+ },
+ {
+  "en": "A farm tool found anywhere. But in a Farmer's hands, it turns from tool to weapon. I once heard that farm tools evolved from weapons, and it seems that was right. Still, one would rather it were used properly.",
+  "kind": "desc",
+  "note": "Farmer = job (chap slice_010)."
+ },
+ {
+  "en": "The ring around a sphere that always emits gravity is called a Gravity Ring; as the ring grows, so does the area of heavier gravity. But as it grows, the gravity waves disperse, so unless you get close to the sphere, it is not much of an attack.",
+  "kind": "desc",
+  "note": "Item name [JP] assumed 'Gravity Ring'."
+ },
+ {
+  "en": "A move where you leap at a foe and kick with both feet together. Botch the fall and the attacker is in danger too, but done right, its power is tremendous. The one kicked will likely drop whatever they were holding.",
+  "kind": "desc",
+  "note": "Dropkick (chap slice_002)."
+ },
+ {
+  "en": "Wings that not only fly but also create shock waves when flapped. Their colors and looks vary: wings like a bird of prey's, bat wings evoking the Kin of Darkness, beautiful pure-white wings and more.",
+  "kind": "desc"
+ },
+ {
+  "en": "Form a sign with the fingertips and jab it into the foe's *. Done right, the foe can't speak or move and just stands frozen. If an amateur tries, or hesitates, the user risks injury. The name Three-Year Death comes from a rumor that in a tournament for this move, many losers died three years later.",
+  "kind": "desc",
+  "note": "'*' kept as in source (censored target). Three-Year Death (glossary). Compressed to fit 312."
+ },
+ {
+  "en": "A stomp with a big, heavy bottom is harder to dodge than a normal foot stomp and does more damage. Partly it's just that the area is bigger than a foot, but more than that, anyone caught in this situation will freeze for an instant.",
+  "kind": "desc"
+ },
+ {
+  "en": "Once it clamps down, it is said to hold on with great force until its catch is split in two. If an ally gets caught, cast a fire spell at once. A clam roasted by fire soon opens its shell. Then rescue your ally right away.",
+  "kind": "desc"
+ },
+ {
+  "en": "A great fan also called the \"Banana Leaf Fan\". Tengu are said to raise winds and storms with it. Legend also says whoever holds a Tengu Fan gains the power to fly. That legend even suggests tengu may be humans who got hold of a Tengu Fan.",
+  "kind": "desc",
+  "note": "[JP] = Banana Leaf Fan; item name [JP] assumed 'Tengu Fan'."
+ },
+ {
+  "en": "If pitch-black clouds gather in the daytime sky, beware. The black lightning they unleash puts common lightning to shame. Struck by it, body and soul are burned away and held captive in the demon world, they say. To defend, get precious metals off your body at once.",
+  "kind": "desc",
+  "note": "[JP] kept generic 'black lightning' (item name not yet fixed)."
+ },
+ {
+  "en": "The mightiest swallow-whole, warping space to gulp down even things too big to swallow. Once targeted, there is next to no escape.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gloves made of tough animal hide. The outside is very hard leather, made for knocking foes down. But the inside is shock-absorbing material that protects your own fist. Truly gloves made for the fist.",
+  "kind": "desc"
+ },
+ {
+  "en": "Wasabi is a spice from the East, but it stings the nose more than the tongue, and differs a bit from what we eat daily. The sting can apparently be eased by breathing in through the nose. As for what role wasabi plays as a war banner, that's a long story, so let's save it for another time.",
+  "kind": "desc",
+  "note": "[JP] = war banner."
+ },
+ {
+  "en": "A war banner inscribed with the teaching \"Strike the foe swift as lightning.\" The larger an army grows, the less mobile it becomes. The Hatamoto, a unit's leader so to speak, must deal properly with such problems too.",
+  "kind": "desc",
+  "note": "Hatamoto (chap slice_016)."
+ },
+ {
+  "en": "A superhuman knee strike unleashed with genius flair. Its reach is long: at any opening, the user dashes in, steps up on the foe's body and delivers a humiliating knee. Truly a flash of a move, but it takes either the ultimate body or levitation magic adapted for speed.",
+  "kind": "desc",
+  "note": "[JP] = 'Shining Wizard' wrestling move; name not used in text."
+ },
+ {
+  "en": "The horn of a unicorn, ruler of purity. Hard to obtain, but it glows faintly even in darkness and is so beautiful it is highly prized as an antique. Since it is only the horn, anyone can touch it.",
+  "kind": "desc"
+ },
+ {
+  "en": "The horn of a bicorn, ruler of impurity. Bicorns are thought to be foes of unicorns, but some say a unicorn is a young bicorn that grows horns as it matures: the unicorn gave up understanding for purity, the bicorn knew the world at the cost of impurity. But is it true?",
+  "kind": "desc",
+  "note": "Compressed to fit 312."
+ },
+ {
+  "en": "A long, thick nail. From the far East, a charm came with it: on a night so dark even the moon hides, write the name of one you wish health and happiness, tie that person's hair to a Magic Puppet, and nail it to a tree with this nail.",
+  "kind": "desc",
+  "note": "Ironic 'health and happiness' kept as in source (it is a curse ritual). [JP] = magic puppet (glossary). [accuracy] Lead decision: magic puppet term = \"Magic Puppet\"."
+ },
+ {
+  "en": "Pour boiling water in through the spout on top, and Atonewolo's Hot Jug shows its true worth. If you have one, set it on wrinkled clothes and move it as if smoothing them out. The wrinkles will vanish and the clothes will look as good as new.",
+  "kind": "desc",
+  "note": "New name Atnewolo ([JP]), romanization guessed; item name assumed 'Atnewolo's Hot Flask' (a clothes iron). [accuracy] Item name as in ITEM.CSV (review_g4): Atonewolo's Hot Jug."
+ },
+ {
+  "en": "Once the host is gone, the monsters in the Hivanask all start using their powers to protect themselves from enemies. That combined power may or may not easily surpass even their host, Seot Mar. Either way, it is unwise to wake a sleeping child.",
+  "kind": "desc",
+  "note": "New names Hivanask ([JP]), Seot Mar ([JP]; Seot per glossary 'Seot's Demon Nest')."
+ },
+ {
+  "en": "A whip for drilling manners into children of good families. Unlike a normal whip, it is shaped like a springy rod. A snappy blow is a real menace to a child, and can scar them for life. But if the wielder is attractive or worthy of respect, that strictness can be felt as love, they say.",
+  "kind": "desc"
+ },
+ {
+  "en": "You hear a knock, fling the door wide open, and no one is there. Thinking it odd, you close it, and a groan comes from outside. The one who opened it says it's the fault of whoever stood there. That makes some sense, yet it somehow feels unfair.",
+  "kind": "desc"
+ },
+ {
+  "en": "Being told \"Come again!\" feels nice, however roughly you're thrown out. You resolve not to get kicked out next time, but next time, too, you get kicked out with a \"Come again!\"",
+  "kind": "desc"
+ },
+ {
+  "en": "A leotard steeped in the pleasure of destruction. The snug fabric clings to the skin with a suction-like fit, so much so that you could think you were wearing nothing. That strange feeling brings an even greater thrill.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mysterious barrier the Ryug possess. The Ryug alter it to suit their own nature as they go into battle. It takes three broad forms, but it is said some Aura Steeda change into something that fits none of the three.",
+  "kind": "desc",
+  "note": "Ryug (glossary). New name Aura Steeda ([JP]), romanization guessed."
+ },
+ {
+  "en": "In full, the Camp Edict on Regular Tuna. A helmet made by the Eastern lords called Daimyo. It was the first law on tuna, revered as divine in Eastern culture. Warriors and the court once feuded over tuna, but this helmet's enactment made tuna part of the cuisine, and peace came. --Eastern Records",
+  "kind": "desc",
+  "note": "[JP]: [JP] read as tuna grade ('regular'). New terms Daimyo, Eastern Records ([JP])."
+ },
+ {
+  "en": "The helmet worn by Taizarti, Demon Duke of the direct line. It is a plain iron helmet, but the Kin of Darkness know whose it is, and all who see it tremble in fear. With this helmet, it is said, the Sea of the Wastes is as good as conquered.",
+  "kind": "desc",
+  "note": "Taizarti (glossary), [JP] = Demon Duke (chap slice_019). New: Sea of the Wastes ([JP]). Item name not used."
+ },
+ {
+  "en": "A white cloth often worn by ghosts born in Eastern lands. It is said to mark a ghost's rank, so aiming at the cloth may rattle them. Snatch it and run, and you can enjoy a game of tag to the ends of the earth, with your life on the line.",
+  "kind": "desc",
+  "note": "[JP] (hitai-eboshi); name not used in text."
+ },
+ {
+  "en": "The noble armor of a royal palace knight. Its beautiful ornaments nurture the wearer's heart and instill dignity worthy of the armor. The more you wear it, the better you will know the importance of the duty called Imperial Guard.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor said to hold the magic of obsidian. Wear it, and it will guard you like a solid tortoise-shell wall.",
+  "kind": "desc",
+  "note": "Four Symbols set (tortoise/phoenix/tiger/dragon) with 2345-2347."
+ },
+ {
+  "en": "The trousers worn by Don Magus. They look hard to move in, but try them on and you'll be amazed how easy they are. The cloth carries a light magic that lets the sluggish move fairly well. It is thanks to Big Daddy that Don Magus moves in ways that don't fit that build.",
+  "kind": "desc",
+  "note": "New name Don Magus ([JP]); gender not stated, no pronouns."
+ },
+ {
+  "en": "A sword Undine holds dear. Only a knight she has opened her heart to may wield it. The water clan cherishes Undine; should anyone make her cry, the whole clan will come for revenge. Do you have the heart to answer her devotion?",
+  "kind": "desc",
+  "note": "Undine ([JP] in source)."
+ },
+ {
+  "en": "In Eastern culture, the hadajuban is apparently seen as underwear. It is also common garb for the dead, so it seems essential for Eastern ghosts. When wet, the cloth turns see-through. A young maiden bathing in a hadajuban would make a picture all on her own.",
+  "kind": "desc"
+ },
+ {
+  "en": "A corset laced so tight its tip has become pointed. Wear this, and you too can gain a wonderfully toned body! ...Maybe. Rumor has it the tip of this corset actually leads to the \"Point\".",
+  "kind": "desc",
+  "note": "[JP] unclear reference; rendered literally as \"Point\"."
+ },
+ {
+  "en": "Gauntlets said to hold the magic of ruby. Worn on both arms, their trail of rubies seems to blaze like a phoenix.",
+  "kind": "desc"
+ },
+ {
+  "en": "Shoes the pale color of ivory. Wear them, and a noble heart dwells in you, giving you the strength and beauty of a tiger, they say.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mantle that gives off a deep blue light. Wear it, and as an incarnation of the blue water dragon, you are said to gain rare wisdom.",
+  "kind": "desc"
+ },
+ {
+  "en": "A fashion item made for people without facial hair. Put it on and any face turns pretty, so pretty that no one can resist teasing you.",
+  "kind": "desc"
+ },
+ {
+  "en": "\"Furugatari Mutsusumeragi Norito.\" It uses the character for land, so you might think it a prayer to the earth, but apparently not. What could \"Land King\" mean? This prayer is a blood scroll, written in blood. Whose blood, no one knows.",
+  "kind": "desc",
+  "note": "Reading of [JP] given in source; romanized. [accuracy] Matches the item name Old Land-King Prayer (review_g4)."
+ },
+ {
+  "en": "All-Purpose Tail",
+  "kind": "key?",
+  "note": "Designer item-name mirror (c2/c7) for the decorative tail item; literal ([JP] = general-purpose)."
+ },
+ {
+  "en": "Multi-Purpose Shovel",
+  "kind": "key?",
+  "note": "Item-name mirror; literal. 20/20 bytes."
+ },
+ {
+  "en": "Forbidden Paintbrush",
+  "kind": "key?",
+  "note": "Item-name mirror; ITEM c4 has [JP] = 'Forbidden Paintbrush' (csvt slice). Mirror says [JP] (magic brush); literal 'Forbidden Magic Brush' is 21 > 20, so the item's English is reused."
+ },
+ {
+  "en": "Student Handbook",
+  "kind": "key?",
+  "note": "Item-name mirror; literal. The ITEM c4 name is [JP] = 'Santorea Handbook'."
+ },
+ {
+  "en": "Famitsu Promo Item",
+  "kind": "key?",
+  "note": "Designer label in the c7 mirror next to White Fox Gauntlets: item made for Famitsu (magazine promo)."
+ },
+ {
+  "en": "Complete Guidebook",
+  "kind": "key?",
+  "note": "Designer label in the c7 mirror next to Magic Glasses: [JP] = complete strategy guide (tie-in). 'Complete Strategy Guide' is 23 > 20."
+ },
+ {
+  "en": "Mage Spells",
+  "kind": "name",
+  "note": "Class Mage = glossary. JOB_SPL_MAJUTU_org."
+ },
+ {
+  "en": "Mage Spells'",
+  "kind": "name",
+  "note": "Prime marks kept as ASCII apostrophes (designer variant 2 of the spell list)."
+ },
+ {
+  "en": "Mage Spells''",
+  "kind": "name",
+  "note": "Variant 3; two ASCII apostrophes."
+ },
+ {
+  "en": "Priest Spells",
+  "kind": "name",
+  "note": "Class Priest = glossary."
+ },
+ {
+  "en": "Priest Spells'",
+  "kind": "name"
+ },
+ {
+  "en": "Priest Spells''",
+  "kind": "name"
+ },
+ {
+  "en": "Alchemy Spells",
+  "kind": "name",
+  "note": "[JP] = alchemy; matches story 'alchemy spells'."
+ },
+ {
+  "en": "Summon Spells",
+  "kind": "name"
+ },
+ {
+  "en": "Ethereal Strike",
+  "kind": "name",
+  "note": "[JP]: ability to hit spirit/ethereal bodies (Priest, Kannagi, [JP])."
+ },
+ {
+  "en": "Thief Skills+1",
+  "kind": "name",
+  "note": "No space before +1, same style as the other '+1' skills."
+ },
+ {
+  "en": "Thief Skills",
+  "kind": "name"
+ },
+ {
+  "en": "Smithing",
+  "kind": "name",
+  "note": "Matches HELP_TEXT 'smithing'."
+ },
+ {
+  "en": "Alchemy",
+  "kind": "name"
+ },
+ {
+  "en": "Coin Bank",
+  "kind": "name",
+  "note": "Servant skill; matches item names 'Wooden/Iron Coin Bank'."
+ },
+ {
+  "en": "Tea Time",
+  "kind": "name"
+ },
+ {
+  "en": "Lower AC",
+  "kind": "name",
+  "note": "Matches ebt '[Arm] Lower AC'."
+ },
+ {
+  "en": "Multi-Strike",
+  "kind": "name",
+  "note": "[JP] = consecutive strikes (Gladiator)."
+ },
+ {
+  "en": "Play Instrument",
+  "kind": "name"
+ },
+ {
+  "en": "Spec Resist Up",
+  "kind": "name",
+  "note": "[JP] = 'Spec Resist' as in the ebt status screen."
+ },
+ {
+  "en": "Dual Main Weapons",
+  "kind": "name",
+  "note": "Samurai: dual-wield main-hand weapons."
+ },
+ {
+  "en": "Decapitation Up",
+  "kind": "name",
+  "note": "[JP] = decapitation (ebt)."
+ },
+ {
+  "en": "Vigilance",
+  "kind": "name",
+  "note": "Ninja; likely tied to blocking surprise attacks."
+ },
+ {
+  "en": "Phys Attack Up+1",
+  "kind": "name"
+ },
+ {
+  "en": "Phys Attack Up",
+  "kind": "name"
+ },
+ {
+  "en": "Mage Spell Up+1",
+  "kind": "name"
+ },
+ {
+  "en": "Mage Spell Up",
+  "kind": "name"
+ },
+ {
+  "en": "Priest Spell Up+1",
+  "kind": "name"
+ },
+ {
+  "en": "Priest Spell Up",
+  "kind": "name"
+ },
+ {
+  "en": "Alchemy Spell Up+1",
+  "kind": "name",
+  "note": "18/18 bytes."
+ },
+ {
+  "en": "Alchemy Spell Up",
+  "kind": "name",
+  "note": "Marked [JP] (unused) in c24."
+ },
+ {
+  "en": "Spell Power Up+1",
+  "kind": "name",
+  "note": "Unused (c24)."
+ },
+ {
+  "en": "Spell Power Up",
+  "kind": "name",
+  "note": "Unused (c24)."
+ },
+ {
+  "en": "Soul Release",
+  "kind": "name",
+  "note": "[JP] (Priest). [JP] rendered 'soul' (cf. story [JP] = mother's soul); not romanized as Mitama."
+ },
+ {
+  "en": "Dismantle",
+  "kind": "name",
+  "note": "Matches HELP_TEXT 'Dismantle skill'."
+ },
+ {
+  "en": "High-Purity Synth",
+  "kind": "name",
+  "note": "[JP] (Alchemist). 'Synthesis' shortened to fit."
+ },
+ {
+  "en": "Dungeon Tea Party",
+  "kind": "name",
+  "note": "[JP] (Servant). 'Labyrinth Tea Party' is 19 > 18."
+ },
+ {
+  "en": "Fighting Instinct",
+  "kind": "name"
+ },
+ {
+  "en": "Fate Alteration",
+  "kind": "name",
+  "note": "Matches HELP_TEXT 'High Master ability Fate Alteration'."
+ },
+ {
+  "en": "Ancient Rites",
+  "kind": "name",
+  "note": "[JP] (Kannagi). Read as old-style rites; effect text is (Reserve), so meaning unconfirmed."
+ },
+ {
+  "en": "Blood Pact",
+  "kind": "name",
+  "note": "Summoner. Cf. [JP] = Soul Pact (ebt)."
+ },
+ {
+  "en": "Holy Lance Arts",
+  "kind": "name",
+  "note": "[JP] (JOB_HOLY_LANCE)."
+ },
+ {
+  "en": "Temple Sanctuary",
+  "kind": "name",
+  "note": "UNCERTAIN: [JP] (Lord). [JP] not in glossary/story; read as temple/court + protected zone. Effect text is (Reserve)."
+ },
+ {
+  "en": "Swallow Return",
+  "kind": "name",
+  "note": "[JP] (Samurai), classic 'Tsubame Gaeshi'. Same as assumed in slice_30 row 2514; cf. [JP] = Swallow Slayer (ebt)."
+ },
+ {
+  "en": "Shadow Strike",
+  "kind": "name",
+  "note": "[JP] (Ninja). Not 'Ambush' (ebt uses that for [JP]); ebt message 'strikes from the darkness'."
+ },
+ {
+  "en": "Grit",
+  "kind": "name",
+  "note": "[JP]: survive lethal damage once; ebt message 'gritted their teeth and held on'."
+ },
+ {
+  "en": "Firm Ranks",
+  "kind": "name",
+  "note": "[JP]: pull ([JP]) no longer works."
+ },
+ {
+  "en": "High Mana Source",
+  "kind": "name",
+  "note": "[JP]: blocks barriers."
+ },
+ {
+  "en": "Essence of Magic",
+  "kind": "name",
+  "note": "[JP]: ignores spell resistance."
+ },
+ {
+  "en": "Healing Moment",
+  "kind": "name",
+  "note": "[JP]: Tent works like the inn."
+ },
+ {
+  "en": "Hand of Mercy",
+  "kind": "name",
+  "note": "[JP]; JOB_LIST mirror is the older name [JP] (slice_30 'Ward of Creation')."
+ },
+ {
+  "en": "Steal and Pass",
+  "kind": "name",
+  "note": "Matches ebt 'Couldn't carry it, so passed it on'."
+ },
+ {
+  "en": "Treasure Digging",
+  "kind": "name",
+  "note": "[JP]; JOB_LIST copy [JP] = 'Excavation' (slice_30)."
+ },
+ {
+  "en": "Pesky Tackle",
+  "kind": "name",
+  "note": "[JP]; also the c23 battle command (16 bytes). JOB_LIST legacy name [JP] = 'Way of Meddling' (slice_30)."
+ },
+ {
+  "en": "Law of Heaven",
+  "kind": "name",
+  "note": "[JP]/[JP]/[JP] (Alchemist): special effects on same-grade ore explosions."
+ },
+ {
+  "en": "Law of Earth",
+  "kind": "name"
+ },
+ {
+  "en": "Law of Man",
+  "kind": "name"
+ },
+ {
+  "en": "Mana Conversion",
+  "kind": "name",
+  "note": "[JP]: converts spells received into MP."
+ },
+ {
+  "en": "Polymath",
+  "kind": "name",
+  "note": "[JP] ('hundred knowledges'): curse info and ore grades."
+ },
+ {
+  "en": "Good Nature",
+  "kind": "name",
+  "note": "Unused (Reserve)."
+ },
+ {
+  "en": "Bad Nature",
+  "kind": "name",
+  "note": "Unused (Reserve)."
+ },
+ {
+  "en": "Drunken Venom Fist",
+  "kind": "name",
+  "note": "[JP] (drunken fist + poison). 18/18. ebt message 'is drunk on deadly poison'."
+ },
+ {
+  "en": "Sun's Blessing",
+  "kind": "name",
+  "note": "[JP]: HP regen walking by day in clear weather."
+ },
+ {
+  "en": "Master Therion",
+  "kind": "name",
+  "note": "Battle command too (16 bytes); also in EBOOT. Crowley's title, standard spelling."
+ },
+ {
+  "en": "Beacon of Revenge",
+  "kind": "name",
+  "note": "[JP] ('signal smoke of the counterattack'), JOB_EX_REVENGE."
+ },
+ {
+  "en": "Nocturnal",
+  "kind": "name",
+  "note": "[JP]: more damage at night."
+ },
+ {
+  "en": "Assassination",
+  "kind": "name",
+  "note": "[JP] (JOB_EX_ASSASSIN); effect is defense from small party, name kept literal."
+ },
+ {
+  "en": "Sadistic Delight",
+  "kind": "name",
+  "note": "[JP]."
+ },
+ {
+  "en": "Masochistic Bliss",
+  "kind": "name",
+  "note": "[JP]; ebt 'masochistic pleasure'."
+ },
+ {
+  "en": "Brand of Ruin",
+  "kind": "name",
+  "note": "[JP]; ebt 'paid the price of the brand'."
+ },
+ {
+  "en": "Breath+",
+  "kind": "name"
+ },
+ {
+  "en": "Defiled Ground",
+  "kind": "name",
+  "note": "[JP] (monster skill): no healing spells in battle."
+ },
+ {
+  "en": "Dark Torrent",
+  "kind": "name",
+  "note": "[JP] (monster skill); 'Torrent of Darkness' is 19 > 18."
+ },
+ {
+  "en": "Dragon's Roar",
+  "kind": "name",
+  "note": "[JP]; ebt 'dragon's roar'."
+ },
+ {
+  "en": "Dark Realm Wind",
+  "kind": "name",
+  "note": "[JP] = Dark Realm (story). JOB_LIST mirror [JP] = 'Dark Realm Torrent' (slice_30)."
+ },
+ {
+  "en": "Proof of Kingship",
+  "kind": "name",
+  "note": "Monster skill (JOB_MONS_KING_of_KING): immune to instant death while HP >= half. Also JOB_LIST c4 copy."
+ },
+ {
+  "en": "Regeneration",
+  "kind": "name",
+  "note": "Monster skill (JOB_MONS_REVIVAL): chance to cure ailments that do not heal naturally. Also JOB_LIST c4 copy."
+ },
+ {
+  "en": "Can survive lethal damage, but only once.",
+  "kind": "desc"
+ },
+ {
+  "en": "Pull effects no longer work on the user.",
+  "kind": "desc",
+  "note": "[JP] = Pull (ebt: 'Withstood the pull')."
+ },
+ {
+  "en": "Stops barriers from activating. The chance rises when several members have it.",
+  "kind": "desc"
+ },
+ {
+  "en": "Strengthens elemental spells.",
+  "kind": "desc"
+ },
+ {
+  "en": "Ignores the target's spell resistance.",
+  "kind": "desc"
+ },
+ {
+  "en": "Using a Tent gives the same effect as staying at the inn.",
+  "kind": "desc"
+ },
+ {
+  "en": "Healing spells you cast always restore at least half of max HP.",
+  "kind": "desc",
+  "note": "Whose max HP is not stated (almost certainly the target's); left unstated."
+ },
+ {
+  "en": "Has a chance to inflict the status ailment \"Fear\" on an enemy.",
+  "kind": "desc",
+  "note": "[JP] = status ailment (HELP_TEXT precedent); [JP] = Fear (ebt)."
+ },
+ {
+  "en": "If the thief can't carry a stolen item, an ally carries it instead.",
+  "kind": "desc"
+ },
+ {
+  "en": "Treasure chests appear even after random encounters.",
+  "kind": "desc"
+ },
+ {
+  "en": "Has a chance to block an enemy's end-of-turn natural healing and the like.",
+  "kind": "desc"
+ },
+ {
+  "en": "When same-grade ores above a set grade explode in alchemy, something special happens.",
+  "kind": "desc",
+  "note": "Shared by [JP]/[JP]/[JP]. [JP] = grade (HELP_TEXT, wmap)."
+ },
+ {
+  "en": "Cooks a meal.",
+  "kind": "desc"
+ },
+ {
+  "en": "Can attack by throwing corpses.",
+  "kind": "desc"
+ },
+ {
+  "en": "When hit by a spell, has a chance to convert it into MP.",
+  "kind": "desc"
+ },
+ {
+  "en": "Adds curse info to item details. Ore grades can also be checked on the spot.",
+  "kind": "desc"
+ },
+ {
+  "en": "Sends items that can't be carried to the Alchemy Storage.",
+  "kind": "desc",
+  "note": "Alchemy Storage = glossary."
+ },
+ {
+  "en": "Mimics an enemy's action.",
+  "kind": "desc"
+ },
+ {
+  "en": "Raises allies' attack power, only for the turn it is used.",
+  "kind": "desc"
+ },
+ {
+  "en": "Deals non-elemental damage to one enemy.",
+  "kind": "desc"
+ },
+ {
+  "en": "Deals more damage while poisoned.",
+  "kind": "desc"
+ },
+ {
+  "en": "Has a chance to inflict Fear on all enemies.",
+  "kind": "desc"
+ },
+ {
+  "en": "Restores HP when walking during the day in clear weather.",
+  "kind": "desc"
+ },
+ {
+  "en": "At turn's end, sings to heal all allies. Lasts a while; stacking songs raises the power.",
+  "kind": "desc"
+ },
+ {
+  "en": "At turn's end, sings to damage enemies. Lasts a while; stacking songs raises the power.",
+  "kind": "desc",
+  "note": "[JP] number not specified; plural 'enemies' (likely all)."
+ },
+ {
+  "en": "Sings a song that reduces damage. Lasts a while; stacking songs raises the power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Sings a song that cures status ailments. Lasts a while; stacking songs raises the power.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Fortune Slip changes the EXP and money gained after battle.",
+  "kind": "desc",
+  "note": "[JP] = Fortune Slip (slice_10)."
+ },
+ {
+  "en": "Forms a pact with a monster and invites it to the tavern.",
+  "kind": "desc"
+ },
+ {
+  "en": "Fuses contracted monsters and summons them. Allies can't act during the summon.",
+  "kind": "desc"
+ },
+ {
+  "en": "Lowers the target's level.",
+  "kind": "desc"
+ },
+ {
+  "en": "Turns the user to ash to fully heal all allies. Once per battle only.",
+  "kind": "desc"
+ },
+ {
+  "en": "Devotes every action to defense, nullifying enemy attacks.",
+  "kind": "desc"
+ },
+ {
+  "en": "If battle opens with an enemy ambush, allies deal more damage from the next turn on.",
+  "kind": "desc",
+  "note": "[JP] read as damage DEALT by allies (skill name [JP] = signal of counterattack)."
+ },
+ {
+  "en": "Deals more damage at night.",
+  "kind": "desc",
+  "note": "[JP] read as damage dealt (nocturnal attacker)."
+ },
+ {
+  "en": "Can attack without taking a Swallow Return counter.",
+  "kind": "desc",
+  "note": "UNCERTAIN: [JP] skill name (JOB_EX:57:2, slice_29) not yet fixed; 'Swallow Return' assumed. Align with slice_29 / [JP] = Swallow Slayer."
+ },
+ {
+  "en": "Summons a clone of the user into the summon slot.",
+  "kind": "desc",
+  "note": "[JP] = summon slot (wmap: summoned-monster slot)."
+ },
+ {
+  "en": "The fewer members in the party, the higher the defense.",
+  "kind": "desc"
+ },
+ {
+  "en": "The closer HP is to its max, the higher the attack power.",
+  "kind": "desc",
+  "note": "[editorial] parallel wording with 2518"
+ },
+ {
+  "en": "The closer HP is to its minimum, the higher the attack power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Attack is always raised, but HP drops at turn's end. Can't be a Maid Recover target.",
+  "kind": "desc",
+  "note": "Maid Recover = ebt/HELP_TEXT. [proof] 'at turn's end' as in 2502-2505"
+ },
+ {
+  "en": "Breath attacks never lose power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Healing spells can't be used in battle.",
+  "kind": "desc"
+ },
+ {
+  "en": "Damage dealt to adventurers is doubled.",
+  "kind": "desc"
+ },
+ {
+  "en": "Damage dealt to adventurers is tripled.",
+  "kind": "desc"
+ },
+ {
+  "en": "Damage dealt to adventurers is multiplied by 5.",
+  "kind": "desc"
+ },
+ {
+  "en": "Immune to instant-death effects such as decapitation while HP is at half or more.",
+  "kind": "desc",
+  "note": "[JP] = beheading (cf. Beheading Anklet). [editorial] kubikiri as a status uses ebt's 'Decapitation' (Resist Decapitation, skill 2399 Decapitation Up)"
+ },
+ {
+  "en": "Has a chance to cure status ailments that don't heal naturally.",
+  "kind": "desc"
+ },
+ {
+  "en": "Kills a summoned monster in one blow.",
+  "kind": "desc"
+ },
+ {
+  "en": "Svt. Bag",
+  "kind": "label",
+  "note": "[JP] = Servant's Bag (HELP_TEXT), abbreviated to fit 8 bytes (JOB_LIST c3 camp list)."
+ },
+ {
+  "en": "Song of Battle",
+  "kind": "key?",
+  "note": "Unused song (no JOB_EX entry); follows Song of Healing/Ruin/Warding/Hope pattern."
+ },
+ {
+  "en": "Song of Smiles",
+  "kind": "key?",
+  "note": "Unused song (no JOB_EX entry); same pattern."
+ },
+ {
+  "en": "Sever Summon",
+  "kind": "key?",
+  "note": "[JP] is a misspelling of [JP] (= Sever Summon, ebt slice_15); same English."
+ },
+ {
+  "en": "Bloodwed",
+  "kind": "key?",
+  "note": "[JP] 'blood wedding'; 8-byte limit (camp list c3) forces a coined compound. Unused (used=false)."
+ },
+ {
+  "en": "Racial Skill",
+  "kind": "key?",
+  "note": "Group label in JOB_LIST c4 for Breath row; unused."
+ },
+ {
+  "en": "Ward of Creation",
+  "kind": "key?",
+  "note": "Legacy c4 name matching JOB_EX:66 [JP] (row offset +2); unused. Literal: protection of life-creation."
+ },
+ {
+  "en": "Excavation",
+  "kind": "key?",
+  "note": "JOB_LIST c4 (used) for JOB_EX:69 [JP]; standalone [JP]. Check against slice_29's name for [JP]."
+ },
+ {
+  "en": "Way of Meddling",
+  "kind": "key?",
+  "note": "Legacy c4 name matching JOB_EX:70 [JP]; unused."
+ },
+ {
+  "en": "Dark Realm Torrent",
+  "kind": "key?",
+  "note": "[JP] = Dark Realm (glossary). Legacy c4 name matching JOB_EX:110 [JP]; unused. Exactly 18 bytes."
+ },
+ {
+  "en": "Record 01",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 02",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 03",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 04",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 05",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 06",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 07",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 08",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 09",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 10",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 11",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 12",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 13",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 14",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 15",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 16",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 17",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 18",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 19",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ }
+]

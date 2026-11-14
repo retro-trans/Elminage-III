@@ -1,0 +1,806 @@
+[
+ {
+  "id": "DGN_NAME.CSV:3:1",
+  "en": "Konnu Ruins",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:3:2",
+  "en": "1F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:4:1",
+  "en": "Konnu Ruins",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:4:2",
+  "en": "B1F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:5:1",
+  "en": "Konnu Ruins",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:5:2",
+  "en": "B2F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:6:1",
+  "en": "Blue Cave",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:6:2",
+  "en": "South 1F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:7:1",
+  "en": "Blue Cave",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:7:2",
+  "en": "South B1F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:8:1",
+  "en": "Blue Cave",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:8:2",
+  "en": "North 1F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:9:1",
+  "en": "Blue Cave",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:9:2",
+  "en": "North B1F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:10:1",
+  "en": "Leanmakana Mts.",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:10:2",
+  "en": "1F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:11:1",
+  "en": "Leanmakana Mts.",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:11:2",
+  "en": "2F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:12:1",
+  "en": "Leanmakana Mts.",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:12:2",
+  "en": "3F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:13:1",
+  "en": "Perpeco Forest",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:13:2",
+  "en": "Northwest",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:14:1",
+  "en": "Perpeco Forest",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:14:2",
+  "en": "Northwest",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:15:1",
+  "en": "Perpeco Forest",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:15:2",
+  "en": "Northeast",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:16:1",
+  "en": "Perpeco Forest",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:16:2",
+  "en": "Southwest",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:17:1",
+  "en": "Perpeco Forest",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:17:2",
+  "en": "Southeast",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:18:1",
+  "en": "Joker Land",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:18:2",
+  "en": "Fun & Games",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:19:1",
+  "en": "Joker Land",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:19:2",
+  "en": "1F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:20:1",
+  "en": "Joker Land",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:20:2",
+  "en": "2F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:21:1",
+  "en": "Crotoa Ruins",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:21:2",
+  "en": "Northwest",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:22:1",
+  "en": "Crotoa Ruins",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:22:2",
+  "en": "Northeast",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:23:1",
+  "en": "Crotoa Ruins",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:23:2",
+  "en": "Southwest",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:24:1",
+  "en": "Crotoa Ruins",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:24:2",
+  "en": "Southeast",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:25:1",
+  "en": "Giaf Dunes",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:25:2",
+  "en": "Entrance",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:26:1",
+  "en": "Giaf Dunes",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:26:2",
+  "en": "Center",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:27:1",
+  "en": "Giaf Dunes",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:27:2",
+  "en": "Deep Dunes",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:28:1",
+  "en": "Santorea Academy",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:28:2",
+  "en": "Sword Bldg",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:29:1",
+  "en": "Santorea Academy",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:29:2",
+  "en": "Central Bldg",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:30:1",
+  "en": "Santorea Academy",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:30:2",
+  "en": "Magic Bldg",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:31:1",
+  "en": "Santorea Academy",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:31:2",
+  "en": "Faculty Bldg",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:32:1",
+  "en": "Ogre Bay",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:32:2",
+  "en": "W. Tower 1F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:33:1",
+  "en": "Ogre Bay",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:33:2",
+  "en": "W. Tower 2F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:34:1",
+  "en": "Ogre Bay",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:34:2",
+  "en": "E. Tower 1F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:35:1",
+  "en": "Ogre Bay",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:35:2",
+  "en": "E. Tower 2F",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:36:1",
+  "en": "Miasuna",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:36:2",
+  "en": "Meiroin",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:37:1",
+  "en": "Miasuna",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:37:2",
+  "en": "Castle Halls",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:38:1",
+  "en": "Miasuna",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:38:2",
+  "en": "Inner Bailey",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:39:1",
+  "en": "Miasuna",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:39:2",
+  "en": "Castle Keep",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:40:1",
+  "en": "Crystal Maze",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:40:2",
+  "en": "Entrance",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:41:1",
+  "en": "Crystal Maze",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:41:2",
+  "en": "Lower Level",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:42:1",
+  "en": "Crystal Maze",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:42:2",
+  "en": "Middle Level",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:43:1",
+  "en": "Crystal Maze",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:43:2",
+  "en": "Upper Level",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:44:1",
+  "en": "Rinos Volcano",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:44:2",
+  "en": "South Peak",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:45:1",
+  "en": "Rinos Volcano",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:45:2",
+  "en": "Mid-Slope",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:46:1",
+  "en": "Rinos Volcano",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:46:2",
+  "en": "East Peak",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:47:1",
+  "en": "Rinos Volcano",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:47:2",
+  "en": "Crater",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:48:1",
+  "en": "Sun Palace",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:48:2",
+  "en": "Horizon Arc",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:49:1",
+  "en": "Sun Palace",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:49:2",
+  "en": "Left Sundog",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:50:1",
+  "en": "Sun Palace",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:50:2",
+  "en": "True Sun Rm.",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:51:1",
+  "en": "Sun Palace",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:51:2",
+  "en": "Right Sundog",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:52:1",
+  "en": "Sun Palace",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:52:2",
+  "en": "Zenith Arc",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:53:1",
+  "en": "Fairy Village",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:53:2",
+  "en": "Nertowayu",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:54:1",
+  "en": "Wind Castle",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:54:2",
+  "en": "Fizion",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:55:1",
+  "en": "Wind Castle",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:55:2",
+  "en": "Delita",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:56:1",
+  "en": "Wind Castle",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:56:2",
+  "en": "Nertowa",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:57:1",
+  "en": "Wind Castle",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:57:2",
+  "en": "Ratopos",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:58:1",
+  "en": "Wind Castle",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:58:2",
+  "en": "Shiosel",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:59:1",
+  "en": "Wind Castle",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:59:2",
+  "en": "Zenteres",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:60:1",
+  "en": "Wind Castle",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:60:2",
+  "en": "Arikes",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:61:1",
+  "en": "Seirion-Daera",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "DGN_NAME.CSV:61:2",
+  "en": "South",
+  "max": 12,
+  "used": false
+ },
+ {
+  "id": "DGN_NAME.CSV:62:1",
+  "en": "Seirion-Daera",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "DGN_NAME.CSV:62:2",
+  "en": "West",
+  "max": 12,
+  "used": false
+ },
+ {
+  "id": "DGN_NAME.CSV:63:1",
+  "en": "Seirion-Daera",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "DGN_NAME.CSV:63:2",
+  "en": "Center",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:64:1",
+  "en": "Seirion-Daera",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "DGN_NAME.CSV:64:2",
+  "en": "East",
+  "max": 12,
+  "used": false
+ },
+ {
+  "id": "DGN_NAME.CSV:65:1",
+  "en": "Seirion-Daera",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "DGN_NAME.CSV:65:2",
+  "en": "North",
+  "max": 12,
+  "used": false
+ },
+ {
+  "id": "DGN_NAME.CSV:66:1",
+  "en": "Genesis Sanctum",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:66:2",
+  "en": "Lower Level",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:67:1",
+  "en": "Genesis Sanctum",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:67:2",
+  "en": "Middle Level",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:68:1",
+  "en": "Genesis Sanctum",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:68:2",
+  "en": "Upper Level",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:69:1",
+  "en": "Test",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "DGN_NAME.CSV:69:2",
+  "en": "test",
+  "max": 12,
+  "used": true
+ }
+]

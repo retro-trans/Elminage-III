@@ -1,0 +1,343 @@
+[
+ {
+  "en": "Common",
+  "kind": "name",
+  "note": "UI credits/save list fix this name ([JP] -> Common)."
+ },
+ {
+  "en": "Pipe Down!",
+  "kind": "name",
+  "note": "Epithet is an exclamation others throw at this chatty character (\"You're noisy!\"); kept as a shout."
+ },
+ {
+  "en": "Chatterbox",
+  "kind": "name"
+ },
+ {
+  "en": "Fujiyama",
+  "kind": "name",
+  "note": "Full-width romaji in source; UI credits use Fujiyama."
+ },
+ {
+  "en": "Fuji",
+  "kind": "name",
+  "note": "UI save list uses Fuji."
+ },
+ {
+  "en": "Bloom Past Forty",
+  "kind": "name",
+  "note": "Pun: [JP] = \"forty-fold cherry\" (play on [JP], i.e. someone in their forties) + [JP] \"can't go back\". \"Past\" carries the no-going-back sense; cherry rendered as \"Bloom\" to fit 16."
+ },
+ {
+  "en": "Late Bloomer",
+  "kind": "name",
+  "note": "[JP] = flowering out of season (a late burst of vigour); matches the cherry pun of the epithet."
+ },
+ {
+  "en": "Hiyora",
+  "kind": "name",
+  "note": "UI credits/save list fix this name."
+ },
+ {
+  "en": "Top Secret",
+  "kind": "name",
+  "note": "[JP] = \"the hush-hush one\"."
+ },
+ {
+  "en": "Secretive",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Fighter",
+  "kind": "name",
+  "note": "Test/debug character. [JP] = \"strongest!\", rendered \"Max!\" to fit every class in its slot. Class names per glossary/UI."
+ },
+ {
+  "en": "!Fighter",
+  "kind": "name",
+  "note": "Truncated nickname mirrors the source ([JP])."
+ },
+ {
+  "en": "Epithet",
+  "kind": "name",
+  "note": "Placeholder epithet ([JP]) used by 16 test entries."
+ },
+ {
+  "en": "Personality",
+  "kind": "name",
+  "note": "Placeholder personality ([JP]) used by 16 test entries."
+ },
+ {
+  "en": "Max!Mage",
+  "kind": "name"
+ },
+ {
+  "en": "!Mage",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Priest",
+  "kind": "name"
+ },
+ {
+  "en": "!Priest",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Thief",
+  "kind": "name"
+ },
+ {
+  "en": "!Thief",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Alchemist",
+  "kind": "name"
+ },
+ {
+  "en": "!Alchemist",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Maid",
+  "kind": "name",
+  "note": "Source says [JP] (Maid), the in-game nickname of the [JP]/Servant class (CHR slice_01 uses Maid too)."
+ },
+ {
+  "en": "!Maid",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Bishop",
+  "kind": "name"
+ },
+ {
+  "en": "!Bishop",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Ranger",
+  "kind": "name",
+  "note": "[JP] = Hunter per glossary (UI ebt slice still says Ranger; term_replacements move Ranger -> Hunter)."
+ },
+ {
+  "en": "!Ranger",
+  "kind": "name",
+  "note": "See 3791."
+ },
+ {
+  "en": "Max!Gladiatr",
+  "kind": "name",
+  "note": "Gladiator abbreviated to fit 12 bytes (\"Max!Gladiator\" is 13)."
+ },
+ {
+  "en": "!Gladiator",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Bard",
+  "kind": "name"
+ },
+ {
+  "en": "!Bard",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Kannagi",
+  "kind": "name",
+  "note": "[JP] = Kannagi per UI."
+ },
+ {
+  "en": "!Kannagi",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Summoner",
+  "kind": "name"
+ },
+ {
+  "en": "!Summoner",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Valkyrie",
+  "kind": "name",
+  "note": "[JP] = Valkyrie per glossary/UI."
+ },
+ {
+  "en": "!Valkyrie",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Lord",
+  "kind": "name"
+ },
+ {
+  "en": "!Lord",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Samurai",
+  "kind": "name"
+ },
+ {
+  "en": "!Samurai",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Ninja",
+  "kind": "name"
+ },
+ {
+  "en": "!Ninja",
+  "kind": "name"
+ },
+ {
+  "en": "Data Check",
+  "kind": "name",
+  "note": "Debug entry."
+ },
+ {
+  "en": "Data Chk",
+  "kind": "name",
+  "note": "Source nickname is a truncation ([JP]); abbreviated likewise."
+ },
+ {
+  "en": "A1",
+  "kind": "name",
+  "note": "Debug placeholder epithet ([JP]); romanized."
+ },
+ {
+  "en": "P1",
+  "kind": "name",
+  "note": "Debug placeholder personality ([JP], [JP] from [JP]); rendered P for Personality to pair with A1."
+ },
+ {
+  "en": "Sho Kusanagi",
+  "kind": "name",
+  "note": "Western order, Hepburn without long-vowel mark ([JP] -> Sho; \"Shou\" would also fit). Gender not stated in source."
+ },
+ {
+  "en": "Sho",
+  "kind": "name",
+  "note": "See 3813."
+ },
+ {
+  "en": "The British Way",
+  "kind": "name",
+  "note": "[JP] = \"This is the British way\"."
+ },
+ {
+  "en": "Bright & Lively",
+  "kind": "name"
+ },
+ {
+  "en": "Mokunen",
+  "kind": "name",
+  "note": "[JP] = Tatewaki Mokunen; \"Mokunen Tatewaki\" (16) does not fit 8 bytes, so given name only (same as nickname)."
+ },
+ {
+  "en": "Mokunen",
+  "kind": "name"
+ },
+ {
+  "en": "Doctor Lionel",
+  "kind": "name"
+ },
+ {
+  "en": "Lionel",
+  "kind": "name"
+ },
+ {
+  "en": "Patty",
+  "kind": "name",
+  "note": "[JP] romanized Patty."
+ },
+ {
+  "en": "Sora Amaha",
+  "kind": "name",
+  "note": "Western order. [JP] read Amaha (from [JP] below)."
+ },
+ {
+  "en": "Sora",
+  "kind": "name"
+ },
+ {
+  "en": "Amaha Heir",
+  "kind": "name",
+  "note": "[JP] = heir/successor of the Amaha school; \"Heir of Amaha\" (13) does not fit 12."
+ },
+ {
+  "en": "Shy Karateka",
+  "kind": "name",
+  "note": "[JP] = innocent, easily flustered; \"Pure Karateka\" (13) does not fit 12, \"Shy\" chosen as the closest short word."
+ },
+ {
+  "en": "Isabella",
+  "kind": "name"
+ },
+ {
+  "en": "Human M",
+  "kind": "name",
+  "note": "Race template character. \"X M / X F\" pattern forced by 8-byte slots (ebt UI: [JP] = Male, [JP] = Female). Slice 47 should match."
+ },
+ {
+  "en": "Human",
+  "kind": "name",
+  "note": "[JP] nickname."
+ },
+ {
+  "en": "Human F",
+  "kind": "name"
+ },
+ {
+  "en": "Elf M",
+  "kind": "name"
+ },
+ {
+  "en": "Elf F",
+  "kind": "name"
+ },
+ {
+  "en": "Dwarf M",
+  "kind": "name"
+ },
+ {
+  "en": "Dwarf F",
+  "kind": "name"
+ },
+ {
+  "en": "Gnome M",
+  "kind": "name"
+ },
+ {
+  "en": "Gnome F",
+  "kind": "name"
+ },
+ {
+  "en": "Hotlet M",
+  "kind": "name",
+  "note": "[JP] = Hotlet per UI (ebt)."
+ },
+ {
+  "en": "Hotlet F",
+  "kind": "name"
+ },
+ {
+  "en": "Fairy M",
+  "kind": "name"
+ },
+ {
+  "en": "Fairy F",
+  "kind": "name"
+ },
+ {
+  "en": "Werebeast M",
+  "kind": "name"
+ },
+ {
+  "en": "Werebeast F",
+  "kind": "name"
+ }
+]

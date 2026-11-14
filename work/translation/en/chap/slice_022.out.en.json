@@ -1,0 +1,276 @@
+[
+ {
+  "en": "What appeared was one once hailed as a god of war.{w}{p}Fluttering both hands, it drew near with a genial smile.{w}{p}And what it reaps as it smiles... is lives.{w}",
+  "kind": "msg",
+  "note": "Master Drake (MONSTER3 epithet 'god of war'). Source is all-kana retro Wizardry pastiche (like 1748/1752); rendered in normal case -- ALL CAPS would be an option if the slice_021 row 1748 does the same."
+ },
+ {
+  "en": "Raging Figure",
+  "kind": "name",
+  "note": "Unidentified-monster style name (Wizardry 'strange figure' convention), not a proper name."
+ },
+ {
+  "en": "\"Now then, you frail things.\nAre you prepared?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You picked up an item.{w}",
+  "kind": "msg",
+  "note": "Kana-only retro variant of row 1731 (kanji version); same English."
+ },
+ {
+  "en": "With a thudding tread that shook the ground,\na fat man came walking along.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "He seemed to be trying to perform some sort of ritual, but his bulging belly kept getting in the way.{w}",
+  "kind": "msg",
+  "note": "Don Magus (MONSTER3 epithet 'big-underpants magic')."
+ },
+ {
+  "en": "The man noticed you watching.{w}Perhaps thinking you were mocking his portly body, he came charging at you, face beet red.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Portly Man",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hey! Who do you think I am!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "?Lady Doctor",
+  "kind": "name",
+  "note": "Female doctor (MON_TEXT 276; Norden Orc entry, epithet 'Where shall I treat?'). '?' prefix kept as in other unidentified names."
+ },
+ {
+  "en": "\"Next, please.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Addressed out of nowhere, you were taken aback.{w}But pinned by her gaze, which allowed no argument, you somehow got the impression that you were the ones in the wrong.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So, what seems to be the trouble today?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "At her prompting, you answered questions about your health. The doctor nodded languidly, writing up a chart with flowing strokes of her pen.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...All right, that's enough.\nNow, bare your bottom. Get down on all fours.{w}I'm going to prescribe you a nice, big, heaping dose.\"{w}",
+  "kind": "msg",
+  "note": "Innuendo kept at full strength; per MON_TEXT her treatment is an injection with a huge syringe."
+ },
+ {
+  "en": "A woman appeared with a great many arrows nocked to a single bow.{w}She flitted lightly about the area.{w}Letting her beautiful hair play in the wind, she spoke.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Bow Saint Polyte",
+  "kind": "name",
+  "note": "Glossary spelling."
+ },
+ {
+  "en": "\"Morning dew is sweet nectar. Birdsong is the gospel.\nThe deep forest is the cradle of life.{w}And I am the Holy Polyte.\"{w}",
+  "kind": "msg",
+  "note": "'Holy Polyte' matches the item name (seinaru Polyte no yumi) and rows 1768/1777."
+ },
+ {
+  "en": "Shooting Moon",
+  "kind": "name",
+  "note": "Monster name (MONSTER2/MON_TEXT 231); this one is Jenas, Polyte's rival in the play 'Periatif'."
+ },
+ {
+  "en": "\"Don't go calling yourself holy, it's embarrassing!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Good day to you, Jenas.\"{w}",
+  "kind": "msg",
+  "note": "Polyte: posh, ladylike (watakushi / -desu wa)."
+ },
+ {
+  "en": "\"Come on,\nlet's play out the rest of Periatif!\"{w}",
+  "kind": "msg",
+  "note": "Periatif = the play about Polyte and Jenas's rivalry (MON_TEXT 227/231): i.e. resume their duel."
+ },
+ {
+  "en": "\"...I'm not in the mood for that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why the hell not?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Because I dislike you, naturally.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, it's not like I'm chasing after you\nbecause I like it either!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And what is that, with your bottom hanging out for all to see?\nMy, how vulgar.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're one to talk,\nusing a bow like that! That's not real archery!\"{w}",
+  "kind": "msg",
+  "note": "jado = heretical/improper way; refers to her firing many arrows at once."
+ },
+ {
+  "en": "\"You don't understand at all, do you, Jenas.\"{w}{p}\"That's where you're supposed to say,\n'As expected of the Holy Polyte!'\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Jenas",
+  "kind": "name",
+  "note": "New name. Female: uses atashi, Polyte calls her anata (kanji for a woman) and 'doe'."
+ },
+ {
+  "en": "\"Shut the hell up!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Jenas turned to you with an irritated look, pleading her case.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Hey, you get it, right?{w}Half the reason I want to kill her\nis that personality! She makes no damn sense!!\"{w}",
+  "kind": "msg",
+  "note": "'Her' = Polyte (female established in row 1764)."
+ },
+ {
+  "en": "\"I have never once asked you to understand me.\n(Snap!~)\"{w}",
+  "kind": "msg",
+  "note": "pishari = curt, slamming retort; the note symbol rendered as '~' (ASCII only)."
+ },
+ {
+  "en": "\"Aaaargh... You are so damn annoyiiing...!{w}Hey, let's kill her already!!\"{w}",
+  "kind": "msg",
+  "note": "Jenas to the party: 'let's' -- she invites you to fight Polyte with her."
+ },
+ {
+  "en": "\"How d'you like this, huh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thud, and down I go~{w}...or so I'd jest! Tee-hee...\"{w}{p}\"The Holy Polyte...!!\"{w}",
+  "kind": "msg",
+  "note": "batankyu = cutesy 'keel over'. Final fragment is a cry that breaks off; 1786 is written to stand alone too."
+ },
+ {
+  "en": "\"I won't go down from something like this!{w}I shall surely appear again! Appear in splendor!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shut that mouth of yours!{w}Seriously, you want me to kill you!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Jenas, you've improved.{w}{p}I'm off to hunt Demon Dukes,\nso do mind things here while I'm away.\"{w}",
+  "kind": "msg",
+  "note": "daimakou -> 'Archdemon' (no prior rendering in the corpus; MON_TEXT says Polyte hunts them in the wasteland)."
+ },
+ {
+  "en": "\"Huh!? Don't just go deciding that on your own...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honestly, that Taizarti,\nswallowing up so many of my arrows.{w}I must get them back as soon as possible.\"{w}{p}\"Well then, good day!{w}...My little doe with the cute bottom~\"{w}",
+  "kind": "msg",
+  "note": "Taizarti spelling from 'Taizarti Lamp' (chap slice_001). Per MON_TEXT 312 Polyte's arrows are stuck in Taizarti's head; no pronoun used (gender unknown)."
+ },
+ {
+  "en": "\"Eek!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Polyte gave Jenas's rear a single stroke,\nthen ran off laughing.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah... Wh...... Nngh...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Shooting Moon called Jenas stood quivering with rage she had nowhere to vent.{w}Her bottom was quivering too.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Spiderwebs clung to your bodies.{w}The more you brushed them off, the more the threads tangled around you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "It seems you noticed something was wrong a little too late.{w}{p}Before you knew it, you had been dragged into the nest of an enchantress in the shape of a spider.{w}",
+  "kind": "msg",
+  "note": "youjo -> 'enchantress' (a bewitching monster-woman)."
+ },
+ {
+  "en": "Suddenly, you were wrapped in the scent of some flower.{w}I see -- this is no mere enchantress.{w}One cloaked in the scent of flowers... a FAIR enchantress!!{w}",
+  "kind": "msg",
+  "note": "bi-youjo (coined self-flattering word) -> 'fair enchantress', same word as the name box and row 1801."
+ },
+ {
+  "en": "?Enchantress",
+  "kind": "name",
+  "note": "17 chars, one over the ~16 guideline; '?Fair Siren' is a shorter fallback."
+ },
+ {
+  "en": "\"Rolfaaaaan!!\"{w}",
+  "kind": "msg",
+  "note": "Taranti's battle cry (also her MONSTER3 epithet). Meaning unknown; romanized."
+ },
+ {
+  "en": "Taranti",
+  "kind": "name",
+  "note": "New name (spider woman; tarantula pun)."
+ },
+ {
+  "en": "\"Hegyah!?\"{w}{p}\"Th... That's so mean...{w}Roughing up a fair enchantress like me...{w}...Waaaah!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Taranti ran off, moving with something like a skip.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Shaking heaven and earth, a grotesque, many-armed giant appeared.{w}It looked down at you and, amused by who knows what, rained down laughter like a thunderclap.{w}{p}But the next instant, the many-armed giant brought down a fist brimming with murderous intent.{w}",
+  "kind": "msg",
+  "note": "Hecatoncheir (not named in the text). 'nani ga tanoshii no ka' = for whatever reason it finds this fun; rendered as 'amused by who knows what'."
+ },
+ {
+  "en": "An unfamiliar knight of the Kin of Darkness appeared.{w}On a closer look she was a woman, and her dignified face showed iron resolve.{w}{p}Strength of heart becomes power.{w}From the Demon God Lance pointed at you, you sensed a blade of will honed to a terrifying edge.{w}",
+  "kind": "msg",
+  "note": "yami no kenzoku -> 'Dark Kin' (corpus is split: Dark Kin 5, Kin of Darkness 4, kin of darkness 4)."
+ },
+ {
+  "en": "\"My mother was betrayed by the gods and fell into darkness.{w}Even the small happiness she found after her fall had no future -- those of the New Lands stole her tomorrow.\"{w}{p}\"And by the fate of all who side with darkness, my mother strayed from the Path of Souls and was swallowed up by the Abyss, that prison of souls.\"{w}",
+  "kind": "msg",
+  "note": "kami -> 'the gods' (number not marked). shinsouchi -> 'the New Lands' (new term). Speaker box is ??? (Sephiriege before she names herself)."
+ },
+ {
+  "en": "Sephiriege",
+  "kind": "name",
+  "note": "New name. Full Japanese box is 'Ankoku-metsu General Sephiriege'; the title is cut from the name box for length and is given in full in row 1807. Former name Sephirine (MON_TEXT 280)."
+ },
+ {
+  "en": "\"I am Sephiriege, Demon General of Dark Oblivion.\"{w}{p}\"To save my mother's soul, and to bring an end to the injustice of the gods, I received a new name and power from Rogera.\"{w}{p}\"The Demon God Lance will soon set out for the Abyss.\"{w}{p}\"Should anyone stand in its way, whoever they may be...{w}even those who were once my brethren, I cannot spare them.\"{w}",
+  "kind": "msg",
+  "note": "anmetsu -> 'Oblivion' following Rogera's title in chap slice_008 / wmap slice_16. The lance line refers to herself through her weapon; kept."
+ },
+ {
+  "en": "\"Well, this is a surprise.\nThough it has yet to fully settle in me, you've overcome power on par with a Divine Shadow?\"{w}{p}\"Perhaps we will meet again somewhere.{w}Heh heh heh...\"{w}",
+  "kind": "msg",
+  "note": "shin'ei -> 'Divine Shadow' (wmap slice_01). 'it' = her newly granted power."
+ },
+ {
+  "en": "You saw a strange shadow ahead.{w}It seemed human-shaped, but its head was clearly wrong, writhing grotesquely.{w}{p}Soon the details of what had been shadow became clear.{w}You realized that where a human head should be, something else had been put in its place.{w}{p}How did you realize it?{w}Because the figure was closing in on you to attack.{w}",
+  "kind": "msg"
+ }
+]

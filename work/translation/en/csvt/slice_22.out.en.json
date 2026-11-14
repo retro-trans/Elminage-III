@@ -1,0 +1,340 @@
+[
+ {
+  "en": "A cotton handkerchief, tie-dyed or printed in calico patterns, is called a bandana when tied around the head. They come in many patterns and colors, so every bandana has its own character. Being a handkerchief at heart, it has many uses beyond being worn, such as wiping sweat or stanching blood.",
+  "kind": "desc"
+ },
+ {
+  "en": "A hat torn in fierce combat. Few garments come through battles full of flying swords, arrows and spells unscathed. Conversely, if you see an adventurer wearing gear like this without a speck of dirt on it, you should assume they are highly skilled.",
+  "kind": "desc"
+ },
+ {
+  "en": "A strange hat that has sprouted wings. A miracle of the gods, or a devil's prank? Wear it and you feel you could fly, but only the hat would fly away. The wings are linked to the wearer's mood and move in funny ways: twitching when happy, flapping when flustered, folding shut when sulking.",
+  "kind": "desc"
+ },
+ {
+  "en": "A wig is normally an adornment for the head. What situation could call for wearing a wig with no hair? A truly baffling item. Yet the most baffling thing of all must be the fact that monsters drop these. Hair Remover! Hair Remember!",
+  "kind": "desc",
+  "note": "Hair Remover / Hair Remember keeps the source's English-loanword wordplay."
+ },
+ {
+  "en": "Naturally, some adventurers are women. So as not to forget she is a woman before she is an adventurer, she adorns herself with a steel hairband. A little touch of style: will that special someone like it? Giving your all in love and adventure! Let's go, girls!",
+  "kind": "desc",
+  "note": "Source is written as a girl's cheerful voice; 'she' is the generic female adventurer the text describes."
+ },
+ {
+  "en": "A hat made for mages. It completely nullifies silence spells. Nothing can stop the chanting of a caster wearing it; foes can only flee from the spells unleashed. But mages, keep one thing in mind: magic power is not infinite. Get carried away and you may get burned.",
+  "kind": "desc"
+ },
+ {
+  "en": "This hood senses its wearer's tastes and endlessly tells them jokes funny enough to make them die laughing. So hilarious are they that the wearer forgets all knowledge. Yet knowledge alone would be fine. Wear this hood in public, and your authority and trust will also be socially LOST.",
+  "kind": "desc",
+  "note": "LOST = the Wizardry-style permanent character loss (corpus: 'lost'); kept as the joke."
+ },
+ {
+  "en": "A Bandana Soul fires you up more than a bandana. It began when a Gladiator in a bandana cried, \"This bandana has no soul! I need one with soul in it! First, how it's tied!\" and tied it their own way. A bandana's soul: Bandana Soul. Obvious, really, yet it's a hit with Gladiators and Rangers.",
+  "kind": "desc",
+  "note": "Name pun bandana + soul. Gladiator's gender not stated: 'their'."
+ },
+ {
+  "en": "A hat knitted from magic thread to raise magic power. Wearing it is sure to amplify a mage's power. The greater the wearer's power to begin with, the stronger the boost, so a decent caster becomes a strong one, and a strong caster becomes an unstoppable one.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor of iron that covers the whole body. Being iron, it gives high defense, but it is very heavy in exchange. For front-liners, it is the gear that lets them cover themselves head to toe and breathe easy for the time being.",
+  "kind": "desc"
+ },
+ {
+  "en": "Full-body armor made for knights. Designed with mounted combat in mind, it is issued to knights in national service below the rank of captain. Its basic performance differs little from Plate Mail, but it is somewhat easier to move in.",
+  "kind": "desc"
+ },
+ {
+  "en": "For those who fight on the front line in full armor, armor is a consumable. However well they dodge, no one can avoid every attack, and those attacks rarely leave just a scratch. Yet to the wearer, such armor may be a mark of pride. Provided, of course, the wearer is still alive.",
+  "kind": "desc"
+ },
+ {
+  "en": "Men cannot equip it; women cannot either. Only the third gender can. That is the Varios Sword. Its length falls between a sword and a dagger, and its edge leaves nothing to be desired. It is said some wear it to subtly announce who they are.",
+  "kind": "desc",
+  "note": "Source: the sword can be equipped by neither male nor female, only the 'third gender'."
+ },
+ {
+  "en": "Plate Mail made lighter by shaving off needless parts while keeping the same material. It was made with input from those who actually wore Plate Mail on the front line, so it is well liked in the field. The word is: rather than buy Plate Mail, stretch your budget a little and buy Plate Mail +1.",
+  "kind": "desc",
+  "note": "Source typo itta (said) read as itta (went)."
+ },
+ {
+  "en": "Neither good nor evil. Neither ally nor foe. Only such a one, seeking to stop a pointless fight between both sides, may wear this armor. The Neutral alignment is generally thought hard to grasp. That shows how many live by cozy collusion. Neutral adventurers, be noble.",
+  "kind": "desc",
+  "note": "nareai = going along with others out of familiarity/collusion; rendered 'cozy collusion'."
+ },
+ {
+  "en": "Armor with magic-defense spells cast over its whole surface. They are little more than a charm, but having them or not makes a world of difference. Warriors with poor magic defense favor it. It is one of the armors spellcasters find most troublesome.",
+  "kind": "desc"
+ },
+ {
+  "en": "Bright red armor, as if dyed all over in blood. Foes on the battlefield are said to have feared its wearers, taking them for demons. Nor was that wholly a mistake: all who wear it fight cruelly, and when the battle ends, blood drips from every inch of the armor.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gleaming armor made of crystal. Being see-through, it is often assumed to be light, but it is a solid lump of stone and quite heavy. Unlike other armor, you also have to watch what you wear underneath it.",
+  "kind": "desc",
+  "note": "Joke: the armor is see-through, so mind your underclothes."
+ },
+ {
+  "en": "Armor said to last a lifetime once you have it. However, given the high price of mithril and its beauty, Mithril Plate was traded mainly for display. Even when used on the battlefield, it is rarely seen on the front line.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor blessed by the gods, which only those of high standing may wear. Only Lords can equip it, but if you obtain it, its wearer will become an even more dependable guardian of the party.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gear designed to protect the wearer's chest. Unlike full armor it covers only the torso, so it is easy to move in and favored by swift warriors who live by hit-and-run. Defense or mobility? On that, opinions are divided among wearers.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor worn by low-ranking samurai in the eastern land. Its defense is modest, but it is so versatile it is easy to mass-produce. That made it cheap to equip a whole unit, and it was prized for giving a unit a uniform look and sense of unity.",
+  "kind": "desc",
+  "note": "Source anni (careless) read as youi (easy), a typo."
+ },
+ {
+  "en": "A fallen samurai is an eastern samurai who survived a war on the losing side and fled. The armor such a fugitive wore is called Fallen Samurai Armor. Attacked by enemies while fleeing, its back bristles with arrows. They ran for their lives, with no time to pull the arrows from armor or body.",
+  "kind": "desc",
+  "note": "ochimusha explained through the item name 'Fallen Samurai'."
+ },
+ {
+  "en": "A breastplate for Rangers, with no shoulder strap on the right side to make drawing a bow easier. Besides guarding the chest, it also serves as a guard to keep the bowstring from injuring the wearer's chest.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor that spoiled young nobles wore to the battlefield on a lark, which at some point began circulating among the public. It is pretty enough that some want to wear it, but it is like parading your wealth, so be ready to be attacked now and then.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor said to have been worn by swordsmen of the eastern land while guarding the coast. It is far more decent than Ashigaru Armor. Perhaps because it puts practicality first, it is extremely plain.",
+  "kind": "desc"
+ },
+ {
+  "en": "A breastplate made of white silver. It shines beautifully, but tarnishes quickly if neglected. If you get splashed with blood, wipe it off fast. Some alchemists take on polishing jobs for armor of this kind.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ice breastplate wreathed in cold. Its chill lets it lessen fire attacks a little. But its true worth lies in special defense. Perhaps it chills the heart, too, for it fully nullifies several special attacks. A lasting favorite of mid- to high-level adventurers.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor made to offer victory to the goddess. Legend says battle maidens wore such offered armor into war. Following that legend, it is still made today for Valkyries. Wearing it, they gain the pride and strength of the battle maidens who guarded the goddess.",
+  "kind": "desc",
+  "note": "shinnyo = Valkyrie class (corpus); ikusa-miko rendered 'battle maidens' to keep it apart from the class name."
+ },
+ {
+  "en": "This kuroito odoshi is said to be made in a special style of the eastern land. That style never reached this continent, so the only ones here were brought over from the East somehow. With beauty as well as defense, this armor is truly a mystery of the East.",
+  "kind": "desc",
+  "note": "Kuroito Odoshi kept romanized as in the item name."
+ },
+ {
+  "en": "Chain mail's most notable trait is that, unlike other armor, it is very flexible. It barely restricts movement. Also, worn at all times outside battle, it protects you from sudden raids and assassins. It may be the armor you can keep closest at hand.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor made of many overlapping cut iron plates. It combines iron's high defense with a chain-mail-like flexibility that fits the body. But it is hard to maintain; slip up and the iron joints soon rust, leaving it useless. So some people never maintain it at all and just treat it as disposable.",
+  "kind": "desc"
+ },
+ {
+  "en": "Chain mail made with elven magic arts. On top of normal chain mail performance, it resists magic, making it an all-round design. But as it is made with magic arts known only to elves, humans cannot wear it.",
+  "kind": "desc"
+ },
+ {
+  "en": "Chain mail with the power of fire woven into its links. Wearing it protects you from cold. Also, casting fire spells creates a synergy that deals more damage than usual. Its powers are the exact opposite of Ice Chain Mail's; the two are a matched pair.",
+  "kind": "desc"
+ },
+ {
+  "en": "Chain mail with the power of ice woven into its links. Wearing it protects you from fire. Also, casting ice spells creates a synergy that deals more damage than usual. Its powers are the exact opposite of Flame Chain Mail's; the two are a matched pair.",
+  "kind": "desc"
+ },
+ {
+  "en": "Why does adding a face covering to chain mail make it look so eerie? In fact, chain mail of this shape was used to transport prisoners and criminals. It was not meant to guard against foes outside, but to keep the threat inside from getting out.",
+  "kind": "desc"
+ },
+ {
+  "en": "Chain mail blessed by a god and imbued with holy power. The blessing guards the wearer from dark magic and amplifies holy magic. Being chain mail, it can be worn under a habit without anyone noticing. Partly for that reason, it is the gear clergy favor most.",
+  "kind": "desc"
+ },
+ {
+  "en": "Chain mail holding the powers of fire and ice at once. As chain mail, its defense is not absolute, but its special effect gives high resistance to fire and ice spells and amplifies both. Fire and ice rarely coexist; this chain mail truly deserves to be called a miracle.",
+  "kind": "desc"
+ },
+ {
+  "en": "Unlike iron armor, which is picky about classes, leather armor can be worn by a great many classes. Everyone wears it at least once.",
+  "kind": "desc"
+ },
+ {
+  "en": "Even animal hide becomes fairly sturdy armor if you take the trouble to boil it in wax and harden it. It is a bit heavier, but acceptably so given its strength. However, the extra work raises the price too, so it is a judgment call.",
+  "kind": "desc"
+ },
+ {
+  "en": "Leather armor rotted to tatters. What became of the one who wore it? Did they escape safely, or were they left to lie in the dungeon along with this armor?",
+  "kind": "desc"
+ },
+ {
+  "en": "Leather armor set with gems. At first glance, setting gems into it seems utterly pointless. But these gems hold a faint trace of spirit power, and they are set into the leather in hopes of that power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Made from parts of a dragon that could never be used for proper armor, such as the soft parts of its scales. Even so, it is still dragon, so it has defense to match. Every part of a dragon is precious, so all of it is used and nothing goes to waste.",
+  "kind": "desc"
+ },
+ {
+  "en": "Robes are thought of as giving only token protection. But that is a mistake. Some are woven of thread soaked in holy water to raise holy defense, or reinforced with magic thread or monster hair. Well, this robe is just a robe.",
+  "kind": "desc"
+ },
+ {
+  "en": "Clothes made for Fairies only. They are far too small for anyone else to wear. Small as they are, they have real defense and durability. For a Fairy, already nimble, just wearing these should be quite effective.",
+  "kind": "desc"
+ },
+ {
+  "en": "Black garb favored by assassins of the eastern land, so they can melt into the dark and kill their target unnoticed. Besides camouflage, it is designed for ease of movement; you could call it gear made for assassins. If you hear even a faint sound from empty darkness, be on your guard.",
+  "kind": "desc"
+ },
+ {
+  "en": "A robe worn to tatters and full of holes. But it is only natural for a robe to end up in tatters. It is just cloth, after all; asking a robe for durability and defense is simply unfair.",
+  "kind": "desc"
+ },
+ {
+  "en": "A robe given some toughness. Due to the kind of material used, it turned green all over. It is sturdier than a plain robe, but that is all it is.",
+  "kind": "desc"
+ },
+ {
+  "en": "Originally a training uniform called a dogi, from the eastern land. Those who make their fists their killing move, like Gladiators, find it very comfortable, and it is now made for Gladiators. It is easy to move in, absorbs sweat well, and makes special moves easy to pull off.",
+  "kind": "desc"
+ },
+ {
+  "en": "Whether or not anyone actually cried \"The Green Robe won't do!\", here is a robe with even more toughness. Due to the material, this time it turned blue. Many mistakenly imagine it has something to do with ice spells, but it does not, at all.",
+  "kind": "desc"
+ },
+ {
+  "en": "Formal attire of the Kannagi, a sort of eastern Priest. Its sheer silken overgarment and faintly crimson cherry blossom embroidery are lovely. Some adventurers are said to become Kannagi out of longing for this outfit. And it is not only lovely: it also protects, making it a fine pick as armor too.",
+  "kind": "desc",
+  "note": "kannagi = Kannagi class (corpus); tenshoku = class change."
+ },
+ {
+  "en": "A robe adorned with crests to raise magic resistance. The boost may be slight, but if it improves your odds of coming through unscathed, so much the better.",
+  "kind": "desc"
+ },
+ {
+  "en": "Made of extremely light material, it sways in breezes too faint to feel, hence the name. Since it is always wrapped in a fresh breeze, it can blow away mild drowsiness.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bright red robe that reduces fire damage. Common low-level fire spells become mere trifles. Its brilliant crimson glow makes you the center of attention just by walking. Stride through town with its hem flaring, and everyone will turn to look.",
+  "kind": "desc"
+ },
+ {
+  "en": "A robe holding the power of lightning. It is said to be woven from thread blessed by Zilphe. It has very high resistance to lightning magic; ordinary lightning attacks won't hurt you no matter how many you take.",
+  "kind": "desc",
+  "note": "Zilphe: new name, romanized (not in glossary or corpus)."
+ },
+ {
+  "en": "A robe of black and milky white in lovely contrast, like the midnight moon. Light and dark dwell together in it, giving it both Holy and Dark attributes. Its thin, light cloth looks nearly useless, but moonlike light and black mist envelop the wearer, giving very high defense.",
+  "kind": "desc",
+  "note": "Holy/Dark = attribute names as in ebt ('Holy Attack', 'Dark Attack')."
+ },
+ {
+  "en": "The finest robe, which only Bishops may wear. Thanks to protective spells woven into it, light as it is, it gives better evasion than common armor. A Bishop who can wear this robe may be called a full-fledged one.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gauntlets made of leather. The soft leather keeps them light and the fingers nimble, so you can react instantly to all kinds of situations. In exchange, their defense is meager; they feel close to ordinary gloves.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gloves for Fairies only. They are so tiny that ordinary people cannot possibly wear them. Small as they are, they are very finely made. Only fairy artisans make this possible; human or elven fingers could never make them.",
+  "kind": "desc"
+ },
+ {
+  "en": "Hand guards developed in the eastern land. The plated back can parry powerful slashes, but that takes a great deal of training. The fingers are said to have no iron to make holding a katana or drawing a bow easier.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gauntlets made of iron. They are segmented like bellows to protect the whole hand and fingers while allowing some freedom. You can't spread your hand wide, but you can grip a sword with no trouble at all.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gauntlets slashed to ribbons. They have taken so many blows that they can no longer serve as armor. Perhaps out of the former owner's bitter regret, equipping them will curse you.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gloves with a protective spell placed on the back of the hand. Don't expect much defense, but they raise resistance to spells. Note that they do not raise the power of your spells.",
+  "kind": "desc"
+ },
+ {
+  "en": "Lovely gauntlets adorned with roses, which only women who fight may wear. For whom does a lone rose blooming on the battlefield swing her sword? By this continent's custom, you don't get Rose Gauntlets yourself; they should be a gift from someone close to your heart. If you get some, give them to that someone!",
+  "kind": "desc",
+  "note": "ki ni naru ano ko is gender-neutral: 'that someone'. 'her sword' follows the source: only women may wear it."
+ },
+ {
+  "en": "Gauntlets made of steel. Crafted with the finger joints in mind, they let you grip a sword as naturally as with bare hands. Their defense is high as well, which makes them popular.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gloves of bobbin lace. They are costly, as an artisan must spend vast amounts of time making them. But they are worth the price; the lace is superb. The thread is soaked in holy water at a temple, so they hold holy power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gauntlets in the shape of a mantis. Insect monsters will flee at the mere sight of them. But insects are not the only ones who fear mantises. You understand, don't you?",
+  "kind": "desc"
+ },
+ {
+  "en": "Gloves modeled on the hands of Death. The bones on the back are a demon's hand bones. Wear these with a black robe and a great scythe, and you'll look every bit the Reaper. Just don't get carried away and summon the real thing.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gauntlets made of mithril, said to be so light you forget you have them on. Their defense is high too; they can take anything from sword slashes to a giant monster's claws. They need less mithril than shields or armor, so many have been made.",
+  "kind": "desc"
+ },
+ {
+  "en": "Made of divinely blessed metal and a large bloodstone. Bloodstones have many uses, such as adorning a temple's holy statues, so one this large is a rare luxury. Treat them carelessly and lose them, and you'll make an enemy of every priest on the continent.",
+  "kind": "desc",
+  "note": "souryo here = clergy in general, lowercase 'priest'."
+ },
+ {
+  "en": "Buskins are half-boots with thick cork soles. Being cork, they have almost no durability; it is no different from walking barefoot. They are also very light: again, no different from walking barefoot. In other words, they are a matter of appearances.",
+  "kind": "desc"
+ },
+ {
+  "en": "Slippers woven from straw, common in the eastern land. Being straw, they are extremely light. Samurai are especially fond of them and rarely want to wear anything else on their feet.",
+  "kind": "desc"
+ },
+ {
+  "en": "Boots come in many kinds. Colors and shapes, of course, but materials also vary widely. Of all those boots, these were made for tramping around battlefields and dungeons. Note that, as with all boots, they get sweaty, so... frankly, they stink.",
+  "kind": "desc",
+  "note": "Boots item name not yet in csvt outputs; 'Boots' assumed."
+ },
+ {
+  "en": "Boots made for roaming forests and streams. They are full of touches that hide your presence from small animals and the like. Sneak up on any animal in these, and it will take a fatal blow.",
+  "kind": "desc"
+ },
+ {
+  "en": "Boots made of iron. Being iron through and through, they make flexing the ankles and other joints very hard. Add the weight of armor and helm and it gets very heavy, so first practice walking in just the boots, without armor or the like.",
+  "kind": "desc"
+ },
+ {
+  "en": "Lustrous, beautiful dancing shoes. They bear a former owner's sin and curse: whoever wears them will dance until they die. To take them off, you may have to sacrifice your feet. Will the day ever come when the sin is forgiven...",
+  "kind": "desc"
+ },
+ {
+  "en": "Boots made of steel. Making the most of steel's properties, they are finished as well-balanced, easy-walking footwear. Any mid-level adventurer should make a point of getting a pair.",
+  "kind": "desc"
+ },
+ {
+  "en": "Shoes made by dwarven craftsmen. Made of sturdy material, they give firm footing even on somewhat rough ground. Non-dwarves can equip them too.",
+  "kind": "desc"
+ },
+ {
+  "en": "Boots holding fire magic. They are fine armor, and they also amplify fire power and reduce ice damage. Despite the name Fire Boots, they won't burn your feet when you put them on, so equip them without worry.",
+  "kind": "desc"
+ },
+ {
+  "en": "Beautiful shoes made of silver. In good condition, their gleam in the sun can be seen from quite far away. Made with almost no seams, they won't let water in from below, even when you wade in.",
+  "kind": "desc"
+ }
+]

@@ -1,0 +1,1312 @@
+[
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@784e",
+  "en": "\"Oh ho, I never expected to run into you so suddenly.{w}But tell me, how do you differ from the five primal races?\nWhat was this changing of generations even for!\"{w}{p}\"Come, let us have a little bout, shall we?{w}This power of the Ryug I have heard such rumors of --\nshow it to me!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@7964",
+  "en": "\"Oh my, a case of mistaken identity!{w}Then perhaps... hmm.{w}Could it be that the Gathering of the Shining Night is not here after all?\"{w}{p}\"Merci, travelers.{w}Allow me to answer your courtesy in kind.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@7a1f",
+  "en": "\"Well then, salavine -- may your journey be a good one!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@7f83",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@88f7",
+  "en": "[Key Item]\nObtained Ninja Fiend's Helm.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8964",
+  "en": "[Key Item]\nObtained Song of Spirits.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@89cf",
+  "en": "[Key Item]\nObtained Flesh-Lump Flower.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8a3a",
+  "en": "[Key Item]\nObtained Deltoi Empty Room.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8aaf",
+  "en": "[Key Item]\nObtained Dark Sakil Shell.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8b20",
+  "en": "[Key Item]\nObtained Aleed Palette.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8b93",
+  "en": "[Key Item]\nObtained Demon-Boob Undies.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8bfe",
+  "en": "[Key Item]\nObtained Seot's Demon Nest.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8c6f",
+  "en": "[Key Item]\nObtained Unclean Water.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8cdc",
+  "en": "[Key Item]\nObtained Menolist's Candle.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8d4f",
+  "en": "[Key Item]\nObtained Ponya Sausage.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8dc2",
+  "en": "[Key Item]\nObtained Taizarti Lamp.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8e37",
+  "en": "[Key Item]\nObtained Glittering Scale.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8ea4",
+  "en": "[Key Item]\nObtained Swordsage's Beard.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8f10",
+  "en": "[Key Item]\nObtained Red Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8f7b",
+  "en": "[Key Item]\nObtained Blue Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@8fe6",
+  "en": "[Key Item]\nObtained Green Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9051",
+  "en": "[Key Item]\nObtained Yellow Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@90bc",
+  "en": "[Key Item]\nObtained Black Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9127",
+  "en": "[Key Item]\nObtained White Light Rank.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@915f",
+  "en": "After defeating the mighty Duke of the Demon World,\nyou found something.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@91a2",
+  "en": "After winning the battle,\nyou found something.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@91e0",
+  "en": "# Current floor: {0B:0003:0000}",
+  "kind": "op029"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9263",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9288",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@92f3",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9318",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9383",
+  "en": "The great shadow fades away{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@93a6",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9411",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9436",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9497",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@94bc",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9527",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@954c",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9823",
+  "en": "{0A:0003:0006}'s alignment changed to Good{w}",
+  "kind": "op096"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@98c3",
+  "en": "{0A:0003:0006}'s alignment changed to Evil{w}",
+  "kind": "op096"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9bdc",
+  "en": "Obtained {12:0003:0018}.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9c0b",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9c60",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9e13",
+  "en": "Suddenly, your bodies seemed to grow lighter.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9e85",
+  "en": "With a strange whirring, a Tetramystica glides across the floor.{w}{p}A Tetramystica specialized for guard duty -- a \"Guard Mystica,\" you might call it.{w}{p}Here and there the students have scrawled on it: \"Idiot,\" \"Moron,\" even doodled nose hairs.{w}Even so, its function of guarding the Academy is still fully intact.{w}{p}So it is only natural that, on spotting you outsiders who don't belong to the Academy, it moves to eliminate you.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@9ff4",
+  "en": "You have run into a foe you never expected.{w}A vast form, its whole body blazing with light.{w}{p}Without a sound, the very air shudders and trembles.{w}With the word \"alien\" lodged in your hearts, you stand exposed to its savage power.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@a0a1",
+  "en": "Suddenly, a gigantic beast appears before you.{w}Half tiger and half horse, it flails its arms and thrashes its whole body wildly.{w}{p}And now its fury turns on you as well.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@a130",
+  "en": "Darkness within darkness.{w}Welling up from the abode of the Nether King, it fills the air around it with an incomprehensible tongue.{w}{p}What it is saying: unknown.{w}What it is even trying to do: unknown.{w}{p}But one thing is clear:\nit means to destroy you.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "92023_FM_GIAF_1_SCENE.bin@a213",
+  "en": "A giant leaps out in front of you.{w}It seems to be distracted by something else.{w}{p}It doesn't appear able to tell whether you are enemies or mere visitors.{w}{p}No -- for just a moment it seemed to give it some thought, but\n'Eh, I'll just punch them for now and...'{w}seems to be the conclusion it reached.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91112-ARG_MYUSHA_TALK.bin@8a2d3",
+  "en": "\"Alrighty! I'm gonna make a strawberry shortcake with Makana Essence in it~!\nMy baking arm's just itching to go!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91112-ARG_MYUSHA_TALK.bin@8a330",
+  "en": "Mucha took the Makana Essence\nand went pitter-pattering off into the kitchen.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91112-ARG_MYUSHA_TALK.bin@8a399",
+  "en": "\"Sorry to keep you waiting! So, what do you think of this cake!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91112-ARG_MYUSHA_TALK.bin@8a3d3",
+  "en": "\n{0E}    *    Mixed Good-and-Evil Parties Unlocked    *    {0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91112-ARG_MYUSHA_TALK.bin@8a447",
+  "en": "\"Huh? You're not giving it to me?{w}What's with that? I can't believe you!!{w}*stomp stomp STOMP*!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91112-ARG_MYUSHA_TALK.bin@8a4c3",
+  "en": "\"Welcome! You must be hungry, huh?{w}I'll get some hot food ready for you, so hang on a sec!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91143-ARG_RUST_INORU.bin@966f1",
+  "en": "The Strange Bookmark vanished,\nas if drawn up into the sky.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c25d2",
+  "en": "\"You got it!{w}Now then, follow your big sis~!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2634",
+  "en": "\"Oh my, you're quite the reserved type, aren't you?{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2676",
+  "en": "{0E}\"Oh my, you're quite the reserved type, aren't you?{0F}\n...It makes me want to tease you.{w}Ahahaha!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c26ed",
+  "en": "\"Well, well.{w}And that's the end of big sis's explanation.{w}Think there's anything I can help you with?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c275f",
+  "en": "Natori had a word with the guards,\nand you were given special permission to sit in on the council.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c27b9",
+  "en": "The council doesn't seem to have started yet.{w}You can see Balgert standing there, feet planted wide like a temple guardian.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2825",
+  "en": "\"*griiin*\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2837",
+  "en": "It's creepy how he keeps grinning to himself even though no one else is here.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2879",
+  "en": "...It seems someone has come in.{w}{p}Heels clicking sharply,\nthe elven empress made her appearance.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2914",
+  "en": "'That's Lady Rianna. The queen of the Roscadil Empire.{w}She's leading the development of the mana furnace\nand the magic airship herself, from the front.'{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c298a",
+  "en": "Clad in heavy armor,\nRianna surveys the room with a piercing gaze.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c29e2",
+  "en": "\"I thought I was late... but it is the same as always, I see.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2a2e",
+  "en": "\"*griiin*\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2a58",
+  "en": "\"What a dreadful face. What happened?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2a94",
+  "en": "\"Heh heh heh... Rianna.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2ad2",
+  "en": "\"What.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2afe",
+  "en": "\"Heh heh heh heh... Oh, Miss Riannaaa!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2b48",
+  "en": "\"If you have no business with me, do not address me so familiarly.{w}...Mere human.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2b9c",
+  "en": "\"We found the Lightstair Ruins, y'know!{w}The site of the Stairway of Light -- the one you lot bragged\n'could never be found'!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2c28",
+  "en": "\"Oh?{w}And yet no one has confirmed that the Stairway of Light has appeared.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2c80",
+  "en": "\"Nngh... W-well...{w}there's still all sorts of stuff we gotta find...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2cda",
+  "en": "\"Then stop making a fuss over every little thing.{w}We do not consider ourselves to be in competition with you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2d3e",
+  "en": "\"On finding the Lightstair Ruins,\nallow me to offer my congratulations.\"{w}{p}\"...However,\neven if you were to reach the Palace of the Sun before us,\nyou could never bring about true peace.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2e1e",
+  "en": "'Lady Rianna is so harsh, isn't she...{w}But her dignified bearing has won her plenty of admirers.'{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2e9a",
+  "en": "\"My friends! It is I, Barjeff!!{w}King Balgert, Empress Rianna, you both look well!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2f0c",
+  "en": "\"Yeah, I'm bursting with health, all right!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2f46",
+  "en": "\"So the tiresome one has come.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2f7c",
+  "en": "'That's Lord Barjeff.{w}He rules Teridon, and he's fabulously rich.{w}He has a bit of a troublesome habit, though...'{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c2ffc",
+  "en": "\"Even far apart, I felt the love of each of you.{w}Unable to see Barjeff,\nyou must have been so lonely, so miserable!\"{w}{p}\"I understand, I understand...{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c30a1",
+  "en": "{0E}\"I understand, I understand...{0F}\nSo let's have a hug!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3107",
+  "en": "\"Hey, wait, cut it out--{w}That's gross, don't you latch onto me!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3173",
+  "en": "\"I love you, I love you, Balgert!{w}Mmmnn, mmfuuuuuunnn!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c31e9",
+  "en": "\"I don't want--{w}that kinda... thiiing...........{w}Get offa me, dammiiiiiit!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3257",
+  "en": "\"Perhaps I should have arrived a little later...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c32ad",
+  "en": "\"Dwahaaaah...!\nThat was a fine hug!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c32ff",
+  "en": "\"Now, now, Rianna, you're next!{w}Today of all days,\nlet us share a hug, shall weeeee!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3377",
+  "en": "\"...Lay so much as one finger on me.{w}I will blast you with the magic gun that sleeps in my arm.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c33e1",
+  "en": "\"Sorry, sorry, I'm late!{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c341f",
+  "en": "{0E}\"Sorry, sorry, I'm late!{0F}\n...Oi, Barjeff. You're in the way. Whaddaya think you're doin'?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3493",
+  "en": "\"Mmmmmnn...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c34c7",
+  "en": "'That's the chief of Ogre Bay, Lord Fulgrant.{w}He's always late to the Central Council.'{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3538",
+  "en": "'And last but not least, this gentleman.{w}The ruler of Lumisthenes --\nour very own Council Chair Wattner~!'{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c35a8",
+  "en": "\"Is that everyone?{w}Then shall we begin\nthe Central Council of the Crestard Continent?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c362b",
+  "en": "\"Let us get straight to it: the recapture of the Palace of the Sun.{w}I have received several proposals from you all,\nand I would like to hear how things stand.\"{w}{p}\"First, Lord Balgert, if you would.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c36ed",
+  "en": "\"Thanks to the adventurers,\nwe managed to find the site of the Stairway of Light.{w}But the Three Phantom Stones were gone.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3771",
+  "en": "\"It is an ancient structure, after all.{w}Finding it at all could be called a miracle.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c37d1",
+  "en": "\"I've told the adventurers\nto keep searching for the Three Phantom Stones.{w}I'll have 'em go to Natori for advice -- that all right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3841",
+  "en": "'They already have~ Just kidding.'{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3887",
+  "en": "\"Of course, that is no problem.{w}Please, make good use of her.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c38df",
+  "en": "\"I plan to get the army out searching soon, too.{w}Takes a snake to know a snake's path, sure,\nbut I can't leave it all to the adventurers.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3971",
+  "en": "\"That would be wise.{w}...Then, Lady Rianna, if you would.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c39d3",
+  "en": "\"The magic airship Meatrif\nhas entered the trial ignition stage of its mana furnace.{w}But we still lack the Celestial Readings, among other things.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3a59",
+  "en": "\"Is it able to fly?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3a99",
+  "en": "\"Simple levitation is already possible.{w}But the navigation controls will take a little more time.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3b03",
+  "en": "\"We are searching for the Celestial Readings\non our end as well, but...\"{w}{p}\"This is exactly what the Star Capital exists for,\nand yet we have been of no help. I am ashamed.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3b95",
+  "en": "\"It does not matter.{w}Just keep us accurately informed of the situation at the Palace of the Sun.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3bf1",
+  "en": "\"Lady Rianna, and Lord Balgert.{w}For now, we have no choice but to rely on the two of you.{w}Please, I entrust the Palace of the Sun to you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3c8b",
+  "en": "\"Hey, Wattner, we did a little thinkin' of our own.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3cd7",
+  "en": "\"Thank you, Lord Fulgrant.{w}Would you share it with us?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3d3b",
+  "en": "\"So, about the Palace of the Sun...{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3d7c",
+  "en": "{0E}\"So, about the Palace of the Sun...{0F}\nWhy don't we just shoot it down?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3dde",
+  "en": "\"Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3e11",
+  "en": "\"We'll build a great big cannon!{w}Let's go out with a bang -- 'KA-BOOOOOM!'!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3eaf",
+  "en": "\"Can-nonnn...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3ee3",
+  "en": "\"Shoot it down, beat the Kin of Darkness to a pulp,\nthen just stick it back up in the sky. Easy, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3f4f",
+  "en": "\"Hahaha...{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3f7d",
+  "en": "{0E}\"Hahaha... {0F}No.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c3fbd",
+  "en": "\"Why the hell not!?{w}Their plans get the go-ahead,\nbut ours gets shot down!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c402b",
+  "en": "\"For starters,\nyou can't build a cannon that reaches all the way to the Palace of the Sun, can ya?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c4085",
+  "en": "\"Don't go underestimatin'\nwhat us ogres can build, now.\"{w}{p}\"Long as we got the blueprints and the tools,\nwe'll whip it up in no time, drinkin' and snackin' the whole while!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c412f",
+  "en": "\"No, no!{w}Fulgrant, I sense no love in that plan!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c4193",
+  "en": "\"So let's hug!\nTogether with Barjeff, let us search for love once more!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c41ff",
+  "en": "\"You keep your trap shut!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c4243",
+  "en": "\"...They could probably build that cannon.\"{w}{p}\"The technology of ogres and goblins\nholds much ancient wisdom the rest of us have lost.{w}It is not to be taken lightly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c42e7",
+  "en": "\"Heh, that's Rianna for ya.\nYou get it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c4339",
+  "en": "\"But I am not in favor of shooting it down.{w}There is no telling whether it could be returned to the sky.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c43a9",
+  "en": "\"Hmph. Chickenin' out, are ya.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c43e5",
+  "en": "\"Lumisthenes will continue, as before,\nto support the plans of\nLord Balgert and Lady Rianna.\"{w}{p}\"If any of you others have a good idea,\nI would be grateful if you would let us know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c44b7",
+  "en": "\"If you need logistics or funding,\ncome talk to Barjeff and Teridon, won't you?{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c4519",
+  "en": "{0E}\"If you need logistics or funding,\ncome talk to Barjeff and Teridon, won't you?{0F}\nLet's make it a deal: one hug for each favor!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c45a9",
+  "en": "\"Then, we are adjourned.{w}The Palace of the Sun shines equally upon the land and upon all of you.{w}Please do not forget that...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c4632",
+  "en": "The kings nodded at Wattner's words\nand left the room.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c46a5",
+  "en": "\"So, what did you think?{w}The other nations are all working hard\nto save the land in their own ways.\"{w}{p}\"If you can help them, don't stop at Algrantz --\nlend the other nations a hand too, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c4753",
+  "en": "Balgert should be at a place in this city\ncalled the Temple of Rafa...{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c47e8",
+  "en": "\"Zzz... zzz... mumble mumble...{w}...nnngh...{w}mumble mumble...\"{w}{p}\"........\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c4862",
+  "en": "\"Rwahf! H-HI, poemuffeh!{w}I'm sayin' nyahe-nyahe... huhhh...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c48d1",
+  "en": "\"I'm awake!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c4901",
+  "en": "\"Y-yeah, that's right, I was totally awake, good morning!{w}Welcome to MILL.GP., the temple of entertain--{w}Huh? Star Capital Double-Up...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c4997",
+  "en": "\"Ehuuu...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91331-LMS-RAFA_IN.bin@c49c3",
+  "en": "\"D-don't tell Lord Wattner\nor Mayleen! Please!\"{w}{p}\"They'll cut my pay again...{w}If I starved to death out on the street,\nyou'd feel sorry for me, right? That'd be bad, right? Right!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0249",
+  "en": "\"You got it!{w}Now then, follow your big sis~!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e02ab",
+  "en": "\"Oh my, you're quite the reserved type, aren't you?{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e02ed",
+  "en": "{0E}\"Oh my, you're quite the reserved type, aren't you?{0F}\n...It makes me want to tease you.{w}Ahahaha!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0364",
+  "en": "\"Well, well.{w}And that's the end of big sis's explanation.{w}Think there's anything I can help you with?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e03d6",
+  "en": "Natori had a word with the guards,\nand you were given special permission to sit in on the council.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0430",
+  "en": "The council doesn't seem to have started yet.{w}You can see Balgert standing there, feet planted wide like a temple guardian.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e049c",
+  "en": "\"*griiin*\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e04ae",
+  "en": "It's creepy how he keeps grinning to himself even though no one else is here.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e04f0",
+  "en": "...It seems someone has come in.{w}{p}Heels clicking sharply,\nthe elven empress made her appearance.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e058b",
+  "en": "'That's Lady Rianna. The queen of the Roscadil Empire.{w}She's leading the development of the mana furnace\nand the magic airship herself, from the front.'{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0601",
+  "en": "Clad in heavy armor,\nRianna surveys the room with a piercing gaze.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0659",
+  "en": "\"I thought I was late... but it is the same as always, I see.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e06a5",
+  "en": "\"*griiin*\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e06cf",
+  "en": "\"What a dreadful face. What happened?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e070b",
+  "en": "\"Heh heh heh... Rianna.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0749",
+  "en": "\"What.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0775",
+  "en": "\"Heh heh heh heh... Oh, Miss Riannaaa!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e07bf",
+  "en": "\"If you have no business with me, do not address me so familiarly.{w}...Mere human.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0813",
+  "en": "\"We found the Lightstair Ruins, y'know!{w}The site of the Stairway of Light -- the one you lot bragged\n'could never be found'!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e089f",
+  "en": "\"Oh?{w}And yet no one has confirmed that the Stairway of Light has appeared.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e08f7",
+  "en": "\"Nngh... W-well...{w}there's still all sorts of stuff we gotta find...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0951",
+  "en": "\"Then stop making a fuss over every little thing.{w}We do not consider ourselves to be in competition with you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e09b5",
+  "en": "\"On finding the Lightstair Ruins,\nallow me to offer my congratulations.\"{w}{p}\"...However,\neven if you were to reach the Palace of the Sun before us,\nyou could never bring about true peace.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0a95",
+  "en": "'Lady Rianna is so harsh, isn't she...{w}But her dignified bearing has won her plenty of admirers.'{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0b11",
+  "en": "\"My friends! It is I, Barjeff!!{w}King Balgert, Empress Rianna, you both look well!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0b83",
+  "en": "\"Yeah, I'm bursting with health, all right!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0bbd",
+  "en": "\"So the tiresome one has come.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0bf3",
+  "en": "'That's Lord Barjeff.{w}He rules Teridon, and he's fabulously rich.{w}He has a bit of a troublesome habit, though...'{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0c73",
+  "en": "\"Even far apart, I felt the love of each of you.{w}Unable to see Barjeff,\nyou must have been so lonely, so miserable!\"{w}{p}\"I understand, I understand...{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0d18",
+  "en": "{0E}\"I understand, I understand...{0F}\nSo let's have a hug!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0d7e",
+  "en": "\"Hey, wait, cut it out--{w}That's gross, don't you latch onto me!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0dea",
+  "en": "\"I love you, I love you, Balgert!{w}Mmmnn, mmfuuuuuunnn!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0e60",
+  "en": "\"I don't want--{w}that kinda... thiiing...........{w}Get offa me, dammiiiiiit!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0ece",
+  "en": "\"Perhaps I should have arrived a little later...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0f24",
+  "en": "\"Dwahaaaah...!\nThat was a fine hug!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0f76",
+  "en": "\"Now, now, Rianna, you're next!{w}Today of all days,\nlet us share a hug, shall weeeee!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e0fee",
+  "en": "\"...Lay so much as one finger on me.{w}I will blast you with the magic gun that sleeps in my arm.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1058",
+  "en": "\"Sorry, sorry, I'm late!{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1096",
+  "en": "{0E}\"Sorry, sorry, I'm late!{0F}\n...Oi, Barjeff. You're in the way. Whaddaya think you're doin'?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e110a",
+  "en": "\"Mmmmmnn...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e113e",
+  "en": "'That's the chief of Ogre Bay, Lord Fulgrant.{w}He's always late to the Central Council.'{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e11af",
+  "en": "'And last but not least, this gentleman.{w}The ruler of Lumisthenes --\nour very own Council Chair Wattner~!'{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e121f",
+  "en": "\"Is that everyone?{w}Then shall we begin\nthe Central Council of the Crestard Continent?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e12a2",
+  "en": "\"Let us get straight to it: the recapture of the Palace of the Sun.{w}I have received several proposals from you all,\nand I would like to hear how things stand.\"{w}{p}\"First, Lord Balgert, if you would.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1364",
+  "en": "\"Thanks to the adventurers,\nwe managed to find the site of the Stairway of Light.{w}But the Three Phantom Stones were gone.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e13e8",
+  "en": "\"It is an ancient structure, after all.{w}Finding it at all could be called a miracle.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1448",
+  "en": "\"I've told the adventurers\nto keep searching for the Three Phantom Stones.{w}I'll have 'em go to Natori for advice -- that all right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e14b8",
+  "en": "'They already have~ Just kidding.'{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e14fe",
+  "en": "\"Of course, that is no problem.{w}Please, make good use of her.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1556",
+  "en": "\"I plan to get the army out searching soon, too.{w}Takes a snake to know a snake's path, sure,\nbut I can't leave it all to the adventurers.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e15e8",
+  "en": "\"That would be wise.{w}...Then, Lady Rianna, if you would.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e164a",
+  "en": "\"The magic airship Meatrif\nhas entered the trial ignition stage of its mana furnace.{w}But we still lack the Celestial Readings, among other things.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e16d0",
+  "en": "\"Is it able to fly?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1710",
+  "en": "\"Simple levitation is already possible.{w}But the navigation controls will take a little more time.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e177a",
+  "en": "\"We are searching for the Celestial Readings\non our end as well, but...\"{w}{p}\"This is exactly what the Star Capital exists for,\nand yet we have been of no help. I am ashamed.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e180c",
+  "en": "\"It does not matter.{w}Just keep us accurately informed of the situation at the Palace of the Sun.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1868",
+  "en": "\"Lady Rianna, and Lord Balgert.{w}For now, we have no choice but to rely on the two of you.{w}Please, I entrust the Palace of the Sun to you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1902",
+  "en": "\"Hey, Wattner, we did a little thinkin' of our own.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e194e",
+  "en": "\"Thank you, Lord Fulgrant.{w}Would you share it with us?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e19b2",
+  "en": "\"So, about the Palace of the Sun...{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e19f3",
+  "en": "{0E}\"So, about the Palace of the Sun...{0F}\nWhy don't we just shoot it down?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1a55",
+  "en": "\"Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1a88",
+  "en": "\"We'll build a great big cannon!{w}Let's go out with a bang -- 'KA-BOOOOOM!'!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1b26",
+  "en": "\"Can-nonnn...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1b5a",
+  "en": "\"Shoot it down, beat the Kin of Darkness to a pulp,\nthen just stick it back up in the sky. Easy, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1bc6",
+  "en": "\"Hahaha...{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1bf4",
+  "en": "{0E}\"Hahaha... {0F}No.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1c34",
+  "en": "\"Why the hell not!?{w}Their plans get the go-ahead,\nbut ours gets shot down!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1ca2",
+  "en": "\"For starters,\nyou can't build a cannon that reaches all the way to the Palace of the Sun, can ya?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1cfc",
+  "en": "\"Don't go underestimatin'\nwhat us ogres can build, now.\"{w}{p}\"Long as we got the blueprints and the tools,\nwe'll whip it up in no time, drinkin' and snackin' the whole while!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1da6",
+  "en": "\"No, no!{w}Fulgrant, I sense no love in that plan!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1e0a",
+  "en": "\"So let's hug!\nTogether with Barjeff, let us search for love once more!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1e76",
+  "en": "\"You keep your trap shut!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1eba",
+  "en": "\"...They could probably build that cannon.\"{w}{p}\"The technology of ogres and goblins\nholds much ancient wisdom the rest of us have lost.{w}It is not to be taken lightly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1f5e",
+  "en": "\"Heh, that's Rianna for ya.\nYou get it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e1fb0",
+  "en": "\"But I am not in favor of shooting it down.{w}There is no telling whether it could be returned to the sky.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e2020",
+  "en": "\"Hmph. Chickenin' out, are ya.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e205c",
+  "en": "\"Lumisthenes will continue, as before,\nto support the plans of\nLord Balgert and Lady Rianna.\"{w}{p}\"If any of you others have a good idea,\nI would be grateful if you would let us know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e212e",
+  "en": "\"If you need logistics or funding,\ncome talk to Barjeff and Teridon, won't you?{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e2190",
+  "en": "{0E}\"If you need logistics or funding,\ncome talk to Barjeff and Teridon, won't you?{0F}\nLet's make it a deal: one hug for each favor!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e2220",
+  "en": "\"Then, we are adjourned.{w}The Palace of the Sun shines equally upon the land and upon all of you.{w}Please do not forget that...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e22a9",
+  "en": "The kings nodded at Wattner's words\nand left the room.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e231c",
+  "en": "\"So, what did you think?{w}The other nations are all working hard\nto save the land in their own ways.\"{w}{p}\"If you can help them, don't stop at Algrantz --\nlend the other nations a hand too, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e23ca",
+  "en": "Balgert should be at a place in this city\ncalled the Temple of Rafa...{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e245f",
+  "en": "\"Zzz... zzz... mumble mumble...{w}...nnngh...{w}mumble mumble...\"{w}{p}\"........\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e24d9",
+  "en": "\"Rwahf! H-HI, poemuffeh!{w}I'm sayin' nyahe-nyahe... huhhh...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e2548",
+  "en": "\"I'm awake!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e2578",
+  "en": "\"Y-yeah, that's right, I was totally awake, good morning!{w}Welcome to MILL.GP., the temple of entertain--{w}Huh? Star Capital Double-Up...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e260e",
+  "en": "\"Ehuuu...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e263a",
+  "en": "\"D-don't tell Lord Wattner\nor Mayleen! Please!\"{w}{p}\"They'll cut my pay again...{w}If I starved to death out on the street,\nyou'd feel sorry for me, right? That'd be bad, right? Right!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e2734",
+  "en": "{0E}\"Welcome to MILL.GP., the palace of entertainment!{0F}\nCasino games are 500 GP a round!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e2c71",
+  "en": "\"Our high payouts are the pride of the house!\"{w}{p}\"A normal win pays twice your bet:\na payout of 1000 GP.\"{w}{p}\"Win with 21 on three cards\nand the payout is triple: 1500 GP.\"{w}{p}\"And should I happen to go over 21\nwhile you win, the payout is also triple.\"{w}{p}\"And then, 21 right from the start -- in other words...\"{w}{p}\"Win with a blackjack\nand you get a 5x bonus payout!\nA whopping 2500 GP!\"{w}{p}\"Of course, in any game of chance,\nget too greedy and luck turns its back on you,\nso do be careful.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e2e79",
+  "en": "\"Thank you very much for visiting us.\nHave a lovely evening.\nGood night.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e2f0f",
+  "en": "\"Your cards are...{w}first, the {0C:0003:0013} of {0C:0001:000E},\nsecond, the {0C:0003:0014} of {0C:0001:000F}.\"{w}{p}\"My cards are...{w}first, the {0C:0003:0016} of {0C:0001:0011},\nand the second is still a secret.\"{w}{p}\"Now then, what will you do?\"{w}{p}\"If you're not confident, you can draw one more card.\nBut if your total goes over 21,\nyou lose on the spot.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3084",
+  "en": "\"Then, one more card for you.\"{w}{p}\"Your cards are:\nfirst, the {0C:0003:0013} of {0C:0001:000E},\nsecond, the {0C:0003:0014} of {0C:0001:000F}...\"{w}{p}\"And your third is the {0C:0003:0015} of {0C:0001:0010}.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e316f",
+  "en": "\"Very well.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e31b0",
+  "en": "\"Now, revealing my secret card!\"{w}{p}\"First, the {0C:0003:0016} of {0C:0001:0011},\nsecond, the {0C:0003:0017} of {0C:0001:0012}...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3255",
+  "en": "\"I'll draw one more.\"{w}{p}\"My third card is...{w}the {0C:0003:0018} of {0C:0001:0013}!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e32ff",
+  "en": "\"And the result is...\"{w}{p}\"Your hand totals {0B:0003:000F}...{w}and mine totals {0B:0003:0010}... which means...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3390",
+  "en": "\"Your cards are...{w}first, the {0C:0003:0013} of {0C:0001:000E},\nsecond, the {0C:0003:0014} of {0C:0001:000F}!?\"{w}{p}\"Why...!!{w}That's a blackjack!\nA clean win for you!!\"{w}{p}\"Congratulations!\nA 5x bonus payout! 2500 GP!\nPlease, take your winnings.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e34ba",
+  "en": "\"Your cards are...{w}first, the {0C:0003:0013} of {0C:0001:000E},\nsecond, the {0C:0003:0014} of {0C:0001:000F}!?\"{w}{p}\"However, my cards are...{w}first, the {0C:0003:0016} of {0C:0001:0011},\nsecond, the {0C:0003:0017} of {0C:0001:0012}!!!\"{w}{p}\"I have blackjack!{w}I'm afraid you lose.\"{w}{p}\"That's skill, too.{w}I'll be taking your bet,\nbut please don't hold it against me.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3622",
+  "en": "\"Your cards are...{w}first, the {0C:0003:0013} of {0C:0001:000E},\nsecond, the {0C:0003:0014} of {0C:0001:000F}!?\"{w}{p}\"My cards are...{w}first, the {0C:0003:0016} of {0C:0001:0011},\nsecond, the {0C:0003:0017} of {0C:0001:0012}!!!\"{w}{p}\"Oh ho, blackjack for both of us...{w}Then let's call it a friendly draw.\nI'll return your bet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e375a",
+  "en": "\"Over 21 -- you lose!{w}I'll be taking your bet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e37b8",
+  "en": "\"Blast!{w}To think that I would go over!\"{w}{p}\"That's the luck of the draw. It can't be helped.\nIt's all down to my own inexperience!{w}I shall pay out your winnings like a good sport!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3884",
+  "en": "\"A draw, is it?{w}Then I'll return your bet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e38e0",
+  "en": "\"...21 apiece...{w}Let's call this one a draw.\nYour bet is returned.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3950",
+  "en": "\"Heh... It seems you win.{w}The 1000 GP payout is yours.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e39c2",
+  "en": "\"Ngh!? You have a total of 21!!{w}It pains me, but you win.\"{w}{p}\"I shall graciously pay out\nyour 1000 GP.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3a60",
+  "en": "\"I'm afraid you lose.{w}Don't hold it against me. That's life.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3ad0",
+  "en": "\"Sorry about this -- I have 21,\nwhich means you lose.\"{w}{p}\"Well, that's skill, too.{w}My apologies, but I'll be taking your bet.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3bfb",
+  "en": "Received a payout of {0B:0003:000F} GP.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3c2c",
+  "en": "Your bet of {0B:0003:000F} GP was taken.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3c6d",
+  "en": "Your bet of {0B:0003:000F} GP was returned.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3d87",
+  "en": "\"Then let's get started right away.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91442-TRD-CASINO_TALK.bin@e3dbb",
+  "en": "Not enough money.{w}",
+  "kind": "msg"
+ }
+]

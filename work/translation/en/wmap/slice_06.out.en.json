@@ -1,0 +1,362 @@
+[
+ {
+  "en": "\"Thanks, Mig.{w}Now then, you guys!{w}What do you say we do the usual?\"{w}",
+  "kind": "msg",
+  "note": "\"the usual\" = their recurring fight with the player party (a battle follows). Addressed to the player party."
+ },
+ {
+  "en": "\"You're as good as ever!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I won't lose next time!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Off with ALL your heads!\"{w}",
+  "kind": "msg",
+  "note": "Maniron's beheading obsession (kubi-hane). Said after the fight, aimed at the player party."
+ },
+ {
+  "en": "\"Mighty bloodthirsty, ain't it...\"{w}",
+  "kind": "msg",
+  "note": "Mokero's -yansu lackey dialect, dropped-g/\"ain't\" register as in slice_05."
+ },
+ {
+  "en": "\"Ah, the folly of youth, I suppose...\"{w}",
+  "kind": "msg",
+  "note": "Korbitz, old-man register."
+ },
+ {
+  "en": "\"You'd better look forward to next time, got it?{w}We'll be even stronger by then.\"{w}",
+  "kind": "msg",
+  "note": "Who \"will be stronger\" is not stated; \"we\" (Yamuru's whole party) inferred from the group farewell. Could be \"I\"."
+ },
+ {
+  "en": "\"That's right!\nWell then, see you around!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah! Don't you run away, you bastard!\nI didn't get to lop off a single head!\nHEEEADS!!\"{w}",
+  "kind": "msg",
+  "note": "kono yarou kept at full strength (\"you bastard\"). kubi hane-sokoneta = \"missed my chance to behead\"."
+ },
+ {
+  "en": "Chute{w}",
+  "kind": "op096",
+  "note": "Trap caption: chute to a lower floor (same family as Pit)."
+ },
+ {
+  "en": "But you are floating in midair{w}",
+  "kind": "op096",
+  "note": "Levitation negates the chute/pit; used by both scripts. No final period, like the source caption."
+ },
+ {
+  "en": "Pit{w}",
+  "kind": "op096"
+ },
+ {
+  "en": "# Light spell active",
+  "kind": "op029",
+  "note": "op029 = debug print (cf. VICTORY_COUNT rows in slice_01); probably never shown. Box glyph replaced by \"#\" for ASCII."
+ },
+ {
+  "en": "# No light spell",
+  "kind": "op029",
+  "note": "op029 debug print; see 412."
+ },
+ {
+  "en": "{0A:0003:0000} sensed a presence{w}",
+  "kind": "op031",
+  "note": "Insert = party member name. Caption style without period, like the source."
+ },
+ {
+  "en": "Secret Door{w}",
+  "kind": "op096"
+ },
+ {
+  "en": "There is a locked door.",
+  "kind": "msg"
+ },
+ {
+  "en": "Open it?",
+  "kind": "data"
+ },
+ {
+  "en": "Who will pick the lock?",
+  "kind": "op093"
+ },
+ {
+  "en": "The lock opened.",
+  "kind": "msg"
+ },
+ {
+  "en": "The lock did not open.",
+  "kind": "msg"
+ },
+ {
+  "en": "There's a switch. Press it?",
+  "kind": "data"
+ },
+ {
+  "en": "The switch turned off.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The switch turned on.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's a ladder. Climb up?",
+  "kind": "data"
+ },
+ {
+  "en": "There's a ladder. Climb down?",
+  "kind": "data"
+ },
+ {
+  "en": "You are inside the stone",
+  "kind": "op096",
+  "note": "Classic Wizardry \"ishi no naka ni iru\" (teleported into a wall). Worded to match the joke in slice_05 row 333 (\"*INSIDE THE STONE*\"). No period, like the source caption."
+ },
+ {
+  "en": "It looks like you can board the ship by going down this ladder.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Board the ship?",
+  "kind": "data"
+ },
+ {
+  "en": "It looks like you can climb up to the shore with this ladder.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Climb up?",
+  "kind": "data"
+ },
+ {
+  "en": "As you stand before the door,\nit begins to open with a rumble that shakes the ground.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There is a tightly sealed door.\nThere is nothing that looks like a keyhole.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welcooome!{w}A tavern is like a home for adventurers, so don't be shy -- make yourselves comfy!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"By the way, shouldn't you be heading to the castle?{w}A guard came by earlier and said there'd be news about the Proclamation soon.\"{w}",
+  "kind": "msg",
+  "note": "okure = the Proclamation (glossary)."
+ },
+ {
+  "en": "\"Oh, so you guys got one of those compass thingies too!\"{w}{p}\"So you're gonna use it to find the site of the legendary Stairway of Light, huh?{w}Go get 'em, rookie adventurers!!\"{w}",
+  "kind": "msg",
+  "note": "New term: Stairway of Light (hikari no kaidan); atochi = the site where it once stood. \"compass thingies\" keeps Mucha's \"something called a compass\"."
+ },
+ {
+  "en": "\"I heard! You found the site of the Stairway of Light!{w}Congrats! Ba-boom!\"{w}{p}\"Adventurers from my very own tavern getting a royal command from the King -- that makes me so happy!\"{w}{p}\"Sounds like that just means there's more stuff to search for now, but I know you guys can find it all.{w}Good luck!\"{w}",
+  "kind": "msg",
+  "note": "dondoon = \"Ba-boom\" (pilot). chokumei = royal command."
+ },
+ {
+  "en": "Chop, chop -- Mucha is happily slicing vegetables\nwith a crisp, cheerful rhythm.{w}She strikes up a conversation as she preps.{w}",
+  "kind": "msg",
+  "note": "Mucha is female per glossary, so \"She\"."
+ },
+ {
+  "en": "\"You adventurers, y'know...{w}you're kinda weird, huh?{w}Ah, no, I mean that in a good way, of course!\"{w}{p}\"When people come back covered in blood, normally they'd worry about their bodies first, right?{w}But with you it's all 'Appraise!' 'Split the loot!'...\"{w}{p}\"'Before you start fighting over the 1 GP that won't split evenly, wipe your nosebleeds, you lot!' -- I can't count how many times I've thought that.\"{w}",
+  "kind": "msg",
+  "note": "kantei = item appraisal; yamawake = splitting the loot. Inner Japanese quote rendered with single quotes."
+ },
+ {
+  "en": "\"But maybe it's because I've been watching adventurers like you since I was little.{w}Your weird vibe -- I kinda like it, y'know?\"{w}{p}\"So come by as often as you want!{w}Once you've eaten your fill, tell me all about your fun adventures!\"{w}",
+  "kind": "msg",
+  "note": "kimitachi here = adventurers in general (she has watched them since childhood), hence \"adventurers like you\". kirai ja nai (litotes) -> \"I kinda like it\"."
+ },
+ {
+  "en": "\"Welcome! You must be hungry, huh?{w}I'll get some hot food ready for you, so hang on a sec!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The tavern doesn't seem to be open yet.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Hup, there we go.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mucha is putting up a notice on the wall.{w}The notice reads:{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}*                        RE: Mixing Good and Evil                        *\n*                        alignments in one party                        *\n*             By popular demand, Mucha proposes:             *{0F}{w}{p}{0E}*                 Bring me Makana Essence from                  *\n*                     the Leanmakana Mountains                      *\n*                  and I just might think about it!                   *{0F}{w}{p}{0E}*                     Bring back lots of it, okay!                     *\n*                                                                                       *\n*                                                                      Ba-boom  *{0F}{w}",
+  "kind": "msg",
+  "note": "Notice: 3 pages x 3 lines framed by *, padded with spaces to about 368 px (measured with tools/text_build.text_width) to mirror the full-width Japanese frame; \"Ba-boom\" right-aligned like the source. kangaete agenaku mo nai -> \"I just might think about it\". New term: Makana Essence."
+ },
+ {
+  "en": "\"Oh, welcome!{w}So? What do you think of this notice?\nIf I do say so myself, it's a brilliant idea!\"{w}{p}\"If you guys want to make a mixed party too, bring me some Makana Essence from the plants that grow in the Leanmakana Mountains, okay?\"{w}",
+  "kind": "msg",
+  "note": "konsei party = party mixing Good and Evil members -> \"mixed party\"."
+ },
+ {
+  "en": "\"Haah...{w}I might finally get to eat it again after all this time... Kufufu~\"{w}",
+  "kind": "msg",
+  "note": "Sigh of anticipation; object (the essence / what it makes) implied -> \"it\". Giggle kept; note mark -> \"~\"."
+ },
+ {
+  "en": "\"If you guys want to make a mixed party too, bring me some Makana Essence from the plants that grow in the Leanmakana Mountains, okay?\"{w}",
+  "kind": "msg",
+  "note": "Same wording as page 2 of row 445."
+ },
+ {
+  "en": "\"Welcooome.{w}...Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This scent...!{w}Hands up, everyone!\nInventory check, ba-boom!!\"{w}",
+  "kind": "msg",
+  "note": "Addressed to the whole party -> \"everyone\"."
+ },
+ {
+  "en": "Mucha brings her nose close to your belongings and starts searching for something.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sniff, sniff... Th-this scent is...!{w}Makana Essence, fouuund!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mucha found the Makana Essence.{w}",
+  "kind": "msg",
+  "note": "Source is passive (\"it got found\"); the finder is Mucha from the previous rows, so made active."
+ },
+ {
+  "en": "\"You brought it back for me, didn't you?{w}Thank you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Hand over the Makana Essence?",
+  "kind": "data"
+ },
+ {
+  "en": "\"You folks, I built on a room just for you folks.{w}Here, the stable's bigger... What's with that look?{w}{p}Take a good look, now --\nthe Alchemy Storage got bigger too, y'know...\"{w}",
+  "kind": "msg",
+  "note": "nanja? = reacting to the party's unimpressed face. Page 2 continues the same quote, so no opening quote (as in the source). New term: Alchemy Storage (renkin souko; PLACE_NM slot max 16 chars)."
+ },
+ {
+  "en": "\n{0E}              * You can now store up to 30 items *{0F}{w}",
+  "kind": "msg",
+  "note": "Centered with spaces to mirror the source frame."
+ },
+ {
+  "en": "\"Ho ho ho, business is boomin' thanks to you folks.{w}So I added on again... Yep, the stable. What of it?{w}The Alchemy Storage got bigger along with it, eh...\"{w}{p}\"You'll just go causin' explosions anyway, ain'tcha...?{w}Then all the more reason I can't go expandin' the inn itself... can I... eh, old girl...\"{w}",
+  "kind": "msg",
+  "note": "sono toori = Zeppo answering the party's unspoken \"the stable again?\". baa-san ya = Zeppo addressing his late wife: \"old girl\" when addressed, \"the missus\" when referred to (rows 466-472)."
+ },
+ {
+  "en": "\n{0E}              * You can now store up to 50 items *{0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ohh... welcome, welcome...{w}You folks sure are makin' a name for yourselves...{w}Here, I made the stable even bigger for ya.\"{w}{p}\"With it this big, alchemy oughta be easier, I reckon...{w}...and it'll make things easier on me too.{w}Hm? What's that? Did I say somethin'?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}              * You can now store up to 99 items *{0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Young'uns,\ndon't ya need to head to the castle?\"{w}{p}\"If you wanna stay the night, here...\nthe stable's open. Rest up all ya like.\"{w}",
+  "kind": "msg",
+  "note": "owakai no -> \"young'uns\"."
+ },
+ {
+  "en": "\"What a bother.{w}Do I really gotta change the sheets every time?\"{w}{p}\"With the stable,\nall it takes is stirrin' the straw around a bit.\"{w}{p}\"Listen, young'uns.{w}Economy, Royal, whatever ya ask for -- I ain't makin' up any beds, y'hear? That's fine, right?\"{w}",
+  "kind": "msg",
+  "note": "Economy / Royal = inn room grades (katakana in source); must match the inn menu once it is translated."
+ },
+ {
+  "en": "\"Now, you folks,\nbe careful how ya use the Alchemy Storage, y'hear?\"{w}{p}\"For instance, don't go gettin' so caught up in synthesis alchemy that ya cause an explosion, now.\"{w}{p}\"Especially when you're usin' ores of the same grade,\nya gotta be real careful.\"{w}{p}\"If they're the same grade, 20 or higher...{w}and your luck is bad...{w}",
+  "kind": "msg",
+  "note": "gousei renkin = \"synthesis alchemy\"; rendo (ore refinement value) = \"grade\" (uncertain, see report). Last page has no closing quote, as in the source: row 464 re-shows it in {0E}..{0F} and finishes the sentence."
+ },
+ {
+  "en": "{0E}\"If they're the same grade, 20 or higher...\nand your luck is bad...{0F}\nyou get an EXPLOSION!!\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} repeats the last page of row 463 verbatim ({w} -> \\n), as in the source."
+ },
+ {
+  "en": "\"Scary, ain't it~ Terrifyin', ain't it~{w}So that's why ya mustn't use ores of the same grade, 20 or higher, with each other in synthesis alchemy.\"{w}{p}\"...That said,\nthere's some fool who does it every single time...\nSigh...\"{w}",
+  "kind": "msg",
+  "note": "tohoho = rueful sigh. Note mark -> \"~\"."
+ },
+ {
+  "en": "\"Maybe I oughta just quit runnin' this inn...{w}Would the missus be mad at me from the other side, I wonder...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Stayin' over again, are ya?{w}You sure do keep poppin' in and out, bit by bit.{w}No use livin' your life in such a rush.\"{w}{p}\"Kwah kwah kwah!\"{w}",
+  "kind": "msg",
+  "note": "Laugh \"Kwah kwah kwah!\" as in the pilot."
+ },
+ {
+  "en": "\"...You there. See that landscape paintin' over there?{w}My late wife painted that, y'know.\"{w}{p}\"The anniversary of her passin' is comin' up soon.{w}She was a real nag while she was alive, but...\nI'd like to at least give her a flower.{w}{p}\"'Crystal Flower' -- that was the missus's favorite flower...\"{w}{p}\"By rights, I oughta go pick it myself,\nbut I can't leave the inn empty.{w}Besides, I'm gettin' on in years, ya know?\"{w}{p}\"Sorry to ask, but could ya go to the Crystal Labyrinth\nand fetch me a Crystal Flower?\"{w}",
+  "kind": "msg",
+  "note": "meinichi = anniversary of a death. Page 2 lacks a closing quote before page 3 opens a new one -- kept as in the source (likely a source typo; proofreader may add it). New terms: Crystal Flower (suishouka), Crystal Labyrinth (suishou no meikyuu; DGN_NAME slot max 18)."
+ },
+ {
+  "en": "\"In return... I've kept this hidden till now, but...{w}besides the stable, there's also another... What?\nYou already know about it?\"{w}",
+  "kind": "msg",
+  "note": "Zeppo was about to reveal the Alchemy Storage; the party already knows."
+ },
+ {
+  "en": "\"Sorry to ask, but could ya go to the Crystal Labyrinth and fetch me a Crystal Flower?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ohh, I've been waitin' for ya.\nOld girl, we made it in time for your anniversary.\"{w}",
+  "kind": "msg",
+  "note": "Addressed to his late wife (baa-san). \"anniversary\" = meinichi, set up in row 468."
+ },
+ {
+  "en": "\"This oughta make the missus happy, I reckon... Thank ya kindly.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, that's right.{w}Here, over there... feel free to use that space however ya like.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That there's called the Alchemy Storage.{w}You folks have done a lot for me,{w}so from now on, use it as much as ya like...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}                  * The storage fee is now 0 GP *{0F}{w}",
+  "kind": "msg",
+  "note": "souko riyouryou = storage usage fee."
+ },
+ {
+  "en": "\"Mmmm~ the stable, is it...\nYep, that'll do just fine.{w}Economy?\"{w}{p}\"...Ohh, so that's what they call the stable these days.\nMy, how fancy...\"{w}",
+  "kind": "msg",
+  "note": "haikara = old-fashioned word for \"trendy/Western\" -> \"fancy\". Economy = room grade, see 462."
+ },
+ {
+  "en": "\"HEYYY! What d'ya think you're doin'!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No explosions!{w}",
+  "kind": "msg",
+  "note": "Rows 478-480 build one shouted sentence; each next row re-shows the previous text in {0E}..{0F}. Synced with slice_07 row 480, which starts {0E}\"No explosions!\\nThat's what I told ya!{0F}."
+ },
+ {
+  "en": "{0E}\"No explosions!{0F}\nThat's what I told ya!{w}",
+  "kind": "msg",
+  "note": "Echo of row 478 ({w} -> \\n), as in the source. Synced with slice_07 row 480."
+ }
+]

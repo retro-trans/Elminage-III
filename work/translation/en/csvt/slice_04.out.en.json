@@ -1,0 +1,370 @@
+[
+ {
+  "en": "As training to become heroes, Mandelgius\norders you to bring back an Azure Fish.",
+  "kind": "desc",
+  "note": "Glossary: Mandelgius (gender unknown, no pronoun), Azure Fish. Trailing full-width pad spaces dropped (290-299)."
+ },
+ {
+  "en": "As training to become heroes, Mandelgius\norders you to bring back the Proof of\nEndurance.",
+  "kind": "desc"
+ },
+ {
+  "en": "As training to become heroes, Mandelgius\norders you to bring the Evil Magistrate to\njustice.",
+  "kind": "desc",
+  "note": "[JP] rendered 'bring ... to justice' (corpus: Evil Magistrate, 'brought ... to justice')."
+ },
+ {
+  "en": "As training to become heroes, Mandelgius\norders you to defeat the Tiger Centaur.",
+  "kind": "desc",
+  "note": "Source has no 3[JP] here; hint row 407 and the boss name use 'Tiger Centaur III'."
+ },
+ {
+  "en": "Can people never resist temptation?\nThe realization always comes too late.\nHer cries for help fade away into the\nforest.",
+  "kind": "desc",
+  "note": "Quest [JP] (Tarrit stuck in a crack). [JP] = Tarrit (female per glossary). [JP] kept as 'forest' although the hint places her in the Konnu Grassland Ruins."
+ },
+ {
+  "en": "A teacher and scholar at Santorea Academy\nasks you to survey some ruins.",
+  "kind": "desc"
+ },
+ {
+  "en": "It's Santorea Academy's welcome party for\nnew students, in the old school building~!",
+  "kind": "desc",
+  "note": "[JP] = 'old school building' (corpus chap slice_013: 'abandoned school building', held at the old mansion in Perpeco Forest). [JP]! cheer kept with '~!'."
+ },
+ {
+  "en": "Paralyzed, put to sleep, sometimes even\npetrified and then swallowed by a fissure:\nsuch is his lot, poor unlucky soul.\nAnd now, for some reason, he's digging a\nhole...?",
+  "kind": "desc",
+  "note": "The Garden Keeper monster (hint row 411); source uses [JP], so 'he'. Passive kept: the party is implied as the one inflicting it."
+ },
+ {
+  "en": "They say if you find one, there are thirty\nmore around... You know. THOSE.",
+  "kind": "desc",
+  "note": "[JP] = cockroach-type monster left unnamed on purpose (hint row 412 refuses to say the name)."
+ },
+ {
+  "en": "Know too much of everything, and boredom\nsets in. To kill time, the lord has chosen\nyou.",
+  "kind": "desc",
+  "note": "[JP]: identity and gender unknown (no corpus hit). 'the lord' used as the title for [JP]; flag if the character turns out female."
+ },
+ {
+  "en": "Molder: Find the Ruins of Light",
+  "kind": "desc",
+  "note": "c7 Molder board entries (300-340, 349-359): 'Molder: ' + quest title. Titles must match EVENT_TEXT c2 (slice_03); listed in the report for syncing. [JP]: no corpus rendering; distinct from [JP] 'Lightstair Ruins'."
+ },
+ {
+  "en": "Molder: Gathering of Rulers",
+  "kind": "desc",
+  "note": "[JP] includes Empress Rianna, so gender-neutral 'Rulers'."
+ },
+ {
+  "en": "Molder: Hemaid Red Stone",
+  "kind": "desc",
+  "note": "Glossary item names reused exactly (302-307)."
+ },
+ {
+  "en": "Molder: Green Plakio",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Blue Menon",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Selcoa Paint",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Celestial Readings",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Wing Soul",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Old Man's Plans",
+  "kind": "desc",
+  "note": "Corpus chap slice_001 row 8 'The Old Man's Blueprints'."
+ },
+ {
+  "en": "Molder: Cannon Tools",
+  "kind": "desc",
+  "note": "Corpus 'Cannon Tools'."
+ },
+ {
+  "en": "Molder: Seasoned Snacks",
+  "kind": "desc",
+  "note": "Corpus 'Seasoned Bar Snacks'."
+ },
+ {
+  "en": "Molder: Save Perpeco Village",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Chatty Sapling",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: I Love Farming!",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Raid on Lumisthenes",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Sun Prison Shrine",
+  "kind": "desc",
+  "note": "Key-item name 'Sun Prison Shrine' (chap slice_016 row 1266). Note: chap slice_019 row 1534 calls it 'Sun Cage Reliquary' in dialogue -- inconsistency to resolve upstream."
+ },
+ {
+  "en": "Molder: Retake the Palace of the Sun",
+  "kind": "desc",
+  "note": "Glossary 'Palace of the Sun'; 28 chars, longer than the c2 limit (22) -- c2 may need 'Retake the Sun Palace'."
+ },
+ {
+  "en": "Molder: Hail the Great Adventurers",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: The Truth of the Sun",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Land of the Next Age",
+  "kind": "desc",
+  "note": "[JP] follows glossary [JP] 'Book of the Next Age'."
+ },
+ {
+  "en": "Molder: Bring a New Light",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Makana Essence",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: A Gift for a Late Wife",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Toner's Checkup",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Life and Money",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Fena's Thoughts",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: How Utterly Exquisite!",
+  "kind": "desc",
+  "note": "Matches the line it quotes (wmap slice_10 row 779: 'How utterly exquisite it is!')."
+ },
+ {
+  "en": "Molder: Madulay's Request",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: The Midnight Hunter",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: The Forbidden Blue Rain",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Operation Hug Decoykins",
+  "kind": "desc",
+  "note": "Glossary [JP] = 'Decoykins'. 23 chars: over the c2 limit (22) if reused there."
+ },
+ {
+  "en": "Molder: Don't Call Me Cute!",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Intangible Assets",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: The Emera Program",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: A Life in the Shadows",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Martial Arts Tournament",
+  "kind": "desc",
+  "note": "Corpus 'Martial Arts Tournament' (23 chars; c2 limit 22)."
+ },
+ {
+  "en": "Molder: Magical Party",
+  "kind": "desc",
+  "note": "Corpus 'Magical Party'."
+ },
+ {
+  "en": "Molder: What Makes a King",
+  "kind": "desc",
+  "note": "Quest of the Fairy King Meem ([JP])."
+ },
+ {
+  "en": "Molder: I'm LooKing foR SomeOne...",
+  "kind": "desc",
+  "note": "Source mixes katakana into hiragana ([JP]) to show the broken speech of the [JP]; mirrored with stray capitals."
+ },
+ {
+  "en": "Molder: Strange Box Garden",
+  "kind": "desc",
+  "note": "Corpus key item 'Strange Box Garden'."
+ },
+ {
+  "en": "Molder: Dice of Fate Jackpot",
+  "kind": "desc",
+  "note": "[JP] = make a killing; item 'Dice of Fate' (glossary)."
+ },
+ {
+  "en": "Endless, fruitless council sessions are hard\non old bones. We seek the Geezers' Wand,\nsaid to restore vigor to the elderly.",
+  "kind": "desc",
+  "note": "c7 full notice. Speaker is Council Chair Wattner (gender unknown); [JP] / [JP] rendered 'old bones', 'the elderly'. Item 'Geezers' Wand' (glossary)."
+ },
+ {
+  "en": "Not urgent, merely handy: we need a Vision\nCrystal for our observing device. If found,\nbring it to the Stargazing Lighthouse,\nStar Capital Lumisthenes.",
+  "kind": "desc",
+  "note": "Vision Crystal = [JP] (key item, chap slice_016 row 1315). Compressed to fit 151 bytes; 'Not urgent, merely handy' = [JP]."
+ },
+ {
+  "en": "Seeking something to restore strength to an\nold, failing throat. That is a little too\nconvenient a wish, I suppose...",
+  "kind": "desc",
+  "note": "Arlotte's notice (polite [JP]). Item unnamed in source."
+ },
+ {
+  "en": "wanted: sumbody who will lend me munny.\nzonette",
+  "kind": "desc",
+  "note": "Source is all hiragana with no kanji (childlike/crude writing), signed by Zonette; mirrored with lowercase and misspellings."
+ },
+ {
+  "en": "To Her Majesty the Sovereign, with love.\nSeeking adventurers to deliver a confidential\nparcel. -- Chief Barjeff",
+  "kind": "desc",
+  "note": "[JP] = Rianna (female, glossary); corpus renders [JP] for her as 'the Sovereign'. [JP] = 'Chief' (glossary)."
+ },
+ {
+  "en": "MILL.GP. looks forward to your visit and\nyour challenge.",
+  "kind": "desc",
+  "note": "[JP].[JP]. -> 'MILL.GP.' (glossary)."
+ },
+ {
+  "en": "We're out of Stonemelt Water for guests and\nI'm in a bind. If you have extra, please\nshare some. I'll treat you to some extra\nservice at the shop!",
+  "kind": "desc",
+  "note": "Love Jacuzzi staff notice; [JP] = 'Stonemelt Water' (glossary). Compressed to fit 151."
+ },
+ {
+  "en": "My coworker... um... well... she won't wear\nany... panties... and it's a problem. Her\nbottom is extra big, so I'm looking for\nbig panties.",
+  "kind": "desc",
+  "note": "Yuna's notice about Nora (female). Source ellipses kept as hesitations."
+ },
+ {
+  "en": "Molder: Tarrit's Close Call!",
+  "kind": "desc",
+  "note": "[JP] = close call."
+ },
+ {
+  "en": "Molder: Trial of Mandelgius 1",
+  "kind": "desc",
+  "note": "Rows 350-353: full-width digits -> ASCII."
+ },
+ {
+  "en": "Molder: Trial of Mandelgius 2",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Trial of Mandelgius 3",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Trial of Mandelgius 4",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Can't Get Unstuck~",
+  "kind": "desc",
+  "note": "Tarrit stuck in a crack (hint row 408)."
+ },
+ {
+  "en": "Molder: Crumbling Stone Tablet",
+  "kind": "desc",
+  "note": "Corpus 'crumbling stone tablet' (chap slice_003 row 207)."
+ },
+ {
+  "en": "Molder: Old School Ghost Story",
+  "kind": "desc"
+ },
+ {
+  "en": "Molder: Don't Pick on Me",
+  "kind": "desc",
+  "note": "Corpus 'D-don't pick on me' (chap slice_010 row 841)."
+ },
+ {
+  "en": "Molder: Operation Ogre Bay Cleanup",
+  "kind": "desc",
+  "note": "[JP] = Operation; 26 chars, over the c2 limit (22) if reused there ('Ogre Bay Big Cleanup' fits)."
+ },
+ {
+  "en": "Molder: The Lord's Diversion",
+  "kind": "desc",
+  "note": "See row 299 on [JP]."
+ },
+ {
+  "en": "Haven't you already done this one? Your\nadventure's only just getting started.\nGood luck!",
+  "kind": "desc",
+  "note": "c8 hints (360-369): the hint-giver is a fortune-teller (row 373 / 394 point to Natori, female). Casual feminine voice."
+ },
+ {
+  "en": "So, wasn't that fun? With that many exalted\npeople in one place, it was quite a sight,\nwasn't it? You don't get to see that every\nday, so you'd better thank big sis here,\nokay?",
+  "kind": "desc",
+  "note": "[JP] self-reference rendered 'big sis here'."
+ },
+ {
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to King Balgert.",
+  "kind": "desc",
+  "note": "Source typo [JP] = [JP] ('as long as you use the compass'). Rows 362-364 are the same text with a different person."
+ },
+ {
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to Her Majesty Rianna.",
+  "kind": "desc",
+  "note": "[JP] -> 'Her Majesty' (Rianna female per glossary)."
+ },
+ {
+  "en": "This one you'll just have to find on your\nown. Don't worry, as long as you use the\ncompass, you should find it. Once you do,\nreport to King Fulgrant.",
+  "kind": "desc",
+  "note": "[JP] -> 'King Fulgrant': glossary gender is unknown, but [JP] vs [JP]/[JP] (see Balgert note) implies king. Flag."
+ },
+ {
+  "en": "There's a village called Perpeco Village in\nPerpeco Forest, and it seems it's being\nattacked by monsters. Go help them out.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sapling with a lot of demands, hm? Why not\njust toss it? ...Kidding, kidding! Let's see,\nisn't there a kid in Perpeco Village who's\ngood at growing plants? Why not ask them?",
+  "kind": "desc",
+  "note": "The kid who grows plants is Bona (chap slice_009); 'them' keeps the hint vague, as the source does."
+ },
+ {
+  "en": "The reading's come out, but I can't quite\nmake sense of it. It says: Wonderful\nTurmeric, the girl of Perpeco Forest, and a\ngirl stuck fast, unable to move. Huh?",
+  "kind": "desc",
+  "note": "Item 'Wonderful Turmeric' (glossary). [JP] -> 'Huh?'."
+ },
+ {
+  "en": "This one's already settled, right? Thanks\nfor what you did back then.",
+  "kind": "desc"
+ },
+ {
+  "en": "How do you read this? 'Sun... Prison...\nShrine'? Huh. Something this old, only a\nbeing that's lived just as long would\nunderstand it, I bet. And that one is high\nup in the sky.",
+  "kind": "desc",
+  "note": "She sounds out the kanji reading ([JP]); rendered as halting reading of the English item name 'Sun Prison Shrine'. [JP] (being, not person) -> 'a being'."
+ }
+]

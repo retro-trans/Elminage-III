@@ -1,0 +1,365 @@
+[
+ {
+  "en": "Dragons once flourished, but that age ended; now five races, chiefly humans and elves, bear the task of creating the Eld. Forsaken, the dragons rose against the gods, aided, it's said, by other beasts. The revolt was crushed; the dragons and the holy tiger who aided them were cursed to wander the land forever.",
+  "kind": "desc"
+ },
+ {
+  "en": "A phantom said to appear in the exact likeness of whoever stands before it. \"Whoever sees it is near death.\" \"Both are really you; your soul and body have split apart.\" \"A terrible monster is copying your form.\" The rumors never end.",
+  "kind": "desc"
+ },
+ {
+  "en": "The grand professor who takes on challengers at the Magical Party! With a whistle in the mouth, the prof will tweet-tweet everyone's magic away! Show off your amazing magic and maybe you'll get something good~!? Prof. Rombino is the prof's half-sibling: same mother, different father!",
+  "kind": "desc",
+  "note": "Gender of Nambino not settled: the source says the two professors are [JP] (half-siblings, same mother, older sister + younger brother) but does not say which is which, so no pronouns."
+ },
+ {
+  "en": "The grand professor who takes on challengers at the Martial Arts Tourney, rating everyone's attacks with a wave of a war fan~! Physical attacks can't kill the prof, but really strong ones still seem to be a weak spot. Don't bully the prof too much, okay?",
+  "kind": "desc",
+  "note": "[JP] rendered 'war fan' (gunbai). No pronouns for Rombino (see row 2)."
+ },
+ {
+  "en": "A demon who loves corpses. She starves for love, yet madly hates that the world won't bend to her will. An incident gave her power over corpses; the dead, doing her every whim, gave her her first fulfillment and thrill. Now, closer to the dead than the living, she pours a twisted, one-sided love on corpses.",
+  "kind": "desc"
+ },
+ {
+  "en": "A spirit stained by darkness, long serving as Dark Mayer's right hand. As a former spirit, Shaharon wields vast magic and gives every foe a primal vision of death. What feelings might Shaharon hold for fellow spirits Rafa the Sun Spirit and Yorfa the Moonlight Spirit?",
+  "kind": "desc"
+ },
+ {
+  "en": "Kin of Darkness of the Dark Realm's direct line, Dark Mayer worships Numbra Malem, King of the Dark Realm, and enjoys high hopes in return. Given several direct-line lands, Dark Mayer became known as Mayer. Fond of battles of wits, Dark Mayer usually holds back, but none can stop a serious Dark Mayer, they say.",
+  "kind": "desc",
+  "note": "Dark Mayer: no gender in source or glossary; name repeated instead of pronouns."
+ },
+ {
+  "en": "The spirit who rules the moon, known as the Moonlight Spirit. Yorfa became the Moonlight Spirit out of love for Rafa, who became the Sun Spirit for the land's sake, but in single-minded devotion to him, now lends a hand to beings of the Dark Realm...",
+  "kind": "desc",
+  "note": "The source's two \\n are mid-word layout artifacts ([JP] / [JP]) and were dropped. 'him' = Rafa, from the source's [JP]; Yorfa gets no pronoun."
+ },
+ {
+  "en": "Lover of Yorfa the Moonlight Spirit. Sun Spirits rank first to third; higher means a lighter load and more power. Rafa, third rank, is worn ragged by endless overwork; this waning power let the Kin of Darkness in. On Zaalhaut's word, the ruler of old modeled Roscadil Palace on the Palace of the Sun in thanks.",
+  "kind": "desc",
+  "note": "[JP] rendered 'the ruler of old' (sovereign's gender unknown)."
+ },
+ {
+  "en": "Dark Mayer's form with power unleashed, granted strength by the King of the Dark Realm. The cruelty long kept hidden takes shape as a vicious wave of power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Dark Mayer, drawing the power of the Void Axis through Numbra Narv. The spear of dark light that appears, warping the space around it, will shatter your hearts and bodies with ease. Can you protect the land from the encroaching darkness?",
+  "kind": "desc",
+  "note": "ctx name is [JP] (Belsconi) while row 11 and the corpus have [JP] (Welsconi); the description itself names neither."
+ },
+ {
+  "en": "An envoy of Numbra Malem who appeared from the Dark Realm, following Welsconi to aid the drive for supremacy.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Demon Duke who wields many arts of illusion. The eerie fog spewing from its head aids Reckdas's illusions; those caught in it stand no chance unless they escape the fog. Wrapping a whole town in it to destroy it is child's play: the fog is called \"Reckdas' Evil Fog.\" Reckdas recently took a seat on the Yaha.",
+  "kind": "desc",
+  "note": "'Reckdas' Evil Fog' reuses the ITEM.CSV name of the same term. Epithet [JP] in ctx not used."
+ },
+ {
+  "en": "A Demon Duke whose castle, Miasuna, lies in the east of the Crestard Continent, yet who prefers to be called a 'Maen' over 'Demon Duke'. It is said to be the root of the Eastern culture found here and there in the land, and to hold very ancient wisdom... But why is a Demon Duke in a land where people live?",
+  "kind": "desc",
+  "note": "[JP] romanized 'Maen' (a Buddhist term for demonic hindrance); no corpus rendering. No pronouns (Asunamuchi uses the feminine-archaic [JP] in chap slice_016, but no glossary gender)."
+ },
+ {
+  "en": "A Demon Duke who loves song. Once a mere flower, it enjoyed visiting spirits' songs, but the land's dwellers took the spirits' homes and hurt them. A spirit's farewell tears for its beloved place gave it life and freedom. Its songs span healing to ruin; it means to ally with spirits in the Divine Realm's stead.",
+  "kind": "desc",
+  "note": "[JP] read as [JP] ('in the Divine Realm's stead')."
+ },
+ {
+  "en": "A Demon Duke made of a bizarre lump of flesh. Grotesque, yet its skin is smooth beyond compare; so smooth that just standing still, it slides off down the slightest slope. Its tentacles are vital walking aids for Endwards. If Endwards attacks you, flee uphill and your odds of survival rise sharply.",
+  "kind": "desc"
+ },
+ {
+  "en": "An otherworldly living room drifting among many lands. An old couple who dabble in alchemy live inside and warmly welcome visitors. Its outside is coated in a special material said to \"repel every watcher's eye.\" The mage Zanu once left a daughter here for a while to shield her from the world's eyes.",
+  "kind": "desc"
+ },
+ {
+  "en": "Fanisakil is a Demon Duke that lives as a parasite on creatures of the New Lands. It can remake its form to suit its host's abilities, in a sense achieving immortality. Right now it seems to be living in a bivalve. When you fight it, take care not to be made its next host.",
+  "kind": "desc"
+ },
+ {
+  "en": "A court painter who once served Kondar, King of Ada. Since the dragons seized the ruling race's throne, the painter has coolly kept recording history on canvas, preserving the giants' fate in pictures. These paintings hide nothing of the gods' mercilessness either, so the gods find the painter a nuisance.",
+  "kind": "desc",
+  "note": "[JP] = 'Kondar, King of Ada' (Ada = the giants' age; cf. slice_45 Hecatoncheir row). New names: Aleed Painter (from item 'Aleed Palette'), Kondar, Ada."
+ },
+ {
+  "en": "True name: Saura Rezants Boriam Swiera, \"Foolish yet Great Woman of Mercy, or Milk Queen.\" Mad in mind and body, the queen gives her flowing milk and body to the hungry. Even the Kin of Darkness she nursed; they poured in magic crying \"For the milk! For the milk!\", making her mighty. Yaha member; origins murky.",
+  "kind": "desc",
+  "note": "True name [JP] romanized 'Saura Rezants Boriam Swiera' (new). [JP] = 'Milk Queen'. [JP] compressed to 'the hungry' to fit."
+ },
+ {
+  "en": "A Demon Duke with a distinctive porous, tiered nest called the Hivanask. This burrow has strange powers: a being of any size fits into one hole. In a crisis it can even move with a vast army inside. Who is in it, even Seot Mar doesn't know. Its flaw, perhaps: turn it upside down and gravity dumps everyone out.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Demon Duke of the Yaha, morbidly obsessed with all things unclean. Abducting women and making love to them, it slowly teaches their bodies how wonderful its tastes are, tearing off the garments of reason one by one to bare the heart's core. And at last the woman herself begs: Please, accept the ultimate love.",
+  "kind": "desc",
+  "note": "Castromandi: no gender in source, 'it'. [JP] kept as the woman's plea 'Please, accept the ultimate love.' Not softened."
+ },
+ {
+  "en": "A Demon Duke of the Yaha, given life when the King of the Dark Realm lit its flame. Menolist prizes gentlemanly conduct and strongly wishes every fight to be a duel, though not when the foe is from the New Lands. Menolist strongly backs restoring Numbra Malem to power through the Phase Shift.",
+  "kind": "desc",
+  "note": "[JP] = 'gentlemanly conduct' (does not assert gender)."
+ },
+ {
+  "en": "Ponyapo, of all things! Why him, now of all times? Speculation abounds, but even past cases yield no convincing answer. Still, that it is Ponyapo has been proven beyond doubt, and we must accept it as reality. But, we say again: Ponyapo, of all things.",
+  "kind": "desc",
+  "note": "'him' follows the source's [JP] for Ponyapo."
+ },
+ {
+  "en": "A direct-line Demon Duke born of the Dark Realm. Deemed legendary, Taizarti is called the mightiest of the Kin of Darkness, and leads well: the skill to unite such colorful types is worth learning, foe or not. The arrow in its head is from a fight with Polyte; pulling it out is a bother, so it stays.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Demon Duke of the so-called direct line. Those swallowed by Danwe's blue head are slowly drained of strength as nourishment and waste away. Those swallowed by the red head regain it and are restored. But the moment they leave the red head, the blue one swallows them, so they recover and wither forever.",
+  "kind": "desc",
+  "note": "[JP] romanized 'Danwe' (new; also used in row 40). [JP] rendered 'head' (blue head / red head)."
+ },
+ {
+  "en": "A direct-line Demon Duke, a dark mentor seeking to bring down and subdue the holy. Its Yoringen lops off the heads of all who defy it. It's usually quiet, but when its jaw drops, \"VAAH!\", the merciless rakshasa's hour comes. Rumor says shutting the jaw by hand, \"FUGO!\", averts carnage, but none has done it.",
+  "kind": "desc",
+  "note": "[JP] rendered 'bring down and subdue the holy' (uncertain). [JP] = 'Yoringen' (ITEM.CSV). [JP] = rakshasa."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Good Effort Award'\nChasing the mystery girl, the odd creature enters the Void Axis. But the King's power: PUGYU~ to bits. Guts out, factors oozing, two gods jolt in shock. Drooly squishy super-solace: Creation Demon Prize, Olpurin! All go home together~ \"Hey hey, Urna. It's Papa, see?\"",
+  "kind": "desc",
+  "note": "Library-card header: [JP] = 'Not for loan:'; the full-width-space padding that makes the 12-char header lines is rendered as \\n (header/call number/title/body). Same format in rows 28-32 and 37-43. The body is deliberate nonsense wordplay ([JP] water-flea pun -> 'to bits', [JP] -> 'Creation Demon Prize'); [JP] 'Olpurin', [JP] 'Urna' romanized (new). ♪ -> '~'."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Holy Selector Argument'\nSystem servants are chosen by holy selection via Arguments: Mirage Ring, Holy Remains, Radiant Scales, Waxstone Seat... With a worthy holder, each calls them to the System; it can't pick librarians itself. Some, like the Holy Wisdom Ring Beldoll, roam the land.",
+  "kind": "desc",
+  "note": "Argument per chap slice_016 ('Arguments'). New item names: [JP] Mirage Ring, [JP] Holy Remains, [JP] Radiant Scales, [JP] Waxstone Seat, [JP] Holy Wisdom Ring Beldoll (Beldoll per chap). 'them' = the worthy holder."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Deltoi'\nAn old couple traveling the lands, after much research, found Deltoi, which evades the System's eyes. It can coat a room or be folded into a Mirage Cloak; handy, with many uses. Those who evade the System's eyes must not be overlooked.",
+  "kind": "desc",
+  "note": "[JP] rendered 'Mirage Cloak' (= item [JP]; inferred from row 76, where Hisbert never parts with hers). Deltoi here is the concealing material itself."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'What the Factor Leads To'\nThe Deprus Factor, an unknown Ashtel left, stirs unseen as the converging world ends. The strange creature: a fount of life. The Cursing Land: a refuge for the defiant. The Fourth Gen: kings of a new world. Will True Crystal sun shine on Radiance's laws?",
+  "kind": "desc",
+  "note": "[JP] 'the Cursing Land' (new, uncertain). [JP] = 'Radiance' (MONSTER3 slice_39 row 3278). [JP] shortened to 'Fourth Gen' to fit. [JP] = 'the defiant'."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'A God of Oblivion's Whim'\nSanafeet, the new god of Dark Oblivion, finds a strange life in a wasteland: a fluke, dead before birth, astray from the path of souls. To protect this rare specimen, Sanafeet descends to the land, moves a corpse, and holy-fuses with the dead son.",
+  "kind": "desc",
+  "note": "[JP]: whose son is not stated; kept as 'the dead son'."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Demonic Power Struggle'\nThe demon lands split in three. This is no cause for joy: they may grow greater than ever. Thus more matters than ever demand haste. We wish to settle every current agenda item at once, then face it.",
+  "kind": "desc",
+  "note": "The source's trailing \\n was dropped. [JP] read as [JP] ('then face it')."
+ },
+ {
+  "en": "Ryug is the collective name for the Fourth Generation people. Improved from the five primal races, the Third Generation, they call themselves perfect beings. They hold a power unlike any weapon or magic before, and those whose power leans toward protection are called Shield Ryug.",
+  "kind": "desc",
+  "note": "[JP] = 'the five primal races'."
+ },
+ {
+  "en": "If those strong at protecting themselves are called Shield Ryug, those strong at healing others are called Healing Ryug. Healing Ryug are said to have the power to instantly heal not only outward wounds but even wounds of the heart.",
+  "kind": "desc"
+ },
+ {
+  "en": "Those with extremely strong power to attack foes are called Destruction Ryug. It's said that when Ryug of shield, healing and destruction appear together, anyone of any power will bow down, so Ryug prefer to act in threes when they can.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Fourth Generation Ryug man, recommended by Void, god of subspace, and sent to Elminage as a next-librarian candidate. Gifted even among gifted Ryug, Hevayur believes his own race will find the Eld, so he loathes those failures, the giants, dragons and five races, and takes being ranked with them as an insult.",
+  "kind": "desc",
+  "note": "Hevayur male (glossary). [JP] = 'god of subspace' (new). [JP] read as [JP] (typo) = next librarian."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Unknown Power'\nA power emerges from a place unlike light or darkness. Its form closely resembles spirits, and several individuals have been confirmed. Those sent to investigate remain missing. Another survey team must be sent.",
+  "kind": "desc"
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Changing of the Guard'\nDehain's successor upon retirement shall be promoted from Void's aides: Fulfaray is appointed, whose ability and thinking are deemed excellent for a god of Being. Henceforth, Fulfaray's directions are to be followed.",
+  "kind": "desc"
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Swallowed by Many Malices'\nThe many malices squirming in Bernaf draw in even the malice of beings long withered. Living, vicious desires tear the netting of the eternal world they strayed into. The God-Eater now transcends even the Kin of Darkness, reigning as a great calamity.",
+  "kind": "desc",
+  "note": "Title shortened from 'One Swallowed by Many Malices' to fit. [JP] = 'malice', [JP] 'Bernaf', [JP] 'the God-Eater' (new)."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Bringer of the End'\nThe Nonsense Codon Danwe guides pulses on at light's opposite pole, passed on to the Word of Ending. When the Word of Ending slips smoothly into the System, all will halt, and ********. Is this the end the Divine Realm wished for?",
+  "kind": "desc",
+  "note": "[JP] kept as ********. [JP] = 'the Word of Ending' (new)."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'One of the Deep World'\nOne who survived the Great Phase Shift again, still fulfilling a single mission. Heir of an ancient holy age even the gods forgot? One who knows Tonak-Kanacol well takes one fish and gives it to a young heir in beast form. Abyssal fish to abyssal beast.",
+  "kind": "desc",
+  "note": "[JP] = 'Great Phase Shift'; [JP] 'Tonak-Kanacol'; [JP]/[JP] 'abyssal fish/beast' (new)."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'Law of the Real Axis World'\nWhile this world is this world, it cannot escape light's rule. Light is the absolute law. Space and time, bow to the will of light. The divine might of time is a false authority, a power that does not exist. I am the Opinion of Light, Spectoria!",
+  "kind": "desc",
+  "note": "[JP] = 'Real Axis' (chap slice_017); [JP] = 'Opinion of Light' (chap slice_021)."
+ },
+ {
+  "en": "Not for loan:\n------.---\n'The Librarian's Last Duty'\nHisbert's last duty: naming Hevayur for the next term. The vote: Aznand 2, Hevayur 4, Zoni 1. The expected runoff never came; next is Hevayur. Behind a relieved Void, Fulfaray's heartless smile.",
+  "kind": "desc",
+  "note": "The source's \\n before the last phrase was dropped. [JP] = the runoff people expected did not happen."
+ },
+ {
+  "en": "The poster girl of the tavern in Algrantz. A bright, ever-smiling girl who makes friends with anyone. Her flaw is a sloppy memory: she brings something other than what was ordered and soon forgets what she's told. But once they see her smile, everyone forgives her: \"Oh, well.\"",
+  "kind": "desc"
+ },
+ {
+  "en": "An old dragonewt who has run an inn in Algrantz for years. Lazy, he hates making beds and preparing for guests, so he puts adventurer after adventurer in the no-fuss stable. Since his wife, who kept him in line, passed away, his sloth has grown. Some adventurers resist, but most bow to his brute strength.",
+  "kind": "desc"
+ },
+ {
+  "en": "The woman who owns Kembeck's Shop. She first ran it with her adventurer husband. Nights spent appraising the goods he brought home left her with a hard glare. Though he has passed away, she still keeps the shop full of memories. Her son has a shop in Roscadil.",
+  "kind": "desc"
+ },
+ {
+  "en": "A young bishop with a keen head for business. He openly craves money, rank and fame, all that clergy (at least outwardly) hold taboo. When he sees an injured adventurer, he can't help seeing money. His dream is to build a temple bearing his own name. Go for it, Hardy the philistine!",
+  "kind": "desc"
+ },
+ {
+  "en": "King of Algrantz. He calls himself a wartime king and leaves all but military matters to trusted vassals. He is foul-mouthed and tiresome, but that seems to be his way of communicating.",
+  "kind": "desc"
+ },
+ {
+  "en": "As she won renown as an adventurer, Balgert spotted and hired her for the Training Hall. Polite and caring, she overuses sound effects like \"Zubabaan!\" in lessons, so she's a bit cryptic. Her sword pupils are easy to spot, as the habit rubs off; it has even leapt the Hall to a girl at a certain tavern.",
+  "kind": "desc"
+ },
+ {
+  "en": "A man who enjoys tea time in a corner of Wells Garden from sunrise to sunset. He is in fact the Executor of the Roscadil Empire. Without his approval, no one may meet Her Majesty. Every day, they say, adventurers and notables bearing sweets and tea form a long line to see him.",
+  "kind": "desc",
+  "note": "[JP] rendered 'Executor' to match Branon's title [JP] in wmap; [JP] = Her Majesty (Rianna, female)."
+ },
+ {
+  "en": "The gardener of Wells Garden. In his hands, plants grow lush and lovely as works of art. Lately he found a sapling that talks noisily. It begs to be planted soon, yet gripes endlessly: \"I want somewhere wetter,\" \"Not enough sun.\" Even he seems fed up.",
+  "kind": "desc"
+ },
+ {
+  "en": "The lead developer of the magic airship. Madulay holds that \"technology is meant to save people, not to kill them,\" and is not keen on building the airship, a warship. Yet, trusting Rianna, Madulay pours everything into finishing the airship again today.",
+  "kind": "desc",
+  "note": "Madulay: no gender; name repeated."
+ },
+ {
+  "en": "A swordmaster who mastered the secret arts. She honed her blade traveling from city to city, then one day suddenly lost interest in everything, gave up the sword and took up philosophy. She takes pupils on a whim, but her extreme hands-off style earns only bad press. Her most recent pupil is Milonya.",
+  "kind": "desc"
+ },
+ {
+  "en": "The only son of Gia of Kembeck's Shop. Excitement-loving Toner learned reading, writing and sums, then promptly begged Gia for a little shop in Roscadil. Word of the little shopkeeper spread fast, and before long the shop was one of Roscadil's famous stores, even stocking the knights' surplus gear.",
+  "kind": "desc",
+  "note": "Source says [JP] ('only son') for Toner; glossary leaves Toner's gender unset on purpose (wmap writes [JP]). 'only son' kept as the source's wording; no other pronouns."
+ },
+ {
+  "en": "A girl who appears when Toner's curiosity peaks and a rainbow of excitement envelops Toner's body. Peek into Toner's Armory at night after closing, and you may see the shopkeeper leaping about, swinging a rod and shouting \"Sanafeet Death Motion!\"",
+  "kind": "desc"
+ },
+ {
+  "en": "Empress of Roscadil. As if driven, she pushes mana furnace research, and lost half her body in a failed test. Barred from the site since, she won't listen. Unless she draws power from the furnace every two days, half her body won't move, they say. She loathes crude Balgert and the nature-loving, useless ogres.",
+  "kind": "desc",
+  "note": "[JP] = 'the nature-loving, useless ogres'. Compressed: 'Barred from the site since, she won't listen.'"
+ },
+ {
+  "en": "A girl swordfighter whose splendid beard is adorable. She tore it off Shimerief as a graduation keepsake. Something else was supposed to be given, but Milonya had her eye on that beard all along; she may even have become a pupil just for it. Smitten with Decoy at first sight, she can't hide her lust.",
+  "kind": "desc"
+ },
+ {
+  "en": "A magic puppet full of interest in humans ever since an alchemist made it. It pesters humans and dumps trouble on them. Its pranks sometimes go too far, but a real scolding leaves Decoy crestfallen, repenting in the shade of a tree. Maybe it's just lonely, after all. It finds Milonya physically repulsive.",
+  "kind": "desc",
+  "note": "Decoy: glossary gender unknown; 'it' (a magic puppet)."
+ },
+ {
+  "en": "An old goblin who runs a magic shop in Lumisthenes. Goblins and ogres form closed societies, so much knowledge stays buried within them. Seeing that as a loss of knowledge, Lotz came to Lumisthenes to put his own to use. Through his knowledge, people learn new sides of the land.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Temple of Rafa fortune-teller. Skilled, but so addicted to gambling she's called \"Lumisthenes' Disgrace.\" Up late at the casino, she often dozes off during day readings. Out of food money, she borrows from those around her, Mayleen first. She even owes Wattner some. Truly hopeless.",
+  "kind": "desc"
+ },
+ {
+  "en": "Lumisthenes has a temple to Rafa, so it is naturally seen as the land's center. When matters affect the land, it hosts the Central Council of rulers from all over, and the one who chairs it is Wattner, who puts the land first, and perhaps for that reason sees things a bit differently from the other rulers.",
+  "kind": "desc"
+ },
+ {
+  "en": "Keeper of the Stargazing Lighthouse, a celestial observatory. When young, she caused a ruckus after adventurers teased her; Wattner rebuked her, and she lost her real post. She won back trust over years, but came to hate adventurers for it, and resents that her job forces her to deal with them.",
+  "kind": "desc"
+ },
+ {
+  "en": "A woman called the Queen of Opera. Her fine voice began to shine in nursery school. In early childhood she was already called \"the Goddess's Voice\" and cheered everywhere. Her musical learning is said to be court-orchestra class. She owes her fine education, they say, to someone backing her from the shadows...",
+  "kind": "desc"
+ },
+ {
+  "en": "An ogre woman who raids food stalls in Teridon. She dines and dashes so brazenly that owner after owner is left stunned or gives up as if it were a passing shower (strictly, she doesn't even run, so she eats and strolls). But a nuisance has arisen to rebuke her: Molder.",
+  "kind": "desc"
+ },
+ {
+  "en": "Teridon's Captain of the Guard. Guards in name, nearly vigilantes in fact. With a strong sense of justice, Molder misses no wrong, however small, and shuns force, urging reform by talk. Sounds weak? Being lectured head-on, a finger pointed so close you can see its prints, is tough on the mind.",
+  "kind": "desc",
+  "note": "Molder: no gender; name repeated."
+ },
+ {
+  "en": "The chief who holds real power in Teridon. Not a king, but Barjeff's vast wealth controls most goods flowing in Teridon and across the land. So no nation can ignore Barjeff, who is often called to the continent's Central Council. Barjeff lives by the motto of love, forcing love on everyone met.",
+  "kind": "desc",
+  "note": "Barjeff: no gender; name repeated."
+ },
+ {
+  "en": "A werebeast girl with elephant traits who works at the Love Jacuzzi. Like an elephant, she can scoop up water and shower it from her trunk. Teridon's chief Barjeff dotes on her, but to her, Barjeff is just a pushover \"uncle\" who gives her pocket money.",
+  "kind": "desc",
+  "note": "[JP] rendered as a quoted 'uncle' (the glossary keeps Barjeff's gender unknown)."
+ },
+ {
+  "en": "A Devilish woman. Despite her alluring body, Yuna is a pure, modest woman. She always gently reins in the bold Nora. Their exchanges are popular with some customers.",
+  "kind": "desc"
+ },
+ {
+  "en": "One of the deputy librarians, reluctantly left minding the Elminage System on Hisbert's orders. He has no interest in the librarian's overreach, Hevayur's rise or the missing Zoni. His steady work has some calling him Hevayur's rival.",
+  "kind": "desc",
+  "note": "Aznand male (glossary)."
+ },
+ {
+  "en": "A vampire who counsels people burdened with feelings beyond saving. She talks deeply with those who wish to die, and only if they still wish it does she quietly end their lives with her fangs. Her fangs hold a strange power: lives taken by her bite are said never to stray from the path of souls.",
+  "kind": "desc"
+ },
+ {
+  "en": "A girl in Perpeco Village. For some reason she was abandoned in a basket near the forest with an Arob, and they were raised like siblings. Her big brother the Arob (or rather, Anib) understands human speech and bravely defended the village when monsters attacked. Bona is proud of great Anib.",
+  "kind": "desc"
+ },
+ {
+  "en": "A werebeast thief. A life of self-reliance gave Brassel very strong willpower, but Brassel has no patience for others' softness, which makes Brassel a little hard to approach. Brassel formed a thieves' gang and leads the other thieves as its boss.",
+  "kind": "desc",
+  "note": "Brassel: no gender; name repeated."
+ },
+ {
+  "en": "The trusty boss of the ogres and goblins. Not the sharpest mind, but Fulgrant's flashes of inspiration are not to be underestimated. The goblins refine those flashes, and the ogres give them form. That, it seems, is how Ogre Bay runs.",
+  "kind": "desc",
+  "note": "Fulgrant: no pronoun."
+ },
+ {
+  "en": "Daughter of the wicked mage who raided an Ice Magic Seal temple somewhere; a cursed child of the mage's lustful assault on a spirit. Heir to both the evil, mighty mage and the spirit, the land's blessing, she became a rare mage. As a child she had no place and stayed at Deltoi, and knows its concealing art.",
+  "kind": "desc",
+  "note": "This entry under [JP] describes Zanu's DAUGHTER ([JP]), who was left at Deltoi (cf. row 16). in chap slice_021 Zaalhaut says 'I am Zaalhaut, the child the wicked mage Zanu left behind', so this may be Zaalhaut's backstory; worth a glossary check on Zaalhaut's gender. [JP] = 'Ice Magic Seal'."
+ },
+ {
+  "en": "A Demon Duke called Radiance, who rose from the wasteland seeking true justice. Though a Demon Duke, she holds the Radiant Scales, an Argument for choosing librarians. She is said to have some tie to the current librarian Hisbert, and her moves are watched closely.",
+  "kind": "desc",
+  "note": "[JP] = 'Radiance' (MONSTER3). Hilde female (glossary)."
+ },
+ {
+  "en": "A mysterious woman traveling the land. Her origins are unknown, and much about her is strange, such as never parting with her Mirage Cloak. Who could she be?",
+  "kind": "desc"
+ },
+ {
+  "en": "The fairy king who rules Nertowayu, which broke away from Nertowa in the Castle of the Wind. Meem seems to know Rafa the Sun Spirit and Yorfa the Moonlight Spirit well, but Meem's lips stay firmly sealed.",
+  "kind": "desc"
+ },
+ {
+  "en": "A dragon living since ancient times in the old cloud castle called the Castle of the Wind. Very long-lived, Agintaitus watched with Zaalhaut as Rafa the Sun Spirit ascended to the Palace of the Sun. Agintaitus seems to know Hisbert...?",
+  "kind": "desc"
+ },
+ {
+  "en": "An info broker who trades all over while gathering information. Hanoi misses no tale, however trivial; it's no stretch to call that store of info the continent's best. Hanoi's home is said to be in Perpeco Village, but Hanoi rarely returns. Inside, papers of info gathered so far are stacked to the ceiling.",
+  "kind": "desc",
+  "note": "Hanoi: no gender; name repeated."
+ }
+]

@@ -1,0 +1,358 @@
+[
+ {
+  "en": "\"...By the way, that brat's... No, I'll find the kid myself.{w}...It's a matter of settling up. This is payment for the trouble.{w}Only one parent, same as me, and yet nothing like me...\"{w}{p}\"But don't think I'm going straight now.{w}I'm a thief till the day I die. That's who I am.{w}So I'll settle up with loot from a job, too.\"{w}{p}\"And next time we meet, I'll kill you lot too.{w}Don't come to the hideout again.\"{w}",
+  "kind": "msg",
+  "note": "Brassel keeps the Soleil Stone (row 238) as amends for the blond kid from Roscadil (rows 229-233). \"the brat\"/\"the kid\" kept gender-neutral. \"kataoya da tte no ni, ore to wa oochigai\" read with row 233: the kid also has one parent, yet turned out nothing like Brassel (\"same as me\" is an inference from that contrast -- flag)."
+ },
+ {
+  "en": "Certain NPCs join your adventure in the summoned-monster slot.{w}{p}If a similar NPC is already with you, another one cannot be added.{w}{p}Either finish the event of the NPC currently with you, or disband your party once at the tavern.{w}",
+  "kind": "msg",
+  "note": "System help text."
+ },
+ {
+  "en": "\"Oh, it's you guys again!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"How's it going?\"",
+  "kind": "data",
+  "note": "Menu choice."
+ },
+ {
+  "en": "Talk",
+  "kind": "data",
+  "note": "Menu choice."
+ },
+ {
+  "en": "\"Electra, come on, let's get going!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wait, I haven't introduced everyone yet.{w}This is Mig.{w}A unicorn, as you can see.\"{w}{p}\"Mig and I have been together since birth,{w}and Mig travels with me like this.{w}And...........\"{w}",
+  "kind": "msg",
+  "note": "Mig's gender not in glossary: repeated the name instead of a pronoun. \"umareta toki kara\" is unclear whose birth -- \"since birth\" keeps it open. Trailing \"And...\" is cut off by Yamuru."
+ },
+ {
+  "en": "\"Yamuru. I'm a bounty hunter.{w}I hear the Proclamation pays a pretty good sum,{w}so I've been let in on this party.\"{w}",
+  "kind": "msg",
+  "note": "Source has the variant spelling of the Proclamation term; used glossary \"the Proclamation\"."
+ },
+ {
+  "en": "\"I'm Maniron~! Nice ta meetcha~!\"{w}",
+  "kind": "msg",
+  "note": "Childish sing-song voice."
+ },
+ {
+  "en": "\"My name is Korbitz.{w}We may end up relying on each other from here on,{w}so let's look out for one another, eh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Mokero",
+  "kind": "name",
+  "note": "Name box."
+ },
+ {
+  "en": "\"The name's Mokero, it is!{w}The Miss has done a whole heap for me,{w}and I'll be followin' the Miss for the rest o' my days!\"{w}",
+  "kind": "msg",
+  "note": "\"Ojou\" rendered \"the Miss\" (Mokero's fixed address for Electra). The source word itself is feminine; this is a translation of the title, not an inferred gender, but flagged since Electra is \"unknown\" in the glossary. Mokero's humble-roughneck \"asshi ... yasu\" speech -> dropped g's and \"it is!/I will!\" tags."
+ },
+ {
+  "en": "\"Mokero, I keep telling you,\nyou don't have to be so formal...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Miss! Don't go sayin' such cold things!{w}The debt I owe you, Miss, is............\"{w}",
+  "kind": "msg",
+  "note": "Trails off; cut short by Korbitz."
+ },
+ {
+  "en": "\"Electra's a kind child, you see,{w}took us in, just like this.{w}So please, all of you, be good to Electra.\"{w}",
+  "kind": "msg",
+  "note": "Repeated the name instead of a pronoun."
+ },
+ {
+  "en": "\"Ugh, honestly! You're all exaggerating!{w}If someone's in trouble, I help them.{w}",
+  "kind": "msg",
+  "note": "Unclosed quote as in source; row 256 re-shows this text inside {0E}..{0F} and finishes it."
+ },
+ {
+  "en": "{0E}\"Ugh, honestly! You're all exaggerating!\nIf someone's in trouble, I help them.{0F}\nThat's only natural, right?\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} part mirrors row 255 word for word."
+ },
+ {
+  "en": "\"Me too, y'know~ Electra once~\"{w}",
+  "kind": "msg",
+  "note": "Maniron starts to say Electra helped them too and is cut off by Electra (row 258). Kept as a fragment."
+ },
+ {
+  "en": "\"Okay, okay, I get it!{w}Anyway, that's how it is, so be nice to all of us, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"By the way... yours looks\nlike a pretty decent party.\"{w}",
+  "kind": "msg",
+  "note": "Yamuru to the player party."
+ },
+ {
+  "en": "\"We might end up competing with each other in all kinds of ways.{w}What do you say? How about you lot\nand us have a little test of skill?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, Yamuru!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"These are the people who'll be our rivals from here on.{w}We need to see what they can do now, don't we?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, that's...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Besides, you need the bounty money, right?{w}Or was this something you started half-heartedly?\"{w}",
+  "kind": "msg",
+  "note": "Yamuru to Electra."
+ },
+ {
+  "en": "\"Electra, what'll we do?\nIf you're going to fight, I'll help, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"............Okay, I've made up my mind!\"{w}{p}\"You guys, let's have a match!{w}All right, everyone, let's go!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ooh~ I'm gonna lop off some heads~!\"{w}",
+  "kind": "msg",
+  "note": "Maniron (ninja-style beheading joke, cf. slice_05 rows 329-330)."
+ },
+ {
+  "en": "Leave",
+  "kind": "data",
+  "note": "Menu choice (30 dupes)."
+ },
+ {
+  "en": "You sent Electra's party packing.{w}",
+  "kind": "msg",
+  "note": "Narration after the battle (30 dupes); subject = player party."
+ },
+ {
+  "en": "\"Ow ow ow...{w}You guys are amazing...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not bad at all.{w}Still, Electra,{w}your alchemy spells are as half-baked as ever.\"{w}",
+  "kind": "msg",
+  "note": "Added \"Electra\" as the addressee: Mig answers this at row 274 by reassuring Electra."
+ },
+ {
+  "en": "\"I wanted a Bulafei~~!\"{w}",
+  "kind": "msg",
+  "note": "NEW NAME: Bluffy = alchemy spell (SPELL.CSV row 64: hides one ally from enemy targeting). Maniron wanted Electra to cast it on them; Electra's reply (row 273) settles it."
+ },
+ {
+  "en": "\"Th-then go hide yourself!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's okay, Electra!\nYour alchemy spells will get better from here on!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Th... thank you, Mig...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's all right,{w}there's no need to rush.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll be lendin' a hand too, I will!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Everyone... thank you.{w}Okay, so that's how it is,{w}next time I'll be able to do a lot more!\"{w}{p}\"See you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Electra and the others went on their way.{w}",
+  "kind": "msg",
+  "note": "Narration (30 dupes)."
+ },
+ {
+  "en": "\"............\"",
+  "kind": "data",
+  "note": "Menu choice (silent option)."
+ },
+ {
+  "en": "Talk to them",
+  "kind": "data",
+  "note": "Menu choice (24 dupes)."
+ },
+ {
+  "en": "\"Look, alchemy spells and Rangers go well together.{w}But if your success rate's low, it's pointless.\"{w}",
+  "kind": "msg",
+  "note": "NEW TERM: kariudo (class) -> \"Hunter\"; check against the class list once UI is translated (an earlier English Elminage release may have used \"Ranger\")."
+ },
+ {
+  "en": "\"I know that already!{w}That's why I'm studying like this, okay!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't be so hard on the Miss!{w}I'll be pitchin' in too, I will!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Maniron's gonna try hard too~!\"{w}",
+  "kind": "msg",
+  "note": "Maniron refers to self by name in the source."
+ },
+ {
+  "en": "\"That's right, Electra!{w}You mustn't live a life where you bend your convictions!{w}You can still do it! Hang in there!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're right... I'll try a little harder!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's no need to hurry, just go at your own pace...{w}",
+  "kind": "msg",
+  "note": "Unclosed quote as in source; row 289 re-shows it."
+ },
+ {
+  "en": "{0E}\"There's no need to hurry, just go at your own pace...{0F}\nOh?\"{w}",
+  "kind": "msg",
+  "note": "Korbitz notices the player party."
+ },
+ {
+  "en": "\"Oh, it's you guys! What a coincidence!{w}",
+  "kind": "msg",
+  "note": "Unclosed quote as in source; row 291 re-shows it."
+ },
+ {
+  "en": "{0E}\"Oh, it's you guys! What a coincidence!{0F}\nHow's it going? Things are going great for us!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Come to think of it, you got the better of us last time.{w}It won't go that way this time, got it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yamuru, you're more hot-blooded than you look.{w}Didn't you have a rule about never doing anything that doesn't pay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's something I want to check...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll be showin' what I'm made of too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Chop-chop, off with their heads~~~!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hm? Fine by me, but...?{w}",
+  "kind": "msg",
+  "note": "Unclosed quote as in source; row 298 re-shows it (source drops the \"?\" there, mirrored)."
+ },
+ {
+  "en": "{0E}\"Hm? Fine by me, but...{0F}\nOkay, everyone, let's go!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Just as I thought.\"{w}",
+  "kind": "msg",
+  "note": "What Yamuru wanted to check (row 294) is never stated here; left vague."
+ },
+ {
+  "en": "\"What's wrong?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, it's nothing.{w}",
+  "kind": "msg",
+  "note": "Unclosed quote as in source; row 302 re-shows it."
+ },
+ {
+  "en": "{0E}\"No, it's nothing.{0F}\nYou lot look like a pretty good party.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, it's parties like ours, with a unicorn,\nthat are the rare ones, y'know.\"{w}",
+  "kind": "msg",
+  "note": "Maniron cuts in on Yamuru's praise of the player party: having a unicorn makes their own party the special one."
+ },
+ {
+  "en": "\"Having me around is proof of Innocence, after all!\"{w}",
+  "kind": "msg",
+  "note": "\"Innocent\" capitalised to keep the link with the Innocent series / never-changed-class idea (pilot row 33; Mig taunts Yamuru as a class-changer in slice_05 row 343). Whose innocence is left open, as in the source."
+ },
+ {
+  "en": "\"Yeah, yeah, you're absolutely right.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Miss! It's about time we...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're right.{w}",
+  "kind": "msg",
+  "note": "Unclosed quote as in source; row 308 re-shows it."
+ },
+ {
+  "en": "{0E}\"You're right.{0F}\nWe won't lose next time, you hear? See you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hmm...\"",
+  "kind": "data",
+  "note": "Menu choice."
+ },
+ {
+  "en": "\"But I really do need to study...{w}Even you can read and write, right, Yamuru?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's a harsh way to put it.\nWhat good is a bounty hunter who can't read a wanted poster?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I can't read, but\nit's never been a problem, y'know?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll teach you, then.{w}Perhaps we'll hold a little study session one of these days, hm?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I hate studyyying...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But what about textbooks... and the money for them?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, we'll manage somehow.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Electra, Electra, look!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh! You again, in a place like this!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We must share quite the bond of fate, eh?\"{w}",
+  "kind": "msg"
+ }
+]

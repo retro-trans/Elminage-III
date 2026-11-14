@@ -1,0 +1,361 @@
+[
+ {
+  "en": "Gimmick data has been updated. Please delete the save data.",
+  "kind": "ui",
+  "note": "Debug/dev warning: dungeon gimmick (trap/mechanism) data changed, old saves are invalid. 'Gimmick' kept as dev jargon."
+ },
+ {
+  "en": "Floor Data Analysis",
+  "kind": "ui",
+  "note": "Debug menu (rows 514-553 are the debug menu: labels, then one help line per item)."
+ },
+ {
+  "en": "Map Flag Settings",
+  "kind": "ui"
+ },
+ {
+  "en": "Game Flag Settings",
+  "kind": "ui"
+ },
+ {
+  "en": "Game Item Flag Settings",
+  "kind": "ui"
+ },
+ {
+  "en": "Party Status Settings",
+  "kind": "ui"
+ },
+ {
+  "en": "Compass Target Info",
+  "kind": "ui",
+  "note": "Compass search targets (cf. rows 568-581)."
+ },
+ {
+  "en": "Change Floor",
+  "kind": "ui",
+  "note": "Lit. 'moving floor levels' (floor warp)."
+ },
+ {
+  "en": "Oland's Shop Discovered Item Settings",
+  "kind": "ui",
+  "note": "NEW TERM: Oland's Shop (romanized; patterned on glossary 'Kembeck's Shop'). Only seen in debug strings and a TEST script (SCDWMAP)."
+ },
+ {
+  "en": "Oland's Shop Item Settings",
+  "kind": "ui"
+ },
+ {
+  "en": "Summoner Contract Settings",
+  "kind": "ui",
+  "note": "Source uses the variant kanji for Summoner; same class, glossary/slice_01 'Summoner'."
+ },
+ {
+  "en": "Fame-Related Settings",
+  "kind": "ui",
+  "note": "Glossary: Fame."
+ },
+ {
+  "en": "Floor Master Info",
+  "kind": "ui",
+  "note": "Glossary: Floor Master."
+ },
+ {
+  "en": "Force Chest Trap Setting",
+  "kind": "ui"
+ },
+ {
+  "en": "Move to a different floor",
+  "kind": "ui",
+  "note": "Help line for row 520. Help lines 527-553 have no final period, like the source."
+ },
+ {
+  "en": "Set the map's flag info",
+  "kind": "ui"
+ },
+ {
+  "en": "Set the game flag info",
+  "kind": "ui"
+ },
+ {
+  "en": "Set the item flag info",
+  "kind": "ui"
+ },
+ {
+  "en": "Show info on the compass search targets",
+  "kind": "ui"
+ },
+ {
+  "en": "Settings for items found at Oland's Shop",
+  "kind": "ui",
+  "note": "Hakken-zumi = already discovered."
+ },
+ {
+  "en": "Settings for Oland's Shop items",
+  "kind": "ui"
+ },
+ {
+  "en": "Summoner contract settings",
+  "kind": "ui"
+ },
+ {
+  "en": "Fame-related settings",
+  "kind": "ui"
+ },
+ {
+  "en": "Turn on all footprint flags in the current dungeon",
+  "kind": "ui",
+  "note": "Ashiato (footprints) = the automap's visited-square marks; rendered 'footprint' throughout rows 536-549."
+ },
+ {
+  "en": "Force the window to close",
+  "kind": "ui"
+ },
+ {
+  "en": "Force a fade-in",
+  "kind": "ui"
+ },
+ {
+  "en": "Analyze the floor data",
+  "kind": "ui"
+ },
+ {
+  "en": "Clear the fixed-enemy flag table",
+  "kind": "ui",
+  "note": "Fixed enemies = placed (non-random) encounters."
+ },
+ {
+  "en": "Clear the free-memory monitor's peak",
+  "kind": "ui"
+ },
+ {
+  "en": "Mirror-copy the footprints of Jesbayler",
+  "kind": "ui",
+  "note": "NEW TERM: Jesbayler (romanized; not in glossary or story text found; probably a dungeon/area name). Hanten copy = flipped/mirrored copy."
+ },
+ {
+  "en": "Set VICTORY_COUNT to 2048",
+  "kind": "ui",
+  "note": "VICTORY_COUNT is a program identifier; kept as is."
+ },
+ {
+  "en": "Return to the starting point",
+  "kind": "ui"
+ },
+ {
+  "en": "Toggle the timer state",
+  "kind": "ui"
+ },
+ {
+  "en": "Force the timer to 0",
+  "kind": "ui",
+  "note": "Full-width 0 -> ASCII."
+ },
+ {
+  "en": "Copy the footprint flags to the history",
+  "kind": "ui"
+ },
+ {
+  "en": "Clear the footprint flag history",
+  "kind": "ui"
+ },
+ {
+  "en": "Clear the footprint flags",
+  "kind": "ui"
+ },
+ {
+  "en": "Make an item broken",
+  "kind": "ui",
+  "note": "Kowa-re joutai = broken state."
+ },
+ {
+  "en": "Show Floor Master info",
+  "kind": "ui"
+ },
+ {
+  "en": "Force-set a treasure chest's trap",
+  "kind": "ui"
+ },
+ {
+  "en": "Show the Dungeon Load treasure info table",
+  "kind": "ui",
+  "note": "NEW TERM / CONFLICT: 'Dungeon Road' (dungeon roodo). chap slice_012 rows 940-941 used 'dungeon load data'; here (and row 587 'not a Dungeon Road floor') it names a kind of dungeon/floor, so 'road' reads better. Could also be 'Dungeon Lord'. Unverified; needs one decision corpus-wide."
+ },
+ {
+  "en": "The floor data is normal.",
+  "kind": "ui"
+ },
+ {
+  "en": "The floor data and map data don't match.",
+  "kind": "ui",
+  "note": "Lit. 'there are differences between the floor data and the map data'."
+ },
+ {
+  "en": "Slp",
+  "kind": "ui",
+  "note": "One-kanji status abbreviation (sleep). Status set: Slp Psn Par Sil Cnf Chm Stn Crs Dead Ash Fear. Strings sit in 4-byte-stride tables (eb@0896b960.., eb@0896fb94..); if ever written in place the limit is 3 bytes: fallback Ded/Fer for Dead/Fear. Japanese is 2 columns wide; display width unchecked."
+ },
+ {
+  "en": "Psn",
+  "kind": "ui",
+  "note": "Status abbreviation (poison); see row 556."
+ },
+ {
+  "en": "Par",
+  "kind": "ui",
+  "note": "Status abbreviation (paralysis); see row 556."
+ },
+ {
+  "en": "Sil",
+  "kind": "ui",
+  "note": "Status abbreviation (silence); see row 556."
+ },
+ {
+  "en": "Cnf",
+  "kind": "ui",
+  "note": "Status abbreviation (confusion); see row 556."
+ },
+ {
+  "en": "Chm",
+  "kind": "ui",
+  "note": "Status abbreviation (charm); see row 556."
+ },
+ {
+  "en": "Stn",
+  "kind": "ui",
+  "note": "Status abbreviation (stone/petrified); see row 556."
+ },
+ {
+  "en": "Crs",
+  "kind": "ui",
+  "note": "Status abbreviation (cursed); see row 556."
+ },
+ {
+  "en": "Dead",
+  "kind": "ui",
+  "note": "Status abbreviation (dead); see row 556."
+ },
+ {
+  "en": "Ash",
+  "kind": "ui",
+  "note": "Status abbreviation (ash); see row 556."
+ },
+ {
+  "en": "Fear",
+  "kind": "ui",
+  "note": "Status abbreviation (fear); see row 556."
+ },
+ {
+  "en": "No contract",
+  "kind": "ui",
+  "note": "Summoner contract slot state (mi-keiyaku = not contracted)."
+ },
+ {
+  "en": "Hemaid Red Stone",
+  "kind": "ui",
+  "note": "Compass target names 568-578 (two copies each), spelled as in chap/slice_001 rows 4-13 and wmap slice_01 row 64. Note: some wmap dialogue says 'the Hemaid Red Stone'."
+ },
+ {
+  "en": "Blue Menon",
+  "kind": "ui"
+ },
+ {
+  "en": "Selcoa Paint",
+  "kind": "ui"
+ },
+ {
+  "en": "Celestial Readings",
+  "kind": "ui"
+ },
+ {
+  "en": "Wing Soul",
+  "kind": "ui"
+ },
+ {
+  "en": "Old Man's Plans",
+  "kind": "ui",
+  "note": "As in chap/slice_001 row 8 (Fulgrant's father's cannon blueprints)."
+ },
+ {
+  "en": "Cannon Tools",
+  "kind": "ui"
+ },
+ {
+  "en": "Seasoned Snacks",
+  "kind": "ui"
+ },
+ {
+  "en": "Alton's Treasure",
+  "kind": "ui"
+ },
+ {
+  "en": "Behiem Royal Tomb",
+  "kind": "ui"
+ },
+ {
+  "en": "Gamea House Legacy",
+  "kind": "ui"
+ },
+ {
+  "en": "Jewel Ring Search",
+  "kind": "ui",
+  "note": "NEW TERM: Jewel Ring (the rings sought in the story). Compass search category."
+ },
+ {
+  "en": "Key Item Search",
+  "kind": "ui"
+ },
+ {
+  "en": "Altar Search",
+  "kind": "ui"
+ },
+ {
+  "en": "Current compass: %s",
+  "kind": "ui",
+  "note": "Full-width space after the label -> ': '. %s = current compass target."
+ },
+ {
+  "en": "Trap Type",
+  "kind": "ui",
+  "note": "Debug chest-trap setter (rows 583-586)."
+ },
+ {
+  "en": "Normal",
+  "kind": "ui"
+ },
+ {
+  "en": "Medium",
+  "kind": "ui",
+  "note": "Chuukyuu = intermediate tier; 'Medium' keeps it short."
+ },
+ {
+  "en": "Rare",
+  "kind": "ui"
+ },
+ {
+  "en": "This isn't a Dungeon Load floor.",
+  "kind": "ui",
+  "note": "See row 553 on 'Dungeon Road'."
+ },
+ {
+  "en": "Have you read the disclaimer and confirmed there are no problems?",
+  "kind": "ui",
+  "note": "Probably shown before enabling the debug functions."
+ },
+ {
+  "en": "It has no effect at all",
+  "kind": "ui",
+  "note": "Battle results 589-592 (subjectless like the neighbouring slice_08 rows; 'It' = the attack/spell). The pairs differ only in aspect (kikanai vs kiite inai); rendered 'has no effect' vs 'isn't working', which one belongs to which side is unverified."
+ },
+ {
+  "en": "It isn't working at all",
+  "kind": "ui"
+ },
+ {
+  "en": "It isn't very effective",
+  "kind": "ui"
+ },
+ {
+  "en": "It isn't having much effect",
+  "kind": "ui"
+ }
+]

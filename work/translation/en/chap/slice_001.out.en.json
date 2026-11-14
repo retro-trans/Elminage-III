@@ -1,0 +1,401 @@
+[
+ {
+  "en": "There's no one here.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_07 row 509; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 1; reused the reviewed English after re-checking against the source. Prior note: [JP] rendered \"Temple of Rafa\" (not in glossary; glossary uses \"Rust Temple\" for [JP]). Passive kept: the buyer is the party, but the notice is impersonal system text."
+ },
+ {
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "note": "Same source string as pilot_all.json row 2; reused the reviewed English after re-checking against the source. Prior note: Full-width spaces around the number insert dropped (ASCII only); single spaces kept."
+ },
+ {
+  "en": "Green Plakio",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 3; reused the reviewed English after re-checking against the source. Prior note: Romanized; meaning of [JP] unknown (not [JP]/brachio). Likely a clue/treasure name inserted into row 1."
+ },
+ {
+  "en": "Blue Menon",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 4; reused the reviewed English after re-checking against the source. Prior note: Romanized [JP]; split as Blue + Menon to pair with Green Plakio. Could also be read \"Blumenon\"."
+ },
+ {
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 5; reused the reviewed English after re-checking against the source. Prior note: [JP] romanized \"Selcoa\"."
+ },
+ {
+  "en": "Celestial Readings",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 6; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Wing Soul",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 7; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 8; reused the reviewed English after re-checking against the source. Prior note: [JP] could be a specific NPC nicknamed \"the old man\"/\"Pop\"; kept generic."
+ },
+ {
+  "en": "Cannon Tools",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 9; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 10; reused the reviewed English after re-checking against the source. Prior note: [JP] = expert/veteran; \"Seasoned\" keeps that sense (and fits food)."
+ },
+ {
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 11; reused the reviewed English after re-checking against the source. Prior note: [JP] romanized \"Alton\"."
+ },
+ {
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 12; reused the reviewed English after re-checking against the source. Prior note: [JP] romanized \"Behiem\"."
+ },
+ {
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 13; reused the reviewed English after re-checking against the source. Prior note: [JP] romanized \"Gamea\"."
+ },
+ {
+  "en": "Obtained {12:0003:0018}.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 14; reused the reviewed English after re-checking against the source. Prior note: Full-width space after the item insert dropped."
+ },
+ {
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 15; pilot_all.json row 16; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Hanoi",
+  "kind": "name",
+  "note": "Same source string as pilot_all.json row 19; pilot_all.json row 23; pilot_all.json row 26 (+52 more); reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Oh, so you guys came too?{w}Me? Oh, this and that. Work, you know.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 20; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Need something from me?",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 21; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "About equipment",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 22; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"By the way, have you got your gear sorted out properly?{w}Items don't do a thing unless you equip them.\"{w}{p}\"If you've got a mage with you, I'd say you need to equip the Magic Seals, or they won't have any effect.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 24; reused the reviewed English after re-checking against the source. Prior note: [JP] rendered \"mage\" (class name not in glossary; check against the class UI terms). [JP] rendered as a hedge."
+ },
+ {
+  "en": "Recommended spots",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 25; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Recommended spots?{w}Well, there's Abi, west of the forest, I guess.\"{w}{p}\"Who's Abi, you ask?{w}Well, you'll see once you meet. Yep.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 27; reused the reviewed English after re-checking against the source. Prior note: Abi gender unknown: no pronoun used. Source [JP] is a typo for [JP] (meet). [JP] read as \"west of the forest\"; could also mean the western part of the forest."
+ },
+ {
+  "en": "About dangers",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 28; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Watch out for Floor Masters.{w}The ones out for blood are usually red. If you spot a red shadow, be careful.\"{w}{p}\"As long as you don't attack a Floor Master first or get in its way, it won't come to a fight.\"{w}{p}\"But if you mean to block its path, you'll earn the wrath of the floor's boss, so you'd better be prepared for what comes.\"{w}{p}\"Some of them are a real pain and'll chase you, but the rest are all gentle types who walk a set route.\"{w}{p}\"Oh, and even if it does come to a fight, don't give up, okay?{w}If you're lucky, you can get away.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 30; reused the reviewed English after re-checking against the source. Prior note: [JP] (\"all of them are gentle\") contradicts the preceding \"some chase you\"; rendered \"the rest are all\" to keep both clauses coherent. Floor Masters referred to as \"it\" (monsters)."
+ },
+ {
+  "en": "Other info",
+  "kind": "data",
+  "note": "Same source string as pilot_all.json row 31; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Hmm, nothing in particular, but...\"{w}{p}\"Ever heard of the Innocent series?{w}There's a sword, a shield and a cloak.\"{w}{p}\"They're pretty powerful, but only someone who's never changed class can equip them.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 33; reused the reviewed English after re-checking against the source. Prior note: [JP] = class change."
+ },
+ {
+  "en": "\"Well then, take care.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 35; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Heeey!\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 37; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Hanoi called out to you.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 38; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"You guys...{w}Are you actually making progress on the Proclamation?\"{w}{p}\"I dunno, man.{w}From the outside, it doesn't look like it's going too well.\"{w}{p}\"If you're stuck, it's farming. Nothing else for it.{w}Why not get Chirocco to share some saplings and try growing them in Perpeco?\"{w}{p}\"Maybe some way to break the deadlock will come to you, huh?\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 40; reused the reviewed English after re-checking against the source. Prior note: Chirocco gender unknown: no pronoun used. \"I dunno, man\" for [JP] (vague dissatisfied muttering)."
+ },
+ {
+  "en": "\"Hey, long time no see!\"{w}{p}\"I hear you've been doing great things. Something about taking back the Palace of the Sun?{w}Knowing I helped out a little makes me proud.{w}Keep the business coming my way!\"{w}{p}\"Oh, that reminds me. I had kind of a strange experience.{w}Just as I reached the Leanmakana Mountains, I got caught in this massive storm.\"{w}{p}\"I mean, look at me. I'm pretty slim, right?{w}I got blown clean away.\"{w}{p}\"Even I figured I was dead for sure, but then, believe it or not...\"{w}{p}\"I was in a castle floating in the sky.\"{w}{p}\"And there I met a woman wearing a hood.\"{w}{p}\"I didn't ask her name, but she told me all kinds of interesting stories.\"{w}{p}\"Why don't you go and meet her too, if you get the chance?\"{w}{p}\"You might get something useful out of it.\"{w}{p}\"Well, I'll be going now. See you.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 42; reused the reviewed English after re-checking against the source. Prior note: [JP] = slim (Japanese sense), not clever. [JP] = merchant asking for continued patronage. Hanoi switches first-person pronoun from [JP] to [JP] in the last line and says [JP] instead of [JP]; no English equivalent, flagged in report. \"she told me\" for [JP] (I got to hear) -- the hooded woman is the only source in the scene."
+ },
+ {
+  "en": "When you stepped out into the square, you saw Hanoi deep in thought.{w}{p}Hanoi noticed you as well, shouldered a backpack and came over.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 43; reused the reviewed English after re-checking against the source. Prior note: Narration in past tense to match rows 48/51. Hanoi gender unknown in glossary: name repeated instead of a pronoun."
+ },
+ {
+  "en": "\"Looks like you're still alive.\nGood to see you're so hard to kill. Yep, yep.{w}Anyway...\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 45; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Ever heard the rumors about the Mine Trapper?{w}A weird thing with a squid for a head.\"{w}{p}\"It looks ridiculous, but apparently it's not to be underestimated. People in the know are pretty scared of it.\"{w}{p}\"I hadn't heard anything about it for a while, but just lately the sightings have started piling up.\"{w}{p}\"...Ah! Don't get the wrong idea, okay?\nI'm not asking you to go hunt it down.{w}I'm not expecting that much from you, so relax.\"{w}{p}\"I'm just saying we should both be careful out there.{w}Well then...\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 47; reused the reviewed English after re-checking against the source. Prior note: \"out there\" added for natural rhythm only; no new information."
+ },
+ {
+  "en": "Hanoi left.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 48; pilot_all.json row 58; pilot_all.json row 180; reused the reviewed English after re-checking against the source. Prior note: Avoided a pronoun for Hanoi (glossary gender unknown)."
+ },
+ {
+  "en": "???",
+  "kind": "name",
+  "note": "Same source string as pilot_all.json row 49; pilot_all.json row 64; pilot_all.json row 81 (+15 more); reused the reviewed English after re-checking against the source. Prior note: Speaker is Electra (named at row 262); ??? kept because the game hides the name here."
+ },
+ {
+  "en": "\"Ah, there you are... Heeey!\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 50; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "Back in town, you were stopped by a familiar voice.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 51; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Yo. Adventuring going well?{w}I've got a soft spot for you guys, so don't go dying in a ditch on me, okay?\"{w}{p}\"...Though honestly, I'd rather you had a soft spot for me.{w}Ah well, I won't expect much from you lot.\"{w}{p}\"By the way, I'm holding a package for you.{w}Hold out your hands.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 53; reused the reviewed English after re-checking against the source. Prior note: [JP] used twice as a pun: Hanoi favours the party; Hanoi (a merchant) wants the party to favour/patronize him. \"soft spot\" repeated to keep the parallel; the trade sense surfaces in row 55 ([JP])."
+ },
+ {
+  "en": "\"Hey, that looks like pretty good stuff.{w}With this, maybe you'll turn into adventurers who actually earn a bit. I'd appreciate that... business-wise.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 55; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Well, see you around.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 57; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"Oh, and this too.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 60; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "\"...Huh? You can't carry it?\"{w}{p}\"You're still pretty green, huh?{w}You never know what shape treasure'll come in. Always keep some room in your pack.\"{w}{p}\"Can't be helped. I'll sell it to Gia's place, so buy it back if you want it.\"{w}{p}\"Don't go selling other people's stuff without asking, you say?{w}Ha ha, don't worry about it. It's no big deal. Yep.\"{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 62; reused the reviewed English after re-checking against the source. Prior note: [JP] = \"Gia's place\"; row 63 places the item at Kembeck's Shop, so Gia works there. Gia gender unknown: no pronoun."
+ },
+ {
+  "en": "{12:0003:0018} is now in stock at Kembeck's Shop.{w}",
+  "kind": "msg",
+  "note": "Same source string as pilot_all.json row 63; reused the reviewed English after re-checking against the source. Prior note: Full-width space after insert and the \\n dropped; word wrap handles it."
+ },
+ {
+  "en": "There is a statue of a young man, carved from marble.{w}The brass nameplate on its pedestal reads \"Abi\".{w}",
+  "kind": "msg",
+  "note": "Abi gender: glossary unknown; the statue is described as a young man (seinen), translated as written, no pronoun added. Present tense for a standing description (cf. \"There's no one here.\")."
+ },
+ {
+  "en": "Touch it?",
+  "kind": "data",
+  "note": "Choice prompt (data row); short form. Fuller: \"Will you touch it?\""
+ },
+ {
+  "en": "You touched it gently, and the statue suddenly began to move!{w}",
+  "kind": "msg",
+  "note": "Past tense to match the pilot's event narration (\"Hanoi noticed you...\")."
+ },
+ {
+  "en": "Abi",
+  "kind": "name"
+ },
+ {
+  "en": "\n{0E}                    * Hello! *{0F}{w}",
+  "kind": "msg",
+  "note": "Centred banner: full-width padding replaced by leading ASCII spaces only (20 spaces, ~50-char line), as in wmap slice_07 rows 483-485. Here {0E}..{0F} wraps a fresh banner, not a re-display of the previous row. Check rendering of leading spaces."
+ },
+ {
+  "en": "Yes",
+  "kind": "data",
+  "note": "Same source string as slice_01 row 38; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "No",
+  "kind": "data",
+  "note": "Same source string as slice_01 row 39; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "note": "Same source string as slice_01 row 9; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "[Key Item]\nObtained Ninja Fiend's Helm.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 10; reused the reviewed English after re-checking against the source. Prior note: Key item (ITEM_PRIZ 25:3, trophy of an Archduke boss). 'ninma no tetsuzu' = ninja-fiend's iron head -> 'Ninja Fiend's Helm' (18 chars = ITEM_PRIZ name max). Frame follows pilot style 'Obtained X.'"
+ },
+ {
+  "en": "[Key Item]\nObtained Song of Spirits.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 11; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 27:3."
+ },
+ {
+  "en": "[Key Item]\nObtained Flesh-Lump Flower.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 12; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 28:3; 'nikukai' = lump of flesh, kept grotesque."
+ },
+ {
+  "en": "[Key Item]\nObtained Deltoi Empty Room.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 13; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 29:3. Joke on its boss, a monster named 'Deltoi's Living Room'. 19 chars: one over ITEM_PRIZ max 18 if that table reuses it ('Deltoi Empty Room' = 17)."
+ },
+ {
+  "en": "[Key Item]\nObtained Dark Sakil Shell.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 14; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 30:3; boss 'Fanisakil' -> romanized 'Sakil'."
+ },
+ {
+  "en": "[Key Item]\nObtained Aleed Palette.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 15; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 31:3; boss 'Aleed Painter' (romanized; possibly a pun on 'arid')."
+ },
+ {
+  "en": "[Key Item]\nObtained Demon-Boob Undies.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 16; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 32:3; boss 'Manyuu Salebos'. 'manyuu' is slang for monstrously big breasts; kept the crude-comic register. Source lacks the final period (typo); period added to match the other 19 key-item lines."
+ },
+ {
+  "en": "[Key Item]\nObtained Seot's Demon Nest.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 17; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 33:3; boss 'Seot Mar'."
+ },
+ {
+  "en": "[Key Item]\nObtained Unclean Water.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 18; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 34:3."
+ },
+ {
+  "en": "[Key Item]\nObtained Menolist's Candle.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 19; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 35:3; boss 'Menolist'. 22 chars -- over ITEM_PRIZ max 18; short form 'Menolist's Candle' (17) if that table must match."
+ },
+ {
+  "en": "[Key Item]\nObtained Ponya Sausage.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 20; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 36:3; boss 'Ponyapo'."
+ },
+ {
+  "en": "[Key Item]\nObtained Taizarti Lamp.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 21; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 37:3; boss 'Taizarti' (Archduke)."
+ },
+ {
+  "en": "[Key Item]\nObtained Glittering Scale.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 22; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 38:3."
+ },
+ {
+  "en": "[Key Item]\nObtained Swordsage's Beard.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 23; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 39:3; 'kenrou' = aged sword master. 19 chars (ITEM_PRIZ max 18: 'Swordsage's Beard' = 17)."
+ },
+ {
+  "en": "[Key Item]\nObtained Red Light Rank.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 24; reused the reviewed English after re-checking against the source. Prior note: ITEM_PRIZ 41:3; '<color>-kou no i' -> '<Color> Light Rank' series (6 colors, Qualia battles, post-game)."
+ },
+ {
+  "en": "[Key Item]\nObtained Blue Light Rank.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 25; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "[Key Item]\nObtained Green Light Rank.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 26; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "[Key Item]\nObtained Yellow Light Rank.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 27; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "[Key Item]\nObtained Black Light Rank.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 28; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "[Key Item]\nObtained White Light Rank.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 29; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "After defeating the mighty Duke of the Demon World,\nyou found something.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 30; reused the reviewed English after re-checking against the source. Prior note: Generic line reused after every Archduke trophy fight (11 places), so no specific name."
+ },
+ {
+  "en": "After winning the battle,\nyou found something.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 31; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "# Current floor: {0B:0003:0000}",
+  "kind": "op029",
+  "note": "Same source string as slice_01 row 32; reused the reviewed English after re-checking against the source. Prior note: op029 debug print. Full-width black square -> '#' (ASCII rule)."
+ },
+ {
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "note": "Same source string as slice_01 row 33; reused the reviewed English after re-checking against the source. Prior note: op029 debug print. 'shin'ei' (god-shadow encounter) -> 'Divine Shadow' (new term)."
+ },
+ {
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 34; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "note": "Same source string as slice_01 row 35; reused the reviewed English after re-checking against the source."
+ },
+ {
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "note": "Source lacks the final period (variant of row 77); period added, as wmap slice_01 did for the key-item line in row 59. NOTE: wmap slice_01 kept this same string without the period -- reconcile."
+ }
+]

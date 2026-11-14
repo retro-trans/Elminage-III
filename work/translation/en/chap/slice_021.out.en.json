@@ -1,0 +1,359 @@
+[
+ {
+  "en": "The Opinion Bits each began to give off light once more and started exchanging auras.{w}{p}Before long, the Opinion Bits all turned toward Zaalhaut at once.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..........{w}...We have reached the conclusion that we are unable to answer.\"{w}{p}\"We will set this topic aside. Please enlighten us as to the correct answer.\"{w}",
+  "kind": "msg",
+  "note": "Echoes row 1662 (\"unable to understand\" there, \"unable to answer\" here). Second page reused verbatim in row 1676."
+ },
+ {
+  "en": "\"It's hair.\"{w}",
+  "kind": "msg",
+  "note": "Answer to the riddle in row 1666 (the longer it grows, the closer it gets to the ground)."
+ },
+ {
+  "en": "\"...I see. Understood.{w}Now then, your elimination...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is it... that has endless faces?\"{w}",
+  "kind": "msg",
+  "note": "Riddle; Zaalhaut's answer in row 1677 is \"a name\"."
+ },
+ {
+  "en": "Just as before, the Opinion Bits began exchanging auras.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"These things have a habit of insisting on recognizing exactly where a conversation starts and ends.\"{w}{p}\"So the more I keep them puzzling, the more time I can buy.{w}...Now go, quickly, while you have the chance.\"{w}{p}\"Don't worry about me.{w}I haven't lived such a feeble life that I need brats worrying about me.\"{w}{p}\"Leave this to me, and hurry to the Coronation Hall.\"{w}",
+  "kind": "msg",
+  "note": "\"Coronation Chamber\" for [JP] (new term). [JP] -> \"brats\" (Zaalhaut's gruff voice, [JP])."
+ },
+ {
+  "en": "The question-and-answer session between Zaalhaut and the Opinion Bits goes on and on.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We will set this topic aside. Please enlighten us as to the correct answer.\"{w}",
+  "kind": "msg",
+  "note": "Identical to the second page of row 1669; kept word for word."
+ },
+ {
+  "en": "\"A name.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That which is truly equal, that which walks on without ever looking back, that which is carved by a great sword and a small sword...{w}Do you know what it is?\"{w}",
+  "kind": "msg",
+  "note": "Riddle for \"time\" (clock hands = great/small sword). Phrases are quoted back in rows 1688 and 1692, kept matching."
+ },
+ {
+  "en": "\"...That would be light.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hm?{w}What's this, you've decided to answer after all?{w}Too bad, though. The answer is 'time.'\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No. No such thing exists.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...What?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It is light.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The flow of time is the same for each and every thing there is, surely.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, it is light.{w}That which falls equally upon all things -- that is light.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'm telling you, it's time.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There is no such thing as time.{w}It is light.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..........\"{w}{p}\"...Then what about the clue 'that which walks on without ever looking back'?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It is light.\"{w}{p}\"Light -- that is to say, the great Elnoa-Malem -- is the one who will abolish such foolish pacts of the past as the Phase Shift, and bring stability to the future of the Real Axis.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"the great Elnoa-Malem\" ([JP] rendered without Lord/Lady: gender unknown). [JP] = \"Phase Shift\" (as in chap slice_007 / wmap slice_19). [JP] -> \"the True Axis\": coined, meaning unclear (real + pivot + foundation) - flag."
+ },
+ {
+  "en": "\"El... noa...? Malem, you say?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We have answered your question. This conversation is over.{w}Now then, your elimination...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"W-Wait!{w}Then what about 'carved by a great sword and a small sword'!?\"{w}{p}\"That's supposed to mean the hands of a clock! You can't explain that, can you!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why, light, naturally.\"{w}{p}\"The lesser sin of you all defying us, the greater sin of failing to fulfill your duty of bringing forth the Eld...\"{w}{p}\"Those two swords, the lesser sin and the greater, wound the heart of the great Elnoa-Malem.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = \"the Eld\" (wmap slice_19). [JP] read as \"you (mortals) all\", the Bit addressing Zaalhaut's kind generally."
+ },
+ {
+  "en": "\"Wh... what are... you... saying...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We have answered your question. This conversation is over.{w}Now then, let us carry out your elimination.\"{w}{p}\"Those who set foot in the Sanctum of Genesis are fated to be judged by the Opinion of Light and the Opinion Bits.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"Sanctum of Creation\" (new term). [JP] -> \"the Opinion of Light\" (new term). First sentence kept identical to row 1691."
+ },
+ {
+  "en": "\"The Opinion of Light...!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh, heh hah hah!{w}I see, now I get it!\nNo wonder I could never find the power over time!\"{w}{p}\"Then the fall of Shebe makes sense too!{w}If the power over time was a sham,\nof course there was never any divine protection!\"{w}{p}\"I've been well and truly fooled!{w}Naru was no god of time...{w}...Naru was a god of light!\"{w}",
+  "kind": "msg",
+  "note": "Naru = god of time per wmap slice_16. [JP] -> \"the power over time\"; [JP] -> \"divine protection\"; [JP] -> \"a god of light\". [JP] -> \"Shebe\" (new name, nature unknown: a place or people that fell)."
+ },
+ {
+  "en": "\"...You who know too much.{w}Be burned by the holy light, and vanish.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ha, just try it, you heartless lackeys!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It is futile.{w}Even if one or two of us should fall, we will appear again in any number.\"{w}{p}\"You never had a chance to begin with.{w}If you step aside, we will at least let you pass on without suffering. What will you do?\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as \"if you clear the way\" (stop blocking the Bits from pursuing the party)."
+ },
+ {
+  "en": "\"No chance, you say?{w}Heh, you really do look down on me.\n...This is a waste of time. Come at me, all of you at once.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "(Those kids will perform the rite of re-coronation and come back alive.{w}Buying them the time for that is all I need.){w}",
+  "kind": "msg",
+  "note": "Inner thought. [JP] -> \"those kids\" (Zaalhaut calls the party [JP] in row 1674). [JP] -> \"rite of re-coronation\" (new term)."
+ },
+ {
+  "en": "\"I am Zaalhaut, the child the wicked mage Zanu left behind.{w}",
+  "kind": "msg",
+  "note": "Opening quote left unclosed as in source; row 1704 re-shows this text in {0E}..{0F}. [JP] -> \"Zanu\" (new name). [JP] = child left behind by a dead parent."
+ },
+ {
+  "en": "{0E}\"I am Zaalhaut, the child the wicked mage Zanu left behind.{0F}\nThe cursed child that lust and a spirit's tears brought into this world!\"{w}",
+  "kind": "msg",
+  "note": "Highlighted part matches row 1703 word for word."
+ },
+ {
+  "en": "\"Let's see how long mere servants of a god can stand against this unblessed power of mine!\"{w}",
+  "kind": "msg",
+  "note": "Source has a typo ([JP] for [JP])."
+ },
+ {
+  "en": "Opinion Bit",
+  "kind": "name",
+  "note": "Name box, 17 chars (slightly over ~16). Fallback if too wide: \"Op. Bit Voice\". Several Bits speak in row 1707; Zaalhaut is down and only hears them."
+ },
+ {
+  "en": "\"Is it taken care of?\"{w}{p}\"Yes.{w}However much one puts on a brave front,\nthe gap between our very existences cannot be closed.\"{w}{p}\"Truly, it is beyond my comprehension.\"{w}{p}\"Even so, they got the better of us again this time.\"{w}{p}\"Who could have guided them in?\"{w}{p}\"There are only two possibilities.{w}Hisbert, or else the people of Ryug.\"{w}{p}\"So it would seem.\"{w}{p}\"Shall we finish this one off?\"{w}{p}\"We may leave it be.\nMore importantly, we must make our report at once.{w}...Spirits. Take this one outside.\"{w}",
+  "kind": "msg",
+  "note": "Exchange between several Opinion Bits. [JP] -> \"Ryug\" (wmap slice_20). [JP] -> \"this one\" (no pronoun for Zaalhaut). 2[JP] literally \"only two\"; \"possibilities\" added for the noun."
+ },
+ {
+  "en": "The Opinion Bits left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So... I couldn't win after all...{w}In the end... all I can do...\nis dance in the palm of a god's hand...?\"{w}{p}\"I can't hear anymore. My eyes are going dim.{w}I wonder if those kids pulled it off...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The land where I was born... my precious place...{w}This... cursed body of mine...{w}the only... thing that ever... ac... cepted it...\"{w}{p}\"Mo... th... er...{w}I'm sor... ...\"{w}",
+  "kind": "msg",
+  "note": "Dying line; Zaalhaut switches from [JP] to [JP] (no English equivalent). Order of the broken fragments kept across the {w}s. [JP] -> \"Mother\"; [JP]… -> \"I'm sor...\" (gomen). [JP] read as the land accepting the cursed body."
+ },
+ {
+  "en": "Spirits gather around Zaalhaut.{w}Lifting up the body, they carried it all the way to the exit.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Strange Being",
+  "kind": "name",
+  "note": "[JP] = the unnamed figure before it introduces itself as Spectoria (row 1715)."
+ },
+ {
+  "en": "\"So you have come this far after all.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I am Spectoria. Executor of the Divine Realm.\"{w}",
+  "kind": "msg",
+  "note": "Spectoria / Divine Realm as in wmap slice_19. [JP] -> \"Executor\" (wmap uses Executor for [JP] Branon)."
+ },
+ {
+  "en": "You feel an overwhelming presence from the one called Spectoria, unlike anything you have felt before.{w}There is nowhere for you to run.{w}",
+  "kind": "msg",
+  "note": "No pronoun for Spectoria (gender not in glossary)."
+ },
+ {
+  "en": "\"Ordinarily, the likes of you would be nothing more than a trifling matter.\"{w}{p}\"But you have gone too far.{w}Anything more would go against the divine will.\"{w}{p}\"You will now receive your punishment. Prepare yourselves.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see you are worthy of having made it all the way here.\"{w}{p}\"It cannot be helped.{w}This time, and this time only, I shall withdraw.\"{w}{p}\"But do not forget that you are always in the palm of our hand...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Spectoria vanished into the light.{w}{p}Having defeated the Qualia, you raised all the Ranks you had obtained toward the sky in the center of the room.{w}They then turned into the shining [Sun's Light Rank].{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"Qualia\" (new term; guardians of the Sanctum, see row 1643). [JP] -> \"Ranks\", [JP] -> \"Radiant Rank of the Sun\" (new key item name, must match ITEM_PRIZ when that CSV is translated). [JP] -> [ ]."
+ },
+ {
+  "en": "[Key Item]\nObtained Sun's Light Rank.{w}",
+  "kind": "msg",
+  "note": "Key-item format as chap slice_001."
+ },
+ {
+  "en": "Fixed monster encounter handler\nFlee: Yes, Treasure: Yes, Rematch: No, Friendly: Yes{w}",
+  "kind": "msg",
+  "note": "Developer debug text (encounter-type label); circle/cross marks rendered Yes/No in ASCII."
+ },
+ {
+  "en": "Random monster encounter handler\nFlee: Yes, Treasure: No, Rematch: Yes, Friendly: Yes{w}",
+  "kind": "msg",
+  "note": "Developer debug text."
+ },
+ {
+  "en": "Event monster encounter handler\nFlee: No, Treasure: No, Rematch: Yes, Friendly: No{w}",
+  "kind": "msg",
+  "note": "Developer debug text."
+ },
+ {
+  "en": "Abi monster encounter handler\nFlee: Yes, Treasure: No, Rematch: Yes, Friendly: No{w}",
+  "kind": "msg",
+  "note": "Developer debug text. [JP] = Abi (glossary)."
+ },
+ {
+  "en": "Magical Party encounter handler\nFlee: No, Treasure: No, Rematch: Yes, Friendly: No{w}",
+  "kind": "msg",
+  "note": "Developer debug text."
+ },
+ {
+  "en": "Martial Arts Tournament encounter handler\nFlee: No, Treasure: No, Rematch: Yes, Friendly: No{w}",
+  "kind": "msg",
+  "note": "Developer debug text."
+ },
+ {
+  "en": "An unfamiliar adventurer appeared before you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{13:0001:0000}{w}",
+  "kind": "msg",
+  "note": "Runtime insert only; nothing to translate."
+ },
+ {
+  "en": "{13:0001:0001}{w}",
+  "kind": "msg",
+  "note": "Runtime insert only; nothing to translate."
+ },
+ {
+  "en": "There is a giant doll.{w}{p}When the doll spots you, it breaks into a big smile, as if it had found a new toy, and slowly reaches out its hands toward you.{w}{p}If a game of dolls is about to begin, it is you who will be playing the dolls.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You picked up an item.{w}",
+  "kind": "msg",
+  "note": "Used in 30 places."
+ },
+ {
+  "en": "You see that 'Night' has appeared ahead of you.{w}Before long, the 'Night' takes human form and overwhelms everything around it with its sheer presence.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Is that gentlemanly bearing a sign of how sure it is of itself?{w}The one who reigns at the summit of the Kin of Night unhurriedly invites you to a ball of death.{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"the kin of night\" (patterned on \"kin of darkness\", chap slice_008 / wmap slice_20). No pronoun for the figure."
+ },
+ {
+  "en": "A strange sight is unfolding before your eyes.{w}{p}Darkness and darkness, cancelling each other out, are shrinking again and again.{w}{p}The darkness on your side gradually weakens and begins to be swallowed by new darkness seeping out.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You stand face to face with one who has crossed over from another world.{w}Can you protect this world?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You have come upon a dreamlike revel.{w}{p}Beautifully shining wings light up the surroundings like a full moon.{w}Perhaps rejoicing at the appearance of their lord, wrapped in phosphorescent light, insects of every kind are drunk on this revel of light.{w}{p}But there is just one unfortunate thing.{w}It seems no place has been set for you in this dreamlike scene.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Even when you try to look, you cannot look away.{w}Even when you try to flee, you cannot fight.{w}Even when you want to die, you cannot survive.{w}{p}That is our Brain Through.{w}",
+  "kind": "msg",
+  "note": "Deliberately paradoxical/garbled verse, kept as is. [JP] -> \"Brain Through\" (new name; boss/encounter name, likely a pun). [JP] -> \"our\" (speaker unknown)."
+ },
+ {
+  "en": "Suddenly, thunderclouds gather all around.{w}Each time lightning flashes, the shadow of some unknown beast is cast upon the sky.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You witness the appearance of a fearsome monster.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A strange sensation of space twisting.{w}Something that must never appear seems to have crossed the line and appeared.{w}{p}Will your bodies, too, be taken over like those of the victims before you?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Azabas",
+  "kind": "name",
+  "note": "New name (romanized)."
+ },
+ {
+  "en": "\"What, you lot were wandering around a place like this?{w}Look at the power that's taken root in my body!\"{w}{p}\"I'm the Demon Duke now!\nNobody's ever going to give me lip again.{w}...Not even that bastard Fendel!!\"{w}{p}\"Come, scorching winds of destruction! Come to me!\"{w}{p}\"Let's teach them all that I'm the one who rules everything!\nThe Wastelands, the New Lands, the Dark Realm, the Divine Realm --\nwe'll teach every last one of them!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"Demon Archduke\" (new term; also used by the Ryug in SCD16). [JP] -> \"Fendel\" (new name). [JP] \"Wastelands\" (wmap: declared a wasteland), [JP] \"New Lands\" (new term), [JP] \"Dark Realm\", [JP] \"Divine Realm\" as in wmap. [JP]: Azabas rallies himself/the winds; rendered \"let's\"."
+ },
+ {
+  "en": "\"Damn iiiiit!{w}Why am I losiiiiing!?!\"{w}{p}\"I...!{w}was supposed to have gotten... power that loses to no one...!{w}Wasn't I...!?\"{w}{p}\"It's still... not enough...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A scorching tornado swallowed Azabas from the feet up.\nIt was so fierce that you shut your eyes without thinking.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you next came to your senses, there was nothing there.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The sound of something being dragged, scrape, scrape, draws gradually closer.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A bizarre form was there, impossible to tell whether dragon or fish.{w}{p}It gave a shudder and let out a hair-raising roar.{w}It was the signal that mealtime had come.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "CLICK, CLACK, GO SOME CRISP, BRISK FOOTSTEPS.{w}IN TIME WITH THEM, A HIGH LAUGH RINGS OUT.{w}",
+  "kind": "msg",
+  "note": "Source is all-kana with spaced dakuten (retro 8-bit text parody, continued in slice_022 rows 1749-1752). Rendered in ALL CAPS as the English equivalent of old-console text; slice_022 should match. [JP] = loud/haughty laugh."
+ }
+]

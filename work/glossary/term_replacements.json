@@ -1,0 +1,206 @@
+[
+ {
+  "from": "\\bDoesn't it give you a super thrill\\?",
+  "to": "Doesn't it get you super excited?",
+  "jp": "わくわく",
+  "regex": true
+ },
+ {
+  "from": "{0E}  *  Tarit has been registered",
+  "to": "{0E} *  Tarrit has been registered",
+  "jp": "ターリット",
+  "regex": false
+ },
+ {
+  "from": "\\bCelestial Survey Results\\b",
+  "to": "Celestial Readings",
+  "jp": "天位測量結果",
+  "regex": true
+ },
+ {
+  "from": "\\bStairway Ruins of Light\\b",
+  "to": "Lightstair Ruins",
+  "jp": "光の階跡",
+  "regex": true
+ },
+ {
+  "from": "\\bRinos Undersea Volcano\\b",
+  "to": "Rinos Sea Volcano",
+  "jp": "リノス海底火山",
+  "regex": true
+ },
+ {
+  "from": "\\bMenolist's Candlestick\\b",
+  "to": "Menolist's Candle",
+  "jp": "メノリストの燭台",
+  "regex": true
+ },
+ {
+  "from": "\\ba stairway of light\\b",
+  "to": "the Stairway of Light",
+  "jp": "光の階段",
+  "regex": true
+ },
+ {
+  "from": "\\bFinishing Whetstone\\b",
+  "to": "Fine Whetstone",
+  "jp": "仕上げ砥石",
+  "regex": true
+ },
+ {
+  "from": "\\bthe finishing stone\\b",
+  "to": "the fine stone",
+  "jp": "仕上げ砥石",
+  "regex": true
+ },
+ {
+  "from": "\\bDeltoi's Empty Room\\b",
+  "to": "Deltoi Empty Room",
+  "jp": "デルトイの空き部屋",
+  "regex": true
+ },
+ {
+  "from": "\\bSword Elder's Beard\\b",
+  "to": "Swordsage's Beard",
+  "jp": "剣老の髭",
+  "regex": true
+ },
+ {
+  "from": "\\bthe reactor prob'ly\\b",
+  "to": "the mana furnace prob'ly",
+  "jp": "魔恒炉",
+  "regex": true
+ },
+ {
+  "from": "\\bHemaid's Red Stone\\b",
+  "to": "Hemaid Red Stone",
+  "jp": "ヘマイドの赤石",
+  "regex": true
+ },
+ {
+  "from": "\\banything thrilling\\b",
+  "to": "anything exciting",
+  "jp": "わくわく",
+  "regex": true
+ },
+ {
+  "from": "\\btalkative sapling\\b",
+  "to": "chatty sapling",
+  "jp": "おしゃべりな苗木",
+  "regex": true
+ },
+ {
+  "from": "\\bthe reactor blows\\b",
+  "to": "the furnace blows",
+  "jp": "魔恒炉",
+  "regex": true
+ },
+ {
+  "from": "\\ball for the thrill!",
+  "to": "all for the excitement!",
+  "jp": "わくわく",
+  "regex": true
+ },
+ {
+  "from": "\\bthrilling clothes\\b",
+  "to": "exciting clothes",
+  "jp": "わくわく",
+  "regex": true
+ },
+ {
+  "from": "\\bStone-Cure Water\\b",
+  "to": "Stonemelt Water",
+  "jp": "解石水",
+  "regex": true
+ },
+ {
+  "from": "\\bChairman Wattner\\b",
+  "to": "Council Chair Wattner",
+  "jp": "ワットナー議長",
+  "regex": true
+ },
+ {
+  "from": "\\bkin of darkness\\b",
+  "to": "Kin of Darkness",
+  "jp": "闇の眷族",
+  "regex": true
+ },
+ {
+  "from": "\\bDvel Mild Steel\\b",
+  "to": "Dvel Soft Steel",
+  "jp": "ドヴェル軟鋼",
+  "regex": true
+ },
+ {
+  "from": "\\bgod of oblivion\\b",
+  "to": "god of Dark Oblivion",
+  "jp": "暗滅の神",
+  "regex": true
+ },
+ {
+  "from": "\\bStair of Light\\b",
+  "to": "Stairway of Light",
+  "jp": "光の階段",
+  "regex": true
+ },
+ {
+  "from": "\\bSo thrilliiing\\b",
+  "to": "So exciiiting",
+  "jp": "わくわく",
+  "regex": true
+ },
+ {
+  "from": "\\bLord Rogera\\b",
+  "to": "Rogera",
+  "jp": "ロジェラ様",
+  "regex": true
+ },
+ {
+  "from": "\\bLord Dehain\\b",
+  "to": "Dehain",
+  "jp": "デーハイン様",
+  "regex": true
+ },
+ {
+  "from": "\\bMystic Stone",
+  "to": "Phantom Stone",
+  "jp": "幻石",
+  "regex": true
+ },
+ {
+  "from": "\\bBeard Lady\\b",
+  "to": "Beard Girl",
+  "jp": "ヒゲ女",
+  "regex": true
+ },
+ {
+  "from": "\\bLord Void\\b",
+  "to": "Void",
+  "jp": "ボイド様",
+  "regex": true
+ },
+ {
+  "from": "\\bDark Kin\\b",
+  "to": "Kin of Darkness",
+  "jp": "闇の眷族",
+  "regex": true
+ },
+ {
+  "from": "\\bRojela\\b",
+  "to": "Rogera",
+  "jp": "ロジェラ",
+  "regex": true
+ },
+ {
+  "from": "\\bTarit\\b",
+  "to": "Tarrit",
+  "jp": "ターリット",
+  "regex": true
+ },
+ {
+  "from": "\\bConnu\\b",
+  "to": "Konnu",
+  "jp": "コンヌ",
+  "regex": true
+ }
+]

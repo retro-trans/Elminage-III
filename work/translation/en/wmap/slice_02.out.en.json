@@ -1,0 +1,353 @@
+[
+ {
+  "en": "\"...Save the celebrating for when the Stairway of Light appears.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Will it really show up, even in conditions like these?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I don't believe the weather or the time of day matters in the least.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why not?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"They say Rafa climbed these very stairs to reach the Palace of the Sun, don't they?\"{w}",
+  "kind": "msg",
+  "note": "Honorific -sama on Rafa dropped (Rafa gender unknown, so no Lord/Lady); Mayleen's respectful tone carried by phrasing."
+ },
+ {
+  "en": "\"Yeah.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There was no sun back then, so it can't have been sunny or daytime either.{w}The conditions are the same, you see.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, I get it!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As if in answer to the two of them, light flooded the surroundings!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Right, from here on out we're in the realm of myth.{w}Anything could happen.\nDon't you lot go losing your nerve on me!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Soldier",
+  "kind": "name"
+ },
+ {
+  "en": "\"Lord Balgert, the three Phantom Stones have begun to glow!\"{w}",
+  "kind": "msg",
+  "note": "Balgert-sama -> \"Lord Balgert\" (kept literal for consistency; \"Your Majesty\" also possible since Balgert is king, see row 105). Mitsu-genseki -> \"the three Phantom Stones\"."
+ },
+ {
+  "en": "\"Yeaaaaahhh!!\"{w}{p}\"You lot...\nthanks for letting me do my duty as king.\"{w}{p}\"These folks here are the finest Algrantz has to offer.\"{w}{p}\"We'll bring the sun back, no question, so just sit tight and wait for us!\"{w}",
+  "kind": "msg",
+  "note": "Pages 2-4: Balgert addresses \"omee-ra\" (thanks, probably to the party) and then the soldiers (introducing the party as Algrantz's elite, telling them to wait). \"You lot\" kept so it works for either listener."
+ },
+ {
+  "en": "\"All right, you lot!{w}We're storming the Palace of the Sun!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "With a war cry, Balgert charged toward the stairs.{w}But...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gwah!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Balgert's foot passed right through the Stairway of Light.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What the hell...?\"{w}",
+  "kind": "msg",
+  "note": "dou iu koto da -- rough-voiced bewilderment; \"hell\" matches Balgert's register."
+ },
+ {
+  "en": "Mayleen reached out to touch the stairs as well, only for those fingertips to slip right through too.{w}",
+  "kind": "msg",
+  "note": "Source \"sono yubisaki\" (those fingertips); no pronoun used since Mayleen's gender is not in the glossary."
+ },
+ {
+  "en": "\"Everyone, over here, please.{w}...Now, give me a paw.\"{w}",
+  "kind": "msg",
+  "note": "O-te = the \"shake/paw\" command given to a dog; Mayleen is jokingly ordering the party to put a hand on the stairs."
+ },
+ {
+  "en": "At Mayleen's urging, you tried touching the stairs.{w}...It seems that you, at least, can touch them.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I see. It seems the stairs choose who may use them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No way... You've gotta be kidding me!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Balgert stood before the stairs once more and tried to set a foot on them.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "But Balgert's foot could not find purchase on the step.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm the king of Algrantz, damn it!{w}All I'm trying to do is take back the Palace of the Sun!{w}And you're telling me I'm STILL not worthy!?\"{w}",
+  "kind": "msg",
+  "note": "O = king (source word). \"damn it\" carries the emphatic zo; caps on STILL for soredemo -- drop if caps are unwanted."
+ },
+ {
+  "en": "\"Lord Balgert, please calm down!\"{w}{p}\"Maybe only the ones who searched out the Phantom Stones and made the stairs appear can climb them!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"True enough. It isn't the sort of place one storms with a whole army.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So what, you're telling me to dump the fate of the whole land on these guys' shoulders!?\"{w}",
+  "kind": "msg",
+  "note": "koitsu-ra = the party."
+ },
+ {
+  "en": "\"A heavy job like that is exactly the kind a king's supposed to steel himself and take on!!{w}Dammit...!!\"{w}",
+  "kind": "msg",
+  "note": "\"himself\" refers to a king in general (the source noun \"o\"), not a gender call on a specific person."
+ },
+ {
+  "en": "Balgert clenched a fist in bitter frustration.{w}Then, as if having come to a decision, Balgert turned to face you.{w}",
+  "kind": "msg",
+  "note": "Name repeated instead of \"he/his\": glossary gender for Balgert is unknown."
+ },
+ {
+  "en": "\"Truth is...{w}I meant to lead the army up there myself, but... well, you can see how that went.\"{w}{p}\"It's hard, putting something this big on the shoulders of plain adventurers, but...{w}would you take back the Palace of the Sun in my place?\"{w}{p}\"I, Balgert, ask this of you as the favor of a lifetime.{w}Please, I'm counting on you!\"{w}",
+  "kind": "msg",
+  "note": "Issho no tanomi = \"favor of a lifetime\"; \"kono Balgert\" self-naming kept as \"I, Balgert\"."
+ },
+ {
+  "en": "As if beckoning you, the Stairway of Light shone brighter still.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You tried touching the stairs as well.{w}...But you could not touch them.{w}",
+  "kind": "msg",
+  "note": "Alternate branch: the party already entered the Palace another way (cf. rows 65 and 114-116)."
+ },
+ {
+  "en": "\"Could it be... that you have already been inside the Palace of the Sun?\"{w}",
+  "kind": "msg",
+  "note": "Source is missing its closing quote bracket (likely a source typo); closing quote added in English."
+ },
+ {
+  "en": "\"Now that you mention it, I did hear a rumor like that...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Most likely, there is only one road to the Palace of the Sun.\"{w}{p}\"Once, this Stairway of Light was the only way to the Palace.\"{w}{p}\"But now that surface technology can reach it as well, to keep interference from the surface to a bare minimum,{w}{p}some power guarding the Palace of the Sun must be blocking the Stairway of Light.\"{w}{p}\"In other words, only they can enter the Palace of the Sun... That's what it comes to, I suppose.\"{w}",
+  "kind": "msg",
+  "note": "Page 1: \"michi wa hitotsu\" = only one road (implied: a party that entered another way loses the stairs; not spelled out, so not added). Page 3->4 is one sentence split across a page break, so page 4 has no opening quote, as in the source. \"they\" (karera) = the party, said to Natori."
+ },
+ {
+  "en": "\"Lord Balgert, please calm down!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Girl's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"The presence of darkness grows thicker still...\"{w}{p}\"Mayer, can you truly free Rafa and save Rafa?\"{w}",
+  "kind": "msg",
+  "note": "New name Mayer (meiyaa). Rafa repeated instead of a pronoun (gender unknown). Speaker is the Girl's Voice; row 126 calls her \"that Moonlight Spirit\"."
+ },
+ {
+  "en": "Man's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"Of course. Once all is done, I will take you all to whatever land you desire, as promised.\"{w}",
+  "kind": "msg",
+  "note": "omae-tachi = plural \"you\"; who is included is not stated."
+ },
+ {
+  "en": "\"......\"{w}{p}\"Rafa, wait for me...\nI won't let you suffer any longer.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Woman's Voice",
+  "kind": "name"
+ },
+ {
+  "en": "\"My, how desperate.\nIt's enough to make me cry... Ahahaha!\"{w}",
+  "kind": "msg",
+  "note": "nakaseru wa ne -- sarcastic \"how touching\"."
+ },
+ {
+  "en": "Strange Voice",
+  "kind": "name",
+  "note": "fushigi na koe; \"Mysterious Voice\" is exactly 16 chars, so the shorter form."
+ },
+ {
+  "en": "\"That Moonlight Spirit seems to have room in her head for nothing but her own goals.\"{w}",
+  "kind": "msg",
+  "note": "New term gekkousei -> \"Moonlight Spirit\". \"her\": the spirit referred to is the speaker labelled Girl's Voice (shoujo)."
+ },
+ {
+  "en": "\"All the better for us...\nLet her dance to our tune while she can.\"{w}",
+  "kind": "msg",
+  "note": "seizei odotte morau -- \"let her dance\" (same girl as row 126)."
+ },
+ {
+  "en": "Rafa",
+  "kind": "name"
+ },
+ {
+  "en": "\"Yorfa, please understand.\"{w}{p}\"From here, I can shine down on everyone's smiling faces.\nThere's no greater joy than that. Isn't that right?\"{w}{p}\"When the sun was lost, the land was shrouded in darkness for a long while.\"{w}{p}\"In that darkness, no one could find any light of hope, and sorrow covered the land.\"{w}{p}\"But I rose into the sky, and made it a place overflowing with smiles and life.\"{w}{p}\"There's no greater joy than this!\nYou were happy about it too, Yorfa!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Yorfa",
+  "kind": "name"
+ },
+ {
+  "en": "\"Well, I never thought it would come to this!\"{w}{p}\"It's all because of that swindler, that Zaalhaut or whatever...{w}That wretch...!!\"{w}",
+  "kind": "msg",
+  "note": "petenshi = swindler/con artist."
+ },
+ {
+  "en": "\"She did a great deal for us.\"{w}",
+  "kind": "msg",
+  "note": "Source says kanojo (\"she\"). Context (reply to row 131) makes the referent Zaalhaut, whose glossary gender is unknown and who speaks with old-man \"washi\" elsewhere -- kept \"She\" because the source says it; flag for glossary."
+ },
+ {
+  "en": "\"But your body, Rafa, it keeps getting more and more...!\"{w}",
+  "kind": "msg",
+  "note": "Trails off in source; kept unfinished."
+ },
+ {
+  "en": "\"Even if this body of mine is destroyed,\nI want to go on shining on the land\nuntil the very last moment.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I see.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You understand, don't you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're being deceived.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're so kind, Rafa, that everyone takes advantage and deceives you.\"{w}{p}\"They use you however they please...{w}Poor, poor Rafa.\"{w}",
+  "kind": "msg",
+  "note": "Yorfa uses Rafa's name in place of \"you\" throughout; rendered as you + vocative."
+ },
+ {
+  "en": "\"Yorfa?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's all right. I'll save you, okay?{w}I'll set you free from all that pain, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What are you planning, Yorfa!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shaharon and the others are going to separate you from the True Crystal, Rafa.\"{w}{p}\"Until then, I won't let anyone into this Chamber of the True Sun.\"{w}",
+  "kind": "msg",
+  "note": "New name Shaharon; new terms shinsuishou -> \"True Crystal\", shinjitsu no ma -> \"Chamber of the True Sun\"."
+ },
+ {
+  "en": "\"Yorfa! That's enough!{w}I'm doing this of my own free will!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It's all right, Rafa.{w}I'll protect you.{w}I'll save you, I swear.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...So now... even my words can't reach you...{w}Yorfa...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Rafa... I love you so much...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"D-don't come any closer...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"My precious Rafa...{w}My very own Rafa...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't touch me!{w}You're out of your mind right now!\"{w}",
+  "kind": "msg",
+  "note": "ima no omae wa kurutteru -- \"the you of right now is mad\"."
+ },
+ {
+  "en": "\"Why?{w}Why would you say something like that?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yorfa! Please, go back to who you used to be!\"{w}{p}\"We watched over the land together in Nertowa, didn't we!\"{w}{p}\"Be the way you were back then! I'm begging you!!\"{w}",
+  "kind": "msg",
+  "note": "New name Nertowa (place, nerutowa)."
+ },
+ {
+  "en": "\"It's all right, we can go back.\"{w}{p}\"Once I set you free, you and I will be just like before.\nLike old times... together forever...\"{w}{p}\"Nothing else matters...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yor...fa...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Listen, Rafa...\"{w}{p}\"I won't let you suffer any longer.\"{w}{p}\"If it means losing you...\"{w}",
+  "kind": "msg",
+  "note": "Sentence continues in row 156 (anata wo ushinau kurai nara / daichi nado yami ni...); cut at the same point."
+ },
+ {
+  "en": "\"...then let the land be swallowed by darkness.\"{w}",
+  "kind": "msg",
+  "note": "Continuation of row 155; dupes 3 -- in every place it follows 155."
+ },
+ {
+  "en": "\"Why...{w}Why do you keep getting in my way?\"{w}",
+  "kind": "msg",
+  "note": "Addressed to the party (anata-tachi)."
+ },
+ {
+  "en": "In the Chamber of the True Sun, at the very heart of the Palace of the Sun, was the Moonlight Spirit, Yorfa.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Beyond here... is where Rafa is, you know.{w}Yes, my very own Rafa.{w}Mine, and mine alone...\"{w}",
+  "kind": "msg",
+  "note": "Source has no stops after the first two segments; punctuation added."
+ }
+]

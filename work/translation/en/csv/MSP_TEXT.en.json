@@ -1,0 +1,92 @@
+[
+ {
+  "id": "MSP_TEXT.CSV:4:1",
+  "en": "Medusa",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MSP_TEXT.CSV:4:2",
+  "en": "Truth Shield",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MSP_TEXT.CSV:4:3",
+  "en": "Description",
+  "max": 61,
+  "used": true
+ },
+ {
+  "id": "MSP_TEXT.CSV:5:1",
+  "en": "Succubus",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MSP_TEXT.CSV:5:2",
+  "en": "Fallen Cloak",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MSP_TEXT.CSV:5:3",
+  "en": "Description",
+  "max": 61,
+  "used": true
+ },
+ {
+  "id": "MSP_TEXT.CSV:6:1",
+  "en": "Insector Lord",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MSP_TEXT.CSV:6:2",
+  "en": "King's Sword",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MSP_TEXT.CSV:6:3",
+  "en": "Description",
+  "max": 61,
+  "used": true
+ },
+ {
+  "id": "MSP_TEXT.CSV:7:1",
+  "en": "Vampire Lord",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MSP_TEXT.CSV:7:2",
+  "en": "Rusted Ring",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MSP_TEXT.CSV:7:3",
+  "en": "Description",
+  "max": 61,
+  "used": true
+ },
+ {
+  "id": "MSP_TEXT.CSV:8:1",
+  "en": "Kurushu Knight",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MSP_TEXT.CSV:8:2",
+  "en": "Wooden Pillbox",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MSP_TEXT.CSV:8:3",
+  "en": "Description",
+  "max": 61,
+  "used": true
+ }
+]

@@ -1,0 +1,372 @@
+[
+ {
+  "en": "Record 20",
+  "kind": "label",
+  "note": "KIROKU c1 title; same pattern as slice_30 rows (Record NN)."
+ },
+ {
+  "en": "Record 21",
+  "kind": "label"
+ },
+ {
+  "en": "Demon Gen. Welsconi",
+  "kind": "name",
+  "note": "Welsconi per chap slice_018; 'ankoku soutou' there = 'Dark Generalissimo'. 'Demon Generalissimo Welsconi' is 26 bytes > 24, so Gen. abbreviates Generalissimo."
+ },
+ {
+  "en": "Reserve",
+  "kind": "name",
+  "note": "Epithet cell of the placeholder (Reserve) monster column."
+ },
+ {
+  "en": "Slime",
+  "kind": "name"
+ },
+ {
+  "en": "Goopy-Gloopy",
+  "kind": "name",
+  "note": "Epithet; nucho-nucho = slimy/gooey onomatopoeia."
+ },
+ {
+  "en": "Funny Ball",
+  "kind": "name"
+ },
+ {
+  "en": "Mystery Sphere",
+  "kind": "name"
+ },
+ {
+  "en": "Red Slime",
+  "kind": "name"
+ },
+ {
+  "en": "Crimson",
+  "kind": "name"
+ },
+ {
+  "en": "Blob",
+  "kind": "name"
+ },
+ {
+  "en": "Doe-Eyed",
+  "kind": "name",
+  "note": "tsubura na hitomi = big round cute eyes."
+ },
+ {
+  "en": "Homunculus",
+  "kind": "name"
+ },
+ {
+  "en": "Bottled Life",
+  "kind": "name"
+ },
+ {
+  "en": "Walking Monolith",
+  "kind": "name",
+  "note": "Epithet of Inuksuk (MONSTER1 c10; name row is in another slice)."
+ },
+ {
+  "en": "Jellita",
+  "kind": "name",
+  "note": "New name, romanized (jelly-based coinage)."
+ },
+ {
+  "en": "Gulps Anything",
+  "kind": "name",
+  "note": "gokkyun = gulping sound."
+ },
+ {
+  "en": "Leg Ball",
+  "kind": "name"
+ },
+ {
+  "en": "Tumble King",
+  "kind": "name",
+  "note": "sokuten juuou = cartwheeling beast king (lion face, many legs). 'Cartwheel King' is 14 > 12."
+ },
+ {
+  "en": "Weird Kelp",
+  "kind": "name"
+ },
+ {
+  "en": "Ugh! So grassy!",
+  "kind": "name",
+  "note": "Exclamation epithet: 'What is this, it smells green/raw!'"
+ },
+ {
+  "en": "Charmy Lip",
+  "kind": "name",
+  "note": "Matches chap slice_011."
+ },
+ {
+  "en": "Juicy Kissable",
+  "kind": "name",
+  "note": "'Kiss me' + purun (plump, jiggly lips) rendered as a natural English phrase; 16-byte limit."
+ },
+ {
+  "en": "Gold Right Hand",
+  "kind": "name",
+  "note": "'Golden Right Hand' is 17 > 16; Gold kept for the pair (Gold Left Hand). key? mirror in MON_TEXT."
+ },
+ {
+  "en": "Gold Right Hand",
+  "kind": "name",
+  "note": "Nickname row = kana reading of the name; same English."
+ },
+ {
+  "en": "Taker of Lives",
+  "kind": "name"
+ },
+ {
+  "en": "Gold Left Hand",
+  "kind": "name",
+  "note": "Matches Gold Right Hand."
+ },
+ {
+  "en": "Gold Left Hand",
+  "kind": "name",
+  "note": "Nickname row = kana reading of the name; same English."
+ },
+ {
+  "en": "Taker of Memories",
+  "kind": "name"
+ },
+ {
+  "en": "Mask of Desire",
+  "kind": "name"
+ },
+ {
+  "en": "Mask of Desire",
+  "kind": "name",
+  "note": "Nickname row = kana reading of the name; same English."
+ },
+ {
+  "en": "Laughing Riches",
+  "kind": "name",
+  "note": "'Laughing Treasure' is 17 > 16."
+ },
+ {
+  "en": "Gallery Knight",
+  "kind": "name",
+  "note": "Matches chap slice_011."
+ },
+ {
+  "en": "Canvas Knight",
+  "kind": "name",
+  "note": "Source writes kyanpasu (campus) but the bestiary text means a painting's canvas."
+ },
+ {
+  "en": "Gallery Beast",
+  "kind": "name"
+ },
+ {
+  "en": "Canvas Beast",
+  "kind": "name"
+ },
+ {
+  "en": "Stymphalides",
+  "kind": "name",
+  "note": "Greek Stymphalian birds (bestiary: clockwork bird)."
+ },
+ {
+  "en": "Clockwork",
+  "kind": "name"
+ },
+ {
+  "en": "Pleia",
+  "kind": "name",
+  "note": "New name, romanized. Possibly a pun on 'Prayer' (epithet = one who prays); kept as an invented name."
+ },
+ {
+  "en": "Devotee",
+  "kind": "name",
+  "note": "inori-bito = one who prays; 8-byte limit."
+ },
+ {
+  "en": "Edumo",
+  "kind": "name",
+  "note": "New name, romanized."
+ },
+ {
+  "en": "Void Hound",
+  "kind": "name",
+  "note": "Void = glossary deity name (Boido)."
+ },
+ {
+  "en": "Greater Slime",
+  "kind": "name"
+ },
+ {
+  "en": "Big Ol' Goopy",
+  "kind": "name",
+  "note": "dekaguchonoo = huge + gooey; echoes Goopy-Gloopy."
+ },
+ {
+  "en": "Rag",
+  "kind": "name",
+  "note": "New name, romanized."
+ },
+ {
+  "en": "Carrion Horror",
+  "kind": "name"
+ },
+ {
+  "en": "Boxed Doom",
+  "kind": "name",
+  "note": "Mimic epithet 'boxed nightmare'; 'Boxed Nightmare' is 15 > 10."
+ },
+ {
+  "en": "Impressionist",
+  "kind": "name",
+  "note": "Katakana is a slight variant of 'impressionist'; read as the painting pun (gallery/canvas monster set)."
+ },
+ {
+  "en": "Strange Figure",
+  "kind": "name",
+  "note": "Hiragana epithet."
+ },
+ {
+  "en": "Homunculus+1",
+  "kind": "name"
+ },
+ {
+  "en": "Fishbowl Life",
+  "kind": "name",
+  "note": "kingyobachi = goldfish bowl."
+ },
+ {
+  "en": "Edumo Senior",
+  "kind": "name"
+ },
+ {
+  "en": "Predator of Space",
+  "kind": "name",
+  "note": "Bestiary: it feeds on space itself."
+ },
+ {
+  "en": "Tetramystica",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "No Blind Spots",
+  "kind": "name"
+ },
+ {
+  "en": "Zombie Lady",
+  "kind": "name"
+ },
+ {
+  "en": "Seeking Warmth",
+  "kind": "name"
+ },
+ {
+  "en": "Skeleton",
+  "kind": "name"
+ },
+ {
+  "en": "Ultra Nude",
+  "kind": "name",
+  "note": "kyuukyoku no nuudo = the ultimate nude (no flesh left); 'Ultimate Nude' is 13 > 12."
+ },
+ {
+  "en": "Zombie Fang",
+  "kind": "name"
+ },
+ {
+  "en": "Gnaws Own Bone",
+  "kind": "name",
+  "note": "jibun no hone wo kuwaeru = holding its own bone in its jaws."
+ },
+ {
+  "en": "Grave Pitter",
+  "kind": "name"
+ },
+ {
+  "en": "Grave-Born",
+  "kind": "name",
+  "note": "'Born of the Grave' is 17 > 16."
+ },
+ {
+  "en": "Bass Zombi",
+  "kind": "name",
+  "note": "Zombie bass. 'Bass Zombie'/'Zombie Bass' are 11 > 10, so variant spelling Zombi. key? mirror in MON_TEXT c2."
+ },
+ {
+  "en": "Rot-Scaled",
+  "kind": "name"
+ },
+ {
+  "en": "Langsuir",
+  "kind": "name",
+  "note": "Malay vampire legend (Langsuir)."
+ },
+ {
+  "en": "2-Mouth Vamp",
+  "kind": "name",
+  "note": "futakuchi no kyuuketsuki = two-mouthed vampire; 12-byte limit."
+ },
+ {
+  "en": "Vampire",
+  "kind": "name",
+  "note": "Matches chap slice_011."
+ },
+ {
+  "en": "Night Prince",
+  "kind": "name",
+  "note": "yoru no kikoushi = young noble of the night."
+ },
+ {
+  "en": "Zaqqum",
+  "kind": "name",
+  "note": "The cursed tree of Islamic tradition."
+ },
+ {
+  "en": "Cursed Tree",
+  "kind": "name"
+ },
+ {
+  "en": "Lich",
+  "kind": "name",
+  "note": "As in Lich's Robe (csvt slice_18)."
+ },
+ {
+  "en": "Rotten But Rich",
+  "kind": "name",
+  "note": "Pun: richii = lich / rich ('rotted, but still rich'). Pun survives as Lich/Rich."
+ },
+ {
+  "en": "Mirurubana",
+  "kind": "name",
+  "note": "Matches chap slice_013."
+ },
+ {
+  "en": "Deathly Gaze",
+  "kind": "name",
+  "note": "shide = the journey into death."
+ },
+ {
+  "en": "Girou",
+  "kind": "name",
+  "note": "New name, romanized."
+ },
+ {
+  "en": "Many Dead",
+  "kind": "name",
+  "note": "amata no mukuro = countless corpses (bestiary: made of many skeletons); 10-byte limit."
+ },
+ {
+  "en": "Skull Crown",
+  "kind": "name",
+  "note": "Bestiary: crowned royal remains (crown, not clown)."
+ },
+ {
+  "en": "Sky Bone King",
+  "kind": "name",
+  "note": "'Flying Bone King' is 16 > 14."
+ },
+ {
+  "en": "Death Knight",
+  "kind": "name"
+ }
+]

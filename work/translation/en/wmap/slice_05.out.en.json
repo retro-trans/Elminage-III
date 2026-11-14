@@ -1,0 +1,352 @@
+[
+ {
+  "en": "\"We've been getting stronger too, you know,\nso we won't lose this time!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right then,{w}let's go, everyone!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mighty impressive, as always!\"{w}",
+  "kind": "msg",
+  "note": "Post-battle line (player won); [JP] read as praise of the player party. Works in all 6 dupes."
+ },
+ {
+  "en": "\"Oh, that reminds me.\nDo you guys know anything about the Moonlight Spirit?\"{w}",
+  "kind": "msg",
+  "note": "New term [JP] = \"Moonlight Spirit\"; [JP] (row 324) = \"Sun Spirit\". Both recur often (ITEM_TEXT pairs them as paired spirit motifs); propose for glossary."
+ },
+ {
+  "en": "\"You really do march to your own beat.{w}The Moonlight Spirit? Don't you mean the Sun Spirit?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Nope, the Moonlight Spirit.{w}I've been kinda sorta looking for it.{w}And since I can't find it, it bugs me even more~\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"One way or another, you guys sure know a lot...{w}I really do need to study.{w}",
+  "kind": "msg",
+  "note": "[JP] kept as \"you guys\": could be aimed at Maniron/Yamuru (who just talked spirits) or the player party; English keeps both readings."
+ },
+ {
+  "en": "{0E}\"One way or another, you guys sure know a lot...\nI really do need to study.{0F}\nAnd I have to work harder at alchemy, too...\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} re-displays row 326 (same English, {w} -> \\n as in source), then continues."
+ },
+ {
+  "en": "\"Then just change classes.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ninja! Ninja's the way to go!{w}YAMURU IS DECAPITATED!{w}",
+  "kind": "msg",
+  "note": "Hiragana [JP] mimics the Wizardry battle message; rendered as caps system message \"YAMURU IS DECAPITATED!\"."
+ },
+ {
+  "en": "{0E}\"Ninja! Ninja's the way to go!\nYAMURU IS DECAPITATED!{0F}\n*ding* R.I.P.!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Buddhist altar bell rung for the dead (comic \"he's dead\"); rendered \"*ding* R.I.P.!\" to carry the meaning."
+ },
+ {
+  "en": "\"Why's it gotta be me!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, pipe down.{w}We don't neeeed a thief who can't\neven disarm traps!\"{w}",
+  "kind": "msg",
+  "note": "Aimed at Yamuru (reply to \"Why me?\"); pilot row 362 confirms Yamuru has thief skills."
+ },
+ {
+  "en": "\"You can just go end up\n    *INSIDE THE STONE*\nall by yourself!\"{w}",
+  "kind": "msg",
+  "note": "Wizardry reference: [JP] (party teleported into rock). Rendered as a centered system message \"*INSIDE THE STONE*\"; leading spaces kept for centering, can be dropped if the wrapper mishandles them."
+ },
+ {
+  "en": "\"W-wait a sec...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's right! Electra, don't give up!{w}You're gonna make loads of money as an alchemist, right?{w}Don't go bending your convictions!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mig...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Look.{w}Electra, you need to knock it off too.{w}If you keep wavering any longer, I'm out.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hold... on, Yamuru...{w}Where's this coming from all of a sudden...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Someone who's half-hearted drags everyone else down too.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aw, don't go sayin' that, chief!{w}I'll just dig in all the harder to make up for it!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (Mokero addressing Yamuru) -> \"chief\" to avoid a gendered \"bro\"; glossary gender for Yamuru is unknown."
+ },
+ {
+  "en": "\"That's right!\nElectra's working really hard, you know!\"{w}",
+  "kind": "msg",
+  "note": "Avoided \"her\" (Electra gender unknown in glossary)."
+ },
+ {
+  "en": "\"You'd better think a little harder{w}about what you're actually\nsaying.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Says the one who's already changed classes!\"{w}",
+  "kind": "msg",
+  "note": "\"the one\" instead of \"the guy\" (gender unknown)."
+ },
+ {
+  "en": "\"...Mig.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'll stick with you a little longer, at least.{w}Studying's something you can start bit by bit, too.{w}Now give me an answer.\"{w}",
+  "kind": "msg",
+  "note": "Order kept: stick around / studying can start bit by bit / give an answer."
+ },
+ {
+  "en": "\"......Yeah... You're right...\nI'll try a little harder...{w}...Is that okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Fine.{w}Anyway, we're moving on.{w}Hanging around here forever won't get us anywhere.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Right!{w}Well then, you guys take care too, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Dvel Soft Steel and Frozen Elven Iron...\"",
+  "kind": "data",
+  "note": "data row (overheard line before the Talk/Leave choice). 42 chars; source slot is 40 bytes but text is relocated. New item names: [JP] \"Dvel Mild Steel\", [JP] \"Frozen Elven Iron\" (no ITEM.json English yet)."
+ },
+ {
+  "en": "\"Those two make an Angel's Window...{w}I know that one, since I've made it before.{w}",
+  "kind": "msg",
+  "note": "New item name: [JP] \"Angel's Window\" (RENKIN recipe: Dvel x Frozen Elven = Angel's Window, matches the line)."
+ },
+ {
+  "en": "{0E}\"Those two make an Angel's Window...\nI know that one, since I've made it before.{0F}\nAnd then Ma... Mazu... Mazu-ree-tay?\"{w}",
+  "kind": "msg",
+  "note": "Kanji-reading joke adapted: Electra misreads [JP] (reads [JP] as \"ao\"). English: she mispronounces the coined item name \"Mazurite\" (new name for [JP], ma+azurite). Rows 351-361 depend on this name; if the item list picks another name, rework these rows."
+ },
+ {
+  "en": "\"Miss, that'd be '-rite'...\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"Miss\" (Mokero's fixed address for Electra; it is the source word, not an inferred gender). Mokero corrects only the misread syllable, as in the source ([JP])."
+ },
+ {
+  "en": "\"Huh? Oh, so it's pronounced 'Mazurite'!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Heyyy, some alchemist you are~~...\"{w}",
+  "kind": "msg",
+  "note": "[JP] as a mocking address -> \"some alchemist you are~~\"."
+ },
+ {
+  "en": "\"B-but I know the real thing when I see it, and I can transmute it,{w}and I know what it's called and everything!{w}...Even if I didn't know how to read it.\"{w}",
+  "kind": "msg",
+  "note": "[JP] (what it is called) vs [JP] (how it is read) kept as \"know what it's called\" / \"how to read it\"."
+ },
+ {
+  "en": "\"It's that sort of carelessness, you see,{w}that leaves you red-faced in front of others like this...{w}Now, can you spell 'Mazurite'?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Um... 'Mazuright'...\"{w}",
+  "kind": "msg",
+  "note": "Wrong-kanji homophone [JP] -> misspelling \"Mazuright\" (looks similar, sounds the same), so row 361 still works."
+ },
+ {
+  "en": "\"Ooh, that's our Miss! Beautifully done!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Isn't that kinda wrong-ish?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"'Mazurite'... Like this.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It looks close and it sounds the same, so who cares!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, now, take your time learning it.{w}I'd call that... sixty out of a hundred, shall we say.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"sixty out of a hundred\"."
+ },
+ {
+  "en": "\"Way to go, Electra!\nThat's a better score than last time!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I guess so.........{w}Hmm, with this stuff, I guess the only way\nis to write it out a lot until it sticks...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Electra?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ahahahaha!\nMig, Electra thinks you're a pest!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Huh!? That's not true, Mig!\nThank you, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Am I getting in your way, Electra?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're overthinking it. It's fine!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"You're overthinking it. It's fine!{0F}\nOh, it is you guys.{w}Sorry I'm always so slow to notice!\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} re-displays row 369."
+ },
+ {
+  "en": "\"Maybe they're all ninjas?{w}",
+  "kind": "msg",
+  "note": "Third person (\"they\") for the player party, matching Mokero's reply in row 373; source [JP] is ambiguous between talking to or about them."
+ },
+ {
+  "en": "{0E}\"Maybe they're all ninjas?{0F}\nChop! Off with their heads!\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} re-displays row 371. [JP] -> \"Chop! Off with their heads!\""
+ },
+ {
+  "en": "\"Nah, nah, maybe{w}every last one of 'em's a thief,\nsame as me, eh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Okay, okay, that's enough!{w}Now then, let's put all that studying to the test!{w}...Mig?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No, it's nothing, Electra!\nLet's show them what we can do!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yeah, let's!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Heeeads!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> Maniron craving heads."
+ },
+ {
+  "en": "\"...Electra, am I really not getting in your way?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Seriously, what's wrong?{w}Of course you're not.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But we couldn't win this time either...{w}Electra, don't you really want to change classes?{w}Because if you do, I...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Took you long enough to figure it out.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yamuru!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Yamuru!{0F}\n...It's all right, okay?\"{w}{p}\"If I wanted to change classes, I wouldn't be studying alchemy.{w}I'm studying like this because\nI decided to keep at it, see?\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} re-displays row 382."
+ },
+ {
+  "en": "\"Really? Are you really sure?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Really.\nThe more I learn, the more I can do,{w}and I keep wondering what I'll be able to do next...\"{w}{p}\"Lately studying's been so much fun I can hardly stand it.{w}Maybe I should've started sooner?\"{w}{p}\"So you keep cheering me on, just like that,{w}so I don't run away from it.{w}That way I can try all the harder. ...Is that okay?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = Mig (reply to Mig's worry); kept as \"you\", the scene settles it."
+ },
+ {
+  "en": "\"...Yeah! If you're asking, Electra,\nI'll cheer you on forever and ever!{w}Go for it, Electra! I'll always be with you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ugh, now the noisy one's back to normal...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hey, you! I'll chop your head off!\nRead the room!\"{w}",
+  "kind": "msg",
+  "note": "[JP] (rough \"you\") -> \"Hey, you!\"; threat kept at full strength."
+ },
+ {
+  "en": "\"Reckon that's a happy endin' all round, eh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So it would seem.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right, you guys!\nIt won't go the same way next time, okay?{w}Well then, take care!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh?\"",
+  "kind": "data"
+ },
+ {
+  "en": "\"How are you guys doing?{w}We're doing great over here.{w}I've learned a whole lot more letters, too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Half-baked or not,{w}once you start something, you see it through till it's settled.{w}Otherwise nothing good ever comes of it...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Sounds like someone's speakin' from experience!\"{w}",
+  "kind": "msg",
+  "note": "Refers to Yamuru without naming; \"someone's\" avoids a pronoun (gender unknown)."
+ },
+ {
+  "en": "\"Words only ever come from what\na body has lived through, after all...\"{w}",
+  "kind": "msg",
+  "note": "Korbitz, old-man register: \"a body\" = a person."
+ },
+ {
+  "en": "\"That's what they call\na crank, right...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I am not!\"{w}",
+  "kind": "msg",
+  "note": "[JP] answers the \"crank\" jab (and the experience jab before it) -> \"I am not!\"."
+ },
+ {
+  "en": "\"Go, Electra!\nI'll always be cheering for you!\"{w}",
+  "kind": "msg"
+ }
+]

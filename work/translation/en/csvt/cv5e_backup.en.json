@@ -1,0 +1,1711 @@
+[
+ {
+  "en": "A mace of thin iron plates wound around a thick iron core, the way a snake coils around its prey. The plates are steeped in deadly venom; touching them to a wound inflicts deadly poison. Merely carrying it is also said to grant some resistance to poison.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mace made with nothing but destruction in mind. Bringing its iron fist down on a target gives the wielder a thrill that simply cannot be beaten.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mace blessed by the gods. For clergy, nothing is more reassuring than holding it. Facing the Kin of Darkness, it senses their evil, grows angry and heats up. At times it gets hot enough to burn, yet clergy grip it gladly, saying, \"I can feel the gods' love.\"",
+  "kind": "desc"
+ },
+ {
+  "en": "According to the Goblins, a being of great power once used this ladle to guide the people of the land. It is plain, yet holding it is said to fill you with a warm, somehow nostalgic feeling.",
+  "kind": "desc",
+  "note": "Ladle follows the fixed item name (Sheep's Silver Ladle); Goblins per glossary."
+ },
+ {
+  "en": "A weapon easy to make and easy to use. It lacks power and reach, but it is cheap and handy when you just want something in hand for now. Then again, it feels like you could make one yourself in the dungeon if it came to that.",
+  "kind": "desc"
+ },
+ {
+  "en": "A club made of iron, not wood. So vicious it makes the Wood Club look like a toy. A hit from this is far worse than \"ouch\": it strikes hard enough that a blow to the head might well cave in the skull.",
+  "kind": "desc"
+ },
+ {
+  "en": "A club made solely to beat people to death. The grudges of all it has killed cling to it along with their blood. Anyone it strikes either thrashes about wildly, as if fleeing the agony, or doubles over in mute torment.",
+  "kind": "desc"
+ },
+ {
+  "en": "A beautiful club of clear crystal with a finely decorated grip. The crystal holds such strong magic that it normally can't be touched. It seems you strike with the crystal, but you really strike with the magic barrier around it, so it never breaks however hard you swing.",
+  "kind": "desc"
+ },
+ {
+  "en": "A ranged weapon used by all sorts of people. Poor at rapid fire, but in skilled hands it easily kills a foe before it gets close. By nature, though, it leaves you defenseless, with no way to attack, once a foe gets inside your guard, so carry a Dagger or the like for self-defense.",
+  "kind": "desc",
+  "note": "[accuracy] accuracy: restored dropped 'no means of attack left' ([JP])."
+ },
+ {
+  "en": "As the name says, a bow with far greater range than the Bow. Its range and power can strike down a target so far off it looks like a speck. Only real experts can do that, though: on top of aiming, drawing a Longbow takes great strength, and the training is hard.",
+  "kind": "desc"
+ },
+ {
+  "en": "A cursed bow of warped wood. A twisted bow makes a twisted shot. Aiming at the enemy and hitting an ally in the rear is a common occurrence. Some daredevils use the twist to land telling shots, but it's hardly worth going that far.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bow from a far eastern land, holding power to dispel darkness. It glows when it senses darkness, guiding its demon-slaying arrows. Great on the attack, but a bit awkward when it flashes as you try to flee or hide. Then again, with this bow you'll rarely need to run.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bow fixed to a gauntlet for better accuracy and control, letting you hit targets precisely even on the run. But it is even more fragile once foes close in, so you must keep running and shoot from a distance. Maybe that hassle is the real curse.",
+  "kind": "desc"
+ },
+ {
+  "en": "The bow said to have been favored by Polyte the Bow Saint. Its emerald-green body was said to call the wind of victory to the battlefield, rousing every ally fighting there. It is also known for the emerald-green sparks that scatter the instant an arrow flies.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bow said to have been made by a sorcerer who lives underground. No arrows needed: draw the string at the sky, and sharp diamond crystals appear overhead and rain down. It's dangerous, so always warn your allies before you shoot.",
+  "kind": "desc"
+ },
+ {
+  "en": "They say spirits sometimes borrow the strength of a trusted Ranger to protect the nature they love. This bow is the weapon they hand over then. Its power is superb, but it is the one bow that can never be drawn against a spirit.",
+  "kind": "desc",
+  "note": "[accuracy] accuracy: [JP] = Ranger (lead decision); the bow is a Ranger weapon."
+ },
+ {
+  "en": "A cowhide whip that makes a fine crack. They say a lashing does great mental damage on top of the pain.",
+  "kind": "desc"
+ },
+ {
+  "en": "A whip made not of cowhide but of iron. Where an ordinary whip lashes the body, the Iron Whip also strips away flesh and fighting spirit alike.",
+  "kind": "desc"
+ },
+ {
+  "en": "A whip that silences whoever it lashes. Is it the whip's doing, or are they cowed by its wielder...? Either way, it's a blow you'd rather not take.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bright red whip like a great serpent's tongue. It was named for how its lashing looks just like a great serpent striking. True to its name, it also inflicts deadly poison.",
+  "kind": "desc"
+ },
+ {
+  "en": "Stronger, more elegant. A steel whip evolved further from the Iron Whip. Years of research let it bend just like a normal whip despite being metal. Some adventurers have become different people after getting one. No surprise there.",
+  "kind": "desc"
+ },
+ {
+  "en": "Said to be the whip of the Hell Master, jailer of hell. Its backward barbs catch skin and flesh as it is pulled free, causing agony. The pain is horrible to imagine; some demons cower at the mere sight. A dream weapon every whip user longs to own.",
+  "kind": "desc"
+ },
+ {
+  "en": "A simple wooden staff, standard gear for spellcasting classes. Just as it looks, don't expect much from it as a weapon. Maybe it's good for leaning on when you walk?",
+  "kind": "desc"
+ },
+ {
+  "en": "A small, light staff made just for Fairies. Light, yet carved from sturdy wood, so its attack and durability barely differ from an ordinary staff. A miniature of the ordinary staff, you might call it.",
+  "kind": "desc"
+ },
+ {
+  "en": "The main weapon of the Kannagi, said to be the eastern version of the Priest. Just an odd stick with strange paper strips at the tip, yet it is especially powerful against spirits and undead monsters.",
+  "kind": "desc",
+  "note": "Kannagi/Priest class names per UI corpus and glossary."
+ },
+ {
+  "en": "So battered you could mistake it for a mere branch, it has lost its original form. Being all wood, a staff needs daily care, and neglected it rots easily, like this. Once rotted, nothing will ever restore it, so return it to nature.",
+  "kind": "desc"
+ },
+ {
+  "en": "A rod rich with a fire spirit's power, granting its holder fire's protection. Besides boosting fire power, it lets even those without magic power cast fire magic by swinging it. Its magic never runs out however much it is used, so it's handy even as a backup.",
+  "kind": "desc"
+ },
+ {
+  "en": "Even as a staff, it still holds the breath of life, and that vitality greatly protects its user. As its life fades, its green leaves turn brown and wither until it is just a staff. To prevent this: daily care, watering, and playing it music or talking to it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A holy rod blessed by the gods. It grants its holder the courage of light and the power to repel evil forces. It is also highly valued as an antique.",
+  "kind": "desc"
+ },
+ {
+  "en": "A staff that points to the next one to die. The soul-reaping Reaper is said to go about reaping the souls of those this staff marks. A staff of darkness that curses its owner, too.",
+  "kind": "desc"
+ },
+ {
+  "en": "Home to spirit power, it shields its holder from every kind of elemental attack. It lends aid in attack too, yet the Elemental Wand itself dislikes strife. Legend says that if used only for fighting, it will one day lose the spirits' blessing.",
+  "kind": "desc"
+ },
+ {
+  "en": "A staff meant for spellcasters versed in every spell. Any half-baked mage who takes it up is said to be driven mad by its magic. Wielding great power, it seems, takes matching power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Hand wraps may look like mere bandages on the fists, but there is a reason. One is to cushion punches and protect the fists; the other is to brace them against sprains. Unlike Fighters with swords, a Gladiator's weapons are their own fists, a treasure beyond price.",
+  "kind": "desc",
+  "note": "Fighter = [JP], Gladiator = [JP] per UI corpus."
+ },
+ {
+  "en": "People tend to think a boomerang mows down foes, then circles back to your hand. But a real one lacks the mass to keep its course after hitting, and simply drops when it hits something. If by some fluke it does come back, run. It's dangerous.",
+  "kind": "desc"
+ },
+ {
+  "en": "The kunai is a weapon for assassination: easy to carry, easy to hide, and highly lethal. Throwing one so it sticks in a target is very hard and takes real skill. Once you can throw it and hit, it truly becomes an all-purpose weapon.",
+  "kind": "desc"
+ },
+ {
+  "en": "The torture device long known as the 'Iron Maiden', made into a weapon. Besides impaling those shut inside on its spikes, it opens and shuts freely and is lighter and more mobile. Still bulky and of limited use, it is hard to handle, and few can wield it.",
+  "kind": "desc"
+ },
+ {
+  "en": "No ordinary hawk's: the talon of Balteris, the monster bird of the mountains. Its tip holds poison, rubbed in as it cuts, that causes confusion and hallucinations and robs the foe of all sense of distance. A great edge for Gladiators, who have no reach.",
+  "kind": "desc",
+  "note": "New name: Balteris (romanized from Japanese; monster bird, not in glossary)."
+ },
+ {
+  "en": "A Mage's Crystal has no power alone, but gains limitless power from its holder's magic and can be moved by magic without being held. If an enemy mage wields one freely, beware: in earnest, they can zip that flying crystal before your eyes in an instant.",
+  "kind": "desc"
+ },
+ {
+  "en": "Knuckles of a legendary ore said to sleep deep in the earth. They awaken the power sleeping deep in a Gladiator's body, unleashing true strength. Blades on the fists add punching power, and can also catch an enemy's sword and the like.",
+  "kind": "desc"
+ },
+ {
+  "en": "The Ninja's basic yet strongest weapon. Unlike the kunai, it is mainly thrown; spinning steadies its flight. Kunai are hard to hit with, but shuriken hit easily, so the two are used together. Loosed near-silently from darkness, they sow deep fear in foes.",
+  "kind": "desc"
+ },
+ {
+  "en": "A fairy tale in which Notis, a prince mocked for his long nose, rescues a princess kidnapped by the Demon Lord. Popular with children, it is a favorite first book for new parents to buy their child.",
+  "kind": "desc",
+  "note": "New name: Notis (romanized prince name from the fairy tale; not in glossary)."
+ },
+ {
+  "en": "A book of pictures and write-ups of eastern monsters, with legends and tales about them. Inside, it is packed with oni, tengu, kappa and other unique monsters. Indeed, unlike monsters here, they are insidious and very creepy. Trust the East: it's not just the classes that are odd.",
+  "kind": "desc",
+  "note": "[accuracy] accuracy: [JP] is gloomy/insidious, not 'sly'."
+ },
+ {
+  "en": "A book applying spell theory to economics, a revolutionary idea in its day. Its economics are actually little use. Frankly, they're nonsense. But the spell theory used to explain them is so detailed that it is hugely popular as a spellbook rather than an economics text.",
+  "kind": "desc"
+ },
+ {
+  "en": "A tale of a boy raised as a girl and a girl raised as a boy. 'Torikaebaya' seems to be old Eastern for 'I wish I could swap...'. In the tale, what's swapped is the children's gender, but lo, a third gender has awakened! What is it? See it with your own eyes.",
+  "kind": "desc",
+  "note": "Torikaebaya kept as in the item name; the source placeholder (circle circle) rendered as an ellipsis."
+ },
+ {
+  "en": "A book of all kinds of hush-hush knowledge. Its content is... well... indecent. But since it varies by race and customs differ by culture, it is at times studied quite seriously. Once, a rumor that releasing SP lets you reach Master Level sold it out continent-wide.",
+  "kind": "desc",
+  "note": "SP / Master Level kept literal; the rumor is a joke whose exact game-mechanic reference (SP) is uncertain."
+ },
+ {
+  "en": "A detailed history of this continent. Scholars drew on every surviving record and talked to people who lived in those times to revive the history very accurately. Now and then, why not look back at the history of those who came before?",
+  "kind": "desc"
+ },
+ {
+  "en": "Those without the right see nothing in this book. But those who have it are said to see a mysterious string of letters, which differs for each reader and changes over time. Well, care to try it yourself?",
+  "kind": "desc"
+ },
+ {
+  "en": "An encyclopedia of everything in the world. A very heavy, thick book whose contents are no joke. Constantly updated by the continent's Central Library, it keeps growing; reading it all alone is said to be impossible. Even its editors know only their own sections.",
+  "kind": "desc"
+ },
+ {
+  "en": "A shield made for deflecting and parrying attacks. It is a bit too weak to rely on for blocking blows head-on, so use it to shut down enemy attacks as early as you can.",
+  "kind": "desc"
+ },
+ {
+  "en": "A medium shield, bigger and heavier than a Buckler. It blocks attacks more easily, but held close to the body it creates a large blind spot. Being heavier, it can't make some moves a Buckler can, so adjust how you use it.",
+  "kind": "desc"
+ },
+ {
+  "en": "Unlike the Buckler and such, which suit a range of classes, it is made for warrior classes, and built sturdily. Naturally it is heavy and needs real strength to handle, but the sense of security it gives once equipped is great.",
+  "kind": "desc"
+ },
+ {
+  "en": "A shield that looks cursed through and through. The picture on it is said to depict the sun. It does sort of look like one... But nothing can be done about the sheer menace oozing from it.",
+  "kind": "desc"
+ },
+ {
+  "en": "Made of beast bone alone, with no iron at all. Lacking iron or other usual shield materials, it is very light and easy to handle. Nor is it brittle just because it is bone: it is far harder and tougher than any run-of-the-mill iron shield.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Knight Shield a rank above, with care put into its materials and ornament alike. It uses red and gold for splendor, with a lion ornament at its center as a symbol of strength. Knights who gain a Knight Shield +1 are said to swell with new pride and duty.",
+  "kind": "desc"
+ },
+ {
+  "en": "Like the rest of the Innocent series, a shield only those who mastered one path without ever straying may wear. It is simple, but holding it surely feeds the confidence that you have mastered your path.",
+  "kind": "desc"
+ },
+ {
+  "en": "A shield painted with a strange eye pattern. It hardly looks holy, but you do sense some such power. Then again, maybe the foes you fight and the beings this shield hates just happen to be the same?",
+  "kind": "desc"
+ },
+ {
+  "en": "A shield with holy power, favored by Valkyries and others who serve the gods. Made of light iron, it is light and easy to use. Light iron is said to break easily, yet perhaps thanks to divine blessing, it is not fragile. If a Priest goes up front, do give them one.",
+  "kind": "desc",
+  "note": "Valkyrie = [JP] class name per UI corpus."
+ },
+ {
+  "en": "Modeled on a demon's wing: light, hard, easy to use and very effective. But only those of Evil alignment can use it. In the hands of someone with a conscience, it loses its power at once and is no better than a scrap of iron plate.",
+  "kind": "desc"
+ },
+ {
+  "en": "A shield polished like a mirror. Its surface is said never to scratch, however heavy the blow. This mirror is also said to show things' true forms; since no lie can be told before it, it was named the Truth Shield.",
+  "kind": "desc"
+ },
+ {
+  "en": "Some demons have mighty wings that ordinary swords cannot beat. The Demon Wing is a shield crafted from such a dead demon's wings. Some say people were 'eaten' by it and became demons. Handle it with great care. It is of the Kin of Darkness, after all.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sturdy shield of mithril, said to repel any attack to protect its owner. It is fine armor, but some adventurers seek it solely to sell to nobles wanting prestige.",
+  "kind": "desc"
+ },
+ {
+  "en": "A shield of dragon scales fitted together. Making one means slaying a mighty dragon, so it counts as a rarity. Scale patterns differ with each dragon, so it is prized as art and has many collectors. Given its value, shoddy fakes of dragon scale circulate, too.",
+  "kind": "desc"
+ },
+ {
+  "en": "A miraculous shield said to be born when the light of truth reaches the darkness of myth. It will protect you, who perceived the lost divine power, for life. Use it in a crisis, and it will call down its power of old for you.",
+  "kind": "desc"
+ },
+ {
+  "en": "The head is the most dangerous place for people or monsters to be hit. As the name says, this helm is leather: worse than iron headgear, but many classes can wear it. Made of many layers of hide, it gets stuffy in hot places or in summer.",
+  "kind": "desc"
+ },
+ {
+  "en": "Besides iron ones, they say some were of hide or of washi paper hardened with lacquer, but perhaps since the craft was lost, only iron ones exist now. It is quite heavy, yet its defense does not match its weight, so its faults stand out.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword made entirely of gold, hilt included. Even its blade and ornaments are gold, so it was likely meant for display. But smiths charmed by its beauty wished to make it practical. Most of those found among adventurers today have been adjusted for real use.",
+  "kind": "desc",
+  "note": "Sword description sits among helms in the table; translated as-is (item name Hyakka Sword from ITEM slices)."
+ },
+ {
+  "en": "A distinctive helm whose face juts out like a bird's beak. Odd as it looks, the shape works well to deflect blows from the front. The face part also moves, and can be flipped up when not needed.",
+  "kind": "desc"
+ },
+ {
+  "en": "A helm made from a demon's skull, giving off a baleful aura. It seems the demon was powerful in life, and strong demonic power remains in the skull even after death. Clergy who carelessly touch it are said to lose their sanity.",
+  "kind": "desc"
+ },
+ {
+  "en": "A helm shaped to cover the whole face, said to be modeled on the sallet and the Bascinet. Its name comes from the back of the helm resembling a flower. Since it covers the whole head, it gives the head quite high defense.",
+  "kind": "desc"
+ },
+ {
+  "en": "Paired with the Evil Shield and the like. Armor is mostly designed and made in sets from head to toe, and the Evil series is no exception. Wear this blood-dyed helm into battle, and foes will see you as a demon drenched head to toe in your enemies' blood.",
+  "kind": "desc"
+ },
+ {
+  "en": "A helm that now guards the back of the head and neck, which the Ashigaru Helm could not. Its sides bend back by the face, a technique called fukigaeshi. In the East, mid-rank samurai all wear one; they rank about like company captains here.",
+  "kind": "desc"
+ },
+ {
+  "en": "A helm aiming for total defense by covering the whole face. It does raise defense, but you can't communicate by expression, which can breed distrust; take care, more so if you are quiet. When forming a new party, it's only polite to take it off now and then to smile.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mask worn at masquerade balls and the like, to hide one's status and enjoy a night of glamour. But some wear it with other feelings. What heart dwells in this cursed mask? Only one who wears it could know.",
+  "kind": "desc"
+ },
+ {
+  "en": "A ring woven of young laurel twigs with leaves is a laurel wreath. Laurel has long been known as a sacred tree, and a ring is thought to circulate and amplify its power. That power is so strong it defends far better than any mere crown of leaves.",
+  "kind": "desc"
+ },
+ {
+  "en": "A helm modeled on a dragon's head. It is good armor, and it also lets even those not of dragon kin use breath attacks. How it inherited the dragon's power, and how it is made, remains shrouded in mystery.",
+  "kind": "desc"
+ },
+ {
+  "en": "The princess's headband every woman dreams of. Its intricate ornament turns its surroundings silver in even faint light. Women are curious things: with one tiara, the air about them turns crystal clear. Maybe that is the Silver Tiara's real magic.",
+  "kind": "desc"
+ },
+ {
+  "en": "A golden helm with a pair of horn-like metal ornaments at the sides of the brow. The rest is mostly gold, too, making it very lavish. Its wearers are captains and lords; the color is said to cry \"A lord stands here!\", rousing allies and daunting foes.",
+  "kind": "desc"
+ },
+ {
+  "en": "Made to cover the entire head, using rare mithril generously. Made of iron, it would weigh so much it would badly restrict movement, but mithril made it lighter and harder. The drawback, as you'd expect, is how rare mithril is.",
+  "kind": "desc"
+ },
+ {
+  "en": "A hat so fluffy you'll want to snuggle it on sight. It is warm, and more cold-weather gear than armor. It is hard to wash, though, so try not to get it dirty, or wash it gently.",
+  "kind": "desc"
+ },
+ {
+  "en": "A hat of black-lacquered paper, made with a unique Eastern technique to be strong enough for combat. Said to be part of the Kannagi's formal attire, it is apparently quite prestigious.",
+  "kind": "desc"
+ },
+ {
+  "en": "A cotton handkerchief, tie-dyed or printed in calico patterns, is called a bandana when tied around the head. They come in many patterns and colors, so every bandana has its own character. Being a handkerchief at heart, it has many uses beyond being worn, such as wiping sweat or stanching blood.",
+  "kind": "desc"
+ },
+ {
+  "en": "A hat torn in fierce combat. Few garments come through battles full of flying swords, arrows and spells unscathed. Conversely, if you see an adventurer wearing gear like this without a speck of dirt on it, you should assume they are highly skilled.",
+  "kind": "desc"
+ },
+ {
+  "en": "A strange hat that has sprouted wings. A miracle of the gods, or a devil's prank? Wear it and you feel you could fly, but only the hat would fly away. The wings are linked to the wearer's mood and move in funny ways: twitching when happy, flapping when flustered, folding shut when sulking.",
+  "kind": "desc"
+ },
+ {
+  "en": "A wig is normally an adornment for the head. What situation could call for wearing a wig with no hair? A truly baffling item. Yet the most baffling thing of all must be the fact that monsters drop these. Hair Remover! Hair Remember!",
+  "kind": "desc",
+  "note": "Hair Remover / Hair Remember keeps the source's English-loanword wordplay."
+ },
+ {
+  "en": "Naturally, some adventurers are women. So as not to forget she is a woman before she is an adventurer, she adorns herself with a steel hairband. A little touch of style: will that special someone like it? Giving your all in love and adventure! Let's go, girls!",
+  "kind": "desc",
+  "note": "Source is written as a girl's cheerful voice; 'she' is the generic female adventurer the text describes."
+ },
+ {
+  "en": "A hat made for mages. It completely nullifies silence spells. Nothing can stop the chanting of a caster wearing it; foes can only flee from the spells unleashed. But mages, keep one thing in mind: magic power is not infinite. Get carried away and you may get burned.",
+  "kind": "desc"
+ },
+ {
+  "en": "This hood senses its wearer's tastes and endlessly tells them jokes funny enough to make them die laughing. So hilarious are they that the wearer forgets all knowledge. Yet knowledge alone would be fine. Wear this hood in public, and your authority and trust will also be socially LOST.",
+  "kind": "desc",
+  "note": "LOST = the Wizardry-style permanent character loss (corpus: 'lost'); kept as the joke."
+ },
+ {
+  "en": "A Bandana Soul fires you up more than a bandana. It began when a Gladiator in a bandana cried, \"This bandana has no soul! I need one with soul in it! First, how it's tied!\" and tied it their own way. A bandana's soul: Bandana Soul. Obvious, really, yet it's a hit with Gladiators and Rangers.",
+  "kind": "desc",
+  "note": "Name pun bandana + soul. Gladiator's gender not stated: 'their'. [accuracy] accuracy: [JP] = Ranger (lead decision)."
+ },
+ {
+  "en": "A hat knitted from magic thread to raise magic power. Wearing it is sure to amplify a mage's power. The greater the wearer's power to begin with, the stronger the boost, so a decent caster becomes a strong one, and a strong caster becomes an unstoppable one.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor of iron that covers the whole body. Being iron, it gives high defense, but it is very heavy in exchange. For front-liners, it is the gear that lets them cover themselves head to toe and breathe easy for the time being.",
+  "kind": "desc"
+ },
+ {
+  "en": "Full-body armor made for knights. Designed with mounted combat in mind, it is issued to knights in national service below the rank of captain. Its basic performance differs little from Plate Mail, but it is somewhat easier to move in.",
+  "kind": "desc"
+ },
+ {
+  "en": "For those who fight on the front line in full armor, armor is a consumable. However well they dodge, no one can avoid every attack, and those attacks rarely leave just a scratch. Yet to the wearer, such armor may be a mark of pride. Provided, of course, the wearer is still alive.",
+  "kind": "desc"
+ },
+ {
+  "en": "Men cannot equip it; women cannot either. Only the third gender can. That is the Varios Sword. Its length falls between a sword and a dagger, and its edge leaves nothing to be desired. It is said some wear it to subtly announce who they are.",
+  "kind": "desc",
+  "note": "Source: the sword can be equipped by neither male nor female, only the 'third gender'."
+ },
+ {
+  "en": "Plate Mail made lighter by shaving off needless parts while keeping the same material. It was made with input from those who actually wore Plate Mail on the front line, so it is well liked in the field. The word is: rather than buy Plate Mail, stretch your budget a little and buy Plate Mail +1.",
+  "kind": "desc",
+  "note": "Source typo itta (said) read as itta (went)."
+ },
+ {
+  "en": "Neither good nor evil. Neither ally nor foe. Only such a one, seeking to stop a pointless fight between both sides, may wear this armor. The Neutral alignment is generally thought hard to grasp. That shows how many live by cozy collusion. Neutral adventurers, be noble.",
+  "kind": "desc",
+  "note": "nareai = going along with others out of familiarity/collusion; rendered 'cozy collusion'."
+ },
+ {
+  "en": "Armor with magic-defense spells cast over its whole surface. They are little more than a charm, but having them or not makes a world of difference. Fighters, poor in magic defense, favor it. It is one of the armors spellcasters find most troublesome.",
+  "kind": "desc",
+  "note": "[accuracy] accuracy: [JP] = Fighter class (glossary)."
+ },
+ {
+  "en": "Bright red armor, as if dyed all over in blood. Foes on the battlefield are said to have feared its wearers, taking them for demons. Nor was that wholly a mistake: all who wear it fight cruelly, and when the battle ends, blood drips from every inch of the armor.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gleaming armor made of crystal. Being see-through, it is often assumed to be light, but it is a solid lump of stone and quite heavy. Unlike other armor, you also have to watch what you wear underneath it.",
+  "kind": "desc",
+  "note": "Joke: the armor is see-through, so mind your underclothes."
+ },
+ {
+  "en": "Armor said to last a lifetime once you have it. However, given the high price of mithril and its beauty, Mithril Plate was traded mainly for display. Even when used on the battlefield, it is rarely seen on the front line.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor blessed by the gods, which only those of high standing may wear. Only Lords can equip it, but if you obtain it, its wearer will become an even more dependable guardian of the party.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gear designed to protect the wearer's chest. Unlike full armor it covers only the torso, so it is easy to move in and favored by swift warriors who live by hit-and-run. Defense or mobility? On that, opinions are divided among wearers.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor worn by low-ranking samurai in the eastern land. Its defense is modest, but it is so versatile it is easy to mass-produce. That made it cheap to equip a whole unit, and it was prized for giving a unit a uniform look and sense of unity.",
+  "kind": "desc",
+  "note": "Source anni (careless) read as youi (easy), a typo."
+ },
+ {
+  "en": "A fallen samurai is an eastern samurai who survived a war on the losing side and fled. The armor such a fugitive wore is called Fallen Samurai Armor. Attacked by enemies while fleeing, its back bristles with arrows. They ran for their lives, with no time to pull the arrows from armor or body.",
+  "kind": "desc",
+  "note": "ochimusha explained through the item name 'Fallen Samurai'."
+ },
+ {
+  "en": "A breastplate for Rangers, with no shoulder strap on the right side to make drawing a bow easier. Besides guarding the chest, it also serves as a guard to keep the bowstring from injuring the wearer's chest.",
+  "kind": "desc",
+  "note": "[accuracy] accuracy: [JP] = Ranger (lead decision). ITEM name 'Hunter Guard' left as is (not this file)."
+ },
+ {
+  "en": "Armor that spoiled young nobles wore to the battlefield on a lark, which at some point began circulating among the public. It is pretty enough that some want to wear it, but it is like parading your wealth, so be ready to be attacked now and then.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor said to have been worn by swordsmen of the eastern land while guarding the coast. It is far more decent than Ashigaru Armor. Perhaps because it puts practicality first, it is extremely plain.",
+  "kind": "desc"
+ },
+ {
+  "en": "A breastplate made of white silver. It shines beautifully, but tarnishes quickly if neglected. If you get splashed with blood, wipe it off fast. Some alchemists take on polishing jobs for armor of this kind.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ice breastplate wreathed in cold. Its chill lets it lessen fire attacks a little. But its true worth lies in special defense. Perhaps it chills the heart, too, for it fully nullifies several special attacks. A lasting favorite of mid- to high-level adventurers.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor made to offer victory to the goddess. Legend says battle maidens wore such offered armor into war. Following that legend, it is still made today for Valkyries. Wearing it, they gain the pride and strength of the battle maidens who guarded the goddess.",
+  "kind": "desc",
+  "note": "shinnyo = Valkyrie class (corpus); ikusa-miko rendered 'battle maidens' to keep it apart from the class name."
+ },
+ {
+  "en": "This kuroito odoshi is said to be made in a special style of the eastern land. That style never reached this continent, so the only ones here were brought over from the East somehow. With beauty as well as defense, this armor is truly a mystery of the East.",
+  "kind": "desc",
+  "note": "Kuroito Odoshi kept romanized as in the item name."
+ },
+ {
+  "en": "Chain mail's most notable trait is that, unlike other armor, it is very flexible. It barely restricts movement. Also, worn at all times outside battle, it protects you from sudden raids and assassins. It may be the armor you can keep closest at hand.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor made of many overlapping cut iron plates. It combines iron's high defense with a chain-mail-like flexibility that fits the body. But it is hard to maintain; slip up and the iron joints soon rust, leaving it useless. So some people never maintain it at all and just treat it as disposable.",
+  "kind": "desc"
+ },
+ {
+  "en": "Chain mail made with elven magic arts. On top of normal chain mail performance, it resists magic, making it an all-round design. But as it is made with magic arts known only to elves, humans cannot wear it.",
+  "kind": "desc"
+ },
+ {
+  "en": "Chain mail with the power of fire woven into its links. Wearing it protects you from cold. Also, casting fire spells creates a synergy that deals more damage than usual. Its powers are the exact opposite of Ice Chain Mail's; the two are a matched pair.",
+  "kind": "desc"
+ },
+ {
+  "en": "Chain mail with the power of ice woven into its links. Wearing it protects you from fire. Also, casting ice spells creates a synergy that deals more damage than usual. Its powers are the exact opposite of Flame Chain Mail's; the two are a matched pair.",
+  "kind": "desc"
+ },
+ {
+  "en": "Why does adding a face covering to chain mail make it look so eerie? In fact, chain mail of this shape was used to transport prisoners and criminals. It was not meant to guard against foes outside, but to keep the threat inside from getting out.",
+  "kind": "desc"
+ },
+ {
+  "en": "Chain mail blessed by a god and imbued with holy power. The blessing guards the wearer from dark magic and amplifies holy magic. Being chain mail, it can be worn under a habit without anyone noticing. Partly for that reason, it is the gear clergy favor most.",
+  "kind": "desc"
+ },
+ {
+  "en": "Chain mail holding the powers of fire and ice at once. As chain mail, its defense is not absolute, but its special effect gives high resistance to fire and ice spells and amplifies both. Fire and ice rarely coexist; this chain mail truly deserves to be called a miracle.",
+  "kind": "desc"
+ },
+ {
+  "en": "Unlike iron armor, which is picky about classes, leather armor can be worn by a great many classes. Everyone wears it at least once.",
+  "kind": "desc"
+ },
+ {
+  "en": "Even animal hide becomes fairly sturdy armor if you take the trouble to boil it in wax and harden it. It is a bit heavier, but acceptably so given its strength. However, the extra work raises the price too, so it is a judgment call.",
+  "kind": "desc"
+ },
+ {
+  "en": "Leather armor rotted to tatters. What became of the one who wore it? Did they escape safely, or were they left to lie in the dungeon along with this armor?",
+  "kind": "desc"
+ },
+ {
+  "en": "Leather armor set with gems. At first glance, setting gems into it seems utterly pointless. But these gems hold a faint trace of spirit power, and they are set into the leather in hopes of that power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Made from parts of a dragon that could never be used for proper armor, such as the soft parts of its scales. Even so, it is still dragon, so it has defense to match. Every part of a dragon is precious, so all of it is used and nothing goes to waste.",
+  "kind": "desc"
+ },
+ {
+  "en": "Robes are thought of as giving only token protection. But that is a mistake. Some are woven of thread soaked in holy water to raise holy defense, or reinforced with magic thread or monster hair. Well, this robe is just a robe.",
+  "kind": "desc"
+ },
+ {
+  "en": "Clothes made for Fairies only. They are far too small for anyone else to wear. Small as they are, they have real defense and durability. For a Fairy, already nimble, just wearing these should be quite effective.",
+  "kind": "desc"
+ },
+ {
+  "en": "Black garb favored by assassins of the eastern land, so they can melt into the dark and kill their target unnoticed. Besides camouflage, it is designed for ease of movement; you could call it gear made for assassins. If you hear even a faint sound from empty darkness, be on your guard.",
+  "kind": "desc"
+ },
+ {
+  "en": "A robe worn to tatters and full of holes. But it is only natural for a robe to end up in tatters. It is just cloth, after all; asking a robe for durability and defense is simply unfair.",
+  "kind": "desc"
+ },
+ {
+  "en": "A robe given some toughness. Due to the kind of material used, it turned green all over. It is sturdier than a plain robe, but that is all it is.",
+  "kind": "desc"
+ },
+ {
+  "en": "Originally a training uniform called a dogi, from the eastern land. Those who make their fists their killing move, like Gladiators, find it very comfortable, and it is now made for Gladiators. It is easy to move in, absorbs sweat well, and makes special moves easy to pull off.",
+  "kind": "desc"
+ },
+ {
+  "en": "Whether or not anyone actually cried \"The Green Robe won't do!\", here is a robe with even more toughness. Due to the material, this time it turned blue. Many mistakenly imagine it has something to do with ice spells, but it does not, at all.",
+  "kind": "desc"
+ },
+ {
+  "en": "Formal attire of the Kannagi, a sort of eastern Priest. Its sheer silken overgarment and faintly crimson cherry blossom embroidery are lovely. Some adventurers are said to become Kannagi out of longing for this outfit. And it is not only lovely: it also protects, making it a fine pick as armor too.",
+  "kind": "desc",
+  "note": "kannagi = Kannagi class (corpus); tenshoku = class change."
+ },
+ {
+  "en": "A robe adorned with crests to raise magic resistance. The boost may be slight, but if it improves your odds of coming through unscathed, so much the better.",
+  "kind": "desc"
+ },
+ {
+  "en": "Made of extremely light material, it sways in breezes too faint to feel, hence the name. Since it is always wrapped in a fresh breeze, it can blow away mild drowsiness.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bright red robe that reduces fire damage. Common low-level fire spells become mere trifles. Its brilliant crimson glow makes you the center of attention just by walking. Stride through town with its hem flaring, and everyone will turn to look.",
+  "kind": "desc"
+ },
+ {
+  "en": "A robe holding the power of lightning. It is said to be woven from thread blessed by Zilphe. It has very high resistance to lightning magic; ordinary lightning attacks won't hurt you no matter how many you take.",
+  "kind": "desc",
+  "note": "Zilphe: new name, romanized (not in glossary or corpus)."
+ },
+ {
+  "en": "A robe of black and milky white in lovely contrast, like the midnight moon. Light and dark dwell together in it, giving it both Holy and Dark attributes. Its thin, light cloth looks nearly useless, but moonlike light and black mist envelop the wearer, giving very high defense.",
+  "kind": "desc",
+  "note": "Holy/Dark = attribute names as in ebt ('Holy Attack', 'Dark Attack')."
+ },
+ {
+  "en": "The finest robe, which only Bishops may wear. Thanks to protective spells woven into it, light as it is, it gives better evasion than common armor. A Bishop who can wear this robe may be called a full-fledged one.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gauntlets made of leather. The soft leather keeps them light and the fingers nimble, so you can react instantly to all kinds of situations. In exchange, their defense is meager; they feel close to ordinary gloves.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gloves for Fairies only. They are so tiny that ordinary people cannot possibly wear them. Small as they are, they are very finely made. Only fairy artisans make this possible; human or elven fingers could never make them.",
+  "kind": "desc"
+ },
+ {
+  "en": "Hand guards developed in the eastern land. The plated back can parry powerful slashes, but that takes a great deal of training. The fingers are said to have no iron to make holding a katana or drawing a bow easier.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gauntlets made of iron. They are segmented like bellows to protect the whole hand and fingers while allowing some freedom. You can't spread your hand wide, but you can grip a sword with no trouble at all.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gauntlets slashed to ribbons. They have taken so many blows that they can no longer serve as armor. Perhaps out of the former owner's bitter regret, equipping them will curse you.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gloves with a protective spell placed on the back of the hand. Don't expect much defense, but they raise resistance to spells. Note that they do not raise the power of your spells.",
+  "kind": "desc"
+ },
+ {
+  "en": "Lovely gauntlets adorned with roses, which only women who fight may wear. For whom does a lone rose blooming on the battlefield swing her sword? By this continent's custom, you don't get Rose Gauntlets yourself; they should be a gift from someone close to your heart. If you get some, give them to that someone!",
+  "kind": "desc",
+  "note": "ki ni naru ano ko is gender-neutral: 'that someone'. 'her sword' follows the source: only women may wear it."
+ },
+ {
+  "en": "Gauntlets made of steel. Crafted with the finger joints in mind, they let you grip a sword as naturally as with bare hands. Their defense is high as well, which makes them popular.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gloves of bobbin lace. They are costly, as an artisan must spend vast amounts of time making them. But they are worth the price; the lace is superb. The thread is soaked in holy water at a temple, so they hold holy power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gauntlets in the shape of a mantis. Insect monsters will flee at the mere sight of them. But insects are not the only ones who fear mantises. You understand, don't you?",
+  "kind": "desc"
+ },
+ {
+  "en": "Gloves modeled on the hands of Death. The bones on the back are a demon's hand bones. Wear these with a black robe and a great scythe, and you'll look every bit the Reaper. Just don't get carried away and summon the real thing.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gauntlets made of mithril, said to be so light you forget you have them on. Their defense is high too; they can take anything from sword slashes to a giant monster's claws. They need less mithril than shields or armor, so many have been made.",
+  "kind": "desc"
+ },
+ {
+  "en": "Made of divinely blessed metal and a large bloodstone. Bloodstones have many uses, such as adorning a temple's holy statues, so one this large is a rare luxury. Treat them carelessly and lose them, and you'll make an enemy of every priest on the continent.",
+  "kind": "desc",
+  "note": "souryo here = clergy in general, lowercase 'priest'."
+ },
+ {
+  "en": "Buskins are half-boots with thick cork soles. Being cork, they have almost no durability; it is no different from walking barefoot. They are also very light: again, no different from walking barefoot. In other words, they are a matter of appearances.",
+  "kind": "desc"
+ },
+ {
+  "en": "Slippers woven from straw, common in the eastern land. Being straw, they are extremely light. Samurai are especially fond of them and rarely want to wear anything else on their feet.",
+  "kind": "desc"
+ },
+ {
+  "en": "Boots come in many kinds. Colors and shapes, of course, but materials also vary widely. Of all those boots, these were made for tramping around battlefields and dungeons. Note that, as with all boots, they get sweaty, so... frankly, they stink.",
+  "kind": "desc",
+  "note": "Boots item name not yet in csvt outputs; 'Boots' assumed."
+ },
+ {
+  "en": "Boots made for roaming forests and streams. They are full of touches that hide your presence from small animals and the like. Sneak up on any animal in these, and it will take a fatal blow.",
+  "kind": "desc"
+ },
+ {
+  "en": "Boots made of iron. Being iron through and through, they make flexing the ankles and other joints very hard. Add the weight of armor and helm and it gets very heavy, so first practice walking in just the boots, without armor or the like.",
+  "kind": "desc"
+ },
+ {
+  "en": "Lustrous, beautiful dancing shoes. They bear a former owner's sin and curse: whoever wears them will dance until they die. To take them off, you may have to sacrifice your feet. Will the day ever come when the sin is forgiven...",
+  "kind": "desc"
+ },
+ {
+  "en": "Boots made of steel. Making the most of steel's properties, they are finished as well-balanced, easy-walking footwear. Any mid-level adventurer should make a point of getting a pair.",
+  "kind": "desc"
+ },
+ {
+  "en": "Shoes made by dwarven craftsmen. Made of sturdy material, they give firm footing even on somewhat rough ground. Non-dwarves can equip them too.",
+  "kind": "desc"
+ },
+ {
+  "en": "Boots holding fire magic. They are fine armor, and they also amplify fire power and reduce ice damage. Despite the name Fire Boots, they won't burn your feet when you put them on, so equip them without worry.",
+  "kind": "desc"
+ },
+ {
+  "en": "Beautiful shoes made of silver. In good condition, their gleam in the sun can be seen from quite far away. Made with almost no seams, they won't let water in from below, even when you wade in.",
+  "kind": "desc"
+ },
+ {
+  "en": "Sandals with a dainty pair of little wings. Holy power dwells in this armor, and a protective force is at work. Talk to them and the wings seem to flutter in reply... or is that just your imagination?",
+  "kind": "desc"
+ },
+ {
+  "en": "Platinum slippers. Like gold, platinum resists acid. Being tough and durable, a found pair may be handed down for generations in an adventurer's family. Dig through your closet and you may find Grandpa's or Grandma's Platinum Slippers. Maybe their platinum dentures too.",
+  "kind": "desc"
+ },
+ {
+  "en": "Pitch-black boots that melt into the darkness. Assassins favor them, so most who own them never die a decent death.",
+  "kind": "desc"
+ },
+ {
+  "en": "Shoes made of a mysterious glass. You can wear them normally, and they won't break even if you run. Rumor has it that sometimes only one is ever found.",
+  "kind": "desc"
+ },
+ {
+  "en": "Shoes wrapped in a white radiance. Their holy power reaches even your footsteps; it's said a mere stamp drives off lesser spirits. Priests in this world can serve in the front or back row, but if you put one up front, do give them these.",
+  "kind": "desc"
+ },
+ {
+  "en": "A cloak worn by many adventurers on their first outing. Don't expect much defense; it serves more to keep out the cold. So even novices can afford it, it has no decoration at all and is priced as low as possible.",
+  "kind": "desc"
+ },
+ {
+  "en": "A belt martial artists wear as proof of their own training. If your opponent is wearing one, you'd do well to be on your guard.",
+  "kind": "desc",
+  "note": "JP calls it a [JP] (waist wrap); 'belt' matches the item name Warrior's Black Belt."
+ },
+ {
+  "en": "A grubby cloak with clasps and buttons coming loose. Your time is finite. Waste it aimlessly and your cloak, too, will soon look like this. And yet the eyes of the fallen have not lost themselves. Why might that be?",
+  "kind": "desc"
+ },
+ {
+  "en": "This sword is a bit smaller than other two-handed swords. So it allows quicker movement than an ordinary two-handed sword, and lets even adventurers without much strength make powerful attacks.",
+  "kind": "desc"
+ },
+ {
+  "en": "A cloak that blesses those who find the path they must follow. Its defense is modest, but its spell resistance is strong. Even high-level adventurers are said to find it hard to part with. Some who lose the right to wear it can't bring themselves to toss the cloak that saw them through their youth.",
+  "kind": "desc",
+  "note": "Compressed to fit: 'unable to throw it away' folded into 'still keep'."
+ },
+ {
+  "en": "A mantle styled on the new moon. A new-moon night, out of light's reach, is called the 'Holy Darkness', Yaha, when the Kin of Darkness are said to be weakest. Yes, darkness is not always evil. It is a holy chaos that births the power to live, a cradle of the heart that soothes the soul.",
+  "kind": "desc",
+  "note": "New term: Yaha ([JP]) = Holy Darkness. Kin of Darkness per glossary."
+ },
+ {
+  "en": "An apron only fully trained servants may wear. The dirtier it gets, the more its wearer is said to have served their master. Each master, and each servant, needs different work done, so the 'Master Apron' comes in many forms.",
+  "kind": "desc"
+ },
+ {
+  "en": "A cloak with a griffon's wings worked into it. The power of the noble magical beast is said to grant its wearer a courage that flinches before nothing.",
+  "kind": "desc",
+  "note": "JP text writes [JP], item name [JP]; both rendered griffin. [accuracy] consistency: text says [JP] = 'Griffon' (MONSTER1); the item name uses [JP] = Griffin, as in the source."
+ },
+ {
+  "en": "Great wings of jet black beat only in dreams. Wrap yourself in this mantle and darkness is your ally. Cast off the base light, and welcome to the farthest reaches of the heart.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mirage is an illusion. This cloak acts on the space around you, making your image appear many times over. Sluggish foes will hardly ever land a hit.",
+  "kind": "desc"
+ },
+ {
+  "en": "A blade a bit long for a dagger. It comes to a sharp point and has no edge. Some doubt it can kill, given its shape, but assassins favor it. It's easy to carry, and the fatal wounds it deals are hard to notice in an assassination; that seems to be why.",
+  "kind": "desc",
+  "note": "JP [JP] (sword) with a dagger-length blade; rendered 'a blade'."
+ },
+ {
+  "en": "\"Every adventurer ought to wear this cloth as underwear,\" say those from the East, but it's rather embarrassing. If you don't mind, wearing one to learn another culture could be fun. Its unique look and feel win some people over.",
+  "kind": "desc"
+ },
+ {
+  "en": "The bat in the center is iron, but the belt around it is genuine bat leather. Somehow the belt gives off faint ultrasonic waves that protect its owner from confusion.",
+  "kind": "desc"
+ },
+ {
+  "en": "This is what a fundoshi becomes when worn and its special power is unleashed. Depending on who owned it before, it may come with added value.",
+  "kind": "desc"
+ },
+ {
+  "en": "A rune born in the process of making Magic Puppets. By promoting self-repair, it covers the weakness of Magic Puppets, which have no metabolism.",
+  "kind": "desc",
+  "note": "[JP] = magic puppet (glossary). [accuracy] consistency: [JP] = 'Magic Puppet' (lead decision)."
+ },
+ {
+  "en": "A belt made of bones of many races, human and elf skulls among them. It is said to be made by demons, for demons. The grudges of those killed for its materials dwell in it. It seems a cruel item, but in truth the demons merely copied what we do.",
+  "kind": "desc"
+ },
+ {
+  "en": "Only one person in the world may wear this belt: proof of the mightiest Gladiator. Wear it and you'll be fired up even more. In name there is only one, but you may pick up several on your travels. Yet do not seek value in the belt. Grow strong, so the belt you wear gains value.",
+  "kind": "desc",
+  "note": "[JP] read as generic 'fighter' (champion), not the Gladiator class; flag if it should be the class name. [accuracy] accuracy: [JP] is the Gladiator class everywhere in these texts; 'fighter' would read as the Fighter class ([JP])."
+ },
+ {
+  "en": "Magic paper in everyday use by Kannagi. How it is made is unknown, but it gives off a power to repel evil that is especially strong against evil beings and beings of darkness.",
+  "kind": "desc",
+  "note": "[JP] = Kannagi (class name from ebt slice_16)."
+ },
+ {
+  "en": "A Magic Seal that amplifies the power of fire. Anyone can equip it easily, but the boost is only modest. If you're a mage, equip at least the next rank up.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Magic Seal that amplifies the power of ice. Anyone can equip it easily, but the boost is only modest. If you're a mage, equip at least the next rank up.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Magic Seal that amplifies the power of thunder. Anyone can equip it easily, but the boost is only modest. If you're a mage, equip at least the next rank up.",
+  "kind": "desc"
+ },
+ {
+  "en": "A dagger of very distinctive shape. You grip it like a fist, the blade jutting forward, so you can slash as naturally as throwing a punch. With one in each hand, you can also cut things aside as you run, or climb a sheer wall by stabbing into it.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gear devised by the smith Sukebeios, on the idea that a way to attack while defending would be unbeatable. At its debut, many soldiers hailed it as groundbreaking. In practice, only three front-line soldiers could master it, and most were scrapped. Those three are called the Defensive Three.",
+  "kind": "desc",
+  "note": "New name: Sukebeios ([JP], pun on sukebe). Compressed to fit."
+ },
+ {
+  "en": "Also known as the 'crescent sword.' Its shape and grip have it called the Jamadhar's successor. Adding throwing to the sword basics of thrust and slash, the Circle Blade truly has no blind spot. But it takes 3 years to learn to catch it cleanly when it comes back.",
+  "kind": "desc",
+  "note": "Compressed to fit."
+ },
+ {
+  "en": "A huge, supremely lethal machete: a handy one-handed machete simply scaled up. That makes it extremely heavy, and not just anyone can use it. But that very weight is what gives the Scramasax its tremendous destructive power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Its blade is a mix of glass and iron, 8 to 2. Adding glass to iron lets the blade be bent fairly freely while it's made. With this method, the Silberam's blade is made by twisting one piece of iron into a spiral. The craft is true art. Don't expect much of it as a weapon, though.",
+  "kind": "desc",
+  "note": "Ratio kept in source order (glass 8 : iron 2)."
+ },
+ {
+  "en": "A wooden box for keeping medicine. Its design came from a land in the East; it is built to stay dry at all times so the medicine inside won't spoil.",
+  "kind": "desc"
+ },
+ {
+  "en": "The one scale under a dragon's jaw that grows the wrong way is called the 'reverse scale.' Touch it and the dragon flies into a rage and never forgives whoever did. Dragonewts, too, keep a trace of it. It varies by person, but touching it does make them openly annoyed.",
+  "kind": "desc",
+  "note": "Compressed to fit."
+ },
+ {
+  "en": "A misanga dyed in a savage rabbit's blood. A normal misanga snaps when your wish comes true, but this one grants no wishes and never snaps. Instead, it severs your foe's head from its body.",
+  "kind": "desc"
+ },
+ {
+  "en": "God, demon, soul, matter. A talisman held by a Kannagi who served, and was loved by, the unknowable power ruling all creation. Ordinary folk can touch it unharmed, but any lowly spirit around would be blown away just by coming near.",
+  "kind": "desc"
+ },
+ {
+  "en": "A small wooden box engraved with an emblem meaning 'ruler of the world.' Hold it aloft and your foes will tremble in awe and bow down.",
+  "kind": "desc"
+ },
+ {
+  "en": "A ring set with a pearl. Its pearl is special: a magic-charged pearl said to be a mermaid's gift. Perhaps for that reason, it gives a slight resistance to poison.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword from the Eastern lands, once used there to pray for rain. Only a powerful Kannagi could do it, calling rain clouds overhead to bring downpours and lightning on the land. Today few Kannagi have such power, and most of these swords are revered as ornaments.",
+  "kind": "desc",
+  "note": "Compressed to fit."
+ },
+ {
+  "en": "A ring made of cockatrice bone. Wearing it grants resistance to petrification. In other words, equip it and you can go cockatrice hunting again.",
+  "kind": "desc"
+ },
+ {
+  "en": "At a glance, an unremarkable wooden ring. Since no one can tell them apart, plain wooden rings sometimes circulate as Sacred Wood Rings. It protects against paralysis.",
+  "kind": "desc"
+ },
+ {
+  "en": "A ring whose diamond's pure brilliance is said to repel wicked thoughts. It wards off silence, a boon for mages. Now and then one turns up with a diamond tinted red, blue, green or another lovely color. These are rare and sell high, but their magic is weaker.",
+  "kind": "desc",
+  "note": "Compressed to fit."
+ },
+ {
+  "en": "A ring rusted all over, from who knows what era. Nothing remains of its original form.",
+  "kind": "desc"
+ },
+ {
+  "en": "A ring only fairies are permitted to wear. It is so tiny that even finding one is hard. Small as it is, it bears decoration, and some fetch very high prices.",
+  "kind": "desc"
+ },
+ {
+  "en": "A ring set with a gem bearing a pattern like a cat's eye. 'Cat's eye' names a pattern; some stones take it readily, but no stone is called cat's eye. Some Cat's Eye Rings are said to be ultra-rare: gems already magical that went even more cat.",
+  "kind": "desc",
+  "note": "[JP] (turned cat) kept as a joke: 'went even more cat'."
+ },
+ {
+  "en": "A ring that slowly restores its wearer's health. Words of thanks to the gods are carved on it; treated with heart, it stands in for a priest's healing spells. Alchemy can do the same, but it uses the laws of the earth; it does not ask the gods for a miracle as priests do.",
+  "kind": "desc",
+  "note": "Compressed to fit."
+ },
+ {
+  "en": "A ring adorned with a skull. When worn, the skull's eyes begin to glow red. They are said to glow because it is drawing in the wearer's life force.",
+  "kind": "desc"
+ },
+ {
+  "en": "A ring that gives form to a vow to stay friends forever. This token of friendship across races will show its power for mages and summoners.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ankh that governs strength. Unleash its hidden power and still greater strength will fill your body.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ankh that governs intellect. Unleash its hidden power and still more intellect will enrich your mind.",
+  "kind": "desc",
+  "note": "Item name says Intellect; desc keeps [JP] = wisdom. [accuracy] accuracy: [JP] is the Intellect stat (ebt stat list, item name Ankh of Intellect)."
+ },
+ {
+  "en": "An ankh that governs piety. Unleash its hidden power, and by the gods' guidance the path you must walk will come into view.",
+  "kind": "desc",
+  "note": "[accuracy] accuracy: [JP] is the Piety stat (ebt stat list, item name Ankh of Piety)."
+ },
+ {
+  "en": "An ankh that governs vitality. Unleash its hidden power and your body will know no fatigue.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ankh that governs agility. Unleash its hidden power and you will be able to move faster than the eye can see.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ankh that governs luck. Unleash its hidden power and you will gain luck second to none.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ointment that has gone along on adventures since long ago, made by blending various herbs in fixed proportions. Every item shop stocks it, and it's reasonably priced. An essential for novice adventurers.",
+  "kind": "desc"
+ },
+ {
+  "en": "Unlike Salve, this medicine is taken by mouth. It is colorless and clear, with a refreshing sweet-tart taste reminiscent of citrus.",
+  "kind": "desc",
+  "note": "[JP] = Salve (ebt slice_16)."
+ },
+ {
+  "en": "Sprinkle this on, and however deep the sleep, they wake in an instant. It truly wakes anyone, even rousing people who've been up for nights on end, so it once became a health issue. Now it's regulated in many places: adventurers buy it freely, others only once their purpose is checked.",
+  "kind": "desc",
+  "note": "Compressed to fit."
+ },
+ {
+  "en": "A little antidote herb steeped in water. The herb is addictive: swallowed as-is, it cures poison but brings on 'antidote herb addiction.' People used to hold it in the mouth a while, then spit it out, but young adventurers don't know that trick, so it became a bottled drink.",
+  "kind": "desc",
+  "note": "Compressed to fit."
+ },
+ {
+  "en": "Herbs that neutralize toxins, steeped in water. The compound is water-soluble. Eaten as-is, they work once digested, but when monsters attack there's no time for that. So adventurers wisely began steeping them beforehand to extract it, and in time the idea became a product.",
+  "kind": "desc",
+  "note": "JP says [JP] (detoxifying) herbs even for the paralysis cure; kept. Compressed to fit."
+ },
+ {
+  "en": "A throat-soothing candy. Suck one and your voice comes right back. It works wonders and is so tasty you keep reaching for one when your mouth is bored, so you often find them gone just when you need one! Careful. If you can't resist, have another adventurer carry them.",
+  "kind": "desc",
+  "note": "Compressed to fit."
+ },
+ {
+  "en": "An herb that calms the confused. Just tear off a leaf and have them smell it, and they'll regain their composure. Beware: make them smell all the leaves at once and they'll go past calm into total apathy.",
+  "kind": "desc"
+ },
+ {
+  "en": "It cures charm. It's a legitimate medicinal crystal, but who on earth gave it this name? Middle-aged adventurers find it rather awkward to buy.",
+  "kind": "desc",
+  "note": "[JP] = medicinal crystal."
+ },
+ {
+  "en": "Water that undoes petrification. It starts as an acid, which alchemy turns into a cure for stone flesh. The body fizzes back to normal, which those who've tried it say feels rather good. Still, asking a mage for a petrify spell plus Stonemelt Water is outright mage harassment. Don't.",
+  "kind": "desc",
+  "note": "Compressed to fit."
+ },
+ {
+  "en": "A mysterious elixir that can call a soul back into its body. Hold it and you'll find it as warm as skin. Pour it into a dead person's mouth and, unless their soul is lost, they will awaken.",
+  "kind": "desc"
+ },
+ {
+  "en": "A cure-all for not just headaches but nearly every minor ailment. Made for townsfolk, its effect only lately became known to adventurers. The market sets its price so other drugs won't crash: dear for adventurers who go out and dive into trouble, cheap for townsfolk.",
+  "kind": "desc",
+  "note": "Compressed to fit."
+ },
+ {
+  "en": "A mass-produced spear. It is actually made of a wood that softens in hot water, so with some skill it can be made portable. But restoring it with hot water takes 2 days, so it is rarely used from its portable state.",
+  "kind": "desc"
+ },
+ {
+  "en": "Told it would 'be pierced by a Valkyrie with its own Furiwells,' the holy insect Wamrock clung to the spear. A saint then asked for it: \"I'm no woman!\" Relieved, Wamrock agreed, but the saint was a Valkyrie, neither man nor woman. After much ado, Wamrock was pierced as foretold and writhed in pain, unconvinced.",
+  "kind": "desc",
+  "note": "New name: Wamrock ([JP]), [JP] = holy insect; 'it' used, gender unknown. [JP] = Valkyrie (ebt slice_17); JP pun is [JP] containing [JP] 'woman'. Compressed to fit; [JP] = 'after much ado'."
+ },
+ {
+  "en": "Made, of course, for hacking foes apart, but also designed for throwing. Yet one look makes you wonder if anyone really planned for it to be thrown. If you're picking it to throw, don't. There are plenty of other fine throwing weapons.",
+  "kind": "desc"
+ },
+ {
+  "en": "A hammer made to smash stone and ore. So its head is not mere iron but offcuts of orichalcum, the world's finest material. Offcuts or not, it has orichalcum's hardness and lightness. But mass-made iron ones with no orichalcum reportedly exist, so take care when buying.",
+  "kind": "desc",
+  "note": "Compressed to fit."
+ },
+ {
+  "en": "A mace said to be modeled on the sun. Legend says its wielder can gain the Sun Spirit's power. Without that legend, though, you'd suspect the 'sun' design was just an excuse to add spikes and make it deadlier.",
+  "kind": "desc",
+  "note": "[JP] = Sun Spirit (glossary)."
+ },
+ {
+  "en": "A deadly weapon: iron balls on a chain, swung round and round. Strong on offense, it leaves your defense weak; against bows and other missiles you may get shot full of holes. Mind your feet when swinging it, too. Step on a nail and, ouch, ouch.",
+  "kind": "desc",
+  "note": "[JP] rendered 'ouch, ouch'. Compressed to fit."
+ },
+ {
+  "en": "A rare club said to be made of plant roots. Roots sound soft, but some plants grow hard ones: layer them many times over, set them with strong glue, repeat that hundreds of times, and it's done. Hard as any club, yet its grip clings moistly to the hand.",
+  "kind": "desc",
+  "note": "Compressed to fit."
+ },
+ {
+  "en": "A pair of battledores modeled on the Sun and Moonlight Spirits. A girl who plays with the Moonlight paddle grows up graceful and thoughtful, they say, and a boy with the Sun paddle grows up lively and bold. So nearly every home with kids is said to have a set.",
+  "kind": "desc",
+  "note": "Compressed to fit."
+ },
+ {
+  "en": "You might call it the ancestor of the bow. Grip the club-like end, set an arrow in its groove and swing with all your might. Only the strong can master it, and it's hard to aim, so hardly anyone uses it now. With enough strength it can outrange a normal bow, but...",
+  "kind": "desc",
+  "note": "Compressed to fit."
+ },
+ {
+  "en": "Striking for the silver work at its center\nand the flame-like ornaments to either side.\nThose shot by this bow feel such overwhelming\npresence that they fall silent, so it is\nsurely a masterwork. But who once wielded it\nis unknown.",
+  "kind": "desc",
+  "note": "Source has explicit 12-char line breaks (10 lines); English kept with breaks at <=46 chars, 6 lines."
+ },
+ {
+  "en": "A flute blessed by the gods. Its clear, light tone lifts the curses of the undead and spirits. Spirits purified by it are said to rise to heaven with very peaceful faces.",
+  "kind": "desc"
+ },
+ {
+  "en": "As its name says, the sound of its strings relaxes the listener's heart and lures them into a deep sleep. It works even if the listener is a monster.",
+  "kind": "desc"
+ },
+ {
+  "en": "A trumpet with no fancy tricks, made only to be loud. So loud that even someone too far off to see will hear it clearly. The user, of course, and their allies too, should wear earplugs when it's used if they can.",
+  "kind": "desc"
+ },
+ {
+  "en": "Bells used in the East to worship or bless the gods. Holding them, Kannagi offer dances to the gods. Their sound also forms a pure-sound barrier, briefly purifying weapons so they can strike spirits normally.",
+  "kind": "desc"
+ },
+ {
+  "en": "The sound of this lute charms all who hear it. At times, it is said, it steals even the player's heart.",
+  "kind": "desc"
+ },
+ {
+  "en": "These maracas are enchanted to amplify the rhythm they play, and can make even the quietest ally dance. To monsters, anyone dancing mid-battle is the first to kill. Put the other way, you can draw the enemy's attacks onto a chosen ally.",
+  "kind": "desc"
+ },
+ {
+  "en": "The sound of a drum is often described as deep and rumbling in the gut, and the phrase fits perfectly. Even an ordinary drum sounds as if it could shake the ground and crack it, but this drum amplifies that power until it truly shakes the earth and splits the land.",
+  "kind": "desc"
+ },
+ {
+  "en": "A flute whose clear tone can return space warped by spells to normal. The effect reaches allies as well as enemies, so use it with care.",
+  "kind": "desc"
+ },
+ {
+  "en": "A tool that sets a reference pitch, correcting the drift in tone that creeps in with long use. This fork does more than tune: it can also restore a person's body to good health, and it does wonders for staying healthy.",
+  "kind": "desc"
+ },
+ {
+  "en": "Pluck the first string, and black clouds gather. The second, and heavy rain falls. The third, and thunder roars. The fourth, and divine lightning strikes. The fifth, and the foe is charred black. Pluck the last, and the foe's hair frizzes up as they breathe their last.",
+  "kind": "desc"
+ },
+ {
+  "en": "A whip made of many linked rings. Whips normally deal blunt blows, but every ring on this one bears a blade, making it superbly sharp. It has a serious flaw, though: with all those rings linked together, it always jangles loudly as you walk with it.",
+  "kind": "desc"
+ },
+ {
+  "en": "It sits among the weapons in shops, but it was apparently made for some golf-like sport. Still, in shape and material alike, it is a lightweight hammer any way you look at it. Even weak adventurers can swing it around easily, so it is very effective.",
+  "kind": "desc",
+  "note": "Source typo [JP] read as [JP] (sits among the weapons in shops)."
+ },
+ {
+  "en": "Old as these geezers are, their tenacity dwells in the wand, becoming a stubborn power whose effects linger. Being old, though, it has no explosive force. Yet with dozens of them together, the danger would grow. Perhaps it means they won't lose to the young'uns just yet.",
+  "kind": "desc",
+  "note": "Item name Geezers' Wand (EVENT_TEXT slice_03). Subject of the opening clause is the old folk of the name; 'these geezers' restored."
+ },
+ {
+  "en": "Anyone who sees a tonfa will wonder if such a weapon can really work. Yet the tonfa excels at both offense and defense. On attack, a slight twist of the grip suddenly extends its reach; on defense, you can take the blow head-on and easily slip inside the foe's guard.",
+  "kind": "desc"
+ },
+ {
+  "en": "A farming method devised by agri-artisan Sukebeios: growing two crops in one field in staggered seasons would surely be the best. Hailed as revolutionary, it caught many farmers' eye. In practice the fields grew ever poorer, and most failed, save three farms. Those three are the Double Crop Three.",
+  "kind": "desc",
+  "note": "New name: Sukebeios ([JP], romanized; a pun on sukebe). [JP] -> 'Double Crop Three'."
+ },
+ {
+  "en": "A prosthetic hand favored by adventurers who lost a hand to an accident or a monster. As it looks, the Pirate Pick is deadlier than a normal prosthesis. It may seem awkward, but it can hook things, and its claw even lets you cling to walls.",
+  "kind": "desc"
+ },
+ {
+  "en": "Thief of lives. This is no mere weapon. As if by its own will, the scythe kills foe after foe regardless of its wielder's wishes, and in time it reaps even its wielder's life. True to its name, the Life Stealer is a scythe that wants only to reap lives not its own.",
+  "kind": "desc"
+ },
+ {
+  "en": "A snow crystal of beautiful, balanced shape. Because it falls from the sky looking like a flower with six petals, it is called the Azure Sky Snowflake. It is rarely seen, and those who do see one are said to be showered with happiness all their lives.",
+  "kind": "desc"
+ },
+ {
+  "en": "A book indispensable to the black arts and black magic. Wherever it is placed, it gives off a faint black aura and makes its presence felt. It is said that one look inside turns even the purest heart bitter at once, until it can trust nothing at all.",
+  "kind": "desc"
+ },
+ {
+  "en": "The spike in the center is not for striking the foe. It is mainly used to disperse the force of the foe's attacks and to throw them off balance. You can deliberately make them stagger left or right, which lets you follow up with another attack at once.",
+  "kind": "desc"
+ },
+ {
+  "en": "A shield designed simply to block enemy attacks. Cheap, yet with above-average defense, it is widely used, by palace soldiers among others, and is said to be perhaps the most widely used shield on the continent.",
+  "kind": "desc"
+ },
+ {
+  "en": "You may picture this shield hanging on a noble's wall more than in an adventurer's hands. Indeed, most buyers are nobles, but it is by no means for show. Long ago, it was regarded as the finest shield for protecting kings and high-ranking knights.",
+  "kind": "desc"
+ },
+ {
+  "en": "A round piece of iron armor worn on the head. Its round shape keeps enemy blows from landing squarely, letting them glance off to the front, back or sides. It is very sturdy and reassuring, but sadly it is heavy and puts a great strain on the neck.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor made of silk and iron woven together. It is sturdy but breathes poorly, so from the head down to the chest it is always stuffy and damp. Recommended for adventurers who often stay in the back row, but please air it out and wash it often if you can.",
+  "kind": "desc"
+ },
+ {
+  "en": "When wearing this helm, it is best to pair it with heavy body armor worthy of it. That way you get defense true to its looks and seem even more intimidating to foes. But the weight becomes enormous too, so the wearer must be a very big man.",
+  "kind": "desc"
+ },
+ {
+  "en": "The hood worn by Redcaps. Its bright red stands out even from afar, so foes target it easily. Redcaps make themselves seen this way, then cut down foes who let their guard down. If you're good at such tactics too, why not try wearing it?",
+  "kind": "desc",
+  "note": "[JP] -> Redcap (monster name not yet fixed in MONSTER tables; check when translated)."
+ },
+ {
+  "en": "What will you want next? Can't guess, Blue Rain. Passersby's stares hurt. Me, I'm getting dumb and dumberrr. I can't tell what's really you, even beside you my heart spins. My eyes blur, I can't walk on. Blue Rain, blue stripes, your heart and mine in turns. Blue Rain, I'll bear it, so don't let go of my hand.",
+  "kind": "desc",
+  "note": "Song-like lyric for the Blue Rain item (blue-striped underwear per glossary). Compressed to fit 312 (311 bytes). [JP] baby-talk kept as 'dumberrr'. 'Can't guess' keeps the impersonal [JP]."
+ },
+ {
+  "en": "Armor once worn by kings, nobles and others of rank. Its defense is thus less than you'd expect, but its value is tremendous. That said, only flawless pieces without a single scratch are truly valuable. Then again, no scratch also means no one ever valued it as armor.",
+  "kind": "desc"
+ },
+ {
+  "en": "It looks like leather armor, but its defense is far beyond any leather armor's. The secret is iron plates packed inside it without the slightest gap. Since it isn't made entirely of iron, it still allows a fair degree of freedom of movement.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor you could wear straight onto a ballet stage. The first thing anyone notices is the swan's head on the crotch, and therein lies its secret. There is said to be an unspoken rule that if this head is cut off in battle, the wearer must admit defeat.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor with iron plates on the front only, favored by Rangers who draw bows. The back is nearly unprotected, of course, so archers must always watch behind them. Wearing it shows trust in the front line: the enemy will never get behind you.",
+  "kind": "desc",
+  "note": "Source [JP] read as [JP] (unprotected). [accuracy] accuracy: [JP] = Ranger (lead decision)."
+ },
+ {
+  "en": "Armor made lavishly of dragon scales. The scales packed tightly over the torso give high defense and are said to stand up well to enemy breath. The torso draws the eye, but highly durable material is used on the arms and other parts too.",
+  "kind": "desc"
+ },
+ {
+  "en": "A reddish ore. It can be worked into weapons and armor, or turned into various items by alchemy. It is slightly softer than other ores and easily crushed to bits with a hammer or the like.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of higher grade and greater value than ordinary Dvel Soft Steel. At this grade, it becomes goods you can sell to mining towns and the like.",
+  "kind": "desc",
+  "note": "[JP] -> 'grade' as in wmap slice_06 (alchemy ore grade)."
+ },
+ {
+  "en": "An ore of even higher grade than Dvel Soft Steel +1, prized for its rarity. Hold it and you'll find it much heavier than plain Dvel Soft Steel; the stone's density differs. Even when making the same thing, the quality of the result varies greatly with the ore's grade.",
+  "kind": "desc"
+ },
+ {
+  "en": "A green ore. It can be worked into weapons and armor, or turned into various items by alchemy. The ore itself gives off cold, so it is cold and hard. For that reason, scrap unfit for alchemy is used as a cooling material.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of higher grade and greater value than ordinary Frozen Elven Iron. It is said that if it suddenly turns cold as you dig deeper into a mine, Frozen Elven Iron is close by.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of even higher grade than Frozen Elven Iron +1, prized for its rarity. If you mean to dig up lots of Frozen Elven Iron, bring a coat into the mine. It is merely cool at first, but where it clusters in large masses, the area suddenly turns as cold as winter.",
+  "kind": "desc"
+ },
+ {
+  "en": "A purple ore. It can be worked into weapons and armor, or turned into various items by alchemy. Its dark color makes it easy to miss when mining unless you look closely.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of higher grade than ordinary Vectreim, prized for its rarity. Vectreim itself gives off an aura, but the aura can only be seen when the air around it is clear.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of even higher grade than Vectreim +1, prized for its rarity. At this class, however dark its color, the light of its aura lets you find it. Before mining starts and the dust flies, it shows quite a fine gleam.",
+  "kind": "desc"
+ },
+ {
+  "en": "A light-blue ore. It can be worked into weapons and armor, or turned into various items by alchemy. As it is charged with magic power, it is often used in crafting meant to raise magic power.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of higher grade than ordinary Mazurite, prized for its rarity. Its magic power is stronger too, and it glows a quiet blue. With a mage in the party, you might be able to find it by sensing its magic power.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of even higher grade than Mazurite +1, prized for its rarity. It holds so much magic power that only a mage of real power can sense it. So at this level, all you can do is search as for any other ore and pray it turns up by chance.",
+  "kind": "desc"
+ },
+ {
+  "en": "A white ore. It can be worked into weapons and armor, or turned into various items by alchemy. Split one cleanly in two and you'll see about three layers inside. The surface is white, but the color shifts toward the core with its mineral content.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of higher grade than ordinary Tri-Layer Orat, prized for its rarity. Minerals settled in its core make all its layers tighter and more distinct. Despite the name, from about this grade it starts to split into more than three layers.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of even higher grade than Tri-Layer Orat +1, prized for its rarity. Its minerals have settled, making it easier to use. Miners play a game with it, 'Layer Guess': from the outside of an Orat that looks like scrap, they guess the number and colors of its layers.",
+  "kind": "desc"
+ },
+ {
+  "en": "A milky-white ore. It can be worked into weapons and armor, or turned into various items by alchemy. Milstone calls for the most care of any ore when digging. It is delicate and crumbles at a touch, so be extra careful when digging with a pickaxe.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of higher grade than ordinary Milstone, prized for its rarity. But it is twice as brittle, too. If you think you've hit a large Milstone vein, swing the pickaxe carefully. Sometimes you'll need to dig by hand.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ore of even higher grade than Milstone +1, prized for its rarity. Young miners are often lectured, 'Dig up a Milstone +2 cleanly and you're a full-fledged miner,' but in truth that makes you not merely full-fledged, but first-rate.",
+  "kind": "desc"
+ },
+ {
+  "en": "A coin bank made of wood. It can hold a small amount of money, and it can also be thrown to deal damage matching the money saved. Save a little at a time every day, and when the moment comes, it may help you in an unexpected way.",
+  "kind": "desc"
+ },
+ {
+  "en": "A coin bank made of iron. It holds more money than the Wooden Coin Bank, so throwing it promises more damage. But it also hurts your wallet, so take care not to throw it too often.",
+  "kind": "desc"
+ },
+ {
+  "en": "A ceramic piggy bank. Put money in and it goes 'oink.' Pray to defeat a foe, and it cries the gibberish 'Oink-oink, kill ya!', deals heavy damage and shatters in glory. It takes all your money with it, so if your servant holds the purse, beware.",
+  "kind": "desc"
+ },
+ {
+  "en": "\"If only I had chosen a different path back then...\" Surely everyone has thought that at some point. This medal grants that very wish. But a life chosen anew is not always a happy one. If you still want it, take a chance on this small possibility in your hand.",
+  "kind": "desc"
+ },
+ {
+  "en": "Tea leaves for brewing black tea. Brewed well, it relaxes the mind and restores a little magic power. Botch it, though, and you get tea too bitter or too weak to drink. This is one job best left to your servant.",
+  "kind": "desc"
+ },
+ {
+  "en": "A fruit packed with a mass of air. Take the air inside into your mouth and it supplies air, letting you act underwater. The amount of air depends on the materials and the alchemist's skill. A skilled alchemist using good materials makes underwater exploration easier.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mysterious gem that shows the scenery around you. The view from above appears in the gem just as if an angel were looking down at you, hence its name. Among adventurers it is called an essential item.",
+  "kind": "desc"
+ },
+ {
+  "en": "When used, it senses the surrounding space and tells you how many 'rock' blocks are on that floor. Lords everywhere first had their alchemists make them to know their lands better for war. As the technique spread and needed no more secrecy, it at last reached the common folk.",
+  "kind": "desc",
+  "note": "Item name 'Rock Counter' (ITEM slice_15, and the text counts [JP] 'rock' blocks). Note ebt slice_02 has 'Lock Counter' for the same device - inconsistent, flag for the orchestrator."
+ },
+ {
+  "en": "A bell adorned with a dove. Shake it lightly and it rings with a lovely, clear tone. Monsters hate this sound, and it is said they flee headlong when they hear it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bell adorned with a crow. Its sound is unpleasant to people but seems quite soothing to monsters. Use it to draw monsters to you. It may seem to offer little benefit, but the rare few who make a living slaying monsters prize it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mysterious brush: lightly sweep it over your map, and foes beyond the doors appear on it. Knowing foes lie in ambush, you can recover your strength and go in fully prepared. Then again, try not to despair upon learning you're surrounded.",
+  "kind": "desc"
+ },
+ {
+  "en": "Die holding these, and you'll sit up after death and walk back to where you set out, they say. Nothing is scarier, for your killer and for those you return to. With the dead really walking, ghost-story sales crashed, so 'Eastern Yokai Tales' was compiled to win them back. Hang in there, booksellers.",
+  "kind": "desc",
+  "note": "[JP] -> 'Hundred Tales of the East' (new title). [JP] read as the killer and the people the dead return to. [accuracy] consistency: [JP] is the ITEM name 'Eastern Yokai Tales' (row 1751)."
+ },
+ {
+  "en": "It won't turn in an ordinary wind. But when a monster is before you, the pinwheel starts to spin according to the monster's strength. While it turns feebly you may still be fine, but once it starts spinning furiously, get ready to run, and fast.",
+  "kind": "desc"
+ },
+ {
+  "en": "It turns base metals into gold, grants eternal life, draws out infinite magic power... No one knew how to make it, and guesses about the Philosopher's Stone flew far and wide, but at last it has been born here. Now, what will you use its power for?",
+  "kind": "desc",
+  "note": "Item name is abbreviated 'Philos. Stone'; spelled out in the text."
+ },
+ {
+  "en": "A gauntlet that seeks to send blazing life out into the world. What sets this gauntlet aflame is not fire magic, but the 'will to live' that every living thing possesses.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sexy dress with a plunging neckline. Whoever wears it is allowed to cast off reason and live by their heart just as it is. Some say it can even let one share one's heart with the earth itself.",
+  "kind": "desc"
+ },
+ {
+  "en": "A death's scythe tends to be seen as an ill-omened weapon that brings death, but this scythe does not exist to end lives. It is a power wielded to restore things as they should be when someone appears who disturbs the law of life.",
+  "kind": "desc"
+ },
+ {
+  "en": "An oddly warped ring. You may wonder why it is so warped, but think for a moment. Tilt a cube and cast its shadow in two dimensions, and it looks warped into a rectangle or hexagon. It looks warped only in our world; to a higher being it may look beautiful and true.",
+  "kind": "desc"
+ },
+ {
+  "en": "Mysterious water that keeps circling in midair. As it never stops turning, all impurities are said to be flung out. Yet more intriguing is how it keeps turning with nothing driving it. Thanks to this near-eternal cycle, the water apparently stays young forever.",
+  "kind": "desc"
+ },
+ {
+  "en": "An indigo mantle that wraps the wearer's whole body. Its edges are hazy; they are merely unseen, and are there to the touch, they say. Most astonishing, though, is that any dirt on it vanishes instantly. Ever as good as new, this mantle is truly a tool of the gods.",
+  "kind": "desc",
+  "note": "Indigo mantle; 'tool of the gods' for [JP]."
+ },
+ {
+  "en": "'Junk' does not mean anything in particular. It might be a bucket with no bottom, or a pen that no longer writes. One person's junk may be another's priceless treasure. In short, 'junk' is just a label for things you don't need. Got it?",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that boosts elemental attack more than a plain Fire Magic Seal. As an item of fair magic power, only spellcasting classes are allowed to equip it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that boosts elemental attack more than a plain Ice Magic Seal. As an item of fair magic power, only spellcasting classes are allowed to equip it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that boosts elemental attack more than a plain Thunder Magic Seal. As an item of fair magic power, only spellcasting classes are allowed to equip it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that boosts elemental attack even more than a Fire Magic Seal +1. It holds great power, so whether you can master it depends on the owner's aptitude.",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that boosts elemental attack even more than an Ice Magic Seal +1. It holds great power, so whether you can master it depends on the owner's aptitude.",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that boosts elemental attack even more than a Thunder Magic Seal +1. It holds great power, so whether you can master it depends on the owner's aptitude.",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that brings a mage the greatest power. It is said that anyone unfit for it is burned to cinders just by touching it.",
+  "kind": "desc",
+  "note": "Seals +3: only the mage is mentioned in source for fire/ice/thunder."
+ },
+ {
+  "en": "A seal that brings a mage the greatest power. It is said that anyone unfit for it turns to an icicle and shatters just by touching it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A seal that brings a mage the greatest power. It is said that anyone unfit for it evaporates just by touching it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Fairy-only dagger with a blade made of a special gem. The gem is cut so the blade resembles a petal, hence the name 'marquise.' To match, the grip is shaped like leaves. It is very beautiful to look at, and strong in battle as well.",
+  "kind": "desc",
+  "note": "[JP] -> Fairy (race, ebt slice_17)."
+ },
+ {
+  "en": "A blade shorter than a katana but longer than a dagger. It is used mainly for self-defense or to back up a katana. But there are said to be sword styles that make the kodachi their main weapon, and its nimble blade is not to be underestimated.",
+  "kind": "desc"
+ },
+ {
+  "en": "A weapon said to house a demon's soul. Fighting poison with poison, perhaps, it is very effective against demons. One account holds that a powerful Summoner made it through a pact with a demon.",
+  "kind": "desc",
+  "note": "[JP] -> Summoner (class)."
+ },
+ {
+  "en": "An Eastern legend tells of a princess who could not be with her love; she took up this naginata, became a yasha and burned herself with them. So the lovelorn gaze at this spear in rapture. Unleash its hidden power to relive the legend. If a companion is fond of this spear, you'd better talk it over.",
+  "kind": "desc",
+  "note": "[JP] / [JP] gender unknown -> 'her love ... with them'. [JP] kept as 'yasha'. Source calls the naginata a spear ([JP]) later; kept."
+ },
+ {
+  "en": "A bow whose limbs and string are partly reinforced, raising the range and power of its arrows. Compared with the Longbow, it promises steadier attacks.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bow built to suit expert Rangers, taking in their every suggestion. It is tuned for precision over ease of handling, so beginners need not apply.",
+  "kind": "desc",
+  "note": "[accuracy] accuracy: [JP] = Ranger (lead decision)."
+ },
+ {
+  "en": "A rod known for its many different effects. Even the wielder can't tell which effect will come out, and the foe is left confused too: \"Deadly poison last time, and now sleep?!\" Truly a weapon fit for a fairy.",
+  "kind": "desc"
+ },
+ {
+  "en": "A rod made in the image of the night sky. The crystal at its tip ever turns starlight into magic power for its owner. If the sun nurtures life, moonlight and starlight nurture the heart. Close your eyes and listen closely, and you can face your own heart.",
+  "kind": "desc"
+ },
+ {
+  "en": "Some idiot made a boomerang, which ought to be wood, out of iron. The weight made its odds of coming back even after hitting an obstacle soar. Anyone could have seen that coming. Throw it with care, or your allies will boo.",
+  "kind": "desc",
+  "note": "Boomerang/booing pun kept as 'boo'."
+ },
+ {
+  "en": "As if an iron boomerang weren't dangerous enough, an even bigger idiot made one of obsidian. Its mass is ample. Its razor-sharp obsidian edges slice the foe, and it comes back with its momentum intact. It's hopeless. Hide behind your Lord. Its power as a weapon? If you want to know, take a hit yourself.",
+  "kind": "desc",
+  "note": "[JP] = Lord (class)."
+ },
+ {
+  "en": "Masters so skilled they were called gods of the sword were honored by pupils and peers as Sword Saints. This breastplate was a gift to them. Its defense is very high, and it never hinders the signature moves of any school of swordsmanship.",
+  "kind": "desc"
+ },
+ {
+  "en": "An improved form of the original Elven Chain, a chain mail whose magic defense is raised to the limit. But for all its power, only elves can equip it.",
+  "kind": "desc",
+  "note": "Source typo [JP] read as Elven Chain."
+ },
+ {
+  "en": "Fairy clothing made from morning glories. It takes fiddly little work to make, so fairies usually make their own. Still, dwarf craftsmen and the like sometimes make a slightly stylish version, magnifying glass in hand.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mantle evoking the midsummer sun. Its gleaming gold brooch and fabric, thin as a curtain of light, are lovely. If a fairy in it does a little twirl, flames burst forth at once and sweep the foes away.",
+  "kind": "desc"
+ },
+ {
+  "en": "A talisman that repels the Kin of Darkness; Kannagi use it to defeat evil. Ordinary people and animals can touch it safely, but the Kin of Darkness vanish at its touch as if evaporating. So potent that even a non-Kannagi is warded from evil just by carrying it.",
+  "kind": "desc",
+  "note": "[JP] = Kannagi (class, ebt)."
+ },
+ {
+  "en": "An anklet that inflicts Silence. Paired with a Ranger's First Strike, it can silence enemy magic users before they finish chanting their spells.",
+  "kind": "desc",
+  "note": "[JP] = First Strike (skill name, ebt slice_15). [accuracy] accuracy: [JP] = Ranger (lead decision)."
+ },
+ {
+  "en": "These dice don't foretell what will happen. They tell you why anything turned out as it did. Things often happen in this world that can only be called fate. Roll these dice, and they will show you the workings behind it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A wand set with three kinds of gems. Most arms and armor have origins you can guess, but this wand's material and making are unknown. It looks ordinary, but dwarves say it's a material they've never seen, worked in a way they can't figure out.",
+  "kind": "desc"
+ },
+ {
+  "en": "A wand topped with a plush Prof. Nambino. Be invincible to magic just like Prof. Nambino~! ...Nope, not in the slightest. But with this wand, you're with Prof. Nambino anytime, anywhere! C'mon, let's go adventuring with Prof. Nambino!",
+  "kind": "desc",
+  "note": "Star symbol dropped (ASCII only)."
+ },
+ {
+  "en": "A wand topped with a plush Prof. Rombino. Be invincible to physical attacks just like Prof. Rombino~! ...Nope, not in the slightest. But with this wand, you're with Prof. Rombino anytime, anywhere! Now use Prof. Rombino to squish that jerk you hate flat~!",
+  "kind": "desc",
+  "note": "[JP] rendered 'squish... flat'."
+ },
+ {
+  "en": "A Magic Seal that boosts the power of light. Anyone can equip it with ease, but the boost is modest. If you're a Priest, equip at least the next rank up.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Magic Seal that boosts the power of darkness. Anyone can equip it with ease, but the boost is modest. If you're a Mage, equip at least the next rank up.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Magic Seal that boosts elemental attack more than a plain Light Magic Seal. It holds a fair amount of magic, so only spellcasting classes are allowed to equip it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Magic Seal that boosts elemental attack more than a plain Dark Magic Seal. It holds a fair amount of magic, so only spellcasting classes are allowed to equip it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Magic Seal that boosts elemental attack even more than the Light Magic Seal +1. It holds great power, so mastering it puts its owner's aptitude to the test.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Magic Seal that boosts elemental attack even more than the Dark Magic Seal +1. It holds great power, so mastering it puts its owner's aptitude to the test.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Magic Seal that grants a Priest the greatest power. They say those without the aptitude are not even allowed to touch it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Magic Seal that grants a Mage the greatest power. Those without the aptitude will be swallowed by darkness and lose their souls just by touching it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A knight's sword only men may equip. It's said that if you picture the one you must protect, the strength of that feeling becomes power. Such duels are rarer now, but in duels to the death between knights it is often the weapon brought out.",
+  "kind": "desc"
+ },
+ {
+  "en": "A foil wrapped in silence, like a calm sea at dusk. Its supple blade shows the wielder's heart. Thrust while it sways and wavers, it does little. But when the heart is still as a calm sea, it pierces prey with ease, they say, as if striking in a world where time has stopped.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword said to have been revived by a certain adventurer, along with their memories. It has no special power, but it will be a support to the hearts of those who would carve out a new path.",
+  "kind": "desc",
+  "note": "Adventurer's gender unknown: 'their'."
+ },
+ {
+  "en": "Bondage armor that alone conjures up a Queen and her whip. Wear it, and you're sure to overpower monsters. Well, some monsters may get the wrong idea and come snuggling up, but for those, don't hold back: give them a good taste of the whip.",
+  "kind": "desc",
+  "note": "[JP] = dominatrix 'Queen'."
+ },
+ {
+  "en": "A dagger refined for dealing fatal wounds swiftly. It wasn't specially forged for strength, but it's famed for delivering blows that easily prove fatal, thanks to how easy it is to handle.",
+  "kind": "desc"
+ },
+ {
+  "en": "A weapon that presses a spinning blade on the foe to cut through flesh. Slash normally and you won't get the results you want. Pin the foe down hard and cut through: that is the proper way to fight with it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword named 'vile blade' because it is so often used for assassination. It's inconspicuous hidden under clothes and doesn't glint needlessly, so it is very popular with those in that line of work.",
+  "kind": "desc"
+ },
+ {
+  "en": "Armor dusted all over with Phosphor Moth scales. The scales give off a faint light around you even in dark places like caves. Then again, monsters can see you too, but that's nothing next to the terror of seeing nothing in the dark.",
+  "kind": "desc",
+  "note": "[JP] = 'phosphor moth' (monster, not yet translated; check MONSTER3). [accuracy] consistency: [JP] = 'Phosphor Moth' (MONSTER3)."
+ },
+ {
+  "en": "They say the moment you put on the Pearl Jamas, you're whisked away to a wonderful dream world. One after another, people find it so splendid they never want to wake again. Indeed, if that world matches your ideals, no wonder so many feel that way.",
+  "kind": "desc",
+  "note": "Pearl Jamas pun on pajamas kept."
+ },
+ {
+  "en": "A katana with the power of a mythical beast told of in a far eastern land. The karasu tengu is a master of sword and mystic arts. The unskilled who hold it hear a strange voice that coaches them in swordplay and tactics. Rare for a katana, its blade is black. One swing, and a jet-black flash strikes the foe.",
+  "kind": "desc",
+  "note": "Compressed to fit 312."
+ },
+ {
+  "en": "A katana home to a female spirit named Aramisaki. She seems to fret over being left on the shelf and is at her wits' end. So only men can hold it, and if he gets friendly with a woman, he's cursed for generations upon generations, right down to the tip. A famed blade that vexes holder and held alike.",
+  "kind": "desc",
+  "note": "[JP] kept as 'right to the tip' (innuendo)."
+ },
+ {
+  "en": "A pure white dress that symbolizes purity. Surely every woman wants to wear this dress at least once. And monsters are surely no exception. Look too happy in it, and monsters may come at you.",
+  "kind": "desc"
+ },
+ {
+  "en": "Gauntlets only the evil-hearted can wear. With sharp spikes on the knuckles, they're made to kill foes by any means. \"If your sword breaks, punch them till you're satisfied.\" That's what they seem to say.",
+  "kind": "desc"
+ },
+ {
+  "en": "Boots only the evil-hearted can wear. Like the gauntlets, they have pointed toes for kicking foes to death. Any gear changes with its wearer, yet those who wear these Evil Boots all seem to share the same joy in killing.",
+  "kind": "desc"
+ },
+ {
+  "en": "The cloak said to mark a Merchant King is called the Wild Dillon. Barjeff hands it in person only to merchants whose fame resounds across the whole continent. To win this cloak is the longing and dream of every merchant.",
+  "kind": "desc",
+  "note": "[JP] = Merchant King (new term)."
+ },
+ {
+  "en": "Can't refuse you, so it's day three, Blue Rain / Don't sniff, don't put it on your head / Mouth open, what're you doing?! / You're truly nuts / With cute me right here / It's always THAT you crave! / Blue Rain, blue stripes, when will we cross? / Blue Rain, innocent smile / Give it back mouth to mouth, 'kay?",
+  "kind": "desc",
+  "note": "Song parody about striped panties; [JP] = 'cross' (stripes / union double meaning)."
+ },
+ {
+  "en": "A katana with the mystic power of a tarot born in the East. These eastern tarot have five rare 'Light' cards. Get four of them, including the one called 'Ono no Michikaze in the Willow', and you have Rainy Four Lights.",
+  "kind": "desc",
+  "note": "Hanafuda reference (Ame-Shiko yaku); [JP] = 'Light' cards."
+ },
+ {
+  "en": "A fluffy decorative tail, said to be made by someone who admired the Beastfolk. Equipping it is simple: just tuck the tip into your belt. Starting today, you too can wag your tail with every step. There is no other way to wear it but tucked in your belt. Unthinkable.",
+  "kind": "desc",
+  "note": "[JP] = beastfolk (ebt Slay Beastfolk). Innuendo kept. [accuracy] consistency: [JP] = 'Beastfolk' (lead decision)."
+ },
+ {
+  "en": "A spear's thrust is fierce, but a dodged one leaves you wide open. Some rework the spearhead to wound the foe as much as possible; Gowen's Wringer is one. Snag even part of the foe's body, and a twist will tear away the flesh.",
+  "kind": "desc"
+ },
+ {
+  "en": "A spear famed among Samurai. It is huge, twice a man's height. Its name comes from a tale that a dragonfly trying to land on its tip was sliced clean in two. True or not, its keen edge is beyond doubt.",
+  "kind": "desc",
+  "note": "Tonbokiri = 'dragonfly cutter'; not glossed to save space."
+ },
+ {
+  "en": "An axe made more combat-ready with paired blades on either side of the haft. If one blade chips, fight on with the other. Thrown with a spin, it even works as a throwing weapon. But if that doesn't finish the foe, you face them empty-handed, so be careful.",
+  "kind": "desc"
+ },
+ {
+  "en": "Savage in make and in use. Even if its owner wields it normally at first, its sheer savagery slowly makes their fighting savage too.",
+  "kind": "desc"
+ },
+ {
+  "en": "A hammer that bends partway along its haft. A long-hafted weapon is surprisingly easy to deflect with a sword or shield. But this hammer's haft folds with a clack right where it is blocked, so it can still strike the foe.",
+  "kind": "desc"
+ },
+ {
+  "en": "A hammer with an oversized head holding a heavy iron ball, so each blow brings a second impact after the hammer's own. That second blow, struck with the hammer pressed to the body, travels inside to wreck and shatter bones and organs.",
+  "kind": "desc"
+ },
+ {
+  "en": "A mace modeled on a camel. Its knobby humps store not fat but magic power, which they absorb or release to suit the surroundings. So to some degree, this mace lets you see the flow of magic power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Just as nations rise and fall over long history, faiths fade once no longer needed. This mace may once have been worshipped and defined an era, but now no one knows it. People cling with all their might when they need something to lean on, then toss it aside once they lose interest. That's people for you.",
+  "kind": "desc"
+ },
+ {
+  "en": "A miracle: a crystal enfolding, as if to guard it, a miraculous drop no eye has seen. The water inside, never exposed to the world's impurities, stays pure, and will drift forever in its sealed crystal room. Wear it to keep its owner safe from the danger of fire.",
+  "kind": "desc"
+ },
+ {
+  "en": "A flail said to have been made by a high Priest to fight mighty spirits. It is carved with runes, and like a magnet, without any chain, it draws in anything carved with the matching rune.",
+  "kind": "desc"
+ },
+ {
+  "en": "A club modeled on a three-leaf clover. Unusually for a club, it values looks over power or handling, with extra care put into its decoration. Good for fighting, good for display.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bow for Mages only. When someone with magic touches the grip, an arrow of light appears. It turns magic into matter; the arrow's hardness and accuracy are said to depend on the owner's magic. Spells alone are trouble enough. Add a bow, and they're unstoppable.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bow that looses arrows nimbly, like a skylark's song. An easy-to-grip handle and a light build allow fine moves and rapid fire. It also allows trick shots, so it is seen in contests too.",
+  "kind": "desc"
+ },
+ {
+  "en": "A ribbon woven from a strange material that shines in rainbow colors. Its trail becomes a whip of light that strikes foes. Twirl it in a circle and a ring of light appears and flies at the enemy.",
+  "kind": "desc"
+ },
+ {
+  "en": "A cloak passed down from the last generation. Perhaps from its long years, it's already in tatters. But they say wearing it feels as if your forebear is always at your side, and courage wells up.",
+  "kind": "desc"
+ },
+ {
+  "en": "A proper collar of tanned leather. To choke means to squeeze the neck and stop the breath. Its exquisite length, neither too tight nor sloppily loose, is lovely. It's sometimes given as a gift, but it can take on a deeper meaning, so think hard before giving one.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ash-wood stake. Weak against ordinary creatures, but devastating to the undead. To vampires it is a dread weapon, yet also an alluring holy tool that can end an undying body. Some nobles of the night are said to be abnormally aroused by being wounded with it.",
+  "kind": "desc",
+  "note": "[JP] = 'abnormally aroused' (sexual undertone intended)."
+ },
+ {
+  "en": "A staff made of the holy plant Welish, as is. Even worked, it stays fresh; bring your nose close to enjoy its green scent. It's edible, but very spicy, and eating it after clubbing foes gives one pause, so it isn't food except in an emergency.",
+  "kind": "desc"
+ },
+ {
+  "en": "A staff said to have been revived by a certain adventurer, along with their memories. It has no special power, but it will be a support to the hearts of those who would carve out a new path.",
+  "kind": "desc",
+  "note": "Same text as 2054."
+ },
+ {
+  "en": "An amulet said to govern life. Hold it, and you can feel a faint warmth and a weak heartbeat. They say that when the wearer's life ends, the Amulet of Life grants a new one, but the truth is known only to those who have died once.",
+  "kind": "desc"
+ },
+ {
+  "en": "A reinforced ladle. Tougher than a normal ladle, it rings out with a satisfying sound if you hit with a snap of the wrist.",
+  "kind": "desc"
+ },
+ {
+  "en": "A toy devised by childcare artisan Sukebeios, who thought a wailing baby sucking on it would be unbeatable. At its debut, many mothers hailed it as groundbreaking. But in use, many couldn't let go even as adults, and most, save three, became social failures. Those three are the Pacifier Three.",
+  "kind": "desc",
+  "note": "Sukebeios: romanized ([JP] 'lecher' pun). [accuracy] accuracy: [JP] = 'most (not all) failed socially'."
+ },
+ {
+  "en": "A weapon with blades sticking out in three directions. Among throwing weapons it is accurate, and it works well enough even without much training.",
+  "kind": "desc"
+ },
+ {
+  "en": "A folded crane made of steel. The steel sheets are so sharp you wonder how it was ever folded. If you don't know how to hold it, just picking it up will draw blood.",
+  "kind": "desc",
+  "note": "[JP] read as 'folded' (origami crane)."
+ },
+ {
+  "en": "A Three-Ray Star with blades sprouting every which way. The blades vary in length and size, yet believe it or not, its center of gravity is set dead center. Its jumbled blades and spin leave the target with fine cuts that are hard to avoid.",
+  "kind": "desc"
+ },
+ {
+  "en": "A thick, large needle said to pierce a thousand sheets of paper. Whether it really can is unknown, but if one is thrown at you, you won't come out unscathed.",
+  "kind": "desc"
+ },
+ {
+  "en": "An opera libretto said to be the moon's gift to one who practiced prayer songs to it every night, for their talent. Its scales draw a Bard's vocal charm out to the limit; no ordinary composer could write it, so some say it truly came from the moon.",
+  "kind": "desc",
+  "note": "[JP] = Bard (class, ebt)."
+ },
+ {
+  "en": "A hat passed down from your forebear. It's in tatters and worth nothing in money, but worth has nothing to do with this hat. The wisdom and resolve handed down from your forebear should bring you, and only you, a value beyond anything.",
+  "kind": "desc"
+ },
+ {
+  "en": "A pure white ring, but lest it be only that, great care went into decorating the band itself. Reportedly, it was made in the image of the Moonlight Spirit. Perhaps it holds a wish for its wearer to grow graceful and lovely like the Moonlight Spirit.",
+  "kind": "desc",
+  "note": "[JP] = Moonlight Spirit (glossary)."
+ },
+ {
+  "en": "A frying pan reinforced with Cyclops craft. It never burns food at any heat, fries eggs without oil, and rinses clean with just water: godlike convenience. Thanks to its toughness, it also works as a shield.",
+  "kind": "desc"
+ },
+ {
+  "en": "A helm with mighty horns, after the black bull that charges headlong. Wearing it apparently makes you feel stronger and want to run wild. Its easy-to-get look makes it popular with kids. If an adventurer dad brings this helm home, he'll be a bit of a hero that day.",
+  "kind": "desc"
+ },
+ {
+  "en": "A helm made from Bahamut's head, magically smoked. It turns Bahamut's immense magic power into defense, protecting its owner from foes. Some wear it as proof they slew Bahamut, to flaunt their strength.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sitar made from a strange talking sapling. Strum it, and spells are chanted from its mouth. A strange sitar whose spells change with the strings you play. But its scales are said to be playable only by skilled musicians.",
+  "kind": "desc"
+ },
+ {
+  "en": "A helm with a holy blessing. Once a Lord can gather holy gear, they become aware anew that they are a 'Lord.' Until now, weren't you a Lord only because your class was Lord? But now it's different. You yourself will shape what the Lord class is.",
+  "kind": "desc",
+  "note": "[JP] kept as quoted 'Lord'."
+ },
+ {
+  "en": "An airy hat woven from straw. Seen in many lands, it comes in many shapes, from fashion hats to practical ones. A hat with a long history, ever loved by common folk.",
+  "kind": "desc"
+ },
+ {
+  "en": "A tent that gives adventurers a safe place to sleep in even the harshest conditions. Cool in summer and warm in winter, it is the ideal home. Some even live in a tent instead of building a house. That may well be handier in many ways.",
+  "kind": "desc"
+ },
+ {
+  "en": "A breastplate passed down from your forebear. It's rusted and in tatters, but wear it, and an unseen power guards you: the feelings and strength your forebear entrusted to you. With this Forebear's Breastplate, you can face any giant monster.",
+  "kind": "desc",
+  "note": "Full name spelled out (ITEM name is abbreviated 'Forebear's B.plate')."
+ },
+ {
+  "en": "A bank where you save your own life as gold coins. Bank or not, the life you put in will never come back to you. A pact with a devil is never that sweet. But the Devil's Coin Bank will reward you for every coin of life you put in.",
+  "kind": "desc"
+ },
+ {
+  "en": "Hunting-tribe garb that came into use as armor. Made of game hides with little treatment, it smells a bit of blood. But it masks your own scent, so it has many fans among Rangers. Its drawback: meat-eating animals and monsters are more likely to target you.",
+  "kind": "desc",
+  "note": "[JP] = Hunter (glossary). [accuracy] accuracy: [JP] = Ranger (lead decision)."
+ },
+ {
+  "en": "A lavish Koinunu that, even among the hunting tribes, only chieftains may wear. Its flashy look can at times make attackers falter.",
+  "kind": "desc"
+ }
+]

@@ -1,0 +1,430 @@
+[
+ {
+  "id": "91101-ARG_TOP_IN.bin@7ff62",
+  "en": "Your food has gone bad.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@80482",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "note": "[JP] rendered \"Temple of Rafa\" (not in glossary; glossary uses \"Rust Temple\" for [JP]). Passive kept: the buyer is the party, but the notice is impersonal system text."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@80590",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "note": "Full-width spaces around the number insert dropped (ASCII only); single spaces kept."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@80617",
+  "en": "Green Plakio",
+  "kind": "data",
+  "note": "Romanized; meaning of [JP] unknown (not [JP]/brachio). Likely a clue/treasure name inserted into row 1."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@80629",
+  "en": "Blue Menon",
+  "kind": "data",
+  "note": "Romanized [JP]; split as Blue + Menon to pair with Green Plakio. Could also be read \"Blumenon\"."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@80637",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "note": "[JP] romanized \"Selcoa\"."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@80647",
+  "en": "Celestial Readings",
+  "kind": "data"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@80655",
+  "en": "Wing Soul",
+  "kind": "data"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@80665",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "note": "[JP] could be a specific NPC nicknamed \"the old man\"/\"Pop\"; kept generic."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@80675",
+  "en": "Cannon Tools",
+  "kind": "data"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8067f",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "note": "[JP] = expert/veteran; \"Seasoned\" keeps that sense (and fits food)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8068f",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "note": "[JP] romanized \"Alton\"."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8069f",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "note": "[JP] romanized \"Behiem\"."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@806b1",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "note": "[JP] romanized \"Gamea\"."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@80cde",
+  "en": "Obtained {12:0003:0018}.{w}",
+  "kind": "msg",
+  "note": "Full-width space after the item insert dropped."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@80d0d",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@80d62",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@80f8f",
+  "en": "Please form a party at the tavern.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@80fc3",
+  "en": "Please form a party at the tavern.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@812c1",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@812ca",
+  "en": "\"Oh, so you guys came too?{w}Me? Just a little something. Work, you know.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81333",
+  "en": "Need something from me?",
+  "kind": "data"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81341",
+  "en": "About equipment",
+  "kind": "data"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81352",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8135b",
+  "en": "\"By the way, have you got your gear sorted out properly?{w}Items don't do a thing unless you equip them.\"{w}{p}\"If you've got a mage with you, I'd say you need to equip the Magic Seals, or they won't have any effect.\"{w}",
+  "kind": "msg",
+  "note": "[JP] rendered \"mage\" (class name not in glossary; check against the class UI terms). [JP] rendered as a hedge."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@813fa",
+  "en": "Recommended spots",
+  "kind": "data"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81409",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81412",
+  "en": "\"Recommended spots?{w}Well, there's Abi, west of the forest, I guess.\"{w}{p}\"Who's Abi, you ask?{w}Well, you'll see once you meet. Yep.\"{w}",
+  "kind": "msg",
+  "note": "Abi gender unknown: no pronoun used. Source [JP] is a typo for [JP] (meet). [JP] read as \"west of the forest\"; could also mean the western part of the forest."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81485",
+  "en": "About dangers",
+  "kind": "data"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81494",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8149d",
+  "en": "\"Watch out for Floor Masters.{w}The ones out for blood are usually red. If you spot a red shadow, be careful.\"{w}{p}\"As long as you don't attack a Floor Master first or get in its way, it won't come to a fight.\"{w}{p}\"But if you mean to block its path, you'll earn the wrath of the floor's boss, so you'd better be prepared for what comes.\"{w}{p}\"Some of them are a real pain and'll chase you, but the rest are all gentle types who walk a set route.\"{w}{p}\"Oh, and even if it does come to a fight, don't give up, okay?{w}If you're lucky, you can get away.\"{w}",
+  "kind": "msg",
+  "note": "[JP] (\"all of them are gentle\") contradicts the preceding \"some chase you\"; rendered \"the rest are all\" to keep both clauses coherent. Floor Masters referred to as \"it\" (monsters)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8169a",
+  "en": "Other info",
+  "kind": "data"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@816a9",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@816b2",
+  "en": "\"Hmm, nothing in particular, but...\"{w}{p}\"Ever heard of the Innocent series?{w}There's a sword, a shield and a cloak.\"{w}{p}\"They're pretty powerful, but only someone who's never changed class can equip them.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = class change."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81768",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81771",
+  "en": "\"Well then, take care.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@817a9",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@817b2",
+  "en": "\"Heeey!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@817c4",
+  "en": "Hanoi called out to you.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@817e1",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@817ea",
+  "en": "\"You guys...{w}Are you actually making progress on the Proclamation?\"{w}{p}\"I dunno, man.{w}From the outside, it doesn't look like it's going too well.\"{w}{p}\"If you're stuck, it's farming. Nothing else for it.{w}Why not get Chirocco to share some saplings and try growing them in Perpeco?\"{w}{p}\"Maybe some way to break the deadlock will come to you, huh?\"{w}",
+  "kind": "msg",
+  "note": "Chirocco gender unknown: no pronoun used. \"I dunno, man\" for [JP] (vague dissatisfied muttering)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81942",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8194b",
+  "en": "\"Hey, long time no see!\"{w}{p}\"I hear you've been doing great things. Something about taking back the Palace of the Sun?{w}Knowing I helped out a little makes me proud.{w}Keep the business coming my way!\"{w}{p}\"Oh, that reminds me. I had kind of a strange experience.{w}Just as I reached the Leanmakana Mountains, I got caught in this massive storm.\"{w}{p}\"I mean, look at me. I'm pretty slim, right?{w}I got blown clean away.\"{w}{p}\"Even I figured I was dead for sure, but then, believe it or not...\"{w}{p}\"I was in a castle floating in the sky.\"{w}{p}\"And there I met a woman wearing a hood.\"{w}{p}\"I didn't ask her name, but she told me all kinds of interesting stories.\"{w}{p}\"Why don't you go and meet her too, if you get the chance?\"{w}{p}\"You might get something useful out of it.\"{w}{p}\"Well, I'll be going now. See you.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = slim (Japanese sense), not clever. [JP] = merchant asking for continued patronage. Hanoi switches first-person pronoun from [JP] to [JP] in the last line and says [JP] instead of [JP]; no English equivalent, flagged in report. \"she told me\" for [JP] (I got to hear) -- the hooded woman is the only source in the scene."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81c08",
+  "en": "When you stepped out into the square, you saw Hanoi deep in thought.{w}{p}Hanoi noticed you as well, shouldered a backpack and came over.{w}",
+  "kind": "msg",
+  "note": "Narration in past tense to match rows 48/51. Hanoi gender unknown in glossary: name repeated instead of a pronoun."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81c97",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81ca0",
+  "en": "\"Looks like you're still alive.\nGood to see you're so hard to kill. Yep, yep.{w}Anyway...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81cfc",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81d05",
+  "en": "\"Ever heard the rumors about the Mine Trapper?{w}A weird thing with a squid for a head.\"{w}{p}\"It looks ridiculous, but apparently it's not to be underestimated. People in the know are pretty scared of it.\"{w}{p}\"I hadn't heard anything about it for a while, but just lately the sightings have started piling up.\"{w}{p}\"...Ah! Don't get the wrong idea, okay?\nI'm not asking you to go hunt it down.{w}I'm not expecting that much from you, so relax.\"{w}{p}\"I'm just saying we should both be careful out there.{w}Well then...\"{w}",
+  "kind": "msg",
+  "note": "\"out there\" added for natural rhythm only; no new information."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81ed1",
+  "en": "Hanoi left.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81fe3",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@81fec",
+  "en": "\"Ah, there you are... Heeey!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82010",
+  "en": "Back in town, you were stopped by a familiar voice.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82064",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8206d",
+  "en": "\"Yo. Adventuring going well?{w}I've got a soft spot for you guys, so don't go dying in a ditch on me, okay?\"{w}{p}\"...Though honestly, I'd rather you had a soft spot for me.{w}Ah well, I won't expect much from you lot.\"{w}{p}\"By the way, I'm holding a package for you.{w}Hold out your hands.\"{w}",
+  "kind": "msg",
+  "note": "[JP] used twice as a pun: Hanoi favours the party; Hanoi (a merchant) wants the party to favour/patronize him. \"soft spot\" repeated to keep the parallel; the trade sense surfaces in row 55 ([JP])."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82309",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82312",
+  "en": "\"Hey, that looks like pretty good stuff.{w}With this, maybe you'll turn into adventurers who actually earn a bit. I'd appreciate that... business-wise.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8238d",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82396",
+  "en": "\"Well, see you around.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@823b5",
+  "en": "Hanoi left.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@823f1",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@823fa",
+  "en": "\"Oh, and this too.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82436",
+  "en": "Hanoi",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8243f",
+  "en": "\"...Huh? You can't carry it?\"{w}{p}\"You're still pretty green, huh?{w}You never know what shape treasure'll come in. Always keep some room in your pack.\"{w}{p}\"Can't be helped. I'll sell it to Gia's place, so buy it back if you want it.\"{w}{p}\"Don't go selling other people's stuff without asking, you say?{w}Ha ha, don't worry about it. It's no big deal. Yep.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = \"Gia's place\"; row 63 places the item at Kembeck's Shop, so Gia works there. Gia gender unknown: no pronoun."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82588",
+  "en": "{12:0003:0018} is now in stock at Kembeck's Shop.{w}",
+  "kind": "msg",
+  "note": "Full-width space after insert and the \\n dropped; word wrap handles it."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82685",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8268e",
+  "en": "\"Heeey, everyone!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@826a4",
+  "en": "You turned toward a voice you hadn't heard in ages.{w}And there...{w}",
+  "kind": "msg",
+  "note": "[JP] = a voice you missed / long unheard. Trailing \"And there...\" kept unfinished like the source."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8271f",
+  "en": "Miria",
+  "kind": "name",
+  "note": "New name: [JP] romanized \"Miria\" (not in glossary)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82728",
+  "en": "\"Sorry to keep you waiting!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8274d",
+  "en": "Soara",
+  "kind": "name",
+  "note": "New name: [JP] romanized \"Soara\" (not in glossary)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82756",
+  "en": "\"It's been a while. Have you been well?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82789",
+  "en": "Miria",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82792",
+  "en": "\"Brings back memories, doesn't it? Bet you're surprised! Tee-hee.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@827d7",
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@827e0",
+  "en": "\"Thank you for what you did last time.{w}After you all saved the land, the Honorable Costo got trade between the nations back to normal, you see.\"{w}",
+  "kind": "msg",
+  "note": "New name: [JP] romanized \"Kosto\". [JP] rendered \"the Honorable\" because Kosto's gender is unknown (Lord/Lady would assume it); row 76 hinges on this honorific. [JP] = \"the land\" (cf. Elminage II subtitle)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82861",
+  "en": "Miria",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8286a",
+  "en": "\"You don't have to call Costo 'the Honorable,' though.\"{w}",
+  "kind": "msg",
+  "note": "Miria objects to the honorific [JP] itself; English honorific must match row 74/78. Name added so the line parses; Miria says [JP] in row 80, i.e. informal."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@828a1",
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@828aa",
+  "en": "\"Now, now. Officially, it's the rule.{w}Besides, in a way, it's thanks to the Honorable Costo that we can talk like this again, isn't it?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = \"it's the rule, at least on paper\"; [JP] rendered \"Now, now\" (gentle refusal)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82931",
+  "en": "Miria",
+  "kind": "name"
+ }
+]

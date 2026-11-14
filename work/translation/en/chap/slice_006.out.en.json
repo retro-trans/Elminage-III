@@ -1,0 +1,365 @@
+[
+ {
+  "en": "\"But we didn't win this time either...{w}Electra, maybe you really want to change classes?{w}Because if you do, then I...\"{w}",
+  "kind": "msg",
+  "note": "Mig (unicorn = proof of Innocence) is offering to step aside if Electra changes class; trails off as in source."
+ },
+ {
+  "en": "\"Took you long enough to notice.\"{w}",
+  "kind": "msg",
+  "note": "Yamuru, sardonic: Mig has finally caught on."
+ },
+ {
+  "en": "\"Yamuru!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Yamuru!{0F}\n...It's all right, okay?\"{w}{p}\"If I meant to change classes, I wouldn't be studying alchemy.{w}I'm studying like this because I decided to keep at it, you know?\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} text matches row 402 exactly."
+ },
+ {
+  "en": "\"Really? You really mean it?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Really. The more I learn, the more I'm able to do,{w}and I keep wondering what I'll be able to do next...\"{w}{p}\"Lately I'm having so much fun studying, I can't help it.{w}Maybe I should've started sooner?\"{w}{p}\"So, to keep me from running away,{w}you just keep on cheering for me, like always.{w}That way I can try all the harder. ...Okay?\"{w}",
+  "kind": "msg",
+  "note": "Electra asks Mig to keep cheering so she will not run away; cut points follow the source {w}s."
+ },
+ {
+  "en": "\"...Yeah! If it's you asking, Electra, I'll cheer you on forever and ever!{w}Go, Electra! I'll be with you always!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ugh, and now the noisy one's back...\"{w}",
+  "kind": "msg",
+  "note": "Yamuru: Mig is back to his usual cheering. (No pronoun used in EN.)"
+ },
+ {
+  "en": "\"Watch it, or I'll chop your head off! Read the room!\"{w}",
+  "kind": "msg",
+  "note": "Maniron snaps at Yamuru (temee = rude \"you\")."
+ },
+ {
+  "en": "\"Reckon that makes it a happy endin' all round, eh?\"{w}",
+  "kind": "msg",
+  "note": "Mokero's -yansu dialect rendered as folksy dropped g's, as in wmap."
+ },
+ {
+  "en": "\"So it would seem.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Right then, you guys! It won't go the same way next time, okay?{w}Well, take care!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh?\"",
+  "kind": "data",
+  "note": "data row: short quoted interjection, kept with quotes."
+ },
+ {
+  "en": "\"How are you guys doing?{w}We're doing great over here.{w}I've learned a whole lot more of my letters, too!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Half-baked or not, whatever it is,{w}once you start something, you keep at it till it's properly settled.{w}Otherwise nothing good ever comes of it...\"{w}",
+  "kind": "msg",
+  "note": "kejime ga tsuku = until it is settled/seen through."
+ },
+ {
+  "en": "\"...Sounds like somebody knows that from experience!\"{w}",
+  "kind": "msg",
+  "note": "Mokero teasing Yamuru; kept impersonal \"somebody\" (no glossary gender for Yamuru)."
+ },
+ {
+  "en": "\"Words only ever come from what a body's lived through themselves, after all...\"{w}",
+  "kind": "msg",
+  "note": "Korbitz, old-man register."
+ },
+ {
+  "en": "\"That's what they call a contrarian, right...?\"{w}",
+  "kind": "msg",
+  "note": "hinekuremono = someone contrary/twisted who won't say things straight; aimed at Yamuru, who answers \"I am not!\"."
+ },
+ {
+  "en": "\"I am not!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Go, Electra! I'll always be cheering for you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thanks, Mig.{w}Now then, you guys?{w}Let's do the usual!\"{w}",
+  "kind": "msg",
+  "note": "\"the usual\" = their customary match/battle."
+ },
+ {
+  "en": "\"You're as good as ever!\"{w}",
+  "kind": "msg",
+  "note": "After the battle (party won)."
+ },
+ {
+  "en": "\"We won't lose next time!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Off with ALL the heads!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mighty bloodthirsty talk, that...\"{w}",
+  "kind": "msg",
+  "note": "bussou = dangerous/violent; Mokero on Maniron."
+ },
+ {
+  "en": "\"Ah, the folly of youth, I suppose...\"{w}",
+  "kind": "msg",
+  "note": "wakasa yue ka = \"because of youth?\"; \"folly\" adds a little colour, flagged."
+ },
+ {
+  "en": "\"Look forward to the next time we meet, got it?{w}We'll be a lot stronger by then.\"{w}",
+  "kind": "msg",
+  "note": "Subject of tsuyoku natteru not stated; \"We\" (Yamuru speaking for the party, as the next line \"that's right!\" from Electra suggests)."
+ },
+ {
+  "en": "\"That's right! Well then, see you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah! Don't you run away, you jerk! I didn't get to chop off a head! Heeeeead!!\"{w}",
+  "kind": "msg",
+  "note": "Maniron as Electra's party leaves; target of \"don't run\" is the player party (or the retreat itself); kept generic \"you\"."
+ },
+ {
+  "en": "A giant tornado struck you.{w}You tried to hold your ground, but the force of the wind slowly lifted you off your feet, and you were carried high into the sky whether you liked it or not.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Lots of fish are swimming here.{w}{p}You found an Azure Fish... but{w}its form hardly belonged underwater.{w}A lion.{w}{p}Before you even had time to be startled by its bizarre shape, it suddenly attacked!{w}",
+  "kind": "msg",
+  "note": "NEW TERM: Azure Fish (jp seisougyo, both kanji = blue). \"A lion.\" kept as a one-word beat."
+ },
+ {
+  "en": "By a stroke of luck, an Azure Fish swam up to you!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "[Key Item]\nObtained Azure Fish.{w}",
+  "kind": "msg",
+  "note": "Format follows wmap key-item rows."
+ },
+ {
+  "en": "A small fish is swimming here.{w}",
+  "kind": "msg",
+  "note": "Number not marked in source; singular chosen."
+ },
+ {
+  "en": "The area is filthy with torn clothing and blood.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Shimerief",
+  "kind": "name",
+  "note": "NEW NAME: Shimerief (romanized). Calls herself \"Shimerief-baasan\" (old woman) in row 442; sword master/mentor of Milonya per MON_TEXT."
+ },
+ {
+  "en": "\"All right, you lot. I'm gonna give you some training. Trai-ning. Ukiki!\"{w}",
+  "kind": "msg",
+  "note": "ukiki = monkey-like cackle, kept as \"Ukiki!\"."
+ },
+ {
+  "en": "\"What's that? Not happy about it? What a waste. This is training folks couldn't get even if they begged me in tears.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Look, your sparring partners are here. If you die, I'll at least gather up your bones. Now, here we go! Ukiki!\"{w}",
+  "kind": "msg",
+  "note": "hone kurai wa hirotte yaru = \"I'll at least pick up your bones\" (see you get a burial)."
+ },
+ {
+  "en": "\"One, two, three, four... Well, that should do it. Oh? You lot are still alive. Ukiki!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...This place isn't all that far from Roscadil. And on top of that, there's this view, right?\"{w}{p}\"Every year, a good number of fools end up in this cave as food for those things.\"{w}{p}\"They're living creatures too, so I won't tell 'em not to eat. ...But everything comes down to balance.\"{w}{p}\"If we come in numbers like this and give 'em a good scare, things'll be safe again for a while.\"{w}",
+  "kind": "msg",
+  "note": "yatsura = the cave monsters. Last line \"mata shibaraku wa heiki\" = it will be fine/safe again for a while."
+ },
+ {
+  "en": "\"Strength enough to break things ain't something you swing around carelessly. You use just as much as you need, like this.\"{w}{p}\"Learned something, didn't you? There, that's the end of the training. What, you got some complaint?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well then, I'll head home ahead of you. If old Granny Shimerief ain't around on a moonlit night, the neighbors'll get lonely, y'see.\"{w}",
+  "kind": "msg",
+  "note": "Self-reference \"Shimerief-baasan\" -> \"old Granny Shimerief\"."
+ },
+ {
+  "en": "\"Ukiki!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "?????",
+  "kind": "name",
+  "note": "Unknown-speaker box (Brassel before being named)."
+ },
+ {
+  "en": "\"...Who the hell are you?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Tch...{w}What the hell is with you lot...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Brassel",
+  "kind": "name"
+ },
+ {
+  "en": "\"Don't tell me you wanna join the Brassel Gang?{w}Hah, well, looks like you can handle yourselves.\"{w}",
+  "kind": "msg",
+  "note": "Brassel Gang as in wmap slice_03."
+ },
+ {
+  "en": "\"...Huh? No?{w}Then why the hell did you come here?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Underling",
+  "kind": "name",
+  "note": "As in wmap slice_03."
+ },
+ {
+  "en": "\"Boss, I knew it, they heard about us from that brat... That little snitch went and blabbed...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gyah!\"{w}",
+  "kind": "msg",
+  "note": "Underling getting hit (no name box)."
+ },
+ {
+  "en": "\"Shut your trap! Keep quiet!{w}And you lot, get lost already!{w}Show your faces again and this time I'll kill you!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You came back again!?{w}I'm heading out!! Hey, kill these guys!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ow ow ow...{w}No way we can win without the boss... What the heck do you guys keep coming here for...?\"{w}{p}\"It's all that brat's fault anyway...{w}We've never let anybody leave here alive before, and that brat's been blabbing about us for sure.\"{w}{p}\"...You guys really don't know anything?{w}A little while back, near Roscadil, we jumped this little girl, see.\"{w}{p}\"...And the boss, for whatever reason, just let her go.\"{w}{p}\"A little brat in fancy duds like that,{w}we coulda snatched her for ransom or sold her off, y'know...\"{w}{p}\"Crap! The boss is coming back!{w}Please! Just say you got away!{w}C'mon! Or the boss'll kill us!!\"{w}",
+  "kind": "msg",
+  "note": "\"mesugaki\" (girl brat) settles the child's gender as female. Avoided a pronoun for the boss (Brassel has no glossary gender)."
+ },
+ {
+  "en": "\"Hey! Isn't anybody here!?{w}...Oh, it's you lot.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...You lot didn't hear anything from a blond brat, did you?{w}...Then that's fine.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Shut up! It's nothing!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\".................................\n...So even with just one parent, a kid gets to wear stuff that nice......\"{w}",
+  "kind": "msg",
+  "note": "Long ellipsis shortened to fit one line; muttered aside."
+ },
+ {
+  "en": "\"...You lot said something about wanting to join up, right?{w}What? You think I'd hear something like that wrong?{w}This job's just you lot and me. You're coming along.\"{w}",
+  "kind": "msg",
+  "note": "Brassel invents a pretext (they never asked to join)."
+ },
+ {
+  "en": "\"The job's at the Blue Cave.{w}Word is, deep inside there's a bunch of mimics that eat adventurers and hoard treasure.\"{w}",
+  "kind": "msg",
+  "note": "Blue Cave as in wmap slice_03."
+ },
+ {
+  "en": "\"We hit 'em.{w}Relax, they're just monsters.{w}That's your specialty, right?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There's no one here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All right, this is it! The Soleil Stone!{w}Hey, you lot can have the rest.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Received 5000 GP.{w}",
+  "kind": "msg",
+  "note": "Same wording as wmap slice_03 row 239."
+ },
+ {
+  "en": "\"...By the way, that brat's... No, I'll find the kid myself.{w}...I'm settling up. This here's payment for the trouble.{w}Just one parent, and that kid's still nothing like me...\"{w}{p}\"But don't think I'm going straight now.{w}I'm a thief till the day I die. That's who I am.{w}So I'll settle up with loot from a job, too.\"{w}{p}\"And next time we meet, I'll kill you lot too.{w}Don't come to the hideout again.\"{w}",
+  "kind": "msg",
+  "note": "kejime = settling accounts. \"Kataoya datte noni, ore to wa oochigai\" kept as a contrast without asserting Brassel's own background. Who the \"trouble money\" is for (the girl, via the stone?) is left as vague as the source."
+ },
+ {
+  "en": "Certain NPCs join your adventure in the summoned monster slot.{w}{p}If a similar NPC is already with you, another one cannot be added.{w}{p}Either finish the event of the NPC currently with you, or disband your party once at the tavern.{w}",
+  "kind": "msg",
+  "note": "System message; matches wmap slice_04 row 241 terms."
+ },
+ {
+  "en": "A rotted treasure chest lies on the ground.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A rotted treasure chest lies on the ground...{w}or so it seemed, but it was a mimic!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Beyond your nearly pitch-dark field of view, a strange, faintly glowing fish appeared.{w}{p}Circling at an uncanny speed, the fish seemed to be swimming far off in the distance, and then...{w}",
+  "kind": "msg",
+  "note": "Sentence continues into row 471."
+ },
+ {
+  "en": "...it closed in on you at an incomprehensible speed.{w}It bared its ferocious yet divine fangs at you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "An unfamiliar plant is growing here.{w}",
+  "kind": "msg",
+  "note": "Source omits a particle (typo); meaning is clear."
+ },
+ {
+  "en": "Unfamiliar fruit hangs from the unfamiliar plant.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Pick it?",
+  "kind": "data"
+ },
+ {
+  "en": "[Key Item]\nObtained Makana Essence.{w}",
+  "kind": "msg",
+  "note": "Makana Essence as in wmap slice_06."
+ },
+ {
+  "en": "Goblin",
+  "kind": "name"
+ },
+ {
+  "en": "\"What the hell are you!?{w}All the junk around here belongs to me, the great me!\"{w}{p}\"If you're so set on digging through my junk, hand over 1000 GP!!\"{w}",
+  "kind": "msg",
+  "note": "ore-sama = \"the great me\". G.P. -> GP."
+ },
+ {
+  "en": "Rummage through it?",
+  "kind": "data",
+  "note": "Choice prompt; slice_007 has \"motto, asaritai desu ka\" (rummage more?) - keep \"rummage\"."
+ },
+ {
+  "en": "\"All right, go ahead and rummage!{w}Root around shamelessly till you're satisfied!!\"{w}",
+  "kind": "msg",
+  "note": "asamashiku = shamelessly/meanly."
+ }
+]

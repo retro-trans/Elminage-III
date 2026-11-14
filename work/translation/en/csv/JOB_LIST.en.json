@@ -1,0 +1,842 @@
+[
+ {
+  "id": "JOB_LIST.CSV:5:2",
+  "en": "Breath",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:5:4",
+  "en": "Racial Skill",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:6:4",
+  "en": "Mage Spells",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:7:4",
+  "en": "Mage Spells'",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:8:4",
+  "en": "Mage Spells''",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:9:4",
+  "en": "Priest Spells",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:10:4",
+  "en": "Priest Spells'",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:11:4",
+  "en": "Priest Spells''",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:12:4",
+  "en": "Alchemy Spells",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:13:4",
+  "en": "Summon Spells",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:14:2",
+  "en": "Dispel",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:14:4",
+  "en": "Dispel",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:15:4",
+  "en": "Ethereal Strike",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:16:2",
+  "en": "Hide",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:16:4",
+  "en": "Thief Skills+1",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:17:2",
+  "en": "Hide",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:17:4",
+  "en": "Thief Skills",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:18:4",
+  "en": "Smithing",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:19:4",
+  "en": "Alchemy",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:20:3",
+  "en": "Svt. Bag",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:20:4",
+  "en": "Maid Recover",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:21:4",
+  "en": "Coin Bank",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:22:4",
+  "en": "Tea Time",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:23:3",
+  "en": "Appraise",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:23:4",
+  "en": "Appraise",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:24:2",
+  "en": "First Strike",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:24:4",
+  "en": "First Strike",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:25:4",
+  "en": "Pursuit",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:26:4",
+  "en": "Lower AC",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:27:4",
+  "en": "Multi-Strike",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:28:2",
+  "en": "Tarot",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:28:4",
+  "en": "Tarot",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:29:4",
+  "en": "Play Instrument",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:30:2",
+  "en": "Barrier",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:30:4",
+  "en": "Barrier",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:31:4",
+  "en": "Spec Resist Up",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:32:4",
+  "en": "Dual Main Weapons",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:33:4",
+  "en": "Decapitation Up",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:34:4",
+  "en": "Vigilance",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:36:4",
+  "en": "Phys Attack Up+1",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:37:4",
+  "en": "Phys Attack Up",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:38:4",
+  "en": "Mage Spell Up+1",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:39:4",
+  "en": "Mage Spell Up",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:40:4",
+  "en": "Priest Spell Up+1",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:41:4",
+  "en": "Priest Spell Up",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:42:4",
+  "en": "Alchemy Spell Up+1",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:43:4",
+  "en": "Alchemy Spell Up",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:44:4",
+  "en": "Spell Power Up+1",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:45:4",
+  "en": "Spell Power Up",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:46:4",
+  "en": "Soul Release",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:47:2",
+  "en": "Strip Gear",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:47:4",
+  "en": "Strip Gear",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:48:2",
+  "en": "Steal",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:48:4",
+  "en": "Steal",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:49:4",
+  "en": "Dismantle",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:50:4",
+  "en": "High-Purity Synth",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:51:4",
+  "en": "Dungeon Tea Party",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:52:4",
+  "en": "Strafe Pursuit",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:53:4",
+  "en": "Fighting Instinct",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:54:4",
+  "en": "Fate Alteration",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:55:4",
+  "en": "Ancient Rites",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:56:4",
+  "en": "Blood Pact",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:57:4",
+  "en": "Holy Lance Arts",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:58:4",
+  "en": "Temple Sanctuary",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:59:4",
+  "en": "Swallow Return",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:60:4",
+  "en": "Shadow Strike",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:62:4",
+  "en": "Grit",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:63:4",
+  "en": "Firm Ranks",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:64:4",
+  "en": "High Mana Source",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:65:4",
+  "en": "Spirit Contract",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:66:4",
+  "en": "Essence of Magic",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:67:4",
+  "en": "Healing Moment",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:68:4",
+  "en": "Ward of Creation",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:69:2",
+  "en": "Malediction",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:69:4",
+  "en": "Malediction",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:70:4",
+  "en": "Steal and Pass",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:71:4",
+  "en": "Excavation",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:72:4",
+  "en": "Way of Meddling",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:73:4",
+  "en": "Law of Heaven",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:74:4",
+  "en": "Law of Earth",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:75:4",
+  "en": "Law of Man",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:76:2",
+  "en": "Cook",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:76:3",
+  "en": "Cook",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:76:4",
+  "en": "Cook",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:77:2",
+  "en": "Corpse Throw",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:77:4",
+  "en": "Corpse Throw",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:78:4",
+  "en": "Mana Conversion",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:79:4",
+  "en": "Polymath",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:80:4",
+  "en": "Mysterious Bag",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:81:2",
+  "en": "Mimicry",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:81:4",
+  "en": "Mimicry",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:82:2",
+  "en": "War Rite",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:82:4",
+  "en": "War Rite",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:83:4",
+  "en": "Good Nature",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:84:4",
+  "en": "Bad Nature",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:85:2",
+  "en": "Ki Blast",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:85:4",
+  "en": "Ki Blast",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:86:4",
+  "en": "Drunken Venom Fist",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:87:2",
+  "en": "Haughty Laugh",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:87:4",
+  "en": "Haughty Laugh",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:88:4",
+  "en": "Sun's Blessing",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:89:2",
+  "en": "Song of Healing",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:89:4",
+  "en": "Song of Healing",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:90:2",
+  "en": "Song of Battle",
+  "max": 16,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:90:4",
+  "en": "Song of Battle",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:91:2",
+  "en": "Song of Hope",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:91:4",
+  "en": "Song of Hope",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:92:2",
+  "en": "Song of Smiles",
+  "max": 16,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:92:4",
+  "en": "Song of Smiles",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:93:2",
+  "en": "Fortune Slip",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:93:4",
+  "en": "Fortune Slip",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:94:3",
+  "en": "Bloodwed",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:94:4",
+  "en": "Bloodwed",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:95:2",
+  "en": "Master Therion",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:95:4",
+  "en": "Master Therion",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:96:4",
+  "en": "Drain",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:97:2",
+  "en": "Sacrifice",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:97:4",
+  "en": "Sacrifice",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:98:2",
+  "en": "Absolute Guard",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:98:4",
+  "en": "Absolute Guard",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:99:4",
+  "en": "Beacon of Revenge",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:100:4",
+  "en": "Nocturnal",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:101:2",
+  "en": "Swallow Slayer",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:101:4",
+  "en": "Swallow Slayer",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:102:2",
+  "en": "Clone",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:102:3",
+  "en": "Clone",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:102:4",
+  "en": "Clone",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:103:4",
+  "en": "Assassination",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:104:4",
+  "en": "Sadistic Delight",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:105:4",
+  "en": "Masochistic Bliss",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:106:4",
+  "en": "Brand of Ruin",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:107:4",
+  "en": "Breath+",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:109:4",
+  "en": "Defiled Ground",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:110:4",
+  "en": "Dark Torrent",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:111:4",
+  "en": "Dragon's Roar",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:112:4",
+  "en": "Dark Realm Torrent",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:113:4",
+  "en": "Proof of Kingship",
+  "max": 18,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:114:4",
+  "en": "Regeneration",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "JOB_LIST.CSV:115:2",
+  "en": "Sever Summon",
+  "max": 16,
+  "used": false
+ },
+ {
+  "id": "JOB_LIST.CSV:115:4",
+  "en": "Sever Summon",
+  "max": 18,
+  "used": false
+ }
+]

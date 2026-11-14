@@ -1,0 +1,386 @@
+[
+ {
+  "id": "ROUTINE.CSV:4:2",
+  "en": "Random Action",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:5:2",
+  "en": "Prefer Physical Attacks",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:6:2",
+  "en": "Prefer Spells",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:7:2",
+  "en": "Prefer Skills",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:8:2",
+  "en": "Prefer Phys. Atk & Spells",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:9:2",
+  "en": "Prefer Phys. Atk & Skills",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:10:2",
+  "en": "Prefer Spells & Skills",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:11:2",
+  "en": "Unholy Chapel Only",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:12:2",
+  "en": "Raver Lord Only",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:13:2",
+  "en": "Samurai Only",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:14:2",
+  "en": "Bodyguard (Random)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:15:2",
+  "en": "Prefer Healing",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:16:2",
+  "en": "Hide & Ambush",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:17:2",
+  "en": "Hilde Only",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:18:2",
+  "en": "Intelligent",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:19:2",
+  "en": "Prefer Ramialf",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:20:2",
+  "en": "Ahadaram Only 1",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:21:2",
+  "en": "Ahadaram Only 2",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:22:2",
+  "en": "Ahadaram Only 3",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:23:2",
+  "en": "Ahadaram Only 4",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:24:2",
+  "en": "Random Action & First Strike",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:25:2",
+  "en": "Targets Women",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:26:2",
+  "en": "Zefal's Bodyguard",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:27:2",
+  "en": "Intelligent (Improved)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:28:2",
+  "en": "Pawn Only",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:29:2",
+  "en": "Summoner (Fixed Row 2)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:30:2",
+  "en": "Bodyguard",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:31:2",
+  "en": "Generalissimo's Bodyguard",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:32:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:33:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:34:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:35:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:36:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:37:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:38:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:39:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:40:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:41:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:42:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:43:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:44:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:45:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:46:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:47:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:48:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:49:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:50:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:51:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:52:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:53:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:54:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:55:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:56:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:57:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:58:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:59:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:60:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:61:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:62:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:63:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:64:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:65:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:66:2",
+  "en": "(Reserve)",
+  "max": 28,
+  "used": true
+ },
+ {
+  "id": "ROUTINE.CSV:67:2",
+  "en": "Manual Input (Player)",
+  "max": 28,
+  "used": true
+ }
+]

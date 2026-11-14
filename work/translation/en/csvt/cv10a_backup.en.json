@@ -1,0 +1,1833 @@
+[
+ {
+  "en": "Common",
+  "kind": "name",
+  "note": "UI credits/save list fix this name ([JP] -> Common)."
+ },
+ {
+  "en": "Pipe Down!",
+  "kind": "name",
+  "note": "Epithet is an exclamation others throw at this chatty character (\"You're noisy!\"); kept as a shout."
+ },
+ {
+  "en": "Chatterbox",
+  "kind": "name"
+ },
+ {
+  "en": "Fujiyama",
+  "kind": "name",
+  "note": "Full-width romaji in source; UI credits use Fujiyama."
+ },
+ {
+  "en": "Fuji",
+  "kind": "name",
+  "note": "UI save list uses Fuji."
+ },
+ {
+  "en": "Bloom Past Forty",
+  "kind": "name",
+  "note": "Pun: [JP] = \"forty-fold cherry\" (play on [JP], i.e. someone in their forties) + [JP] \"can't go back\". \"Past\" carries the no-going-back sense; cherry rendered as \"Bloom\" to fit 16."
+ },
+ {
+  "en": "Late Bloomer",
+  "kind": "name",
+  "note": "[JP] = flowering out of season (a late burst of vigour); matches the cherry pun of the epithet."
+ },
+ {
+  "en": "Hiyora",
+  "kind": "name",
+  "note": "UI credits/save list fix this name."
+ },
+ {
+  "en": "Top Secret",
+  "kind": "name",
+  "note": "[JP] = \"the hush-hush one\"."
+ },
+ {
+  "en": "Secretive",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Fighter",
+  "kind": "name",
+  "note": "Test/debug character. [JP] = \"strongest!\", rendered \"Max!\" to fit every class in its slot. Class names per glossary/UI."
+ },
+ {
+  "en": "!Fighter",
+  "kind": "name",
+  "note": "Truncated nickname mirrors the source ([JP])."
+ },
+ {
+  "en": "Epithet",
+  "kind": "name",
+  "note": "Placeholder epithet ([JP]) used by 16 test entries."
+ },
+ {
+  "en": "Personality",
+  "kind": "name",
+  "note": "Placeholder personality ([JP]) used by 16 test entries."
+ },
+ {
+  "en": "Max!Mage",
+  "kind": "name"
+ },
+ {
+  "en": "!Mage",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Priest",
+  "kind": "name"
+ },
+ {
+  "en": "!Priest",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Thief",
+  "kind": "name"
+ },
+ {
+  "en": "!Thief",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Alchemist",
+  "kind": "name"
+ },
+ {
+  "en": "!Alchemist",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Maid",
+  "kind": "name",
+  "note": "Source says [JP] (Maid), the in-game nickname of the [JP]/Servant class (CHR slice_01 uses Maid too)."
+ },
+ {
+  "en": "!Maid",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Bishop",
+  "kind": "name"
+ },
+ {
+  "en": "!Bishop",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Hunter",
+  "kind": "name",
+  "note": "[JP] = Hunter per glossary (UI ebt slice still says Ranger; term_replacements move Ranger -> Hunter)."
+ },
+ {
+  "en": "!Hunter",
+  "kind": "name",
+  "note": "See 3791."
+ },
+ {
+  "en": "Max!Gladiatr",
+  "kind": "name",
+  "note": "Gladiator abbreviated to fit 12 bytes (\"Max!Gladiator\" is 13)."
+ },
+ {
+  "en": "!Gladiator",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Bard",
+  "kind": "name"
+ },
+ {
+  "en": "!Bard",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Kannagi",
+  "kind": "name",
+  "note": "[JP] = Kannagi per UI."
+ },
+ {
+  "en": "!Kannagi",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Summoner",
+  "kind": "name"
+ },
+ {
+  "en": "!Summoner",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Valkyrie",
+  "kind": "name",
+  "note": "[JP] = Valkyrie per glossary/UI."
+ },
+ {
+  "en": "!Valkyrie",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Lord",
+  "kind": "name"
+ },
+ {
+  "en": "!Lord",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Samurai",
+  "kind": "name"
+ },
+ {
+  "en": "!Samurai",
+  "kind": "name"
+ },
+ {
+  "en": "Max!Ninja",
+  "kind": "name"
+ },
+ {
+  "en": "!Ninja",
+  "kind": "name"
+ },
+ {
+  "en": "Data Check",
+  "kind": "name",
+  "note": "Debug entry."
+ },
+ {
+  "en": "Data Chk",
+  "kind": "name",
+  "note": "Source nickname is a truncation ([JP]); abbreviated likewise."
+ },
+ {
+  "en": "A1",
+  "kind": "name",
+  "note": "Debug placeholder epithet ([JP]); romanized."
+ },
+ {
+  "en": "P1",
+  "kind": "name",
+  "note": "Debug placeholder personality ([JP], [JP] from [JP]); rendered P for Personality to pair with A1."
+ },
+ {
+  "en": "Sho Kusanagi",
+  "kind": "name",
+  "note": "Western order, Hepburn without long-vowel mark ([JP] -> Sho; \"Shou\" would also fit). Gender not stated in source."
+ },
+ {
+  "en": "Sho",
+  "kind": "name",
+  "note": "See 3813."
+ },
+ {
+  "en": "The British Way",
+  "kind": "name",
+  "note": "[JP] = \"This is the British way\"."
+ },
+ {
+  "en": "Bright & Lively",
+  "kind": "name"
+ },
+ {
+  "en": "Mokunen",
+  "kind": "name",
+  "note": "[JP] = Tatewaki Mokunen; \"Mokunen Tatewaki\" (16) does not fit 8 bytes, so given name only (same as nickname)."
+ },
+ {
+  "en": "Mokunen",
+  "kind": "name"
+ },
+ {
+  "en": "Doctor Lionel",
+  "kind": "name"
+ },
+ {
+  "en": "Lionel",
+  "kind": "name"
+ },
+ {
+  "en": "Patty",
+  "kind": "name",
+  "note": "[JP] romanized Patty."
+ },
+ {
+  "en": "Sora Amaha",
+  "kind": "name",
+  "note": "Western order. [JP] read Amaha (from [JP] below)."
+ },
+ {
+  "en": "Sora",
+  "kind": "name"
+ },
+ {
+  "en": "Amaha Heir",
+  "kind": "name",
+  "note": "[JP] = heir/successor of the Amaha school; \"Heir of Amaha\" (13) does not fit 12."
+ },
+ {
+  "en": "Shy Karateka",
+  "kind": "name",
+  "note": "[JP] = innocent, easily flustered; \"Pure Karateka\" (13) does not fit 12, \"Shy\" chosen as the closest short word."
+ },
+ {
+  "en": "Isabella",
+  "kind": "name"
+ },
+ {
+  "en": "Human M",
+  "kind": "name",
+  "note": "Race template character. \"X M / X F\" pattern forced by 8-byte slots (ebt UI: [JP] = Male, [JP] = Female). Slice 47 should match."
+ },
+ {
+  "en": "Human",
+  "kind": "name",
+  "note": "[JP] nickname."
+ },
+ {
+  "en": "Human F",
+  "kind": "name"
+ },
+ {
+  "en": "Elf M",
+  "kind": "name"
+ },
+ {
+  "en": "Elf F",
+  "kind": "name"
+ },
+ {
+  "en": "Dwarf M",
+  "kind": "name"
+ },
+ {
+  "en": "Dwarf F",
+  "kind": "name"
+ },
+ {
+  "en": "Gnome M",
+  "kind": "name"
+ },
+ {
+  "en": "Gnome F",
+  "kind": "name"
+ },
+ {
+  "en": "Hotlet M",
+  "kind": "name",
+  "note": "[JP] = Hotlet per UI (ebt)."
+ },
+ {
+  "en": "Hotlet F",
+  "kind": "name"
+ },
+ {
+  "en": "Fairy M",
+  "kind": "name"
+ },
+ {
+  "en": "Fairy F",
+  "kind": "name"
+ },
+ {
+  "en": "Werebeast M",
+  "kind": "name"
+ },
+ {
+  "en": "Werebeast F",
+  "kind": "name"
+ },
+ {
+  "en": "Dragonewt M",
+  "kind": "name",
+  "note": "Race template. '<Race> M/F' pattern as slice_46. Dragonewt per ebt UI."
+ },
+ {
+  "en": "Dragonewt",
+  "kind": "name",
+  "note": "Nickname shared by M/F templates."
+ },
+ {
+  "en": "Dragonewt F",
+  "kind": "name"
+ },
+ {
+  "en": "Devilish M",
+  "kind": "name",
+  "note": "Devilish per ebt UI race list."
+ },
+ {
+  "en": "Devilish F",
+  "kind": "name"
+ },
+ {
+  "en": "Puppet M",
+  "kind": "name",
+  "note": "[JP] race = Puppet per ebt UI (glossary term 'magic puppet' is the running-text form)."
+ },
+ {
+  "en": "Puppet",
+  "kind": "name",
+  "note": "Nickname."
+ },
+ {
+  "en": "Puppet F",
+  "kind": "name"
+ },
+ {
+  "en": "Ogre M",
+  "kind": "name"
+ },
+ {
+  "en": "Ogre F",
+  "kind": "name"
+ },
+ {
+  "en": "Goblin M",
+  "kind": "name"
+ },
+ {
+  "en": "Goblin F",
+  "kind": "name"
+ },
+ {
+  "en": "Finalist",
+  "kind": "name",
+  "note": "Premade/test character name; literal."
+ },
+ {
+  "en": "Final",
+  "kind": "name",
+  "note": "Nickname is a truncation of the name, as in the source."
+ },
+ {
+  "en": "This here lets you breathe even when\nyou're underwater, see. With this, you\noughta be able to explore underwater\ndungeons, too.\n\nFrozen Elven Iron x Vectreim\nVectreim x Tri-Layer Orat",
+  "kind": "desc",
+  "note": "Air Fruit. Gruff alchemist voice (ze/na/yo endings). Trailing full-width padding dropped; blank separator line kept; recipe x = multiplication sign."
+ },
+ {
+  "en": "When you go into a cave, this shows\nwhat's around you in a tiny window.\nIf you're confident you'll get lost,\nyou'd better make one.\n\nDvel Soft Steel x Frozen Elven Iron",
+  "kind": "desc",
+  "note": "Angel's Window. The 'confident you'll get lost' joke kept."
+ },
+ {
+  "en": "This tells you how many stone blocks\nthere are on the floor. Once you know\nhow many impassable blocks there are,\nwon't mapping get a lot easier?\n\nDvel Soft Steel x Tri-Layer Orat\nVectreim x Mazurite",
+  "kind": "desc",
+  "note": "Rock Counter."
+ },
+ {
+  "en": "This drives off the enemies lying in\nwait beyond doors. Ring it once and\nevery enemy on the floor runs off...\nbut they drop treasure chests, so...\n\nFrozen Elven Iron x Mazurite\nMazurite x Tri-Layer Orat",
+  "kind": "desc",
+  "note": "Dove Bell. Trailing-off regret kept: chasing them off loses their treasure chests."
+ },
+ {
+  "en": "This calls back the enemies lying in\nwait beyond doors. Ring it once and\nevery enemy on the floor comes back,\nbut fighting 'em all over again...\n\nDvel Soft Steel x Vectreim\nTri-Layer Orat x Milstone",
+  "kind": "desc",
+  "note": "Crow Bell. Mirrors 3868's structure, as the source does."
+ },
+ {
+  "en": "This marks where enemies lie in wait\nright on your map. It helps just by\ncarrying it, so make at least one.\n\nDvel Soft Steel x Mazurite\nFrozen Elven Iron x Milstone",
+  "kind": "desc",
+  "note": "Sheep's Brush."
+ },
+ {
+  "en": "...If your party's wiped out with this\non you, it gets hauled back to town.\nWhat does? Your corpses, that's what.\nWell, make one as insurance.\n\nDvel Soft Steel x Milstone\nFrozen Elven Iron x Tri-Layer Orat",
+  "kind": "desc",
+  "note": "Bone Slippers. Source's subjectless 'is carried to town on its own' kept vague on purpose for the 'what? the corpses' punchline. 'on its own' ([JP]) compressed into 'gets hauled'."
+ },
+ {
+  "en": "When you meet enemies, this tells you\ntheir level. If the gap's too wide,\nrunning's an option too, y'know? You're\nstill young. Don't rush to your death.\n\nVectreim x Milstone",
+  "kind": "desc",
+  "note": "Death Pinwheel."
+ },
+ {
+  "en": "There are laws in this world, see,\nthat the likes of us can't fathom.\nThis shows 'em to you as numbers.\nWhat they're like? Go see for\nyourself, with your own eyes.\n\nMazurite x Milstone",
+  "kind": "desc",
+  "note": "Dice of Fate."
+ },
+ {
+  "en": "The ultimate goal of alchemy -- this\nis it. But it can't be made the usual\nway. ...Let's see. Try a method\nthat's a bit on the dangerous side.\n\n??????????????",
+  "kind": "desc",
+  "note": "Philosopher's Stone. Source recipe line is 14 full-width '?' (unknown recipe); kept as 14 ASCII '?'."
+ },
+ {
+  "en": "Random Action",
+  "kind": "label",
+  "note": "AI action-routine name."
+ },
+ {
+  "en": "Prefer Physical Attacks",
+  "kind": "label"
+ },
+ {
+  "en": "Prefer Spells",
+  "kind": "label"
+ },
+ {
+  "en": "Prefer Skills",
+  "kind": "label"
+ },
+ {
+  "en": "Prefer Phys. Atk & Spells",
+  "kind": "label"
+ },
+ {
+  "en": "Prefer Phys. Atk & Skills",
+  "kind": "label"
+ },
+ {
+  "en": "Prefer Spells & Skills",
+  "kind": "label"
+ },
+ {
+  "en": "Unholy Chapel Only",
+  "kind": "label",
+  "note": "New name: [JP] = Unholy Chapel (a monster/boss, not found in corpus). [JP] = 'X Only' throughout."
+ },
+ {
+  "en": "Raver Lord Only",
+  "kind": "label",
+  "note": "Raver Lord as MONSTER2 (csvt slice_37)."
+ },
+ {
+  "en": "Samurai Only",
+  "kind": "label"
+ },
+ {
+  "en": "Bodyguard (Random)",
+  "kind": "label",
+  "note": "[JP] = a routine that guards allies; 'Bodyguard' used for all [JP] rows (3885, 3897, 3901, 3902)."
+ },
+ {
+  "en": "Prefer Healing",
+  "kind": "label"
+ },
+ {
+  "en": "Hide & Ambush",
+  "kind": "label",
+  "note": "[JP] = ambush (ebt slice_12)."
+ },
+ {
+  "en": "Hilde Only",
+  "kind": "label",
+  "note": "Hilde per glossary."
+ },
+ {
+  "en": "Intelligent",
+  "kind": "label"
+ },
+ {
+  "en": "Prefer Lamiaf",
+  "kind": "label",
+  "note": "Lamiaf = spell [JP] as csvt slice_48 row 3969."
+ },
+ {
+  "en": "Ahadaram Only 1",
+  "kind": "label",
+  "note": "New name: [JP] = Ahadaram (not in glossary/corpus; Hepburn r)."
+ },
+ {
+  "en": "Ahadaram Only 2",
+  "kind": "label"
+ },
+ {
+  "en": "Ahadaram Only 3",
+  "kind": "label"
+ },
+ {
+  "en": "Ahadaram Only 4",
+  "kind": "label"
+ },
+ {
+  "en": "Random Action & First Strike",
+  "kind": "label",
+  "note": "[JP] = First Strike (ebt slice_15). 28/28 bytes."
+ },
+ {
+  "en": "Targets Women",
+  "kind": "label",
+  "note": "[JP] = goes after female characters."
+ },
+ {
+  "en": "Zefal's Bodyguard",
+  "kind": "label",
+  "note": "New name: [JP] = Zefal ([JP]- = Zefe- in slice_48 spells). [JP] = bodyguard dedicated to Zefal."
+ },
+ {
+  "en": "Intelligent (Improved)",
+  "kind": "label",
+  "note": "[JP] = improved/modified version."
+ },
+ {
+  "en": "Pawn Only",
+  "kind": "label",
+  "note": "[JP] = Pawn (monster name, chess piece; not found in corpus)."
+ },
+ {
+  "en": "Summoner (Fixed Row 2)",
+  "kind": "label",
+  "note": "[JP] = summoner that stays fixed in the 2nd row."
+ },
+ {
+  "en": "Bodyguard",
+  "kind": "label"
+ },
+ {
+  "en": "Generalissimo's Bodyguard",
+  "kind": "label",
+  "note": "[JP] = Generalissimo (ebt slice_18 'Dark Generalissimo Welsconi')."
+ },
+ {
+  "en": "Manual Input (Player)",
+  "kind": "label"
+ },
+ {
+  "en": "Alchem",
+  "kind": "key?",
+  "note": "SPELL c1 school key (46 cells). 'Alchemy' is 7 bytes vs 6. Matches override 'Alchem.' style used for [JP] (JOBABL row 2360); if the slot can take 7, use 'Alchemy'. Must be identical in every copy (shared dictionary)."
+ },
+ {
+  "en": "Enemy",
+  "kind": "key?",
+  "note": "SPELL c1 school key for enemy-only spells ([JP]). 'Enemy' (5) fits 6."
+ },
+ {
+  "en": "Balad",
+  "kind": "name"
+ },
+ {
+  "en": "Misama",
+  "kind": "name",
+  "note": "[JP] = -sama, as Samaeis (slice_48)."
+ },
+ {
+  "en": "Tioseed",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Dioseed."
+ },
+ {
+  "en": "Balados",
+  "kind": "name"
+ },
+ {
+  "en": "Gras",
+  "kind": "name",
+  "note": "Cluster keeps r (slice_48 rule). Ghostlight (Elminage Gothic EN, fan wiki) form: Glass."
+ },
+ {
+  "en": "Lamisama",
+  "kind": "name",
+  "note": "La- for [JP] (slice_48 convention). Ghostlight (Elminage Gothic EN, fan wiki) form: Ramisama."
+ },
+ {
+  "en": "Binem",
+  "kind": "name",
+  "note": "Stem as Binemfi (slice_48). Ghostlight (Elminage Gothic EN, fan wiki) form: Venom."
+ },
+ {
+  "en": "Mabalad",
+  "kind": "name"
+ },
+ {
+  "en": "Jiakala",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Ziakal."
+ },
+ {
+  "en": "Labinem",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Ravenom."
+ },
+ {
+  "en": "Lobti",
+  "kind": "name",
+  "note": "Stem as Lobkand/Halobkan (slice_48). Ghostlight (Elminage Gothic EN, fan wiki) form: Robuti."
+ },
+ {
+  "en": "Magras",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Maglass."
+ },
+ {
+  "en": "Stoma",
+  "kind": "name"
+ },
+ {
+  "en": "Sosaleo",
+  "kind": "name",
+  "note": "L for [JP]-row (slice_48). Ghostlight (Elminage Gothic EN, fan wiki) form: Sosareo."
+ },
+ {
+  "en": "Labalad",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Rabalad."
+ },
+ {
+  "en": "Algeiz",
+  "kind": "name",
+  "note": "Earthquake/fissure spell. Ghostlight (Elminage Gothic EN, fan wiki) form: Argeiss (weakly attested)."
+ },
+ {
+  "en": "Halobti",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Hallobuti."
+ },
+ {
+  "en": "Lagras",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Raglass."
+ },
+ {
+  "en": "Jiakalad",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Ziakalad."
+ },
+ {
+  "en": "Lastoma",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Rastoma."
+ },
+ {
+  "en": "Entelkmista",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Enterook Mista."
+ },
+ {
+  "en": "Tiomente",
+  "kind": "name",
+  "note": "Ghostlight (Elminage Gothic EN, fan wiki) form: Diomente."
+ },
+ {
+  "en": "Ulmakul",
+  "kind": "name",
+  "note": "Mage top-tier no-element spell. Ghostlight's level-7 Mage set is Enterook Mista / Miracle / Diomente, so this may be their 'Miracle' (unconfirmed); romanized per brief."
+ },
+ {
+  "en": "Filia",
+  "kind": "name",
+  "note": "Stem as Filima (slice_48). Ghostlight (Elminage Gothic EN, fan wiki) form: Feiria."
+ },
+ {
+  "en": "Harias",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Tashif",
+  "kind": "name"
+ },
+ {
+  "en": "Elode",
+  "kind": "name",
+  "note": "Dungeon light, timed. Stem [JP]- = Elo- (shared with Eloma, 3939)."
+ },
+ {
+  "en": "Binemfi",
+  "kind": "name",
+  "note": "[JP] (mage poison spell) + -[JP] (cure): Binem + fi. Cures Poison."
+ },
+ {
+  "en": "Latashif",
+  "kind": "name",
+  "note": "La- prefix = row version (Wizardry La-/Ma- convention)."
+ },
+ {
+  "en": "Halobkan",
+  "kind": "name",
+  "note": "[JP]- stem shared with mage [JP] (slice_47); L-style."
+ },
+ {
+  "en": "Zonpeli",
+  "kind": "name"
+ },
+ {
+  "en": "Filima",
+  "kind": "name",
+  "note": "Stem matches Filead ([JP], slice_16 ITEM row 1334)."
+ },
+ {
+  "en": "Loidfi",
+  "kind": "name",
+  "note": "[JP] (Loid, 3955) + -[JP] (cure). Cures Paralysis."
+ },
+ {
+  "en": "Eloma",
+  "kind": "name",
+  "note": "Permanent dungeon light; pairs with Elode (3932)."
+ },
+ {
+  "en": "Lafilima",
+  "kind": "name"
+ },
+ {
+  "en": "Miaeis",
+  "kind": "name",
+  "note": "-[JP] (group cure) rendered -eis; shared with Samaeis (3944)."
+ },
+ {
+  "en": "Halobkarm",
+  "kind": "name",
+  "note": "[JP] vs [JP] (3935): [JP] kept as r to keep them distinct."
+ },
+ {
+  "en": "Hanilastra",
+  "kind": "name",
+  "note": "st-r cluster keeps r."
+ },
+ {
+  "en": "Samaeis",
+  "kind": "name",
+  "note": "[JP] also in mage [JP] (slice_47); align if that slice renders [JP] differently."
+ },
+ {
+  "en": "Zefefus",
+  "kind": "name",
+  "note": "[JP] stem as in Lizefade (slice_16); final -[JP] kept as -fus for pronounceability."
+ },
+ {
+  "en": "Lobkand",
+  "kind": "name"
+ },
+ {
+  "en": "Saidray",
+  "kind": "name",
+  "note": "[JP]- (barrier) + [JP]([JP]) drain; dr cluster keeps r."
+ },
+ {
+  "en": "Lizefes",
+  "kind": "name",
+  "note": "Matches Lizefade ([JP], slice_16 ITEM row 1335)."
+ },
+ {
+  "en": "Elnam",
+  "kind": "name"
+ },
+ {
+  "en": "Saibress",
+  "kind": "name",
+  "note": "[JP]- (barrier) + [JP] (breath); br cluster keeps r."
+ },
+ {
+  "en": "Imlualati",
+  "kind": "name"
+ },
+ {
+  "en": "Lafilead",
+  "kind": "name",
+  "note": "La- + Filead ([JP], slice_16)."
+ },
+ {
+  "en": "Lazefes",
+  "kind": "name"
+ },
+ {
+  "en": "Pamdeun",
+  "kind": "name"
+ },
+ {
+  "en": "Loid",
+  "kind": "name"
+ },
+ {
+  "en": "Mahamaha",
+  "kind": "name"
+ },
+ {
+  "en": "Laloid",
+  "kind": "name"
+ },
+ {
+  "en": "Bluffy",
+  "kind": "name",
+  "note": "Glossary (SPELL.CSV:64)."
+ },
+ {
+  "en": "Skolek",
+  "kind": "name"
+ },
+ {
+  "en": "Kalacha",
+  "kind": "name"
+ },
+ {
+  "en": "Olas",
+  "kind": "name"
+ },
+ {
+  "en": "Laskolek",
+  "kind": "name"
+ },
+ {
+  "en": "Makalacha",
+  "kind": "name",
+  "note": "Ma- prefix (Wizardry convention)."
+ },
+ {
+  "en": "Viffi",
+  "kind": "name"
+ },
+ {
+  "en": "Unihakot",
+  "kind": "name"
+ },
+ {
+  "en": "Pinto",
+  "kind": "name",
+  "note": "Final vowel kept: 'Pint' would read as the English word."
+ },
+ {
+  "en": "Lapolfi",
+  "kind": "name"
+ },
+ {
+  "en": "Lamiaf",
+  "kind": "name"
+ },
+ {
+  "en": "Pendek",
+  "kind": "name"
+ },
+ {
+  "en": "Lapinto",
+  "kind": "name"
+ },
+ {
+  "en": "Lapodos",
+  "kind": "name"
+ },
+ {
+  "en": "Pendeakot",
+  "kind": "name"
+ },
+ {
+  "en": "Zeonadal",
+  "kind": "name"
+ },
+ {
+  "en": "Baipotol",
+  "kind": "name",
+  "note": "Bai- + [JP] (row 3957, not in this slice; recommend 'Potol' there)."
+ },
+ {
+  "en": "Pritektrat",
+  "kind": "name",
+  "note": "pr/tr clusters keep r."
+ },
+ {
+  "en": "Contract",
+  "kind": "name",
+  "note": "Summoner command; ebt uses [JP] = contract (Summoner Contract Settings)."
+ },
+ {
+  "en": "Summon",
+  "kind": "name",
+  "note": "ebt: [JP] = Cannot summon."
+ },
+ {
+  "en": "Dismiss",
+  "kind": "name",
+  "note": "Summoner command: send the summoned monster back ([JP])."
+ },
+ {
+  "en": "Miasma Wave",
+  "kind": "name",
+  "note": "Enemy-only: halves all targets' HP (Mimic's move, MON_TEXT row 22)."
+ },
+ {
+  "en": "Bell of Judgment",
+  "kind": "name",
+  "note": "As ebt slice_09 ([JP]%d[JP])."
+ },
+ {
+  "en": "Self-Destruct",
+  "kind": "name"
+ },
+ {
+  "en": "Mirroring",
+  "kind": "name",
+  "note": "Copies the player's items (designer note)."
+ },
+ {
+  "en": "Pull",
+  "kind": "name",
+  "note": "Matches ebt 'Withstood the pull' and csv slice_30 'Pull effects'; swaps the party's front and back rows."
+ },
+ {
+  "en": "Latch On",
+  "kind": "name",
+  "note": "[JP] = sucking/latching on; effect defined on a special sheet, not visible."
+ },
+ {
+  "en": "Eclipse",
+  "kind": "name"
+ },
+ {
+  "en": "Afternoon Nap",
+  "kind": "name"
+ },
+ {
+  "en": "Lullaby",
+  "kind": "name"
+ },
+ {
+  "en": "Nightmare",
+  "kind": "name"
+ },
+ {
+  "en": "Harmoni's Grenade",
+  "kind": "name",
+  "note": "[JP] dropped: 'Prof./Dr. Harmoni's Grenade' exceeds 20 bytes and the title is unclear (other tables write [JP]). Harmoni is a summonable NPC per SP_TEXT; gender unknown, so no Mr./Ms."
+ },
+ {
+  "en": "Mind Crush",
+  "kind": "name"
+ },
+ {
+  "en": "Soul Trap",
+  "kind": "name"
+ },
+ {
+  "en": "Old Aim",
+  "kind": "name",
+  "note": "Same katakana as the place 'Old Aim' (csv slice_06 HELP_TEXT row 510)."
+ },
+ {
+  "en": "Timold's Holy Word",
+  "kind": "name",
+  "note": "New name [JP] = Timold (L-style)."
+ },
+ {
+  "en": "Attacks one enemy with fire.",
+  "kind": "help"
+ },
+ {
+  "en": "High chance to put one enemy to sleep.",
+  "kind": "help"
+ },
+ {
+  "en": "Attacks one enemy with freezing cold.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to put one enemy row to sleep.",
+  "kind": "help"
+ },
+ {
+  "en": "High chance to inflict Poison on one enemy.",
+  "kind": "help",
+  "note": "[JP] = Poison, as ITEM_HELP (slice_19)."
+ },
+ {
+  "en": "Raises one enemy's AC by 7. Stackable.",
+  "kind": "help",
+  "note": "Source says 7 here; the designer column of SPELL.CSV says 3. Translated as shown to the player."
+ },
+ {
+  "en": "High chance to petrify one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Makes the party float in the air in dungeons.",
+  "kind": "help"
+ },
+ {
+  "en": "A fissure damages enemies, with a low chance to swallow them.",
+  "kind": "help"
+ },
+ {
+  "en": "Raises all enemies' AC by 4. Stackable.",
+  "kind": "help",
+  "note": "Identical to ITEM_HELP wording (slice_19)."
+ },
+ {
+  "en": "Has a chance to petrify one enemy row.",
+  "kind": "help"
+ },
+ {
+  "en": "Attacks all enemies with a non-elemental explosion.",
+  "kind": "help"
+ },
+ {
+  "en": "Moves to a place you have visited. In battle, warps to random coordinates.",
+  "kind": "help"
+ },
+ {
+  "en": "Blesses all allies' weapons so they can hit spirits and the like.",
+  "kind": "help"
+ },
+ {
+  "en": "High chance to silence one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Lights the dungeon so hidden mechanisms are easier to find. Time-limited.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to silence one enemy row.",
+  "kind": "help"
+ },
+ {
+  "en": "Lowers all allies' AC by 3. Stackable.",
+  "kind": "help"
+ },
+ {
+  "en": "Shows any dead adventurers on the current floor.",
+  "kind": "help"
+ },
+ {
+  "en": "Heals one ally moderately.",
+  "kind": "help",
+  "note": "[JP] = moderate heal (cf. ITEM_HELP [JP] 'a little')."
+ },
+ {
+  "en": "Lights the dungeon so hidden mechanisms are easier to find. No time limit.",
+  "kind": "help"
+ },
+ {
+  "en": "Cures all allies of Sleep, Silence, Confusion, Charm and Fear.",
+  "kind": "help",
+  "note": "Status names as in ebt / ITEM_HELP."
+ },
+ {
+  "en": "Lowers all allies' AC by 2. Lasts the whole expedition.",
+  "kind": "help",
+  "note": "[JP] = stays in effect for the whole trip (until back in town); contrasts with the in-battle [JP] version."
+ },
+ {
+  "en": "Returns the party to the castle. Forgotten once cast.",
+  "kind": "help",
+  "note": "[JP]: the spell is lost from the caster's list after one use."
+ },
+ {
+  "en": "Cures all allies of every ailment except Petrification, Death and Ash.",
+  "kind": "help",
+  "note": "[JP] = Petrification (ITEM_HELP precedent), [JP] = Ash (ebt)."
+ },
+ {
+  "en": "Sets one ally's AC to -20.",
+  "kind": "help",
+  "note": "ebt 'now has AC -20'."
+ },
+ {
+  "en": "Fully restores one ally's HP and cures all ailments but Death and Ash.",
+  "kind": "help"
+ },
+ {
+  "en": "Creates a barrier that blocks one breath attack. Can be stacked.",
+  "kind": "help",
+  "note": "Same pattern as ITEM_HELP drain-barrier row (slice_19:1550)."
+ },
+ {
+  "en": "In exchange for all MP, cuts every enemy's current HP by a set ratio.",
+  "kind": "help",
+  "note": "[JP] = all of the caster's MP."
+ },
+ {
+  "en": "Heals all allies' HP moderately.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to revive one ally from Death or Ash.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to instantly kill one enemy row.",
+  "kind": "help"
+ },
+ {
+  "en": "High chance to paralyze one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Identifies the trap on a treasure chest.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to paralyze one enemy row.",
+  "kind": "help"
+ },
+ {
+  "en": "Hides one ally so enemies won't target them.",
+  "kind": "help",
+  "note": "Bluffy (glossary)."
+ },
+ {
+  "en": "Raises all allies' speed.",
+  "kind": "help",
+  "note": "[JP] = speed (ebt)."
+ },
+ {
+  "en": "High chance to confuse one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Lowers all enemies' speed.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to confuse one enemy row.",
+  "kind": "help",
+  "note": "Same as ITEM_HELP slice_19:1588 minus the [Instrument] tag."
+ },
+ {
+  "en": "Draws enemy attacks onto one ally.",
+  "kind": "help"
+ },
+ {
+  "en": "High chance to charm one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Resets stat changes made in battle for friend and foe.",
+  "kind": "help",
+  "note": "Same as ITEM_HELP slice_19:1577 minus the [Instrument] tag."
+ },
+ {
+  "en": "Restores all allies' items that were broken in battle.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to charm one enemy row.",
+  "kind": "help"
+ },
+ {
+  "en": "Destroys a cursed item.",
+  "kind": "help"
+ },
+ {
+  "en": "Safely disarms the trap on a treasure chest.",
+  "kind": "help"
+ },
+ {
+  "en": "Grants a special wish, but is forgotten once cast.",
+  "kind": "help"
+ },
+ {
+  "en": "Forms a contract with a monster.",
+  "kind": "help",
+  "note": "Summoner spell [JP]; ebt uses 'contract'. Dupes 7."
+ },
+ {
+  "en": "Summons a contracted monster.",
+  "kind": "help"
+ },
+ {
+  "en": "Sends back the summoned monster.",
+  "kind": "help",
+  "note": "[JP]: dismiss the current summon."
+ },
+ {
+  "en": "Contract9012",
+  "kind": "key?",
+  "note": "UNCERTAIN: designer label with a width ruler ([JP] + full-width 3..12). Kept as 'Contract' + ruler digits to a 12-char width. Probably not player-visible. Spell name [JP] itself not yet fixed (slice_48)."
+ },
+ {
+  "en": "Piety",
+  "kind": "key?",
+  "note": "Learning stat; ebt [JP] = Piety, cf. Ankh of Piety."
+ },
+ {
+  "en": "(None)",
+  "kind": "key?",
+  "note": "ebt [JP] = None; parentheses kept."
+ },
+ {
+  "en": "Class changed to Fighter",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Mage",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Priest",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Thief",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Alchemist",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Servant",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Bishop",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Hunter",
+  "kind": "desc",
+  "note": "[JP] = Hunter (glossary, csvt majority). ebt slice_16:1305 has 'Ranger'; conflict flagged."
+ },
+ {
+  "en": "Class changed to Gladiator",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Bard",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Kannagi",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Summoner",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Valkyrie",
+  "kind": "desc",
+  "note": "[JP] = Valkyrie (ebt; glossary [JP])."
+ },
+ {
+  "en": "Class changed to Lord",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Samurai",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed to Ninja",
+  "kind": "desc"
+ },
+ {
+  "en": "Class changed",
+  "kind": "desc",
+  "note": "Random basic class."
+ },
+ {
+  "en": "Race changed to Human",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Elf",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Dwarf",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Gnome",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Hobbit",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Fairy",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Werebeast",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Dragonewt",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Devilish",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Magic Puppet",
+  "kind": "desc",
+  "note": "[JP] = magic puppet (glossary term). ebt race list slice_17:1355 has 'Puppet'; conflict flagged."
+ },
+ {
+  "en": "Race changed to Ogre",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed to Goblin",
+  "kind": "desc"
+ },
+ {
+  "en": "Race changed",
+  "kind": "desc",
+  "note": "Random race Human..Devilish."
+ },
+ {
+  "en": "Received the Blessing of Life",
+  "kind": "desc",
+  "note": "Ildraha, god of life (ebt slice_02:97)."
+ },
+ {
+  "en": "Received the Blessing of Change",
+  "kind": "desc",
+  "note": "Ashtel, god of change (story)."
+ },
+ {
+  "en": "Received the Blessing of Dark Oblivion",
+  "kind": "desc",
+  "note": "Rogera; [JP] = Dark Oblivion (glossary [JP]). 38/38 bytes. ebt slice_08:640 has [JP] = 'Blessing of Dark Ruin'; conflict flagged."
+ },
+ {
+  "en": "Received the Blessing of Space",
+  "kind": "desc",
+  "note": "Void, god of space (story)."
+ },
+ {
+  "en": "Received the Blessing of Time",
+  "kind": "desc",
+  "note": "Naru, god of time (story)."
+ },
+ {
+  "en": "Received the Blessing of Existence",
+  "kind": "desc",
+  "note": "Dehain, god of existence (story)."
+ },
+ {
+  "en": "Gender changed to Male",
+  "kind": "desc"
+ },
+ {
+  "en": "Gender changed to Female",
+  "kind": "desc"
+ },
+ {
+  "en": "Alignment changed to Good",
+  "kind": "desc",
+  "note": "[JP] here = alignment (ctx [JP]; wmap 'alignment changed to Good')."
+ },
+ {
+  "en": "Alignment changed to Neutral",
+  "kind": "desc"
+ },
+ {
+  "en": "Alignment changed to Evil",
+  "kind": "desc"
+ },
+ {
+  "en": "Strength increased",
+  "kind": "desc",
+  "note": "[JP] = Strength (ebt)."
+ },
+ {
+  "en": "Intellect increased",
+  "kind": "desc",
+  "note": "[JP] = Intellect (ebt)."
+ },
+ {
+  "en": "Piety increased",
+  "kind": "desc"
+ },
+ {
+  "en": "Vitality increased",
+  "kind": "desc"
+ },
+ {
+  "en": "Agility increased",
+  "kind": "desc"
+ },
+ {
+  "en": "Luck increased",
+  "kind": "desc"
+ },
+ {
+  "en": "Strength decreased",
+  "kind": "desc"
+ },
+ {
+  "en": "Intellect decreased",
+  "kind": "desc"
+ },
+ {
+  "en": "Piety decreased",
+  "kind": "desc"
+ },
+ {
+  "en": "Vitality decreased",
+  "kind": "desc"
+ },
+ {
+  "en": "Agility decreased",
+  "kind": "desc"
+ },
+ {
+  "en": "Luck decreased",
+  "kind": "desc"
+ },
+ {
+  "en": "Aged 1 year",
+  "kind": "desc",
+  "note": "Subject (the item user) left implicit, as in the source; reads after a name or alone. Cf. EBOOT '%s aged %s years'."
+ },
+ {
+  "en": "Grew 1 year younger",
+  "kind": "desc",
+  "note": "Subject-less predicate (user implied), as 4103."
+ },
+ {
+  "en": "Aged 10 years",
+  "kind": "desc",
+  "note": "As 4103."
+ },
+ {
+  "en": "Gained purity",
+  "kind": "desc",
+  "note": "Designer note: resets the class-change count to 0. Kept the source's 'purity' (junketsu) rather than explaining the mechanic."
+ },
+ {
+  "en": "Breath element changed to Fire",
+  "kind": "desc",
+  "note": "Element words follow the breath names (EBOOT ebt slice_17: Fire/Ice/Lightning/Holy/Dark/Sleep/Venom/Paralysis/Silence/Confusion/Charm/Stone/Death Breath)."
+ },
+ {
+  "en": "Breath element changed to Ice",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Lightning",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Holy",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Dark",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Sleep",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Venom",
+  "kind": "desc",
+  "note": "moudoku: 'Venom' to match 'Venom Breath'; status list elsewhere says 'Poison'."
+ },
+ {
+  "en": "Breath element changed to Paralysis",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Silence",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Confusion",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Charm",
+  "kind": "desc",
+  "note": "miwaku (not miryou): 'Charm' as in 'Charm Breath'."
+ },
+ {
+  "en": "Breath element changed to Stone",
+  "kind": "desc",
+  "note": "sekika: 'Stone' as in 'Stone Breath' (status list uses 'Petrify')."
+ },
+ {
+  "en": "Breath element changed to Death",
+  "kind": "desc",
+  "note": "sokushi (instant death): 'Death' as in 'Death Breath'."
+ },
+ {
+  "en": "Breath element changed",
+  "kind": "desc",
+  "note": "Random element change."
+ },
+ {
+  "en": "Forgot all spells",
+  "kind": "desc",
+  "note": "Subject (user) implicit, as in source."
+ },
+ {
+  "en": "All maps reverted to unexplored",
+  "kind": "desc",
+  "note": "Source has a typo (mitou-ha for mitouha, 'unexplored'); meaning per designer note."
+ },
+ {
+  "en": "Max HP increased",
+  "kind": "desc"
+ },
+ {
+  "en": "MP was fully restored",
+  "kind": "desc"
+ },
+ {
+  "en": "Everyone's MP was fully restored",
+  "kind": "desc"
+ },
+ {
+  "en": "MP dropped to 0",
+  "kind": "desc"
+ },
+ {
+  "en": "Everyone's MP dropped to 0",
+  "kind": "desc",
+  "note": "Source reads 'zen'i' (goodwill), a typo for zen'in (everyone); designer note says all members' MP becomes 0."
+ },
+ {
+  "en": "Everyone's HP restored, ailments cured",
+  "kind": "desc",
+  "note": "Whole party: HP restored and status ailments cured."
+ },
+ {
+  "en": "Died",
+  "kind": "desc",
+  "note": "Subject (user) implicit, as in source; reads after a name or alone."
+ },
+ {
+  "en": "Turned to ash",
+  "kind": "desc",
+  "note": "Matches EBOOT 'turned to ash'."
+ },
+ {
+  "en": "It turned into Frostfire Chain Mail",
+  "kind": "desc",
+  "note": "Item name from ITEM (csvt slice_13). 'It' = the item being used/transformed."
+ },
+ {
+  "en": "It turned into Goddess's Shield",
+  "kind": "desc"
+ },
+ {
+  "en": "It turned into Black Dream Cloak",
+  "kind": "desc"
+ },
+ {
+  "en": "It turned into Crimson Blade",
+  "kind": "desc"
+ },
+ {
+  "en": "It turned into Ring of Fellowship",
+  "kind": "desc"
+ },
+ {
+  "en": "It turned into Inro",
+  "kind": "desc"
+ },
+ {
+  "en": "It turned into Fundoshi-1",
+  "kind": "desc"
+ },
+ {
+  "en": "Blessed at the cost of their life",
+  "kind": "desc",
+  "note": "Designer note: user dies and becomes a Priest. Singular 'their' (user's gender unknown)."
+ },
+ {
+  "en": "Someone's gender was swapped",
+  "kind": "desc"
+ },
+ {
+  "en": "Mysterious letters rose into view",
+  "kind": "desc",
+  "note": "Same wording as the EBOOT copy of this line (ebt slice_01)."
+ },
+ {
+  "en": "Magic light enveloped their body",
+  "kind": "desc",
+  "note": "Designer note: only a Servant user becomes a Lord."
+ },
+ {
+  "en": "Went bald",
+  "kind": "desc",
+  "note": "Joke result; kept blunt."
+ },
+ {
+  "en": "Flames of passion engulfed the two",
+  "kind": "desc",
+  "note": "jounen no honoo: burning passion; 'the two' = the pair this item needs (failure text 4153 'Someone is missing')."
+ },
+ {
+  "en": "The Wand of Records glowed with Fame",
+  "kind": "desc",
+  "note": "Wand of Records (ITEM slice_15), Fame (glossary)."
+ },
+ {
+  "en": "Gained the power of contract",
+  "kind": "desc",
+  "note": "keiyaku no chikara: new term; 'contract' as in the Summoner/Spirit Contract strings. Subject (user) implicit."
+ },
+ {
+  "en": "A mysterious urge welled up",
+  "kind": "desc"
+ },
+ {
+  "en": "Traded all past experience for GP.",
+  "kind": "desc",
+  "note": "Source ends with a full stop; kept."
+ },
+ {
+  "en": "What will it be?",
+  "kind": "desc",
+  "note": "Lucky-dip item: 'What's going to come out?'"
+ },
+ {
+  "en": "Cannot receive the gods' blessing",
+  "kind": "desc",
+  "note": "Failure text shared by the six god-blessing rows (Blessing of ...)."
+ },
+ {
+  "en": "Nothing happened. Something's missing.",
+  "kind": "desc",
+  "note": "Source hedge 'seems to be' compressed to fit 40 bytes; full: 'Nothing happened. Something seems to be missing.' (49)."
+ },
+ {
+  "en": "Nothing happened",
+  "kind": "desc"
+ },
+ {
+  "en": "Someone is missing",
+  "kind": "desc",
+  "note": "Pairs with 4144: the effect needs two people."
+ },
+ {
+  "en": "Fame cannot be offered yet",
+  "kind": "desc",
+  "note": "Pairs with 4145."
+ },
+ {
+  "en": "Already has the power of contract",
+  "kind": "desc",
+  "note": "Pairs with 4146; subject (user) implicit."
+ },
+ {
+  "en": "Puts enemies to Sleep",
+  "kind": "desc",
+  "note": "The Fool. 'Enemies' = the opposing side (EBOOT results hit a whole side; cf. slice_51 'Enemies flee'). Status names capitalised."
+ },
+ {
+  "en": "Double magic damage",
+  "kind": "desc",
+  "note": "The Magician. Side not stated in source; EBOOT result is the drawer's side ('spell power rose')."
+ },
+ {
+  "en": "Poisons enemies",
+  "kind": "desc",
+  "note": "The High Priestess (moudoku = Poison status)."
+ },
+ {
+  "en": "Bans all physical attacks",
+  "kind": "desc",
+  "note": "The Empress; zen'in = everyone on both sides (EBOOT: 'Physical attacks are forbidden for everyone')."
+ },
+ {
+  "en": "Silences enemies",
+  "kind": "desc",
+  "note": "The Emperor."
+ },
+ {
+  "en": "Bans all skill actions",
+  "kind": "desc",
+  "note": "The Hierophant. Source says 'skill actions'; the EBOOT battle text calls them 'special actions'."
+ },
+ {
+  "en": "Charms enemies",
+  "kind": "desc",
+  "note": "The Lovers."
+ },
+ {
+  "en": "Raises evasion",
+  "kind": "desc",
+  "note": "The Chariot. Side not stated; EBOOT result is the drawer's side."
+ },
+ {
+  "en": "Good-aligned: 2x damage",
+  "kind": "desc",
+  "note": "Justice. Source as terse as this ('Good alignment's damage x2'); EBOOT result: 'Those of Good alignment were blessed', so most likely damage dealt."
+ },
+ {
+  "en": "Punishes passive fighting",
+  "kind": "desc",
+  "note": "The Hermit (EBOOT: 'Passive fighting has been forbidden')."
+ },
+ {
+  "en": "Randomizes turn order",
+  "kind": "desc",
+  "note": "Wheel of Fortune."
+ },
+ {
+  "en": "Double attack damage",
+  "kind": "desc",
+  "note": "Strength."
+ },
+ {
+  "en": "All evasion checks fail",
+  "kind": "desc",
+  "note": "The Hanged Man; zen'in = everyone."
+ },
+ {
+  "en": "Kills one enemy outright",
+  "kind": "desc",
+  "note": "Death (instant death)."
+ },
+ {
+  "en": "Neutral-aligned: 2x damage",
+  "kind": "desc",
+  "note": "Temperance; as 4185. Exactly 26 bytes."
+ },
+ {
+  "en": "Evil-aligned: 2x damage",
+  "kind": "desc",
+  "note": "The Devil; as 4185."
+ },
+ {
+  "en": "Confuses enemies",
+  "kind": "desc",
+  "note": "The Tower."
+ },
+ {
+  "en": "All attacks hit",
+  "kind": "desc",
+  "note": "The Star. Side not stated; EBOOT result is the drawer's side ('accuracy rose')."
+ },
+ {
+  "en": "Enemies flee",
+  "kind": "desc",
+  "note": "[JP] read as the enemy side (battle tarot used against opponents)."
+ },
+ {
+  "en": "Fully restores allies' HP",
+  "kind": "desc",
+  "note": "Wording matches csvt slice_19 'Fully restores one ally's HP.'"
+ },
+ {
+  "en": "Weak near death; turn ends",
+  "kind": "desc",
+  "note": "[JP] (the weak) kept unspecific: it is not clear whether it hits weak enemies, weak allies or both. [JP] = brought to the brink of death. Verb compressed to fit 26 bytes."
+ },
+ {
+  "en": "All lose def. resistances",
+  "kind": "desc",
+  "note": "Matches EBOOT battle message 'Everyone's defensive resistances vanished' (ebt slice_11); [JP] = everyone on both sides."
+ },
+ {
+  "en": "Magic Drain",
+  "kind": "name",
+  "note": "Trap: every spell level loses 1 MP, whole party."
+ },
+ {
+  "en": "Spell Blaster",
+  "kind": "name",
+  "note": "Kept the source's 'Spell' (not Wizardry's 'Mage Blaster'); hits those who know mage spells."
+ },
+ {
+  "en": "Priest Blaster",
+  "kind": "name",
+  "note": "Hits those who know priest spells."
+ },
+ {
+  "en": "Counter Punch",
+  "kind": "name",
+  "note": "Trap: instant death to the opener."
+ }
+]

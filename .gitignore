@@ -1,0 +1,39 @@
+# Never commit the game or anything derived from its data.
+*.iso
+*.cso
+*.chd
+*.bin
+*.BIN
+*.elf
+*.pmf
+*.ppst
+*.xdelta
+*.exe
+*.zip
+*.ttc
+*.ttf
+*.otf
+
+# Work folder: allowlist only (translations without Japanese, glossary, UI label specs, captions)
+work/*
+!work/translation/
+work/translation/**
+!work/translation/**/
+!work/translation/**/*.en.json
+!work/glossary/
+work/glossary/*
+!work/glossary/glossary.en.json
+!work/glossary/term_replacements*.json
+!work/ui/
+work/ui/*
+!work/ui/specs/
+!work/movie/
+work/movie/*
+!work/movie/captions.json
+
+# Outside files and local notes
+incoming/
+docs/agent_prompts/
+__pycache__/
+*.pyc
+*.log

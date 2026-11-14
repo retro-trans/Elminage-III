@@ -1,0 +1,2270 @@
+[
+ {
+  "id": "MONSTER3.CSV:6:4",
+  "en": "Sanafeet of Oblivion",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:5",
+  "en": "Fulfaray of Being",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:6",
+  "en": "Yokmonge",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:7",
+  "en": "Vampire Lord",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:8",
+  "en": "Numbra Narv",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:9",
+  "en": "Phosphor Moth",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:10",
+  "en": "Brain Through",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:11",
+  "en": "Nue",
+  "max": 10,
+  "used": false
+ },
+ {
+  "id": "MONSTER3.CSV:6:12",
+  "en": "Mirror Ghost",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:13",
+  "en": "Azabas",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:14",
+  "en": "Cetus Dragon",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:15",
+  "en": "Master Drake",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:16",
+  "en": "Don Magus",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:17",
+  "en": "Noden Orc",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:18",
+  "en": "Bow Saint Polyte",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:19",
+  "en": "Taranti",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:20",
+  "en": "Hecatoncheir",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:21",
+  "en": "Demon Gen. Sephiriege",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:22",
+  "en": "Abi",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:23",
+  "en": "Tiger Centaur III",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:24",
+  "en": "Doppelganger",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:25",
+  "en": "Nambino",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:26",
+  "en": "Rombino",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:27",
+  "en": "Necrophilis",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:28",
+  "en": "Shaharon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:29",
+  "en": "Dark Mayer",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:30",
+  "en": "Yorfa",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:31",
+  "en": "Necrophilis",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:32",
+  "en": "Shaharon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:33",
+  "en": "Dark Mayer",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:34",
+  "en": "Yorfa",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:35",
+  "en": "Rafa",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:36",
+  "en": "Dark Fuhrer",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:37",
+  "en": "Demon Gen. Welsconi",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:38",
+  "en": "Malem Svart",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:39",
+  "en": "Malem Mendit",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:40",
+  "en": "Malem Ozekt",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:41",
+  "en": "Reckdas",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:42",
+  "en": "Fiend Asunamuchi",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:43",
+  "en": "Purippa",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:44",
+  "en": "Endwards",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:45",
+  "en": "Deltoi Parlor",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:46",
+  "en": "Fanisakil",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:47",
+  "en": "Aleed Painter",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:48",
+  "en": "Hellmilk Sarebos",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:49",
+  "en": "Seot Mar",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:50",
+  "en": "Castromandi",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:51",
+  "en": "Menolist",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:52",
+  "en": "Ponyapo",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:53",
+  "en": "Taizarti",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:54",
+  "en": "Danue",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:55",
+  "en": "Ebirahan",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:56",
+  "en": "Togaranuman",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:57",
+  "en": "Cursmeltu",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:58",
+  "en": "Proto Dariem",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:59",
+  "en": "Fumbler",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:60",
+  "en": "Saimundur",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:61",
+  "en": "Fender Lynx",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:62",
+  "en": "Ryugel Makiam",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:63",
+  "en": "Ryugel Regiem",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:64",
+  "en": "Ryugel Dariem",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:65",
+  "en": "Hevayur",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:66",
+  "en": "Red Qualia",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:67",
+  "en": "Blue Qualia",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:68",
+  "en": "Green Qualia",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:69",
+  "en": "Yel. Qualia",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:70",
+  "en": "White Qualia",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:71",
+  "en": "Black Qualia",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:72",
+  "en": "Spectoria",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:73",
+  "en": "Mucha",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:74",
+  "en": "Zeppo",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:75",
+  "en": "Gia",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:76",
+  "en": "Hardy",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:77",
+  "en": "Balgert",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:78",
+  "en": "Fena",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:79",
+  "en": "Branon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:80",
+  "en": "Chirocco",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:81",
+  "en": "Madulay",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:82",
+  "en": "Shimerief",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:83",
+  "en": "Toner",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:84",
+  "en": "Safi",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:85",
+  "en": "Empress Rianna",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:86",
+  "en": "Milonya",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:87",
+  "en": "Decoy",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:88",
+  "en": "Lotz",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:89",
+  "en": "Natori",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:90",
+  "en": "Chair Wattner",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:91",
+  "en": "Mayleen",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:92",
+  "en": "Arlotte",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:93",
+  "en": "Zonette",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:94",
+  "en": "Molder",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:95",
+  "en": "Barjeff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:96",
+  "en": "Nora",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:97",
+  "en": "Yuna",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:98",
+  "en": "Aznand",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:99",
+  "en": "Emera",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:100",
+  "en": "Bona",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:101",
+  "en": "Brassel",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:102",
+  "en": "Fulgrant",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:103",
+  "en": "Zaalhaut",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:104",
+  "en": "Hilde",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:105",
+  "en": "Hisbert",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:106",
+  "en": "Fairy King Meem",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:107",
+  "en": "Agintaitus",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:108",
+  "en": "Hanoi",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:109",
+  "en": "Makakuri",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:110",
+  "en": "Ruu",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:111",
+  "en": "Mandelgius",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:112",
+  "en": "Tarrit",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:113",
+  "en": "Electra",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:114",
+  "en": "Mig",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:115",
+  "en": "Yamuru",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:116",
+  "en": "Maniron",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:117",
+  "en": "Korbitz",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:118",
+  "en": "Mokero",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:119",
+  "en": "Debug 1",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:120",
+  "en": "Debug 2",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:121",
+  "en": "Debug 3",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:122",
+  "en": "Debug 4",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:123",
+  "en": "Debug 5",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:124",
+  "en": "Debug 6",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:125",
+  "en": "Sanafeet of Oblivion",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:126",
+  "en": "Petit-Das",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:127",
+  "en": "Squeeza",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:128",
+  "en": "Nambino",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:6:129",
+  "en": "Rombino",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:4",
+  "en": "Sanafeet's Shadow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:5",
+  "en": "Fulfaray's Shadow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:6",
+  "en": "Yokmonge",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:7",
+  "en": "Vampire Lord",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:8",
+  "en": "Numbra Narv",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:9",
+  "en": "Phosphor Moth",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:10",
+  "en": "Brain Through",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:11",
+  "en": "Nue",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:12",
+  "en": "Mirror Ghost",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:13",
+  "en": "Azabas",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:14",
+  "en": "Cetus Dragon",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:15",
+  "en": "Master Drake",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:16",
+  "en": "Don Magus",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:17",
+  "en": "Noden Orc",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:18",
+  "en": "Bow Saint Polyte",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:19",
+  "en": "Taranti",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:20",
+  "en": "Hecatoncheir",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:21",
+  "en": "Sephiriege",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:22",
+  "en": "Abi",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:23",
+  "en": "Tiger Centaur III",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:24",
+  "en": "Doppelganger",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:25",
+  "en": "Nambino",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:26",
+  "en": "Rombino",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:27",
+  "en": "Necrophilis",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:28",
+  "en": "Shaharon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:29",
+  "en": "Dark Mayer",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:30",
+  "en": "Yorfa",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:31",
+  "en": "Necrophilis",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:32",
+  "en": "Shaharon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:33",
+  "en": "Dark Mayer",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:34",
+  "en": "Yorfa",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:35",
+  "en": "Rafa",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:36",
+  "en": "Dark Fuhrer",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:37",
+  "en": "Welsconi",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:38",
+  "en": "Malem Svart",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:39",
+  "en": "Malem Mendit",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:40",
+  "en": "Malem Ozekt",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:41",
+  "en": "Reckdas",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:42",
+  "en": "Asunamuchi",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:43",
+  "en": "Purippa",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:44",
+  "en": "Endwards",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:45",
+  "en": "Deltoi Parlor",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:46",
+  "en": "Fanisakil",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:47",
+  "en": "Aleed Painter",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:48",
+  "en": "Hellmilk Sarebos",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:49",
+  "en": "Seot Mar",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:50",
+  "en": "Castromandi",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:51",
+  "en": "Menolist",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:52",
+  "en": "Ponyapo",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:53",
+  "en": "Taizarti",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:54",
+  "en": "Danue",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:55",
+  "en": "Ebirahan",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:56",
+  "en": "Togaranuman",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:57",
+  "en": "Cursmeltu",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:58",
+  "en": "Proto Dariem",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:59",
+  "en": "Fumbler",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:60",
+  "en": "Saimundur",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:61",
+  "en": "Fender Lynx",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:62",
+  "en": "Ryugel Makiam",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:63",
+  "en": "Ryugel Regiem",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:64",
+  "en": "Ryugel Dariem",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:65",
+  "en": "Hevayur",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:66",
+  "en": "Red Qualia",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:67",
+  "en": "Blue Qualia",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:68",
+  "en": "Green Qualia",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:69",
+  "en": "Yel. Qualia",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:70",
+  "en": "White Qualia",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:71",
+  "en": "Black Qualia",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:72",
+  "en": "Spectoria",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:73",
+  "en": "Mucha",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:74",
+  "en": "Zeppo",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:75",
+  "en": "Gia",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:76",
+  "en": "Hardy",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:77",
+  "en": "Balgert",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:78",
+  "en": "Fena",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:79",
+  "en": "Branon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:80",
+  "en": "Chirocco",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:81",
+  "en": "Madulay",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:82",
+  "en": "Shimerief",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:83",
+  "en": "Toner",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:84",
+  "en": "Safi",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:85",
+  "en": "Empress Rianna",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:86",
+  "en": "Milonya",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:87",
+  "en": "Decoy",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:88",
+  "en": "Lotz",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:89",
+  "en": "Natori",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:90",
+  "en": "Chair Wattner",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:91",
+  "en": "Mayleen",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:92",
+  "en": "Arlotte",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:93",
+  "en": "Zonette",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:94",
+  "en": "Molder",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:95",
+  "en": "Barjeff",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:96",
+  "en": "Nora",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:97",
+  "en": "Yuna",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:98",
+  "en": "Aznand",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:99",
+  "en": "Emera",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:100",
+  "en": "Bona",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:101",
+  "en": "Brassel",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:102",
+  "en": "Fulgrant",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:103",
+  "en": "Zaalhaut",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:104",
+  "en": "Hilde",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:105",
+  "en": "Hisbert",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:106",
+  "en": "Fairy King Meem",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:107",
+  "en": "Agintaitus",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:108",
+  "en": "Hanoi",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:109",
+  "en": "Makakuri",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:110",
+  "en": "Ruu",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:111",
+  "en": "Mandelgius",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:112",
+  "en": "No-Good Girl",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:113",
+  "en": "Electra",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:114",
+  "en": "Mig",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:115",
+  "en": "Yamuru",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:116",
+  "en": "Maniron",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:117",
+  "en": "Korbitz",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:118",
+  "en": "Mokero",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:119",
+  "en": "Debug 1",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:120",
+  "en": "Debug 2",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:121",
+  "en": "Debug 3",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:122",
+  "en": "Debug 4",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:123",
+  "en": "Debug 5",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:124",
+  "en": "Debug 6",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:125",
+  "en": "Sanafeet's Shadow",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:126",
+  "en": "Petit-Das",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:127",
+  "en": "Squeeza",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:128",
+  "en": "Nambino",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:7:129",
+  "en": "Rombino",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:4",
+  "en": "Beginning of the End",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:5",
+  "en": "The Merciless God",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:6",
+  "en": "Huge Girl Doll",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:7",
+  "en": "Kin-of-Night King",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:8",
+  "en": "Dark Realm Spr",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:9",
+  "en": "Maker of Light",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:10",
+  "en": "Strange Form",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:11",
+  "en": "Myth Beast",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:12",
+  "en": "Dweller Beyond",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:13",
+  "en": "Power Seeker",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:14",
+  "en": "Forbidden Wyrm",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:15",
+  "en": "God of War",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:16",
+  "en": "Pants Magic",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:17",
+  "en": "Where's It Hurt?",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:18",
+  "en": "Legendary Archer",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:19",
+  "en": "Rolfaan!",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:20",
+  "en": "Mountain Shade",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:21",
+  "en": "Hunter of the Abyss",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:22",
+  "en": "Hello!",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:23",
+  "en": "Details Unknown",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:24",
+  "en": "Phantom Likeness",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:25",
+  "en": "Gonna Peep-Peep!",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:26",
+  "en": "Gonna Wave-Wave!",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:27",
+  "en": "Corpse-Fond Girl",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:28",
+  "en": "Rebel Spr",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:29",
+  "en": "Knows the World",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:30",
+  "en": "Moon Spr",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:31",
+  "en": "Corpse-Fond Girl",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:32",
+  "en": "Rebel Spr",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:33",
+  "en": "Knows the World",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:34",
+  "en": "Moon Spr",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:35",
+  "en": "Sun Spr",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:36",
+  "en": "Knows the World",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:37",
+  "en": "Dark Realm Dominion",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:38",
+  "en": "Came From Beyond",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:39",
+  "en": "Came From Beyond",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:40",
+  "en": "Came From Beyond",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:41",
+  "en": "Miasma Lord",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:42",
+  "en": "The Onlooker",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:43",
+  "en": "Terror Tenor",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:44",
+  "en": "Warped Flesh",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:45",
+  "en": "Otherworld Den",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:46",
+  "en": "Deep Emperor",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:47",
+  "en": "Painter of Ada",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:48",
+  "en": "Queen of Folly",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:49",
+  "en": "Raging Flash",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:50",
+  "en": "A Gent's Tastes",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:51",
+  "en": "My Best",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:52",
+  "en": "Unexpected",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:53",
+  "en": "The Seeker",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:54",
+  "en": "Successor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:55",
+  "en": "Sunderer",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:56",
+  "en": "Radiant Visage",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:57",
+  "en": "Unrotting Cup",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:58",
+  "en": "Primordium",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:59",
+  "en": "Sacred Chaos",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:60",
+  "en": "Arcane Orrery",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:61",
+  "en": "Spirit-Roar Fang",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:62",
+  "en": "New Prime Matter",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:63",
+  "en": "Blessed Soul Matter",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:64",
+  "en": "Perfect Primordium",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:65",
+  "en": "Holy Word",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:66",
+  "en": "Unknowable",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:67",
+  "en": "Unknowable",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:68",
+  "en": "Unknowable",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:69",
+  "en": "Unknowable",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:70",
+  "en": "Unknowable",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:71",
+  "en": "Unknowable",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:72",
+  "en": "Voice of Elnoa",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:73",
+  "en": "Ba-boom!",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:74",
+  "en": "Stables, eh?",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:75",
+  "en": "Toiler",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:76",
+  "en": "Miser",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:77",
+  "en": "Only Got Health",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:78",
+  "en": "Hall Big Sis",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:79",
+  "en": "Bottomless",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:80",
+  "en": "Gardener",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:81",
+  "en": "Crusty Tech",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:82",
+  "en": "Sword Ace",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:83",
+  "en": "End",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:84",
+  "en": "Start",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:85",
+  "en": "Machine Empress",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:86",
+  "en": "Luvs Decoykins",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:87",
+  "en": "Milonya is gross",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:88",
+  "en": "Wise Old Teacher",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:89",
+  "en": "Dreams of Riches",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:90",
+  "en": "Central Cncl Chair",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:91",
+  "en": "Prim Lady",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:92",
+  "en": "Prima Donna",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:93",
+  "en": "Dine & Dash Pro",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:94",
+  "en": "Town Peacekeeper",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:95",
+  "en": "Love Envoy",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:96",
+  "en": "Easy, debuu!",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:97",
+  "en": "Scrub Your Back?",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:98",
+  "en": "Aloof Deputy Lib",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:99",
+  "en": "Soul Therapist",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:100",
+  "en": "Precocious",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:101",
+  "en": "Thief King",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:102",
+  "en": "Our Chief!",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:103",
+  "en": "Taboo Mage",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:104",
+  "en": "Radiance",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:105",
+  "en": "Successor",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:106",
+  "en": "The Noble One",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:107",
+  "en": "Wind Cstl. Ruler",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:108",
+  "en": "Wily Peddler",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:109",
+  "en": "Work's a Drag",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:110",
+  "en": "All for Hilde",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:111",
+  "en": "So Cruel, Sis!",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:112",
+  "en": "Sooo Hopeless~",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:113",
+  "en": "Perpeco Alc.Lass",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:114",
+  "en": "Pure Steed",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:115",
+  "en": "Thief-to-Be",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:116",
+  "en": "Behead Ya!",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:117",
+  "en": "Always Cold",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:118",
+  "en": "Only Got Brawn",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:119",
+  "en": "Epithet 1",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:120",
+  "en": "Epithet 2",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:121",
+  "en": "Epithet 3",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:122",
+  "en": "Epithet 4",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:123",
+  "en": "Epithet 5",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:124",
+  "en": "Epithet 6",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:125",
+  "en": "Beginning of the End",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:126",
+  "en": "Evil Fog Kid",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:127",
+  "en": "Seafood Fiend",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:128",
+  "en": "Gonna Peep-Peep!",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER3.CSV:8:129",
+  "en": "Gonna Wave-Wave!",
+  "max": 16,
+  "used": true
+ }
+]

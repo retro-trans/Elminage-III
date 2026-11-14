@@ -1,0 +1,364 @@
+[
+ {
+  "en": "The Proof of Training lies here.{w}",
+  "kind": "msg",
+  "note": "tanren no akashi -> 'Proof of Training' (new item name; pairs with 'Proof of Endurance' for nintai no akashi in slice_016 rows 1339/1342 and chap slice_014 rows 1113-1116, not yet translated -- keep both names in step). State after the player has swapped it in (row 1341)."
+ },
+ {
+  "en": "Ore lies scattered about.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Rocks lie strewn all over the place.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Take some?",
+  "kind": "data",
+  "note": "Yes/no prompt after rows 1344/1345; follows the corpus pattern 'Take it?' but plural to suit ore/rocks."
+ },
+ {
+  "en": "[Key Item]\nObtained Medium Whetstone.{w}",
+  "kind": "msg",
+  "note": "Item name from wmap slice_11 (blacksmith quest: Medium Whetstone / Finishing Whetstone)."
+ },
+ {
+  "en": "[Key Item]\nObtained Fine Whetstone.{w}",
+  "kind": "msg",
+  "note": "See row 1347."
+ },
+ {
+  "en": "There's a hole here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You stopped in your tracks.{w}No -- you could not go one step further.{w}{p}The monster that had been about to cross your path\nnoticed its prey and clattered its jawbone.{w}It was a symbol of death, notorious even among adventurers.{w}{p}Why had it appeared here?{w}Why, gripped by such terror, could you not move?{w}Why did it have to be you who ran into it?{w}{p}All manner of thoughts must have flashed through your minds.{w}But there is no need to worry.{w}{p}However much you rage at the injustice of it,{w}however much you tremble in fear,{w}it will all be over in a matter of moments.{w}{p}Had it been waiting for you to steel yourselves?{w}Bones rattling in the silence, the dreadful monster\nslowly raised its scythe...{w}",
+  "kind": "msg",
+  "note": "Floor Master scene, Rinos Undersea Volcano centre (a reaper-type monster; the script never names it). Narrator's ironic present tense in pages 4-5 ('there is no need to worry... it will all be over') kept as present, the rest past. 'ato suukoku inai' (within a few koku) rendered 'in a matter of moments' for the dramatic sense."
+ },
+ {
+  "en": "The temperature around you rose sharply.{w}Everything seethed, and it felt as if your bodies might come apart.{w}{p}A face slowly loomed into view, a tongue flickering in and out.{w}A Salamander, a dragon of blazing flame, had appeared.{w}",
+  "kind": "msg",
+  "note": "Floor Master scene, Rinos Undersea Volcano (Volk). 'Salamander' is the standard katakana reading."
+ },
+ {
+  "en": "You stepped into a certain room in the Palace of the Sun.{w}Necrophilis was there, looking rather disgruntled.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why do I, of all people, have to play guard dog!?{w}That braid-head really pisses me off!\"{w}",
+  "kind": "msg",
+  "note": "'ano mitsuami' = 'that braid' -- someone with braided hair who gave Necrophilis this order; the referent is not named in this scene (possibly Dark Mayer). Kept as a nickname insult."
+ },
+ {
+  "en": "\"Still, this Palace of the Sun...{w}there's some seriously nasty energy\npouring in here, more and more of it.\"{w}{p}\"...Hey, Narv!!\"{w}",
+  "kind": "msg",
+  "note": "New name: Narv (naruvu)."
+ },
+ {
+  "en": "Narv",
+  "kind": "name",
+  "note": "New name (romanized naruvu); gender unknown, no pronouns used."
+ },
+ {
+  "en": "\"Just what are you trying to make me do!?{w}It's about time you told me what Mayer's up to!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Keep this up and I'll turn you into a corpse too, got it!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Try it, if you are able.\"{w}",
+  "kind": "msg",
+  "note": "Narv speaks in spaced katakana throughout (an inhuman, stilted voice). Rendered as stiff, contraction-free English; no special casing."
+ },
+ {
+  "en": "\"Huh...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"......I bear the form of Narv, yet I am not\nthe Narv of the Real Axis.{w}We are the Spirit of the Dark Realm: Numbra Narv.\"{w}",
+  "kind": "msg",
+  "note": "New terms: jitsusuuki -> 'Real Axis' (its counterpart kyosuuki, slice_018 rows 1445/1457, would be 'Void Axis'); Numbra Narv (nunbura naruvu; cf. Numbra Malem in slice_018). ankiki = 'Dark Realm' as in wmap slice_20. 'Ware wa... warera koso' -- I/We shift kept."
+ },
+ {
+  "en": "\"What are you... talking about...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The enemy is here, Necrophilis. Intercept them.{w}Do not let them near the Zenith Arc.\"{w}{p}\"Should you fail,{w}it is you who will become the corpse.\"{w}",
+  "kind": "msg",
+  "note": "kantenchou aaku = circumzenithal arc (the real optical phenomenon); capitalised as a place/object name. 'kisama no hou ga shitai ni narou' answers Necrophilis's threat in row 1357."
+ },
+ {
+  "en": "\"Ngh...!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Every damn one of you, treating me like a joke!!\"{w}",
+  "kind": "msg",
+  "note": "Necrophilis drops into rough masculine speech from here (-yagatte, nee, temee); English roughened to match."
+ },
+ {
+  "en": "\"Screw that!{w}Like I'd take orders from you bastards...{w}Take orders... from... dammit...!\"{w}{p}\"I just have to kill them, right?{w}Kill these guys and you'll be satisfied, right...{w}",
+  "kind": "msg",
+  "note": "Page 2 opens a quote that the source does not close here; it continues in row 1366 (no closing quote added)."
+ },
+ {
+  "en": "{0E}\"I just have to kill them, right?\nKill these guys and you'll be satisfied, right...{0F}\nNumbra Narv!!\"{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} re-shows row 1365 page 2 word for word."
+ },
+ {
+  "en": "{0E}\"--------!!\"{0F}",
+  "kind": "msg",
+  "note": "Wordless scream; long dash rendered as '--------'. No {w} in source."
+ },
+ {
+  "en": "Face twisted with rage and sorrow,\nNecrophilis came at you!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Gaaah!{w}...I never thought you'd gotten this strong...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Propping up a body covered in wounds,\nNecrophilis staggered, trying to stand.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Enough.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Narv...{w}You idiot... Coming to back me up now?\nYou're way too damn late...\"{w}",
+  "kind": "msg",
+  "note": "Necrophilis misreads Narv's 'Enough' (row 1371) as Narv stepping in to help; row 1373 corrects her."
+ },
+ {
+  "en": "\"What are you mistaking this for?\"{w}",
+  "kind": "msg",
+  "note": "'Nani o kanchigai shite iru?' -- Narv is not here to help; followed by the lightning strike."
+ },
+ {
+  "en": "\"GYAAAAAAAAH!!{w}Hh... ha... aagh...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Necrophilis was struck by a fierce bolt of lightning.{w}{p}Once-white skin was charred black, clothes and all,\nand dark smoke rose from Necrophilis's throat.{w}Then, slowly, Necrophilis crumpled to the ground.{w}",
+  "kind": "msg",
+  "note": "Pronouns avoided by repeating the name (glossary gender unknown), though row 1378 calls Necrophilis 'the demon girl' (akuma no shoujo)."
+ },
+ {
+  "en": "\"Discard it? Though time is short...\"{w}",
+  "kind": "msg",
+  "note": "Narv weighing whether to throw away Necrophilis's body. 'it' reflects Narv treating Necrophilis as a tool (no pronoun in source)."
+ },
+ {
+  "en": "\"It still breathes, barely.{w}It failed this time, but we shall have it\ndo one more job elsewhere.\"{w}",
+  "kind": "msg",
+  "note": "See row 1376. 'saseru to shiyou' -- Narv's collective 'we' supplied (Narv refers to itself as warera/wareware)."
+ },
+ {
+  "en": "A dark abyss welled up around Narv and the others.{w}Without so much as a twitch, the demon girl\nwas swallowed into the bottomless abyss...{w}",
+  "kind": "msg",
+  "note": "'Naruvu-tachi' -> 'Narv and the others' (corpus pattern for X-tachi). Who the others are is unclear: Narv speaks as 'we', so this may be Narv's own multiple bodies plus Necrophilis. 'akuma no shoujo' = 'the demon girl' (source wording; first explicit gender cue for Necrophilis)."
+ },
+ {
+  "en": "\"We, too, are short on time.{w}If you mean to stand in our way, come prepared\nto meet the same fate.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Leaving those ominous words behind,\nNarv and the others departed.{w}",
+  "kind": "msg",
+  "note": "Dupes 2. 'Naruvu-tachi' as in row 1378."
+ },
+ {
+  "en": "\"You too shall join the ranks of the dead.\"{w}",
+  "kind": "msg",
+  "note": "Alternative branch (rows 1381-1393), apparently after Emera's Soul Therapy: the corpses shield Necrophilis instead."
+ },
+ {
+  "en": "\"Me... a corpse?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Maybe that wouldn't be so bad.\nIn the end, I could never belong to this world anyway...\"{w}",
+  "kind": "msg",
+  "note": "'kono sekai to wa majiwarenai' -- echoes 'I could never fit into this world' (chap slice_008 row 604)."
+ },
+ {
+  "en": "As if to shield Necrophilis's wounded body from view,\nthe corpses rose up as one horde.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Huh?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Dead things... What do you think you are doing,\nyou will-less husks?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Emera, maybe that hocus-pocus of yours\nworked after all.\"{w}{p}\"...If you guys are going to protect me...\"{w}",
+  "kind": "msg",
+  "note": "'majinai' -> 'hocus-pocus', Necrophilis's own word for Soul Therapy in chap slice_008 row 599. Page 2 'antatachi' = the corpses; the sentence finishes in row 1388."
+ },
+ {
+  "en": "\"...then I want to live.\"{w}",
+  "kind": "msg",
+  "note": "Completes row 1387 page 2 ('...if you'll protect me' / '...I want to live'); cut kept at the row boundary. Reverses 'I don't want to live' (slice_008 row 606)."
+ },
+ {
+  "en": "\"Corpses will not serve even as a shield.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The writhing horde of the dead was swept away by a fierce bolt of lightning.{w}But where the dead had stood as a wall,\nNecrophilis was nowhere to be seen.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Do not think you can escape...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A dark abyss welled up around Narv and the others.{w}The silenced corpses, now one black mass,\nwere swallowed into the bottomless abyss...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We, too, are short on time.{w}If you mean to stand in our way, come prepared:\nwe will show no mercy.\"{w}",
+  "kind": "msg",
+  "note": "Branch variant of row 1379 (yousha wa shinai instead of onaji me ni au)."
+ },
+ {
+  "en": "The wounded Sun God appeared before you.{w}",
+  "kind": "msg",
+  "note": "taiyoushin = 'Sun God' (the people's name for Rafa, see row 1395); distinct from taiyousei 'Sun Spirit'."
+ },
+ {
+  "en": "\"It's nice to meet you, everyone...{w}I'm sorry... to appear like this.{w}I am... the Sun Spirit... Rafa.\"{w}{p}\"The people of the land...{w}call me the Sun God, but...\"{w}{p}\"I'm nothing... so grand... as a god...{w}Just a spirit... who happened to be suited for it.\"{w}{p}\"Thank you...{w}for taking back the Palace of the Sun.\"{w}{p}\"Now, once again...\nI can give everyone... light...{w}Ngh... uugh...\"{w}",
+  "kind": "msg",
+  "note": "Pages 4-5 must stay identical to row 1397. 'tekisei ga atta dake' = merely had the aptitude (to become the Sun Spirit; cf. slice_019 row 1577, where Zaalhaut made Rafa the Sun Spirit)."
+ },
+ {
+  "en": "With that, the Sun Spirit Rafa lost consciousness.{w}{p}There was still something left for you to do.{w}{p}Was there no way to save the wounded\nSun Spirit Rafa...?{w}",
+  "kind": "msg",
+  "note": "Dupes 2."
+ },
+ {
+  "en": "\"Thank you...{w}for taking back the Palace of the Sun.\"{w}{p}\"Now, once again...\nI can give everyone... light...{w}Ngh... uugh...\"{w}",
+  "kind": "msg",
+  "note": "Identical to row 1395 pages 4-5 (repeat-visit version)."
+ },
+ {
+  "en": "You held up the Light Rank you had obtained\nin the Sanctum of Genesis.{w}",
+  "kind": "msg",
+  "note": "New terms: seisouken -> 'Holy Creation Sphere' (the place where Zaalhaut made Rafa the Sun Spirit, slice_019 rows 1574-1585); kouI -> 'Light Rank' (later 'taiyou no kouI', slice_021 row 1720, would be 'Sun's Light Rank'; the I/'rank' is gathered from the Qualia and taken to a coronation chamber, slice_020 row 1643). Both are tentative."
+ },
+ {
+  "en": "{0E}You held up the Light Rank you had obtained\nin the Sanctum of Genesis.{0F}\nRafa's body was enveloped in a warm light.{w}{p}The Sun Spirit who guards the True Crystal\nbegan to shine brighter than ever before.{w}",
+  "kind": "msg",
+  "note": "{0E}..{0F} re-shows row 1398 word for word. 'True Crystal' from wmap slice_02."
+ },
+ {
+  "en": "\"Ah, what wonderful power...{w}Now I won't have to burn up my own life...{w}I can keep on shining forever...!\"{w}{p}\"It wasn't the suffering itself I hated.\"{w}{p}\"What hurt was not being able to keep shining\non all the people of this land I love so dearly.\"{w}{p}\"...But thanks to all of you,\nit looks like I can shine on them forever now.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Rafa!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yorfa!\"{w}{p}\"Yorfa...{w}I made you worry so much too, didn't I?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank goodness...{w}Rafa... I'm so, so glad...\"{w}{p}\"I was so worried about you, Rafa,\nI wanted to save you, and that's why I...\"{w}",
+  "kind": "msg",
+  "note": "Yorfa addresses Rafa in the third person ('Raafa no koto'); rendered 'you, Rafa' as in wmap slice_02."
+ },
+ {
+  "en": "\"It's all right now, Yorfa.{w}Everything has been resolved.{w}All thanks to these adventurers.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mm... Thank you, adventurers.{w}Thank you for saving Rafa...\"{w}{p}\"I...\"{w}",
+  "kind": "msg",
+  "note": "Trailing 'I...' kept unfinished."
+ },
+ {
+  "en": "Hand in hand, Rafa and Yorfa would surely\ngo on protecting this land.{w}{p}Along with the warm light, a deep, gentle sense\nof fulfillment wrapped around you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Zaalhaut",
+  "kind": "name"
+ },
+ {
+  "en": "\"A storybook happy ending if ever I saw one.{w}Well, it's all thanks to me, naturally.{w}You'd better be grateful, you lot.\"{w}",
+  "kind": "msg",
+  "note": "Zaalhaut (washi, omaera): gruff, self-important sage."
+ },
+ {
+  "en": "Before you knew it, a battered, ragged Zaalhaut\nwas standing behind you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hm? What's with that baffled look?{w}As if I'd kick the bucket over a little thing like that.\"{w}",
+  "kind": "msg",
+  "note": "Leading full-width '?' rendered 'Hm?'."
+ },
+ {
+  "en": "\"Not me, the great sage Zaalhaut!\"{w}",
+  "kind": "msg",
+  "note": "Completes row 1410 ('washi ga... kutabaru wake ga nakarou' / 'kono kenja Zaaruhauto ga na!'). 'great' added for the emphatic kono."
+ },
+ {
+  "en": "The light of the Palace of the Sun was more beautiful than ever.{w}It seemed to foretell the future of this land,\nand of all the people who live upon it.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Everyone, thank you so very much.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You stepped into a certain room in the Palace of the Sun.{w}{p}Shaharon was there, wearing a cruel smile.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The Palace of the Sun draws ever closer\nto our world, the Dark Realm.\nAll according to Master Mayer's will...\"{w}",
+  "kind": "msg",
+  "note": "'Meiyaa-sama' -> 'Master Mayer' (honorific; gender-neutral choice). Row 1415 is not in this slice (already translated elsewhere)."
+ },
+ {
+  "en": "\"......Shaharon. You too were once a spirit,\nthe same as Yorfa and that lot.\"{w}",
+  "kind": "msg",
+  "note": "'Yoruha-domo' (contemptuous plural) -> 'Yorfa and that lot'; Shaharon was originally a spirit like Yorfa (Moonlight Spirit) and Rafa."
+ },
+ {
+  "en": "\"Such things are of no consequence.\"{w}{p}\"Serving not a god but Master Mayer,\nand touching the deaths of mortals...\nthat, for me, is the greatest of joys...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Then fulfill your duty\nas a trusted right hand.\"{w}{p}\"Shaharon, do not let them near\nthe Zenith Arc.\"{w}{p}\"Should you fail,\nit is your own death\nyou will be touching.\"{w}",
+  "kind": "msg",
+  "note": "Last page turns Shaharon's 'touching death' (row 1418) back on Shaharon."
+ },
+ {
+  "en": "\"Very well.\"{w}{p}\"Now, adventurers.\nLet me hear you lament your ruin.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "With a heartless laugh,\nShaharon came at you!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ngh!\n...To think you would drive me this far...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Letting out a dreadful groan,\nShaharon staggered toward you.{w}",
+  "kind": "msg"
+ }
+]

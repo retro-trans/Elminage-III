@@ -1,0 +1,1982 @@
+[
+ {
+  "id": "MONSTER2.CSV:6:4",
+  "en": "Tamagon",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:5",
+  "en": "Rhamphorhynchus",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:6",
+  "en": "Both Heads",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:7",
+  "en": "Red Dragon",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:8",
+  "en": "Ice Dragon",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:9",
+  "en": "Hydra",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:10",
+  "en": "Grannada",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:11",
+  "en": "Scaly Halo",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:12",
+  "en": "Rootless Tail",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:13",
+  "en": "Amphisbaena",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:14",
+  "en": "Salamander",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:15",
+  "en": "Elemental Wieg",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:16",
+  "en": "Emerald Dragon",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:17",
+  "en": "Dras Gloria",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:18",
+  "en": "Fighter",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:19",
+  "en": "Ronin",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:20",
+  "en": "Santorea 1st-Yr Martial",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:21",
+  "en": "Santorea 1st-Yr Martial",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:22",
+  "en": "Farmer",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:23",
+  "en": "Santorea 2nd-Yr Martial",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:24",
+  "en": "Santorea 2nd-Yr Martial",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:25",
+  "en": "Barbarian",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:26",
+  "en": "Gladiator",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:27",
+  "en": "Fandebu",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:28",
+  "en": "Santorea 3rd-Yr Martial",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:29",
+  "en": "Santorea 3rd-Yr Martial",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:30",
+  "en": "Major Daimyo",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:31",
+  "en": "Dark Lord",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:32",
+  "en": "Maharaja Knight",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:33",
+  "en": "Lady Smash",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:34",
+  "en": "Hatamoto",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:35",
+  "en": "Imperial Sword",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:36",
+  "en": "Kurushu Knight",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:37",
+  "en": "Dragon Lord",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:38",
+  "en": "Mifune",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:39",
+  "en": "Mage",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:40",
+  "en": "Alchemist",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:41",
+  "en": "Santorea 1st-Yr Magic",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:42",
+  "en": "Santorea 1st-Yr Magic",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:43",
+  "en": "Witch",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:44",
+  "en": "Bard",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:45",
+  "en": "Santorea 2nd-Yr Magic",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:46",
+  "en": "Santorea 2nd-Yr Magic",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:47",
+  "en": "High Sorceress",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:48",
+  "en": "High Alchemy",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:49",
+  "en": "Snail Lich",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:50",
+  "en": "Picnicker",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:51",
+  "en": "Santorea 3rd-Yr Magic",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:52",
+  "en": "Santorea 3rd-Yr Magic",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:53",
+  "en": "Master Mage",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:54",
+  "en": "Master Alchemist",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:55",
+  "en": "Chanter Reed",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:56",
+  "en": "Joker",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:57",
+  "en": "Ashteria",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:58",
+  "en": "Priest",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:59",
+  "en": "Lesser Maid",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:60",
+  "en": "Bishop",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:61",
+  "en": "Bikuni",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:62",
+  "en": "Priestess",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:63",
+  "en": "Greater Maid",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:64",
+  "en": "High Bishop",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:65",
+  "en": "Ironist",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:66",
+  "en": "Missionary",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:67",
+  "en": "Unholy Chapel",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:68",
+  "en": "Kannagi",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:69",
+  "en": "Master Priest",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:70",
+  "en": "Arch Maid",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:71",
+  "en": "Master Bishop",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:72",
+  "en": "Linesman",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:73",
+  "en": "Master Valkyrie",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:74",
+  "en": "Soul Slave",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:75",
+  "en": "Thief",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:76",
+  "en": "Ranger",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:77",
+  "en": "Genin",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:78",
+  "en": "Forest Guard",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:79",
+  "en": "Phantom",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:80",
+  "en": "Oiran",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:81",
+  "en": "Arob",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:82",
+  "en": "Shooting Moon",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:83",
+  "en": "Beauty",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:84",
+  "en": "Kagerou",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:85",
+  "en": "Arc Launcher",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:86",
+  "en": "Summer",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:87",
+  "en": "Goblin",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:88",
+  "en": "Kobold",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:89",
+  "en": "Orc",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:90",
+  "en": "Skunk Girl",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:91",
+  "en": "Ogre",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:92",
+  "en": "Lizardman",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:93",
+  "en": "Centauress",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:94",
+  "en": "Kobold Sarge",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:95",
+  "en": "Orc General",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:96",
+  "en": "Lizardkhamun",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:97",
+  "en": "Mermaid",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:98",
+  "en": "Ogre Knight",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:99",
+  "en": "Redcap",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:100",
+  "en": "Tiger Lady",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:101",
+  "en": "Goblin Magician",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:102",
+  "en": "Mermaid Queen",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:103",
+  "en": "Raver Lord",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:104",
+  "en": "Troll",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:105",
+  "en": "Minotaur",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:106",
+  "en": "Fire Giant",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:107",
+  "en": "Cyclops",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:108",
+  "en": "Frost Giant",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:109",
+  "en": "Cacus",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:110",
+  "en": "Sedna",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:111",
+  "en": "Poison Giant",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:112",
+  "en": "Cosplay Priest",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:6:113",
+  "en": "Tumasio",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:4",
+  "en": "Tamagon",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:5",
+  "en": "Rhamphorhynchus",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:6",
+  "en": "Both Heads",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:7",
+  "en": "Red Dragon",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:8",
+  "en": "Ice Dragon",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:9",
+  "en": "Hydra",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:10",
+  "en": "Grannada",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:11",
+  "en": "Scaly Halo",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:12",
+  "en": "Rootless Tail",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:13",
+  "en": "Amphisbaena",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:14",
+  "en": "Salamander",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:15",
+  "en": "Elemental Wieg",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:16",
+  "en": "Emerald Dragon",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:17",
+  "en": "Dras Gloria",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:18",
+  "en": "Fighter",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:19",
+  "en": "Ronin",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:20",
+  "en": "Santorea 1st-Year",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:21",
+  "en": "Santorea 1st-Year",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:22",
+  "en": "Farmer",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:23",
+  "en": "Santorea 2nd-Year",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:24",
+  "en": "Santorea 2nd-Year",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:25",
+  "en": "Barbarian",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:26",
+  "en": "Gladiator",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:27",
+  "en": "Fandebu",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:28",
+  "en": "Santorea 3rd-Year",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:29",
+  "en": "Santorea 3rd-Year",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:30",
+  "en": "Major Daimyo",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:31",
+  "en": "Dark Lord",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:32",
+  "en": "Maharaja Knight",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:33",
+  "en": "Lady Smash",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:34",
+  "en": "Hatamoto",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:35",
+  "en": "Imperial Sword",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:36",
+  "en": "Kurushu Knight",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:37",
+  "en": "Dragon Lord",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:38",
+  "en": "Mifune",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:39",
+  "en": "Mage",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:40",
+  "en": "Alchemist",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:41",
+  "en": "Santorea 1st-Year",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:42",
+  "en": "Santorea 1st-Year",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:43",
+  "en": "Witch",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:44",
+  "en": "Bard",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:45",
+  "en": "Santorea 2nd-Year",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:46",
+  "en": "Santorea 2nd-Year",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:47",
+  "en": "High Sorceress",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:48",
+  "en": "High Alchemy",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:49",
+  "en": "Snail Lich",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:50",
+  "en": "Picnicker",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:51",
+  "en": "Santorea 3rd-Year",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:52",
+  "en": "Santorea 3rd-Year",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:53",
+  "en": "Master Mage",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:54",
+  "en": "Master Alchemist",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:55",
+  "en": "Chanter Reed",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:56",
+  "en": "Joker",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:57",
+  "en": "Ashteria",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:58",
+  "en": "Priest",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:59",
+  "en": "Lesser Maid",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:60",
+  "en": "Bishop",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:61",
+  "en": "Bikuni",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:62",
+  "en": "Priestess",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:63",
+  "en": "Greater Maid",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:64",
+  "en": "High Bishop",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:65",
+  "en": "Ironist",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:66",
+  "en": "Missionary",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:67",
+  "en": "Unholy Chapel",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:68",
+  "en": "Kannagi",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:69",
+  "en": "Master Priest",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:70",
+  "en": "Arch Maid",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:71",
+  "en": "Master Bishop",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:72",
+  "en": "Linesman",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:73",
+  "en": "Master Valkyrie",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:74",
+  "en": "Soul Slave",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:75",
+  "en": "Thief",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:76",
+  "en": "Ranger",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:77",
+  "en": "Genin",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:78",
+  "en": "Forest Guard",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:79",
+  "en": "Phantom",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:80",
+  "en": "Oiran",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:81",
+  "en": "Arob",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:82",
+  "en": "Shooting Moon",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:83",
+  "en": "Beauty",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:84",
+  "en": "Kagerou",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:85",
+  "en": "Arc Launcher",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:86",
+  "en": "Summer",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:87",
+  "en": "Goblin",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:88",
+  "en": "Kobold",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:89",
+  "en": "Orc",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:90",
+  "en": "Skunk Girl",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:91",
+  "en": "Ogre",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:92",
+  "en": "Lizardman",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:93",
+  "en": "Centauress",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:94",
+  "en": "Kobold Sarge",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:95",
+  "en": "Orc General",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:96",
+  "en": "Lizardkhamun",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:97",
+  "en": "Mermaid",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:98",
+  "en": "Ogre Knight",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:99",
+  "en": "Redcap",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:100",
+  "en": "Tiger Lady",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:101",
+  "en": "Goblin Magician",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:102",
+  "en": "Mermaid Queen",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:103",
+  "en": "Raver Lord",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:104",
+  "en": "Troll",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:105",
+  "en": "Minotaur",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:106",
+  "en": "Fire Giant",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:107",
+  "en": "Cyclops",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:108",
+  "en": "Frost Giant",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:109",
+  "en": "Cacus",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:110",
+  "en": "Sedna",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:111",
+  "en": "Poison Giant",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:112",
+  "en": "Cosplay Priest",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:7:113",
+  "en": "Tumasio",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:4",
+  "en": "Newly Hatched",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:5",
+  "en": "Sharp Pterosaur",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:6",
+  "en": "2-Head Snake",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:7",
+  "en": "Scorching",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:8",
+  "en": "Freezing",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:9",
+  "en": "Dread Serpent",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:10",
+  "en": "Lookback Drake",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:11",
+  "en": "Seven-Hued Dragon",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:12",
+  "en": "Earthswim Dragon",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:13",
+  "en": "2-Head Fell Wyrm",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:14",
+  "en": "Pink Monster",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:15",
+  "en": "Radiant Spirit Wing",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:16",
+  "en": "Green Flash Dragon",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:17",
+  "en": "Dragon Queen",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:18",
+  "en": "Adventurer",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:19",
+  "en": "Wanderer",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:20",
+  "en": "I Will Master the Sword",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:21",
+  "en": "Battle for Fried Bread",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:22",
+  "en": "Till Life!",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:23",
+  "en": "What Is the Sword's Way?",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:24",
+  "en": "Battle for Seconds",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:25",
+  "en": "Ah-ee-ah-aaah!",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:26",
+  "en": "Muscles of Steel",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:27",
+  "en": "Onward, Attacke!",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:28",
+  "en": "Sword's Way, Heart's Way",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:29",
+  "en": "Go for the Whole Pot!",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:30",
+  "en": "Ho! Wait a Moment!",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:31",
+  "en": "Fallen Lord",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:32",
+  "en": "Raja Raja",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:33",
+  "en": "Fist for a Lover",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:34",
+  "en": "Banners High",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:35",
+  "en": "Empress's Sword",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:36",
+  "en": "Come Hither",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:37",
+  "en": "Dragonewt Lord",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:38",
+  "en": "Guard",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:39",
+  "en": "Spellcaster",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:40",
+  "en": "Apprentice",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:41",
+  "en": "Let the Studies Begin!",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:42",
+  "en": "A Season When All Shines",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:43",
+  "en": "Fey Witch",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:44",
+  "en": "Tarot of Fate",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:45",
+  "en": "It's Puberty Time!",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:46",
+  "en": "Chicks Waiting to Fledge",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:47",
+  "en": "Advanced Mage",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:48",
+  "en": "Seeker of Life",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:49",
+  "en": "Horn, Spear, Hex",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:50",
+  "en": "Lovely day, eh?",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:51",
+  "en": "Drowning in Remedials!",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:52",
+  "en": "Soaring Into the Future",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:53",
+  "en": "Grand Mage",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:54",
+  "en": "Peerless Knowledge",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:55",
+  "en": "Sorcery Band",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:56",
+  "en": "Doom Clown",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:57",
+  "en": "Secret Rite",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:58",
+  "en": "Fledgling Priest",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:59",
+  "en": "I'm sorry...",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:60",
+  "en": "Now Appraising",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:61",
+  "en": "Eerie Nun",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:62",
+  "en": "Pagan Priest",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:63",
+  "en": "Ready to order?",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:64",
+  "en": "No more touching",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:65",
+  "en": "Extreme Will",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:66",
+  "en": "Dread Faith",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:67",
+  "en": "Forbidden Wedding",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:68",
+  "en": "Shinto",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:69",
+  "en": "Supreme Cleric",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:70",
+  "en": "Maze Head Maid",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:71",
+  "en": "One Who Guides",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:72",
+  "en": "Here's the line!",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:73",
+  "en": "Blessed War Maiden",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:74",
+  "en": "Evil Arch-Pope",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:75",
+  "en": "Sneak",
+  "max": 6,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:76",
+  "en": "None Escape Me",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:77",
+  "en": "Ninja Peon",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:78",
+  "en": "Forest Warden",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:79",
+  "en": "Gent Thief",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:80",
+  "en": "In Bloom",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:81",
+  "en": "That's unfair!",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:82",
+  "en": "Shoots Down the Moon",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:83",
+  "en": "Femme Fatale",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:84",
+  "en": "Fair Killer",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:85",
+  "en": "Born Ranger",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:86",
+  "en": "Dark Dweller",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:87",
+  "en": "Old Imp",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:88",
+  "en": "Dogfolk",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:89",
+  "en": "Junk Food Pro",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:90",
+  "en": "Itchy Bottom",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:91",
+  "en": "Wood Oni",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:92",
+  "en": "Chill-Scaled",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:93",
+  "en": "What a Savage!",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:94",
+  "en": "Ebon Beast Sgt",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:95",
+  "en": "Junk Food Shogun",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:96",
+  "en": "Lizard Avatar",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:97",
+  "en": "Love vs. Law",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:98",
+  "en": "Proud Blade",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:99",
+  "en": "To kill you with",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:100",
+  "en": "Bites, Yet Cute",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:101",
+  "en": "Ancient Wisdom",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:102",
+  "en": "Holy Sea Queen",
+  "max": 18,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:103",
+  "en": "Mad Monarch",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:104",
+  "en": "Woodsman",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:105",
+  "en": "Bull Warrior",
+  "max": 12,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:106",
+  "en": "Fiery Fighting Spirit",
+  "max": 22,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:107",
+  "en": "Smith for All",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:108",
+  "en": "A Cool Smirk",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:109",
+  "en": "Whoo-hah!",
+  "max": 10,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:110",
+  "en": "Bride Training!",
+  "max": 16,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:111",
+  "en": "Deadly Bad Breath",
+  "max": 20,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:112",
+  "en": "Hospitalized!",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "MONSTER2.CSV:8:113",
+  "en": "Sky Spirit",
+  "max": 12,
+  "used": true
+ }
+]

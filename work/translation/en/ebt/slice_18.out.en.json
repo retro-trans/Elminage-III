@@ -1,0 +1,314 @@
+[
+ {
+  "en": "?Gauntlets",
+  "kind": "ui",
+  "note": "Unidentified-item class name ('?' + category, as rows 1380-1415). kote = gauntlets/bracers."
+ },
+ {
+  "en": "?Boots",
+  "kind": "ui",
+  "note": "kutsu = shoes/footwear; 'Boots' is the usual RPG word and matches row 1420."
+ },
+ {
+  "en": "?Cloak",
+  "kind": "ui"
+ },
+ {
+  "en": "?Belt",
+  "kind": "ui"
+ },
+ {
+  "en": "?Amulet",
+  "kind": "ui",
+  "note": "mayoke = charm/talisman; Wizardry-style 'amulet' category (cf. Amulet of Life)."
+ },
+ {
+  "en": "?Ring",
+  "kind": "ui"
+ },
+ {
+  "en": "?Ankh",
+  "kind": "ui"
+ },
+ {
+  "en": "?Potion",
+  "kind": "ui",
+  "note": "kusuri = medicine/drug; 'Potion' as the item category."
+ },
+ {
+  "en": "?Scroll",
+  "kind": "ui"
+ },
+ {
+  "en": "?Instrument",
+  "kind": "ui",
+  "note": "gakki = musical instrument."
+ },
+ {
+  "en": "?Tarot Card",
+  "kind": "ui"
+ },
+ {
+  "en": "?Mystic Item",
+  "kind": "ui",
+  "note": "shinpi no shina = 'article of mystery'. NEW TERM."
+ },
+ {
+  "en": "?Material",
+  "kind": "ui",
+  "note": "sozai = crafting/alchemy material."
+ },
+ {
+  "en": "?Other",
+  "kind": "ui"
+ },
+ {
+  "en": "Shield",
+  "kind": "ui",
+  "note": "Equipment category/slot list 1416-1420 (no '?' prefix)."
+ },
+ {
+  "en": "Helm",
+  "kind": "ui"
+ },
+ {
+  "en": "Armor",
+  "kind": "ui",
+  "note": "Matches slice_10 row 810 'Armor'."
+ },
+ {
+  "en": "Gauntlets",
+  "kind": "ui"
+ },
+ {
+  "en": "Boots",
+  "kind": "ui"
+ },
+ {
+  "en": "Inukshuk",
+  "kind": "ui",
+  "note": "List 1421-1447 is probably the music/scene slot list (bosses, places, then weather) -- see report. NEW NAME: Inukshuk (Inuit stone landmark word; not in glossary or story corpus)."
+ },
+ {
+  "en": "Necrophilis",
+  "kind": "ui",
+  "note": "Glossary."
+ },
+ {
+  "en": "Shaharon",
+  "kind": "ui",
+  "note": "As in wmap story text."
+ },
+ {
+  "en": "Dark Mayer",
+  "kind": "ui",
+  "note": "As in wmap/chap story text."
+ },
+ {
+  "en": "Palace of the Sun Showdown",
+  "kind": "ui",
+  "note": "kessen = decisive battle. Glossary 'Palace of the Sun'."
+ },
+ {
+  "en": "Wicked Mage",
+  "kind": "ui",
+  "note": "As the name label in chap slice_019 row 1569."
+ },
+ {
+  "en": "Tiger Centaur III",
+  "kind": "ui",
+  "note": "As in chap slice_014 row 1124."
+ },
+ {
+  "en": "Yorfa",
+  "kind": "ui",
+  "note": "Glossary."
+ },
+ {
+  "en": "Fourth Generation",
+  "kind": "ui",
+  "note": "As in wmap slice_20 row 1526 (land beyond Hisbert's door)."
+ },
+ {
+  "en": "Red Qualia",
+  "kind": "ui",
+  "note": "Qualia as in chap slice_020/021."
+ },
+ {
+  "en": "Blue Qualia",
+  "kind": "ui"
+ },
+ {
+  "en": "Green Qualia",
+  "kind": "ui"
+ },
+ {
+  "en": "Yellow Qualia",
+  "kind": "ui"
+ },
+ {
+  "en": "Black Qualia",
+  "kind": "ui"
+ },
+ {
+  "en": "White Qualia",
+  "kind": "ui"
+ },
+ {
+  "en": "Executor of the Divine Realm",
+  "kind": "ui",
+  "note": "Spectoria's title, as in chap slice_021 row 1715."
+ },
+ {
+  "en": "Hevayur",
+  "kind": "ui",
+  "note": "As in wmap/chap story text."
+ },
+ {
+  "en": "Dark Generalissimo Welsconi",
+  "kind": "ui",
+  "note": "Welsconi as in chap slice_018. NEW TERM: ankoku soutou = 'Dark Generalissimo' (soutou = supreme leader/Fuhrer; ASCII-only rules out an umlaut)."
+ },
+ {
+  "en": "Lightstair Ruins",
+  "kind": "ui",
+  "note": "Key-item name in wmap slice_01 row 63 / slice_08. Note: wmap slice_09 uses 'Stairway Ruins of Light' -- corpus inconsistency."
+ },
+ {
+  "en": "Altar",
+  "kind": "ui"
+ },
+ {
+  "en": "Clear",
+  "kind": "ui",
+  "note": "Weather 1441-1444, same words as the story's weather list (wmap slice_17 rows 1294-1297 use Clear/Cloudy/Rainy/Stormy as adjectives); here nouns for a label list."
+ },
+ {
+  "en": "Cloudy",
+  "kind": "ui"
+ },
+ {
+  "en": "Rain",
+  "kind": "ui"
+ },
+ {
+  "en": "Storm",
+  "kind": "ui"
+ },
+ {
+  "en": "Fair Weather",
+  "kind": "ui",
+  "note": "Second weather set (seiten/donten/uten, no storm). Use unknown; rendered distinct from 1441-1443."
+ },
+ {
+  "en": "Overcast",
+  "kind": "ui"
+ },
+ {
+  "en": "Rainy Weather",
+  "kind": "ui"
+ },
+ {
+  "en": "*",
+  "kind": "ui",
+  "note": "Star mark, max_bytes 2 -> ASCII '*'. Only id eb@08974130 looks like a real string; the other 6 ids sit at odd addresses inside the UTF-8 fragments of rows 1460-1469 (false hits) and should NOT be patched."
+ },
+ {
+  "en": "About Hisbert",
+  "kind": "ui",
+  "note": "Topic menu for Hisbert (answers in wmap slice_20 rows 1521-1528). Source has a typo (no 'no' before tsuite)."
+ },
+ {
+  "en": "About the Gods",
+  "kind": "ui"
+ },
+ {
+  "en": "About the Kin of Darkness",
+  "kind": "ui",
+  "note": "yami no kenzoku = 'kin of darkness', as in wmap slice_20 row 1523."
+ },
+ {
+  "en": "About This Land",
+  "kind": "ui"
+ },
+ {
+  "en": "About the Gods' World",
+  "kind": "ui"
+ },
+ {
+  "en": "About the Inner Door",
+  "kind": "ui",
+  "note": "oku no tobira = the door at the back; Hisbert answers 'Beyond this door ... the Fourth Generation' (wmap row 1526)."
+ },
+ {
+  "en": "Humans and Elves",
+  "kind": "ui",
+  "note": "ningen ya erufu-tachi = 'humans, elves and the like'; no 'about' in source. Likely answered by wmap row 1527 ('Cute. Very cute indeed.')."
+ },
+ {
+  "en": "What Is Life?",
+  "kind": "ui",
+  "note": "inochi to wa = 'Life is...' / 'What is life?'. Likely answered by wmap row 1528 ('Who knows?')."
+ },
+ {
+  "en": "Invalid tpg=%d specified\n",
+  "kind": "ui",
+  "note": "Debug message (texture page)."
+ },
+ {
+  "en": "Problem with install data. Please reinstall.\nSwitching to loading from the UMD.",
+  "kind": "ui",
+  "note": "Trademark glyph after UMD (PSP font private-use char) dropped, as the Memory Stick TM glyph is dropped in earlier slices."
+ },
+ {
+  "en": "Can't load install data from the Memory Stick.\nSwitching to loading from the UMD.",
+  "kind": "ui",
+  "note": "Line 1 is exactly 46 chars. TM glyphs dropped."
+ },
+ {
+  "en": "Screenshot comment(1)\nScreenshot comment(2)",
+  "kind": "ui",
+  "note": "PSP screenshot metadata placeholder text; probably never shown in game."
+ },
+ {
+  "en": "Not enough free space. Saving requires at least %s more free space.",
+  "kind": "ui",
+  "note": "One line in source too (72 half-width columns), so this dialog wraps on its own; kept on one line."
+ },
+ {
+  "en": "The operation was interrupted.",
+  "kind": "ui"
+ },
+ {
+  "en": "Operation cancelled due to sleep mode.",
+  "kind": "ui",
+  "note": "Literal: the process was stopped because (the PSP) entered sleep mode."
+ },
+ {
+  "en": "No Memory Stick is inserted.",
+  "kind": "ui",
+  "note": "Matches slice_03/04 wording. TM glyph dropped."
+ },
+ {
+  "en": "The Memory Stick was removed.",
+  "kind": "ui"
+ },
+ {
+  "en": "The Memory Stick is write-protected.",
+  "kind": "ui"
+ },
+ {
+  "en": "Memory Stick access error",
+  "kind": "ui",
+  "note": "max_bytes 36; 25 used."
+ },
+ {
+  "en": "The data is corrupted.",
+  "kind": "ui"
+ },
+ {
+  "en": "Transparency: %s",
+  "kind": "ui",
+  "note": "nuki settei = colour-key (transparency) setting for imported images; options follow in slice_19 (1483 'key out blue', 1484 'leave as is')."
+ }
+]

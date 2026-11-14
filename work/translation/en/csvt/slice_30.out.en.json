@@ -1,0 +1,366 @@
+[
+ {
+  "en": "Proof of Kingship",
+  "kind": "name",
+  "note": "Monster skill (JOB_MONS_KING_of_KING): immune to instant death while HP >= half. Also JOB_LIST c4 copy."
+ },
+ {
+  "en": "Regeneration",
+  "kind": "name",
+  "note": "Monster skill (JOB_MONS_REVIVAL): chance to cure ailments that do not heal naturally. Also JOB_LIST c4 copy."
+ },
+ {
+  "en": "Can survive lethal damage, but only once.",
+  "kind": "desc"
+ },
+ {
+  "en": "Pull effects no longer work on the user.",
+  "kind": "desc",
+  "note": "[JP] = Pull (ebt: 'Withstood the pull')."
+ },
+ {
+  "en": "Stops barriers from activating. The chance rises when several members have it.",
+  "kind": "desc"
+ },
+ {
+  "en": "Strengthens elemental spells.",
+  "kind": "desc"
+ },
+ {
+  "en": "Ignores the target's spell resistance.",
+  "kind": "desc"
+ },
+ {
+  "en": "Using a Tent gives the same effect as staying at the inn.",
+  "kind": "desc"
+ },
+ {
+  "en": "Healing spells you cast always restore at least half of max HP.",
+  "kind": "desc",
+  "note": "Whose max HP is not stated (almost certainly the target's); left unstated."
+ },
+ {
+  "en": "Has a chance to inflict the status ailment \"Fear\" on an enemy.",
+  "kind": "desc",
+  "note": "[JP] = status ailment (HELP_TEXT precedent); [JP] = Fear (ebt)."
+ },
+ {
+  "en": "If the thief can't carry a stolen item, an ally carries it instead.",
+  "kind": "desc"
+ },
+ {
+  "en": "Treasure chests appear even after random encounters.",
+  "kind": "desc"
+ },
+ {
+  "en": "Has a chance to block an enemy's end-of-turn natural healing and the like.",
+  "kind": "desc"
+ },
+ {
+  "en": "When same-grade ores above a set grade explode in alchemy, something special happens.",
+  "kind": "desc",
+  "note": "Shared by [JP]/[JP]/[JP]. [JP] = grade (HELP_TEXT, wmap)."
+ },
+ {
+  "en": "Cooks a meal.",
+  "kind": "desc"
+ },
+ {
+  "en": "Can attack by throwing corpses.",
+  "kind": "desc"
+ },
+ {
+  "en": "When hit by a spell, has a chance to convert it into MP.",
+  "kind": "desc"
+ },
+ {
+  "en": "Adds curse info to item details. Ore grades can also be checked on the spot.",
+  "kind": "desc"
+ },
+ {
+  "en": "Sends items that can't be carried to the Alchemy Storage.",
+  "kind": "desc",
+  "note": "Alchemy Storage = glossary."
+ },
+ {
+  "en": "Mimics an enemy's action.",
+  "kind": "desc"
+ },
+ {
+  "en": "Raises allies' attack power, only for the turn it is used.",
+  "kind": "desc"
+ },
+ {
+  "en": "Deals non-elemental damage to one enemy.",
+  "kind": "desc"
+ },
+ {
+  "en": "Deals more damage while poisoned.",
+  "kind": "desc"
+ },
+ {
+  "en": "Has a chance to inflict Fear on all enemies.",
+  "kind": "desc"
+ },
+ {
+  "en": "Restores HP when walking during the day in clear weather.",
+  "kind": "desc"
+ },
+ {
+  "en": "At turn's end, sings to heal all allies. Lasts a while; stacking songs raises the power.",
+  "kind": "desc"
+ },
+ {
+  "en": "At turn's end, sings to damage enemies. Lasts a while; stacking songs raises the power.",
+  "kind": "desc",
+  "note": "[JP] number not specified; plural 'enemies' (likely all)."
+ },
+ {
+  "en": "Sings a song that reduces damage. Lasts a while; stacking songs raises the power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Sings a song that cures status ailments. Lasts a while; stacking songs raises the power.",
+  "kind": "desc"
+ },
+ {
+  "en": "A Fortune Slip changes the EXP and money gained after battle.",
+  "kind": "desc",
+  "note": "[JP] = Fortune Slip (slice_10)."
+ },
+ {
+  "en": "Forms a pact with a monster and invites it to the tavern.",
+  "kind": "desc"
+ },
+ {
+  "en": "Fuses contracted monsters and summons them. Allies can't act during the summon.",
+  "kind": "desc"
+ },
+ {
+  "en": "Lowers the target's level.",
+  "kind": "desc"
+ },
+ {
+  "en": "Turns the user to ash to fully heal all allies. Once per battle only.",
+  "kind": "desc"
+ },
+ {
+  "en": "Devotes every action to defense, nullifying enemy attacks.",
+  "kind": "desc"
+ },
+ {
+  "en": "If battle opens with an enemy ambush, allies deal more damage from the next turn on.",
+  "kind": "desc",
+  "note": "[JP] read as damage DEALT by allies (skill name [JP] = signal of counterattack)."
+ },
+ {
+  "en": "Deals more damage at night.",
+  "kind": "desc",
+  "note": "[JP] read as damage dealt (nocturnal attacker)."
+ },
+ {
+  "en": "Can attack without taking a Swallow Return counter.",
+  "kind": "desc",
+  "note": "UNCERTAIN: [JP] skill name (JOB_EX:57:2, slice_29) not yet fixed; 'Swallow Return' assumed. Align with slice_29 / [JP] = Swallow Slayer."
+ },
+ {
+  "en": "Summons a clone of the user into the summon slot.",
+  "kind": "desc",
+  "note": "[JP] = summon slot (wmap: summoned-monster slot)."
+ },
+ {
+  "en": "The fewer members in the party, the higher the defense.",
+  "kind": "desc"
+ },
+ {
+  "en": "The closer HP is to max, the higher the attack power.",
+  "kind": "desc"
+ },
+ {
+  "en": "The closer HP is to its minimum, the higher the attack power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Attack is always raised, but HP drops at turn end. Can't be a Maid Recover target.",
+  "kind": "desc",
+  "note": "Maid Recover = ebt/HELP_TEXT."
+ },
+ {
+  "en": "Breath attacks never lose power.",
+  "kind": "desc"
+ },
+ {
+  "en": "Healing spells can't be used in battle.",
+  "kind": "desc"
+ },
+ {
+  "en": "Damage dealt to adventurers is doubled.",
+  "kind": "desc"
+ },
+ {
+  "en": "Damage dealt to adventurers is tripled.",
+  "kind": "desc"
+ },
+ {
+  "en": "Damage dealt to adventurers is multiplied by 5.",
+  "kind": "desc"
+ },
+ {
+  "en": "Immune to instant death such as beheading while HP is at half or more.",
+  "kind": "desc",
+  "note": "[JP] = beheading (cf. Beheading Anklet)."
+ },
+ {
+  "en": "Has a chance to cure status ailments that don't heal naturally.",
+  "kind": "desc"
+ },
+ {
+  "en": "Kills a summoned monster in one blow.",
+  "kind": "desc"
+ },
+ {
+  "en": "Svt. Bag",
+  "kind": "label",
+  "note": "[JP] = Servant's Bag (HELP_TEXT), abbreviated to fit 8 bytes (JOB_LIST c3 camp list)."
+ },
+ {
+  "en": "Song of Battle",
+  "kind": "key?",
+  "note": "Unused song (no JOB_EX entry); follows Song of Healing/Ruin/Warding/Hope pattern."
+ },
+ {
+  "en": "Song of Smiles",
+  "kind": "key?",
+  "note": "Unused song (no JOB_EX entry); same pattern."
+ },
+ {
+  "en": "Sever Summon",
+  "kind": "key?",
+  "note": "[JP] is a misspelling of [JP] (= Sever Summon, ebt slice_15); same English."
+ },
+ {
+  "en": "Bloodwed",
+  "kind": "key?",
+  "note": "[JP] 'blood wedding'; 8-byte limit (camp list c3) forces a coined compound. Unused (used=false)."
+ },
+ {
+  "en": "Racial Skill",
+  "kind": "key?",
+  "note": "Group label in JOB_LIST c4 for Breath row; unused."
+ },
+ {
+  "en": "Ward of Creation",
+  "kind": "key?",
+  "note": "Legacy c4 name matching JOB_EX:66 [JP] (row offset +2); unused. Literal: protection of life-creation."
+ },
+ {
+  "en": "Excavation",
+  "kind": "key?",
+  "note": "JOB_LIST c4 (used) for JOB_EX:69 [JP]; standalone [JP]. Check against slice_29's name for [JP]."
+ },
+ {
+  "en": "Way of Meddling",
+  "kind": "key?",
+  "note": "Legacy c4 name matching JOB_EX:70 [JP]; unused."
+ },
+ {
+  "en": "Dark Realm Torrent",
+  "kind": "key?",
+  "note": "[JP] = Dark Realm (glossary). Legacy c4 name matching JOB_EX:110 [JP]; unused. Exactly 18 bytes."
+ },
+ {
+  "en": "Record 01",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 02",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 03",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 04",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 05",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 06",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 07",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 08",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 09",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 10",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 11",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 12",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 13",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 14",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 15",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 16",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 17",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 18",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ },
+ {
+  "en": "Record 19",
+  "kind": "label",
+  "note": "KIROKU c1 title 'No. NN record'; pattern 'Record NN'."
+ }
+]

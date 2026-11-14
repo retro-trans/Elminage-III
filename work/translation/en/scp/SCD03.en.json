@@ -1,0 +1,7502 @@
+[
+ {
+  "id": "08002.bin@231",
+  "en": "An unfamiliar plant is growing here.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "08002.bin@25e",
+  "en": "Unfamiliar fruit hangs from the unfamiliar plant.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "08002.bin@2a8",
+  "en": "Pick it?",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "08002.bin@2c8",
+  "en": "[Key Item]\nObtained Makana Essence.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "08002.bin@893",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "08002.bin@9a1",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "08002.bin@9e2",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "08002.bin@9e8",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "08002.bin@a28",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "08002.bin@a3a",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "08002.bin@a48",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08002.bin@a58",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "08002.bin@a66",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08002.bin@a76",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08002.bin@a86",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "08002.bin@a90",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08002.bin@aa0",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08002.bin@ab0",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "08002.bin@ac2",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08003.bin@cb4",
+  "en": "Goblin",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "08003.bin@cbf",
+  "en": "\"Who the hell are you!?{w}All the junk around here belongs to me, the great me!\"{w}{p}\"If you're so set on digging through my junk, hand over 1000 GP!!\"{w}",
+  "kind": "msg",
+  "len": 152
+ },
+ {
+  "id": "08003.bin@d6e",
+  "en": "Rummage through it?",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "08003.bin@daf",
+  "en": "Goblin",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "08003.bin@dba",
+  "en": "\"All right, go ahead and rummage!{w}Root around shamelessly till you're satisfied!!\"{w}",
+  "kind": "msg",
+  "len": 66
+ },
+ {
+  "id": "08003.bin@e19",
+  "en": "You picked up an item from the trash.{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "08003.bin@e42",
+  "en": "You couldn't pick up any of the trash.{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "08003.bin@e72",
+  "en": "Rummage some more?",
+  "kind": "data",
+  "len": 26
+ },
+ {
+  "id": "08003.bin@e97",
+  "en": "Goblin",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "08003.bin@ea2",
+  "en": "\"You ain't got enough money!\nWhat the hell are you thinkin', huh!?\"{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "08003.bin@ee6",
+  "en": "Goblin",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "08003.bin@ef1",
+  "en": "\"No money, no trash!{w}Get lost!\"{w}",
+  "kind": "msg",
+  "len": 52
+ },
+ {
+  "id": "08003.bin@f46",
+  "en": "Goblin",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "08003.bin@f51",
+  "en": "\"What, you can't carry any more!?{w}Dammit... Bleeaarrgh!\"{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "08003.bin@104b",
+  "en": "Obtained {12:0003:0018}.{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "08003.bin@107a",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "08003.bin@10cf",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "08003.bin@110f",
+  "en": "Who will pay?",
+  "kind": "op093",
+  "len": 20
+ },
+ {
+  "id": "08003.bin@1182",
+  "en": "Not enough money.{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "08003.bin@11b6",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "08003.bin@11bc",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "08004.bin@124f",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "08004.bin@1258",
+  "en": "\"Okay, everyone.\nLet's take the stairs straight ahead of us and go see Emera.\"{w}",
+  "kind": "msg",
+  "len": 100
+ },
+ {
+  "id": "08004.bin@1838",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "08004.bin@1946",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "08004.bin@19cd",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "08004.bin@19df",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "08004.bin@19ed",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08004.bin@19fd",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "08004.bin@1a0b",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08004.bin@1a1b",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08004.bin@1a2b",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "08004.bin@1a35",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08004.bin@1a45",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08004.bin@1a55",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "08004.bin@1a67",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08005.bin@1abd",
+  "en": "Traveler",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "08005.bin@1ac4",
+  "en": "\"They say there's a mansion up on this mountain,{w}and a real beauty lives there who'll listen to any trouble you've got...\"{w}{p}\"But why on earth would anyone live way out here in the mountains?\"{w}",
+  "kind": "msg",
+  "len": 142
+ },
+ {
+  "id": "08005.bin@20c8",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "08005.bin@21d6",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "08005.bin@225d",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "08005.bin@226f",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "08005.bin@227d",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08005.bin@228d",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "08005.bin@229b",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08005.bin@22ab",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08005.bin@22bb",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "08005.bin@22c5",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08005.bin@22d5",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "08005.bin@22e5",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "08005.bin@22f7",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@2488",
+  "en": "When you came to, you were outside the room.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "09001.bin@24cc",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@24d5",
+  "en": "\"Hellooo, Emera!\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "09001.bin@2508",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2511",
+  "en": "\"Oh my, Toner.\nGia isn't with you today?\"{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "09001.bin@255e",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2567",
+  "en": "\"Mom got a little hurt.{w}So these people brought me here instead.\"{w}{p}\"I'd be fine on my own, really, but Mom said no.\"{w}",
+  "kind": "msg",
+  "len": 134
+ },
+ {
+  "id": "09001.bin@25fe",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2607",
+  "en": "\"I understand how she feels.\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "09001.bin@2632",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@263b",
+  "en": "\"Well then, let me examine you right away.\nThis way, please.\"{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "09001.bin@268a",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2693",
+  "en": "\"Sorry, adventurers,\nbut could you wait outside the room for a bit, okay?\"{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "09001.bin@2705",
+  "en": "Will you eavesdrop on what's going on inside?{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "09001.bin@2740",
+  "en": "Eavesdrop?",
+  "kind": "data",
+  "len": 22
+ },
+ {
+  "id": "09001.bin@278c",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2795",
+  "en": "\"Well?\"{w}",
+  "kind": "msg",
+  "len": 14
+ },
+ {
+  "id": "09001.bin@27a4",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@27ad",
+  "en": "\"I see nothing out of the ordinary. Everything is normal.\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "09001.bin@27da",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@27e3",
+  "en": "\"Great!\"{w}",
+  "kind": "msg",
+  "len": 18
+ },
+ {
+  "id": "09001.bin@2806",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@280f",
+  "en": "\"Yeah.\"{w}",
+  "kind": "msg",
+  "len": 12
+ },
+ {
+  "id": "09001.bin@281c",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2825",
+  "en": "\"Fwaaaaaaah...\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "09001.bin@283e",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2847",
+  "en": "\"Hup!\nHey, do I still have to keep pretending it's Rogera?\"{w}",
+  "kind": "msg",
+  "len": 80
+ },
+ {
+  "id": "09001.bin@2898",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@28a1",
+  "en": "\"It's not that you have to,\nbut if you were to explain the Divine Realm,\npeople would begin to question what you are, Toner, to know such things.\"{w}",
+  "kind": "msg",
+  "len": 126
+ },
+ {
+  "id": "09001.bin@2920",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2929",
+  "en": "\"And I'd end up causing trouble for Mom, huh...\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "09001.bin@2950",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2959",
+  "en": "\"Does she matter to you, then? That woman?\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "09001.bin@297c",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2985",
+  "en": "\"Well, look at the vessel I'm in. I'm bound to be affected by it.\nAnd you know, she's so warm and big!\nThe way she wraps you up, it's like...\"{w}",
+  "kind": "msg",
+  "len": 116
+ },
+ {
+  "id": "09001.bin@29fa",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2a03",
+  "en": "\"That is simply what motherhood is.\nA mother who has a child...\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "09001.bin@2a48",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2a51",
+  "en": "\"No, I mean her boobs!\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "09001.bin@2a70",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2a79",
+  "en": "\"...That's quite enough.\nAbout the matter from earlier...\"{w}{p}\"Do you wish to spread the word that it is now you, and no longer Rogera?\"{w}{p}\"If that is truly what you want, give me a little time and I can change it to Sanafeet.\"{w}",
+  "kind": "msg",
+  "len": 194
+ },
+ {
+  "id": "09001.bin@2b3c",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2b45",
+  "en": "\"What should I do, huh?\"{w}{p}\"I don't mind either way.\nIt's just, the people who are still praying to Rogera...\nthey're kind of... you know.\"{w}{p}\"Same goes for Dehain's followers, too.\"{w}",
+  "kind": "msg",
+  "len": 150
+ },
+ {
+  "id": "09001.bin@2bdc",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2be5",
+  "en": "\"It is common in every land.\"{w}{p}\"Prayer and faith are what the heart leans on.\nIf they bring peace of mind,\nthe truth has no value.\"{w}",
+  "kind": "msg",
+  "len": 124
+ },
+ {
+  "id": "09001.bin@2c62",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2c6b",
+  "en": "\"So that's how it is. That's kind of sad.\"{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "09001.bin@2c90",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2c99",
+  "en": "\"You are a strange one, Sanafeet.\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "09001.bin@2cc2",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2ccb",
+  "en": "\"Am I?\"{w}",
+  "kind": "msg",
+  "len": 14
+ },
+ {
+  "id": "09001.bin@2cda",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2ce3",
+  "en": "\"No god has come down to the land since Mixia,\nand yet here you are.\"{w}",
+  "kind": "msg",
+  "len": 64
+ },
+ {
+  "id": "09001.bin@2d24",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2d2d",
+  "en": "\"Yeah, that!\nFulfaray made such a racket about it!\"{w}{p}\"Fulfaray kept going on and on, so I just got all excited right back.\nAnd then off they ran, ranting and raving! Ahaha!\"{w}",
+  "kind": "msg",
+  "len": 178
+ },
+ {
+  "id": "09001.bin@2de0",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2de9",
+  "en": "\"You did that to Fulfaray, of all gods!?\nGood heavens...\"{w}",
+  "kind": "msg",
+  "len": 58
+ },
+ {
+  "id": "09001.bin@2e24",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2e2d",
+  "en": "\"Who cares? Descending to the land isn't forbidden or anything.\"{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "09001.bin@2e5c",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2e65",
+  "en": "\"Is that so?\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "09001.bin@2e7e",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2e87",
+  "en": "\"Huh? Isn't it?\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "09001.bin@2ea6",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2eaf",
+  "en": "\"I've never heard that.\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "09001.bin@2ecc",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2ed5",
+  "en": "\"...It's not forbidden... right?\"{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "09001.bin@2efa",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2f03",
+  "en": "\"Well, I really couldn't say.\"{w}",
+  "kind": "msg",
+  "len": 20
+ },
+ {
+  "id": "09001.bin@2f18",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2f21",
+  "en": "\"Uuu... My heart's pounding...\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "09001.bin@2f40",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2f49",
+  "en": "\"It's a little late to worry about that now.\"{w}",
+  "kind": "msg",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@2f5a",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@2f63",
+  "en": "\"W-well, come on!\nIf I don't see what's really going on with my own eyes,\nhow am I supposed to know how to deal with it!\"{w}{p}\"Hey, hey, if Void and the others ask,\ncover for me, okay?\nTell them I never came to this land.\"{w}",
+  "kind": "msg",
+  "len": 192
+ },
+ {
+  "id": "09001.bin@3024",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@302d",
+  "en": "\"I can go along with your story\nas much as you like.\"{w}{p}\"However, everything, this conversation included,\nis surely being recorded by the System.\"{w}",
+  "kind": "msg",
+  "len": 120
+ },
+ {
+  "id": "09001.bin@30a6",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@30af",
+  "en": "\"Wha!? Really!?\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "09001.bin@30ce",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@30d7",
+  "en": "\"Really.\"{w}",
+  "kind": "msg",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@30e8",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@30f1",
+  "en": "\"Ehhh, I don't wanna!\"{w}",
+  "kind": "msg",
+  "len": 20
+ },
+ {
+  "id": "09001.bin@3106",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@310f",
+  "en": "\"You can say 'don't wanna' all you like, but...\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "09001.bin@3130",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@3139",
+  "en": "\"...They really are such a pain, those guys.\nCan't I just squash them?\"{w}",
+  "kind": "msg",
+  "len": 70
+ },
+ {
+  "id": "09001.bin@3180",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@3189",
+  "en": "\"That, of all things, would get you sent to the Horizon.\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "09001.bin@31a8",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@31b1",
+  "en": "\"You know, I think Void's going to fail.\nEven this sending-to-the-Horizon business\nis actually insurance for when the Phase Shift happens...\"{w}",
+  "kind": "msg",
+  "len": 104
+ },
+ {
+  "id": "09001.bin@321a",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@3223",
+  "en": "\"Sanafeet! You're saying far too much!\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "09001.bin@3250",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@3259",
+  "en": "\"...Sorry.\"{w}{p}\"But still, I don't want to just sit on the sidelines\nand watch!\nApasha too -- I'll make them cough up that soul, no matter what!\"{w}",
+  "kind": "msg",
+  "len": 124
+ },
+ {
+  "id": "09001.bin@32d6",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@32df",
+  "en": "\"Why Rogera instructed me to help you descend, Sanafeet...\nI understand it well now.\"{w}",
+  "kind": "msg",
+  "len": 112
+ },
+ {
+  "id": "09001.bin@3350",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@3359",
+  "en": "\"Rogera should've just done as they pleased a little more, huh.\"{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "09001.bin@3396",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@339f",
+  "en": "\"Rogera was never one to let feelings show.\"{w}",
+  "kind": "msg",
+  "len": 66
+ },
+ {
+  "id": "09001.bin@33e2",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@33eb",
+  "en": "\"No problem there for me! I do whatever I want!\"{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "09001.bin@341c",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@3425",
+  "en": "\"Sanafeet, you get far too carried away.\"{w}{p}\"Now then, your friends must be getting confused by now.\n...Your friends from the land, with their ears to the door.\"{w}",
+  "kind": "msg",
+  "len": 134
+ },
+ {
+  "id": "09001.bin@34ac",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@34b5",
+  "en": "\"It's fine, I'll just erase their memories.\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "09001.bin@34f1",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@34fa",
+  "en": "\"Sorry for the wait!\nAnd sorry, but I'm going to erase a bit of your memory.\"{w}",
+  "kind": "msg",
+  "len": 64
+ },
+ {
+  "id": "09001.bin@354f",
+  "en": "\"......{w}......\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "09001.bin@35c0",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@35c9",
+  "en": "\"Sorry to keep you waiting, everyone!\"{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "09001.bin@35ff",
+  "en": "[Key Item]\nObtained Toner's Checkup.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "09001.bin@3640",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@3649",
+  "en": "\"Okay, let's head back.\nI want to put Mom's mind at ease as soon as I can.\"{w}",
+  "kind": "msg",
+  "len": 64
+ },
+ {
+  "id": "09001.bin@36aa",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@36b3",
+  "en": "\"You came back to see me. Welcome.\nNow, what shall we talk about today?\"{w}",
+  "kind": "msg",
+  "len": 82
+ },
+ {
+  "id": "09001.bin@372c",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@3735",
+  "en": "\"How lovely, you came again.\nYou're welcome to come every day, you know?\nI'll take good care of you.\"{w}",
+  "kind": "msg",
+  "len": 86
+ },
+ {
+  "id": "09001.bin@379f",
+  "en": "There's no one here.{w}",
+  "kind": "msg",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@3d1c",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "09001.bin@3e2a",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "09001.bin@3e6b",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "09001.bin@3e71",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@3eb1",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09001.bin@3ec3",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09001.bin@3ed1",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@3ee1",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09001.bin@3eef",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@3eff",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@3f0f",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "09001.bin@3f19",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@3f29",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@3f39",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09001.bin@3f4b",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@3f7f",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@3f90",
+  "en": "\"I heard there was some vampire woman\nputting on airs as a 'Soul Therapist'.\nThat's you, right?\"{w}",
+  "kind": "msg",
+  "len": 92
+ },
+ {
+  "id": "09001.bin@3ffd",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@4006",
+  "en": "\"It isn't a title I'm especially fond of, though.\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "09001.bin@4039",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@404a",
+  "en": "\"That flowing hair... that pure white skin...\"{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "09001.bin@4085",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4096",
+  "en": "\"Ahahaha!!{w}For a corpse, you look just like you're alive!!\"{w}",
+  "kind": "msg",
+  "len": 64
+ },
+ {
+  "id": "09001.bin@40e7",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@40f0",
+  "en": "\"A corpse... hmm.\"{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "09001.bin@4117",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4128",
+  "en": "\"I want it... 'that.'{w}I don't need your heart, so just hand your body over to me.\"{w}{p}\"Just like this one here,\nI'll love you properly until you've rotted away completely.{w}Hee hee hee!\"{w}",
+  "kind": "msg",
+  "len": 182
+ },
+ {
+  "id": "09001.bin@41ef",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@41f8",
+  "en": "\"A kind invitation, but I have work to do.\"{w}{p}\"I can't live up to your expectations,\nso be good and go home quietly.\"{w}",
+  "kind": "msg",
+  "len": 114
+ },
+ {
+  "id": "09001.bin@427b",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@428c",
+  "en": "\"A mere corpse, talking back to me?{w}Fine, I'll reap it for you.{w}That pointless leftover scrap of a personality... like THIS!!\"{w}",
+  "kind": "msg",
+  "len": 112
+ },
+ {
+  "id": "09001.bin@4315",
+  "en": "Emera's Voice",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "09001.bin@4322",
+  "en": "\"My, my. What a wild little thing.{w}You've ruined my favorite tea set.\"{w}",
+  "kind": "msg",
+  "len": 78
+ },
+ {
+  "id": "09001.bin@4381",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4392",
+  "en": "\"Wh-what...?\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "09001.bin@43bb",
+  "en": "Emera's Voice",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "09001.bin@43c8",
+  "en": "\"Where do you think you're looking?\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "09001.bin@43f9",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@440a",
+  "en": "\"Where'd you go!?\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "09001.bin@443b",
+  "en": "Emera's Voice",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "09001.bin@4448",
+  "en": "\"Come now, not that way. Hehe.\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "09001.bin@4485",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4496",
+  "en": "\"Damn it!!\"{w}",
+  "kind": "msg",
+  "len": 18
+ },
+ {
+  "id": "09001.bin@44cc",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@44dd",
+  "en": "\"Where are you!? Come on out!!\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "09001.bin@451e",
+  "en": "Emera's Voice",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "09001.bin@452b",
+  "en": "\"Let me see.{w}It'd be a bother if you thrashed around too much...{w}All right, just hold still like that.\"{w}",
+  "kind": "msg",
+  "len": 86
+ },
+ {
+  "id": "09001.bin@4599",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@45aa",
+  "en": "\"Huh? ...Agh!?\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "09001.bin@45ef",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@45f8",
+  "en": "\"There. Caught you.\"{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "09001.bin@460f",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4620",
+  "en": "\"Oh n-no...! Ngh!!\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "09001.bin@4643",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@464c",
+  "en": "\"Look at the sky. What a splendid full moon.{w}...Even for one of the Kin of Darkness,\nisn't your timing awfully poor? You silly thing.\"{w}",
+  "kind": "msg",
+  "len": 106
+ },
+ {
+  "id": "09001.bin@46b7",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@46c8",
+  "en": "\"Dam... mit...!!{w}Let go!! Let go of me!!\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "09001.bin@4712",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@471b",
+  "en": "\"Nooope. Why would I ever let go?{w}Such adorable prey...\"{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "09001.bin@476f",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@4778",
+  "en": "\"I'll savor you... nice and slow.{w}Our night is only beginning.\nThere's so much I want to ask you.\"{w}",
+  "kind": "msg",
+  "len": 104
+ },
+ {
+  "id": "09001.bin@47e1",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@47f2",
+  "en": "\"Ha... haha!{w}Y-you think I'll just answer you nicely?{w}You must really take me for a pushover!\"{w}",
+  "kind": "msg",
+  "len": 82
+ },
+ {
+  "id": "09001.bin@4845",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@484e",
+  "en": "\"Oh, that's fine. You needn't force yourself to talk.\"{w}{p}\"I'm a Soul Therapist, after all.{w}I can probe your heart, or else...\"{w}",
+  "kind": "msg",
+  "len": 128
+ },
+ {
+  "id": "09001.bin@48e9",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@48fa",
+  "en": "\"Wh-what are you... huh!?\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "09001.bin@491d",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@4926",
+  "en": "\"...I can ask your body instead.\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "09001.bin@4962",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4973",
+  "en": "\"Where are you touching... n-no...!!\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "09001.bin@499c",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@49a5",
+  "en": "\"Personally, I prefer this method, though.\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "09001.bin@49d2",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@49e3",
+  "en": "\"You're some kind of pervert, aren't you!?\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "09001.bin@4a0c",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@4a15",
+  "en": "\"Now, now. A lady mustn't use such vulgar words.\"{w}{p}\"More importantly, look.{w}Your very favorite thing... a corpse's fingers.{w}How about it? Are they to your liking?\"{w}",
+  "kind": "msg",
+  "len": 142
+ },
+ {
+  "id": "09001.bin@4aa9",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4aba",
+  "en": "\"Wait, hold o...! Don't you dare...{w}Let go! Get off me!! You...\"{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "09001.bin@4b2f",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4b40",
+  "en": "\"Eek!?\"{w}",
+  "kind": "msg",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4b51",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@4b5a",
+  "en": "\"...If you don't want to die,\nyou'll answer my questions.\"{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "09001.bin@4b8d",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4b9e",
+  "en": "\"Ah... ngh...\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "09001.bin@4bcc",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4bdd",
+  "en": "\"Uuh...\"{w}",
+  "kind": "msg",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4bee",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@4bf7",
+  "en": "\"Hehe, that's a good girl.{w}If you behave, there's no need to be afraid.\nI'll pamper you plenty.\"{w}",
+  "kind": "msg",
+  "len": 96
+ },
+ {
+  "id": "09001.bin@4c58",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4c69",
+  "en": "\"What... are you going to do... to me...?\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "09001.bin@4c92",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@4c9b",
+  "en": "\"I was asked by Rogera, the former god of Dark Oblivion,\nto save the souls caught in the in-between.\"{w}{p}\"I can't forgive those who defile the remains\nof the dead, the way you do.\"{w}",
+  "kind": "msg",
+  "len": 132
+ },
+ {
+  "id": "09001.bin@4d20",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4d31",
+  "en": "\"I don't defile them!{w}Even when they rot, even when they turn to sludge,\nI treasure them, don't I!\"{w}{p}\"And besides... I'm, um, proper about it...{w}Okay, sometimes I do... that sort of thing too... but...{w}I'm gentle... and, um...\"{w}",
+  "kind": "msg",
+  "len": 192
+ },
+ {
+  "id": "09001.bin@4df2",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@4dfb",
+  "en": "\"Did the person who owned those remains\nwish for you to do that?\"{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "09001.bin@4e3a",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4e4b",
+  "en": "\"Well, that's...\"{w}",
+  "kind": "msg",
+  "len": 18
+ },
+ {
+  "id": "09001.bin@4e5e",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@4e67",
+  "en": "\"It seems you don't toy with them out of malice.{w}Very well.\nI'll have you undergo Soul Therapy.\"{w}",
+  "kind": "msg",
+  "len": 100
+ },
+ {
+  "id": "09001.bin@4ecc",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4edd",
+  "en": "\"Soul... thera...?{w}Oh, that hocus-pocus you do...\"{w}",
+  "kind": "msg",
+  "len": 70
+ },
+ {
+  "id": "09001.bin@4f24",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@4f2d",
+  "en": "\"That's right. I'm going to take a little look inside your heart.\"{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "09001.bin@4f5e",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4f6f",
+  "en": "\"You're just a fraud, though.\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "09001.bin@4f88",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@4f91",
+  "en": "\"I'm not a fraud, you know?\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "09001.bin@4fb0",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@4fc1",
+  "en": "\"There's no way anyone can see inside a heart.{w}Understanding another person is impossible. Obviously.\"{w}",
+  "kind": "msg",
+  "len": 84
+ },
+ {
+  "id": "09001.bin@5016",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@501f",
+  "en": "\"......\"{w}",
+  "kind": "msg",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@5030",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@5041",
+  "en": "\"But... if it's for real...{w}You can look at all of it. I'll stay still, okay?\"{w}{p}\"Don't just take a little peek.\nLook at all of my heart...\"{w}{p}\"I could never fit into this world...{w}Save my heart... please...{w}And if you can't save it... just kill me like this.\"{w}",
+  "kind": "msg",
+  "len": 244
+ },
+ {
+  "id": "09001.bin@5136",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@513f",
+  "en": "\"Are you saying you want to die?\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "09001.bin@5162",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@5173",
+  "en": "\"No. I don't want to live.\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "09001.bin@518e",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@5197",
+  "en": "\"...Well, all right. Let's begin.{w}Leave everything to me.\"{w}{p}\"...When this hand touches you,\nyour feelings will slowly come undone.{w}Hehe.\"{w}",
+  "kind": "msg",
+  "len": 148
+ },
+ {
+  "id": "09001.bin@522c",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@523d",
+  "en": "\"...You're touching me all weird again.\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "09001.bin@525e",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@5267",
+  "en": "\"What's wrong with that? You like it, don't you?{w}...My heart reaches out through my palm,\ninto your body.\"{w}{p}\"I wonder where your heart is?{w}May I search for it?\"{w}",
+  "kind": "msg",
+  "len": 150
+ },
+ {
+  "id": "09001.bin@52fe",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@530f",
+  "en": "\"S-search...? Ah...\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "09001.bin@5330",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@5339",
+  "en": "\"Slip, slip, slip, slip...{w}I'll search every inch of your body.\"{w}",
+  "kind": "msg",
+  "len": 84
+ },
+ {
+  "id": "09001.bin@538e",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@539f",
+  "en": "\"Nngh...!\"{w}",
+  "kind": "msg",
+  "len": 20
+ },
+ {
+  "id": "09001.bin@53b4",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@53bd",
+  "en": "\"Slip, slip, slip, slip...{w}...Oh, look, I found it.{w}It looks so lonely here. Shall I comfort it?\"{w}",
+  "kind": "msg",
+  "len": 128
+ },
+ {
+  "id": "09001.bin@5472",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@5483",
+  "en": "\"You really are a pervert.\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "09001.bin@54aa",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@54b3",
+  "en": "\"That makes two of us.\"{w}{p}\"...By the way, this has nothing to do\nwith the therapy, but would you tell me something?\"{w}",
+  "kind": "msg",
+  "len": 106
+ },
+ {
+  "id": "09001.bin@551e",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@552f",
+  "en": "\"?\"{w}",
+  "kind": "msg",
+  "len": 10
+ },
+ {
+  "id": "09001.bin@553a",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@5543",
+  "en": "\"Why did you choose a night like this?{w}You might have won in the daytime, you know?{w}Or didn't you know about our nature?\"{w}",
+  "kind": "msg",
+  "len": 118
+ },
+ {
+  "id": "09001.bin@55ba",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@55cb",
+  "en": "\"...Of course I knew.{w}I've been dealing with corpses for a long time.\"{w}{p}\"Sure, in the daytime I'd have won.{w}I even had White Ash ready.\"{w}",
+  "kind": "msg",
+  "len": 152
+ },
+ {
+  "id": "09001.bin@5664",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@566d",
+  "en": "\"White...!?{w}Then why...\"{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "09001.bin@56a0",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@56b1",
+  "en": "\"Corpses are precious to me.\nSo I wanted to meet you at your most beautiful,\non the finest stage.\"{w}{p}\"You're at your most beautiful too\non this night, bathed in the full moon's light, right?{w}It's a tiny difference, but I can tell.\"{w}",
+  "kind": "msg",
+  "len": 198
+ },
+ {
+  "id": "09001.bin@5778",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@5781",
+  "en": "\"That's all!?{w}Over something that small,\nyou threw away a fight you could have won easily...?\"{w}",
+  "kind": "msg",
+  "len": 84
+ },
+ {
+  "id": "09001.bin@57d6",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@57e7",
+  "en": "\"That's right.{w}It's only something that small, but to me,\nit's everything.\"{w}",
+  "kind": "msg",
+  "len": 80
+ },
+ {
+  "id": "09001.bin@5838",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@5841",
+  "en": "\"...I'm sorry.{w}That was unworthy of a Soul Therapist.{w}Now, let's continue.\"{w}",
+  "kind": "msg",
+  "len": 94
+ },
+ {
+  "id": "09001.bin@58b8",
+  "en": "Necrophilis's Soul Therapy went on\nthrough the night.{w}",
+  "kind": "msg",
+  "len": 58
+ },
+ {
+  "id": "09001.bin@5915",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@591e",
+  "en": "\"...The sun is rising.{w}I'm going to rest now, but you ought to\ncome see me regularly for a while.\"{w}",
+  "kind": "msg",
+  "len": 98
+ },
+ {
+  "id": "09001.bin@5991",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@59a2",
+  "en": "\"Come see you?\"{w}",
+  "kind": "msg",
+  "len": 14
+ },
+ {
+  "id": "09001.bin@59c1",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@59ca",
+  "en": "\"Yes. Come again tonight.\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "09001.bin@59fd",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@5a0e",
+  "en": "\"...All my strength's drained out. I can't stand up.\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "09001.bin@5a47",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@5a50",
+  "en": "\"Don't talk nonsense.\"{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "09001.bin@5a77",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09001.bin@5a88",
+  "en": "\"...Let me stay here. Don't push me away, okay?\"{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "09001.bin@5ac7",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@5ad0",
+  "en": "\"...Suit yourself.\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "09001.bin@5aee",
+  "en": "Emera's Voice",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "09001.bin@5afb",
+  "en": "\"Bye now. ...Good night, Philis.\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "09001.bin@5b22",
+  "en": "Necrophilis (V)",
+  "kind": "name",
+  "len": 20
+ },
+ {
+  "id": "09001.bin@5b37",
+  "en": "\"I'm sleeping in there with you.\"{w}",
+  "kind": "msg",
+  "len": 18
+ },
+ {
+  "id": "09001.bin@5b56",
+  "en": "Emera's Voice",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "09001.bin@5b63",
+  "en": "\"Hey...! This coffin is for one...\"{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "09001.bin@5bab",
+  "en": "Necrophilis (V)",
+  "kind": "name",
+  "len": 20
+ },
+ {
+  "id": "09001.bin@5bc0",
+  "en": "\"It's fine, it's fine.\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "09001.bin@5c40",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@5c49",
+  "en": "\"Oh my, do I have a visitor?{w}I am the Soul Therapist, Emera.\"{w}{p}\"This is my room.\nA very quiet, very warm place.\"{w}{p}\"In the fireplace, a little flame dances to welcome you.{w}Sit down on the sofa.{w}I'll sit beside you.\"{w}{p}\"What shall we talk about today?\"{w}{p}\"Are you nervous?{w}When this hand touches you,\nyour feelings will slowly come undone.\"{w}{p}\"My heart reaches out through my palm,\ninto your body.{w}...There, let me hold you.\"{w}{p}\"I wonder where your heart is?{w}May I search for it?\"{w}{p}\"Slip, slip, slip, slip...{w}I'll search every inch of your body.\"{w}{p}\"Slip, slip, slip, slip...{w}...There, I found it.\"{w}{p}\"You're trembling.{w}Does it tickle?{w}Or are you scared?\"{w}{p}\"It's all right.{w}There's nothing here that can hurt you.\"{w}{p}\"Entwine your heart with mine.{w}Slowly, we'll melt together and become one.\"{w}{p}\"Into the warm mire.{w}I'll take you into the darkness of the eternal world.{w}We'll slowly sink down together.\"{w}{p}\"Slowly, slowly, slowly, slowly...{w}Hand in hand, body to body, heart to heart.\"{w}{p}\"Slowly, slowly, slowly, slowly...\"{w}{p}\"Now, this is the deepest place within you.{w}Here, today, tell me\nabout your happy memories.\"{w}",
+  "kind": "msg",
+  "len": 1180
+ },
+ {
+  "id": "09001.bin@60e9",
+  "en": "You told Emera all the happy memories\nyou could remember.{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "09001.bin@6126",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09001.bin@612f",
+  "en": "\"Those were wonderful days, weren't they.{w}Thank you. I enjoyed that.\"{w}{p}\"That's all for today.{w}Come here again tomorrow night, okay?\"{w}",
+  "kind": "msg",
+  "len": 118
+ },
+ {
+  "id": "09001.bin@622b",
+  "en": "Suddenly, your bodies seemed to grow lighter.{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "09002.bin@629f",
+  "en": "{w}",
+  "kind": "msg",
+  "len": 4
+ },
+ {
+  "id": "09002.bin@6810",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "09002.bin@691e",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "09002.bin@69a5",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09002.bin@69b7",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09002.bin@69c5",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@69d5",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09002.bin@69e3",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@69f3",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@6a03",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "09002.bin@6a0d",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@6a1d",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@6a2d",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09002.bin@6a3f",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@6a73",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@6a84",
+  "en": "\"I heard there was some vampire woman\nputting on airs as a 'Soul Therapist'.\nThat's you, right?\"{w}",
+  "kind": "msg",
+  "len": 92
+ },
+ {
+  "id": "09002.bin@6af1",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@6afa",
+  "en": "\"It isn't a title I'm especially fond of, though.\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "09002.bin@6b2d",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@6b3e",
+  "en": "\"That flowing hair... that pure white skin...\"{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "09002.bin@6b79",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@6b8a",
+  "en": "\"Ahahaha!!{w}For a corpse, you look just like you're alive!!\"{w}",
+  "kind": "msg",
+  "len": 64
+ },
+ {
+  "id": "09002.bin@6bdb",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@6be4",
+  "en": "\"A corpse... hmm.\"{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "09002.bin@6c0b",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@6c1c",
+  "en": "\"I want it... 'that.'{w}I don't need your heart, so just hand your body over to me.\"{w}{p}\"Just like this one here,\nI'll love you properly until you've rotted away completely.{w}Hee hee hee!\"{w}",
+  "kind": "msg",
+  "len": 182
+ },
+ {
+  "id": "09002.bin@6ce3",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@6cec",
+  "en": "\"A kind invitation, but I have work to do.\"{w}{p}\"I can't live up to your expectations,\nso be good and go home quietly.\"{w}",
+  "kind": "msg",
+  "len": 114
+ },
+ {
+  "id": "09002.bin@6d6f",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@6d80",
+  "en": "\"A mere corpse, talking back to me?{w}Fine, I'll reap it for you.{w}That pointless leftover scrap of a personality... like THIS!!\"{w}",
+  "kind": "msg",
+  "len": 112
+ },
+ {
+  "id": "09002.bin@6e09",
+  "en": "Emera's Voice",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "09002.bin@6e16",
+  "en": "\"My, my. What a wild little thing.{w}You've ruined my favorite tea set.\"{w}",
+  "kind": "msg",
+  "len": 78
+ },
+ {
+  "id": "09002.bin@6e75",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@6e86",
+  "en": "\"Wh-what...?\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "09002.bin@6eaf",
+  "en": "Emera's Voice",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "09002.bin@6ebc",
+  "en": "\"Where do you think you're looking?\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "09002.bin@6eed",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@6efe",
+  "en": "\"Where'd you go!?\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "09002.bin@6f2f",
+  "en": "Emera's Voice",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "09002.bin@6f3c",
+  "en": "\"Come now, not that way. Hehe.\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "09002.bin@6f79",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@6f8a",
+  "en": "\"Damn it!!\"{w}",
+  "kind": "msg",
+  "len": 18
+ },
+ {
+  "id": "09002.bin@6fc0",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@6fd1",
+  "en": "\"Where are you!? Come on out!!\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "09002.bin@7012",
+  "en": "Emera's Voice",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "09002.bin@701f",
+  "en": "\"Let me see.{w}It'd be a bother if you thrashed around too much...{w}All right, just hold still like that.\"{w}",
+  "kind": "msg",
+  "len": 86
+ },
+ {
+  "id": "09002.bin@708d",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@709e",
+  "en": "\"Huh? ...Agh!?\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "09002.bin@70e3",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@70ec",
+  "en": "\"There. Caught you.\"{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "09002.bin@7103",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7114",
+  "en": "\"Oh n-no...! Ngh!!\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "09002.bin@7137",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@7140",
+  "en": "\"Look at the sky. What a splendid full moon.{w}...Even for one of the Kin of Darkness,\nisn't your timing awfully poor? You silly thing.\"{w}",
+  "kind": "msg",
+  "len": 106
+ },
+ {
+  "id": "09002.bin@71ab",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@71bc",
+  "en": "\"Dam... mit...!!{w}Let go!! Let go of me!!\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "09002.bin@7206",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@720f",
+  "en": "\"Nooope. Why would I ever let go?{w}Such adorable prey...\"{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "09002.bin@7263",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@726c",
+  "en": "\"I'll savor you... nice and slow.{w}Our night is only beginning.\nThere's so much I want to ask you.\"{w}",
+  "kind": "msg",
+  "len": 104
+ },
+ {
+  "id": "09002.bin@72d5",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@72e6",
+  "en": "\"Ha... haha!{w}Y-you think I'll just answer you nicely?{w}You must really take me for a pushover!\"{w}",
+  "kind": "msg",
+  "len": 82
+ },
+ {
+  "id": "09002.bin@7339",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@7342",
+  "en": "\"Oh, that's fine. You needn't force yourself to talk.\"{w}{p}\"I'm a Soul Therapist, after all.{w}I can probe your heart, or else...\"{w}",
+  "kind": "msg",
+  "len": 128
+ },
+ {
+  "id": "09002.bin@73dd",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@73ee",
+  "en": "\"Wh-what are you... huh!?\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "09002.bin@7411",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@741a",
+  "en": "\"...I can ask your body instead.\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "09002.bin@7456",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7467",
+  "en": "\"Where are you touching... n-no...!!\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "09002.bin@7490",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@7499",
+  "en": "\"Personally, I prefer this method, though.\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "09002.bin@74c6",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@74d7",
+  "en": "\"You're some kind of pervert, aren't you!?\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "09002.bin@7500",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@7509",
+  "en": "\"Now, now. A lady mustn't use such vulgar words.\"{w}{p}\"More importantly, look.{w}Your very favorite thing... a corpse's fingers.{w}How about it? Are they to your liking?\"{w}",
+  "kind": "msg",
+  "len": 142
+ },
+ {
+  "id": "09002.bin@759d",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@75ae",
+  "en": "\"Wait, hold o...! Don't you dare...{w}Let go! Get off me!! You...\"{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "09002.bin@7623",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7634",
+  "en": "\"Eek!?\"{w}",
+  "kind": "msg",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7645",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@764e",
+  "en": "\"...If you don't want to die,\nyou'll answer my questions.\"{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "09002.bin@7681",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7692",
+  "en": "\"Ah... ngh...\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "09002.bin@76c0",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@76d1",
+  "en": "\"Uuh...\"{w}",
+  "kind": "msg",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@76e2",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@76eb",
+  "en": "\"Hehe, that's a good girl.{w}If you behave, there's no need to be afraid.\nI'll pamper you plenty.\"{w}",
+  "kind": "msg",
+  "len": 96
+ },
+ {
+  "id": "09002.bin@774c",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@775d",
+  "en": "\"What... are you going to do... to me...?\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "09002.bin@7786",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@778f",
+  "en": "\"I was asked by Rogera, the former god of Dark Oblivion,\nto save the souls caught in the in-between.\"{w}{p}\"I can't forgive those who defile the remains\nof the dead, the way you do.\"{w}",
+  "kind": "msg",
+  "len": 132
+ },
+ {
+  "id": "09002.bin@7814",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7825",
+  "en": "\"I don't defile them!{w}Even when they rot, even when they turn to sludge,\nI treasure them, don't I!\"{w}{p}\"And besides... I'm, um, proper about it...{w}Okay, sometimes I do... that sort of thing too... but...{w}I'm gentle... and, um...\"{w}",
+  "kind": "msg",
+  "len": 192
+ },
+ {
+  "id": "09002.bin@78e6",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@78ef",
+  "en": "\"Did the person who owned those remains\nwish for you to do that?\"{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "09002.bin@792e",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@793f",
+  "en": "\"Well, that's...\"{w}",
+  "kind": "msg",
+  "len": 18
+ },
+ {
+  "id": "09002.bin@7952",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@795b",
+  "en": "\"It seems you don't toy with them out of malice.{w}Very well.\nI'll have you undergo Soul Therapy.\"{w}",
+  "kind": "msg",
+  "len": 100
+ },
+ {
+  "id": "09002.bin@79c0",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@79d1",
+  "en": "\"Soul... thera...?{w}Oh, that hocus-pocus you do...\"{w}",
+  "kind": "msg",
+  "len": 70
+ },
+ {
+  "id": "09002.bin@7a18",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@7a21",
+  "en": "\"That's right. I'm going to take a little look inside your heart.\"{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "09002.bin@7a52",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7a63",
+  "en": "\"You're just a fraud, though.\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "09002.bin@7a7c",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@7a85",
+  "en": "\"I'm not a fraud, you know?\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "09002.bin@7aa4",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7ab5",
+  "en": "\"There's no way anyone can see inside a heart.{w}Understanding another person is impossible. Obviously.\"{w}",
+  "kind": "msg",
+  "len": 84
+ },
+ {
+  "id": "09002.bin@7b0a",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@7b13",
+  "en": "\"......\"{w}",
+  "kind": "msg",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7b24",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7b35",
+  "en": "\"But... if it's for real...{w}You can look at all of it. I'll stay still, okay?\"{w}{p}\"Don't just take a little peek.\nLook at all of my heart...\"{w}{p}\"I could never fit into this world...{w}Save my heart... please...{w}And if you can't save it... just kill me like this.\"{w}",
+  "kind": "msg",
+  "len": 244
+ },
+ {
+  "id": "09002.bin@7c2a",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@7c33",
+  "en": "\"Are you saying you want to die?\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "09002.bin@7c56",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7c67",
+  "en": "\"No. I don't want to live.\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "09002.bin@7c82",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@7c8b",
+  "en": "\"...Well, all right. Let's begin.{w}Leave everything to me.\"{w}{p}\"...When this hand touches you,\nyour feelings will slowly come undone.{w}Hehe.\"{w}",
+  "kind": "msg",
+  "len": 148
+ },
+ {
+  "id": "09002.bin@7d20",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7d31",
+  "en": "\"...You're touching me all weird again.\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "09002.bin@7d52",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@7d5b",
+  "en": "\"What's wrong with that? You like it, don't you?{w}...My heart reaches out through my palm,\ninto your body.\"{w}{p}\"I wonder where your heart is?{w}May I search for it?\"{w}",
+  "kind": "msg",
+  "len": 150
+ },
+ {
+  "id": "09002.bin@7df2",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7e03",
+  "en": "\"S-search...? Ah...\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "09002.bin@7e24",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@7e2d",
+  "en": "\"Slip, slip, slip, slip...{w}I'll search every inch of your body.\"{w}",
+  "kind": "msg",
+  "len": 84
+ },
+ {
+  "id": "09002.bin@7e82",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7e93",
+  "en": "\"Nngh...!\"{w}",
+  "kind": "msg",
+  "len": 20
+ },
+ {
+  "id": "09002.bin@7ea8",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@7eb1",
+  "en": "\"Slip, slip, slip, slip...{w}...Oh, look, I found it.{w}It looks so lonely here. Shall I comfort it?\"{w}",
+  "kind": "msg",
+  "len": 128
+ },
+ {
+  "id": "09002.bin@7f66",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@7f77",
+  "en": "\"You really are a pervert.\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "09002.bin@7f9e",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@7fa7",
+  "en": "\"That makes two of us.\"{w}{p}\"...By the way, this has nothing to do\nwith the therapy, but would you tell me something?\"{w}",
+  "kind": "msg",
+  "len": 106
+ },
+ {
+  "id": "09002.bin@8012",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@8023",
+  "en": "\"?\"{w}",
+  "kind": "msg",
+  "len": 10
+ },
+ {
+  "id": "09002.bin@802e",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@8037",
+  "en": "\"Why did you choose a night like this?{w}You might have won in the daytime, you know?{w}Or didn't you know about our nature?\"{w}",
+  "kind": "msg",
+  "len": 118
+ },
+ {
+  "id": "09002.bin@80ae",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@80bf",
+  "en": "\"...Of course I knew.{w}I've been dealing with corpses for a long time.\"{w}{p}\"Sure, in the daytime I'd have won.{w}I even had White Ash ready.\"{w}",
+  "kind": "msg",
+  "len": 152
+ },
+ {
+  "id": "09002.bin@8158",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@8161",
+  "en": "\"White...!?{w}Then why...\"{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "09002.bin@8194",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@81a5",
+  "en": "\"Corpses are precious to me.\nSo I wanted to meet you at your most beautiful,\non the finest stage.\"{w}{p}\"You're at your most beautiful too\non this night, bathed in the full moon's light, right?{w}It's a tiny difference, but I can tell.\"{w}",
+  "kind": "msg",
+  "len": 198
+ },
+ {
+  "id": "09002.bin@826c",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@8275",
+  "en": "\"That's all!?{w}Over something that small,\nyou threw away a fight you could have won easily...?\"{w}",
+  "kind": "msg",
+  "len": 84
+ },
+ {
+  "id": "09002.bin@82ca",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@82db",
+  "en": "\"That's right.{w}It's only something that small, but to me,\nit's everything.\"{w}",
+  "kind": "msg",
+  "len": 80
+ },
+ {
+  "id": "09002.bin@832c",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@8335",
+  "en": "\"...I'm sorry.{w}That was unworthy of a Soul Therapist.{w}Now, let's continue.\"{w}",
+  "kind": "msg",
+  "len": 94
+ },
+ {
+  "id": "09002.bin@83ac",
+  "en": "Necrophilis's Soul Therapy went on\nthrough the night.{w}",
+  "kind": "msg",
+  "len": 58
+ },
+ {
+  "id": "09002.bin@8409",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@8412",
+  "en": "\"...The sun is rising.{w}I'm going to rest now, but you ought to\ncome see me regularly for a while.\"{w}",
+  "kind": "msg",
+  "len": 98
+ },
+ {
+  "id": "09002.bin@8485",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@8496",
+  "en": "\"Come see you?\"{w}",
+  "kind": "msg",
+  "len": 14
+ },
+ {
+  "id": "09002.bin@84b5",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@84be",
+  "en": "\"Yes. Come again tonight.\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "09002.bin@84f1",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@8502",
+  "en": "\"...All my strength's drained out. I can't stand up.\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "09002.bin@853b",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@8544",
+  "en": "\"Don't talk nonsense.\"{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "09002.bin@856b",
+  "en": "Necrophilis",
+  "kind": "name",
+  "len": 16
+ },
+ {
+  "id": "09002.bin@857c",
+  "en": "\"...Let me stay here. Don't push me away, okay?\"{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "09002.bin@85bb",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@85c4",
+  "en": "\"...Suit yourself.\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "09002.bin@85e2",
+  "en": "Emera's Voice",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "09002.bin@85ef",
+  "en": "\"Bye now. ...Good night, Philis.\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "09002.bin@8616",
+  "en": "Necrophilis (V)",
+  "kind": "name",
+  "len": 20
+ },
+ {
+  "id": "09002.bin@862b",
+  "en": "\"I'm sleeping in there with you.\"{w}",
+  "kind": "msg",
+  "len": 18
+ },
+ {
+  "id": "09002.bin@864a",
+  "en": "Emera's Voice",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "09002.bin@8657",
+  "en": "\"Hey...! This coffin is for one...\"{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "09002.bin@869f",
+  "en": "Necrophilis (V)",
+  "kind": "name",
+  "len": 20
+ },
+ {
+  "id": "09002.bin@86b4",
+  "en": "\"It's fine, it's fine.\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "09002.bin@8734",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@873d",
+  "en": "\"Oh my, do I have a visitor?{w}I am the Soul Therapist, Emera.\"{w}{p}\"This is my room.\nA very quiet, very warm place.\"{w}{p}\"In the fireplace, a little flame dances to welcome you.{w}Sit down on the sofa.{w}I'll sit beside you.\"{w}{p}\"What shall we talk about today?\"{w}{p}\"Are you nervous?{w}When this hand touches you,\nyour feelings will slowly come undone.\"{w}{p}\"My heart reaches out through my palm,\ninto your body.{w}...There, let me hold you.\"{w}{p}\"I wonder where your heart is?{w}May I search for it?\"{w}{p}\"Slip, slip, slip, slip...{w}I'll search every inch of your body.\"{w}{p}\"Slip, slip, slip, slip...{w}...There, I found it.\"{w}{p}\"You're trembling.{w}Does it tickle?{w}Or are you scared?\"{w}{p}\"It's all right.{w}There's nothing here that can hurt you.\"{w}{p}\"Entwine your heart with mine.{w}Slowly, we'll melt together and become one.\"{w}{p}\"Into the warm mire.{w}I'll take you into the darkness of the eternal world.{w}We'll slowly sink down together.\"{w}{p}\"Slowly, slowly, slowly, slowly...{w}Hand in hand, body to body, heart to heart.\"{w}{p}\"Slowly, slowly, slowly, slowly...\"{w}{p}\"Now, this is the deepest place within you.{w}Here, today, tell me\nabout your happy memories.\"{w}",
+  "kind": "msg",
+  "len": 1180
+ },
+ {
+  "id": "09002.bin@8bdd",
+  "en": "You told Emera all the happy memories\nyou could remember.{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "09002.bin@8c1a",
+  "en": "Emera",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09002.bin@8c23",
+  "en": "\"Those were wonderful days, weren't they.{w}Thank you. I enjoyed that.\"{w}{p}\"That's all for today.{w}Come here again tomorrow night, okay?\"{w}",
+  "kind": "msg",
+  "len": 118
+ },
+ {
+  "id": "09003.bin@8d39",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09003.bin@8d42",
+  "en": "\"Everyone, it's this way!\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "09003.bin@92e0",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "09003.bin@93ee",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "09003.bin@9475",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09003.bin@9487",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09003.bin@9495",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09003.bin@94a5",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09003.bin@94b3",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09003.bin@94c3",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09003.bin@94d3",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "09003.bin@94dd",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09003.bin@94ed",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09003.bin@94fd",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09003.bin@950f",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09004.bin@95ad",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09004.bin@95b6",
+  "en": "\"This way, this way!\nIt's just past this door.\"{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "09004.bin@9b5e",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "09004.bin@9c6c",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "09004.bin@9cf3",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09004.bin@9d05",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09004.bin@9d13",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09004.bin@9d23",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09004.bin@9d31",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09004.bin@9d41",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09004.bin@9d51",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "09004.bin@9d5b",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09004.bin@9d6b",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09004.bin@9d7b",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09004.bin@9d8d",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09005.bin@9e29",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09005.bin@9e32",
+  "en": "\"We're almost there.\"{w}",
+  "kind": "msg",
+  "len": 20
+ },
+ {
+  "id": "09005.bin@a3c4",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "09005.bin@a4d2",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "09005.bin@a559",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09005.bin@a56b",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09005.bin@a579",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09005.bin@a589",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09005.bin@a597",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09005.bin@a5a7",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09005.bin@a5b7",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "09005.bin@a5c1",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09005.bin@a5d1",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09005.bin@a5e1",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09005.bin@a5f3",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09006.bin@a691",
+  "en": "Toner",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "09006.bin@a69a",
+  "en": "\"We're here!\nThis is where Emera lives.\"{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "09006.bin@ac54",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "09006.bin@ad62",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "09006.bin@ade9",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09006.bin@adfb",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09006.bin@ae09",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09006.bin@ae19",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09006.bin@ae27",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09006.bin@ae37",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09006.bin@ae47",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "09006.bin@ae51",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09006.bin@ae61",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09006.bin@ae71",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09006.bin@ae83",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09007.bin@b441",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "09007.bin@b54f",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "09007.bin@b5d6",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09007.bin@b5e8",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09007.bin@b5f6",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09007.bin@b606",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09007.bin@b614",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09007.bin@b624",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09007.bin@b634",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "09007.bin@b63e",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09007.bin@b64e",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09007.bin@b65e",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09007.bin@b670",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09007.bin@b687",
+  "en": "As you stand before the door,\nit begins to open with a rumble that shakes the ground.{w}",
+  "kind": "msg",
+  "len": 56
+ },
+ {
+  "id": "09007.bin@b700",
+  "en": "There is a tightly sealed door.\nThere is nothing that looks like a keyhole.{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "09008.bin@bcf1",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "09008.bin@bdff",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "09008.bin@be86",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09008.bin@be98",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09008.bin@bea6",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09008.bin@beb6",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "09008.bin@bec4",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09008.bin@bed4",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09008.bin@bee4",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "09008.bin@beee",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09008.bin@befe",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09008.bin@bf0e",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "09008.bin@bf20",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "09008.bin@bf37",
+  "en": "As you stand before the door,\nit begins to open with a rumble that shakes the ground.{w}",
+  "kind": "msg",
+  "len": 56
+ },
+ {
+  "id": "09008.bin@bfb0",
+  "en": "There is a tightly sealed door.\nThere is nothing that looks like a keyhole.{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c059",
+  "en": "An earthquake...?{w}No -- along with the rumbling of the ground,\nyou can hear the sound of something approaching.{w}",
+  "kind": "msg",
+  "len": 72
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c0c8",
+  "en": "What emerged from the cloud of dust was a gigantic two-headed dragon.{w}There was no way a meeting like this would end on friendly terms.{w}",
+  "kind": "msg",
+  "len": 96
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c159",
+  "en": "{0C:0001:0001}{w}",
+  "kind": "msg",
+  "len": 10
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c17d",
+  "en": "{0C:0001:0001}{w}",
+  "kind": "msg",
+  "len": 10
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c655",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c763",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c7ea",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c7fc",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c80a",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c81a",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c828",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c838",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c848",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c852",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c862",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c872",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@c884",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@ce26",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@ceb2",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@cf3e",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@cfc9",
+  "en": "[Key Item]\nObtained Ninja Fiend's Helm.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d036",
+  "en": "[Key Item]\nObtained Song of Spirits.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d0a1",
+  "en": "[Key Item]\nObtained Flesh-Lump Flower.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d10c",
+  "en": "[Key Item]\nObtained Deltoi Empty Room.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d181",
+  "en": "[Key Item]\nObtained Dark Sakil Shell.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d1f2",
+  "en": "[Key Item]\nObtained Aleed Palette.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d265",
+  "en": "[Key Item]\nObtained Demon-Boob Undies.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d2d0",
+  "en": "[Key Item]\nObtained Seot's Demon Nest.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d341",
+  "en": "[Key Item]\nObtained Unclean Water.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d3ae",
+  "en": "[Key Item]\nObtained Menolist's Candle.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d421",
+  "en": "[Key Item]\nObtained Ponya Sausage.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d494",
+  "en": "[Key Item]\nObtained Taizarti Lamp.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d509",
+  "en": "[Key Item]\nObtained Glittering Scale.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d576",
+  "en": "[Key Item]\nObtained Swordsage's Beard.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d5e2",
+  "en": "[Key Item]\nObtained Red Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d64d",
+  "en": "[Key Item]\nObtained Blue Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d6b8",
+  "en": "[Key Item]\nObtained Green Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d723",
+  "en": "[Key Item]\nObtained Yellow Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d78e",
+  "en": "[Key Item]\nObtained Black Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d7f9",
+  "en": "[Key Item]\nObtained White Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d831",
+  "en": "After defeating the mighty Duke of the Demon World,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d874",
+  "en": "After winning the battle,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d8b2",
+  "en": "# Current floor: {0B:0003:0000}",
+  "kind": "op029",
+  "len": 22
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d8d7",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d920",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d935",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d95a",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d9b0",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d9c5",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@d9ea",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@da40",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@da55",
+  "en": "The great shadow fades away{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@da78",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@dace",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@dae3",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@db08",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@db54",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@db69",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@db8e",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@dbe4",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@dbf9",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@dc1e",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@dcca",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@dd0b",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@dd6b",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@de43",
+  "en": "Friendly foes appear. Fight?",
+  "kind": "data",
+  "len": 38
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@de69",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@de6f",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@def5",
+  "en": "{0A:0003:0006}'s alignment changed to Good{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@df95",
+  "en": "{0A:0003:0006}'s alignment changed to Evil{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@e2ae",
+  "en": "Obtained {12:0003:0018}.{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@e2dd",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@e332",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@e4e5",
+  "en": "Suddenly, your bodies seemed to grow lighter.{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@e557",
+  "en": "With a strange whirring, a Tetramystica glides across the floor.{w}{p}A Tetramystica specialized for guard duty -- a \"Guard Mystica,\" you might call it.{w}{p}Here and there the students have scrawled on it: \"Idiot,\" \"Moron,\" even doodled nose hairs.{w}Even so, its function of guarding the Academy is still fully intact.{w}{p}So it is only natural that, on spotting you outsiders who don't belong to the Academy, it moves to eliminate you.{w}",
+  "kind": "msg",
+  "len": 362
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@e6c6",
+  "en": "You have run into a foe you never expected.{w}A vast form, its whole body blazing with light.{w}{p}Without a sound, the very air shudders and trembles.{w}With the word \"alien\" lodged in your hearts, you stand exposed to its savage power.{w}",
+  "kind": "msg",
+  "len": 168
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@e773",
+  "en": "Suddenly, a gigantic beast appears before you.{w}Half tiger and half horse, it flails its arms and thrashes its whole body wildly.{w}{p}And now its fury turns on you as well.{w}",
+  "kind": "msg",
+  "len": 138
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@e802",
+  "en": "Darkness within darkness.{w}Welling up from the abode of the Nether King, it fills the air around it with an incomprehensible tongue.{w}{p}What it is saying: unknown.{w}What it is even trying to do: unknown.{w}{p}But one thing is clear:\nit means to destroy you.{w}",
+  "kind": "msg",
+  "len": 222
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@e8e5",
+  "en": "A giant leaps out in front of you.{w}It seems to be distracted by something else.{w}{p}It doesn't appear able to tell whether you are enemies or mere visitors.{w}{p}No -- for just a moment it seemed to give it some thought, but\n'Eh, I'll just punch them for now and...'{w}seems to be the conclusion it reached.{w}",
+  "kind": "msg",
+  "len": 244
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@e9eb",
+  "en": "You succeeded in driving off the fearsome enemy.",
+  "kind": "data",
+  "len": 44
+ },
+ {
+  "id": "92008_FM_REAN_1F_SCENE.bin@ea17",
+  "en": "You fled from the Floor Master.",
+  "kind": "data",
+  "len": 38
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f041",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f14f",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f1d6",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f1e8",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f1f6",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f206",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f214",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f224",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f234",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f23e",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f24e",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f25e",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f270",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f812",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f89e",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f92a",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@f9b5",
+  "en": "[Key Item]\nObtained Ninja Fiend's Helm.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fa22",
+  "en": "[Key Item]\nObtained Song of Spirits.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fa8d",
+  "en": "[Key Item]\nObtained Flesh-Lump Flower.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@faf8",
+  "en": "[Key Item]\nObtained Deltoi Empty Room.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fb6d",
+  "en": "[Key Item]\nObtained Dark Sakil Shell.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fbde",
+  "en": "[Key Item]\nObtained Aleed Palette.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fc51",
+  "en": "[Key Item]\nObtained Demon-Boob Undies.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fcbc",
+  "en": "[Key Item]\nObtained Seot's Demon Nest.{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fd2d",
+  "en": "[Key Item]\nObtained Unclean Water.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fd9a",
+  "en": "[Key Item]\nObtained Menolist's Candle.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fe0d",
+  "en": "[Key Item]\nObtained Ponya Sausage.{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fe80",
+  "en": "[Key Item]\nObtained Taizarti Lamp.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@fef5",
+  "en": "[Key Item]\nObtained Glittering Scale.{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ff62",
+  "en": "[Key Item]\nObtained Swordsage's Beard.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@ffce",
+  "en": "[Key Item]\nObtained Red Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10039",
+  "en": "[Key Item]\nObtained Blue Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@100a4",
+  "en": "[Key Item]\nObtained Green Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1010f",
+  "en": "[Key Item]\nObtained Yellow Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1017a",
+  "en": "[Key Item]\nObtained Black Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@101e5",
+  "en": "[Key Item]\nObtained White Light Rank.{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1021d",
+  "en": "After defeating the mighty Duke of the Demon World,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10260",
+  "en": "After winning the battle,\nyou found something.{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1029e",
+  "en": "# Current floor: {0B:0003:0000}",
+  "kind": "op029",
+  "len": 22
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@102c3",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1030c",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10321",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10346",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1039c",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@103b1",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@103d6",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1042c",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10441",
+  "en": "The great shadow fades away{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10464",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@104ba",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@104cf",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@104f4",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10540",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10555",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1057a",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@105d0",
+  "en": "# Divine Shadow victory",
+  "kind": "op029",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@105e5",
+  "en": "The great shadow fades away.{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1060a",
+  "en": "You obtained an item, but couldn't carry it.{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@106b6",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@106f7",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10757",
+  "en": "You've encountered something!",
+  "kind": "op096",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1082f",
+  "en": "Friendly foes appear. Fight?",
+  "kind": "data",
+  "len": 38
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10855",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1085b",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@108e1",
+  "en": "{0A:0003:0006}'s alignment changed to Good{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10981",
+  "en": "{0A:0003:0006}'s alignment changed to Evil{w}",
+  "kind": "op096",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10c9a",
+  "en": "Obtained {12:0003:0018}.{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10cc9",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10d1e",
+  "en": "You couldn't carry any more items.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10ed1",
+  "en": "Suddenly, your bodies seemed to grow lighter.{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@10f43",
+  "en": "With a strange whirring, a Tetramystica glides across the floor.{w}{p}A Tetramystica specialized for guard duty -- a \"Guard Mystica,\" you might call it.{w}{p}Here and there the students have scrawled on it: \"Idiot,\" \"Moron,\" even doodled nose hairs.{w}Even so, its function of guarding the Academy is still fully intact.{w}{p}So it is only natural that, on spotting you outsiders who don't belong to the Academy, it moves to eliminate you.{w}",
+  "kind": "msg",
+  "len": 362
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@110b2",
+  "en": "You have run into a foe you never expected.{w}A vast form, its whole body blazing with light.{w}{p}Without a sound, the very air shudders and trembles.{w}With the word \"alien\" lodged in your hearts, you stand exposed to its savage power.{w}",
+  "kind": "msg",
+  "len": 168
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1115f",
+  "en": "Suddenly, a gigantic beast appears before you.{w}Half tiger and half horse, it flails its arms and thrashes its whole body wildly.{w}{p}And now its fury turns on you as well.{w}",
+  "kind": "msg",
+  "len": 138
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@111ee",
+  "en": "Darkness within darkness.{w}Welling up from the abode of the Nether King, it fills the air around it with an incomprehensible tongue.{w}{p}What it is saying: unknown.{w}What it is even trying to do: unknown.{w}{p}But one thing is clear:\nit means to destroy you.{w}",
+  "kind": "msg",
+  "len": 222
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@112d1",
+  "en": "A giant leaps out in front of you.{w}It seems to be distracted by something else.{w}{p}It doesn't appear able to tell whether you are enemies or mere visitors.{w}{p}No -- for just a moment it seemed to give it some thought, but\n'Eh, I'll just punch them for now and...'{w}seems to be the conclusion it reached.{w}",
+  "kind": "msg",
+  "len": 244
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@113e0",
+  "en": "You succeeded in driving off the fearsome enemy.",
+  "kind": "msg",
+  "len": 35
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11533",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11540",
+  "en": "\"Oh, it's you guys again!\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11567",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1158b",
+  "en": "\"How's it going?\"",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1159d",
+  "en": "Talk",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@115b4",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@115bb",
+  "en": "\"Electra, come on, let's get going!\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@115ec",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@115f9",
+  "en": "\"Wait, I haven't introduced everyone yet.{w}This is Mig.{w}A unicorn, as you can see.\"{w}{p}\"Mig and I have been together since birth,{w}and Mig travels with me like this.{w}And...........\"{w}",
+  "kind": "msg",
+  "len": 184
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@116c2",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@116cb",
+  "en": "\"Yamuru. I'm a bounty hunter.{w}I hear the Proclamation pays a pretty good sum,{w}so they've let me join this party.\"{w}",
+  "kind": "msg",
+  "len": 120
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11754",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1175f",
+  "en": "\"I'm Maniron~! Nice ta meetcha~!\"{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11794",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@117a1",
+  "en": "\"My name is Korbitz.{w}We may end up relying on each other from here on,{w}so let's look out for one another, eh?\"{w}",
+  "kind": "msg",
+  "len": 94
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11810",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1181b",
+  "en": "\"The name's Mokero, it is!{w}The Miss has done a whole heap for me,{w}and I'll be followin' the Miss for the rest o' my days!\"{w}",
+  "kind": "msg",
+  "len": 122
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@118a6",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@118b3",
+  "en": "\"Mokero, I keep telling you,\nyou don't have to be so formal...\"{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@118fa",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11905",
+  "en": "\"Miss! Don't go sayin' such cold things!{w}The debt I owe you, Miss, is............\"{w}",
+  "kind": "msg",
+  "len": 80
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11966",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11973",
+  "en": "\"Electra's a kind child, you see,{w}and took us in, just like this.{w}So please, all of you, be good to Electra.\"{w}",
+  "kind": "msg",
+  "len": 108
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@119f0",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@119fd",
+  "en": "\"Ugh, honestly! You're all exaggerating!{w}If someone's in trouble, I help them.{w}",
+  "kind": "msg",
+  "len": 70
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11a54",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11a61",
+  "en": "{0E}\"Ugh, honestly! You're all exaggerating!\nIf someone's in trouble, I help them.{0F}\nThat's only natural, right?\"{w}",
+  "kind": "msg",
+  "len": 92
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11ace",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11ad9",
+  "en": "\"Me too, y'know~ Electra once~\"{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11b0e",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11b1b",
+  "en": "\"Okay, okay, I get it!{w}Anyway, that's how it is, so be nice to all of us, okay?\"{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11b68",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11b71",
+  "en": "\"By the way... yours looks\nlike a pretty decent party.\"{w}",
+  "kind": "msg",
+  "len": 58
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11bbc",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11bc5",
+  "en": "\"We might end up competing with each other in all kinds of ways.{w}What do you say? How about you lot\nand us have a little test of skill?\"{w}",
+  "kind": "msg",
+  "len": 94
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11c34",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11c41",
+  "en": "\"Hey, Yamuru!\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11c6a",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11c73",
+  "en": "\"These are the people who'll be our rivals from here on.{w}We need to see what they can do now, don't we?\"{w}",
+  "kind": "msg",
+  "len": 84
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11cd8",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11ce5",
+  "en": "\"Well, that's...\"{w}",
+  "kind": "msg",
+  "len": 18
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11d08",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11d11",
+  "en": "\"Besides, you need the bounty money, right?{w}Or was this something you started half-heartedly?\"{w}",
+  "kind": "msg",
+  "len": 72
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11d6a",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11d71",
+  "en": "\"Electra, what'll we do?\nIf you're going to fight, I'll help, okay?\"{w}",
+  "kind": "msg",
+  "len": 72
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11dca",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11dd7",
+  "en": "\"............Okay, I've made up my mind!\"{w}{p}\"You guys, let's have a match!{w}All right, everyone, let's go!!\"{w}",
+  "kind": "msg",
+  "len": 100
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11e53",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11e5e",
+  "en": "\"Ooh~ I'm gonna lop off some heads~!\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11e8d",
+  "en": "Leave",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11eaa",
+  "en": "You sent Electra's party packing.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11edb",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11ee8",
+  "en": "\"Ow ow ow...{w}You guys are amazing...\"{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11f2b",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11f34",
+  "en": "\"Not bad at all.{w}Still, Electra,{w}your alchemy spells are as half-baked as ever.\"{w}",
+  "kind": "msg",
+  "len": 76
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11f91",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11f9c",
+  "en": "\"I wanted a Bulafei~~!\"{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11fd1",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@11fde",
+  "en": "\"Th-then go hide yourself!\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12011",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12018",
+  "en": "\"It's okay, Electra!\nYour alchemy spells will get better from here on!\"{w}",
+  "kind": "msg",
+  "len": 66
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1206b",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12078",
+  "en": "\"Th... thank you, Mig...\"{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@120ad",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@120ba",
+  "en": "\"It's all right,{w}there's no need to rush.\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@120f3",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@120fe",
+  "en": "\"I'll be lendin' a hand too, I will!\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12131",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1213e",
+  "en": "\"Everyone... thank you.{w}Okay, so that's how it is,{w}next time I'll be able to do a lot more!\"{w}{p}\"See you!\"{w}",
+  "kind": "msg",
+  "len": 116
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@121bb",
+  "en": "Electra and the others went on their way.{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@121fb",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1221f",
+  "en": "\"............\"",
+  "kind": "data",
+  "len": 30
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1223d",
+  "en": "Talk to them",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1225a",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12263",
+  "en": "\"Look, alchemy spells and Rangers go well together.{w}But if your success rate's low, it's pointless.\"{w}",
+  "kind": "msg",
+  "len": 92
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@122d0",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@122dd",
+  "en": "\"I know that already!{w}That's why I'm studying like this, okay!?\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12332",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1233d",
+  "en": "\"Don't be so hard on the Miss!{w}I'll be pitchin' in too, I will!\"{w}",
+  "kind": "msg",
+  "len": 74
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12398",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@123a3",
+  "en": "\"Maniron's gonna try hard too~!\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@123d2",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@123d9",
+  "en": "\"That's right, Electra!{w}You can't go through life bending your convictions!{w}You can still do it! Hang in there!\"{w}",
+  "kind": "msg",
+  "len": 100
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1244e",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1245b",
+  "en": "\"You're right... I'll try a little harder!\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12498",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@124a5",
+  "en": "\"There's no need to hurry, just go at your own pace...{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@124e2",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@124ef",
+  "en": "{0E}\"There's no need to hurry, just go at your own pace...{0F}\nOh?\"{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1253c",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12549",
+  "en": "\"Oh, it's you guys! What a coincidence!{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12576",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12583",
+  "en": "{0E}\"Oh, it's you guys! What a coincidence!{0F}\nHow's it going? Things are going great for us!\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@125d8",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@125e1",
+  "en": "\"Come to think of it, you got the better of us last time.{w}It won't go that way this time, got it?\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12636",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12643",
+  "en": "\"Yamuru, you're more hot-blooded than you look.{w}Didn't you have a rule about never doing anything that doesn't pay?\"{w}",
+  "kind": "msg",
+  "len": 112
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@126c4",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@126cd",
+  "en": "\"There's something I want to check...\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12706",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12711",
+  "en": "\"I'll be showin' what I'm made of too!\"{w}",
+  "kind": "msg",
+  "len": 36
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12752",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1275d",
+  "en": "\"Chop-chop, off with their heads~~~!\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1278c",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12799",
+  "en": "\"Hm? Fine by me, but...?{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@127c8",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@127d5",
+  "en": "{0E}\"Hm? Fine by me, but...{0F}\nOkay, everyone, let's go!\"{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1281f",
+  "en": "Leave",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1283c",
+  "en": "You sent Electra's party packing.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1286d",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12876",
+  "en": "\"...Just as I thought.\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@128a1",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@128ae",
+  "en": "\"What's wrong?\"{w}",
+  "kind": "msg",
+  "len": 20
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@128d3",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@128dc",
+  "en": "\"No, it's nothing.{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12907",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12910",
+  "en": "{0E}\"No, it's nothing.{0F}\nYou lot look like a pretty good party.\"{w}",
+  "kind": "msg",
+  "len": 74
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1296b",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12976",
+  "en": "\"Well, it's parties like ours, with a unicorn,\nthat are the rare ones, y'know.\"{w}",
+  "kind": "msg",
+  "len": 66
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@129c9",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@129d0",
+  "en": "\"Having me around is proof of Innocence, after all!\"{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12a11",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12a1a",
+  "en": "\"Yeah, yeah, you're absolutely right.\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12a49",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12a54",
+  "en": "\"Miss! It's about time we...\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12a81",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12a8e",
+  "en": "\"You're right.{w}",
+  "kind": "msg",
+  "len": 14
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12aad",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12aba",
+  "en": "{0E}\"You're right.{0F}\nWe won't lose next time, you hear? See you!\"{w}",
+  "kind": "msg",
+  "len": 52
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12af7",
+  "en": "Electra and the others went on their way.{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12b37",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12b5b",
+  "en": "\"Hmm...\"",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12b6b",
+  "en": "Talk to them",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12b88",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12b95",
+  "en": "\"But I really do need to study...{w}Even you can read and write, right, Yamuru?\"{w}",
+  "kind": "msg",
+  "len": 80
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12bf6",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12bff",
+  "en": "\"That's a harsh way to put it.\nWhat good is a bounty hunter who can't read a wanted poster?\"{w}",
+  "kind": "msg",
+  "len": 66
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12c52",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12c5d",
+  "en": "\"I can't read, but\nit's never been a problem, y'know?\"{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12c9e",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12cab",
+  "en": "\"I'll teach you, then.{w}Perhaps we'll hold a little study session one of these days, hm?\"{w}",
+  "kind": "msg",
+  "len": 58
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12cf6",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12d01",
+  "en": "\"I hate studyyying...\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12d2e",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12d3b",
+  "en": "\"But what about textbooks... and the money for them?\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12d78",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12d85",
+  "en": "\"Oh, we'll manage somehow.\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12db4",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12dbb",
+  "en": "\"Electra, Electra, look!\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12dee",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12dfb",
+  "en": "\"Oh! You again, in a place like this!\"{w}",
+  "kind": "msg",
+  "len": 30
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12e2a",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12e37",
+  "en": "\"We must share quite the bond of fate, eh?\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12e6e",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12e75",
+  "en": "\"We've been getting stronger too, you know,\nso we won't lose this time!\"{w}",
+  "kind": "msg",
+  "len": 62
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12ec4",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12ed1",
+  "en": "\"All right then,{w}let's go, everyone!\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12f05",
+  "en": "Leave",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12f22",
+  "en": "You sent Electra's party packing.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12f53",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12f5e",
+  "en": "\"Mighty impressive, as always!\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12f87",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12f92",
+  "en": "\"Oh, that reminds me.\nDo you guys know anything about the Moonlight Spirit?\"{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12fd9",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@12fe2",
+  "en": "\"You really do march to your own beat.{w}The Moonlight Spirit? Don't you mean the Sun Spirit?\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13037",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13042",
+  "en": "\"Nope, the Moonlight Spirit.{w}I've been kinda sorta looking for it.{w}And since I can't find it, it bugs me even more~\"{w}",
+  "kind": "msg",
+  "len": 98
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@130b5",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@130c2",
+  "en": "\"One way or another, you guys sure know a lot...{w}I really do need to study.{w}",
+  "kind": "msg",
+  "len": 72
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1311b",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13128",
+  "en": "{0E}\"One way or another, you guys sure know a lot...\nI really do need to study.{0F}\nAnd I have to work harder at alchemy, too...\"{w}",
+  "kind": "msg",
+  "len": 116
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@131ad",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@131b6",
+  "en": "\"Then just change classes.\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@131e1",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@131ec",
+  "en": "\"Ninja! Ninja's the way to go!{w}YAMURU IS DECAPITATED!{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1323f",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1324a",
+  "en": "{0E}\"Ninja! Ninja's the way to go!\nYAMURU IS DECAPITATED!{0F}\n*ding* R.I.P.!\"{w}",
+  "kind": "msg",
+  "len": 72
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@132a8",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@132b1",
+  "en": "\"Why's it gotta be me!?\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@132dc",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@132e7",
+  "en": "\"Oh, pipe down.{w}We don't neeeed a thief who can't\neven disarm traps!\"{w}",
+  "kind": "msg",
+  "len": 70
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1333e",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13349",
+  "en": "\"You can just go end up\n    *INSIDE THE STONE*\nall by yourself!\"{w}",
+  "kind": "msg",
+  "len": 86
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@133b0",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@133bd",
+  "en": "\"W-wait a sec...\"{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@133f0",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@133f7",
+  "en": "\"That's right! Electra, don't give up!{w}You're gonna make loads of money as an alchemist, right?{w}Don't go bending your convictions!\"{w}",
+  "kind": "msg",
+  "len": 114
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1347a",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13487",
+  "en": "\"Mig...\"{w}",
+  "kind": "msg",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@134a8",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@134b1",
+  "en": "\"Look.{w}Electra, you need to knock it off too.{w}If you keep wavering any longer, I'm out.\"{w}",
+  "kind": "msg",
+  "len": 86
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13518",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13525",
+  "en": "\"Hold... on, Yamuru...{w}Where's this coming from all of a sudden...?\"{w}",
+  "kind": "msg",
+  "len": 54
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1356c",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13575",
+  "en": "\"Someone who's half-hearted drags everyone else down too.\"{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@135b0",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@135bb",
+  "en": "\"Aw, don't go sayin' that, chief!{w}I'll just dig in all the harder to make up for it!\"{w}",
+  "kind": "msg",
+  "len": 74
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13616",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1361d",
+  "en": "\"That's right!\nElectra's working really hard, you know!\"{w}",
+  "kind": "msg",
+  "len": 58
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13668",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13671",
+  "en": "\"You'd better think a little harder{w}about what you're actually\nsaying.\"{w}",
+  "kind": "msg",
+  "len": 72
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@136cf",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@136d6",
+  "en": "\"Says the one who's already changed classes!\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13703",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13710",
+  "en": "\"...Mig.\"{w}",
+  "kind": "msg",
+  "len": 16
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13731",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1373a",
+  "en": "\"...I'll stick with you a little longer, at least.{w}Studying's something you can start bit by bit, too.{w}Now give me an answer.\"{w}",
+  "kind": "msg",
+  "len": 100
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@137af",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@137bc",
+  "en": "\"......Yeah... You're right...\nI'll try a little harder...{w}...Is that okay?\"{w}",
+  "kind": "msg",
+  "len": 82
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1381f",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13828",
+  "en": "\"...Fine.{w}Anyway, we're moving on.{w}Hanging around here forever won't get us anywhere.\"{w}",
+  "kind": "msg",
+  "len": 84
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1388d",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1389a",
+  "en": "\"Right!{w}Well then, you guys take care too, okay?\"{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@138d1",
+  "en": "Electra and the others went on their way.{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13911",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13935",
+  "en": "\"Dvel Soft Steel and Frozen Elven Iron...\"",
+  "kind": "data",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1395d",
+  "en": "Talk to them",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1397a",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13987",
+  "en": "\"Those two make an Angel's Window...{w}I know that one, since I've made it before.{w}",
+  "kind": "msg",
+  "len": 70
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@139de",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@139eb",
+  "en": "{0E}\"Those two make an Angel's Window...\nI know that one, since I've made it before.{0F}\nAnd then Ma... Mazu... Mazu-ree-tay?\"{w}",
+  "kind": "msg",
+  "len": 108
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13a68",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13a73",
+  "en": "\"Miss, that'd be '-rite'...\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13aa0",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13aad",
+  "en": "\"Huh? Oh, so it's pronounced 'Mazurite'!\"{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13aec",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13af7",
+  "en": "\"...Heyyy, some alchemist you are~~...\"{w}",
+  "kind": "msg",
+  "len": 38
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13b33",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13b40",
+  "en": "\"B-but I know the real thing when I see it, and I can transmute it,{w}and I know what it's called and everything!{w}...Even if I didn't know how to read it.\"{w}",
+  "kind": "msg",
+  "len": 108
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13bbd",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13bca",
+  "en": "\"It's that sort of carelessness, you see,{w}that leaves you red-faced in front of others like this...{w}Now, can you spell 'Mazurite'?\"{w}",
+  "kind": "msg",
+  "len": 104
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13c43",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13c50",
+  "en": "\"Um... 'Mazuright'...\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13c81",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13c8c",
+  "en": "\"Ooh, that's our Miss! Beautifully done!\"{w}",
+  "kind": "msg",
+  "len": 40
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13cc5",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13cd0",
+  "en": "\"...Isn't that kinda wrong-ish?\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13cfd",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13d06",
+  "en": "\"'Mazurite'... Like this.\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13d38",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13d45",
+  "en": "\"It looks close and it sounds the same, so who cares!\"{w}",
+  "kind": "msg",
+  "len": 48
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13d86",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13d93",
+  "en": "\"Now, now, take your time learning it.{w}I'd call that... sixty out of a hundred, shall we say.\"{w}",
+  "kind": "msg",
+  "len": 76
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13df0",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13df7",
+  "en": "\"Way to go, Electra!\nThat's a better score than last time!\"{w}",
+  "kind": "msg",
+  "len": 60
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13e44",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13e51",
+  "en": "\"I guess so.........{w}Hmm, with this stuff, I guess the only way\nis to write it out a lot until it sticks...\"{w}",
+  "kind": "msg",
+  "len": 84
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13eb6",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13ebd",
+  "en": "\"...Electra?\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13ee6",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13ef1",
+  "en": "\"Ahahahaha!\nMig, Electra thinks you're a pest!\"{w}",
+  "kind": "msg",
+  "len": 64
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13f42",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13f4f",
+  "en": "\"Huh!? That's not true, Mig!\nThank you, okay?\"{w}",
+  "kind": "msg",
+  "len": 56
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13f98",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13f9f",
+  "en": "\"...Am I getting in your way, Electra?\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13fdc",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@13fe9",
+  "en": "\"You're overthinking it. It's fine!{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14014",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14021",
+  "en": "{0E}\"You're overthinking it. It's fine!{0F}\nOh, it is you guys.{w}Sorry I'm always so slow to notice!\"{w}",
+  "kind": "msg",
+  "len": 98
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14094",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1409f",
+  "en": "\"Maybe they're all ninjas?{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@140d6",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@140e1",
+  "en": "{0E}\"Maybe they're all ninjas?{0F}\nChop! Off with their heads!\"{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14124",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1412f",
+  "en": "\"Nah, nah, maybe{w}every last one of 'em's a thief,\nsame as me, eh?\"{w}",
+  "kind": "msg",
+  "len": 78
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1418e",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1419b",
+  "en": "\"Okay, okay, that's enough!{w}Now then, let's put all that studying to the test!{w}...Mig?\"{w}",
+  "kind": "msg",
+  "len": 90
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14206",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1420d",
+  "en": "\"No, it's nothing, Electra!\nLet's show them what we can do!\"{w}",
+  "kind": "msg",
+  "len": 68
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14262",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1426f",
+  "en": "\"Yeah, let's!\"{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14293",
+  "en": "Leave",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@142b0",
+  "en": "You sent Electra's party packing.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@142e1",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@142ec",
+  "en": "\"...Heeeads!!\"{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14313",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1431a",
+  "en": "\"...Electra, am I really not getting in your way?\"{w}",
+  "kind": "msg",
+  "len": 50
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1435d",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1436a",
+  "en": "\"Seriously, what's wrong?{w}Of course you're not.\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@143a7",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@143ae",
+  "en": "\"But we couldn't win this time either...{w}Electra, could it be you actually want to change classes?{w}Because if you do, I...\"{w}",
+  "kind": "msg",
+  "len": 106
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14429",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14432",
+  "en": "\"Took you long enough to figure it out.\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14462",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1446f",
+  "en": "\"Yamuru!{w}",
+  "kind": "msg",
+  "len": 14
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1448e",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1449b",
+  "en": "{0E}\"Yamuru!{0F}\n...It's all right, okay?\"{w}{p}\"If I wanted to change classes, I wouldn't be studying alchemy.{w}I'm studying like this because\nI decided to keep at it, see?\"{w}",
+  "kind": "msg",
+  "len": 156
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14548",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1454f",
+  "en": "\"Really? Are you really sure?\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14580",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1458d",
+  "en": "\"Really.\nThe more I learn, the more I can do,{w}and I keep wondering what I'll be able to do next...\"{w}{p}\"Lately studying's been so much fun I can hardly stand it.{w}Maybe I should've started sooner?\"{w}{p}\"So you keep cheering me on, just like that,{w}so I don't run away from it.{w}That way I can try all the harder. ...Is that okay?\"{w}",
+  "kind": "msg",
+  "len": 300
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@146ca",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@146d1",
+  "en": "\"...Yeah! If you're asking, Electra,\nI'll cheer you on forever and ever!{w}Go for it, Electra! I'll always be with you!!\"{w}",
+  "kind": "msg",
+  "len": 118
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14758",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14761",
+  "en": "\"Ugh, now the noisy one's back to normal...\"{w}",
+  "kind": "msg",
+  "len": 44
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@147aa",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@147b5",
+  "en": "\"Hey, you! I'll chop your head off!\nRead the room!\"{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@147f0",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@147fb",
+  "en": "\"Reckon that's a happy endin' all round, eh?\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1482c",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14839",
+  "en": "\"So it would seem.\"{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14860",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1486d",
+  "en": "\"All right, you guys!\nIt won't go the same way next time, okay?{w}Well then, take care!\"{w}",
+  "kind": "msg",
+  "len": 84
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@148ca",
+  "en": "Electra and the others went on their way.{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1490a",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1492e",
+  "en": "\"Oh?\"",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@1493a",
+  "en": "Talk to them",
+  "kind": "data",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14947",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14954",
+  "en": "\"How are you guys doing?{w}We're doing great over here.{w}I've learned a whole lot more letters, too!\"{w}",
+  "kind": "msg",
+  "len": 80
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@149b5",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@149be",
+  "en": "\"Half-baked or not,{w}once you start something, you see it through till it's settled.{w}Otherwise nothing good ever comes of it...\"{w}",
+  "kind": "msg",
+  "len": 120
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14a47",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14a52",
+  "en": "\"...Sounds like someone's speakin' from experience!\"{w}",
+  "kind": "msg",
+  "len": 46
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14a91",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14a9e",
+  "en": "\"Words only ever come from what\na body has lived through, after all...\"{w}",
+  "kind": "msg",
+  "len": 72
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14af7",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14b02",
+  "en": "\"That's what they call\na contrary sort, right...?\"{w}",
+  "kind": "msg",
+  "len": 52
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14b4c",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14b55",
+  "en": "\"I am not!\"{w}",
+  "kind": "msg",
+  "len": 14
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14b74",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14b7b",
+  "en": "\"Go, Electra!\nI'll always be cheering for you!\"{w}",
+  "kind": "msg",
+  "len": 58
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14bc6",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14bd3",
+  "en": "\"Thanks, Mig.{w}Now then, you guys!{w}What do you say we do the usual?\"{w}",
+  "kind": "msg",
+  "len": 74
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14c2b",
+  "en": "Leave",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14c48",
+  "en": "You sent Electra's party packing.{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14c79",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14c86",
+  "en": "\"You're as good as ever!\"{w}",
+  "kind": "msg",
+  "len": 32
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14cb7",
+  "en": "Mig",
+  "kind": "name",
+  "len": 6
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14cbe",
+  "en": "\"I won't lose next time!\"{w}",
+  "kind": "msg",
+  "len": 26
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14cf5",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14d00",
+  "en": "\"Off with ALL your heads!\"{w}",
+  "kind": "msg",
+  "len": 22
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14d27",
+  "en": "Mokero",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14d32",
+  "en": "\"Mighty bloodthirsty, ain't it...\"{w}",
+  "kind": "msg",
+  "len": 28
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14d5f",
+  "en": "Korbitz",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14d6c",
+  "en": "\"Ah, the folly of youth, I suppose...\"{w}",
+  "kind": "msg",
+  "len": 24
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14d95",
+  "en": "Yamuru",
+  "kind": "name",
+  "len": 8
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14d9e",
+  "en": "\"You'd better look forward to next time, got it?{w}We'll be even stronger by then.\"{w}",
+  "kind": "msg",
+  "len": 64
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14def",
+  "en": "Electra",
+  "kind": "name",
+  "len": 12
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14dfc",
+  "en": "\"That's right!\nWell then, see you around!\"{w}",
+  "kind": "msg",
+  "len": 42
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14e2f",
+  "en": "Electra and the others went on their way.{w}",
+  "kind": "msg",
+  "len": 34
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14e63",
+  "en": "Maniron",
+  "kind": "name",
+  "len": 10
+ },
+ {
+  "id": "92081_FM_RIVAL_SCENE.bin@14e6e",
+  "en": "\"Ah! Don't you run away, you bastard!\nI didn't get to lop off a single head!\nHEEEADS!!\"{w}",
+  "kind": "msg",
+  "len": 74
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@14ee9",
+  "en": "A giant tornado struck you.{w}You tried to hold your ground, but the force of the wind slowly lifted you off your feet, and you were carried high into the sky whether you liked it or not.{w}",
+  "kind": "msg",
+  "len": 124
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@1544a",
+  "en": "Clues to '{0C:0001:0001}' can now be bought at the Temple of Rafa in Lumisthenes.{w}",
+  "kind": "msg",
+  "len": 88
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@15558",
+  "en": "Obtained {0B:0003:0000} Fame!",
+  "kind": "op096",
+  "len": 34
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@155df",
+  "en": "Green Plakio",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@155f1",
+  "en": "Blue Menon",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@155ff",
+  "en": "Selcoa Paint",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@1560f",
+  "en": "Celestial Readings",
+  "kind": "data",
+  "len": 14
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@1561d",
+  "en": "Wing Soul",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@1562d",
+  "en": "Old Man's Plans",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@1563d",
+  "en": "Cannon Tools",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@15647",
+  "en": "Seasoned Snacks",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@15657",
+  "en": "Alton's Treasure",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@15667",
+  "en": "Behiem Royal Tomb",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "92052_FM_KAZENO_FIJION_SCENE.bin@15679",
+  "en": "Gamea House Legacy",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@9f0",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@a02",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@a08",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@a0e",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@a18",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@198d",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@1995",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@19a7",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@19ad",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@19b3",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@19bd",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@221d",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@2225",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@2237",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@223d",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@2243",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@224d",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@3e79",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@3e8b",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@3e91",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@3e97",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@3ea1",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@6965",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@696d",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@697f",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@6985",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@698b",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@6995",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@9435",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@943d",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@944f",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@9455",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@945b",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@9465",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@9cb3",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@9cbb",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@9ccd",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@9cd3",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@9cd9",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@9ce3",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@a519",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@a521",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@a533",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@a539",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@a53f",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@a549",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@ada9",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@adb1",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@adc3",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@adc9",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@adcf",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@add9",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@b596",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@b59e",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@b5b0",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@b5b6",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@b5bc",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@b5c6",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@be46",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@be4e",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@be60",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@be66",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@be6c",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@be76",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@c7aa",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@c7b2",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@c7c4",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@c7ca",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@c7d0",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@c7da",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@f196",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@f19e",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@f1b0",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@f1b6",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@f1bc",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@f1c6",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@11403",
+  "en": "You fled from the Floor Master.",
+  "kind": "data",
+  "len": 38
+ },
+ {
+  "id": "extra@1559f",
+  "en": "No",
+  "kind": "data",
+  "len": 8
+ },
+ {
+  "id": "extra@155a7",
+  "en": "No one is here.",
+  "kind": "data",
+  "len": 18
+ },
+ {
+  "id": "extra@155b9",
+  "en": "Back",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@155bf",
+  "en": "None",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@155c5",
+  "en": "Lightstair Ruins",
+  "kind": "data",
+  "len": 10
+ },
+ {
+  "id": "extra@155cf",
+  "en": "Hemaid Red Stone",
+  "kind": "data",
+  "len": 16
+ },
+ {
+  "id": "extra@1987",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@2217",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@695f",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@942f",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@9cad",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@a513",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@ada3",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@b590",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@be40",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@c7a4",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@f190",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ },
+ {
+  "id": "extra@15599",
+  "en": "Yes",
+  "kind": "data",
+  "len": 6
+ }
+]

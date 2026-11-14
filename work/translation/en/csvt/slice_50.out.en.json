@@ -1,0 +1,371 @@
+[
+ {
+  "en": "Piety increased",
+  "kind": "desc"
+ },
+ {
+  "en": "Vitality increased",
+  "kind": "desc"
+ },
+ {
+  "en": "Agility increased",
+  "kind": "desc"
+ },
+ {
+  "en": "Luck increased",
+  "kind": "desc"
+ },
+ {
+  "en": "Strength decreased",
+  "kind": "desc"
+ },
+ {
+  "en": "Intellect decreased",
+  "kind": "desc"
+ },
+ {
+  "en": "Piety decreased",
+  "kind": "desc"
+ },
+ {
+  "en": "Vitality decreased",
+  "kind": "desc"
+ },
+ {
+  "en": "Agility decreased",
+  "kind": "desc"
+ },
+ {
+  "en": "Luck decreased",
+  "kind": "desc"
+ },
+ {
+  "en": "Aged 1 year",
+  "kind": "desc",
+  "note": "Subject (the item user) left implicit, as in the source; reads after a name or alone. Cf. EBOOT '%s aged %s years'."
+ },
+ {
+  "en": "Grew 1 year younger",
+  "kind": "desc",
+  "note": "Subject-less predicate (user implied), as 4103."
+ },
+ {
+  "en": "Aged 10 years",
+  "kind": "desc",
+  "note": "As 4103."
+ },
+ {
+  "en": "Gained purity",
+  "kind": "desc",
+  "note": "Designer note: resets the class-change count to 0. Kept the source's 'purity' (junketsu) rather than explaining the mechanic."
+ },
+ {
+  "en": "Breath element changed to Fire",
+  "kind": "desc",
+  "note": "Element words follow the breath names (EBOOT ebt slice_17: Fire/Ice/Lightning/Holy/Dark/Sleep/Venom/Paralysis/Silence/Confusion/Charm/Stone/Death Breath)."
+ },
+ {
+  "en": "Breath element changed to Ice",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Lightning",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Holy",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Dark",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Sleep",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Venom",
+  "kind": "desc",
+  "note": "moudoku: 'Venom' to match 'Venom Breath'; status list elsewhere says 'Poison'."
+ },
+ {
+  "en": "Breath element changed to Paralysis",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Silence",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Confusion",
+  "kind": "desc"
+ },
+ {
+  "en": "Breath element changed to Charm",
+  "kind": "desc",
+  "note": "miwaku (not miryou): 'Charm' as in 'Charm Breath'."
+ },
+ {
+  "en": "Breath element changed to Stone",
+  "kind": "desc",
+  "note": "sekika: 'Stone' as in 'Stone Breath' (status list uses 'Petrify')."
+ },
+ {
+  "en": "Breath element changed to Death",
+  "kind": "desc",
+  "note": "sokushi (instant death): 'Death' as in 'Death Breath'."
+ },
+ {
+  "en": "Breath element changed",
+  "kind": "desc",
+  "note": "Random element change."
+ },
+ {
+  "en": "Forgot all spells",
+  "kind": "desc",
+  "note": "Subject (user) implicit, as in source."
+ },
+ {
+  "en": "All maps reverted to unexplored",
+  "kind": "desc",
+  "note": "Source has a typo (mitou-ha for mitouha, 'unexplored'); meaning per designer note."
+ },
+ {
+  "en": "Max HP increased",
+  "kind": "desc"
+ },
+ {
+  "en": "MP was fully restored",
+  "kind": "desc"
+ },
+ {
+  "en": "Everyone's MP was fully restored",
+  "kind": "desc"
+ },
+ {
+  "en": "MP dropped to 0",
+  "kind": "desc"
+ },
+ {
+  "en": "Everyone's MP dropped to 0",
+  "kind": "desc",
+  "note": "Source reads 'zen'i' (goodwill), a typo for zen'in (everyone); designer note says all members' MP becomes 0."
+ },
+ {
+  "en": "Everyone's HP restored, ailments cured",
+  "kind": "desc",
+  "note": "Whole party: HP restored and status ailments cured."
+ },
+ {
+  "en": "Died",
+  "kind": "desc",
+  "note": "Subject (user) implicit, as in source; reads after a name or alone."
+ },
+ {
+  "en": "Turned to ash",
+  "kind": "desc",
+  "note": "Matches EBOOT 'turned to ash'."
+ },
+ {
+  "en": "It turned into Frostfire Chain Mail",
+  "kind": "desc",
+  "note": "Item name from ITEM (csvt slice_13). 'It' = the item being used/transformed."
+ },
+ {
+  "en": "It turned into Goddess's Shield",
+  "kind": "desc"
+ },
+ {
+  "en": "It turned into Black Dream Cloak",
+  "kind": "desc"
+ },
+ {
+  "en": "It turned into Crimson Blade",
+  "kind": "desc"
+ },
+ {
+  "en": "It turned into Ring of Fellowship",
+  "kind": "desc"
+ },
+ {
+  "en": "It turned into Inro",
+  "kind": "desc"
+ },
+ {
+  "en": "It turned into Fundoshi-1",
+  "kind": "desc"
+ },
+ {
+  "en": "Blessed at the cost of their life",
+  "kind": "desc",
+  "note": "Designer note: user dies and becomes a Priest. Singular 'their' (user's gender unknown)."
+ },
+ {
+  "en": "Someone's gender was swapped",
+  "kind": "desc"
+ },
+ {
+  "en": "Mysterious letters rose into view",
+  "kind": "desc",
+  "note": "Same wording as the EBOOT copy of this line (ebt slice_01)."
+ },
+ {
+  "en": "Magic light enveloped their body",
+  "kind": "desc",
+  "note": "Designer note: only a Servant user becomes a Lord."
+ },
+ {
+  "en": "Went bald",
+  "kind": "desc",
+  "note": "Joke result; kept blunt."
+ },
+ {
+  "en": "Flames of passion engulfed the two",
+  "kind": "desc",
+  "note": "jounen no honoo: burning passion; 'the two' = the pair this item needs (failure text 4153 'Someone is missing')."
+ },
+ {
+  "en": "The Wand of Records glowed with Fame",
+  "kind": "desc",
+  "note": "Wand of Records (ITEM slice_15), Fame (glossary)."
+ },
+ {
+  "en": "Gained the power of contract",
+  "kind": "desc",
+  "note": "keiyaku no chikara: new term; 'contract' as in the Summoner/Spirit Contract strings. Subject (user) implicit."
+ },
+ {
+  "en": "A mysterious urge welled up",
+  "kind": "desc"
+ },
+ {
+  "en": "Traded all past experience for GP.",
+  "kind": "desc",
+  "note": "Source ends with a full stop; kept."
+ },
+ {
+  "en": "What will it be?",
+  "kind": "desc",
+  "note": "Lucky-dip item: 'What's going to come out?'"
+ },
+ {
+  "en": "Cannot receive the gods' blessing",
+  "kind": "desc",
+  "note": "Failure text shared by the six god-blessing rows (Blessing of ...)."
+ },
+ {
+  "en": "Nothing happened. Something's missing.",
+  "kind": "desc",
+  "note": "Source hedge 'seems to be' compressed to fit 40 bytes; full: 'Nothing happened. Something seems to be missing.' (49)."
+ },
+ {
+  "en": "Nothing happened",
+  "kind": "desc"
+ },
+ {
+  "en": "Someone is missing",
+  "kind": "desc",
+  "note": "Pairs with 4144: the effect needs two people."
+ },
+ {
+  "en": "Fame cannot be offered yet",
+  "kind": "desc",
+  "note": "Pairs with 4145."
+ },
+ {
+  "en": "Already has the power of contract",
+  "kind": "desc",
+  "note": "Pairs with 4146; subject (user) implicit."
+ },
+ {
+  "en": "Puts enemies to Sleep",
+  "kind": "desc",
+  "note": "The Fool. 'Enemies' = the opposing side (EBOOT results hit a whole side; cf. slice_51 'Enemies flee'). Status names capitalised."
+ },
+ {
+  "en": "Double magic damage",
+  "kind": "desc",
+  "note": "The Magician. Side not stated in source; EBOOT result is the drawer's side ('spell power rose')."
+ },
+ {
+  "en": "Poisons enemies",
+  "kind": "desc",
+  "note": "The High Priestess (moudoku = Poison status)."
+ },
+ {
+  "en": "Bans all physical attacks",
+  "kind": "desc",
+  "note": "The Empress; zen'in = everyone on both sides (EBOOT: 'Physical attacks are forbidden for everyone')."
+ },
+ {
+  "en": "Silences enemies",
+  "kind": "desc",
+  "note": "The Emperor."
+ },
+ {
+  "en": "Bans all skill actions",
+  "kind": "desc",
+  "note": "The Hierophant. Source says 'skill actions'; the EBOOT battle text calls them 'special actions'."
+ },
+ {
+  "en": "Charms enemies",
+  "kind": "desc",
+  "note": "The Lovers."
+ },
+ {
+  "en": "Raises evasion",
+  "kind": "desc",
+  "note": "The Chariot. Side not stated; EBOOT result is the drawer's side."
+ },
+ {
+  "en": "Good-aligned: 2x damage",
+  "kind": "desc",
+  "note": "Justice. Source as terse as this ('Good alignment's damage x2'); EBOOT result: 'Those of Good alignment were blessed', so most likely damage dealt."
+ },
+ {
+  "en": "Punishes passive fighting",
+  "kind": "desc",
+  "note": "The Hermit (EBOOT: 'Passive fighting has been forbidden')."
+ },
+ {
+  "en": "Randomizes turn order",
+  "kind": "desc",
+  "note": "Wheel of Fortune."
+ },
+ {
+  "en": "Double attack damage",
+  "kind": "desc",
+  "note": "Strength."
+ },
+ {
+  "en": "All evasion checks fail",
+  "kind": "desc",
+  "note": "The Hanged Man; zen'in = everyone."
+ },
+ {
+  "en": "Kills one enemy outright",
+  "kind": "desc",
+  "note": "Death (instant death)."
+ },
+ {
+  "en": "Neutral-aligned: 2x damage",
+  "kind": "desc",
+  "note": "Temperance; as 4185. Exactly 26 bytes."
+ },
+ {
+  "en": "Evil-aligned: 2x damage",
+  "kind": "desc",
+  "note": "The Devil; as 4185."
+ },
+ {
+  "en": "Confuses enemies",
+  "kind": "desc",
+  "note": "The Tower."
+ },
+ {
+  "en": "All attacks hit",
+  "kind": "desc",
+  "note": "The Star. Side not stated; EBOOT result is the drawer's side ('accuracy rose')."
+ }
+]

@@ -1,0 +1,366 @@
+[
+ {
+  "en": "You can't suspend your adventure on this floor.",
+  "kind": "help"
+ },
+ {
+  "en": "You can't cast spells here.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a command. Triangle: All-Out Attack, R: Command Repeat.",
+  "kind": "help",
+  "note": "Button labels follow the ebt battle help style (Square:/Triangle:)."
+ },
+ {
+  "en": "Choose a target to attack.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a skill to use.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose the equipment slot to change.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose who to guard.",
+  "kind": "help",
+  "note": "Matches ebt slice_12 'Choose who to guard'; battle command [JP] = Guard."
+ },
+ {
+  "en": "Choose a tarot card to use.",
+  "kind": "help"
+ },
+ {
+  "en": "No enemies found.",
+  "kind": "help",
+  "note": "Shown when no enemy can be targeted (e.g. enemies hiding)."
+ },
+ {
+  "en": "It's pitch dark!",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a command.",
+  "kind": "help",
+  "note": "Treasure chest command menu."
+ },
+ {
+  "en": "Choose a trap.",
+  "kind": "help",
+  "note": "Choose the trap to disarm."
+ },
+ {
+  "en": "Press Triangle to show the map legend.",
+  "kind": "help"
+ },
+ {
+  "en": "Press Triangle to return to the normal map.",
+  "kind": "help"
+ },
+ {
+  "en": "In the darkness, the map can't be opened by any means but a spell.",
+  "kind": "help",
+  "note": "Dark zone."
+ },
+ {
+  "en": "You have no money.",
+  "kind": "help",
+  "note": "Spec-deleted row."
+ },
+ {
+  "en": "It isn't in the bag.",
+  "kind": "help",
+  "note": "Spec-deleted row."
+ },
+ {
+  "en": "There are no items that need uncursing or repair.",
+  "kind": "help",
+  "note": "Spec-deleted row; Uncurse/Repair per ebt slice_03."
+ },
+ {
+  "en": "There are no items you can sell.",
+  "kind": "help",
+  "note": "Spec-deleted row."
+ },
+ {
+  "en": "You can't sort your tarot cards.",
+  "kind": "help",
+  "note": "Spec-deleted row; [JP] = sort/organize."
+ },
+ {
+  "en": "You can't go to the Colored Corridor.",
+  "kind": "help",
+  "note": "Spec-deleted row. [JP] not in glossary; 'Colored Corridor' taken from column_spec (EL_SAI). Check against the EL_SAI/UI translation."
+ },
+ {
+  "en": "You can't go to the Recorded History.",
+  "kind": "help",
+  "note": "Spec-deleted row. 'Recorded History' per column_spec (EL_KIRO); ebt slice_02 has 'Choose a recorded history.'"
+ },
+ {
+  "en": "You can't go to the World Map.",
+  "kind": "help",
+  "note": "Spec-deleted row; World Map per ebt slice_13."
+ },
+ {
+  "en": "You have no cursed items.",
+  "kind": "help",
+  "note": "Kernel shop context (spec-deleted)."
+ },
+ {
+  "en": "You have no items that need repair.",
+  "kind": "help",
+  "note": "Spec-deleted."
+ },
+ {
+  "en": "You have no items in the bag.",
+  "kind": "help",
+  "note": "Spec-deleted."
+ },
+ {
+  "en": "You have no tarot items.",
+  "kind": "help",
+  "note": "Spec-deleted."
+ },
+ {
+  "en": "It can't be taken out.",
+  "kind": "help",
+  "note": "Spec-deleted."
+ },
+ {
+  "en": "You don't have the Smithing skill.",
+  "kind": "help",
+  "note": "Spec-deleted; skill [JP] = Smith (ebt slice_05 'Smith/Alchemy/Dismantle/Storage')."
+ },
+ {
+  "en": "You don't have the Alchemy skill.",
+  "kind": "help",
+  "note": "Spec-deleted."
+ },
+ {
+  "en": "You don't have the Dismantle skill.",
+  "kind": "help",
+  "note": "Spec-deleted; [JP] = Dismantle (ebt slice_03/05)."
+ },
+ {
+  "en": "(Not Set)",
+  "kind": "name",
+  "note": "Placeholder item name."
+ },
+ {
+  "en": "Junk",
+  "kind": "name",
+  "note": "Matches ?Junk (ebt slice_17)."
+ },
+ {
+  "en": "Long Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Scimitar",
+  "kind": "name"
+ },
+ {
+  "en": "Rusty Long Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Broadsword",
+  "kind": "name"
+ },
+ {
+  "en": "Long Sword +1",
+  "kind": "name"
+ },
+ {
+  "en": "Beast-Bone Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Innocent Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Palindroma",
+  "kind": "name",
+  "note": "New name: romanized; double-ended blade (palindrome pun)."
+ },
+ {
+  "en": "Thunderbolt Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Evil Saber",
+  "kind": "name"
+ },
+ {
+  "en": "Sagabringer",
+  "kind": "name",
+  "note": "New name (Stormbringer-style pun on 'saga')."
+ },
+ {
+  "en": "Hyakka Sword",
+  "kind": "name",
+  "note": "New name: [JP] romanized (golden ornamental sword); meaning of [JP] unclear, possibly pun on [JP] 'hundred flowers'."
+ },
+ {
+  "en": "King's Sword",
+  "kind": "name",
+  "note": "max 14."
+ },
+ {
+  "en": "Neil Amues",
+  "kind": "name",
+  "note": "New name: romanization of [JP] uncertain (knight's sword, male only)."
+ },
+ {
+  "en": "Diamond Blade",
+  "kind": "name"
+ },
+ {
+  "en": "Alverstar",
+  "kind": "name",
+  "note": "New name: also the gem set in the blade."
+ },
+ {
+  "en": "Holy Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Evening Calm Foil",
+  "kind": "name",
+  "note": "[JP] = foil (fencing); [JP] = evening calm at sea."
+ },
+ {
+  "en": "Crimson Blade",
+  "kind": "name"
+ },
+ {
+  "en": "Chopper Sword",
+  "kind": "name",
+  "note": "[JP] = rough slang 'hack apart'; desc says more axe than sword."
+ },
+ {
+  "en": "Varios Sword",
+  "kind": "name",
+  "note": "New name: [JP] romanized as Varios (equippable only by the third gender); Barios also possible."
+ },
+ {
+  "en": "Bastard Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Flamberge",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Dragon Killer",
+  "kind": "name"
+ },
+ {
+  "en": "Blade of the Nether",
+  "kind": "name",
+  "note": "[JP]: 'treasure sword of Yomi'; 'Nether' follows glossary 'Nether King'. [JP] dropped for fit (Nether Treasure Blade = 21)."
+ },
+ {
+  "en": "Claymore",
+  "kind": "name"
+ },
+ {
+  "en": "Dagger",
+  "kind": "name"
+ },
+ {
+  "en": "Short Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Kukri",
+  "kind": "name"
+ },
+ {
+  "en": "Stiletto",
+  "kind": "name"
+ },
+ {
+  "en": "Rusty Dagger",
+  "kind": "name",
+  "note": "[JP] category = ?Dagger (ebt slice_17)."
+ },
+ {
+  "en": "Jamadhar",
+  "kind": "name"
+ },
+ {
+  "en": "Swift Dagger",
+  "kind": "name",
+  "note": "[JP] = quick work/sleight."
+ },
+ {
+  "en": "Defensive Dagger",
+  "kind": "name"
+ },
+ {
+  "en": "Dazzling Dagger",
+  "kind": "name",
+  "note": "[JP]: blade pattern scatters light and confuses foes."
+ },
+ {
+  "en": "Chimera Dagger",
+  "kind": "name"
+ },
+ {
+  "en": "Circle Blade",
+  "kind": "name"
+ },
+ {
+  "en": "Blood-Soaked Dagger",
+  "kind": "name",
+  "note": "[JP]: dagger that has drunk adventurers' blood."
+ },
+ {
+  "en": "Dagger of Kelhens",
+  "kind": "name",
+  "note": "New name: [JP] romanized Kelhens."
+ },
+ {
+  "en": "Scramasax",
+  "kind": "name"
+ },
+ {
+  "en": "Sword of Azoth",
+  "kind": "name"
+ },
+ {
+  "en": "Silberam",
+  "kind": "name",
+  "note": "New name: romanized (glass-iron spiral blade)."
+ },
+ {
+  "en": "Happy Seven",
+  "kind": "name"
+ },
+ {
+  "en": "Marquise Knife",
+  "kind": "name",
+  "note": "Named after the marquise gem cut."
+ },
+ {
+  "en": "Vile Blade Ramshanok",
+  "kind": "name",
+  "note": "New name Ramshanok; exactly 20 bytes."
+ },
+ {
+  "en": "Silver Rapier",
+  "kind": "name"
+ },
+ {
+  "en": "Katana",
+  "kind": "name",
+  "note": "Matches ?Katana."
+ }
+]

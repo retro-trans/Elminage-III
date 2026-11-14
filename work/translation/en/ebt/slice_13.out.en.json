@@ -1,0 +1,362 @@
+[
+ {
+  "en": "Al",
+  "kind": "ui",
+  "note": "Spell-school abbreviation (Alchemy), one kanji = 2 columns; matches slice_12 rows 991-992 (Mg, Pr)."
+ },
+ {
+  "en": "Su",
+  "kind": "ui",
+  "note": "Spell-school abbreviation (Summon), 2 columns; see row 993."
+ },
+ {
+  "en": "  The current contract will be cancelled.\n",
+  "kind": "ui",
+  "note": "Summoner contract (slice_07/12 'contract'). Leading 2 spaces and trailing line break kept."
+ },
+ {
+  "en": "Cannot summon",
+  "kind": "ui"
+ },
+ {
+  "en": "  Cannot summon\n",
+  "kind": "ui",
+  "note": "Indented log variant of row 996; layout kept."
+ },
+ {
+  "en": "Nothing has been summoned",
+  "kind": "ui",
+  "note": "Lit. '(you) have not summoned'; impersonal, actor not settled."
+ },
+ {
+  "en": "  Nothing has been summoned\n",
+  "kind": "ui",
+  "note": "Indented log variant of row 998."
+ },
+ {
+  "en": "The spell's target is hidden",
+  "kind": "ui"
+ },
+ {
+  "en": "There is no target for the spell",
+  "kind": "ui"
+ },
+ {
+  "en": "The equipment was removed",
+  "kind": "ui",
+  "note": "Removing your own gear (not Strip Gear, slice_12 row 961)."
+ },
+ {
+  "en": "The equipment can't be removed",
+  "kind": "ui",
+  "note": "e.g. cursed gear."
+ },
+ {
+  "en": "Cursed!",
+  "kind": "ui",
+  "note": "Lit. '(someone) was cursed'; no name insert, so kept subjectless. Source has no exclamation; added for the RPG-style alert."
+ },
+ {
+  "en": "Cannot be equipped",
+  "kind": "ui"
+ },
+ {
+  "en": "Cannot be used in this battle",
+  "kind": "ui",
+  "note": "Same idea as slice_12 row 959."
+ },
+ {
+  "en": "There are no items.\n",
+  "kind": "ui",
+  "note": "Same wording as slice_12 row 955; trailing line break kept."
+ },
+ {
+  "en": "Enemy front row",
+  "kind": "ui",
+  "note": "Spell/item target ranges 1008-1016."
+ },
+ {
+  "en": "All enemies",
+  "kind": "ui"
+ },
+ {
+  "en": "Cannot be cast right now",
+  "kind": "ui"
+ },
+ {
+  "en": "Enemy back row",
+  "kind": "ui"
+ },
+ {
+  "en": "Ally front row",
+  "kind": "ui"
+ },
+ {
+  "en": "Ally back row",
+  "kind": "ui"
+ },
+ {
+  "en": "Everyone",
+  "kind": "ui",
+  "note": "teki-mikata zentai = all enemies and allies."
+ },
+ {
+  "en": "All allies",
+  "kind": "ui"
+ },
+ {
+  "en": "Ally front/back row",
+  "kind": "ui",
+  "note": "mikata zengoei: assumed one ally row, front or back (distinct from 'All allies'). Unverified."
+ },
+ {
+  "en": "Cannot be used",
+  "kind": "ui"
+ },
+ {
+  "en": "Breath",
+  "kind": "ui",
+  "note": "Ability name as slice_12 rows 962/975. Copied with a 16-byte strncpy (code 0x08904254), so keep it under 16 bytes."
+ },
+ {
+  "en": "None",
+  "kind": "ui",
+  "note": "Head of the one-kanji status-abbreviation table (eb@0896fb90; slice_07 rows 556-566 Slp Psn ... Fear). Mu = no ailment. 4 chars, like Dead/Fear."
+ },
+ {
+  "en": "Par",
+  "kind": "ui",
+  "note": "Status abbreviation (paralysis), slice_07 set."
+ },
+ {
+  "en": "Cnf",
+  "kind": "ui",
+  "note": "Status abbreviation (confusion), slice_07 set."
+ },
+ {
+  "en": "OK",
+  "kind": "ui",
+  "note": "kenkou = healthy (no ailment). Wizardry-style 'OK'. Also heads the full status-name table (eb@08972c34, rows 1178+); 'Healthy' is the alternative if that table uses long forms."
+ },
+ {
+  "en": "%d:%d:Error",
+  "kind": "ui",
+  "note": "Debug; source writes 'error' in hiragana."
+ },
+ {
+  "en": "On",
+  "kind": "ui",
+  "note": "yuukou; toggle pair with row 1025 (same code at 0x088ec39c/3a0). Alt: Enabled."
+ },
+ {
+  "en": "Off",
+  "kind": "ui",
+  "note": "muukou; 4 uses. Alt: Disabled / Invalid."
+ },
+ {
+  "en": "O",
+  "kind": "ui",
+  "note": "Ideographic circle mark -> 'O', as slice_03 row 161."
+ },
+ {
+  "en": "  Now",
+  "kind": "ui",
+  "note": "Leading full-width space -> 2 ASCII spaces. Pair with row 1028 (current vs after change). 'Current' would be 9 columns vs 6."
+ },
+ {
+  "en": "After",
+  "kind": "ui",
+  "note": "henkougo = after the change. Pair with row 1027."
+ },
+ {
+  "en": "Adventurers' actions",
+  "kind": "ui",
+  "note": "Action Order screen (slice_12 term). Glossary: adventurer."
+ },
+ {
+  "en": "Monsters' actions",
+  "kind": "ui"
+ },
+ {
+  "en": "%s's actions",
+  "kind": "ui",
+  "note": "%s = actor name (assumed)."
+ },
+ {
+  "en": "Action Order",
+  "kind": "ui",
+  "note": "koudoujun shitei; same term as slice_12 row 965 ('L: Action Order')."
+ },
+ {
+  "en": "1: %s",
+  "kind": "ui",
+  "note": "Full-width digit and colon -> ASCII. 4 uses."
+ },
+ {
+  "en": "?Asleep",
+  "kind": "ui",
+  "note": "Leading '?' KEPT on purpose: the row starts at odd address eb@08971183; that 0x3F byte is the last byte of the float 1.0 before it. The code reads the real string from 0x08971184. Writing '?Asleep' in place keeps the float intact. 7/11 bytes."
+ },
+ {
+  "en": "Silenced",
+  "kind": "ui",
+  "note": "Status descriptions 1036-1042 (te iru = is in that state); adjectives so they read as a list or after a name."
+ },
+ {
+  "en": "Charmed",
+  "kind": "ui"
+ },
+ {
+  "en": "Confused",
+  "kind": "ui"
+ },
+ {
+  "en": "Paralyzed",
+  "kind": "ui"
+ },
+ {
+  "en": "Petrified",
+  "kind": "ui"
+ },
+ {
+  "en": "Cursed",
+  "kind": "ui"
+ },
+ {
+  "en": "Light",
+  "kind": "ui",
+  "note": "Party buff labels 1043-1047 (pointer table eb@08971218). shoumei = light spell effect."
+ },
+ {
+  "en": "Protect",
+  "kind": "ui",
+  "note": "hogo = protection (AC buff, assumed)."
+ },
+ {
+  "en": "Float",
+  "kind": "ui",
+  "note": "fuyuu = levitation."
+ },
+ {
+  "en": "Bless",
+  "kind": "ui",
+  "note": "shukufuku = blessing."
+ },
+ {
+  "en": "Inf Range",
+  "kind": "ui",
+  "note": "shatei mugen = infinite-range attribute (SPELL_TEXT 67 grants it). Infinity -> 'Inf' as slice_03 row 164."
+ },
+ {
+  "en": "A",
+  "kind": "ui",
+  "note": "Adventurer-side marker in Action Order (code 0x088f5d88). Pairs with row 1049 (mo, monster side), which is in no slice: it should become 'M'."
+ },
+ {
+  "en": "A/M",
+  "kind": "ui",
+  "note": "Both sides (adventurer + monster markers combined). No code ref found; 4-byte in-place slot, 3 bytes used."
+ },
+ {
+  "en": "Promotion",
+  "kind": "ui",
+  "note": "Battle-log line: ROUTINE.CSV 28 says the Pawn monster turns into Opinion Bit Q from turn 3 and the log shows this word (chess pawn promotion)."
+ },
+ {
+  "en": "%s's level\ndropped by %d.",
+  "kind": "ui",
+  "note": "Placeholder order kept; one line break as source."
+ },
+ {
+  "en": "Inspection spells can't be used",
+  "kind": "ui",
+  "note": "chousa jumon = the trap-inspection spell (Portol, slice_12 row 942). Impersonal: the reason (no caster/MP) is not stated."
+ },
+ {
+  "en": "Unlocking spells can't be used",
+  "kind": "ui",
+  "note": "kaijou jumon = the disarm/unlock spell (High Portol, slice_12 row 943)."
+ },
+ {
+  "en": "You walked away.",
+  "kind": "ui",
+  "note": "Chest menu 'Leave' result (slice_12 row 945). Subject = the party ('you', as slice_03 row 207)."
+ },
+ {
+  "en": "%s failed to disarm the trap",
+  "kind": "ui"
+ },
+ {
+  "en": "There was no trap",
+  "kind": "ui",
+  "note": "After disarm attempt: the chest had no trap."
+ },
+ {
+  "en": "There seems to be no trap",
+  "kind": "ui",
+  "note": "Inspection result (uncertain reading)."
+ },
+ {
+  "en": "Couldn't identify it.",
+  "kind": "ui",
+  "note": "Final period kept from source."
+ },
+ {
+  "en": "ID failed",
+  "kind": "ui",
+  "note": "shikibetsu shippai; short label, 2 uses."
+ },
+ {
+  "en": "Unidentified",
+  "kind": "ui",
+  "note": "mi-shikibetsu, 2 uses."
+ },
+ {
+  "en": "---",
+  "kind": "ui",
+  "note": "Full-width dashes -> ASCII, same count. 2 uses (one in the element list after Holy/Dark)."
+ },
+ {
+  "en": "The chest opened.",
+  "kind": "ui"
+ },
+ {
+  "en": "Obtained \"%s\"",
+  "kind": "ui",
+  "note": "Quote brackets -> double quotes."
+ },
+ {
+  "en": "\"%s\" was sent to the Alchemy Storage by the Mysterious Bag",
+  "kind": "ui",
+  "note": "Alchemy Storage (wmap slice_06), Mysterious Bag (slice_09 row 752)."
+ },
+ {
+  "en": "There was an item inside, but you couldn't carry it",
+  "kind": "ui",
+  "note": "mochikirenakatta = could not carry any more (inventory full)."
+ },
+ {
+  "en": "Warning: item data #%d is duplicated\n",
+  "kind": "ui",
+  "note": "Debug log."
+ },
+ {
+  "en": "AC=%3d, Slay=(Mg%d,Ud%d,Sp%d,In%d,An%d,My%d,Gh%d,Dm%d,Dr%d,Fi%d,Ma%d,Pr%d,Th%d,Bs%d,Gi%d,Gd%d),Status=%d,ShopPos=%d\n",
+  "kind": "ui",
+  "note": "Debug printf (item table dump), in-place tail of 'item[%3d] = %-20s,<tab>' (row starts after the tab). Slay = baida (slice_02 'Slaying'). Creature types: magic creature, undead, spirit, insect, animal, mythical beast, ghost, demon, dragon, fighter, mage, priest, thief, beastman, giant, divine shadow."
+ },
+ {
+  "en": "spell_table[%3d] = %-20s,level=%d, dmg=%3d~%3d,%s,stat_op_type=%d\n",
+  "kind": "ui",
+  "note": "Debug printf. Full-width wave dash -> '~'. status-manipulation type -> stat_op_type."
+ },
+ {
+  "en": "Tgt=%d, Evade=%d\n",
+  "kind": "ui",
+  "note": "Debug printf tail of trap.csv dump ('%-20s,<tab>' precedes it in place). 17/19 bytes."
+ },
+ {
+  "en": "World Map",
+  "kind": "ui"
+ }
+]

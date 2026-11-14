@@ -1,0 +1,348 @@
+[
+ {
+  "en": "A ragged sash handed down from the previous\ngeneration. It looks tattered enough to tear\nany moment, yet it is so tough that it won't\ntear easily. Wearing this sash will straighten\nyou up -- not just your clothes, but your\nheart and spirit too.",
+  "kind": "desc"
+ },
+ {
+  "en": "A blanket with a picture of Impala Banchou on\nit. It is said to be a replica of the favorite\nblanket of a certain country's queen. Like the\noriginal, it even reproduces the rich aroma.",
+  "kind": "desc",
+  "note": "New name: Impala Banchou (inpara banchou, banchou = gang boss), romanized. 'a certain country's queen' = [JP] (probably Ragnastia; not named, so kept vague)."
+ },
+ {
+  "en": "Princess Leafa: \"Going off on your next\nadventure without a word to me -- what nerve!?\nSo suddenly! What am I... supposed to... Um...\nAre you really... leaving...? ...I see. Very\nwell. Then take this sword. Even under another\nsky, you are my proud Sweet Ginger Knights!\"",
+  "kind": "desc",
+  "note": "New names: Princess Leafa (riifa; matches the 'Leaf Blade' pun), Sweet Ginger Knights (suwiito jinjaa kishidan). Elminage II farewell-gift text."
+ },
+ {
+  "en": "A historic costume made for bards with the\nfinest voices. It bears the 'habits' of the\ngreat bards who wore it, so it guides the\nwearer's posture, and they say it lets them\nsing as finely as those before. It is also\nsaid to shift through seven colors with the\nquality of the voice.",
+  "kind": "desc"
+ },
+ {
+  "en": "Grand Merchant Walmitt: \"Hello in this form,\neh? Keeping well? Gregorio -- I thought him\nuseless, but he turned out good at splitting\nwood. He's at it happily now. With that face.\nI'm not the sentimental type, but... take this\nhat. Adventure in it, and don't get swindled\nby shady merchants! Farewell.\"",
+  "kind": "desc",
+  "note": "Walmitt as in ebt glossary. New name: Gregorio. Compressed to fit: 'You'll adventure in my hat, so don't let a strange merchant fool you' -> 'Adventure in it, and don't get swindled by shady merchants!'."
+ },
+ {
+  "en": "Jela: \"I wanted the boss to say goodbye too,\nbut the boss went nuts collecting hanafuda.\nA-ahaha...\" Jelatan: \"Jelatan ishn't to blame!\nBoss ish a maniac!\" \"From the two of us,\nhere's some armor.\" \"Shnacks too!\" \"I'll\nalways be praying you're all safe. Come back\nsometimes!\" \"Yesh!\"",
+  "kind": "desc",
+  "note": "Jela (as in 'Jela's General Store'); New name: Jelatan (jeratan, baby-talk -deshu rendered as a lisp: 'ish', 'Shnacks', 'Yesh!'). The boss (oyakata): gender unknown, so no pronoun. Wording lightly compressed; the unlabelled quotes keep the source order (Jela / Jelatan alternate) with no added speaker tags."
+ },
+ {
+  "en": "Archbishop Mersenne: \"Ngh... HAAAAAAH!! It's\nMersenne! Thanks for helping Namina the other\nday. She then passed the cathedral's\nordination exam with flying colors and now\nserves at Semnadoc! Now it's our turn to help.\nI'm sending you this staff. Feels lucky,\ndoesn't it? Blessings upon you!!\"",
+  "kind": "desc",
+  "note": "New names: Archbishop Mersenne, Namina. Semnadoc as in 'Semnadoc Cathedral'. [JP] rendered 'ordination exam'."
+ },
+ {
+  "en": "An anklet wrapped in fluffy fur given a sleep\neffect, made from the pelt of an animal that\ndied in hibernation. Adds sleep to any bow and\narrow. It also brings its owner sound sleep;\nwhen worn, it seems to pulse faintly,\nthump-thump.",
+  "kind": "desc"
+ },
+ {
+  "en": "A weapon whose pattern works as a magic seal,\nadding confusion to its owner's attacks.\nTracing the pattern with a finger or following\nit with the eye confuses anyone, owner or not,\nso handle it with care.",
+  "kind": "desc",
+  "note": "Source calls the anklet a 'weapon' (bow accessory); kept."
+ },
+ {
+  "en": "A weapon set with a charming jewel. Once the\njewel enters your sight, you cannot help being\ncharmed by its beauty. These jewels sell for\nhigh prices, but whether that is due to the\ncharm or to honest appraisal, no one can say.",
+  "kind": "desc"
+ },
+ {
+  "en": "An anklet that wraps loosed arrows in vacuum\nblades, giving them the power to behead. Now\nmass-produced, but the first was said to be a\nwind spirit in love with an adventurer who\nchanged form to stay with them forever. The\nBeheading Anklet you got... perhaps the one\nyou hold now is 'the one'.",
+  "kind": "desc",
+  "note": "[JP] -> 'vacuum blades' (item [JP] = Vacuum Blade). Adventurer's gender unknown: 'them'. "
+ },
+ {
+  "en": "An anklet that senses magic and makes arrows\nfly straight at its source. Made by Yuja, a\nwitch tormented by past sins and cursed so she\ncould not take her own life, so that Polyte\nwould shoot her. Legend says Polyte's\nsuperhuman skill avoided a fatal wound, and\nYuja, persuaded, set off to atone.",
+  "kind": "desc",
+  "note": "New name: Yuja (yuuja). Polyte as in glossary."
+ },
+ {
+  "en": "King Montana: \"Looks like I made it in time.\nHeard you're off on a new adventure, so I\nlooked for a parting gift. How's this? Well,\nit's the only decent thing I had. Getting Holy\nGranny Ubogenya's Pubic Bone would just be\nsad, right? It's never been used! Go on, take\nthe leap! I know you can do it!\"",
+  "kind": "desc",
+  "note": "New names: King Montana, Granny Ubogenya (ubogeenya-baa). 'Holy Granny Ubogenya's Pubic Bone' is a joke item name, kept at full crudeness."
+ },
+ {
+  "en": "A sash said to be wearable only by those in\nholy orders. The moment it is put on, it peers\ninto the wearer's heart; if they are unfit, it\nslips right off. But if they are fit, it is\nsaid to bind tight and never come loose.",
+  "kind": "desc"
+ },
+ {
+  "en": "A charm blessed for family safety, success in\nstudies and such. It is given by parents or\nclose friends. Its power is uncertain. Still,\nit is a real joy to see how much someone cares\nfor you take shape like this.",
+  "kind": "desc"
+ },
+ {
+  "en": "A charm given when one must send loved ones\noff to a dangerous place. Unlike the everyday\ncharms handed out lightly, it carries the\ngiver's earnest prayer for a safe journey.\nWith it, your hearts will stay joined, however\nfar apart you are.",
+  "kind": "desc"
+ },
+ {
+  "en": "This armor exists not as an object, but as a\nmass of vibrations. Even deflecting a sword is\nreally the vibrations holding the blade back.\nIt has an affinity for water and is always\ncloaked in moisture, so it is sometimes\nmistaken for water-element armor.",
+  "kind": "desc"
+ },
+ {
+  "en": "A strangely shaped sword, as if it were\nnothing but floating bowstrings. It is said to\ncome apart into 11 parts, but only divine\nwisdom could take it apart, or so they\npredict. Its strokes are hard to read, so it\nshould prove very useful in real combat.",
+  "kind": "desc"
+ },
+ {
+  "en": "A military uniform only certain ranks may\nwear. Perhaps clothes shape the heart: even\nthe most pathetic soul who puts it on is said\nto stand up straight and speak crisply.",
+  "kind": "desc"
+ },
+ {
+  "en": "Its maker prayed for travelers' safety by the\nname carved inside the jewel. But whose name\ncould it be? If you have it, prayer will give\nyou strength to face every hardship. Treasure\nit until you have truly grown strong. Altouche\ndoes not choose its owner; it will protect\nyou.",
+  "kind": "desc"
+ },
+ {
+  "en": "A strange spear worn on the hand. Its tip\nspins, letting it attack by boring holes into\nthe foe's body. It is said to pair well with\nmagic puppets.",
+  "kind": "desc",
+  "note": "[JP] = magic puppet (glossary term)."
+ },
+ {
+  "en": "A lavishly ornamented magic gun. It looks like\na kind of bow, but as it was made by chance,\nhow it works is hard to grasp. Like a bow it\nhits distant foes, and with skill you can even\nbounce shots off walls to hit enemies hiding\nbehind cover.",
+  "kind": "desc"
+ },
+ {
+  "en": "An absurd weapon born of an accident. Its\nblade truly runs on endlessly, but\nweaponsmiths scorn it as heresy. Yet its\ncutting power is too good to ignore. Picture\nyour armor slowly being shaved away by this\nblade, and you won't sleep at night.",
+  "kind": "desc"
+ },
+ {
+  "en": "A tiger-striped loincloth. Wearing it, you\nfeel strength bulging through your muscles. If\nyou pick a weapon to match, it has to be a\nclub. Strike a cool, buff pose!",
+  "kind": "desc"
+ },
+ {
+  "en": "The finest fried rice, cooked fast over high\nheat so every grain is separate. One bite\nfeels like rice dancing in your mouth. As an\nitem it can be sold to shops, but it will\nnever be in stock.\nIt can be sold to shops, but it doesn't keep,\nso it will never be in stock.",
+  "kind": "desc",
+  "note": "The source itself holds two versions of the last sentence (an old and a revised one, on separate lines); both kept, one row in one row out. Drop the first if the build wants only one."
+ },
+ {
+  "en": "Shortcake made with lavish amounts of the\nfinest cream and the strawberries called the\nking of strawberries.\nAs an item it can be sold to shops, but it\nwill never be in stock.\nIt can be sold to shops, but it doesn't keep,\nso it will never be in stock.",
+  "kind": "desc",
+  "note": "Same duplicated last sentence as row 2134; both versions kept."
+ },
+ {
+  "en": "A scroll-shaped food said to have come from\nthe eastern lands. You lay vinegared rice and\nyour choice of fillings on seaweed, roll it up\nand eat it. It can be eaten one-handed, so it\nis popular with busy people.",
+  "kind": "desc",
+  "note": "'scroll-shaped': the item is in the scroll category."
+ },
+ {
+  "en": "Gauntlets made with the fur of a legendary\nfox. True to the tale of the fox that caught\nits prey with nimble moves, wearing them is\nsaid to let you dodge enemy attacks with ease.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword adorned with Politan, king of kings of\nall beasts. Only a king of kings can wield it,\nso its edge and worth are beyond measure. But\nsaid to be worth more than the sword is\nPolitan itself: catch one alive and the bounty\nwill keep three generations in idle luxury.",
+  "kind": "desc"
+ },
+ {
+  "en": "Every maid carries her pride as a maid, and\nthat pride shows in her headband. This\nheadband has a certain shine, bringing out its\nwearer's presence with modest boldness. Put it\non and you will awaken to your calling as a\nmaid.",
+  "kind": "desc",
+  "note": "Source sentence 2 is garbled ([JP]); read as 'it shines and brings out its wearer's presence'."
+ },
+ {
+  "en": "A sexy bikini made from turtle shell. Made for\nfemale adventurers who always want to be sexy,\nit manages to show off sexiness without giving\nup a fair amount of defense. If there is a\nfemale adventurer you like, why not give her\none as a present?",
+  "kind": "desc"
+ },
+ {
+  "en": "Throwing kunai bearing talismans with great\npower against evil spirits. The strong\ntalismans let them deal damage directly even\nto spirit bodies. Ninja are said to always\ncarry a Geimaga somewhere on them to deal with\nspirits.",
+  "kind": "desc",
+  "note": "Geimaga as in ITEM slice_16. The source ends on a comma (typo); ended with a period."
+ },
+ {
+  "en": "Rather flashy for glasses, but there is a\nreason. They hold a spell that lets you tell,\nlooking through them, whether you have seen\nsomething before or are seeing it for the\nfirst time. All this ornament exists for that\nspell.",
+  "kind": "desc"
+ },
+ {
+  "en": "Step right up, folks, if you're in no hurry!\nIt's everyone's favorite Lucky Bag! What's\ninside is a surprise for after you buy! Good\nand bad, all packed in together! But that's\nthe fun of it! So, what's inside? Getting\ncurious now, huh!! Buy quick before they're\ngone! First come, first served!!",
+  "kind": "desc"
+ },
+ {
+  "en": "** Work in progress **",
+  "kind": "desc",
+  "note": "Designer placeholder on the '(Enemy-only below)' separator row; translated literally."
+ },
+ {
+  "en": "A sticky fluid that many monsters make inside\ntheir bodies. Each monster's is different:\nsometimes it is plain liquid, sometimes it is\nlike a powerful acid that melts whatever it\ntouches in an instant.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sleep-inducing mist so thick you can see it.\nIt stays afloat in the air for a long time, so\nit can be packed into leather bags. There is\neven a technique for turning the packed mist\ninto sleeping medicine.",
+  "kind": "desc"
+ },
+ {
+  "en": "The fangs lining a monster's mouth. Perhaps\nthe slight curve is a design to keep bitten\nflesh from getting away.",
+  "kind": "desc"
+ },
+ {
+  "en": "The bloodless hand peculiar to the spirits of\nthe dead. The belief that a hand should be\nwarm makes it feel all the colder.",
+  "kind": "desc"
+ },
+ {
+  "en": "A weapon beasts are born with. Most curve like\nhooks and are used to scratch and tear. Their\ntips can also dig into the ground, letting\nbeasts run fast, among other things.",
+  "kind": "desc"
+ },
+ {
+  "en": "A venomous fang. It is somewhat modest in size\nnext to other fangs, but its sharpness and\nkilling power are vicious beyond compare. It\nbites and punches holes in the skin, then\npumps deadly venom from its tip to weaken the\nprey.",
+  "kind": "desc"
+ },
+ {
+  "en": "A monster's tentacle. They range from slimy\nones to vicious spiked ones. They are a\ntentacled monster's hands, and its weapons.",
+  "kind": "desc"
+ },
+ {
+  "en": "Rocks left untouched by human hands for ages\nare said to be spiritually sublimated and to\nhold special power. These are the rocks\nspirits attack with; the higher the\nsublimation, the more freely they can wield\nthem.",
+  "kind": "desc"
+ },
+ {
+  "en": "A technique that reacts keenly to the hearts\naround it. If a foe feels hostility toward the\nuser, it projects that hatred back as a\npsychic shockwave. The greater the foe's\nhatred, the stronger it gets. If you can treat\nall things with love, a Psi Blade will never\nhit you.",
+  "kind": "desc"
+ },
+ {
+  "en": "A blow from a tightly clenched fist is simple,\nyet deep. From an amateur, a normal punch\nmight hit harder, but if someone well-built\nbrings one down on you, be very wary.",
+  "kind": "desc"
+ },
+ {
+  "en": "Vines from an old tree. Their strength and\npower are nothing much, but their long reach\nlets them attack foes one-sidedly. We say 'old\ntree', but they are part of the monster's own\nbody, and many reportedly get angry at being\ncalled that.",
+  "kind": "desc"
+ },
+ {
+  "en": "A weapon monsters are born with, mostly\ngrowing from the head. It is mainly used to\ncharge and skewer a foe, but it can also meet\nyour weapon to parry swords and the like.",
+  "kind": "desc"
+ },
+ {
+  "en": "The claws of the Kin of Darkness. Being\nnatural, they differ little from us scratching\nwith our nails. But the foe uses them clearly\nas weapons, so do not underestimate them.",
+  "kind": "desc",
+  "note": "[JP] = Kin of Darkness (glossary)."
+ },
+ {
+  "en": "Condensed water fired like a bullet. Even mere\nwater becomes a terrifying weapon given speed\nand mass. A powerful monster can easily punch\nthrough plate mail with it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A stretchy sticky thread, strong and tacky. As\nliquid it hardens on contact with air and\ngrows strong like thread. The goo tingles to\nthe touch. Not a thread you want to touch, but\nsoaked in medicine it changes into fine\nthread, often used in crafts.",
+  "kind": "desc",
+  "note": "No ITEM name yet for [JP] (lit. 'numbing sticky thread'); the description never names it."
+ },
+ {
+  "en": "A claw far too sharp for an ordinary beast;\none look tells you it is dangerous. Wild\nanimals live where life and death are always\nside by side. Poke at one out of curiosity,\nand a weapon like this will beat nature's\nrules into your body.",
+  "kind": "desc"
+ },
+ {
+  "en": "A hand that radiates a dangerous will to draw\nyou into its kind. Higher spirits are said to\nbe not just cold: they can steal life force\nwith a mere touch.",
+  "kind": "desc",
+  "note": "[JP] rendered 'you'."
+ },
+ {
+  "en": "A technique that uses the centrifugal force of\nspinning to boost an attack. It says 'wheel',\nbut there need be no wheel. You may swing a\nsword in a circle around yourself, or ram a\nfoe while spinning.",
+  "kind": "desc"
+ },
+ {
+  "en": "The scythe of a giant mantis. How many insects\nhas that blade hunted? You may get it by\ndefeating its owner, but even a lifeless\nscythe must look like a threat to insects.",
+  "kind": "desc"
+ },
+ {
+  "en": "A tentacle its owner trained on purpose to\nattack with, until it evolved into a weapon.\nIt hits with whip-like force, and at times\neven following its motion is hard. Unless you\ncan react even when you can't read it, assume\nyou have no chance to win.",
+  "kind": "desc"
+ },
+ {
+  "en": "A technique that controls the wind, makes a\nvacuum vortex in the air and slams it into a\nfoe. Spirits excel at it, and once you know\nthe magic principle it is surprisingly easy to\ncause. But even then it is hard to control, so\nwe cannot master it without training.",
+  "kind": "desc"
+ },
+ {
+  "en": "The rich buy the fangs of large beasts as\nornaments. Some adventurers make a living on\ncontract with them, cutting the fangs off\ntheir kills to sell.",
+  "kind": "desc"
+ },
+ {
+  "en": "The claw of a spirit with no body. Being\nwounded by a spirit body your attacks can't\neven touch is hard to accept.",
+  "kind": "desc"
+ },
+ {
+  "en": "A vine covered in sharp thorns. It can be used\nlike a spiked whip. The thorns are meant to\nanchor the vine and stick seeds onto birds and\nbeasts, so once they snag, yanking them out\neasily wounds the prey.",
+  "kind": "desc"
+ },
+ {
+  "en": "A deadly kick unleashed by four-legged beasts.\nA bullet-like blow born of wild muscle can\ndeal fatal damage even to a warrior who takes\nit unguarded. This is the power of nature.",
+  "kind": "desc",
+  "note": "No ITEM name yet for [JP] (lit. 'fierce hoof')."
+ },
+ {
+  "en": "A fang with stronger venom and bite than a\nnormal poison fang. It is shaped to slice\nwounds open, helping the venom spread. The\ntruly dangerous ones are said to kill you if\nyou just snag a finger on the poison fang of a\nslain beast.",
+  "kind": "desc"
+ },
+ {
+  "en": "They open and close slowly, but crustacean\nmuscle is said to let them cut anything. They\ncarve bone-in meat with ease; being caught\nbare would be deadly. Fight monsters with\nthese carefully, or you may watch a loved one\ntorn apart before your eyes, helpless.",
+  "kind": "desc"
+ },
+ {
+  "en": "A tail with a venomous stinger. Attacking with\na tail is like having an extra hand. That\nalone is a nuisance, but it carries poison\ntoo. Even a graze is dangerous, so if your foe\nhas one, mind your distance.",
+  "kind": "desc"
+ },
+ {
+  "en": "The claw of a lesser dragon. Lesser, yes, but\nstill a dragon's claw. It is very sharp, and\nits strength is beyond measure. Dragon claws\nare often used to make weapons and armor.",
+  "kind": "desc"
+ },
+ {
+  "en": "A so-called tongue kiss. What effect this\nattack has depends on who it's used on. But no\nattractive partner would go smooching just\nanyone. The only one who would attack like\nthis is... you-know-who.",
+  "kind": "desc",
+  "note": "No ITEM name yet for [JP]. [JP] read as 'the one it is used on'. [JP] (that one) kept gender-neutral as 'you-know-who'."
+ },
+ {
+  "en": "An arm imbued with fire magic. Some are born\nthat way; others wrap flames around it with\nmagic. It is common among fire spirits and the\nlike, but do not even think of copying it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A fang that releases a nerve venom. What makes\nit scary is that, however bad the odds, a\nsingle bite might turn the tables. If your foe\nhas one, be very careful.",
+  "kind": "desc"
+ },
+ {
+  "en": "The prow of a ghost ship. The old ship's\ngrudge has hardened at its tip, longing for a\nnew captain's orders. Weigh anchor! Read the\ncharts! Hard to starboard!! Now, whoever\nstands in our way, with this huge prow we'll\nriiiide them dooown~~~ R-A-M T-H-E-M!!",
+  "kind": "desc",
+  "note": "No ITEM name yet for [JP] (lit. 'hazy prow'). [JP] (run them over and kill) -> 'R-A-M T-H-E-M'; the spaced-out spelling keeps the chant."
+ },
+ {
+  "en": "A fang that sucks out life force. For the Kin\nof Night, it is a kind of refinement. Power is\nnot the point; the 'act' of sucking life force\nholds special meaning for them. They also love\nto enslave their prey, and many seem to fall\nunder their spell.",
+  "kind": "desc",
+  "note": "[JP] 'Kin of Night', patterned on glossary 'Kin of Darkness'."
+ },
+ {
+  "en": "Fangs of mighty beasts are also used as\nornaments and tools of sorcery. Unlike our\nweapons, a beast kills to live. So the power\nof beast fangs is held sacred, and many seek\nto share in it.",
+  "kind": "desc"
+ },
+ {
+  "en": "The hard beak of a bird. It depends on the\nkind, but a truly hard one can even bore out\nwood.",
+  "kind": "desc"
+ },
+ {
+  "en": "Made of strange ice that never melts. The\nsword itself is very fine, high-grade even\namong monsters' weapons. If you equip it,\nbring gloves: the bitter cold could give your\nhands frostbite.",
+  "kind": "desc"
+ },
+ {
+  "en": "Both bow and arrows are silver. A loosed arrow\npierces its target trailing glittering silver\nmotes. Its accuracy is said to vary greatly\nwith its owner's skill.",
+  "kind": "desc"
+ },
+ {
+  "en": "Originally a sword drawn in a painting. When\nthe painting took on magic and began moving\nfreely, the sword took form along with it. Now\nit can be swung like any ordinary sword.\nStrange, isn't it?",
+  "kind": "desc"
+ },
+ {
+  "en": "The claws of a fiend beast painted on a\ncanvas, given form along with the beast. Rumor\nsays their power depends on how good the\npainting is.",
+  "kind": "desc",
+  "note": "[JP] 'fiend beast', as in ITEM name 'Fiend Beast Claw'."
+ },
+ {
+  "en": "The claws of beasts that are no ordinary\nanimals, but have gained the power of\ndarkness. Made more savage, these fearsome\nclaws, built for pure destruction, overwhelm\nadventurers.",
+  "kind": "desc"
+ },
+ {
+  "en": "An ogre's broadblade. Clumsy-looking, but the\nperfect shape for smashing with brute force.\nThe grip is wound round and round with\nnon-slip cloth. Grip: excellent.",
+  "kind": "desc",
+  "note": "[JP] kept as the English 'excellent' joke."
+ },
+ {
+  "en": "One move derived from the fist is the\nUmeboshi, from the eastern lands. You make\nfists with both hands and grind them into both\nof the foe's temples. It works wonders on\nkids.",
+  "kind": "desc",
+  "note": "[JP] (umeboshi, the temple-grinding noogie) romanized as the move's name."
+ },
+ {
+  "en": "A finger shining as if divine. Its owner feels\nnothing, but to anyone else it is searing hot.\nIts normal attacks are strong, but it is\nvicious enough to turn a foe to stone just by\npointing at them.",
+  "kind": "desc"
+ },
+ {
+  "en": "Ordinary tentacles move vaguely, pushed by\nshifting body fluids, but this one is driven\nby real muscle. Think it's the same as before,\nand a supple, lashing arm will slap you.",
+  "kind": "desc"
+ }
+]

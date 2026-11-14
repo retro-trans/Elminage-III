@@ -1,0 +1,233 @@
+[
+ {
+  "en": "Saving screenshot...",
+  "kind": "ui"
+ },
+ {
+  "en": "Resuming...",
+  "kind": "ui",
+  "note": "Fukki shori = return/restore processing; likely shown when resuming after the screenshot or sleep. Could also be 'Restoring...'."
+ },
+ {
+  "en": "Alumite",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Arumaito = the word 'alumite' (anodized aluminium)."
+ },
+ {
+  "en": "Nicol",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). 'Nicol' chosen over gendered 'Nicole'."
+ },
+ {
+  "en": "So-Elia",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Double-hyphen separator rendered as '-'. Could be 'So-Eria'."
+ },
+ {
+  "en": "Massa",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...)."
+ },
+ {
+  "en": "Novent",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Could be 'Nobent'."
+ },
+ {
+  "en": "Wakasaa",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Long vowel written as doubled vowel."
+ },
+ {
+  "en": "VILER",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Full-width Latin -> ASCII."
+ },
+ {
+  "en": "Konsaisai",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...)."
+ },
+ {
+  "en": "Yomogi",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Fills max_bytes exactly (6)."
+ },
+ {
+  "en": "Geepoe",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...)."
+ },
+ {
+  "en": "Wasshii",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...)."
+ },
+ {
+  "en": "DDT",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Full-width Latin -> ASCII."
+ },
+ {
+  "en": "Nepda",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...)."
+ },
+ {
+  "en": "Dontesu",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). 'Don' + kana 'tesu' (pun on 'desu'?)."
+ },
+ {
+  "en": "Hahn",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Could be 'Haan'."
+ },
+ {
+  "en": "Piccano",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Could be 'Pikkano'."
+ },
+ {
+  "en": "Eckas",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...)."
+ },
+ {
+  "en": "Sendy",
+  "kind": "ui",
+  "note": "Name in a 30-byte-stride name table (appears in two tables). Romanized; not in glossary. Many look like staff handles (VILER, DDT, Don...). Could be 'Sendi'."
+ },
+ {
+  "en": "What is the self?",
+  "kind": "ui",
+  "note": "Riddle/prompt; literal 'What is the self (ware)?'. 'What am I?' also possible."
+ },
+ {
+  "en": "           Mysterious letters rose into view\n   ",
+  "kind": "ui",
+  "note": "Kept leading indent so the line stays centred on the same column as the Japanese (11 cols indent); trailing '\n' + 3 spaces = full-width+half-width space indent for the following runtime text."
+ },
+ {
+  "en": "\n   ",
+  "kind": "ui",
+  "note": "Line break + indent only (full-width + half-width space -> 3 ASCII spaces)."
+ },
+ {
+  "en": "Which stat do you want to raise?",
+  "kind": "ui"
+ },
+ {
+  "en": "        Strength      Intellect     Piety",
+  "kind": "ui",
+  "note": "Option row: words start at half-width columns 8/22/36 like the Japanese (assumes fixed-pitch layout / cursor positions). Stat names to be matched with the status-screen stat labels."
+ },
+ {
+  "en": "        Vitality      Agility       Luck",
+  "kind": "ui",
+  "note": "Option row: words start at columns 8/22/36 like the Japanese."
+ },
+ {
+  "en": "Change to which alignment?",
+  "kind": "ui",
+  "note": "Seikaku here = alignment (options are Good/Neutral/Evil)."
+ },
+ {
+  "en": "        Good          Neutral       Evil",
+  "kind": "ui",
+  "note": "Glossary alignment terms; words start at columns 8/22/36 like the Japanese."
+ },
+ {
+  "en": "1st",
+  "kind": "ui",
+  "note": "Yuushou = victory/champion; rendered as '1st' to match the 2nd/3rd rows and the 4-column width. 'Winner' is the alternative."
+ },
+ {
+  "en": "2nd",
+  "kind": "ui"
+ },
+ {
+  "en": "3rd",
+  "kind": "ui"
+ },
+ {
+  "en": "%s has vanished",
+  "kind": "ui",
+  "note": "Shoushitsu = vanished/disappeared, kept distinct from the 'Lost' (rosuto) status used in row 66."
+ },
+ {
+  "en": "%s has turned to ash",
+  "kind": "ui"
+ },
+ {
+  "en": "Your party was wiped out",
+  "kind": "ui"
+ },
+ {
+  "en": "\nAll members have been lost",
+  "kind": "ui",
+  "note": "Follows row 65 on a second line; 'lost' = permanent Lost status."
+ },
+ {
+  "en": "You deactivated the compass.",
+  "kind": "ui"
+ },
+ {
+  "en": "You set the compass to %s.",
+  "kind": "ui",
+  "note": "%s = compass target (likely a location or person)."
+ },
+ {
+  "en": "There are no usable skills",
+  "kind": "ui"
+ },
+ {
+  "en": "Enter a password to use the Book of the Next Age.",
+  "kind": "ui",
+  "note": "Literal: the Book's effect cannot be used unless a password is entered. Rephrased to fit one line (49 cols vs 50 for the Japanese)."
+ },
+ {
+  "en": "The Training Hall is full",
+  "kind": "ui",
+  "note": "No free slot in the Training Hall (glossary)."
+ },
+ {
+  "en": "Requires a class change to equip",
+  "kind": "ui",
+  "note": "Literal: cannot equip unless (the character) has changed class."
+ },
+ {
+  "en": "This item is equipped",
+  "kind": "ui"
+ },
+ {
+  "en": "A main weapon can't be equipped as a sub",
+  "kind": "ui",
+  "note": "Main/sub weapon slots."
+ },
+ {
+  "en": "Mage",
+  "kind": "ui",
+  "note": "Glossary class name."
+ },
+ {
+  "en": "Priest",
+  "kind": "ui",
+  "note": "Glossary class name."
+ },
+ {
+  "en": "Alchemist",
+  "kind": "ui",
+  "note": "NEW TERM (class). 9 cols vs 8 for the Japanese; used in 2 places."
+ },
+ {
+  "en": "Summoner",
+  "kind": "ui",
+  "note": "NEW TERM (class). 8 cols vs 6 for the Japanese; used in 3 places."
+ },
+ {
+  "en": "0",
+  "kind": "ui",
+  "note": "Full-width digit -> ASCII; digit list continues in slice_02."
+ }
+]

@@ -1,0 +1,1130 @@
+[
+ {
+  "id": "SPLEARN.CSV:6:4",
+  "en": "Balad",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:6:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:7:4",
+  "en": "Misama",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:7:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:8:4",
+  "en": "Dioseed",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:8:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:9:4",
+  "en": "Balados",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:9:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:10:4",
+  "en": "Glass",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:10:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:11:4",
+  "en": "Ramisama",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:11:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:12:4",
+  "en": "Venom",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:12:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:13:4",
+  "en": "Mabalad",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:13:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:14:4",
+  "en": "Ziakal",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:14:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:15:4",
+  "en": "Ravenom",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:15:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:16:4",
+  "en": "Robuti",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:16:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:17:4",
+  "en": "Maglass",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:17:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:18:4",
+  "en": "Stoma",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:18:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:19:4",
+  "en": "Sosareo",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:19:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:20:4",
+  "en": "Rabalad",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:20:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:21:4",
+  "en": "Argeiss",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:21:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:22:4",
+  "en": "Hallobuti",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:22:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:23:4",
+  "en": "Raglass",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:23:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:24:4",
+  "en": "Ziakalad",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:24:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:25:4",
+  "en": "Rastoma",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:25:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:26:4",
+  "en": "Enterook Mista",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:26:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:27:4",
+  "en": "Diomente",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:27:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:28:4",
+  "en": "Miracle",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:28:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:29:4",
+  "en": "Feria",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:29:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:30:4",
+  "en": "Harias",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:30:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:31:4",
+  "en": "Tashif",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:31:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:32:4",
+  "en": "Erod",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:32:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:33:4",
+  "en": "Venom-Fei",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:33:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:34:4",
+  "en": "Latasif",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:34:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:35:4",
+  "en": "Hallobukan",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:35:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:36:4",
+  "en": "Zomperi",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:36:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:37:4",
+  "en": "Feirima",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:37:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:38:4",
+  "en": "Roodfei",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:38:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:39:4",
+  "en": "Eroma",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:39:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:40:4",
+  "en": "Rafelima",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:40:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:41:4",
+  "en": "Mirror Eyes",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:41:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:42:4",
+  "en": "Hallobukarm",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:42:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:43:4",
+  "en": "Honey Restorer",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:43:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:44:4",
+  "en": "Sama Eyes",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:44:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:45:4",
+  "en": "Zefeifus",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:45:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:46:4",
+  "en": "Robukand",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:46:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:47:4",
+  "en": "Psi Drain",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:47:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:48:4",
+  "en": "Feireed",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:48:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:49:4",
+  "en": "Rizefus",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:49:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:50:4",
+  "en": "Elnam",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:50:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:51:4",
+  "en": "Psi Breath",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:51:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:52:4",
+  "en": "Immolarati",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:52:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:53:4",
+  "en": "Rafeireed",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:53:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:54:4",
+  "en": "Rezefeid",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:54:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:55:4",
+  "en": "Razefeis",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:55:23",
+  "en": "Piety",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:56:4",
+  "en": "Pomedoon",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:56:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:57:4",
+  "en": "Rood",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:57:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:58:4",
+  "en": "Mahamaha",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:58:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:59:4",
+  "en": "Portal",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:59:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:60:4",
+  "en": "Rarood",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:60:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:61:4",
+  "en": "Bulafei",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:61:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:62:4",
+  "en": "Skorekh",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:62:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:63:4",
+  "en": "Karacha",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:63:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:64:4",
+  "en": "Orath",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:64:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:65:4",
+  "en": "Lascorek",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:65:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:66:4",
+  "en": "Makaracha",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:66:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:67:4",
+  "en": "Bifei",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:67:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:68:4",
+  "en": "Yuniwa Coat",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:68:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:69:4",
+  "en": "Pinto",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:69:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:70:4",
+  "en": "Rapoolfei",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:70:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:71:4",
+  "en": "Ramialf",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:71:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:72:4",
+  "en": "Pendeku",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:72:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:73:4",
+  "en": "Rapinto",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:73:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:74:4",
+  "en": "Rapidos",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:74:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:75:4",
+  "en": "Pendea Coat",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:75:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:76:4",
+  "en": "Zeo Nadar",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:76:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:77:4",
+  "en": "High Portal",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:77:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:78:4",
+  "en": "Protectorate",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:78:23",
+  "en": "Intel.",
+  "max": 8,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:79:4",
+  "en": "Contract9012",
+  "max": 24,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:79:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:80:4",
+  "en": "Summon",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:80:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:81:4",
+  "en": "Dismiss",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:81:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:82:4",
+  "en": "Contract9012",
+  "max": 24,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:82:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:83:4",
+  "en": "Summon",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:83:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:84:4",
+  "en": "Dismiss",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:84:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:85:4",
+  "en": "Contract9012",
+  "max": 24,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:85:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:86:4",
+  "en": "Summon",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:86:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:87:4",
+  "en": "Dismiss",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:87:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:88:4",
+  "en": "Contract9012",
+  "max": 24,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:88:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:89:4",
+  "en": "Summon",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:89:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:90:4",
+  "en": "Dismiss",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:90:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:91:4",
+  "en": "Contract9012",
+  "max": 24,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:91:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:92:4",
+  "en": "Summon",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:92:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:93:4",
+  "en": "Dismiss",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:93:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:94:4",
+  "en": "Contract9012",
+  "max": 24,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:94:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:95:4",
+  "en": "Summon",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:95:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:96:4",
+  "en": "Dismiss",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:96:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:97:4",
+  "en": "Contract9012",
+  "max": 24,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:97:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:98:4",
+  "en": "Summon",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:98:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ },
+ {
+  "id": "SPLEARN.CSV:99:4",
+  "en": "Dismiss",
+  "max": 24,
+  "used": true
+ },
+ {
+  "id": "SPLEARN.CSV:99:23",
+  "en": "(None)",
+  "max": 8,
+  "used": false
+ }
+]

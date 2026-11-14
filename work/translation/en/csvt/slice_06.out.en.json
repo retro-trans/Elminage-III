@@ -1,0 +1,363 @@
+[
+ {
+  "en": "Cannot equip: this character has changed classes before.",
+  "kind": "help",
+  "note": "Innocent-series restriction (ctx). Subject 'this character' restored."
+ },
+ {
+  "en": "There is no one to hand the item to.",
+  "kind": "help"
+ },
+ {
+  "en": "Not in a condition to use items.",
+  "kind": "help",
+  "note": "Status-ailment case; impersonal kept (applies to the selected character)."
+ },
+ {
+  "en": "This item is unidentified. Please have it identified.",
+  "kind": "help",
+  "note": "'Identify' as in ebt slice_12."
+ },
+ {
+  "en": "Cannot equip: the equipment requirements are not met.",
+  "kind": "help"
+ },
+ {
+  "en": "This item has already been identified.",
+  "kind": "help"
+ },
+ {
+  "en": "This item is broken.",
+  "kind": "help"
+ },
+ {
+  "en": "A child born of a cursed act cannot equip this item.",
+  "kind": "help",
+  "note": "Literal, not softened. A birth-trait restriction; exact mechanic unknown."
+ },
+ {
+  "en": "The item slots are full.",
+  "kind": "help"
+ },
+ {
+  "en": "Characters with the Cook skill cannot eat this.",
+  "kind": "help",
+  "note": "Skill name 'Cook' as in ebt slice_15."
+ },
+ {
+  "en": "Organize the items in the Servant's Bag.",
+  "kind": "help",
+  "note": "NEW TERM: Servant's Bag (Servant = class name, ebt row 1301). The JOB_EX label (slice_30 row 2529, max 8 bytes) needs a short form."
+ },
+ {
+  "en": ": move it back to the item list. Triangle: set the recovery timing.",
+  "kind": "help",
+  "note": "Source begins with the object particle: an item name is presumably prepended at runtime. Colon form chosen so it reads after a name ('Potion: move it back...'). Verify in game."
+ },
+ {
+  "en": "Set when Maid Recover heals from the bag.",
+  "kind": "help",
+  "note": "Maid Recover = ability name (ebt slice_09). Lit. 'set the timing of recovery by Maid Recover'."
+ },
+ {
+  "en": "Your items are full, so it cannot be returned to the item list.",
+  "kind": "help"
+ },
+ {
+  "en": "This character is not a Servant.",
+  "kind": "help",
+  "note": "Subject restored; Servant = class."
+ },
+ {
+  "en": "This requires the High Master ability Fate Alteration.",
+  "kind": "help",
+  "note": "NEW TERM: Fate Alteration (Bard High Master ability, deck change; ctx marks the row spec-deleted). JOB_EX row 2419 (slice_29) should match."
+ },
+ {
+  "en": ": put it into the Servant's Bag. Triangle: set the recovery timing.",
+  "kind": "help",
+  "note": "Same runtime-prefix pattern as row 461."
+ },
+ {
+  "en": "That item is not in the Servant's Bag.",
+  "kind": "help"
+ },
+ {
+  "en": "Check a character's condition in detail.",
+  "kind": "help"
+ },
+ {
+  "en": "Split all party members' money evenly.",
+  "kind": "help"
+ },
+ {
+  "en": "Collect all party members' money.",
+  "kind": "help"
+ },
+ {
+  "en": "Who will you cast the spell on?",
+  "kind": "help"
+ },
+ {
+  "en": "This stat is already at MAX.",
+  "kind": "help",
+  "note": "'Status' here = a character stat (stat-raise context)."
+ },
+ {
+  "en": "That is the same as the current alignment.",
+  "kind": "help",
+  "note": "seikaku = alignment (alchemy spell that changes alignment; ebt uses 'alignment' for seikaku)."
+ },
+ {
+  "en": "Cast the spell?",
+  "kind": "help"
+ },
+ {
+  "en": "Triangle: Resists & Slaying   Cross: Back.",
+  "kind": "help",
+  "note": "Reused from ebt slice_02 row 149 (same string) plus the source period."
+ },
+ {
+  "en": "Triangle: Special Effects & Resists  Cross: Back.",
+  "kind": "help",
+  "note": "Reused from ebt slice_02 row 150 plus period."
+ },
+ {
+  "en": "Triangle: Monster Effects  Cross: Back.",
+  "kind": "help",
+  "note": "Patterned on ebt rows 149-151."
+ },
+ {
+  "en": "Triangle: Passives  Cross: Back.",
+  "kind": "help",
+  "note": "'Passives' as in ebt slice_02 row 151."
+ },
+ {
+  "en": "Show the list of skills.",
+  "kind": "help"
+ },
+ {
+  "en": "A tavern where adventurers gather.",
+  "kind": "help"
+ },
+ {
+  "en": "Restore HP and spell power, and do smithing and alchemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Buy and sell items, or have them appraised.",
+  "kind": "help"
+ },
+ {
+  "en": "Provides healing, resurrection and more.",
+  "kind": "help"
+ },
+ {
+  "en": "Browse the encyclopedias and report your adventure's progress.",
+  "kind": "help",
+  "note": "zukan = encyclopedias (credits 'Encyclopedia Text')."
+ },
+ {
+  "en": "Register characters and more.",
+  "kind": "help"
+ },
+ {
+  "en": "Downed characters were carried to the temple.",
+  "kind": "help",
+  "note": "Reused from ebt slice_04 row 310 (same string)."
+ },
+ {
+  "en": "Who will you talk to?",
+  "kind": "help"
+ },
+ {
+  "en": "Have a conversation.",
+  "kind": "help"
+ },
+ {
+  "en": "Ask about the myths.",
+  "kind": "help"
+ },
+ {
+  "en": "Imbue the compass with light.",
+  "kind": "help",
+  "note": "Matches ebt slice_03 'imbue it with light'."
+ },
+ {
+  "en": "Hear an oracle.",
+  "kind": "help",
+  "note": "otsuge = oracle (wmap slice_15)."
+ },
+ {
+  "en": "Which oracle will you hear?",
+  "kind": "help"
+ },
+ {
+  "en": "You have already bought this hint.",
+  "kind": "help"
+ },
+ {
+  "en": "This is not a 0 GP item, so it cannot be sold here.",
+  "kind": "help"
+ },
+ {
+  "en": "View alchemy hints.",
+  "kind": "help",
+  "note": "ctx marks this feature as dropped."
+ },
+ {
+  "en": "View the request list.",
+  "kind": "help",
+  "note": "soudan = request, as in ebt 'Choose a request.'"
+ },
+ {
+  "en": "This request has been solved.",
+  "kind": "help"
+ },
+ {
+  "en": "Change today's weather.",
+  "kind": "help"
+ },
+ {
+  "en": "Go back.",
+  "kind": "help"
+ },
+ {
+  "en": "Go to the World Map.",
+  "kind": "help",
+  "note": "'World Map' as in ebt slice_13."
+ },
+ {
+  "en": "Choose where to go.",
+  "kind": "help"
+ },
+ {
+  "en": "Go to the Colored Corridor.",
+  "kind": "help",
+  "note": "Name from column_spec (EL_SAI); not yet in the glossary."
+ },
+ {
+  "en": "View the Recorded History.",
+  "kind": "help",
+  "note": "Name from column_spec (EL_KIRO); the ebt prompt uses lowercase 'a recorded history'."
+ },
+ {
+  "en": "Look at the Inner Door.",
+  "kind": "help",
+  "note": "'Inner Door' as in ebt slice_18 ('About the Inner Door')."
+ },
+ {
+  "en": "Small talk.",
+  "kind": "help"
+ },
+ {
+  "en": "Go to Agres Plaza.",
+  "kind": "help",
+  "note": "NEW NAME. Rows 508-519 are facilities of the towns Isfald, Saimar Port, Gandra Mine and Semnadoc (probably legacy from the previous game); romanized."
+ },
+ {
+  "en": "Go to Lunea's Shop.",
+  "kind": "help",
+  "note": "NEW NAME (pattern of Kembeck's Shop)."
+ },
+ {
+  "en": "Go to the Old Aim.",
+  "kind": "help",
+  "note": "NEW NAME. Same katakana appears as a MONSTER1 skill name; nature of this venue unknown."
+ },
+ {
+  "en": "Go to Yotel Wharf.",
+  "kind": "help",
+  "note": "NEW NAME."
+ },
+ {
+  "en": "Go to Bilente's Shop.",
+  "kind": "help",
+  "note": "NEW NAME."
+ },
+ {
+  "en": "Go to the Grand Merchant's Office.",
+  "kind": "help",
+  "note": "NEW TERM: daishouchou = Grand Merchant (title of Walmit in ITEM_TEXT, slice_26)."
+ },
+ {
+  "en": "Go to the Canteen.",
+  "kind": "help",
+  "note": "kyuujiba in the mine town; 'Canteen'."
+ },
+ {
+  "en": "Go to Jela's General Store.",
+  "kind": "help",
+  "note": "NEW NAME."
+ },
+ {
+  "en": "Go to the Blast Furnace.",
+  "kind": "help"
+ },
+ {
+  "en": "Go to Harjiradam.",
+  "kind": "help",
+  "note": "NEW NAME (romanization of haajiradamu; uncertain)."
+ },
+ {
+  "en": "Go to the Caron Main Store.",
+  "kind": "help",
+  "note": "NEW NAME (honten = main store / flagship)."
+ },
+ {
+  "en": "Go to Semnadoc Cathedral.",
+  "kind": "help",
+  "note": "NEW NAME (Semnadoc, town; also in ITEM_TEXT slice_26)."
+ },
+ {
+  "en": "Enter a dungeon, resume an adventure, or save your adventure.",
+  "kind": "help",
+  "note": "bouken no kiroku = saving the adventure record."
+ },
+ {
+  "en": "Talk to the person on the left.",
+  "kind": "help"
+ },
+ {
+  "en": "Talk to the person in the middle.",
+  "kind": "help"
+ },
+ {
+  "en": "Talk to the person on the right.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character from the list and add them to the party.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to call.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose where to place them in the party.",
+  "kind": "help",
+  "note": "yobidashi-saki = destination slot after choosing the character (ctx)."
+ },
+ {
+  "en": "The party is full.",
+  "kind": "help"
+ },
+ {
+  "en": "There are no characters you can call.",
+  "kind": "help"
+ },
+ {
+  "en": "Their alignments differ, so they cannot form a party.",
+  "kind": "help",
+  "note": "seikaku = alignment (Good and Evil cannot party)."
+ },
+ {
+  "en": "Remove a character from the party and have them wait.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to have wait.",
+  "kind": "help"
+ }
+]

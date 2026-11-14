@@ -1,0 +1,645 @@
+[
+ {
+  "en": "The Opinion Bits each began to give off light once more and started exchanging auras.{w}{p}Before long, the Opinion Bits all turned toward Zaalhaut at once.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..........{w}...We have reached the conclusion that we are unable to answer.\"{w}{p}\"We will set this topic aside. Please enlighten us as to the correct answer.\"{w}",
+  "kind": "msg",
+  "note": "Echoes row 1662 (\"unable to understand\" there, \"unable to answer\" here). Second page reused verbatim in row 1676."
+ },
+ {
+  "en": "\"It's hair.\"{w}",
+  "kind": "msg",
+  "note": "Answer to the riddle in row 1666 (the longer it grows, the closer it gets to the ground)."
+ },
+ {
+  "en": "\"...I see. Understood.{w}Now then, your elimination...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What is it... that has endless faces?\"{w}",
+  "kind": "msg",
+  "note": "Riddle; Zaalhaut's answer in row 1677 is \"a name\"."
+ },
+ {
+  "en": "Just as before, the Opinion Bits began exchanging auras.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"These things have a habit of needing to know exactly where a conversation starts and where it ends.\"{w}{p}\"So the longer I keep them stumped, the more time I can buy.{w}...Now go, quickly, while you have the chance.\"{w}{p}\"Don't worry about me.{w}I haven't lived such a feeble life that I need brats worrying about me.\"{w}{p}\"Leave this to me, and hurry to the Coronation Hall.\"{w}",
+  "kind": "msg",
+  "note": "\"Coronation Chamber\" for [JP] (new term). [JP] -> \"brats\" (Zaalhaut's gruff voice, [JP]). Accuracy: \"Coronation Chamber\" -> \"Coronation Hall\" to match the same scene (rows 1643/1656/1657) for the same term (taikan no ma). Editorial: \"insisting on recognizing\" was clumsy. \"the more I keep them puzzling\" was unidiomatic."
+ },
+ {
+  "en": "The question-and-answer session between Zaalhaut and the Opinion Bits goes on and on.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We will set this topic aside. Please enlighten us as to the correct answer.\"{w}",
+  "kind": "msg",
+  "note": "Identical to the second page of row 1669; kept word for word."
+ },
+ {
+  "en": "\"A name.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That which is truly equal, that which walks on without ever looking back, that which is carved by a great sword and a small sword...{w}Do you know what it is?\"{w}",
+  "kind": "msg",
+  "note": "Riddle for \"time\" (clock hands = great/small sword). Phrases are quoted back in rows 1688 and 1692, kept matching."
+ },
+ {
+  "en": "\"...That would be light.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hm?{w}What's this, you've decided to answer after all?{w}Too bad, though. The answer is 'time.'\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"No. No such thing exists.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...What?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It is light.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Surely the flow of time is the same for each and every thing in existence.\"{w}",
+  "kind": "msg",
+  "note": "Editorial: Trailing \"surely\" made the argument limp; reordered."
+ },
+ {
+  "en": "\"No, it is light.{w}That which falls equally upon all things -- that is light.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...I'm telling you, it's time.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There is no such thing as time.{w}It is light.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"..........\"{w}{p}\"...Then what about the clue 'that which walks on without ever looking back'?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It is light.\"{w}{p}\"Light -- that is to say, the great Elnoa-Malem -- is the one who will abolish such foolish pacts of the past as the Phase Shift, and bring stability to the future of the Real Axis.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"the great Elnoa-Malem\" ([JP] rendered without Lord/Lady: gender unknown). [JP] = \"Phase Shift\" (as in chap slice_007 / wmap slice_19). [JP] -> \"the True Axis\": coined, meaning unclear (real + pivot + foundation) - flag. Accuracy: jitsusuuki rendered \"the Real Axis\" as already established in chap row 1360 (Numbra Narv: \"not the Narv of the Real Axis\")."
+ },
+ {
+  "en": "\"El... noa...? Malem, you say?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We have answered your question. This conversation is over.{w}Now then, your elimination...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"W-wait!{w}Then what about 'carved by a great sword and a small sword'!?\"{w}{p}\"That's supposed to mean the hands of a clock! You can't explain that, can you!?\"{w}",
+  "kind": "msg",
+  "note": "Editorial: Stutter capitalisation as in the rest of the corpus (W-well, R-right)."
+ },
+ {
+  "en": "\"Why, light, naturally.\"{w}{p}\"The lesser sin of you all defying us, the greater sin of failing to fulfill your duty of bringing forth the Eld...\"{w}{p}\"Those two swords, the lesser sin and the greater, wound the heart of the great Elnoa-Malem.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = \"the Eld\" (wmap slice_19). [JP] read as \"you (mortals) all\", the Bit addressing Zaalhaut's kind generally."
+ },
+ {
+  "en": "\"Wh... what are... you... saying...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"We have answered your question. This conversation is over.{w}Now then, let us carry out your elimination.\"{w}{p}\"Those who set foot in the Sanctum of Genesis are fated to be judged by the Opinion of Light and the Opinion Bits.\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"Sanctum of Creation\" (new term). [JP] -> \"the Opinion of Light\" (new term). First sentence kept identical to row 1691. Accuracy: same term as rows 1641-1654 of this scene (\"Sanctum of Genesis\"); corpus still also has \"Holy Genesis Sphere\" (rows 1574-1585) -- orchestrator to settle."
+ },
+ {
+  "en": "\"The Opinion of Light...!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Heh, heh hah hah!{w}I see, now I get it!\nNo wonder I could never find the power over time!\"{w}{p}\"Then the fall of Shebe makes sense too!{w}If the power over time was a sham,\nof course there was never any divine protection!\"{w}{p}\"I've been well and truly fooled!{w}Naru was no god of time...{w}...Naru was a god of light!\"{w}",
+  "kind": "msg",
+  "note": "Naru = god of time per wmap slice_16. [JP] -> \"the power over time\"; [JP] -> \"divine protection\"; [JP] -> \"a god of light\". [JP] -> \"Shebe\" (new name, nature unknown: a place or people that fell)."
+ },
+ {
+  "en": "\"...You who know too much.{w}Be burned by the holy light, and vanish.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ha, just try it, you heartless lackeys!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"It is futile.{w}Even if one or two of us should fall, more of us will appear, however many it takes.\"{w}{p}\"You never had a chance to begin with.{w}If you step aside, we will at least let you pass on without suffering. What will you do?\"{w}",
+  "kind": "msg",
+  "note": "[JP] read as \"if you clear the way\" (stop blocking the Bits from pursuing the party). Editorial: \"appear again in any number\" was unidiomatic; ikura demo kept as \"however many it takes\"."
+ },
+ {
+  "en": "\"No chance, you say?{w}Heh, you really do look down on me.\n...This is a waste of time. Come at me, all of you at once.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "(Those kids will perform the rite of re-coronation and come back alive.{w}Buying them the time for that is all I need.){w}",
+  "kind": "msg",
+  "note": "Inner thought. [JP] -> \"those kids\" (Zaalhaut calls the party [JP] in row 1674). [JP] -> \"rite of re-coronation\" (new term)."
+ },
+ {
+  "en": "\"I am Zaalhaut, the child the wicked mage Zanu left behind.{w}",
+  "kind": "msg",
+  "note": "Opening quote left unclosed as in source; row 1704 re-shows this text in {0E}..{0F}. [JP] -> \"Zanu\" (new name). [JP] = child left behind by a dead parent."
+ },
+ {
+  "en": "{0E}\"I am Zaalhaut, the child the wicked mage Zanu left behind.{0F}\nThe cursed child that lust and a spirit's tears brought into this world!\"{w}",
+  "kind": "msg",
+  "note": "Highlighted part matches row 1703 word for word."
+ },
+ {
+  "en": "\"Let's see how long mere servants of a god can stand against this unblessed power of mine!\"{w}",
+  "kind": "msg",
+  "note": "Source has a typo ([JP] for [JP])."
+ },
+ {
+  "en": "Op. Bit Voice",
+  "kind": "name",
+  "note": "Name box, 17 chars (slightly over ~16). Fallback if too wide: \"Op. Bit Voice\". Several Bits speak in row 1707; Zaalhaut is down and only hears them. Accuracy: name box cut to 13 chars (<=16) using the translator's fallback."
+ },
+ {
+  "en": "\"Is it taken care of?\"{w}{p}\"Yes.{w}However much one puts on a brave front,\nthe gap between our very existences cannot be closed.\"{w}{p}\"Truly, it is beyond my comprehension.\"{w}{p}\"Even so, they got the better of us again this time.\"{w}{p}\"Who could have guided them in?\"{w}{p}\"There are only two possibilities.{w}Hisbert, or else the people of Ryug.\"{w}{p}\"So it would seem.\"{w}{p}\"Shall we finish this one off?\"{w}{p}\"We may leave it be.\nMore importantly, we must make our report at once.{w}...Spirits. Take this one outside.\"{w}",
+  "kind": "msg",
+  "note": "Exchange between several Opinion Bits. [JP] -> \"Ryug\" (wmap slice_20). [JP] -> \"this one\" (no pronoun for Zaalhaut). 2[JP] literally \"only two\"; \"possibilities\" added for the noun."
+ },
+ {
+  "en": "The Opinion Bits left.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So... I couldn't win after all...{w}In the end... all I can do...\nis dance in the palm of a god's hand...?\"{w}{p}\"I can't hear anymore. My eyes are going dim.{w}I wonder if those kids pulled it off...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The land where I was born... my precious place...{w}This... cursed body of mine...{w}the only... thing that ever... ac... cepted it...\"{w}{p}\"Mo... th... er...{w}I'm sor... ...\"{w}",
+  "kind": "msg",
+  "note": "Dying line; Zaalhaut switches from [JP] to [JP] (no English equivalent). Order of the broken fragments kept across the {w}s. [JP] -> \"Mother\"; [JP]… -> \"I'm sor...\" (gomen). [JP] read as the land accepting the cursed body."
+ },
+ {
+  "en": "Spirits gathered around Zaalhaut.{w}Lifting up the body, they carried it all the way to the exit.{w}",
+  "kind": "msg",
+  "note": "Editorial: Tense mismatch inside the row (present then past)."
+ },
+ {
+  "en": "Strange Being",
+  "kind": "name",
+  "note": "[JP] = the unnamed figure before it introduces itself as Spectoria (row 1715)."
+ },
+ {
+  "en": "\"So you have come this far after all.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I am Spectoria. Executor of the Divine Realm.\"{w}",
+  "kind": "msg",
+  "note": "Spectoria / Divine Realm as in wmap slice_19. [JP] -> \"Executor\" (wmap uses Executor for [JP] Branon)."
+ },
+ {
+  "en": "You feel an overwhelming presence from the one called Spectoria, unlike anything you have felt before.{w}There is nowhere for you to run.{w}",
+  "kind": "msg",
+  "note": "No pronoun for Spectoria (gender not in glossary)."
+ },
+ {
+  "en": "\"Ordinarily, the likes of you would be nothing more than a trifling matter.\"{w}{p}\"But you have gone too far.{w}Anything more would go against the divine will.\"{w}{p}\"You will now receive your punishment. Prepare yourselves.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"As one would expect of those who made it all the way here.\"{w}{p}\"It cannot be helped.{w}This time, and this time only, I shall withdraw.\"{w}{p}\"But do not forget that you are always in the palm of our hand...\"{w}",
+  "kind": "msg",
+  "note": "Editorial: \"worthy of having made it\" was awkward; sasuga ... dake no koto wa aru."
+ },
+ {
+  "en": "Spectoria vanished into the light.{w}{p}Having defeated the Qualia, you stood in the center of the room and raised all the Ranks you had obtained toward the sky.{w}They then turned into the shining [Sun's Light Rank].{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"Qualia\" (new term; guardians of the Sanctum, see row 1643). [JP] -> \"Ranks\", [JP] -> \"Radiant Rank of the Sun\" (new key item name, must match ITEM_PRIZ when that CSV is translated). [JP] -> [ ]. Editorial: Misplaced modifier (\"the sky in the center of the room\"). Rank terms untouched."
+ },
+ {
+  "en": "[Key Item]\nObtained Sun's Light Rank.{w}",
+  "kind": "msg",
+  "note": "Key-item format as chap slice_001."
+ },
+ {
+  "en": "Fixed monster encounter handler\nFlee: Yes, Treasure: Yes, Rematch: No, Friendly: Yes{w}",
+  "kind": "msg",
+  "note": "Developer debug text (encounter-type label); circle/cross marks rendered Yes/No in ASCII."
+ },
+ {
+  "en": "Random monster encounter handler\nFlee: Yes, Treasure: No, Rematch: Yes, Friendly: Yes{w}",
+  "kind": "msg",
+  "note": "Developer debug text."
+ },
+ {
+  "en": "Event monster encounter handler\nFlee: No, Treasure: No, Rematch: Yes, Friendly: No{w}",
+  "kind": "msg",
+  "note": "Developer debug text."
+ },
+ {
+  "en": "Abi monster encounter handler\nFlee: Yes, Treasure: No, Rematch: Yes, Friendly: No{w}",
+  "kind": "msg",
+  "note": "Developer debug text. [JP] = Abi (glossary)."
+ },
+ {
+  "en": "Magical Party encounter handler\nFlee: No, Treasure: No, Rematch: Yes, Friendly: No{w}",
+  "kind": "msg",
+  "note": "Developer debug text."
+ },
+ {
+  "en": "Martial Arts Tournament encounter handler\nFlee: No, Treasure: No, Rematch: Yes, Friendly: No{w}",
+  "kind": "msg",
+  "note": "Developer debug text."
+ },
+ {
+  "en": "An unfamiliar adventurer appeared before you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{13:0001:0000}{w}",
+  "kind": "msg",
+  "note": "Runtime insert only; nothing to translate."
+ },
+ {
+  "en": "{13:0001:0001}{w}",
+  "kind": "msg",
+  "note": "Runtime insert only; nothing to translate."
+ },
+ {
+  "en": "There is a giant doll.{w}{p}When the doll spots you, it breaks into a big smile, as if it had found a new toy, and slowly reaches out its hands toward you.{w}{p}If a game of dolls is about to begin, the dolls will be you.{w}",
+  "kind": "msg",
+  "note": "Editorial: \"playing the dolls\" could be misread as playing WITH dolls; punchline tightened."
+ },
+ {
+  "en": "You picked up an item.{w}",
+  "kind": "msg",
+  "note": "Used in 30 places."
+ },
+ {
+  "en": "You see that 'Night' has appeared ahead of you.{w}Before long, the 'Night' takes human form and overwhelms everything around it with its sheer presence.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Is that gentlemanly bearing a sign of how sure it is of itself?{w}The one who reigns at the summit of the Kin of Night unhurriedly invites you to a ball of death.{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"the kin of night\" (patterned on \"kin of darkness\", chap slice_008 / wmap slice_20). No pronoun for the figure."
+ },
+ {
+  "en": "A strange sight is unfolding before your eyes.{w}{p}Darkness and darkness, cancelling each other out, are shrinking again and again.{w}{p}The darkness on your side gradually weakens and begins to be swallowed by new darkness seeping out.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You stand face to face with one who has crossed over from another world.{w}Can you protect this world?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You have come upon a dreamlike revel.{w}{p}Beautifully shining wings light up the surroundings like a full moon.{w}Insects of every kind are drunk on this revel of light, perhaps rejoicing at the appearance of their lord, who is wrapped in phosphorescent light.{w}{p}But there is just one unfortunate thing.{w}It seems no place has been set for you in this dreamlike scene.{w}",
+  "kind": "msg",
+  "note": "Editorial: Dangling modifier: \"wrapped in phosphorescent light\" read as describing the insects."
+ },
+ {
+  "en": "Even when you try to look, you cannot look away.{w}Even when you try to flee, you cannot fight.{w}Even when you want to die, you cannot survive.{w}{p}That is our Brain Through.{w}",
+  "kind": "msg",
+  "note": "Deliberately paradoxical/garbled verse, kept as is. [JP] -> \"Brain Through\" (new name; boss/encounter name, likely a pun). [JP] -> \"our\" (speaker unknown)."
+ },
+ {
+  "en": "Suddenly, thunderclouds gather all around.{w}Each time lightning flashes, the shadow of some unknown beast is cast upon the sky.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You witness the appearance of a fearsome monster.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A strange sensation of space twisting.{w}Something that must never appear seems to have crossed the line and appeared.{w}{p}Will your bodies, too, be taken over like those of the victims before you?{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Azabas",
+  "kind": "name",
+  "note": "New name (romanized)."
+ },
+ {
+  "en": "\"What, you lot were wandering around a place like this?{w}Look at the power that's taken root in my body!\"{w}{p}\"I'm a Demon Duke now!\nNobody's ever going to give me lip again.{w}...Not even that bastard Fendel!!\"{w}{p}\"Come, scorching winds of destruction! Come to me!\"{w}{p}\"Let's teach them all that I'm the one who rules everything!\nThe Wastelands, the New Lands, the Dark Realm, the Divine Realm --\nwe'll teach every last one of them!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> \"Demon Archduke\" (new term; also used by the Ryug in SCD16). [JP] -> \"Fendel\" (new name). [JP] \"Wastelands\" (wmap: declared a wasteland), [JP] \"New Lands\" (new term), [JP] \"Dark Realm\", [JP] \"Divine Realm\" as in wmap. [JP]: Azabas rallies himself/the winds; rendered \"let's\". Accuracy: daimakou = \"Demon Duke(s)\" as established in chap rows 1561/1566/1572 (the Ryug quest); there are many of them, and MON_TEXT has Azabas envying Fendel's road to becoming one -> \"a Demon Duke\"."
+ },
+ {
+  "en": "\"Damn iiiiit!{w}Why am I losiiiiing!?!\"{w}{p}\"I...!{w}was supposed to have gotten... power no one could beat...!{w}Wasn't I...!?\"{w}{p}\"It's still... not enough...?\"{w}",
+  "kind": "msg",
+  "note": "Editorial: \"power that loses to no one\" was unidiomatic."
+ },
+ {
+  "en": "A scorching tornado swallowed Azabas from the feet up.\nIt was so fierce that you shut your eyes without thinking.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you next came to your senses, there was nothing there.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Scrape, scrape. The sound of something being dragged draws gradually closer.{w}",
+  "kind": "msg",
+  "note": "Editorial: Onomatopoeia wedged mid-sentence read awkwardly; moved to the front as in the source."
+ },
+ {
+  "en": "A bizarre form was there, impossible to tell whether dragon or fish.{w}{p}It gave a shudder and let out a hair-raising roar.{w}It was the signal that mealtime had come.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "CLICK, CLACK, GO SOME CRISP, BRISK FOOTSTEPS.{w}IN TIME WITH THEM, A LOUD, HAUGHTY LAUGH RINGS OUT.{w}",
+  "kind": "msg",
+  "note": "Source is all-kana with spaced dakuten (retro 8-bit text parody, continued in slice_022 rows 1749-1752). Rendered in ALL CAPS as the English equivalent of old-console text; slice_022 should match. [JP] = loud/haughty laugh. Accuracy: takawarai = loud, haughty laughter, not high-pitched."
+ },
+ {
+  "en": "WHAT HAS APPEARED IS ONE ONCE HAILED AS A GOD OF WAR.{w}{p}FLUTTERING BOTH HANDS, IT DRAWS NEAR WITH A GENIAL SMILE.{w}{p}AND WHAT IT REAPS AS IT SMILES... IS LIVES.{w}",
+  "kind": "msg",
+  "note": "Master Drake (MONSTER3 epithet 'god of war'). Source is all-kana retro Wizardry pastiche (like 1748/1752); rendered in normal case -- ALL CAPS would be an option if the slice_021 row 1748 does the same. Editorial: Retro all-kana block 1748-1752 unified in ALL CAPS (old computer-RPG message style). Tense set to present (\"has appeared\", \"draws\") to match the present-tense source verbs and row 1748."
+ },
+ {
+  "en": "RAGING FIGURE",
+  "kind": "name",
+  "note": "Unidentified-monster style name (Wizardry 'strange figure' convention), not a proper name. Editorial: Retro all-kana block 1748-1752 unified in ALL CAPS."
+ },
+ {
+  "en": "\"NOW THEN, YOU FRAIL THINGS.\nARE YOU PREPARED?\"{w}",
+  "kind": "msg",
+  "note": "Editorial: Retro all-kana block 1748-1752 unified in ALL CAPS."
+ },
+ {
+  "en": "YOU PICKED UP AN ITEM.{w}",
+  "kind": "msg",
+  "note": "Kana-only retro variant of row 1731 (kanji version); same English. Editorial: Retro all-kana block 1748-1752 unified in ALL CAPS (row 1731, the kanji version, stays in normal case)."
+ },
+ {
+  "en": "With a thudding tread that shook the ground,\na fat man came walking along.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "He seemed to be trying to perform some sort of ritual, but his bulging belly kept getting in the way.{w}",
+  "kind": "msg",
+  "note": "Don Magus (MONSTER3 epithet 'big-underpants magic')."
+ },
+ {
+  "en": "The man noticed you watching.{w}Perhaps thinking you were mocking his portly body, he came charging at you, face beet red.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Portly Man",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hey! Who do you think I am!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "?Lady Doctor",
+  "kind": "name",
+  "note": "Female doctor (MON_TEXT 276; Norden Orc entry, epithet 'Where shall I treat?'). '?' prefix kept as in other unidentified names."
+ },
+ {
+  "en": "\"Next, please.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Addressed out of nowhere, you were taken aback.{w}But pinned by her gaze, which allowed no argument, you somehow got the impression that you were the ones in the wrong.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So, what seems to be the trouble today?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "At her prompting, you answered questions about your health. The doctor nodded languidly, writing up a chart with flowing strokes of her pen.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...All right, that's enough.\nNow, bare your bottom. Get down on all fours.{w}I'm going to prescribe you a nice, big, heaping dose.\"{w}",
+  "kind": "msg",
+  "note": "Innuendo kept at full strength; per MON_TEXT her treatment is an injection with a huge syringe."
+ },
+ {
+  "en": "A woman appeared with a great many arrows nocked to a single bow.{w}She flitted lightly about the area.{w}Letting her beautiful hair play in the wind, she spoke.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Bow Saint Polyte",
+  "kind": "name",
+  "note": "Glossary spelling."
+ },
+ {
+  "en": "\"Morning dew is sweet nectar. Birdsong is the gospel.\nThe deep forest is the cradle of life.{w}And I am the Holy Polyte.\"{w}",
+  "kind": "msg",
+  "note": "'Holy Polyte' matches the item name (seinaru Polyte no yumi) and rows 1768/1777."
+ },
+ {
+  "en": "Shooting Moon",
+  "kind": "name",
+  "note": "Monster name (MONSTER2/MON_TEXT 231); this one is Jenas, Polyte's rival in the play 'Periatif'."
+ },
+ {
+  "en": "\"Don't go calling yourself holy, it's embarrassing!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Good day to you, Jenas.\"{w}",
+  "kind": "msg",
+  "note": "Polyte: posh, ladylike (watakushi / -desu wa)."
+ },
+ {
+  "en": "\"Come on,\nlet's play out the rest of Periatif!\"{w}",
+  "kind": "msg",
+  "note": "Periatif = the play about Polyte and Jenas's rivalry (MON_TEXT 227/231): i.e. resume their duel."
+ },
+ {
+  "en": "\"...I'm not in the mood for that.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Why the hell not?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Because I dislike you, naturally.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, it's not like I'm chasing after you\nbecause I like it either!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And what is that, with your bottom hanging out for all to see?\nMy, how vulgar.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You're one to talk,\nusing a bow like that! That's not real archery!\"{w}",
+  "kind": "msg",
+  "note": "jado = heretical/improper way; refers to her firing many arrows at once."
+ },
+ {
+  "en": "\"You don't understand at all, do you, Jenas.\"{w}{p}\"That's where you're supposed to say,\n'As expected of the Holy Polyte!'\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Jenas",
+  "kind": "name",
+  "note": "New name. Female: uses atashi, Polyte calls her anata (kanji for a woman) and 'doe'."
+ },
+ {
+  "en": "\"Shut the hell up!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Jenas turned to you with an irritated look, pleading her case.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Hey, you get it, right?{w}Half the reason I want to kill her\nis that personality! She makes no damn sense!!\"{w}",
+  "kind": "msg",
+  "note": "'Her' = Polyte (female established in row 1764)."
+ },
+ {
+  "en": "\"I have never once asked you to understand me.\n(Snap!~)\"{w}",
+  "kind": "msg",
+  "note": "pishari = curt, slamming retort; the note symbol rendered as '~' (ASCII only)."
+ },
+ {
+  "en": "\"Aaaargh... You're so damn annoyiiing...!{w}Hey, let's kill her already!!\"{w}",
+  "kind": "msg",
+  "note": "Jenas to the party: 'let's' -- she invites you to fight Polyte with her. Editorial: Jenas speaks in contractions everywhere else."
+ },
+ {
+  "en": "\"How d'you like this, huh!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thud, and down I go~{w}...or so I'd jest! Tee-hee...\"{w}{p}\"The Holy Polyte...!!\"{w}",
+  "kind": "msg",
+  "note": "batankyu = cutesy 'keel over'. Final fragment is a cry that breaks off; 1786 is written to stand alone too."
+ },
+ {
+  "en": "\"It will take more than this to bring me down!{w}I shall surely appear again! Appear in splendor!\"{w}",
+  "kind": "msg",
+  "note": "Editorial: \"go down from something like this\" was clumsy for Polyte's posh voice."
+ },
+ {
+  "en": "\"Shut that mouth of yours!{w}Seriously, you want me to kill you!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Jenas, you've improved.{w}{p}I'm off to hunt Demon Dukes,\nso do mind things here while I'm away.\"{w}",
+  "kind": "msg",
+  "note": "daimakou -> 'Archdemon' (no prior rendering in the corpus; MON_TEXT says Polyte hunts them in the wasteland). Accuracy: daimakou-gari -> \"Demon Dukes\" as established in chap rows 1561/1566/1572 (and row 1742)."
+ },
+ {
+  "en": "\"Huh!? Don't just go deciding that on your own...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honestly, that Taizarti,\nswallowing up so many of my arrows.{w}I must get them back as soon as possible.\"{w}{p}\"Well then, good day!{w}...My little doe with the cute bottom~\"{w}",
+  "kind": "msg",
+  "note": "Taizarti spelling from 'Taizarti Lamp' (chap slice_001). Per MON_TEXT 312 Polyte's arrows are stuck in Taizarti's head; no pronoun used (gender unknown)."
+ },
+ {
+  "en": "\"Eek!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Polyte gave Jenas's rear a single stroke,\nthen ran off laughing.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah... Wh...... Nngh...!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Shooting Moon called Jenas stood quivering with rage she had nowhere to vent.{w}Her bottom was quivering too.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Spiderwebs clung to your bodies.{w}The more you brushed them off, the more the threads tangled around you.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "It seems you noticed something was wrong a little too late.{w}{p}Before you knew it, you had been dragged into the nest of a siren in the shape of a spider.{w}",
+  "kind": "msg",
+  "note": "youjo -> 'enchantress' (a bewitching monster-woman). Accuracy: youjo -> \"siren\" so the name box ?bi-youjo (row 1798) fits 16 chars as \"?Fair Siren\" while rows 1796/1797/1801 still match it."
+ },
+ {
+  "en": "Suddenly, you were wrapped in the scent of some flower.{w}Ah, so this is no mere siren.{w}One cloaked in the scent of flowers... a FAIR siren!!{w}",
+  "kind": "msg",
+  "note": "bi-youjo (coined self-flattering word) -> 'fair enchantress', same word as the name box and row 1801. Accuracy: youjo / bi-youjo -> \"siren\" / \"fair siren\" to match the 16-char name box in row 1798. Editorial: The first-person \"I see\" broke the second-person narration (flagged by accuracy); the realization (naruhodo) is kept."
+ },
+ {
+  "en": "?Fair Siren",
+  "kind": "name",
+  "note": "17 chars, one over the ~16 guideline; '?Fair Siren' is a shorter fallback. Accuracy: was 17 chars (>16); \"?Fair Siren\" (translator's fallback); rows 1796/1797/1801 changed to match."
+ },
+ {
+  "en": "\"Rolfaaaaan!!\"{w}",
+  "kind": "msg",
+  "note": "Taranti's battle cry (also her MONSTER3 epithet). Meaning unknown; romanized."
+ },
+ {
+  "en": "Taranti",
+  "kind": "name",
+  "note": "New name (spider woman; tarantula pun)."
+ },
+ {
+  "en": "\"Hegyah!?\"{w}{p}\"Th... that's so mean...{w}Roughing up a fair siren like me...{w}...Waaaah!!\"{w}",
+  "kind": "msg",
+  "note": "Accuracy: bi-youjo -> \"fair siren\" to match the name box in row 1798. Editorial: Stutter capitalisation as in the rest of the corpus."
+ },
+ {
+  "en": "Taranti ran off with a sort of skipping gait.{w}",
+  "kind": "msg",
+  "note": "Editorial: \"moving with something like a skip\" was awkward."
+ },
+ {
+  "en": "Shaking heaven and earth, a grotesque, many-armed giant appeared.{w}It looked down at you and, amused by who knows what, rained down laughter like a thunderclap.{w}{p}But the next instant, the many-armed giant brought down a fist brimming with murderous intent.{w}",
+  "kind": "msg",
+  "note": "Hecatoncheir (not named in the text). 'nani ga tanoshii no ka' = for whatever reason it finds this fun; rendered as 'amused by who knows what'."
+ },
+ {
+  "en": "An unfamiliar knight of the Kin of Darkness appeared.{w}On a closer look she was a woman, and her dignified face showed iron resolve.{w}{p}Strength of heart becomes power.{w}From the Demon God Lance pointed at you, you sensed a blade of will honed to a terrifying edge.{w}",
+  "kind": "msg",
+  "note": "yami no kenzoku -> 'Dark Kin' (corpus is split: Dark Kin 5, Kin of Darkness 4, kin of darkness 4). Accuracy: en already uses the glossary form \"Kin of Darkness\" (glossary entry for yami no kenzoku); the \"Dark Kin\" remark above is superseded."
+ },
+ {
+  "en": "\"My mother was betrayed by the gods and fell into darkness.{w}Even the small happiness she found after her fall had no future -- those of the New Lands stole her tomorrow.\"{w}{p}\"And by the fate of all who side with darkness, my mother strayed from the Path of Souls and was swallowed up by the Abyss, that prison of souls.\"{w}",
+  "kind": "msg",
+  "note": "kami -> 'the gods' (number not marked). shinsouchi -> 'the New Lands' (new term). Speaker box is ??? (Sephiriege before she names herself)."
+ },
+ {
+  "en": "Sephiriege",
+  "kind": "name",
+  "note": "New name. Full Japanese box is 'Ankoku-metsu General Sephiriege'; the title is cut from the name box for length and is given in full in row 1807. Former name Sephirine (MON_TEXT 280)."
+ },
+ {
+  "en": "\"I am Sephiriege, Demon General of Dark Oblivion.\"{w}{p}\"To save my mother's soul, and to bring an end to the injustice of the gods, I received a new name and power from Rogera.\"{w}{p}\"The Demon God Lance will soon set out for the Abyss.\"{w}{p}\"Should anyone stand in its way, whoever they may be...{w}even those who were once my brethren, I cannot spare them.\"{w}",
+  "kind": "msg",
+  "note": "anmetsu -> 'Oblivion' following Rogera's title in chap slice_008 / wmap slice_16. The lance line refers to herself through her weapon; kept. Accuracy: anmetsu = \"Dark Oblivion\", the exact word in Rogera's established title (\"god of Dark Oblivion\", chap row 595 / wmap row 1227); Sephiriege takes her name from Rogera in this very row."
+ },
+ {
+  "en": "\"Well, this is a surprise.\nThough it has yet to fully settle in me, you've overcome power on par with a Divine Shadow?\"{w}{p}\"Perhaps we will meet again somewhere.{w}Heh heh heh...\"{w}",
+  "kind": "msg",
+  "note": "shin'ei -> 'Divine Shadow' (wmap slice_01). 'it' = her newly granted power."
+ },
+ {
+  "en": "You saw a strange shadow ahead.{w}It seemed human-shaped, but its head was clearly wrong, writhing grotesquely.{w}{p}Soon the details of what had been shadow became clear.{w}You realized that where a human head should be, something else had been put in its place.{w}{p}How did you realize it?{w}Because the figure was closing in on you to attack.{w}",
+  "kind": "msg"
+ }
+]

@@ -1,0 +1,428 @@
+[
+ {
+  "id": "91101-ARG_TOP_IN.bin@8293a",
+  "en": "\"Well, yeah...{w}Oh, right! Remember the Book of the Next Age we got from Costo?\"{w}{p}\"Apparently, thanks to that book, for a little while our Bistel and...{w}this town... um... what was it called again?\"{w}",
+  "kind": "msg",
+  "note": "Who received the book is unstated (moratta); rendered 'we got' (Milia + party). Sentence is cut off by the name search; left unfinished as in source, the verb (linked) comes later in row 137."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82a02",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82a0b",
+  "en": "\"It's Algrantz!\"{w}",
+  "kind": "msg",
+  "note": "Voice is Fena (named in row 83)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82a36",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82a41",
+  "en": "\"Pleased to meet you, honored instructor from abroad!{w}...Huh? Wait.\"{w}",
+  "kind": "msg",
+  "note": "dono = formal/stiff honorific, rendered 'honored instructor'. Source typo (hajimemashite written with the wrong kanji) not reproduced."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82a8a",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82a95",
+  "en": "\"That's weird.{w}That strange book said I'd meet a foreign instructor here...\"{w}",
+  "kind": "msg",
+  "note": "Subject 'I' restored: Fena is the one who expected the meeting."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82af6",
+  "en": "Miria",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82aff",
+  "en": "\"Nice to meet you, I'm Miria. I'm not an instructor, actually. I work the front desk at the Training Hall.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82b66",
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82b6f",
+  "en": "\"We've come from the fortress city of Bistel. I'm Soara, of the Magic Bureau.\"{w}",
+  "kind": "msg",
+  "note": "'kimashita' has no subject; 'we' chosen since both women arrived together."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82bc2",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82bcd",
+  "en": "\"Wha...? YOU two are...!?{w}You're not what I imagined... not even close!!\"{w}",
+  "kind": "msg",
+  "note": "kimitachi here = Milia and Soara (Fena mistook them for the foreign instructors), hence 'you two'."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82c2a",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82c35",
+  "en": "\"I was expecting more of a 'blood pumping, raring to fight!' kind of vibe...{w}I guess training halls really do feel different from country to country.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82cbc",
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82cc5",
+  "en": "\"By the way, have they already registered at your training hall?\"{w}",
+  "kind": "msg",
+  "note": "kare-ra = the party; 'sochira de' = at Fena's place (the Algrantz Training Hall)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82d16",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82d21",
+  "en": "\"Oh, yeah, they should be registered already.{w}Coming all the way across the land just to see them off... your training hall must be something else...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82d9c",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82da7",
+  "en": "\"!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82dc4",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82dcf",
+  "en": "\"H-hey, um!{w}By any chance...{w}are they, like, super-famous heroes or something!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82e33",
+  "en": "Miria",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82e3c",
+  "en": "\"Well, they're...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82e61",
+  "en": "Miria started to speak, but swallowed the words with a wry smile.{w}",
+  "kind": "msg",
+  "note": "No pronoun for Milia (gender not stated in the text)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82eb2",
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82ebb",
+  "en": "\"......\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82ed4",
+  "en": "Seeing that, Soara gave a small nod as well.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@82f11",
+  "en": "For a fleeting moment, fond memories of Finas Rade came back to Miria, Soara, and you.{w}{p}The Proclamation of the fortress city, the Queen's Trial, the mysterious boy,{w}Nerineri, the people who tried to save the land in their own way,{w}the deadly battles over the divine relics, and then...{w}{p}Nothing can replace the memories of the adventures you have lived through.{w}But surely you did not come to this land just to reminisce about old times.{w}",
+  "kind": "msg",
+  "note": "Recap of Elminage Gothic events; names here (Finas Rade, Nerineri) are new romanizations. 'Proclamation' follows glossary for o-fure."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8307f",
+  "en": "Miria",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83088",
+  "en": "\"They're... just adventurers.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@830bd",
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@830c6",
+  "en": "\"But to us, they're dear friends. Nobody could ever replace them.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83115",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83120",
+  "en": "\"......\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83141",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8314c",
+  "en": "\"You're right. That was a tactless thing to ask.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83185",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83190",
+  "en": "\"Okay, got it!{w}Our training hall will take full responsibility for your friends. We'll look after them, I promise!\"{w}",
+  "kind": "msg",
+  "note": "Direction: Fena offering to take care of the party (sasete morau = humble offer)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@831fd",
+  "en": "Miria",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83206",
+  "en": "\"Okay... pwease... take... care of th...\"{w}",
+  "kind": "msg",
+  "note": "Milia is crying; 'yoroshiku' slurred to 'yorohiku' and trailing off. Kept the slur ('pwease') and the cut-off ending. Direction: Milia asking Fena to look after the party."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@832a7",
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@832b0",
+  "en": "\"Oh, come on. You promised you wouldn't cry.\"{w}",
+  "kind": "msg",
+  "note": "Who promised is unstated; read as Milia (she is the one crying). Could be 'we promised'."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@832ec",
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@832f5",
+  "en": "\"Oh, come on. You promised you wouldn't cry.{w}We'd like to give you this, from all of us.\"{w}",
+  "kind": "msg",
+  "note": "Alternate version of row 123 (likely a branch); first sentence kept identical to row 123. Second sentence addressed to the party."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@833e9",
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@833f2",
+  "en": "\"This is as much as we can do for you.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8342c",
+  "en": "Miria",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83435",
+  "en": "\"Uuu... *sniff*...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83464",
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8346d",
+  "en": "\"Honestly, this is supposed to be their big send-off.{w}Your face is a total mess, you know?\"{w}",
+  "kind": "msg",
+  "note": "kado-de = the party setting out; Soara is scolding Milia. 'their' chosen because the send-off is for the party."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@834bc",
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@834c5",
+  "en": "\"We don't think of this as goodbye, you know.{w}It's really hard, seeing all of you leave Bistel.{w}But you know...\"{w}",
+  "kind": "msg",
+  "note": "minna = the party. Sentence is handed over to Milia in row 135; cut kept at 'But you know...'."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83544",
+  "en": "Miria",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8354d",
+  "en": "\"Our memories... you see.{w}I believe they'll keep us connected, always.\"{w}{p}\"I mean, we got to meet again today like this, didn't we?{w}So we'll see each other again someday, right!\"{w}",
+  "kind": "msg",
+  "note": "Continues Soara's row 133 ('But you know... our memories...'). Subject 'I' restored for shinjiteru."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83606",
+  "en": "Soara's Voice",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83613",
+  "en": "\"I think it's about time...{w}The linked lands are starting to return to the way they were.{w}I wish we could stay, but this is as far as we can see you off.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8367e",
+  "en": "Miria's Voice",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@8368b",
+  "en": "\"We're all rooting for you!{w}Even when we're apart, we'll be friends forever and ever!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@836e0",
+  "en": "Soara & Miria",
+  "kind": "name",
+  "note": "Source is 'Voices of Soara and Milia'; 'Voices' dropped to stay under the ~16-char name-box limit ('Soara & Milia's Voices' = 22). Rows 136/138 keep 'Voice'."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@836f5",
+  "en": "\"See you again someday...!!\"{w}",
+  "kind": "msg",
+  "note": "Source uses doubled brackets for two people speaking in unison; English uses one pair of quotes (the name box already shows both speakers)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83746",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83751",
+  "en": "\"...Those are some wonderful friends you've got.{w}I even teared up a little myself.{w}Geez, me, the great Fena, of all people...\"{w}{p}\"Right, then.\"{w}",
+  "kind": "msg",
+  "note": "'kono Fena-san ga' = Fena referring to herself with mock pride; rendered 'the great Fena'."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@837db",
+  "en": "Fena",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@837e6",
+  "en": "\"Let's shake it off and get moving!{w}When the wind blows and the storm has passed, blue skies are always waiting!\"{w}{p}\"I'll be watching your new adventure with these very eyes, you know!{w}So, once more, welcome aboard!!\"{w}",
+  "kind": "msg",
+  "note": "aratamete yoroshiku = 'let's start properly this time'; rendered 'once more, welcome aboard'."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@838ad",
+  "en": "Fena went back to the Training Hall.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83909",
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83912",
+  "en": "\"I'm sure these will come in handy...\"{w}",
+  "kind": "msg",
+  "note": "Object unstated; 'these' because the medals are handed over in rows 149-155. If the gift is a single item, change to 'this'."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83955",
+  "en": "You were given 1 Medal of Power.{w}",
+  "kind": "msg",
+  "note": "Item name 'chikara no medaru' -> 'Medal of Power' (new term; check item table for an existing English name)."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@839b0",
+  "en": "Miria",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@839b9",
+  "en": "\"Th-this is...{w}*hic*... from Ragnastia, and Costo, and Archelon and everyone...\"{w}",
+  "kind": "msg",
+  "note": "Honorifics dropped: Milia says Ragnastia-sama and Archelon-sama but Costo-san (callback to rows 76-78, where she says Costo needs no -sama). English Lord/Lady would need genders the text does not give. Sentence trails off as in source."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83a5b",
+  "en": "You were given 2 Medals of Power.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83adb",
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83ae4",
+  "en": "\"Apparently this was entrusted to Sigret by a certain princess during the journey.\"{w}{p}\"You know who I mean, don't you?\"{w}",
+  "kind": "msg",
+  "note": "Rephrased so no pronoun is needed for Sigret (gender unknown). 'anata' is singular: Soara addresses one person (probably the party leader/player); English 'you' covers it."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83ba1",
+  "en": "You were given 3 Medals of Power.{w}",
+  "kind": "msg"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83bdb",
+  "en": "???",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83be4",
+  "en": "'Get out there and give it your all, you hear meeee!!'{w}",
+  "kind": "msg",
+  "note": "Source uses double corner brackets (a message/remembered voice, presumably the princess from row 154), so single quotes per brief. Bossy imperative tone and the drawn-out vowel kept."
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83c7d",
+  "en": "Soara",
+  "kind": "name"
+ },
+ {
+  "id": "91101-ARG_TOP_IN.bin@83c86",
+  "en": "\"Looks like your bags are full.{w}I'll sell it to the shop of someone called Gia, so buy it back if you need it.\"{w}",
+  "kind": "msg",
+  "note": "'Jia tte hito' = Soara doesn't know Gia ('someone called Gia'). Object of 'sell' unstated; 'it' = the item that didn't fit."
+ }
+]

@@ -1,0 +1,1754 @@
+[
+ {
+  "en": "Cannot equip: this character has changed classes before.",
+  "kind": "help",
+  "note": "Innocent-series restriction (ctx). Subject 'this character' restored."
+ },
+ {
+  "en": "There is no one to hand the item to.",
+  "kind": "help"
+ },
+ {
+  "en": "Unable to use items in this condition.",
+  "kind": "help",
+  "note": "Status-ailment case; impersonal kept (applies to the selected character). Editorial: clipped fragment reworded; impersonal kept, parallel to 547."
+ },
+ {
+  "en": "This item is unidentified. Please have it appraised.",
+  "kind": "help",
+  "note": "'Identify' as in ebt slice_12. Editorial: action verb unified to 'appraise' (ebt menu 'Appraise', rows 482/535-597); status stays 'unidentified'."
+ },
+ {
+  "en": "Cannot equip: the equipment requirements are not met.",
+  "kind": "help"
+ },
+ {
+  "en": "This item has already been appraised.",
+  "kind": "help",
+  "note": "Editorial: 'appraise' unified (see 453)."
+ },
+ {
+  "en": "This item is broken.",
+  "kind": "help"
+ },
+ {
+  "en": "A child born of a cursed act cannot equip this item.",
+  "kind": "help",
+  "note": "Literal, not softened. A birth-trait restriction; exact mechanic unknown."
+ },
+ {
+  "en": "The item slots are full.",
+  "kind": "help"
+ },
+ {
+  "en": "Characters with the Cook skill cannot eat this.",
+  "kind": "help",
+  "note": "Skill name 'Cook' as in ebt slice_15."
+ },
+ {
+  "en": "Organize the items in the Servant's Bag.",
+  "kind": "help",
+  "note": "NEW TERM: Servant's Bag (Servant = class name, ebt row 1301). The JOB_EX label (slice_30 row 2529, max 8 bytes) needs a short form."
+ },
+ {
+  "en": ": move it back to the item list. Triangle: Set the recovery timing.",
+  "kind": "help",
+  "note": "Source begins with the object particle: an item name is presumably prepended at runtime. Colon form chosen so it reads after a name ('Potion: move it back...'). Verify in game. Editorial: capital after 'Triangle:' as in the other button prompts."
+ },
+ {
+  "en": "Set when Maid Recover heals from the bag.",
+  "kind": "help",
+  "note": "Maid Recover = ability name (ebt slice_09). Lit. 'set the timing of recovery by Maid Recover'."
+ },
+ {
+  "en": "The item slots are full, so it cannot be returned to the item list.",
+  "kind": "help",
+  "note": "Editorial: 'Your items are full' was unidiomatic; matches row 458 'item slots'."
+ },
+ {
+  "en": "This character is not a Servant.",
+  "kind": "help",
+  "note": "Subject restored; Servant = class."
+ },
+ {
+  "en": "This requires the High Master ability Fate Alteration.",
+  "kind": "help",
+  "note": "NEW TERM: Fate Alteration (Bard High Master ability, deck change; ctx marks the row spec-deleted). JOB_EX row 2419 (slice_29) should match."
+ },
+ {
+  "en": ": put it into the Servant's Bag. Triangle: Set the recovery timing.",
+  "kind": "help",
+  "note": "Same runtime-prefix pattern as row 461. Editorial: capital after 'Triangle:' as in 461."
+ },
+ {
+  "en": "That item is not in the Servant's Bag.",
+  "kind": "help"
+ },
+ {
+  "en": "Check a character's condition in detail.",
+  "kind": "help"
+ },
+ {
+  "en": "Split all party members' money evenly.",
+  "kind": "help"
+ },
+ {
+  "en": "Collect all party members' money.",
+  "kind": "help"
+ },
+ {
+  "en": "Who will you cast the spell on?",
+  "kind": "help"
+ },
+ {
+  "en": "This stat is already at MAX.",
+  "kind": "help",
+  "note": "'Status' here = a character stat (stat-raise context)."
+ },
+ {
+  "en": "That is the same as the current alignment.",
+  "kind": "help",
+  "note": "seikaku = alignment (alchemy spell that changes alignment; ebt uses 'alignment' for seikaku)."
+ },
+ {
+  "en": "Cast the spell?",
+  "kind": "help"
+ },
+ {
+  "en": "Triangle: Resists & Slaying   Cross: Back.",
+  "kind": "help",
+  "note": "Reused from ebt slice_02 row 149 (same string) plus the source period."
+ },
+ {
+  "en": "Triangle: Special Effects & Resists  Cross: Back.",
+  "kind": "help",
+  "note": "Reused from ebt slice_02 row 150 plus period."
+ },
+ {
+  "en": "Triangle: Monster Effects  Cross: Back.",
+  "kind": "help",
+  "note": "Patterned on ebt rows 149-151."
+ },
+ {
+  "en": "Triangle: Passives  Cross: Back.",
+  "kind": "help",
+  "note": "'Passives' as in ebt slice_02 row 151."
+ },
+ {
+  "en": "Show the list of skills.",
+  "kind": "help"
+ },
+ {
+  "en": "A tavern where adventurers gather.",
+  "kind": "help"
+ },
+ {
+  "en": "Restore HP and MP, and do smithing and alchemy.",
+  "kind": "help",
+  "note": "Accuracy: [JP] (spell-use pool restored at the inn, parallel to [JP] = HP) rendered MP, as ITEM_HELP does; 'spell power' could read as spell strength."
+ },
+ {
+  "en": "Buy and sell items, or have them appraised.",
+  "kind": "help"
+ },
+ {
+  "en": "Provides healing, resurrection and more.",
+  "kind": "help"
+ },
+ {
+  "en": "Browse the encyclopedias and report your adventure's progress.",
+  "kind": "help",
+  "note": "zukan = encyclopedias (credits 'Encyclopedia Text')."
+ },
+ {
+  "en": "Register characters and more.",
+  "kind": "help"
+ },
+ {
+  "en": "Downed characters were carried to the temple.",
+  "kind": "help",
+  "note": "Reused from ebt slice_04 row 310 (same string)."
+ },
+ {
+  "en": "Who will you talk to?",
+  "kind": "help"
+ },
+ {
+  "en": "Have a conversation.",
+  "kind": "help"
+ },
+ {
+  "en": "Ask about the myths.",
+  "kind": "help"
+ },
+ {
+  "en": "Imbue the compass with light.",
+  "kind": "help",
+  "note": "Matches ebt slice_03 'imbue it with light'."
+ },
+ {
+  "en": "Hear an oracle.",
+  "kind": "help",
+  "note": "otsuge = oracle (wmap slice_15)."
+ },
+ {
+  "en": "Which oracle will you hear?",
+  "kind": "help"
+ },
+ {
+  "en": "You have already bought this hint.",
+  "kind": "help"
+ },
+ {
+  "en": "This is not a 0 GP item, so it cannot be sold here.",
+  "kind": "help"
+ },
+ {
+  "en": "View alchemy hints.",
+  "kind": "help",
+  "note": "ctx marks this feature as dropped."
+ },
+ {
+  "en": "View the request list.",
+  "kind": "help",
+  "note": "soudan = request, as in ebt 'Choose a request.'"
+ },
+ {
+  "en": "This request has been solved.",
+  "kind": "help"
+ },
+ {
+  "en": "Change today's weather.",
+  "kind": "help"
+ },
+ {
+  "en": "Go back.",
+  "kind": "help"
+ },
+ {
+  "en": "Go to the World Map.",
+  "kind": "help",
+  "note": "'World Map' as in ebt slice_13."
+ },
+ {
+  "en": "Choose where to go.",
+  "kind": "help"
+ },
+ {
+  "en": "Go to the Colored Corridor.",
+  "kind": "help",
+  "note": "Name from column_spec (EL_SAI); not yet in the glossary."
+ },
+ {
+  "en": "View the Recorded History.",
+  "kind": "help",
+  "note": "Name from column_spec (EL_KIRO); the ebt prompt uses lowercase 'a recorded history'."
+ },
+ {
+  "en": "Look at the Inner Door.",
+  "kind": "help",
+  "note": "'Inner Door' as in ebt slice_18 ('About the Inner Door')."
+ },
+ {
+  "en": "Small talk.",
+  "kind": "help"
+ },
+ {
+  "en": "Go to Agres Plaza.",
+  "kind": "help",
+  "note": "NEW NAME. Rows 508-519 are facilities of the towns Isfald, Saimar Port, Gandra Mine and Semnadoc (probably legacy from the previous game); romanized."
+ },
+ {
+  "en": "Go to Lunea's Shop.",
+  "kind": "help",
+  "note": "NEW NAME (pattern of Kembeck's Shop)."
+ },
+ {
+  "en": "Go to Old Aim.",
+  "kind": "help",
+  "note": "NEW NAME. Same katakana appears as a MONSTER1 skill name; nature of this venue unknown. Editorial: article dropped, like the other place names (Harjiradam, Agres Plaza)."
+ },
+ {
+  "en": "Go to Yotel Wharf.",
+  "kind": "help",
+  "note": "NEW NAME."
+ },
+ {
+  "en": "Go to Bilente's Shop.",
+  "kind": "help",
+  "note": "NEW NAME."
+ },
+ {
+  "en": "Go to the Grand Merchant's Office.",
+  "kind": "help",
+  "note": "NEW TERM: daishouchou = Grand Merchant (title of Walmit in ITEM_TEXT, slice_26)."
+ },
+ {
+  "en": "Go to the Canteen.",
+  "kind": "help",
+  "note": "kyuujiba in the mine town; 'Canteen'."
+ },
+ {
+  "en": "Go to Jela's General Store.",
+  "kind": "help",
+  "note": "NEW NAME."
+ },
+ {
+  "en": "Go to the Blast Furnace.",
+  "kind": "help"
+ },
+ {
+  "en": "Go to Harjiradam.",
+  "kind": "help",
+  "note": "NEW NAME (romanization of haajiradamu; uncertain)."
+ },
+ {
+  "en": "Go to the Caron Main Store.",
+  "kind": "help",
+  "note": "NEW NAME (honten = main store / flagship)."
+ },
+ {
+  "en": "Go to Semnadoc Cathedral.",
+  "kind": "help",
+  "note": "NEW NAME (Semnadoc, town; also in ITEM_TEXT slice_26)."
+ },
+ {
+  "en": "Enter a dungeon, resume an adventure, or save your progress.",
+  "kind": "help",
+  "note": "bouken no kiroku = saving the adventure record. Editorial: repeated 'adventure' removed; 'save your progress' as in row 772."
+ },
+ {
+  "en": "Talk to the person on the left.",
+  "kind": "help"
+ },
+ {
+  "en": "Talk to the person in the middle.",
+  "kind": "help"
+ },
+ {
+  "en": "Talk to the person on the right.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character from the list and add them to the party.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to call.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose where to place them in the party.",
+  "kind": "help",
+  "note": "yobidashi-saki = destination slot after choosing the character (ctx)."
+ },
+ {
+  "en": "The party is full.",
+  "kind": "help"
+ },
+ {
+  "en": "There are no characters you can call.",
+  "kind": "help"
+ },
+ {
+  "en": "Their alignments differ, so they cannot form a party.",
+  "kind": "help",
+  "note": "seikaku = alignment (Good and Evil cannot party)."
+ },
+ {
+  "en": "Remove a character from the party and put them on standby.",
+  "kind": "help",
+  "note": "Editorial: 'have them wait' was stiff; standby wording."
+ },
+ {
+  "en": "Choose a character to put on standby.",
+  "kind": "help",
+  "note": "Editorial: 'to have wait' was ungrammatical-sounding; matches 530."
+ },
+ {
+  "en": "Please form a party.",
+  "kind": "help",
+  "note": "Shown after Stand By when the party is empty; dupes 16."
+ },
+ {
+  "en": "Check a character's status.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character.",
+  "kind": "help"
+ },
+ {
+  "en": "With a Bishop in the party, list all unidentified items and appraise them in one go.",
+  "kind": "help",
+  "note": "Bishop = glossary class name. 'Appraise' matches the skill/menu term in ebt."
+ },
+ {
+  "en": "There is no one who can appraise.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose who will do the appraising.",
+  "kind": "help"
+ },
+ {
+  "en": "Which item will you appraise?",
+  "kind": "help"
+ },
+ {
+  "en": "Item appraised.",
+  "kind": "help"
+ },
+ {
+  "en": "Change the party's formation.",
+  "kind": "help"
+ },
+ {
+  "en": "Pick who to move, then where. That character's icon leaves the lower row and moves to the upper one. Once all party members have moved, it ends automatically.",
+  "kind": "help",
+  "note": "Compressed to fit 158 bytes; all three sentences kept."
+ },
+ {
+  "en": "Let a character rest. Square repeats the Circle button.",
+  "kind": "help",
+  "note": "Button names spelled out (Circle/Square), as in ebt translations."
+ },
+ {
+  "en": "The whole party rests. Square repeats the Circle button.",
+  "kind": "help"
+ },
+ {
+  "en": "Storage reserved for Alchemists. Smithing and alchemy are done here.",
+  "kind": "help",
+  "note": "Alchemist = class name."
+ },
+ {
+  "en": "Choose a character to stay at the inn.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a room to stay in.",
+  "kind": "help"
+ },
+ {
+  "en": "Unable to stay at the inn in this condition.",
+  "kind": "help",
+  "note": "Subject unclear (character or party); kept impersonal."
+ },
+ {
+  "en": "Choose the character who will pay the fee.",
+  "kind": "help",
+  "note": "Alchemy Storage usage fee."
+ },
+ {
+  "en": "You don't have enough money to pay the fee.",
+  "kind": "help"
+ },
+ {
+  "en": "Fuse an item with ore to give it added effects.",
+  "kind": "help"
+ },
+ {
+  "en": "Combine ores to create alchemy items.",
+  "kind": "help"
+ },
+ {
+  "en": "Restore smithed weapons and armor to their original state.",
+  "kind": "help"
+ },
+ {
+  "en": "Put items you are carrying into storage.",
+  "kind": "help"
+ },
+ {
+  "en": "Take stored items out of storage.",
+  "kind": "help"
+ },
+ {
+  "en": "There are no items in storage.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose who will do the smithing.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose the weapon to enhance.",
+  "kind": "help",
+  "note": "Source says weapon only."
+ },
+ {
+  "en": "Choose the ore to add.",
+  "kind": "help"
+ },
+ {
+  "en": "Allocate the grade points.",
+  "kind": "help",
+  "note": "[JP] = 'grade', as in wmap slice_06 (Madule's ore-grade line). 'points' added for the allocation screen; uncertain."
+ },
+ {
+  "en": "Can't smith without the Alchemy skill.",
+  "kind": "help",
+  "note": "[JP] = alchemy skills (generic, not a named skill). Accuracy: [JP] unified with row 807 and the JOB_EX skill name 'Alchemy' (literal: smithing blocked for lack of the Alchemy skill)."
+ },
+ {
+  "en": "There's no base item, so smithing can't be done.",
+  "kind": "help",
+  "note": "Source literally says [JP] (alchemy) can't be done, but the row is in the smithing flow (no base weapon/armor); rendered as smithing. Flag for review. Editorial: smith/smithing repetition removed."
+ },
+ {
+  "en": "No one is in a condition to perform alchemy.",
+  "kind": "help",
+  "note": "Ctx: shown when status ailments etc. leave no one able."
+ },
+ {
+  "en": "No one is in a condition to do smithing.",
+  "kind": "help"
+ },
+ {
+  "en": "No one is in a condition to dismantle.",
+  "kind": "help"
+ },
+ {
+  "en": "Smithing complete.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose who will perform the alchemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose the first ore.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose the second ore.",
+  "kind": "help"
+ },
+ {
+  "en": "Can't perform alchemy without the Alchemy skill.",
+  "kind": "help",
+  "note": "Accuracy: [JP] unified with row 807 / JOB_EX 'Alchemy'."
+ },
+ {
+  "en": "You have no alchemy materials, so alchemy can't be performed.",
+  "kind": "help"
+ },
+ {
+  "en": "This combination can't be used for alchemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Alchemy requires at least two materials.",
+  "kind": "help"
+ },
+ {
+  "en": "Alchemy complete.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose who will do the dismantling.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose the item to dismantle.",
+  "kind": "help"
+ },
+ {
+  "en": "Can't dismantle without the Dismantle skill.",
+  "kind": "help",
+  "note": "[JP] is a JOB_EX skill name; 'Dismantle' per ebt menu."
+ },
+ {
+  "en": "There are no items to dismantle.",
+  "kind": "help"
+ },
+ {
+  "en": "You can't carry the items that dismantling would produce.",
+  "kind": "help"
+ },
+ {
+  "en": "Dismantling complete.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose the item to store.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose the item to take out.",
+  "kind": "help"
+ },
+ {
+  "en": "This item can't be stored.",
+  "kind": "help"
+ },
+ {
+  "en": "The storage is full. No more items can be stored.",
+  "kind": "help"
+ },
+ {
+  "en": "Item placed in storage.",
+  "kind": "help"
+ },
+ {
+  "en": "Who will take items out of storage?",
+  "kind": "help"
+ },
+ {
+  "en": "Item taken out of storage.",
+  "kind": "help"
+ },
+ {
+  "en": "Buy and sell goods.",
+  "kind": "help"
+ },
+ {
+  "en": "Appraise unidentified items.",
+  "kind": "help"
+ },
+ {
+  "en": "List everyone's unequipped items and sell them in bulk.",
+  "kind": "help"
+ },
+ {
+  "en": "Lift curses from cursed items. Also repairs broken items.",
+  "kind": "help"
+ },
+ {
+  "en": "There are no items to appraise.",
+  "kind": "help"
+ },
+ {
+  "en": "There are no items to sell.",
+  "kind": "help"
+ },
+ {
+  "en": "Nothing needs uncursing or repair.",
+  "kind": "help"
+ },
+ {
+  "en": "Who will trade?",
+  "kind": "help"
+ },
+ {
+  "en": "There is no one who can trade.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an item to appraise.",
+  "kind": "help"
+ },
+ {
+  "en": "Appraising the item.",
+  "kind": "help",
+  "note": "Shown once the item is chosen; same shape as 602."
+ },
+ {
+  "en": "Choose items to sell.",
+  "kind": "help",
+  "note": "Bulk-sell list, so plural."
+ },
+ {
+  "en": "Choose an item to uncurse or repair.",
+  "kind": "help"
+ },
+ {
+  "en": "This item is cursed.",
+  "kind": "help"
+ },
+ {
+  "en": "This item needs repair.",
+  "kind": "help"
+ },
+ {
+  "en": "Uncursing/repairing the item.",
+  "kind": "help",
+  "note": "Slash form matches ebt 'Uncurse/Repair it?'."
+ },
+ {
+  "en": "Buy items.",
+  "kind": "help"
+ },
+ {
+  "en": "Sell items.",
+  "kind": "help"
+ },
+ {
+  "en": "Unidentified items can't be sold.",
+  "kind": "help"
+ },
+ {
+  "en": "Not enough money to buy this.",
+  "kind": "help"
+ },
+ {
+  "en": "Items worth 0 GP can't be sold.",
+  "kind": "help"
+ },
+ {
+  "en": "Items not worth 0 GP can't be sold here.",
+  "kind": "help",
+  "note": "0 GP shop: only 0 GP items can be sold."
+ },
+ {
+  "en": "Choose an item category.",
+  "kind": "help"
+ },
+ {
+  "en": "Circle: Buy. Triangle: View item details.",
+  "kind": "help",
+  "note": "Button format as in ebt ('Triangle: ...')."
+ },
+ {
+  "en": "This item is out of stock.",
+  "kind": "help"
+ },
+ {
+  "en": "You don't have enough money to buy this.",
+  "kind": "help"
+ },
+ {
+  "en": "Buying this item.",
+  "kind": "help"
+ },
+ {
+  "en": "Selling this item.",
+  "kind": "help"
+ },
+ {
+  "en": "Circle: Sell.",
+  "kind": "help"
+ },
+ {
+  "en": "This item can't be sold.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an item and a transaction. Circle: One at a time. Square: Repeat Circle.",
+  "kind": "help",
+  "note": "Servant's Bag trade screen; 'Square repeats the Circle press' rendered as 'Square: Repeat Circle'."
+ },
+ {
+  "en": "The bag can hold up to 99 items.",
+  "kind": "help"
+ },
+ {
+  "en": "Only Servants can use the bag.",
+  "kind": "help",
+  "note": "Shiyounin = Servant (class name, ebt slice_16); the bag is the Servant's Bag."
+ },
+ {
+  "en": "You don't have that item.",
+  "kind": "help"
+ },
+ {
+  "en": "Treat and retrieve characters.",
+  "kind": "help",
+  "note": "Kaishuu = retrieve (ebt slice_02 temple messages)."
+ },
+ {
+  "en": "Donate money to gain experience.",
+  "kind": "help"
+ },
+ {
+  "en": "Offer a prayer to the gods.",
+  "kind": "help",
+  "note": "Kami: no deity named; plural 'the gods' chosen as neutral."
+ },
+ {
+  "en": "Perform the Rite of Flux.",
+  "kind": "help",
+  "note": "Glossary term."
+ },
+ {
+  "en": "Choose who will donate.",
+  "kind": "help"
+ },
+ {
+  "en": "Enter the amount to donate. Each 1 GP grants 1 EP of experience.",
+  "kind": "help",
+  "note": "EP kept as in source (experience points)."
+ },
+ {
+  "en": "Not enough money.",
+  "kind": "help"
+ },
+ {
+  "en": "Donated.",
+  "kind": "help",
+  "note": "Matches ebt slice_03."
+ },
+ {
+  "en": "Cure status ailments.",
+  "kind": "help"
+ },
+ {
+  "en": "Take back someone left in the temple's care.",
+  "kind": "help",
+  "note": "Hikitoru = take back (kept distinct from kaishuu = retrieve)."
+ },
+ {
+  "en": "Leave someone who needs treatment in the temple's care.",
+  "kind": "help"
+ },
+ {
+  "en": "Request retrieval of characters whose party was wiped out.",
+  "kind": "help"
+ },
+ {
+  "en": "No one needs treatment.",
+  "kind": "help"
+ },
+ {
+  "en": "No one is in the temple's care.",
+  "kind": "help"
+ },
+ {
+  "en": "No one needs to be retrieved.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to treat.",
+  "kind": "help",
+  "note": "Matches ebt slice_02."
+ },
+ {
+  "en": "Choose who will pay the offering.",
+  "kind": "help",
+  "note": "Matches ebt slice_02 wording for the same screen."
+ },
+ {
+  "en": "Choose who to take back.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose where to put them.",
+  "kind": "help",
+  "note": "Slot in the roster/party for the returned character; 'them' = the character(s), number unknown."
+ },
+ {
+  "en": "Choose who to leave in the temple's care.",
+  "kind": "help"
+ },
+ {
+  "en": "Taken back.",
+  "kind": "help"
+ },
+ {
+  "en": "Left in the temple's care.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to retrieve.",
+  "kind": "help",
+  "note": "Matches ebt slice_02."
+ },
+ {
+  "en": "The Rite of Flux randomly relocates divine relics and other items you have not yet obtained. This cannot be undone, so be careful.",
+  "kind": "help",
+  "note": "Glossary: Rite of Flux, divine relic."
+ },
+ {
+  "en": "Seek an audience with the king.",
+  "kind": "help"
+ },
+ {
+  "en": "View details of the monsters you have defeated.",
+  "kind": "help"
+ },
+ {
+  "en": "View details of the items you have sold to shops.",
+  "kind": "help"
+ },
+ {
+  "en": "* Coming Soon *",
+  "kind": "help",
+  "note": "Shown before the 0 GP shop opens (ctx)."
+ },
+ {
+  "en": "View details of the 0 GP items you have sold to shops.",
+  "kind": "help"
+ },
+ {
+  "en": "View details of the people you have met so far.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a type of monster to view.",
+  "kind": "help",
+  "note": "Shuzoku for monsters rendered 'type' (character race stays 'race', row 681)."
+ },
+ {
+  "en": "Choose a monster to view.",
+  "kind": "help"
+ },
+ {
+  "en": "Triangle: Switch view. Cross: Back.",
+  "kind": "help"
+ },
+ {
+  "en": "No monsters defeated yet.",
+  "kind": "help",
+  "note": "Bestiary screen; unclear whether shown for an empty type or a single entry -- wording kept general. Unverified in game."
+ },
+ {
+  "en": "Triangle: Switch view. Cross: Back. Up/Down on the D-pad or analog pad: Move viewpoint.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an item category to view.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an item to view.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a person.",
+  "kind": "help"
+ },
+ {
+  "en": "Cross: Back.",
+  "kind": "help"
+ },
+ {
+  "en": "Register a new character.",
+  "kind": "help"
+ },
+ {
+  "en": "View details of registered characters.",
+  "kind": "help"
+ },
+ {
+  "en": "Delete a registered character.",
+  "kind": "help"
+ },
+ {
+  "en": "Change a registered character's name or icon.",
+  "kind": "help"
+ },
+ {
+  "en": "Change the class of a character who meets the requirements.",
+  "kind": "help"
+ },
+ {
+  "en": "The adventurer roster is full.",
+  "kind": "help"
+ },
+ {
+  "en": "The character list is empty.",
+  "kind": "help"
+ },
+ {
+  "en": "An NPC's place in the list can't be changed.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to view. Square: Reorder characters.",
+  "kind": "help"
+ },
+ {
+  "en": "Circle: Spell List. Triangle: Character Details. Cross: Back.",
+  "kind": "help"
+ },
+ {
+  "en": "Triangle: Character Details. Cross: Back.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to delete. Square: Reorder characters.",
+  "kind": "help"
+ },
+ {
+  "en": "Adventurers in an active party can't be deleted.",
+  "kind": "help",
+  "note": "Koudouchuu = currently in a party (ctx)."
+ },
+ {
+  "en": "Character deleted.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to rename. Square: Reorder characters.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a character to change class.",
+  "kind": "help"
+ },
+ {
+  "en": "Enter a name. A name needs at least one non-space character.",
+  "kind": "help"
+ },
+ {
+  "en": "Enter a nickname. A nickname needs at least one non-space character.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a race.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a gender.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an alignment.",
+  "kind": "help",
+  "note": "Seikaku in character creation = alignment (ebt slice_01 'Change to which alignment?')."
+ },
+ {
+  "en": "Choose an age.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a class. Square: Reroll bonus points.",
+  "kind": "help"
+ },
+ {
+  "en": "Allocate the bonus points.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a face icon. To use an icon downloaded with Face Load, select the Face Load button.",
+  "kind": "help",
+  "note": "New term: Face Load (feature name, romanized)."
+ },
+ {
+  "en": "Character registered.",
+  "kind": "help"
+ },
+ {
+  "en": "At least one non-space character is required.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose an Extra Skill.",
+  "kind": "help",
+  "note": "Matches ebt slice_03 'Extra Skill'."
+ },
+ {
+  "en": "Choose Face Load data.",
+  "kind": "help",
+  "note": "New term: Face Load."
+ },
+ {
+  "en": "Choose Style Load data.",
+  "kind": "help",
+  "note": "New term: Style Load."
+ },
+ {
+  "en": "Enter an epithet. It can be left blank if there is none.",
+  "kind": "help",
+  "note": "Futatsuna = epithet (glossary)."
+ },
+ {
+  "en": "Enter a personality comment.",
+  "kind": "help",
+  "note": "Matches ebt slice_03 'personality comment'."
+ },
+ {
+  "en": "Returns to the previous screen.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a destination.",
+  "kind": "help"
+ },
+ {
+  "en": "Saves the game.",
+  "kind": "help"
+ },
+ {
+  "en": "This party suspended its adventure. It can resume.",
+  "kind": "help",
+  "note": "Pattern follows ebt 'This party was wiped out. It cannot resume.'"
+ },
+ {
+  "en": "This is your current party. It cannot resume.",
+  "kind": "help"
+ },
+ {
+  "en": "This is the event list.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the in-game BGM volume.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the in-game SE (sound effect) volume.",
+  "kind": "help",
+  "note": "SE kept as on the option label; expanded once for clarity."
+ },
+ {
+  "en": "Turns the help message animation on or off.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the conversation message speed on a 5-level scale. 1 is the slowest and 5 is the fastest.",
+  "kind": "help",
+  "note": "Editorial: 'in 5 steps' was unidiomatic."
+ },
+ {
+  "en": "Sets whether the cursor position is remembered.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets whether nicknames are shown on the party panel.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets whether HP/AC are shown on the party panel.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets blue as the transparent color for images imported with Face Load.",
+  "kind": "help",
+  "note": "Face Load (feature name) romanized from the katakana; same family as Style/Sound/Dungeon Load."
+ },
+ {
+  "en": "Turns the in-game hurt SE on or off.",
+  "kind": "help",
+  "note": "yarare SE = sound played when a character is hit/downed; rendered 'hurt SE'. Unverified in game."
+ },
+ {
+  "en": "Sets the SE for the adventurers' side.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the SE for the monsters' side.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets how effects are displayed during battle.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the battle message speed on a 5-level scale. 1 is the slowest and 5 is the fastest.",
+  "kind": "help",
+  "note": "Source says only 'message speed'; designer note and Battle tab confirm it is the battle message speed, so 'battle' added to tell it apart from row 704. Editorial: same as 704."
+ },
+ {
+  "en": "Renames each of the spells the player can use.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets whether enemy spell names are renamed as well.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the display format of the battle log.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the names shown in the battle log.",
+  "kind": "help"
+ },
+ {
+  "en": "Summoner spell names cannot be changed.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets whether follow-up monsters are shown when they appear.",
+  "kind": "help",
+  "note": "koezoku = monsters arriving after the first group (cf. ebt 'More monsters were called in')."
+ },
+ {
+  "en": "Sets what happens when you press Down on the D-pad.",
+  "kind": "help",
+  "note": "Editorial: [JP] = 'D-pad' as in row 658."
+ },
+ {
+  "en": "Turns the movement animation on or off.",
+  "kind": "help"
+ },
+ {
+  "en": "Shows or hides the clock.",
+  "kind": "help"
+ },
+ {
+  "en": "Shows or hides the party panel.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets which direction is at the top of the minimap.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets the size of the minimap.",
+  "kind": "help"
+ },
+ {
+  "en": "Resets all options, including spell name changes, to their defaults.",
+  "kind": "help"
+ },
+ {
+  "en": "Configures general settings.",
+  "kind": "help"
+ },
+ {
+  "en": "Configures settings mainly used in battle.",
+  "kind": "help"
+ },
+ {
+  "en": "Configures settings mainly used in dungeons.",
+  "kind": "help"
+ },
+ {
+  "en": "Resets all settings to their defaults.",
+  "kind": "help"
+ },
+ {
+  "en": "Configures Face/Style Load settings.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets whether characters with serious status ailments are automatically admitted for treatment when they return to town.",
+  "kind": "help",
+  "note": "nyuuin (hospitalization): healing happens at Rust Temple, but source does not name it, so 'admitted for treatment' is used."
+ },
+ {
+  "en": "When importing BMP data for Face Load, sets whether blue is treated as the transparent color.",
+  "kind": "help"
+ },
+ {
+  "en": "When importing BMP data for Style Load, sets whether blue is treated as the transparent color.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets how style images are shown on the character status screen.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets how style images are shown on the battle screen.",
+  "kind": "help"
+ },
+ {
+  "en": "Imports Face Load data from the Memory Stick.",
+  "kind": "help",
+  "note": "The trailing bar glyph after Memory Stick (trademark mark in the JP font) is dropped, as in the ebt translations."
+ },
+ {
+  "en": "Imports Style Load data from the Memory Stick.",
+  "kind": "help",
+  "note": "Bar glyph dropped as in row 738."
+ },
+ {
+  "en": "Imports Sound Load data from the Memory Stick.",
+  "kind": "help",
+  "note": "Bar glyph dropped as in row 738."
+ },
+ {
+  "en": "Imports Dungeon Load data from, and exports it to, the Memory Stick.",
+  "kind": "help",
+  "note": "Spelling 'Dungeon Load' follows the majority of existing ebt/chap rows (3 'Load' vs 2 'Road' in ebt slice_07); flag for a corpus-wide check. Bar glyph dropped. Accuracy: lead decision [JP] = 'Dungeon Road' applied (glossary entry still says 'Dungeon Load'). Editorial: reverted to 'Dungeon Load' per the CSV lead decision (data-load feature; overrides the accuracy-stage 'Road')."
+ },
+ {
+  "en": "Installs the game data.",
+  "kind": "help"
+ },
+ {
+  "en": "Enters the password for the Book of the Next Age.",
+  "kind": "help"
+ },
+ {
+  "en": "Select a slot to import into. Square: Swap data. Triangle: Delete data.",
+  "kind": "help",
+  "note": "Editorial: capital after button labels, as elsewhere."
+ },
+ {
+  "en": "Select the data to import.",
+  "kind": "help"
+ },
+ {
+  "en": "Select the track to replace. Triangle: Restore the original setting.",
+  "kind": "help",
+  "note": "Editorial: capital after button label."
+ },
+ {
+  "en": "Select the sound data to import.",
+  "kind": "help"
+ },
+ {
+  "en": "Select the playback volume to set.",
+  "kind": "help"
+ },
+ {
+  "en": "Use Up/Down to set the playback volume. Triangle: Restore the original setting.",
+  "kind": "help",
+  "note": "Editorial: capital after button label."
+ },
+ {
+  "en": "Select the data to work with.",
+  "kind": "help"
+ },
+ {
+  "en": "Exports the selected data to the transfer folder. Any data already in the transfer folder will be lost.",
+  "kind": "help"
+ },
+ {
+  "en": "Imports the data in the transfer folder. Any data in the selected slot will be lost.",
+  "kind": "help"
+ },
+ {
+  "en": "Enters a password.",
+  "kind": "help"
+ },
+ {
+  "en": "Please enter the password.",
+  "kind": "help"
+ },
+ {
+  "en": "Settings for using the effects of the Book of the Next Age.",
+  "kind": "help"
+ },
+ {
+  "en": "Sets up the compass.",
+  "kind": "help"
+ },
+ {
+  "en": "Views the Key Items you are carrying.",
+  "kind": "help"
+ },
+ {
+  "en": "Searches the dungeon for parties that suspended their adventure or were wiped out.",
+  "kind": "help"
+ },
+ {
+  "en": "Offers Fame to the compass.",
+  "kind": "help"
+ },
+ {
+  "en": "Either you lack Fame, or there are no rings within the search range.",
+  "kind": "help"
+ },
+ {
+  "en": "The compass seems to be set to All Altars.",
+  "kind": "help",
+  "note": "Source frames the target with spaces like the ebt '%s' template; 'All Altars' capitalized as a target name."
+ },
+ {
+  "en": "Sets the search target.",
+  "kind": "help"
+ },
+ {
+  "en": "This is the list of your Key Items.",
+  "kind": "help"
+ },
+ {
+  "en": "You have no Key Items.",
+  "kind": "help"
+ },
+ {
+  "en": "A companion was found.",
+  "kind": "help",
+  "note": "nakama rendered 'companion' (cf. pilot 'companions'); this menu finds stranded parties."
+ },
+ {
+  "en": "Where should the companion go?",
+  "kind": "help"
+ },
+ {
+  "en": "No companions were found.",
+  "kind": "help"
+ },
+ {
+  "en": "You cannot meet up with companions on this floor.",
+  "kind": "help"
+ },
+ {
+  "en": "Searching for companions...",
+  "kind": "help"
+ },
+ {
+  "en": "No monster has been summoned.",
+  "kind": "help"
+ },
+ {
+  "en": "The monster set out on a second life as an adventurer.",
+  "kind": "help",
+  "note": "Matches ebt slice_02 wording of the same message."
+ },
+ {
+  "en": "Saves your current progress.",
+  "kind": "help"
+ },
+ {
+  "en": "Leaves the current party waiting where it is and returns to Algrantz.",
+  "kind": "help"
+ },
+ {
+  "en": "Opens the options screen.",
+  "kind": "help"
+ },
+ {
+  "en": "You cannot save on this floor.",
+  "kind": "help"
+ },
+ {
+  "en": "You can't suspend your adventure on this floor.",
+  "kind": "help"
+ },
+ {
+  "en": "You can't cast spells here.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a command. Triangle: All-Out Attack. R: Command Repeat.",
+  "kind": "help",
+  "note": "Button labels follow the ebt battle help style (Square:/Triangle:). Proof: comma -> period between button prompts, as in 672."
+ },
+ {
+  "en": "Choose a target to attack.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a skill to use.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose the equipment slot to change.",
+  "kind": "help"
+ },
+ {
+  "en": "Choose who to guard.",
+  "kind": "help",
+  "note": "Matches ebt slice_12 'Choose who to guard'; battle command [JP] = Guard."
+ },
+ {
+  "en": "Choose a tarot card to use.",
+  "kind": "help"
+ },
+ {
+  "en": "No enemies found.",
+  "kind": "help",
+  "note": "Shown when no enemy can be targeted (e.g. enemies hiding)."
+ },
+ {
+  "en": "It's pitch dark!",
+  "kind": "help"
+ },
+ {
+  "en": "Choose a command.",
+  "kind": "help",
+  "note": "Treasure chest command menu."
+ },
+ {
+  "en": "Choose a trap.",
+  "kind": "help",
+  "note": "Choose the trap to disarm."
+ },
+ {
+  "en": "Press Triangle to show the map legend.",
+  "kind": "help"
+ },
+ {
+  "en": "Press Triangle to return to the normal map.",
+  "kind": "help"
+ },
+ {
+  "en": "In darkness, the map can only be opened with a spell.",
+  "kind": "help",
+  "note": "Dark zone. Editorial: 'by any means but a spell' was stiff; same meaning."
+ },
+ {
+  "en": "You have no money.",
+  "kind": "help",
+  "note": "Spec-deleted row."
+ },
+ {
+  "en": "It isn't in the bag.",
+  "kind": "help",
+  "note": "Spec-deleted row."
+ },
+ {
+  "en": "There are no items that need uncursing or repair.",
+  "kind": "help",
+  "note": "Spec-deleted row; Uncurse/Repair per ebt slice_03."
+ },
+ {
+  "en": "There are no items you can sell.",
+  "kind": "help",
+  "note": "Spec-deleted row."
+ },
+ {
+  "en": "You can't sort your tarot cards.",
+  "kind": "help",
+  "note": "Spec-deleted row; [JP] = sort/organize."
+ },
+ {
+  "en": "You can't go to the Colored Corridor.",
+  "kind": "help",
+  "note": "Spec-deleted row. [JP] not in glossary; 'Colored Corridor' taken from column_spec (EL_SAI). Check against the EL_SAI/UI translation."
+ },
+ {
+  "en": "You can't go to the Recorded History.",
+  "kind": "help",
+  "note": "Spec-deleted row. 'Recorded History' per column_spec (EL_KIRO); ebt slice_02 has 'Choose a recorded history.'"
+ },
+ {
+  "en": "You can't go to the World Map.",
+  "kind": "help",
+  "note": "Spec-deleted row; World Map per ebt slice_13."
+ },
+ {
+  "en": "You have no cursed items.",
+  "kind": "help",
+  "note": "Kernel shop context (spec-deleted)."
+ },
+ {
+  "en": "You have no items that need repair.",
+  "kind": "help",
+  "note": "Spec-deleted."
+ },
+ {
+  "en": "You have no items in the bag.",
+  "kind": "help",
+  "note": "Spec-deleted."
+ },
+ {
+  "en": "You have no tarot items.",
+  "kind": "help",
+  "note": "Spec-deleted."
+ },
+ {
+  "en": "It can't be taken out.",
+  "kind": "help",
+  "note": "Spec-deleted."
+ },
+ {
+  "en": "You don't have the Smithing skill.",
+  "kind": "help",
+  "note": "Spec-deleted; skill [JP] = Smith (ebt slice_05 'Smith/Alchemy/Dismantle/Storage')."
+ },
+ {
+  "en": "You don't have the Alchemy skill.",
+  "kind": "help",
+  "note": "Spec-deleted."
+ },
+ {
+  "en": "You don't have the Dismantle skill.",
+  "kind": "help",
+  "note": "Spec-deleted; [JP] = Dismantle (ebt slice_03/05)."
+ },
+ {
+  "en": "(Not Set)",
+  "kind": "name",
+  "note": "Placeholder item name."
+ },
+ {
+  "en": "Junk",
+  "kind": "name",
+  "note": "Matches ?Junk (ebt slice_17)."
+ },
+ {
+  "en": "Long Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Scimitar",
+  "kind": "name"
+ },
+ {
+  "en": "Rusty Long Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Broadsword",
+  "kind": "name"
+ },
+ {
+  "en": "Long Sword +1",
+  "kind": "name"
+ },
+ {
+  "en": "Beast-Bone Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Innocent Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Palindroma",
+  "kind": "name",
+  "note": "New name: romanized; double-ended blade (palindrome pun)."
+ },
+ {
+  "en": "Thunderbolt Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Evil Saber",
+  "kind": "name"
+ },
+ {
+  "en": "Sagabringer",
+  "kind": "name",
+  "note": "New name (Stormbringer-style pun on 'saga')."
+ },
+ {
+  "en": "Hyakka Sword",
+  "kind": "name",
+  "note": "New name: [JP] romanized (golden ornamental sword); meaning of [JP] unclear, possibly pun on [JP] 'hundred flowers'."
+ },
+ {
+  "en": "King's Sword",
+  "kind": "name",
+  "note": "max 14."
+ },
+ {
+  "en": "Neil Amues",
+  "kind": "name",
+  "note": "New name: romanization of [JP] uncertain (knight's sword, male only)."
+ },
+ {
+  "en": "Diamond Blade",
+  "kind": "name"
+ },
+ {
+  "en": "Alverstar",
+  "kind": "name",
+  "note": "New name: also the gem set in the blade."
+ },
+ {
+  "en": "Holy Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Evening Calm Foil",
+  "kind": "name",
+  "note": "[JP] = foil (fencing); [JP] = evening calm at sea."
+ },
+ {
+  "en": "Crimson Blade",
+  "kind": "name"
+ },
+ {
+  "en": "Chopper Sword",
+  "kind": "name",
+  "note": "[JP] = rough slang 'hack apart'; desc says more axe than sword."
+ },
+ {
+  "en": "Varios Sword",
+  "kind": "name",
+  "note": "New name: [JP] romanized as Varios (equippable only by the third gender); Barios also possible."
+ },
+ {
+  "en": "Bastard Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Flamberge",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Dragon Killer",
+  "kind": "name"
+ },
+ {
+  "en": "Blade of the Nether",
+  "kind": "name",
+  "note": "[JP]: 'treasure sword of Yomi'; 'Nether' follows glossary 'Nether King'. [JP] dropped for fit (Nether Treasure Blade = 21)."
+ },
+ {
+  "en": "Claymore",
+  "kind": "name"
+ },
+ {
+  "en": "Dagger",
+  "kind": "name"
+ },
+ {
+  "en": "Short Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Kukri",
+  "kind": "name"
+ },
+ {
+  "en": "Stiletto",
+  "kind": "name"
+ },
+ {
+  "en": "Rusty Dagger",
+  "kind": "name",
+  "note": "[JP] category = ?Dagger (ebt slice_17)."
+ },
+ {
+  "en": "Jamadhar",
+  "kind": "name"
+ },
+ {
+  "en": "Swift Dagger",
+  "kind": "name",
+  "note": "[JP] = quick work/sleight."
+ },
+ {
+  "en": "Defensive Dagger",
+  "kind": "name"
+ },
+ {
+  "en": "Dazzling Dagger",
+  "kind": "name",
+  "note": "[JP]: blade pattern scatters light and confuses foes."
+ },
+ {
+  "en": "Chimera Dagger",
+  "kind": "name"
+ },
+ {
+  "en": "Circle Blade",
+  "kind": "name"
+ },
+ {
+  "en": "Blood-Soaked Dagger",
+  "kind": "name",
+  "note": "[JP]: dagger that has drunk adventurers' blood."
+ },
+ {
+  "en": "Dagger of Kelhens",
+  "kind": "name",
+  "note": "New name: [JP] romanized Kelhens."
+ },
+ {
+  "en": "Scramasax",
+  "kind": "name"
+ },
+ {
+  "en": "Sword of Azoth",
+  "kind": "name"
+ },
+ {
+  "en": "Silberam",
+  "kind": "name",
+  "note": "New name: romanized (glass-iron spiral blade)."
+ },
+ {
+  "en": "Happy Seven",
+  "kind": "name"
+ },
+ {
+  "en": "Marquise Knife",
+  "kind": "name",
+  "note": "Named after the marquise gem cut."
+ },
+ {
+  "en": "Vile Blade Ramshanok",
+  "kind": "name",
+  "note": "New name Ramshanok; exactly 20 bytes."
+ },
+ {
+  "en": "Silver Rapier",
+  "kind": "name"
+ },
+ {
+  "en": "Katana",
+  "kind": "name",
+  "note": "Matches ?Katana."
+ }
+]

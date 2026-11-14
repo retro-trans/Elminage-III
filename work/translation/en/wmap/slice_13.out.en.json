@@ -1,0 +1,364 @@
+[
+ {
+  "en": "\"They braved danger and hardship without a care, and brought me something that made my very tongue sing, would you suppose!\"{w}{p}\"With drive like that, they are sure to gather what the magic airship needs as well, would you suppose!\"{w}",
+  "kind": "msg",
+  "note": "Branon pitching the party to Rianna (cf. 958). Branon's misplaced 'de arou ka/darou ka' tag kept as 'would you suppose', per slice_10. [JP] = impress the palate (the sweets quest, rows 774-782)."
+ },
+ {
+  "en": "\"I see.{w}True, anyone able to satisfy your demands might well prove useful.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Very well, I will tell you.{w}Surely you know of the strange events at the Palace of the Sun?\"{w}{p}\"We are now pushing ahead with a plan to fly to the Palace of the Sun in a flying ship called the Meatrif -- a 'magic airship' -- and take back the sun from the Kin of Darkness.\"{w}{p}\"But the things we need are proving hard to come by.{w}The first thing we want is 'Selcoa Paint.'\"{w}{p}\"It is a paint that readily takes on magic power.{w}Coat a ship with it the proper way, and even light materials gain all the strength they need.\"{w}{p}\"We have obtained some already, but not nearly enough.\"{w}",
+  "kind": "msg",
+  "note": "NEW: [JP] = 'Meatrif'; [JP] = 'magic airship' (lowercase in running text). [JP] = 'the Dark Kin' as in slice_08 row 621. Selcoa Paint per pilot row 5."
+ },
+ {
+  "en": "\"I will not force you.{w}But if you choose to help, we will welcome it.{w}...Even if you are human.\"{w}",
+  "kind": "msg",
+  "note": "Rianna's people are elves ([JP], row 1014)."
+ },
+ {
+  "en": "\"I will not force you.{w}But if you choose to help, we will welcome it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I shall see that the reward is a fitting one.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sorry to impose, but would you take this on for me, would you suppose!\"{w}",
+  "kind": "msg",
+  "note": "Branon asking the party (direction: Branon -> party). Tic doubled for comedy since his [JP] is here a genuine request."
+ },
+ {
+  "en": "\"If you are searching, the quickest route is to consult Natori at the Temple of Rafa in Lumisthenes.{w}Now, you are dismissed.\"{w}",
+  "kind": "msg",
+  "note": "Temple of Rafa as in pilot row 1."
+ },
+ {
+  "en": "\"Who goes there!{w}Oh, it's you lot.\"{w}{p}\"Have you found the Selcoa Paint?{w}You haven't even found it, and you want a royal audience? The nerve!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'a royal audience' (Rianna's gender not in glossary; avoids Her Majesty). Full-width spaces around the item name dropped."
+ },
+ {
+  "en": "\"Who goes there!{w}Oh, it's you lot.\"{w}{p}\"You say you found the Selcoa Paint?{w}Sounds fishy. Show me!{w}...Oh, it's real...\"{w}{p}\"..........{w}W-well then, I'll take you to see our liege, Rianna!{w}Follow me!\"{w}",
+  "kind": "msg",
+  "note": "[JP] in third person from her subjects -> 'our liege' (gender-neutral). If Rianna is confirmed female (row 949 calls her [JP]), 'Lady Rianna'/'Her Majesty' could replace this."
+ },
+ {
+  "en": "\"I hear you have obtained the Selcoa Paint...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Indeed -- splendid!\nWell done. You have my commendation.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = archaic royal 'I deign to praise you'."
+ },
+ {
+  "en": "\"Then next, take the Celestial Readings for me.{w}Read the movements of the heavens at the proper place, so that nothing unforeseen befalls us up in the sky.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'Celestial Survey Results' (pilot row 6); [JP] = measure it, rendered 'take' (as in taking readings)."
+ },
+ {
+  "en": "\"For this too, the quickest route is to consult Natori at the Temple of Rafa in Lumisthenes.{w}Now, you are dismissed.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You lot, back again!?\"{w}{p}\"Have you taken the Celestial Readings?{w}You haven't even taken them, and you want a royal audience? The nerve!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Wh-what, you say you've surveyed the heavens?{w}No way...\"{w}{p}\"..........{w}All right, follow me.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Splendid readings.{w}With these, the Meatrif should be able to fly steadily.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You lot are quite useful, aren't you?\"{w}{p}\"Now then, can you find the Wing Soul?{w}It is called the wings of all beings -- a shining wing whose very existence has gained a soul.\"{w}{p}\"Finding it will not be easy.{w}We have not a single clue about it.{w}But once it is found, the Meatrif will be complete.\"{w}{p}\"We are searching by our own means.\nYou go and try Natori.\"{w}{p}\"I cannot say how far Natori's power will reach,\nbut I want to cast our net as wide as possible. I'm counting on you.\"{w}",
+  "kind": "msg",
+  "note": "Source page 2 lacks its closing bracket before {w}{p} (next page opens a new quote) -- treated as a typo; closing quote added. [JP] could be feathers or wings; 'wings' chosen to match 'shining wing'. Wing Soul per pilot row 7."
+ },
+ {
+  "en": "\"...Our duties keep us from leaving this post.{w}And besides, this kind of work is all we're good for.\"{w}{p}\"Our liege, Rianna, is noble and upright.{w}But for that very reason, relying on others doesn't come easily.{w}Right now, we have no choice but to rely on you.\"{w}{p}\"...It galls me, but please, find the Wing Soul somehow.{w}Carry our liege's wish all the way to the Palace of the Sun.\"{w}{p}\"Please, we're counting on you.\"{w}",
+  "kind": "msg",
+  "note": "Speaker is a guard but speaks for the guards ([JP]), so 'we'. Second [JP] -> 'our liege' to avoid a gendered pronoun."
+ },
+ {
+  "en": "The guard bowed low to you.{w}...Then, still bowing, the guard threw you out.{w}",
+  "kind": "msg",
+  "note": "[JP]: subject of 'still bowing' read as the guard (topic of the previous sentence); the party is the one thrown out (cf. row 939). Comic: polite bow, still bounced."
+ },
+ {
+  "en": "\"You found the Wing Soul!?{w}...All right, we'll call Executor Branon and Madulay!\"{w}",
+  "kind": "msg",
+  "note": "[JP] -> 'Executor Branon' (title from slice_10 row 765; avoids gendered 'Lord')."
+ },
+ {
+  "en": "\"You chaps did splendid work, would you suppose!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Well, would ya look at this... Ain't no word for it but magnificent!\"{w}",
+  "kind": "msg",
+  "note": "Madulay: rough artisan speech ([JP], [JP], [JP], [JP]) -> dropped g's, 'ain't', 'ya'."
+ },
+ {
+  "en": "\"Mm. Well done, adventurers!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Branon, you too\ndid well to find such talent. You have my thanks.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What gracious words, would you suppose!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Madulay, will it work?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aye, it's spot-on!{w}Shall I go ahead an' fit it in?\"{w}",
+  "kind": "msg",
+  "note": "Avoided 'yes'm'/'ma'am' (gender)."
+ },
+ {
+  "en": "\"Yes, do it.{w}We of Roscadil will take back the sunlight\nwith our own hands -- without fail!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You lot, go outside the town and wait.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "There was a fierce resolve in Rianna's eyes.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ohh, it's you chaps!{w}The magic airship will soon be launching, would you suppose!\"{w}{p}\"Are your preparations complete?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = sortie/launch."
+ },
+ {
+  "en": "Are you ready?",
+  "kind": "data",
+  "note": "Choice prompt (data)."
+ },
+ {
+  "en": "\"Then ought you not get ready quickly,\nwould you suppose!\"{w}",
+  "kind": "msg",
+  "note": "Branon answering a 'No' to row 992."
+ },
+ {
+  "en": "An attempt was made to launch the magic airship, but it would not start\nand would not move.{w}",
+  "kind": "msg",
+  "note": "Subject of [JP] unstated and not settled (crew or Rianna); passive kept. Source writes [JP] (typo for [JP]); same airship."
+ },
+ {
+  "en": "\"Why? Why won't it launch!?\"{w}{p}\"Madulay! What is going on!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"For some reason the power won't come up -- she won't budge!\"{w}",
+  "kind": "msg",
+  "note": "'she' = the ship (nautical), not a person."
+ },
+ {
+  "en": "\"What is this!? Begin an inspection at once!\"{w}{p}\"You lot, forgive me. Give me a little time.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Not yet!? The magic airship still won't move!?\"{w}{p}\"You lot, forgive me. Give me a little time.\"{w}",
+  "kind": "msg",
+  "note": "[JP] typo in source, as row 994."
+ },
+ {
+  "en": "\"Our liege, Rianna, should be along\nshortly, would you suppose!\"{w}",
+  "kind": "msg",
+  "note": "[JP] in third person -> 'our liege'."
+ },
+ {
+  "en": "\"I have kept you waiting!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This is the magic airship Meatrif!{w}It is a ship that took to the air thanks to your help, too.{w}Now, no need to hold back. Come aboard!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"R-Rianna! Your Majesty!{w}Are you going as well, would you suppose?{w}Is that not dangerous, would you suppose!?\"{w}",
+  "kind": "msg",
+  "note": "[JP] (direct address, stutter) -> 'R-Rianna! Your Majesty!' to keep the name and the deference without a gendered title."
+ },
+ {
+  "en": "\"I am the head of this nation!\nWhat good am I if I cower before a crisis facing the land!?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Branon, I appoint you Minister Extraordinary.{w}While I am away, you will see to domestic affairs.\"{w}",
+  "kind": "msg",
+  "note": "NEW title: [JP] = 'Minister Extraordinary' (alt. 'Special Minister')."
+ },
+ {
+  "en": "\"Eh? That is... you mean...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mind you get along with the guards, too.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What joyous words these are, would you suppose...{w}I, Branon, shall protect Roscadil in Your Majesty's\nabsence, even at the cost of my life, would you suppose!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, Madulay. Make ready to set sail.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Aye aye!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'you got it!' in workman's slang."
+ },
+ {
+  "en": "\"We now set course for the Palace of the Sun\naboard the magic airship Meatrif.{w}Let us go, everyone!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = everyone (crew and party)."
+ },
+ {
+  "en": "\"Smooth sailing so far.\nAt this rate we will reach the Palace\nof the Sun before long.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The magic airship Meatrif, which had been flying\nsmoothly until now, gave a violent lurch.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...What is happening?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Elf Soldier",
+  "kind": "name",
+  "note": "NEW name box: [JP]."
+ },
+ {
+  "en": "\"Your Majesty,\nit seems a magical barrier has been\nraised around the Palace of the Sun.\"{w}",
+  "kind": "msg",
+  "note": "[JP] as direct address -> 'Your Majesty'."
+ },
+ {
+  "en": "\"Blimey... where we're flyin' right now's about as close as we can get.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Madulay, we will use the magic cannon.{w}That should break through even magic that thick.\"{w}",
+  "kind": "msg",
+  "note": "NEW term: [JP] = 'magic cannon' (parallel to 'magic airship')."
+ },
+ {
+  "en": "\"But Majesty, the mana furnace prob'ly won't hold up!{w}Worst case, the second we fire, the furnace blows\nan' the ship comes crashin' down!\"{w}",
+  "kind": "msg",
+  "note": "NEW term: [JP] = 'reactor' (lit. magic perpetual furnace; 'magic reactor' if a fuller form is wanted). [JP] -> 'the reactor'."
+ },
+ {
+  "en": "\"So if we do fall, it will be after we have fired?\"{w}",
+  "kind": "msg",
+  "note": "Rianna asking Madulay; Madulay's 'Don't tell me...' (1020) shows Madulay reads Rianna's intent."
+ },
+ {
+  "en": "\"Y-yeah...{w}Don't tell me...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"All of you, what did you come all this way for!?{w}If we don't act here, sooner or later we will\nperish along with the land itself!\"{w}",
+  "kind": "msg",
+  "note": "[JP] here = Rianna's crew (elf soldiers + Madulay), who answer in 1023-1024, not the party."
+ },
+ {
+  "en": "Elf Soldiers",
+  "kind": "name",
+  "note": "NEW name box: [JP]."
+ },
+ {
+  "en": "\"...Your Majesty!\nWe will follow you to the very end!!\"{w}",
+  "kind": "msg",
+  "note": "[JP] = anywhere/to the end."
+ },
+ {
+  "en": "\"Phew...\nI've followed ya this far on trust.{w}I'll stick with ya right to the end!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Good. All of you, to your stations!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Rianna briskly issued orders to the\ncrew, then turned back to face you.{w}",
+  "kind": "msg",
+  "note": "[JP] = subordinates; 'crew' since this is aboard the airship."
+ },
+ {
+  "en": "\"The hole the magic cannon can open\nwill not be very large.\nOnly a few can board the Palace of the Sun.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = a few people (the party)."
+ },
+ {
+  "en": "\"Forgive me, but I cannot leave these\nfellows here and head to the Palace of\nthe Sun myself.\"{w}{p}\"It galls me, but I will wait in Roscadil\nwith my troops to hear the good\nnews you bring back.\"{w}{p}\"...Can I count on you?\"{w}",
+  "kind": "msg",
+  "note": "[JP] = 'these fellows' (her crew). [JP] = Rianna asking the party."
+ },
+ {
+  "en": "\"Here goes, Majesty!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Everybody grab onto somethin' and hold tight!\nThree, two, one...........!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "After a blinding flash and a deafening roar,\nthe magic airship Meatrif began to shudder.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Good, go.\nWe cannot hold this altitude for long.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Through the small hole made by the magic cannon,\nyou passed from the Meatrif into the\nPalace of the Sun.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Sure, we didn't go up in smoke in the blast, but...\nthere's no denyin' we've lost power.\nMajesty, let's take 'er down nice an' slow.\"{w}",
+  "kind": "msg",
+  "note": "[JP] = croak/kick the bucket -> 'go up in smoke'. [JP] direct address -> 'Majesty'. ''er' = the ship."
+ },
+ {
+  "en": "\"Yes.\nWe will await the adventurers' return in Roscadil!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"The rest I leave to you.\"{w}{p}\"I am counting on you to retake the Palace of the Sun.\"{w}",
+  "kind": "msg",
+  "note": "Source has a stray period inside the first quote; normal punctuation used."
+ },
+ {
+  "en": "\"Well done, all of you.\"{w}",
+  "kind": "msg",
+  "note": "Post-victory scene starts here (continues into slice_14: Wattner, reward)."
+ },
+ {
+  "en": "\"Way to go!\nI just knew you guys could pull it off!\"{w}{p}\"I wanted to praise you so much,\nI came rushing all the way from Lumisthenes!\"{w}",
+  "kind": "msg",
+  "note": "Natori: casual and cheerful ([JP] = 'as expected!')."
+ },
+ {
+  "en": "\"Congratulations.\"{w}{p}\"This was achieved through the wisdom of\nRianna and the wits of you all, I should say.\"{w}",
+  "kind": "msg",
+  "note": "Mayleen: refined [JP] register. [JP] -> 'Rianna' (no neutral royal title fits Mayleen's polite third-person mention; she is not Rianna's subject). [JP] shared by both -> split 'wisdom'/'wits' for flow."
+ }
+]

@@ -1,0 +1,359 @@
+[
+ {
+  "en": "Couldn't carry it, so passed it on",
+  "kind": "ui",
+  "note": "Follows the steal rows (749-752). Recipient not stated in the source; kept unnamed."
+ },
+ {
+  "en": "There was nothing to steal",
+  "kind": "ui"
+ },
+ {
+  "en": "Can't carry any more items",
+  "kind": "ui"
+ },
+ {
+  "en": "Tried to strip off equipment",
+  "kind": "ui",
+  "note": "Disarm-type action; actor name is shown separately by the game, so these battle fragments start with the verb."
+ },
+ {
+  "en": "Stripped off the equipment",
+  "kind": "ui"
+ },
+ {
+  "en": "Had equipment stripped off",
+  "kind": "ui"
+ },
+ {
+  "en": "There was no equipment to strip",
+  "kind": "ui"
+ },
+ {
+  "en": " was made",
+  "kind": "ui",
+  "note": "Suffix fragment: the game prints the item name before it (cf. row 761 '%s ga dekita'). Leading space added so it does not run into the name. Reading 'was made' assumed from the cooking row 763; if it is a generic 'could do X' suffix this needs a check in-game."
+ },
+ {
+  "en": "Made %s",
+  "kind": "ui",
+  "note": "Assumed crafting/cooking result (row 763 'started cooking')."
+ },
+ {
+  "en": "Nothing came of it",
+  "kind": "ui",
+  "note": "Source can mean 'nothing was made' (cooking) or 'could do nothing'; this wording covers both."
+ },
+ {
+  "en": "Started cooking",
+  "kind": "ui"
+ },
+ {
+  "en": "Split into copies",
+  "kind": "ui",
+  "note": "bunshin = clone/double technique."
+ },
+ {
+  "en": "Tried to mimic an action",
+  "kind": "ui"
+ },
+ {
+  "en": "Mimicked the action",
+  "kind": "ui"
+ },
+ {
+  "en": "Rallied the allies",
+  "kind": "ui"
+ },
+ {
+  "en": "Is driven to destroy",
+  "kind": "ui",
+  "note": "Berserk-type state."
+ },
+ {
+  "en": "Fortune Slip",
+  "kind": "ui",
+  "note": "omikuji (paper fortune). Probably a skill/action name; dupes 2. New term."
+ },
+ {
+  "en": "Sacrificed their own life",
+  "kind": "ui",
+  "note": "Gender-neutral 'their'."
+ },
+ {
+  "en": "Miracles don't happen twice",
+  "kind": "ui"
+ },
+ {
+  "en": "Cut down a follower",
+  "kind": "ui",
+  "note": "shitagaishi mono = 'one who served/followed' (archaic). Who the follower belongs to is not stated."
+ },
+ {
+  "en": "Laughed loudly",
+  "kind": "ui"
+ },
+ {
+  "en": "Raised an Absolute Wall",
+  "kind": "ui",
+  "note": "bouheki rendered 'Wall' to keep it distinct from kekkai = 'Barrier' (rows 814-825). New term."
+ },
+ {
+  "en": "A song of healing rings out",
+  "kind": "ui"
+ },
+ {
+  "en": "A song of hope rings out",
+  "kind": "ui"
+ },
+ {
+  "en": "A song of destruction rings out",
+  "kind": "ui"
+ },
+ {
+  "en": "A song of protection rings out",
+  "kind": "ui"
+ },
+ {
+  "en": "Is protected",
+  "kind": "ui"
+ },
+ {
+  "en": "Swallow Slayer",
+  "kind": "ui",
+  "note": "tsubame-goroshi; skill name, dupes 2. Rows 781-789 look like its stages (kick, launch, slam, knock out). New term."
+ },
+ {
+  "en": "Kicked the foe flying",
+  "kind": "ui",
+  "note": "'foe' used because the actor may be party or monster."
+ },
+ {
+  "en": "Knocked the foe skyward",
+  "kind": "ui"
+ },
+ {
+  "en": "Slammed into the foe",
+  "kind": "ui"
+ },
+ {
+  "en": "Was kicked flying",
+  "kind": "ui"
+ },
+ {
+  "en": "Was knocked skyward",
+  "kind": "ui"
+ },
+ {
+  "en": "Was slammed",
+  "kind": "ui"
+ },
+ {
+  "en": "Clean hit=%d, Fail=%d",
+  "kind": "ui",
+  "note": "Debug output."
+ },
+ {
+  "en": "Slammed the foe out cold",
+  "kind": "ui"
+ },
+ {
+  "en": "Was slammed and knocked out",
+  "kind": "ui"
+ },
+ {
+  "en": "%s prevented the surprise attack",
+  "kind": "ui"
+ },
+ {
+  "en": "Adventurers' surprise attack succeeded",
+  "kind": "ui",
+  "note": "Glossary: adventurer."
+ },
+ {
+  "en": "%s prevented the surprise attack",
+  "kind": "ui",
+  "note": "Same as row 790 (source differs only in full-width space position)."
+ },
+ {
+  "en": "Enemy's surprise attack succeeded",
+  "kind": "ui"
+ },
+ {
+  "en": "  Attacker  %2d:%-20s\n",
+  "kind": "ui",
+  "note": "Debug combat dump (rows 794-805). Labels right-aligned so ' = ' lines up as in the source."
+ },
+ {
+  "en": "                Level = %05d\n",
+  "kind": "ui"
+ },
+ {
+  "en": "             Strength = %2d\n",
+  "kind": "ui",
+  "note": "Stat name from slice_01."
+ },
+ {
+  "en": "          Elem Attack = (Fire%03d,Ice%03d,Elec%03d,Holy%03d,Dark%03d)\n",
+  "kind": "ui",
+  "note": "Elements: Fire, Ice, Elec(tric/thunder), Holy, Dark."
+ },
+ {
+  "en": "          Spec Effect = (Sl%03d,Po%03d,Pa%03d,Si%03d,Cf%03d,Ch%03d,St%03d,Dc%03d,Dr%03d)\n",
+  "kind": "ui",
+  "note": "Status abbreviations (2 letters, so row 805 fits 88 bytes): Sl=Sleep Po=Poison Pa=Paralysis Si=Silence Cf=Confusion Ch=Charm St=Stone Dc=Decapitation Dr=Drain. 'Spec Effect' matches slice_02 'Special Effects'."
+ },
+ {
+  "en": "  Defender  %2d:%-20s\n",
+  "kind": "ui"
+ },
+ {
+  "en": "                  Row = %s\n",
+  "kind": "ui",
+  "note": "Formation row; %s is row 801/802."
+ },
+ {
+  "en": "Front",
+  "kind": "ui",
+  "note": "Front row."
+ },
+ {
+  "en": "Back",
+  "kind": "ui",
+  "note": "Back row."
+ },
+ {
+  "en": "         Spell Resist = (Mag%03d,Pri%03d,Alc%03d,Sum%03d)\n",
+  "kind": "ui",
+  "note": "Spell schools: Mage, Priest, Alchemist, Summoner."
+ },
+ {
+  "en": "         Elem Defense = (Fire%03d,Ice%03d,Elec%03d,Holy%03d,Dark%03d)\n",
+  "kind": "ui"
+ },
+ {
+  "en": "         Spec Resist = (Sl%03d,Po%03d,Pa%03d,Si%03d,Cf%03d,Ch%03d,St%03d,Dc%03d,Dr%03d)\n",
+  "kind": "ui",
+  "note": "max_bytes 88: exactly 88. Source line is also one column shorter than its neighbours; kept."
+ },
+ {
+  "en": "[Chest Setup] Treasure table idx=%d\n",
+  "kind": "ui",
+  "note": "Debug header; the bracket is a section label, not an item-effect tag."
+ },
+ {
+  "en": " Qty=%d, ChestID=%d, Traps=%d, Type=%d:%s, \n",
+  "kind": "ui",
+  "note": "max_bytes 47 (44 used). 'Type' = trap type (follows 'Traps')."
+ },
+ {
+  "en": "%s Seal=%d, Fail=%d",
+  "kind": "ui",
+  "note": "Debug; %s is probably a spell school or action."
+ },
+ {
+  "en": "Weapon",
+  "kind": "ui"
+ },
+ {
+  "en": "Armor",
+  "kind": "ui"
+ },
+ {
+  "en": "%s broke",
+  "kind": "ui",
+  "note": "%s probably Weapon/Armor (rows 809-810) or an item name."
+ },
+ {
+  "en": "%s hid",
+  "kind": "ui"
+ },
+ {
+  "en": "Tried to hide",
+  "kind": "ui"
+ },
+ {
+  "en": "Barrier",
+  "kind": "ui",
+  "note": "kekkai = Barrier throughout this slice. New term."
+ },
+ {
+  "en": "Spell Reflect Barrier",
+  "kind": "ui"
+ },
+ {
+  "en": "Reflect Barrier",
+  "kind": "ui"
+ },
+ {
+  "en": "Spell Nullify Barrier",
+  "kind": "ui"
+ },
+ {
+  "en": "Nullify Barrier",
+  "kind": "ui"
+ },
+ {
+  "en": "Spell Dampen Barrier (%d%%)",
+  "kind": "ui",
+  "note": "Full-width percent made ASCII as '%%' because the string is a printf format (a bare '%)' would be read as a conversion). Verify in-game that it prints a single '%'."
+ },
+ {
+  "en": "Defense Barrier (%d%%)",
+  "kind": "ui",
+  "note": "See row 819 on '%%'."
+ },
+ {
+  "en": "Tried to interfere with magic",
+  "kind": "ui"
+ },
+ {
+  "en": "Was hit by magic interference",
+  "kind": "ui"
+ },
+ {
+  "en": "The barrier vanished!",
+  "kind": "ui"
+ },
+ {
+  "en": "Had the barrier dispelled",
+  "kind": "ui"
+ },
+ {
+  "en": "The barrier holds firm",
+  "kind": "ui"
+ },
+ {
+  "en": "It had no effect",
+  "kind": "ui"
+ },
+ {
+  "en": "No message",
+  "kind": "ui",
+  "note": "Probably a placeholder/debug string."
+ },
+ {
+  "en": "Baldy",
+  "kind": "ui",
+  "note": "hage = 'baldy' (an insult). Looks like a dev placeholder or joke string; placed just before the tarot table, use unknown. Kept at full force."
+ },
+ {
+  "en": "0. The Fool",
+  "kind": "ui",
+  "note": "Tarot card table starts here (cards continue in slice_11: II High Priestess ...). Format 'N. Card name' with ASCII Roman numerals; slice_11 should match."
+ },
+ {
+  "en": "The adventurers fell asleep",
+  "kind": "ui",
+  "note": "Effect of The Fool (follows the card row)."
+ },
+ {
+  "en": "The monsters fell asleep",
+  "kind": "ui"
+ },
+ {
+  "en": "I. The Magician",
+  "kind": "ui",
+  "note": "Tarot card name 'The Magician', not the class name Mage (glossary)."
+ }
+]

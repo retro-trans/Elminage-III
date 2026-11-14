@@ -1,0 +1,364 @@
+[
+ {
+  "en": "\"Ahh, I should've joined the Martial Arts Department...{w}I just can't memorize spells and stuff.\"{w}{p}\"U-Unicohat?{w}Huh? That's not it?\"{w}",
+  "kind": "msg",
+  "note": "Freshman garbles the alchemy spell Unihacot (SPELL.CSV 71, untranslated) by swapping syllables; English swaps them the same way. If the spell gets another English name, re-garble it."
+ },
+ {
+  "en": "\"They say we're doing a test of courage\nat the freshman welcome party.\nI'm no good with scary stuff~...\"{w}",
+  "kind": "msg",
+  "note": "kimodameshi = test of courage (a spooky dare)."
+ },
+ {
+  "en": "Mandelgius",
+  "kind": "name"
+ },
+ {
+  "en": "\"I am none other than Mandelgius.{w}",
+  "kind": "msg",
+  "note": "wagahai = pompous first person; carried by \"none other than\" and his grand register throughout."
+ },
+ {
+  "en": "{0E}\"I am none other than Mandelgius.{0F}\nMonarch of beasts -- in other words! The BEAST LORD!\"{w}{p}\"I sense a power hidden within you all!{w}Yes, you have what it takes to become heroes!{w}",
+  "kind": "msg",
+  "note": "NEW TERM: Beast Lord (bi-suto ro-do, glossed in JP as monarch of beasts). shokun = \"you all\"."
+ },
+ {
+  "en": "{0E}\"I sense a power hidden within you all!\nYes, you have what it takes to become heroes!{0F}\nThe makings of heroes who will save this world!\"{w}{p}\"But that power has not yet awakened!{w}I shall guide you!{w}Down the road that leads to heroism!\"{w}",
+  "kind": "msg",
+  "note": "Highlight re-shows the second page of row 1101 verbatim."
+ },
+ {
+  "en": "\"Without further ado, I give you your first trial!{w}Go to the Blue Cave and catch the Azure Fish\nthat is said to live there!\"{w}",
+  "kind": "msg",
+  "note": "Blue Cave (wmap slice_03), Azure Fish (chap slice_006 key item)."
+ },
+ {
+  "en": "\"I shall be right here, praying for your success!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"I shall be right here, praying for your success!{0F}\nGo! Go forth and cut loose!!\"{w}",
+  "kind": "msg",
+  "note": "hajikete miro = burst out / let it all out; \"cut loose\" keeps his hot-blooded coach energy."
+ },
+ {
+  "en": "\"Ohh, well done coming back!{w}You are everything I believed you to be!!\"{w}",
+  "kind": "msg",
+  "note": "sasuga wagahai ga mikonda dake no koto wa aru = you live up to my high opinion of you."
+ },
+ {
+  "en": "\"One Azure Fish, duly received.{w}Now then, if you'll excuse me.\"{w}",
+  "kind": "msg",
+  "note": "He excuses himself to eat it (next row)."
+ },
+ {
+  "en": "Chomp! Munch munch...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ohh, this is delicious! Too delicious!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Ohh, this is delicious! Too delicious!!{0F}\nNgah! ...A bone... in my throat!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Whew... that was close...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Whew... that was close...{0F}\nBut it was exquisite!{w}Now then, on to the second trial!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Go to the deepest part of the Rinos Sea Volcano\nand bring back the Proof of Endurance kept there!{w}And in its place, leave this Proof of Training!\"{w}",
+  "kind": "msg",
+  "note": "NEW TERMS: Proof of Endurance (nintai no akashi), Proof of Training (tanren no akashi); ITEM_PRIZ 60-61 untranslated. Rinos Undersea Volcano per chap slice_006."
+ },
+ {
+  "en": "[Key Item]\nReceived Proof of Training.{w}",
+  "kind": "msg",
+  "note": "Format per wmap slice_11 (\"[Key Item] Received X.\")."
+ },
+ {
+  "en": "\"By enduring the searing heat, you will temper body and spirit{w}and forge a spirit and body no great evil can defeat!!\"{w}",
+  "kind": "msg",
+  "note": "Keeps the JP body/spirit - spirit/body chiasmus."
+ },
+ {
+  "en": "\"I can tell!{w}You have withstood that heat and pain, I see!!{w}That's my disciples for you!!\"{w}{p}\"The Proof of Training you left behind\nis a baton passed on to the next heroes!{w}A hero must also take on the raising of the next generation!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, the third trial!{w}Go to Miasuna and teach a lesson to the Evil Magistrate\nwho sits enthroned in the innermost chamber!!\"{w}",
+  "kind": "msg",
+  "note": "NEW NAME: Miasuna (MON_TEXT 301 gives kanji reading mi-a-su-na; matches the MIASUNA asset labels). akudaikan = the corrupt magistrate of samurai dramas -> \"evil magistrate\". Its boss is in the keep (EVENT_TEXT 53:8)."
+ },
+ {
+  "en": "\"That scoundrel has long done evil while hiding in the dark!{w}Behind every evil,{w}there is always a root of all evil pulling the strings!!{w}",
+  "kind": "msg",
+  "note": "yatsu = the magistrate; gender not established, so no pronoun (\"That scoundrel\"). JP row ends without a closing bracket; English mirrors it."
+ },
+ {
+  "en": "\"Lurking in the shadows of the world of men, working evil,{w}{$09} you base and craven villain,{w}Mandelgius shall cut you down...\"{w}",
+  "kind": "msg",
+  "note": "Parody of a samurai-drama hero's kill speech in 5-7-5 / 7-7 meter, ending on his own name. Rendered as a three-beat declamation ending on the name. {$09} kept after the {w} where the source has it (unknown code). akkan read as addressed to the villain (vocative)."
+ },
+ {
+  "en": "\"What kind of hero lets evil run rampant\nand just leaves it be!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And so another great evil has been destroyed...{w}All thanks to your efforts.{w}I am overjoyed as well!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Now, the fourth trial!{w}You have no doubt noticed it yourselves.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Unleashed by the destruction of that great evil{w}-- another wicked aura...\"{w}{p}\"The fiend seized its chance and came back to life!{w}But its seal has not yet been fully broken!\"{w}",
+  "kind": "msg",
+  "note": "hado = wave/aura of evil -> \"wicked aura\". yatsu = Tiger Centaur III (named next row); monster, gender not given, so \"the fiend\"/\"its\"."
+ },
+ {
+  "en": "\"Now is our last chance\nto seal the fiend away again!!\"{w}{p}\"Go to the Giaf Dunes{w}and do battle with Tiger Centaur III!!\"{w}",
+  "kind": "msg",
+  "note": "NEW NAME: Tiger Centaur III (taiga-kentaurosu sansei; EL_KIRO/MONRAW 3-sei). Giaf Dunes per wmap slice_17. \"our\" chance: he is a party to the sealing."
+ },
+ {
+  "en": "\"Ohh! Just what I'd expect from my disciples!!{w}There is no word for it but splendid!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"To think you would endure every last one of my trials...{w}From this day forth, you may call yourselves heroes!!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"To think you would endure every last one of my trials...\nFrom this day forth, you may call yourselves heroes!!{0F}\nNothing could make me happier!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But why did the seal come undone, I wonder...{w}Could someone have helped it along?{w}...I shall have to look into this myself.\"{w}",
+  "kind": "msg",
+  "note": "tebiki shita mono = someone who aided/guided (the release); kept indefinite."
+ },
+ {
+  "en": "\"...Hm?{w}What's that you have there...???\"{w}{p}\"Gear handed down from your forebears, you say?{w}Ho ho.{w}...Ho hooooh!!\"{w}",
+  "kind": "msg",
+  "note": "He switches from shokun to omae-tachi here; tone stays grand. sendai = previous generation/predecessor -> \"forebears\", matching the item names in rows 1136-1141."
+ },
+ {
+  "en": "\"In that case,\nI shall pump them full of vigor\nso they take on a form worthy of you!\"{w}",
+  "kind": "msg",
+  "note": "genki wo chunyu = inject pep/vigor (comic); \"pump full of vigor\" keeps the gag."
+ },
+ {
+  "en": "Have vigor pumped into forebear gear?",
+  "kind": "data",
+  "note": "Yes/no prompt. Agent left unnamed (Mandelgius's gender not established). 37 chars; JP is 19 full-width (~38 half-width)."
+ },
+ {
+  "en": "\"Mm, a fine answer!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Here I go!{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Here I go!{0F}\nNnnnnghhhhhhh...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "{0E}\"Here I go!\nNnnnnghhhhhhh...{0F}\nBwahahahahaha!!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Forebear's Sword transformed.{w}",
+  "kind": "msg",
+  "note": "NEW TERMS (item names, ITEM.CSV 476-486 untranslated): Forebear's Sword/Staff/Hat/Breastplate/Cloak/Sash. Must match whatever the item list adopts; \"Forebear's Breastplate\" is 22 chars vs ITEM max 20 / ITEM_DEF max 14."
+ },
+ {
+  "en": "The Forebear's Staff transformed.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Forebear's Hat transformed.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Forebear's Cuirass transformed.{w}",
+  "kind": "msg",
+  "note": "mune-ate = breastplate/chest guard."
+ },
+ {
+  "en": "The Forebear's Cloak transformed.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "The Forebear's Sash transformed.{w}",
+  "kind": "msg",
+  "note": "obi = sash/belt."
+ },
+ {
+  "en": "\"The road you have walked so far\nwill become new strength\nand support you in body and soul!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Is that so?{w}Well, that's fine, but... I see...\"{w}",
+  "kind": "msg",
+  "note": "Reply when the player declines the prompt; he is visibly let down."
+ },
+ {
+  "en": "Teacher",
+  "kind": "name"
+ },
+ {
+  "en": "\"I just don't understand how young people think these days.{w}I give them tougher assignments\nthinking it'll help them grow, and they run off.\"{w}{p}\"So then I give them easy stuff instead,\nand they just keep getting worse and worse...{w}Hrrrmm...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Sword Teacher",
+  "kind": "name",
+  "note": "kenjutsu no sensei; 13 chars."
+ },
+ {
+  "en": "\"Don't tell me you're one of Fena's trainees too?{w}Thought so.\"{w}{p}\"Once you try it, you see\nit's actually a good way to teach, in its own way.{w}...Not that the other teachers agree with me.\"{w}",
+  "kind": "msg",
+  "note": "Fena = Training Hall instructor (pilot row 193), so \"trainees\". hanashi ga awanai = can't see eye to eye."
+ },
+ {
+  "en": "Alchemy Teacher",
+  "kind": "name"
+ },
+ {
+  "en": "\"Alchemy is a backwater field of study, you see,{w}so it isn't a very popular class.\"{w}{p}\"Even though once you can use it,\nthere's no spell more handy.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Historian",
+  "kind": "name"
+ },
+ {
+  "en": "\"Welcome to the Santorea Academy Faculty Building.{w}I study neither magic nor martial arts,\nbut the history of this land.\"{w}{p}\"Bu-ut, it's tough going.\nYou hardly ever find a kid who likes history,\nso I really feel like I don't belong...\"{w}",
+  "kind": "msg",
+  "note": "NEW TERM: Faculty Building (kyomu-to; DGN_NAME 31 untranslated, max 12 -> \"Faculty Bldg\" there). gakufu = Academy per chap slice_004. katami ga semai = feel squeezed out."
+ },
+ {
+  "en": "\"You're adventurers, right?\nWill you be going to the Konnu Plains Ruins?\"{w}{p}\"Being ruins and all, that place has\nlots of valuable things about ancient history\njust lying there asleep.\"{w}{p}\"So... just a quick look is fine.{w}Could I ask you to do some investigating?\nOnly if you get the chance to visit the ruins.\"{w}{p}\"...Honestly, I'd like to go myself,\nbut school teachers have far less\nfree time than you'd think.\"{w}{p}\"Just do it on the side, whenever.\nI'm counting on you to survey those ruins.\"{w}",
+  "kind": "msg",
+  "note": "Konnu Plains per wmap slice_16; \"Konnu Plains Ruins\" for konnu sogen iseki."
+ },
+ {
+  "en": "\"Getting paid while doing research...\nor so I thought, anyway.{w}Things never quite work out, do they?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "You told the historian about the weathered\nstone tablet you found at the Konnu Plains Ruins.{w}",
+  "kind": "msg",
+  "note": "Historian's gender not established -> \"the historian\"."
+ },
+ {
+  "en": "\"Mm-hm, now that is interesting...{w}I see... I'll look into the rest myself.\nThanks for your help.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I may have said that, but\nbeing a school teacher is hard...\nNo tiiiime~......\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Dragon Lord",
+  "kind": "name",
+  "note": "NEW NAME: Dragon Lord (doragon ro-do; Floor Master of the sword wing, FM_SANTREA_SWORD_SCENE). Acts as a school hall monitor."
+ },
+ {
+  "en": "\"If you see anyone suspicious, report it to me.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"What are you doing? It's already night.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hurry on home.\"",
+  "kind": "data",
+  "note": "data row with quotes kept as in source."
+ },
+ {
+  "en": "h",
+  "kind": "op093",
+  "note": "op093 data value \"h\"; not player-facing language, kept verbatim."
+ },
+ {
+  "en": "\"Get home safe.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Do you not understand when I tell you to go home!?!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"D-dismissal time...{w}was long... long past...{w}Even if it costs me my life, I WILL... send you home from school!!\"{w}",
+  "kind": "msg",
+  "note": "gekou = going home after school; the gag is a dying monster as a school disciplinarian. kisama = hostile \"you\", carried by tone."
+ },
+ {
+  "en": "A short way off, a mage was muttering\nwords you couldn't make out.{w}A teacher, perhaps?{w}{p}Soon the mage noticed you, broke into a slimy grin,\nhitched up the robe, and came charging straight at you.{w}",
+  "kind": "msg",
+  "note": "Mage's gender not established -> \"the mage\", \"the robe\". nitaa = creepy, leering grin."
+ },
+ {
+  "en": "A black mass is squirming.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "A black mass is squirming.{w}All of a sudden, the mass attacked you!{w}",
+  "kind": "msg",
+  "note": "First sentence matches row 1166."
+ },
+ {
+  "en": "You scattered the black mass.{w}",
+  "kind": "msg",
+  "note": "kechirashita = kicked aside, routed."
+ },
+ {
+  "en": "Ogre",
+  "kind": "name"
+ },
+ {
+  "en": "\"Lord Fulgrant's a mighty strong one, y'see,{w}an' does all sorts fer us as leader o' us ogres.\"{w}",
+  "kind": "msg",
+  "note": "Ogre speaks rural dialect (da de yo, kudasattoru wa) -> light folksy English. Fulgrant-sama: glossary gender unknown, so \"Chief\" (Fulgrant calls themself the ogres' and goblins' boss, row 1175) instead of the gendered \"Lord\" used for Balgert elsewhere."
+ },
+ {
+  "en": "\"Who are you lot?\nDon't go barging into Lord Fulgrant's room uninvited.\"{w}",
+  "kind": "msg",
+  "note": "Chief = Fulgrant-sama, see row 1170."
+ },
+ {
+  "en": "\"Lord Fulgrant is asleep!\nCome back another time!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Fulgrant",
+  "kind": "name"
+ },
+ {
+  "en": "\"Hey, you're the ones helpin' out with Balgert's plan, right?{w}Won'tcha hear out our idea too?\"{w}{p}\"...Huh, me? I'm Fulgrant!\nI'm the boss of the ogres an' goblins.\nSo leave anything to do with Ogre Bay to me.\"{w}{p}\"So anyway, here's the thing. We're thinkin' of buildin' a\nhuge custom cannon... an' givin' the Palace of the Sun\na big 'BOOOOOM!'\"{w}{p}\"Then we can knock the Palace of the Sun right outta the sky, right?{w}Once it comes down to the ground, we can pound\nthe Kin of Darkness flat, no sweat.\"{w}{p}\"...See, good plan, right?{w}And yet the rest of 'em, they just...\"{w}{p}\"You guys'll help us out, won'tcha!\nLet's build a cannon together!!\"{w}",
+  "kind": "msg",
+  "note": "Rough, chummy speech (yo~, -tte n da) -> dropped g's. JP double brackets around doon -> single quotes. Kin of Darkness capitalised as in wmap slice_16 (wmap slice_20 used lower case)."
+ },
+ {
+  "en": "\"...So, thing is, we've got ourselves a problem.{w}Ogre Bay's had these special cannon blueprints\nhanded down since way back.\"{w}{p}\"I got 'em from my old man too, but...{w}see, the... blueprints, I kinda... went an' lost 'em...\nAt this rate, we can't build it!!\"{w}",
+  "kind": "msg",
+  "note": "sekkeizu rendered plural to match the key item \"The Old Man's Blueprints\" (chap slice_001)."
+ },
+ {
+  "en": "\"Please! I'm beggin' you here!!\nFind my old man's blueprints for me!!\"{w}",
+  "kind": "msg",
+  "note": "kono tori da = \"(bowing) like this\" -> \"I'm beggin' you here\"."
+ }
+]

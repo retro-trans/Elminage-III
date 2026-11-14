@@ -1,0 +1,353 @@
+[
+ {
+  "en": "{0E}\"No explosions!\nThat's what I told ya!{0F}\nI warned ya over and over, BWOOOOOAAARGH!!\"{w}",
+  "kind": "msg",
+  "note": "Third step of the 478/479/480 build-up (rows 478-479 are in slice_06). The {0E}..{0F} part repeats the two earlier rows, so slice_06 should use 478 = '\"No explosions!{w}' and 479 = '{0E}\"No explosions!{0F}\\nThat's what I told ya!{w}' or this row must be re-synced. BWOOOOOAAARGH = Zeppo (a dragon, per pilot) roaring/breathing fire mid-sentence."
+ },
+ {
+  "en": "You got chewed out...{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Leave every last coin ya got and get out,\nya fools!!\"{w}",
+  "kind": "msg",
+  "note": "Kono bakamono addressed to the party; pluralised to 'fools'."
+ },
+ {
+  "en": "{0E}\n              * No Money, Yeah!! *{0F}{w}",
+  "kind": "msg",
+  "note": "Source banner already English (full-width); converted to ASCII. Banners centred with leading spaces only -- check rendering."
+ },
+ {
+  "en": "{0E}\n                   * Oops! *{0F}{w}",
+  "kind": "msg",
+  "note": "Classic Wizardry trap exclamation (oootto!)."
+ },
+ {
+  "en": "{0E}\n              * You are in bliss *{0F}{w}",
+  "kind": "msg",
+  "note": "Parody of the Wizardry 'you are inside the stone' message (ishi no naka ni iru -> shiawase no naka ni iru). Kept the 'You are in ...' frame so the joke survives."
+ },
+ {
+  "en": "Offer something to {12:0001:01BB}?",
+  "kind": "data",
+  "note": "{12:0001:01BB} = runtime insert, referent unknown (item/character name from the inn event)."
+ },
+ {
+  "en": "Please select 3 items.\n(The items will be lost.){w}",
+  "kind": "msg"
+ },
+ {
+  "en": "As you slept nestled close together,\nyour hand touched an Amulet of Life.{w}",
+  "kind": "msg",
+  "note": "Who nestles with whom is not stated (yorisotte nemuru); kept impersonal. Amulet of Life = new item name (ITEM.CSV:388, max 20)."
+ },
+ {
+  "en": "......",
+  "kind": "data"
+ },
+ {
+  "en": "\"You folks keep bringing me all sorts of things, so I was sorting through my stock and this turned up.{w}I can't say whether it'll be any use on your adventures...\"{w}{p}\"How you use it is up to you.{w}I'll put it out on the shelf, so give it a try if you like.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}   * Great History of Crestard now in stock *{0F}{w}",
+  "kind": "msg",
+  "note": "Great History of Crestard = new item name (ITEM.CSV:187; 25 chars > item-name max 20, item table will need a short form)."
+ },
+ {
+  "en": "\"Looks like you folks have been making quite a name for yourselves.{w}I can tell just from the stuff you bring in.{w}At that rate, your travel costs can't be anything to sneeze at, can they?\"{w}{p}\"Tell you what -- for you lot, I'll throw in a little extra.{w}Nobody ever had trouble from having too much money, right?{w}You're helping me out too, so don't be shy.\"{w}",
+  "kind": "msg",
+  "note": "iro tsukeru = pay a bit over the going rate for their goods (cf. banner 493)."
+ },
+ {
+  "en": "\n{0E}      * The shop now pays more for items *{0F}{w}",
+  "kind": "msg",
+  "note": "kaitori kakaku = price the shop pays the party; phrased from the player's side to avoid buy/sell confusion."
+ },
+ {
+  "en": "\"...Hey, could you take a look at this for me?{w}It isn't just my eyes, is it...?{w}I swear the writing changes every time I open it.\"{w}{p}\"When did I even buy something like this...?{w}...Doesn't seem to carry any weird curse, at least.{w}Well, I'll put it out anyway, so do what you like with it.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}     * Book of the Next Age now in stock *{0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You folks really are something.\nPeople come from all over just to buy my goods.{w}Nearly every rare thing I've got is something you brought in.\"{w}{p}\"I used to worry about your travel money, but that's not a problem anymore, is it? So how about this: this time, purely as one trading partner to another, I'll raise the prices I pay you.\"{w}{p}\"Not a bad deal, is it?{w}I meant to be the one looking after you at first, but somewhere along the way it got turned around. Call it my thanks.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\n{0E}   * The shop now pays much more for items *{0F}{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Yep. Just as I thought.\nHave you folks noticed?{w}This shop now has goods from all over the continent.\"{w}{p}\"At first I figured I was just mistaken, but when I checked, every last thing was here.{w}Took me a good few days, mind you...\"{w}{p}\"...I bet he'd be glad too.{w}Big shots like you, coming out of this little shop...{w}Let me thank you on my husband's behalf. ...Thank you.\"{w}",
+  "kind": "msg",
+  "note": "ano hito = Gia's late husband (danna, cf. row 507), so 'he' is settled."
+ },
+ {
+  "en": "\n{0E}  * Encyclopedia of All Things now in stock *{0F}{w}",
+  "kind": "msg",
+  "note": "Encyclopedia of All Things = new item name (script: banbutsu hyakka jiten; ITEM.CSV:189 spells it with a different kanji, same item)."
+ },
+ {
+  "en": "\"The selection's nothing special,\nbut I think it'll help you on your first adventure.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"There's no need to rush.{w}Once you've prepared and shopped to your satisfaction,\nthen you can set out.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Got anyone in your party who uses spells?{w}If you do, you'd better equip them with something like a Fire Magic Seal to raise their elemental attack.\"{w}{p}\"You can think of a spell's power as being decided by elemental attack.\"{w}",
+  "kind": "msg",
+  "note": "Fire Magic Seal = new item name (ITEM.CSV:358, en_no maiin; glossary Magic Seal). zokusei kougekiryoku -> 'elemental attack': align with the status-screen UI term once it exists."
+ },
+ {
+  "en": "\"Have you got a Bishop in your party?{w}I can appraise things for you too, but if one of your own can do it, you'll save on appraisal fees.\"{w}{p}\"Adventurers just starting out are pretty strapped for cash, right?{w}You've got to be as efficient as you can.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Phew...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Gia is pressing a hand to her eyes.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"This job is murder on the eyes.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...My late husband was an adventurer.{w}I'd look over what he brought home and sell it to make ends meet, and before I knew it, I was running an item shop. Ha ha.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Unlike me, Toner's the lively type.{w}Being curious is all well and good,\nbut I worry Toner will end up ruining their health.\"{w}",
+  "kind": "msg",
+  "note": "Toner's gender is unknown in the glossary (pilot uses 'my kid'/'they'); kept neutral throughout."
+ },
+ {
+  "en": "There's no one here.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ow, ow, ow...{w}Honestly, I'm supposed to be a veteran. How pathetic.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Mom...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Gia came in injured, with Toner supporting her.{w}{p}Her hand must have slipped during an appraisal.{w}Gia had a bandage wrapped around her leg.{w}",
+  "kind": "msg",
+  "note": "ashi = leg or foot; 'leg' chosen."
+ },
+ {
+  "en": "\"Oh, welcome.{w}Sorry you have to see me like this... Ngh!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Is the wound deep?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'll be fine.{w}They say if I keep it bandaged and take it easy,\nit'll heal in about one turn of the moon.\"{w}",
+  "kind": "msg",
+  "note": "tsuki ga hitomeguri = roughly a month; kept the moon image because Toner echoes it in 516."
+ },
+ {
+  "en": "\"One turn...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...What are we going to do about Emera?\"{w}",
+  "kind": "msg",
+  "note": "Refers to Toner's regular checkup at Emera's house (explained in row 532)."
+ },
+ {
+  "en": "\"...Should I go by myself?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Going alone would be too dangerous, surely.{w}Monsters aren't the only danger in the mountains, you know?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"But...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Maybe we should ask Fena about it.{w}Ngh... I need to sit down a sec.{w}An adventurer with time to spare... Is there anyone like that, I wonder...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"An adventurer with time to spare...{w}",
+  "kind": "msg",
+  "note": "Row 523 repeats this text inside {0E}..{0F}; keep both identical."
+ },
+ {
+  "en": "{0E}\"An adventurer with time to spare...{0F}\nEep!\"{w}",
+  "kind": "msg",
+  "note": "hau! = startled gasp as Toner notices the party."
+ },
+ {
+  "en": "Your eyes met Toner's.{w}",
+  "kind": "msg",
+  "note": "me ga atte shimatta: subject restored as the party and Toner (Toner spoke the line before)."
+ },
+ {
+  "en": "\"Mom, these people look like they've got nothing to do!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Don't say such silly things, honestly.{w}Sorry about that -- just pay no attention.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"*Staaaaaare*...{w}You'll take it on... won't you...?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "For some reason, looking into Toner's adorable eyes,\nyou get the eerie feeling you'll be killed if you refuse.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "Without even checking what it was,\nyou ended up accepting Toner's request.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"...Yay!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Honestly, you and your...\"{w}",
+  "kind": "msg",
+  "note": "anta tte ko wa mou... = exasperated scolding of her own child, trailing off."
+ },
+ {
+  "en": "\"Toner has... well, it's complicated, but Toner needs to go to Emera's house in the Leanmakana Mountains regularly for a health checkup.\"{w}{p}\"If you'd help us, I'd be really grateful, but...\"{w}",
+  "kind": "msg",
+  "note": "Repeated 'Toner' instead of a pronoun to stay gender-neutral."
+ },
+ {
+  "en": "\"Okay then, let's go together!\nI'm counting on you!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Ah, hey...\"{w}{p}\"Honestly...{w}Sorry to ask this of you,\nbut please look after Toner for me, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welcome.{w}Where does Toner get that pushiness from, I wonder...{w}Sorry to ask, but please look after Toner for me, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"So nothing was wrong this time either?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Yep, no need to worry!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Thank goodness...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You make such a big fuss every single time.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"And what's wrong with that...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "When you returned to the shop,\nGia was gently hugging Toner.{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"You folks...{w}Thank you for looking after Toner. Really, thank you.\"{w}{p}\"This child was born under unusual circumstances.{w}Just seeing my kid grow up healthy like this\nis all it takes to make me happy.\"{w}",
+  "kind": "msg",
+  "note": "umare ga tokushu = unusual birth; detail not explained here, kept vague."
+ },
+ {
+  "en": "\"Thank you so much, once again!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I'm so glad...\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Welcome.{w}How's the adventuring? Going well?\"{w}{p}\"If there's anything I can help with,\njust say the word, okay?\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Have you been to the castle yet?\nI may not look it, but I'm confident in my skills.{w}So go and adventure with peace of mind!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Oh, you've received the Compass.{w}Then go forth and adventure to your heart's content.\nOur temple looks forward to your patronage.\"{w}",
+  "kind": "msg",
+  "note": "Compass = key item from the castle (cf. EVENT_TEXT 'use the compass'); capitalised as an item."
+ },
+ {
+  "en": "\"Hello, come right in! Welcome to Rust Temple!{w}Our temple handles everything from corpse retrieval to resurrection.{w}Adventurers are most welcome here!\"{w}",
+  "kind": "msg",
+  "note": "Greeting matches the pilot's rendering of the same phrase (pilot row 340)."
+ },
+ {
+  "en": "\"Hello, come right in! Welcome to Rust Temple!{w}Our temple offers a whole range of services\nto support you all on a comfortable journey!\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Safety and peace of mind can be bought with money -- up to a point.{w}However, most regrettably, beyond that point, money is no guarantee............\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"That's where WE come in!\"{w}",
+  "kind": "msg",
+  "note": "soko de! = sales-pitch pivot ('and so!'); rendered with the idiomatic pitch line."
+ },
+ {
+  "en": "\"All manner of treatments, even if you can't cast Priest spells!{w}Corpse retrieval, with no risk of your rescuers becoming casualties too!{w}And resurrection on your behalf, with our temple's proudly high success rate!\"{w}",
+  "kind": "msg",
+  "note": "niji sounan = a second disaster striking the rescue party."
+ },
+ {
+  "en": "\"These are services found only at our temple,\nwhich no one else could ever hope to imitate.{w}So whenever your party gets wiped out -- in moderation............\"{w}",
+  "kind": "msg",
+  "note": "hodohodo ni zenmetsu = deliberately absurd 'wiped out moderately'; the joke is kept."
+ },
+ {
+  "en": "\"Be sure to come to our temple.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hello, come right in! Welcome to Rust Temple!{w}Our temple offers a whole range of... What's the matter?{w}This is business. Without a sales pitch,\nthere are no sales--\"{w}{p}\"Of course, life is precious.{w}",
+  "kind": "msg",
+  "note": "Row ends mid-quote by design; row 556 repeats the last sentence inside {0E}..{0F}."
+ },
+ {
+  "en": "{0E}\"Of course, life is precious.{0F}\n...But so is money.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"I don't intend to be ashamed of that,{w}because it's the truth, whatever anyone says.\"{w}",
+  "kind": "msg"
+ },
+ {
+  "en": "\"Hello, come right in! Welcome to Rust...{w}Ah, it's you folks... How are things?{w}...You're adventurers, if I remember correctly...?\"{w}{p}\"...Actually, I have a bit of a problem.\"{w}{p}\"Our temple looks after a graveyard for the nameless dead\nin the Crotoa City Ruins,{w}and lately wild dogs have been ravaging it.\"{w}",
+  "kind": "msg",
+  "note": "Crotoa City Ruins = new place name (Kurotoa shigai atochi; DGN_NAME.CSV:21). mumei bochi -> 'graveyard for the nameless dead' (unmarked graves); slice_08/EVENT_TEXT refer to the same place."
+ },
+ {
+  "en": "\"Our temple's after-sales service has to be flawless,\neven after death!\"{w}",
+  "kind": "msg",
+  "note": "shigo no afutaa saabisu pun; 'after-sales service' should be reused in slice_08 rows 561-563 (perfect after-sales service as the reward)."
+ }
+]

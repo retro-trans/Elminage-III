@@ -1,0 +1,308 @@
+[
+ {
+  "en": "1",
+  "kind": "ui"
+ },
+ {
+  "en": "2",
+  "kind": "ui"
+ },
+ {
+  "en": "3",
+  "kind": "ui"
+ },
+ {
+  "en": "4",
+  "kind": "ui"
+ },
+ {
+  "en": "5",
+  "kind": "ui"
+ },
+ {
+  "en": "6",
+  "kind": "ui"
+ },
+ {
+  "en": "7",
+  "kind": "ui"
+ },
+ {
+  "en": "8",
+  "kind": "ui"
+ },
+ {
+  "en": "9",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a character to treat.",
+  "kind": "ui",
+  "note": "Rust Temple treatment menu."
+ },
+ {
+  "en": "Choose who will pay the offering.",
+  "kind": "ui",
+  "note": "[JP] = 'offering', as in the temple dialogue (wmap slice_08/16)."
+ },
+ {
+  "en": "O Ildraha, god of life,\nplease grant us your blessing.",
+  "kind": "ui",
+  "note": "Temple prayer. [JP] rendered 'god of life' to match wmap slice_16. Kept the single line break."
+ },
+ {
+  "en": "Treatment complete.",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a character to retrieve.",
+  "kind": "ui",
+  "note": "Temple corpse retrieval ([JP] = 'corpse retrieval' in wmap slice_07)."
+ },
+ {
+  "en": "Retrieving............",
+  "kind": "ui",
+  "note": "Six ellipsis characters (12 columns) -> 12 dots."
+ },
+ {
+  "en": "Retrieval complete.",
+  "kind": "ui"
+ },
+ {
+  "en": "Enter the dungeon's name.",
+  "kind": "ui",
+  "note": "Text-entry prompt; feature context (user dungeon data?) not confirmed."
+ },
+ {
+  "en": "Enter the dungeon's description.",
+  "kind": "ui"
+ },
+ {
+  "en": "Enter the line spoken before battle.",
+  "kind": "ui",
+  "note": "[JP] = a character's spoken line."
+ },
+ {
+  "en": "Enter the line spoken after battle.",
+  "kind": "ui"
+ },
+ {
+  "en": "Select the routine for the Circle button.",
+  "kind": "ui",
+  "note": "[JP] 'routine': feature not identified (battle shortcut?)."
+ },
+ {
+  "en": "Select the spell for the Triangle button.",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a topic.",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a picture.",
+  "kind": "ui",
+  "note": "[JP] = picture; likely a gallery/painting viewer."
+ },
+ {
+  "en": "Choose a recorded history.",
+  "kind": "ui",
+  "note": "[JP] 'recorded history'; probably a log/book viewer."
+ },
+ {
+  "en": "Choose a request.",
+  "kind": "ui",
+  "note": "[JP] = townsfolk problems brought to the party (cf. ebt row 184 'solve this one'). Rendered 'request'; [JP] appears only in an appraisal prompt, so no clash."
+ },
+ {
+  "en": "Obtained 3 Fame!",
+  "kind": "ui",
+  "note": "Matches story wording 'Obtained {..} Fame!'. Japanese uses a literal full-width 3, no placeholder."
+ },
+ {
+  "en": "Choose a hint.",
+  "kind": "ui"
+ },
+ {
+  "en": "Who will pay the fee?",
+  "kind": "ui"
+ },
+ {
+  "en": "Hint purchased.",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose an alchemy item.",
+  "kind": "ui"
+ },
+ {
+  "en": "Alchemy item info purchased.",
+  "kind": "ui"
+ },
+ {
+  "en": "Researching...                    ",
+  "kind": "ui",
+  "note": "Progress animation frames 123-128: text + growing dots, padded with ASCII spaces to a constant 34 columns (source pads with full-width spaces to a constant 17 full-width chars = 34 columns). If the font is proportional, padding is approximate."
+ },
+ {
+  "en": "Researching.......                ",
+  "kind": "ui"
+ },
+ {
+  "en": "Researching...........            ",
+  "kind": "ui"
+ },
+ {
+  "en": "Researching...............        ",
+  "kind": "ui"
+ },
+ {
+  "en": "Researching...................    ",
+  "kind": "ui"
+ },
+ {
+  "en": "Researching.......................",
+  "kind": "ui",
+  "note": "Last frame: no padding needed (source has none either)."
+ },
+ {
+  "en": "This party was wiped out. It cannot resume.",
+  "kind": "ui",
+  "note": "Shown on a suspended ([JP]) save whose party was annihilated."
+ },
+ {
+  "en": "Save Data %s",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose the weather you want. ",
+  "kind": "ui",
+  "note": "Source ends with a full-width space; kept one ASCII space."
+ },
+ {
+  "en": "Choose a character to swap.",
+  "kind": "ui"
+ },
+ {
+  "en": "Swapped.",
+  "kind": "ui"
+ },
+ {
+  "en": "Choose a class.",
+  "kind": "ui"
+ },
+ {
+  "en": "Class changed.",
+  "kind": "ui"
+ },
+ {
+  "en": "Registration changed.",
+  "kind": "ui"
+ },
+ {
+  "en": "Enter the new spell name.",
+  "kind": "ui",
+  "note": "[JP] literally 'please change the spell name'; prompt for a name-entry screen."
+ },
+ {
+  "en": "Choose a character to check.",
+  "kind": "ui"
+ },
+ {
+  "en": "%s Level %s Spells",
+  "kind": "ui",
+  "note": "First %s probably a spell school (Mage/Priest/Alchemist/Summoner, rows 75-78); second %s probably a full-width digit (rows 79-88)."
+ },
+ {
+  "en": "Cast it on which item?",
+  "kind": "ui"
+ },
+ {
+  "en": "Cast the spell.",
+  "kind": "ui"
+ },
+ {
+  "en": "Used.",
+  "kind": "ui",
+  "note": "Subject/object not settled (item or skill?); kept impersonal."
+ },
+ {
+  "en": "Choose a floor.",
+  "kind": "ui",
+  "note": "[JP] = dungeon floor/level."
+ },
+ {
+  "en": "Choose a location.",
+  "kind": "ui"
+ },
+ {
+  "en": "Select a skill.",
+  "kind": "ui"
+ },
+ {
+  "en": "The monster set out on a second life\nas an adventurer.",
+  "kind": "ui",
+  "note": "Kept one line break; moved to the natural break point."
+ },
+ {
+  "en": "Select an item.",
+  "kind": "ui"
+ },
+ {
+  "en": "Equipped.",
+  "kind": "ui",
+  "note": "max_bytes 12; 9 bytes."
+ },
+ {
+  "en": "Triangle: Resists & Slaying   Cross: Back",
+  "kind": "ui",
+  "note": "[JP] = extra damage vs a creature type; 'Slaying' (Wizardry convention). Coordinate with item-effect slices ([Wpn] [JP])."
+ },
+ {
+  "en": "Triangle: Special Effects & Resists  Cross: Back",
+  "kind": "ui",
+  "note": "[JP] = on-hit status effects (sleep, poison...). 44 chars, under the ~46 line width."
+ },
+ {
+  "en": "Triangle: Equip Limits & Passives  Cross: Back",
+  "kind": "ui",
+  "note": "[JP] = who can equip, [JP] = automatic/passive effects."
+ },
+ {
+  "en": "Choose who to use it on.",
+  "kind": "ui"
+ },
+ {
+  "en": "Handed over.",
+  "kind": "ui",
+  "note": "Item given to another character."
+ },
+ {
+  "en": "The Rock Counter reads %03d.",
+  "kind": "ui",
+  "note": "[JP]: new term 'Lock Counter' (an item/device; not in glossary)."
+ },
+ {
+  "en": "You rested in the tent.",
+  "kind": "ui"
+ },
+ {
+  "en": "(",
+  "kind": "ui"
+ },
+ {
+  "en": "Cannot create more than %d entries.",
+  "kind": "ui",
+  "note": "[JP] = save/data entries."
+ },
+ {
+  "en": "?",
+  "kind": "ui",
+  "note": "Item-list marker next to [JP] and [JP] (equipped): [JP] = unidentified. One-glyph slot; used '?' (Wizardry convention)."
+ },
+ {
+  "en": "B",
+  "kind": "ui",
+  "note": "Item-list marker: [JP] = broken item (items can be put in [JP]). One-glyph slot; 'B' chosen, could also be '#'/'X'."
+ }
+]

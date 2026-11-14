@@ -1,0 +1,1838 @@
+[
+ {
+  "en": "Fiery Soul",
+  "kind": "name"
+ },
+ {
+  "en": "Nudie Heart",
+  "kind": "name",
+  "note": "Plunging-neckline dress; wearer may cast off reason and live by the bare heart."
+ },
+ {
+  "en": "Side Deathscythe",
+  "kind": "name",
+  "note": "New name: [JP] romanized as 'Side'; intended pun unknown (Reaper's scythe that restores the law of life)."
+ },
+ {
+  "en": "Ring of Otherspace",
+  "kind": "name",
+  "note": "[JP] = other/alien space; desc: ring warped as seen from a higher dimension."
+ },
+ {
+  "en": "Water of Return",
+  "kind": "name",
+  "note": "[JP] = return/recurrence; desc: water endlessly circling in mid-air."
+ },
+ {
+  "en": "Gauze of Eternity",
+  "kind": "name",
+  "note": "[JP]: lit. 'mosquito net of the eternal world'; it is a cloak wrapping the whole body, so 'Gauze'. Alt: 'Eternal Canopy'."
+ },
+ {
+  "en": "Forebear's Cloak",
+  "kind": "name",
+  "note": "As in chap slice_014."
+ },
+ {
+  "en": "Ragnas Garb",
+  "kind": "name",
+  "note": "Ragnas- as in glossary Ragnastia; [JP] = garb (a blanket replica of a queen's favourite)."
+ },
+ {
+  "en": "Forebear's Sword",
+  "kind": "name",
+  "note": "As in chap slice_014."
+ },
+ {
+  "en": "Leaf Blade",
+  "kind": "name",
+  "note": "Farewell gift from Princess [JP] (pun on her name)."
+ },
+ {
+  "en": "Forebear's Hat",
+  "kind": "name",
+  "note": "As in chap slice_014."
+ },
+ {
+  "en": "Walmy Hat",
+  "kind": "name",
+  "note": "[JP]: pun on Walmitt (ebt glossary spelling); his parting gift. Kept as 'Walmy', not 'Walmitt'."
+ },
+ {
+  "en": "Forebear's Cuirass",
+  "kind": "name",
+  "note": "chap slice_014 uses 'Forebear's Breastplate' (22 bytes > 20), so abbreviated. Alt: 'Forebear's Cuirass' (18). [accuracy] Glossary fixes this item as Forebear's Cuirass (fits 20)."
+ },
+ {
+  "en": "Shock Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Forebear's Staff",
+  "kind": "name",
+  "note": "As in chap slice_014."
+ },
+ {
+  "en": "Spiritual Staff",
+  "kind": "name"
+ },
+ {
+  "en": "Forebear's Sash",
+  "kind": "name",
+  "note": "As in chap slice_014."
+ },
+ {
+  "en": "Bungee Belt",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Heavy Sash",
+  "kind": "name",
+  "note": "[JP]: whip-category sash only holy classes can wear; [JP] read as 'heavy'. Alt: 'Sacred Girdle'."
+ },
+ {
+  "en": "Wave Armor",
+  "kind": "name",
+  "note": "[JP] = wave/vibration; armor made of vibrations."
+ },
+ {
+  "en": "Superstring Blade",
+  "kind": "name",
+  "note": "[JP] = superstring (desc: splits into 11 parts, a nod to string theory)."
+ },
+ {
+  "en": "Adelheid",
+  "kind": "name",
+  "note": "Officer's uniform (leather-armor category)."
+ },
+ {
+  "en": "Altouche",
+  "kind": "name",
+  "note": "New name: romanization of [JP] uncertain (Altusch / Artouche possible)."
+ },
+ {
+  "en": "Helix Spear Euphoron",
+  "kind": "name",
+  "note": "[JP] = spiral spear; 'Spiral Spear Euphoron' is 21 bytes, so 'Helix'. Euphoron: new romanization. 20/20."
+ },
+ {
+  "en": "Magic Gun Boanilus",
+  "kind": "name",
+  "note": "[JP] = magic gun (glossary). Boanilus: new romanization of [JP] (Boanirus possible)."
+ },
+ {
+  "en": "Everblade Einblau",
+  "kind": "name",
+  "note": "[JP] 'Infinite Blade' (23 with name) does not fit; 'Everblade' keeps the endless-blade idea. Einblau: new romanization."
+ },
+ {
+  "en": "Fried Rice",
+  "kind": "name"
+ },
+ {
+  "en": "Strawberry Shortcake",
+  "kind": "name",
+  "note": "20/20 bytes."
+ },
+ {
+  "en": "Hand-Rolled Sushi",
+  "kind": "name",
+  "note": "Scroll category; desc calls it a 'scroll-type food', so 'rolled' keeps the joke."
+ },
+ {
+  "en": "White Fox Gauntlets",
+  "kind": "name",
+  "note": "[JP] = Gauntlets as in slice_14 / ebt ?Gauntlets."
+ },
+ {
+  "en": "Politan Sword",
+  "kind": "name",
+  "note": "[JP] romanized Politan (the 'king of kings of beasts' in the desc)."
+ },
+ {
+  "en": "Maid's Pride",
+  "kind": "name",
+  "note": "A maid's headband (hat category)."
+ },
+ {
+  "en": "Turtle Bikini",
+  "kind": "name"
+ },
+ {
+  "en": "Geimaga",
+  "kind": "name",
+  "note": "New name: [JP] romanized (talisman-bound throwing kunai for ninja). Reading/pun uncertain; same word in ITEM_TEXT slice_26."
+ },
+ {
+  "en": "Magic Glasses",
+  "kind": "name"
+ },
+ {
+  "en": "Lucky Bag",
+  "kind": "name",
+  "note": "[JP] (fukubukuro): mystery grab bag."
+ },
+ {
+  "en": "(Enemy-only below)",
+  "kind": "name",
+  "note": "Designer separator row (all enemy-only items follow); translated as a plain label."
+ },
+ {
+  "en": "Antique Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Paint Sword",
+  "kind": "name",
+  "note": "Sword from an enchanted painting; matches 'Paint Claw' in slice_17."
+ },
+ {
+  "en": "Water Sprite Sword",
+  "kind": "name",
+  "note": "[JP] = water sprite; desc: Undine's treasured sword."
+ },
+ {
+  "en": "Freezing Sword",
+  "kind": "name"
+ },
+ {
+  "en": "Ogre Broadblade",
+  "kind": "name",
+  "note": "[JP] = broad-bladed sword; 'Broadsword' already taken by [JP]."
+ },
+ {
+  "en": "Evilcalibur",
+  "kind": "name",
+  "note": "Pun on Excalibur."
+ },
+ {
+  "en": "Spirit-Calling Sword",
+  "kind": "name",
+  "note": "[JP] = summon spirits; 20/20 bytes."
+ },
+ {
+  "en": "Dragon Emperor Sword",
+  "kind": "name",
+  "note": "20/20 bytes."
+ },
+ {
+  "en": "Imperial Sword",
+  "kind": "name",
+  "note": "max 18."
+ },
+ {
+  "en": "Dark Saber",
+  "kind": "name",
+  "note": "[JP] = Dark, as Dark Magic Seal (slice_14)."
+ },
+ {
+  "en": "Scourge",
+  "kind": "name",
+  "note": "[JP] = scourge; legendary mad sword."
+ },
+ {
+  "en": "Dish Blade",
+  "kind": "name",
+  "note": "A kitchen knife."
+ },
+ {
+  "en": "Joker Knife",
+  "kind": "name",
+  "note": "Joker as in Joker Land."
+ },
+ {
+  "en": "Kotetsu",
+  "kind": "name",
+  "note": "Famous katana; desc pairs it with Murasame."
+ },
+ {
+  "en": "Yoringen",
+  "kind": "name",
+  "note": "New name: [JP] romanized; reading uncertain. Also wielded by a boss in MON_TEXT slice_44."
+ },
+ {
+  "en": "Garden Keeper",
+  "kind": "name",
+  "note": "As in chap slice_010."
+ },
+ {
+  "en": "Shadow Spear",
+  "kind": "name"
+ },
+ {
+  "en": "Holy Sea Trident",
+  "kind": "name",
+  "note": "'Trident of the Holy Sea' (23) does not fit."
+ },
+ {
+  "en": "Demon God's Spear",
+  "kind": "name",
+  "note": "[JP] = demon god; desc: spear forged with a grudge against the gods."
+ },
+ {
+  "en": "Atrorubens",
+  "kind": "name",
+  "note": "Latin 'dark red'; named spear of the Kin of Darkness."
+ },
+ {
+  "en": "Black Lightspear",
+  "kind": "name",
+  "note": "[JP]: a light-spear that shines dark."
+ },
+ {
+  "en": "Unicorn Horn",
+  "kind": "name"
+ },
+ {
+  "en": "Bicorn Horn",
+  "kind": "name"
+ },
+ {
+  "en": "Identita",
+  "kind": "name",
+  "note": "[JP]: Italian/Latin-style 'identity'; mace of obedience."
+ },
+ {
+  "en": "Fallen Tree",
+  "kind": "name"
+ },
+ {
+  "en": "Body-Pounding Pestle",
+  "kind": "name",
+  "note": "[JP]: pun on [JP] (mochi pounding) -> pounding people; 'Person-Pounding' (22) too long. 20/20."
+ },
+ {
+  "en": "Feireed",
+  "kind": "name",
+  "note": "New name: [JP] romanized; no source (max 16)."
+ },
+ {
+  "en": "Rezefeid",
+  "kind": "name",
+  "note": "New name: [JP] romanized (Rizefade possible); max 16."
+ },
+ {
+  "en": "Snowball",
+  "kind": "name"
+ },
+ {
+  "en": "Icicle Arrow",
+  "kind": "name"
+ },
+ {
+  "en": "Silver Bow",
+  "kind": "name",
+  "note": "[JP] = Silver, as Silver Breastplate (slice_13)."
+ },
+ {
+  "en": "Finger Shot",
+  "kind": "name",
+  "note": "[JP]: flicking pebbles/coins with the fingers as bullets (a technique)."
+ },
+ {
+  "en": "Elsoavice",
+  "kind": "name",
+  "note": "New name: [JP] romanized; no source (could be 'Elsoa Vice')."
+ },
+ {
+  "en": "Flower King's Leaf",
+  "kind": "name",
+  "note": "[JP]: lit. 'a single leaf/petal of the Flower King'; desc says it is a leaf."
+ },
+ {
+  "en": "Old Tree Vine",
+  "kind": "name"
+ },
+ {
+  "en": "Thorn Vine",
+  "kind": "name"
+ },
+ {
+  "en": "Alraune Vine",
+  "kind": "name"
+ },
+ {
+  "en": "Hell Master +1",
+  "kind": "name",
+  "note": "Hell Master as slice_12 row 942."
+ },
+ {
+  "en": "Flame Whip",
+  "kind": "name"
+ },
+ {
+  "en": "Punishment Whip",
+  "kind": "name",
+  "note": "Discipline rod for well-born children."
+ },
+ {
+  "en": "Joker Rod",
+  "kind": "name"
+ },
+ {
+  "en": "Forbidden Paintbrush",
+  "kind": "name",
+  "note": "20/20 bytes. No ITEM_TEXT entry found."
+ },
+ {
+  "en": "Abi Buckler",
+  "kind": "name",
+  "note": "Abi = glossary; matches 'Abi Shield' (slice_17)."
+ },
+ {
+  "en": "Abi Shield",
+  "kind": "name",
+  "note": "Abi = glossary name; description is Abi's shield."
+ },
+ {
+  "en": "Ooze",
+  "kind": "name",
+  "note": "Sticky fluid monsters produce (sometimes acidic); 'Slime' avoided to not clash with the monster name."
+ },
+ {
+  "en": "Ooze +1",
+  "kind": "name"
+ },
+ {
+  "en": "Ooze +2",
+  "kind": "name"
+ },
+ {
+  "en": "Ooze +3",
+  "kind": "name"
+ },
+ {
+  "en": "Mist",
+  "kind": "name",
+  "note": "Literally 'spray'; the description is a thick sleep-inducing mist."
+ },
+ {
+  "en": "Poison Moth Dust",
+  "kind": "name",
+  "note": "Moth scale-powder; 'Dust' for [JP]."
+ },
+ {
+  "en": "Reckdas' Evil Fog",
+  "kind": "name",
+  "note": "Reckdas: new romanization of the monster name (no glossary entry). [JP] = evil fog."
+ },
+ {
+  "en": "Sharp Horn",
+  "kind": "name"
+ },
+ {
+  "en": "Sharp Fang",
+  "kind": "name"
+ },
+ {
+  "en": "Sharp Fang +1",
+  "kind": "name"
+ },
+ {
+  "en": "Sharp Fang +2",
+  "kind": "name"
+ },
+ {
+  "en": "Sharp Fang +3",
+  "kind": "name"
+ },
+ {
+  "en": "Poison Fang",
+  "kind": "name"
+ },
+ {
+  "en": "Poison Fang +1",
+  "kind": "name"
+ },
+ {
+  "en": "Paralyzing Fang",
+  "kind": "name",
+  "note": "Fang with nerve venom."
+ },
+ {
+  "en": "Drain Fang",
+  "kind": "name"
+ },
+ {
+  "en": "Hydra Fang",
+  "kind": "name"
+ },
+ {
+  "en": "Rainbow Fang",
+  "kind": "name"
+ },
+ {
+  "en": "Progenitor Fang",
+  "kind": "name",
+  "note": "[JP] = the progenitor vampire at the top of the night kin (desc). 'True Ancestor Fang' is the literal alternative. [editorial] Possessive dropped to match 1477 Progenitor Vestment and the attributive Fang/Claw series (Hydra Fang, Demon Lord Claw)."
+ },
+ {
+  "en": "Cold Hand",
+  "kind": "name"
+ },
+ {
+  "en": "Cold Hand +1",
+  "kind": "name"
+ },
+ {
+  "en": "Sharp Claw",
+  "kind": "name"
+ },
+ {
+  "en": "Sharp Claw +1",
+  "kind": "name"
+ },
+ {
+  "en": "Demon Claw",
+  "kind": "name"
+ },
+ {
+  "en": "Demon Claw +1",
+  "kind": "name"
+ },
+ {
+  "en": "Demon Claw +2",
+  "kind": "name"
+ },
+ {
+  "en": "Wraith Claw",
+  "kind": "name",
+  "note": "[JP] = incorporeal spirit (desc); 'Wraith' chosen."
+ },
+ {
+  "en": "Wraith Claw +1",
+  "kind": "name"
+ },
+ {
+  "en": "Wraith Claw +2",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Claw",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Claw +1",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Claw +2",
+  "kind": "name"
+ },
+ {
+  "en": "Dragon Claw +3",
+  "kind": "name"
+ },
+ {
+  "en": "Fiend Beast Claw",
+  "kind": "name",
+  "note": "[JP] = beasts that gained dark power; 'Fiend Beast' keeps it distinct from [JP] 'Demon'."
+ },
+ {
+  "en": "Fiend Beast Claw +1",
+  "kind": "name"
+ },
+ {
+  "en": "Fiend Beast Claw +2",
+  "kind": "name"
+ },
+ {
+  "en": "Paint Claw",
+  "kind": "name",
+  "note": "Claw of a beast painted on a canvas."
+ },
+ {
+  "en": "Crimson Claw",
+  "kind": "name"
+ },
+ {
+  "en": "Demon Lord Claw",
+  "kind": "name",
+  "note": "[JP] = Demon Lord, as in csvt slice_01."
+ },
+ {
+  "en": "Alabaster Claw",
+  "kind": "name",
+  "note": "[JP] = chalk-white; desc compares it to marble."
+ },
+ {
+  "en": "Dark Claw",
+  "kind": "name"
+ },
+ {
+  "en": "Tentacle",
+  "kind": "name"
+ },
+ {
+  "en": "Tentacle +1",
+  "kind": "name"
+ },
+ {
+  "en": "Tentacle +2",
+  "kind": "name"
+ },
+ {
+  "en": "Calamity Pistil",
+  "kind": "name",
+  "note": "[JP] read as [JP] (pistil) + suffix; desc describes pistil-like tips on the tentacles. Could be meant as a coined name 'Mesibel'."
+ },
+ {
+  "en": "Spirit Rock",
+  "kind": "name"
+ },
+ {
+  "en": "Water Shot",
+  "kind": "name",
+  "note": "[JP]: condensed water fired like a bullet. '-[JP]' rendered 'Shot' throughout this slice."
+ },
+ {
+  "en": "Drift Ice",
+  "kind": "name"
+ },
+ {
+  "en": "Fly Knight Shot",
+  "kind": "name",
+  "note": "The fly knights guarding the Insector Lord; category is bow (projectile)."
+ },
+ {
+  "en": "Strange Rock Shot",
+  "kind": "name",
+  "note": "[JP] = oddly shaped rock."
+ },
+ {
+  "en": "Milky Way",
+  "kind": "name"
+ },
+ {
+  "en": "Foul Water Shot",
+  "kind": "name",
+  "note": "[JP] = unclean water/mud; pairs with 1398 Water Shot."
+ },
+ {
+  "en": "Deprus Factor",
+  "kind": "name",
+  "note": "[JP]: new romanization, no source."
+ },
+ {
+  "en": "Nonsense Codon",
+  "kind": "name"
+ },
+ {
+  "en": "Mysterious Wave",
+  "kind": "name",
+  "note": "[JP]: shockwave that also carries emotions."
+ },
+ {
+  "en": "Vibration Wave",
+  "kind": "name"
+ },
+ {
+  "en": "Vacuum Blade",
+  "kind": "name",
+  "note": "[JP]: wind/vacuum-vortex cut; 'Vacuum Blade' instead of the romanized 'Kamaitachi'."
+ },
+ {
+  "en": "Sonic Boom",
+  "kind": "name"
+ },
+ {
+  "en": "Psi Blade",
+  "kind": "name"
+ },
+ {
+  "en": "Psi Blade +1",
+  "kind": "name"
+ },
+ {
+  "en": "Caesarean Burst",
+  "kind": "name",
+  "note": "[JP] puns on [JP] (Caesarean section): a cursed child bursting out of the womb (desc)."
+ },
+ {
+  "en": "Blue Strike",
+  "kind": "name"
+ },
+ {
+  "en": "Fist",
+  "kind": "name",
+  "note": "[JP] = a clenched-fist blow."
+ },
+ {
+  "en": "Fist +1",
+  "kind": "name"
+ },
+ {
+  "en": "Fist +2",
+  "kind": "name"
+ },
+ {
+  "en": "Fist +3",
+  "kind": "name"
+ },
+ {
+  "en": "Great Wheel",
+  "kind": "name",
+  "note": "[JP]: spinning attack using centrifugal force."
+ },
+ {
+  "en": "Great Wheel +1",
+  "kind": "name"
+ },
+ {
+  "en": "Mantis Blade",
+  "kind": "name"
+ },
+ {
+  "en": "Demon-Rend Pincers",
+  "kind": "name",
+  "note": "[JP]: crustacean pincers that cut anything; [JP] kept as 'Demon-Rend'."
+ },
+ {
+  "en": "Bone Scythe",
+  "kind": "name",
+  "note": "[JP] = remains/skeleton; 'Corpse Scythe' is the alternative."
+ },
+ {
+  "en": "Samael's Scythe",
+  "kind": "name",
+  "note": "Samael: standard spelling of the angel of death; here a mantis-like skeleton monster."
+ },
+ {
+  "en": "Iron Hoe",
+  "kind": "name"
+ },
+ {
+  "en": "Poison Tail",
+  "kind": "name"
+ },
+ {
+  "en": "Lamia Tail",
+  "kind": "name"
+ },
+ {
+  "en": "Flame Arm",
+  "kind": "name"
+ },
+ {
+  "en": "Flame Arm +1",
+  "kind": "name"
+ },
+ {
+  "en": "Beak",
+  "kind": "name"
+ },
+ {
+  "en": "Shining Finger",
+  "kind": "name"
+ },
+ {
+  "en": "Silken Fingers",
+  "kind": "name",
+  "note": "Monster natural weapon; desc: fingers smooth as silk whose caress tames anyone."
+ },
+ {
+  "en": "Sultry Sigh",
+  "kind": "name",
+  "note": "[JP] = a seductive hot sigh (desc: luring a target with sighs), not a fire breath."
+ },
+ {
+  "en": "Wicked French Kiss",
+  "kind": "name",
+  "note": "[JP] = bero (tongue) + baiser; desc says outright it is a French kiss. [JP] rendered 'Wicked' (bewitching/devilish)."
+ },
+ {
+  "en": "Demon Halo",
+  "kind": "name",
+  "note": "Desc: [JP] = halo/aureole."
+ },
+ {
+  "en": "Gravity Ring",
+  "kind": "name"
+ },
+ {
+  "en": "Swallow Whole",
+  "kind": "name",
+  "note": "[JP] = gulping prey down whole."
+ },
+ {
+  "en": "Swallow Whole +1",
+  "kind": "name"
+ },
+ {
+  "en": "Swallow Whole +2",
+  "kind": "name"
+ },
+ {
+  "en": "Paralytic Thread",
+  "kind": "name",
+  "note": "[JP]: sticky thread that numbs/stings on contact."
+ },
+ {
+  "en": "Brutal Hoof",
+  "kind": "name",
+  "note": "Desc: a quadruped's one-hit-kill kick."
+ },
+ {
+  "en": "Shining Wizard",
+  "kind": "name",
+  "note": "[JP] is the Japanese name of the pro-wrestling move Shining Wizard (knee strike stepping off the opponent's body), which the desc describes. Neighbour row 1430 is 'Shining Finger'."
+ },
+ {
+  "en": "Dropkick",
+  "kind": "name",
+  "note": "Matches chap slice_002."
+ },
+ {
+  "en": "Three-Year Death",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Stomp",
+  "kind": "name",
+  "note": "[JP]; the 1445 desc contrasts a butt stomp with this ordinary foot stomp."
+ },
+ {
+  "en": "O.P.I.",
+  "kind": "name",
+  "note": "Kept as initials: source is the acronym [JP]; desc is a stomp with a huge heavy butt. Meaning of the letters unknown (probably a crude pun); not expanded."
+ },
+ {
+  "en": "Clamshell Pinch",
+  "kind": "name",
+  "note": "[JP]: a clam clamping its prey."
+ },
+ {
+  "en": "Phantom Prow",
+  "kind": "name",
+  "note": "[JP] (hazy/ghostly) [JP]; desc: the prow of a Ghost Ship."
+ },
+ {
+  "en": "Fish Buster",
+  "kind": "name"
+ },
+ {
+  "en": "Spike Heel",
+  "kind": "name"
+ },
+ {
+  "en": "Takasago Fan",
+  "kind": "name",
+  "note": "[JP] is a named throw in the fan-toss game [JP] (desc); kept as the proper name."
+ },
+ {
+  "en": "Armrest",
+  "kind": "name",
+  "note": "[JP] (kyosoku): a low eastern armrest, thrown at the party per desc."
+ },
+ {
+  "en": "Tengu Fan",
+  "kind": "name",
+  "note": "'Tengu' as in slice_11 'Karasu Tengu'."
+ },
+ {
+  "en": "Brass Lightning",
+  "kind": "name",
+  "note": "[JP]: brass-coloured lightning called down from the sky."
+ },
+ {
+  "en": "Black Lightning",
+  "kind": "name"
+ },
+ {
+  "en": "Beast-Hide Gloves",
+  "kind": "name",
+  "note": "Plural like 'Mantis Gloves' (slice_14)."
+ },
+ {
+  "en": "Five-Inch Nail",
+  "kind": "name",
+  "note": "[JP]: the long nail of the eastern straw-doll curse (desc)."
+ },
+ {
+  "en": "Atonewolo's Hot Jug",
+  "kind": "name",
+  "note": "New name [JP] romanized 'Atonewolo'. [JP] = hot-water vessel; desc reveals it works like a clothes iron. 'Jug' chosen to fit 20 bytes."
+ },
+ {
+  "en": "Bronze Claw",
+  "kind": "name"
+ },
+ {
+  "en": "Bronze Kick",
+  "kind": "name"
+ },
+ {
+  "en": "Air Distortion",
+  "kind": "name",
+  "note": "[JP]: shifting pressure layers that twist and tear the target (desc)."
+ },
+ {
+  "en": "Crystal Ray",
+  "kind": "name"
+ },
+ {
+  "en": "Hivanask",
+  "kind": "name",
+  "note": "New name [JP] romanized; desc ties it to Seot Ma ([JP]) as its host. Possibly a 'hive' pun; kept as a coined name."
+ },
+ {
+  "en": "Oh, Who Is It?",
+  "kind": "name",
+  "note": "[JP]: a door flung open into the victim's face (desc)."
+ },
+ {
+  "en": "Come Again!",
+  "kind": "name",
+  "note": "[JP]: being kicked out with a cheery 'come again'."
+ },
+ {
+  "en": "Aura Steeda",
+  "kind": "name",
+  "note": "New name [JP] romanized 'Steeda'; ITEM_PRIZ has [JP], which should reuse 'Steeda'. A barrier of the Ryug (glossary)."
+ },
+ {
+  "en": "Rationalist Planner",
+  "kind": "name",
+  "note": "[JP]: a minute-by-minute schedule book. 'Rationalist's Planner' is 21 bytes, so the possessive is dropped."
+ },
+ {
+  "en": "Santorea Handbook",
+  "kind": "name",
+  "note": "[JP] = Santorea (Academy) student handbook; 'Santorea Student Handbook' does not fit 20 bytes. No desc row found."
+ },
+ {
+  "en": "Alchemy Flask Beta",
+  "kind": "name",
+  "note": "β spelled out (ASCII only)."
+ },
+ {
+  "en": "Tuna Edict",
+  "kind": "name",
+  "note": "[JP]: desc says its full name is a set of camp regulations on tuna; [JP] = law/edict."
+ },
+ {
+  "en": "Taizary Helm",
+  "kind": "name",
+  "note": "[JP] is an adjective-like form of Taizarti (glossary); desc: the helm Taizarti wears. Kept distinct as 'Taizary'; 'Taizarti Helm' (13) is the alternative if the link should be explicit."
+ },
+ {
+  "en": "Rose Headband",
+  "kind": "name",
+  "note": "[JP] = hair band."
+ },
+ {
+  "en": "Hitai-Eboshi",
+  "kind": "name",
+  "note": "[JP]: the white triangular headcloth of eastern ghosts; 'Eboshi' romanized as slice_13 did for [JP]."
+ },
+ {
+  "en": "Alchemy Flask Alpha",
+  "kind": "name",
+  "note": "α spelled out."
+ },
+ {
+  "en": "Paint Armor",
+  "kind": "name",
+  "note": "Like slice_17 'Paint Claw': armour from a painting made real."
+ },
+ {
+  "en": "Imperial Garb",
+  "kind": "name"
+ },
+ {
+  "en": "Raver Plate",
+  "kind": "name",
+  "note": "[JP] read as 'Raver': desc [JP] (armour of the frenzied), not 'Labor'."
+ },
+ {
+  "en": "Progenitor Vestment",
+  "kind": "name",
+  "note": "[JP] = 'Progenitor' as in slice_17 'Progenitor's Fang'; possessive dropped for 20 bytes (21 with it)."
+ },
+ {
+  "en": "Fiend King Armor",
+  "kind": "name",
+  "note": "[JP] kept distinct from [JP] ('Demon Lord', slice_17); desc speaks of 'kings' among the dark kin."
+ },
+ {
+  "en": "Cheap Iron",
+  "kind": "name"
+ },
+ {
+  "en": "Obsidian Armor",
+  "kind": "name"
+ },
+ {
+  "en": "Lich's Robe",
+  "kind": "name",
+  "note": "[JP] = Lich (desc: the robe a Lich wears)."
+ },
+ {
+  "en": "Cocktail Dress",
+  "kind": "name"
+ },
+ {
+  "en": "Spirit Robe",
+  "kind": "name",
+  "note": "[JP] = 'Spirit' as in slice_11 'Spirit Bow'."
+ },
+ {
+  "en": "Loser's Robe",
+  "kind": "name"
+ },
+ {
+  "en": "Midnight Silk",
+  "kind": "name"
+ },
+ {
+  "en": "White Night Robe",
+  "kind": "name",
+  "note": "[JP] = white night / midnight sun (desc). 'Midnight Sun Robe' avoided to stay apart from 1485 Midnight Silk."
+ },
+ {
+  "en": "Serpent Deity Robe",
+  "kind": "name",
+  "note": "[JP] is gender-neutral; desc says a goddess wore it, but the name is kept neutral."
+ },
+ {
+  "en": "Celestia Belly",
+  "kind": "name",
+  "note": "[JP] = belly (desc: a belly dress open at the midriff), not 'berry'. 'Celestia' kept as a coined name."
+ },
+ {
+  "en": "Clown Garb",
+  "kind": "name",
+  "note": "[JP] = clown (desc: robe made for jesters), not crown."
+ },
+ {
+  "en": "Clown Garb +1",
+  "kind": "name"
+ },
+ {
+  "en": "Big Daddy",
+  "kind": "name",
+  "note": "Desc: Don Magus's trousers ([JP], not used in the name)."
+ },
+ {
+  "en": "Netherlord's Robe",
+  "kind": "name",
+  "note": "[JP] = king of the underworld."
+ },
+ {
+  "en": "Under-Kimono",
+  "kind": "name",
+  "note": "[JP]: eastern undergarment, also worn by the dead (desc)."
+ },
+ {
+  "en": "Twelve-Layer Robe",
+  "kind": "name",
+  "note": "[JP] (junihitoe): many layered robes (desc)."
+ },
+ {
+  "en": "Destruction Leotard",
+  "kind": "name",
+  "note": "'Leotard of Destruction' (22) does not fit; slice_11 used 'Mace of Destruction'."
+ },
+ {
+  "en": "Honey Mail",
+  "kind": "name"
+ },
+ {
+  "en": "Pointy Corset",
+  "kind": "name"
+ },
+ {
+  "en": "Evil Breastplate",
+  "kind": "name",
+  "note": "Pattern 'Evil Armor/Helm' (slices 12-14); [JP] = Breastplate (slice_13)."
+ },
+ {
+  "en": "Shell Breastplate",
+  "kind": "name",
+  "note": "[JP]: breastplate of pearl-oyster shell; 'Breastplate' instead of 'Chest' so it does not read as a box."
+ },
+ {
+  "en": "Shell Breastplate +1",
+  "kind": "name",
+  "note": "Exactly 20 bytes."
+ },
+ {
+  "en": "Oath Breastplate",
+  "kind": "name"
+ },
+ {
+  "en": "Ruby Gauntlets",
+  "kind": "name",
+  "note": "Plural like 'Rose Gauntlets' (slice_14)."
+ },
+ {
+  "en": "Ivory Legs",
+  "kind": "name",
+  "note": "Shoes (category [JP]); katakana [JP] kept as 'Legs'."
+ },
+ {
+  "en": "Rime Cloak",
+  "kind": "name",
+  "note": "[JP] = rime-frosted trees; [JP] = 'Cloak' per slice_14."
+ },
+ {
+  "en": "Wings of Destruction",
+  "kind": "name",
+  "note": "Exactly 20 bytes; cloak-slot item."
+ },
+ {
+  "en": "Sapphire Cloak",
+  "kind": "name"
+ },
+ {
+  "en": "War Banner: Blitz",
+  "kind": "name",
+  "note": "[JP] = lightning-fast attack (desc)."
+ },
+ {
+  "en": "War Banner: Wasabi",
+  "kind": "name"
+ },
+ {
+  "en": "Fake Beard",
+  "kind": "name",
+  "note": "[JP] = 'beard' as in the Milonya story lines (wmap slice_11/14); desc6 says Shimerief gave it to Milonya."
+ },
+ {
+  "en": "Tin Bucket",
+  "kind": "name"
+ },
+ {
+  "en": "Greater Pekoe",
+  "kind": "name",
+  "note": "High-grade tea leaf used by Servants (ITEM_TEXT 616); 'Pekoe' is the tea grade. Same string is the ITEM_HELP/ITEM_TEXT mirror key."
+ },
+ {
+  "en": "Old Land-King Prayer",
+  "kind": "name",
+  "note": "Scroll; ITEM_TEXT 705 gives the archaic reading furugatari mutsu-sumeragi norito and says the 'land' kanji is misleading (it also reads mutsu = 'six'). The pun cannot survive in 20 bytes; 'Land-King' keeps the surface reading the description comments on. Tell the ITEM_TEXT translator."
+ },
+ {
+  "en": "Attacks one enemy row with fire.",
+  "kind": "help"
+ },
+ {
+  "en": "Strikes one enemy with lightning.",
+  "kind": "help"
+ },
+ {
+  "en": "Creates a barrier that blocks one drain attack. Can be stacked.",
+  "kind": "help",
+  "note": "'drain barrier' as in the battle messages."
+ },
+ {
+  "en": "High chance to instantly kill one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "Rainbow light hits one enemy; stronger per spell cast this battle.",
+  "kind": "help",
+  "note": "Compressed: 'grows according to the number of spells activated during the battle'."
+ },
+ {
+  "en": "Asks the gods to work a mighty miracle at the cost of one level.",
+  "kind": "help"
+ },
+ {
+  "en": "Unleashes a breath attack.",
+  "kind": "help"
+ },
+ {
+  "en": "Grants all allies the Inf Range status.",
+  "kind": "help",
+  "note": "'Inf Range' = UI status label for the infinite-range buff (ebt row 1047). Brackets dropped."
+ },
+ {
+  "en": "Lowers all enemies' spell resistance. Stackable.",
+  "kind": "help"
+ },
+ {
+  "en": "Shows the map of every floor of the current dungeon.",
+  "kind": "help"
+ },
+ {
+  "en": "Heals all allies a little.",
+  "kind": "help"
+ },
+ {
+  "en": "Heals one ally a little.",
+  "kind": "help"
+ },
+ {
+  "en": "Fully restores one ally's HP.",
+  "kind": "help"
+ },
+ {
+  "en": "Cures one ally of Sleep.",
+  "kind": "help",
+  "note": "Status names follow the UI list (Sleep/Poison/Paralysis/Silence/Confusion/Charm), capitalised; Japanese brackets dropped."
+ },
+ {
+  "en": "Cures one ally of Poison.",
+  "kind": "help",
+  "note": "Mogoku = the Poison status."
+ },
+ {
+  "en": "Cures one ally of Paralysis.",
+  "kind": "help"
+ },
+ {
+  "en": "Cures one ally of Silence.",
+  "kind": "help"
+ },
+ {
+  "en": "Cures one ally of Confusion.",
+  "kind": "help"
+ },
+ {
+  "en": "Cures one ally of Charm.",
+  "kind": "help"
+ },
+ {
+  "en": "Cures one ally of Petrification.",
+  "kind": "help",
+  "note": "UI status label is 'Petrify'; noun form used for grammar."
+ },
+ {
+  "en": "Has a chance to revive one dead ally.",
+  "kind": "help",
+  "note": "Lit. 'cures one ally's Death at a fixed chance'."
+ },
+ {
+  "en": "Cures one ally of Sleep, Silence, Confusion and Charm.",
+  "kind": "help"
+ },
+ {
+  "en": "[Instrument] Lifts the curse on spirit and undead monsters.",
+  "kind": "help",
+  "note": "[Instrument] tag as in the '?Instrument' unidentified name. Literal: removes the curse laid on spirit/undead monsters (a Dispel-type effect); kept literal."
+ },
+ {
+  "en": "[Instrument] High chance to put one enemy to sleep.",
+  "kind": "help"
+ },
+ {
+  "en": "[Instrument] Raises all enemies' AC by 4. Stackable.",
+  "kind": "help",
+  "note": "Higher AC is worse (Wizardry rule), so this weakens enemies, as in the battle message."
+ },
+ {
+  "en": "[Instrument] Blesses all allies' weapons so they can hit spirits.",
+  "kind": "help"
+ },
+ {
+  "en": "[Instrument] High chance to charm one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "[Instrument] Draws enemy attacks onto one ally.",
+  "kind": "help",
+  "note": "Matches the 'marked for focused attacks' battle message."
+ },
+ {
+  "en": "[Instrument] A fissure damages foes; low chance to swallow them.",
+  "kind": "help"
+ },
+ {
+  "en": "[Instrument] Resets stat changes made in battle for friend and foe.",
+  "kind": "help",
+  "note": "'all of friend and foe' compressed to 'friend and foe'."
+ },
+ {
+  "en": "[Instrument] Cures minor status ailments for all allies.",
+  "kind": "help"
+ },
+ {
+  "en": "[Instrument] Strikes one enemy with lightning.",
+  "kind": "help"
+ },
+ {
+  "en": "[Servant] Spends money to deal up to 100 damage to one enemy.",
+  "kind": "help",
+  "note": "[Servant] = item used by a Servant via the Servant's Bag, as in HELP_TEXT."
+ },
+ {
+  "en": "[Servant] Spends money to deal up to 200 damage to one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "[Servant] Spends all your money for limitless damage to one enemy.",
+  "kind": "help"
+ },
+ {
+  "en": "[Servant] Restores 1 MP to all allies.",
+  "kind": "help"
+ },
+ {
+  "en": "Attacks one enemy with holy power.",
+  "kind": "help"
+ },
+ {
+  "en": "Has a chance to inflict Poison on one enemy row.",
+  "kind": "help"
+ },
+ {
+  "en": "Raises all allies' spell resistance. Stackable.",
+  "kind": "help"
+ },
+ {
+  "en": "Raises an ally's number of attacks by 1. Stackable.",
+  "kind": "help",
+  "note": "Source says only 'mikata no' (ally/allies), neither 'all' nor 'one'; the battle message for this buff has no 'everyone' form, so singular chosen. Uncertain."
+ },
+ {
+  "en": "[Instrument] Has a chance to confuse one enemy row.",
+  "kind": "help"
+ },
+ {
+  "en": "The whole party rests until the next night or morning.",
+  "kind": "help",
+  "note": "Lit. 'everyone rests and time advances to the next night or morning'."
+ },
+ {
+  "en": "Fully restores one ally's HP. Not for those with the Cook skill.",
+  "kind": "help",
+  "note": "Compressed 'cannot be used on characters with the Cook skill' (skill name 'Cook' from UI) to fit 67."
+ },
+ {
+  "en": "Restores one ally's MP. Not for those with the Cook skill.",
+  "kind": "help"
+ },
+ {
+  "en": "Restores one ally's SP. Not for those with the Cook skill.",
+  "kind": "help",
+  "note": "Source has a trailing space; not reproduced."
+ },
+ {
+  "en": "Attacks one enemy row with freezing cold.",
+  "kind": "help"
+ },
+ {
+  "en": "Knocks an enemy's gear loose, or steals an item it is carrying.",
+  "kind": "help",
+  "note": "Monsters hold items as equipped or carried: Dropkick turns an equipped item into a carried one, or takes a carried one."
+ },
+ {
+  "en": "The whole party is guaranteed to escape from battle.",
+  "kind": "help"
+ },
+ {
+  "en": "Wonderful Turmeric",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Strange Bookmark",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Sun's Light Rank",
+  "kind": "name",
+  "note": "Not in glossary. chap slice_021 rows 1719-1720 use 'Radiant Rank of the Sun' (23 bytes, does not fit 18); chap slice_017 row 1398 calls the same item 'Light Rank'. Chose the Light Rank series form. Flag chap 1719/1720 for consistency."
+ },
+ {
+  "en": "Divine Sun Spirit",
+  "kind": "name",
+  "note": "Cut item (designer note: cut). 'Divine-Rank Sun Spirit' (22) does not fit."
+ },
+ {
+  "en": "Stellar Sun Spirit",
+  "kind": "name",
+  "note": "Cut item. Star-rank Sun Spirit; 18 bytes, at the limit."
+ },
+ {
+  "en": "Faulty Sun Spirit",
+  "kind": "name",
+  "note": "Cut item. Furyou = defective/delinquent."
+ },
+ {
+  "en": "Ninja Fiend's Helm",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Sacred Treasure",
+  "kind": "name",
+  "note": "Hiragana kamudakara = archaic reading of 'sacred treasure'; dropped by Asunamuchi, who speaks archaically. Translated rather than romanised. New term."
+ },
+ {
+  "en": "Song of Spirits",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Flesh-Lump Flower",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Deltoi Empty Room",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Dark Sakil Shell",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Aleed Palette",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Demon-Boob Undies",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Seot's Demon Nest",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Unclean Water",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Menolist's Candle",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Ponya Sausage",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Taizarti Lamp",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Glittering Scale",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Swordsage's Beard",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Polarized Steeda",
+  "kind": "name",
+  "note": "Cut item. 'Stida' follows the Ryug crystal Aura Stida (ITEM row 666), not yet translated; align with whatever the ITEM slice chose. New name. [accuracy] Same katakana as ITEM 1465 Aura Steeda: unified spelling Steeda."
+ },
+ {
+  "en": "Red Light Rank",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Blue Light Rank",
+  "kind": "name",
+  "note": "Glossary series."
+ },
+ {
+  "en": "Green Light Rank",
+  "kind": "name",
+  "note": "Glossary series."
+ },
+ {
+  "en": "Yellow Light Rank",
+  "kind": "name",
+  "note": "Glossary series."
+ },
+ {
+  "en": "Black Light Rank",
+  "kind": "name",
+  "note": "Glossary series."
+ },
+ {
+  "en": "White Light Rank",
+  "kind": "name",
+  "note": "Glossary series."
+ },
+ {
+  "en": "Crystal Flower",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Mud Pie",
+  "kind": "name",
+  "note": "As in chap slice_011 rows 879-890."
+ },
+ {
+  "en": "Medium Whetstone",
+  "kind": "name"
+ },
+ {
+  "en": "Fine Whetstone",
+  "kind": "name",
+  "note": "Glossary; 'Finishing Whetstone' (19) does not fit 18."
+ },
+ {
+  "en": "Vision Crystal",
+  "kind": "name",
+  "note": "chap slice_016 [Key Item] line."
+ },
+ {
+  "en": "Beard Glasses",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Magic Puppet Trap",
+  "kind": "name",
+  "note": "chap slice_015 [Key Item] line says 'Magic Puppet Capture Trap' (25), which exceeds 18. Short form; the chap line should be aligned if the names are matched."
+ },
+ {
+  "en": "Mujirod Manuscript",
+  "kind": "name",
+  "note": "chap slice_012 [Key Item] line; exactly 18 bytes. [accuracy] Glossary fixes this item as Mujirod Manuscript (18/18); source spelling is a probable typo for Mujirod."
+ },
+ {
+  "en": "Cactus Pulp",
+  "kind": "name",
+  "note": "chap slice_012."
+ },
+ {
+  "en": "Custom Panties",
+  "kind": "name",
+  "note": "chap slice_013."
+ },
+ {
+  "en": "Soleil Stone",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Azure Fish",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Proof of Training",
+  "kind": "name",
+  "note": "chap slice_014/016."
+ },
+ {
+  "en": "Proof of Endurance",
+  "kind": "name",
+  "note": "chap slice_014/016; exactly 18."
+ },
+ {
+  "en": "Joker Medal",
+  "kind": "name",
+  "note": "chap slice_011."
+ },
+ {
+  "en": "Right to Challenge",
+  "kind": "name",
+  "note": "Row marked scrapped ([JP]); no other use found. Literal rendering."
+ },
+ {
+  "en": "Instruction Notes",
+  "kind": "name",
+  "note": "Row marked scrapped; designer note says it was a mistaken copy of Milonya's martial-arts manual. 'Training' avoided to keep it apart from Proof of Training."
+ },
+ {
+  "en": "Reservoir Key",
+  "kind": "name",
+  "note": "Glossary."
+ },
+ {
+  "en": "Contraband?",
+  "kind": "name",
+  "note": "Glossary; the question mark is part of the name."
+ },
+ {
+  "en": "Likely the first weapon a Fighter ever holds. It's called \"long\" next to the short sword, but isn't really that long. Its length, weight and grip are tuned so even a novice can wield it. It's cheap, but grip it again after using other swords and you'll notice the smith's care. Then you've come of age.",
+  "kind": "desc",
+  "note": "[editorial] Fighter capitalised as the class reference (as in g5 descs)."
+ },
+ {
+  "en": "A distinctive sword with a curved, single-edged blade, said to come from a culture apart from straight swords. The curve follows no standard, so lining them up is fun: each smith's fixations and quirks show through. Some collect them as a hobby or use them in guess-the-smith party games.",
+  "kind": "desc",
+  "note": "[editorial] Dangling \"lined up they\" and tacked-on \"which is fun\" smoothed."
+ },
+ {
+  "en": "Perhaps it was once a keen sword, but in this state it can neither cut nor stab. A sword that endured many battles now sleeps quietly with its owner's memories.",
+  "kind": "desc"
+ },
+ {
+  "en": "By nature it's closer to an axe than a sword: a blade made purely for smashing down. Its swings are easy to read. But just imagine the terror of brawny fighters bringing this sword down on you with all their might.",
+  "kind": "desc",
+  "note": "[JP] rendered as the reader 'you'."
+ },
+ {
+  "en": "Improved over and over to merge the strengths of many swords into the ultimate blade, it came full circle back to an ordinary shape. It lacks the star quality first aimed for, but it became a versatile weapon that does what's expected in most situations.",
+  "kind": "desc"
+ },
+ {
+  "en": "Made of finer ore than a normal long sword, then fired and hammered for three days and nights. The result is a tougher blade than the standard long sword. It looks almost unchanged, but use it once and you'll be amazed at how much better it cuts.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bit ungainly for a knight to carry. Yet despite its looks, it's no bad sword. Its edge is ground sharp so it can cut. Unlike other swords it is made almost entirely of bone, so it's light and easy to handle.",
+  "kind": "desc"
+ },
+ {
+  "en": "The sword adventurers dream of. Even at a low level it delivers steady power. But that's not its only appeal: it holds magic, and one stroke sends a wave of flame at the enemy. Once you own it, the danger may lie less in monsters than in the weak spots of your own heart.",
+  "kind": "desc",
+  "note": "The source's last sentence is garbled ([JP]); read as 'what to beware of shifts from monsters to the openings in your own heart'."
+ },
+ {
+  "en": "A sword only those who keep to a single path may bear. In an age when anyone can freely change their path, following one path to its end may be hard and harsh. Yet there truly is a view seen only by those who master one path without ever looking aside.",
+  "kind": "desc",
+  "note": "Innocent series: unusable after a class change (HELP_TEXT). [JP] kept as 'bear'."
+ },
+ {
+  "en": "A sword said to hold the power of the wind spirit. It is always wreathed in lightning, and when swung down at a target it calls a mighty thunderbolt from the sky. It's strong as is, but in the hands of one with lightning magic it may do even more.",
+  "kind": "desc"
+ },
+ {
+  "en": "In every age, some are bewitched by the allure of evil. This sword too was forged by a smith drawn to the dark alignment. It should be made of the same material as a long sword, yet in sharpness and power it became an entirely different blade.",
+  "kind": "desc",
+  "note": "[JP] = 'the dark alignment' (Evil)."
+ },
+ {
+  "en": "A sword with a double-edged blade; think of it as a shortened bastard sword. Yet it weighs about the same as a bastard sword, so using it one-handed takes strength. Its thick, heavy blade is designed to make good use of centrifugal force when swung.",
+  "kind": "desc"
+ },
+ {
+  "en": "A famed sword whose name is carved into legend. Since it became known, many adventurers have tried to get it, but few have been lucky enough. True to a legendary sword, it also has the welcome power to prevent confusion.",
+  "kind": "desc"
+ },
+ {
+  "en": "Ordinary weapons can't scratch a dragon's huge, hard scales. By specializing against dragons, the Dragon Killer gained the means to pierce their hide. It is unwieldy, so it slightly hampers defense.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword only a Lord may own. It's said the unworthy cannot even touch it. Yet its power as a sword is only upper-middle, and some suspect it is a fake.",
+  "kind": "desc",
+  "note": "[JP] = Lord (class name, ebt). [editorial] \"some voice doubts that it may be\" was unidiomatic."
+ },
+ {
+  "en": "A lavish sword cut from a huge, long mass of diamond ore, a true miracle of nature. Besides its power it is worth a lot as a gem, so even classes that can't use swords want it to sell. Parties that find it often fall into bloody fights over it.",
+  "kind": "desc",
+  "note": "[editorial] \"a ... diamond ore\" was ungrammatical (ore is a mass noun)."
+ },
+ {
+  "en": "A sword with a bird-shaped ornament on its hilt. In its center is set a gem named Alverstar, said to lend strength to its wielder. One theory holds that the Alverstar's true worth is this sword's protection.",
+  "kind": "desc",
+  "note": "Last sentence kept as ambiguous as the source (the gem's worth vs the sword's blessing). Source [JP] read as [JP] (hilt)."
+ },
+ {
+  "en": "A blade of sacred power, purified by holy force. Weak demons are said to flee from anyone who merely holds it. It's also said that some who spend time with it turn from Evil to Good. Might its holy light reach even into people's hearts?",
+  "kind": "desc"
+ },
+ {
+  "en": "A sword made to sever the world of the dead from this one. Its task done, it now sleeps quietly. The air around it is the miasma of the underworld, and its blade is said to show every evil deed of this world. Should one without will wield it, they will be cursed and carried off to the land of the dead.",
+  "kind": "desc",
+  "note": "[editorial] Clumsy stacked subject reordered; carried off = [JP]."
+ },
+ {
+  "en": "A sword said to appear when a true Lord rises in the world. Borders no longer matter. Wherever this sword is, there is the kingdom, and whoever holds it is the one, absolute king.",
+  "kind": "desc",
+  "note": "[accuracy] Kunshu = Lord class (glossary); keeps the link to the Lord class while 'king' below carries the royal sense."
+ },
+ {
+  "en": "A knife-like weapon that many classes can use, not just fighter types. But it also has the drawback of low power. Unless you're facing lots of enemies, equipping a shield instead may be wiser.",
+  "kind": "desc"
+ },
+ {
+  "en": "A shorter sword, the long sword's partner. As a sub-weapon for beginners, it's decent.",
+  "kind": "desc",
+  "note": "[editorial] \"that exists as\" was stiff."
+ },
+ {
+  "en": "A short blade known for its bent shape. Used not only as a weapon but often for farming and everyday chores.",
+  "kind": "desc"
+ },
+ {
+  "en": "A short blade rusted by wind and rain. Nothing remains of how it once looked. It is said misfortune befalls whoever takes it up.",
+  "kind": "desc"
+ },
+ {
+  "en": "At first glance an ordinary dagger. But fine patterns carved on the blade scatter light, making the tip's movement hard to follow. Those it cuts won't know why they're hurt and will fall into confusion.",
+  "kind": "desc"
+ },
+ {
+  "en": "Like a chimera, its marbled blade is an alloy of three metals: Dvel Soft Steel, Frozen Elven Iron and Mazurite. It amplifies each ore's magic and guards the owner against \"Poison,\" \"Paralysis\" and \"Silence.\"",
+  "kind": "desc",
+  "note": "Material names from glossary; status names from ebt."
+ },
+ {
+  "en": "A dagger that has drunk adventurers' blood for ages. Its thirst never ends; it even craves its owner's blood. It is cursed: it sells high, but equip it by mistake and you're in for a nasty time.",
+  "kind": "desc"
+ },
+ {
+  "en": "This sword is a symbol of beginning and end. It is said only an Alchemist can draw out its true worth.",
+  "kind": "desc"
+ },
+ {
+  "en": "A short blade made to handle any situation. Used right, the many varied blades that come out of its one sheath make it a powerful weapon. But if you can't master them all, it's a treasure gone to waste. A tricky weapon to handle. ...Weapon?",
+  "kind": "desc"
+ },
+ {
+  "en": "The ultimate small blade every Thief dreams of. It's first-rate as a weapon, but they say its greatest appeal is its simple design, built for functional beauty. Its gleaming silver edge never chips, and it makes Beastfolk flinch.",
+  "kind": "desc",
+  "note": "[JP] = beastmen (ebt Beastman). [accuracy] Tozoku is the Thief class; capitalised like the other class references in these descs. [accuracy] Juujin = Beastfolk (lead decision/glossary). [editorial] Dangling participle \"pursuing\" attached to \"look\"."
+ },
+ {
+  "en": "A good blade must not break, must not bend, and must cut. The katana has all three to a high degree and excels at killing people and monsters. It's also beautiful. So many want one not only for its sheer fighting power but because they've fallen for its looks.",
+  "kind": "desc"
+ },
+ {
+  "en": "A blade said to cut down a hundred bamboo leaves in one stroke. Its accuracy is uncannily high, so even a novice Samurai can shine with it. Many Samurai can't part with it even after getting finer katana.",
+  "kind": "desc"
+ },
+ {
+  "en": "A bold weapon meant to smash the foe's skull right through the helmet. Katana are meant to \"cut,\" but this one works more as a blunt weapon. Unusually for a katana, it is handled like a Western sword.",
+  "kind": "desc"
+ },
+ {
+  "en": "A katana so famous in a far eastern land that Kogarasumaru became a brand. It was first the name of one katana with a double-edged tip, but later katana of the same make were called Kogarasumaru too. Those sold in this country are made the same way as the original.",
+  "kind": "desc"
+ },
+ {
+  "en": "Grip the hilt with both hands and swing its long, huge blade, and you'll hear a sound as if the sword were roaring. The poor prey before you can only tremble.",
+  "kind": "desc"
+ },
+ {
+  "en": "A sacred katana used, along with song and dance, when dedicating a ritual performance to the gods. It is usually enshrined amid nature, deep in forests or by lakes, so its spiritual power is higher than a normal katana's.",
+  "kind": "desc",
+  "note": "[editorial] \"dance ... dance\" repetition; [JP] rendered as a ritual performance for the gods."
+ },
+ {
+  "en": "To atone for a crime, or to guard one's honor: a samurai at times takes their own life. To spare a dying samurai pain, custom called for an assistant to strike off the head after the self-inflicted cut. This katana long served that role and holds not only grudges but all manner of passions.",
+  "kind": "desc",
+  "note": "[JP] explained as 'a second cut off the head'. Gender-neutral 'their'. [editorial] \"a second cut off the head\" misreads as \"a second cut\"; kaishaku assistant made explicit."
+ },
+ {
+  "en": "A katana that unites sharpness, toughness and beauty at an even higher level is called a masterwork. And this Odenta surely is one. It is said to be sharp enough to cut two people in half at once. An edge that never dulls however many it cuts is also the mark of a masterwork.",
+  "kind": "desc"
+ },
+ {
+  "en": "Its blade is studded with gemstones, and each swing leaves a ribbon of light in the air. Beautiful though it is, it has the added effect of surely poisoning anyone it cuts.",
+  "kind": "desc",
+  "note": "[JP] = Poison (ebt); rendered as 'poisoning' in running text."
+ },
+ {
+  "en": "To samurai this katana's name stirs both longing and dread. The strongest katana in name and deed. Yet many samurai are said to become obsessed with its edge and fall into wickedness. That is why Muramasa is called a cursed blade. What new legend will this storied katana create next?",
+  "kind": "desc",
+  "note": "[JP] = 'cursed blade'."
+ },
+ {
+  "en": "A standard spear. Any fighter-type class can use it, but its power is low. Its merit is reaching the enemy's back row. It widens toward the grip to shield the hand, lowering the risk of a foe hitting your hand and making you drop the lance when you thrust.",
+  "kind": "desc"
+ },
+ {
+  "en": "Don't scoff at it as mere cleaning gear. A familiar tool is the best partner. It has a spear's traits too, of course, and back-row attacks are its specialty. Some Servants reportedly keep using the mop even after getting strong weapons.",
+  "kind": "desc",
+  "note": "[JP] = Servant (class, ebt)."
+ },
+ {
+  "en": "A sword of unusual design, with curved, flexing blades at both ends. Until you're used to it, it's very hard to handle, and you may cut yourself with the other blade. But masters twirl it deftly around the grip and attack in ever-shifting ways.",
+  "kind": "desc"
+ },
+ {
+  "en": "A foreign spear painted vermilion all over. Fitting for a weapon that flaunts itself, it performs well. But if its bearer doesn't live up to it, the monsters it draws will gang up and beat them to a pulp.",
+  "kind": "desc"
+ },
+ {
+  "en": "Kavirane is an old word meaning \"the unforgivable\" or \"eternal sin.\" They say it comes to those who have long lived keeping the fire of a grudge alive. Take it, and you can settle your grudge, but you too will wander as a spite spear.",
+  "kind": "desc"
+ },
+ {
+  "en": "A spear made by drawing out rare, precious mithril. Light, sharp and yet sturdy, it truly is an ideal spear. It's easy to strike foes with even from horseback, and you can picture it shining in all sorts of situations.",
+  "kind": "desc"
+ },
+ {
+  "en": "Fruit grown up high? Harvest it with ease using this! A tool in everyday use on farms and orchards, but handle with care. After all, it has a slight power to behead.",
+  "kind": "desc",
+  "note": "[JP] = decapitation; 'behead' in running text."
+ },
+ {
+  "en": "Here lies one possibility. A blade of rebellion, allowed only to those close to the gods. Whether to wield it is up to you. But what awaits beyond will not welcome you.",
+  "kind": "desc",
+  "note": "Polite [JP] kept as 'you'."
+ },
+ {
+  "en": "A spear forged from Frozen Elven Iron and Mazurite. Pale blue all over, it glows softly, flickering in the dark. Its tip is reinforced with frost magic and protects the owner from fire.",
+  "kind": "desc"
+ },
+ {
+  "en": "A spear said to come only to Valkyries the gods have acknowledged. To a master it accepts, it lends equal strength whatever their skill. Now, battle maidens! Face the darkness and offer the gods your finest dance!",
+  "kind": "desc",
+  "note": "[JP] = 'battle maidens' (addresses Valkyries)."
+ },
+ {
+  "en": "Axes come in many forms, which changed with the way they were used. An axe in the orthodox sense means a weapon like this hand axe, with a wooden haft and a metal head.",
+  "kind": "desc"
+ },
+ {
+  "en": "A war axe evolved from the hand axe into a shape more practical in real combat. The blade on its long haft can \"cut,\" \"thrust\" and \"sweep.\"",
+  "kind": "desc"
+ },
+ {
+  "en": "Bones of the dead fused together into a great axe. Not even Dispel works on it anymore; it thinks only of absorbing the foes it fells and growing mightier. And when its owner falls, it absorbs them too and awaits its next master.",
+  "kind": "desc",
+  "note": "Dispel = glossary ability name."
+ },
+ {
+  "en": "A hand axe said to belong to giants. But its size is no joke; even a dwarf might not handle it properly. If you get it but doubt your strength, be sensible and hang it on a wall or sell it.",
+  "kind": "desc"
+ },
+ {
+  "en": "A hammer adjusted for use in battle. It has the traits of a blunt weapon and takes some strength to wield. Its simple appeal, clubbing foes until they drop, makes it popular.",
+  "kind": "desc"
+ },
+ {
+  "en": "You batter them single-mindedly till they're drenched in blood, and suddenly only a lump of flesh lies before you. Loving the slick feel of your weapon, you slide your fingers along it forever, grinning. Do people create the Blood Hammer, or does the Blood Hammer change people?",
+  "kind": "desc"
+ },
+ {
+  "en": "Deathdeath pikopiko, bloodshed! Deathdeath pikopiko, boom! Hitting hurts, My Darling, but don't run, fall in HELL! I'll haunt you anywhere, love's range limit OFF! (zing!) Deathdeath pikopiko, fresh blood! Deathdeath pikopiko, precious! Even if I burn to ash, with love's special POW-WER! I L-O-V-E U... smooch~",
+  "kind": "desc",
+  "note": "Song parody. [JP] puns follow/haunt: 'haunt you anywhere'. [JP] = '(zing!)'. ♪ dropped (ASCII only), '~' used."
+ },
+ {
+  "en": "A very precious hammer made only of pure, unmixed mithril. Nothing can withstand it, and it's a great help in mining too. But given what it's made of, they say it won't pay for itself unless you strike rich veins again and again.",
+  "kind": "desc"
+ },
+ {
+  "en": "The ultimate hammer, said to be something a demon god left behind. An amateur can't handle it, but if you have a veteran Fighter, by all means give it to them. One swing will make a pile of mincemeat.",
+  "kind": "desc",
+  "note": "[editorial] Party-member class reference capitalised (as in g5 descs)."
+ },
+ {
+  "en": "This weapon is used mainly by clergy. Clergy are forbidden to use blades that shed others' blood. So they carry the mace, which lets them defend themselves without spilling a foe's blood.",
+  "kind": "desc"
+ },
+ {
+  "en": "An enhanced mace. It's even deadlier; a priest attacking with it could give you a hard fight. Still, picturing clergy pondering how to kill people more efficiently is a bit comical.",
+  "kind": "desc",
+  "note": "[JP] here is generic ('a priest'), not capitalised as the class."
+ },
+ {
+  "en": "Swords deal damage mainly by cutting, so if the blade can't get through armor, damage inevitably drops. Striking weapons like this one deal damage by impact instead, so they easily hurt even foes covered head to toe in armor.",
+  "kind": "desc"
+ },
+ {
+  "en": "Use it to save those who have strayed, and they stray even further. Maybe that's why it's called the Mace of Straying. After all, if it could save the lost, it would be named something like the Mace of Salvation. Or maybe the one who's straying is the cleric holding it.",
+  "kind": "desc",
+  "note": "[JP] wordplay carried by 'stray/straying' to match the item name 'Mace of Straying'."
+ }
+]

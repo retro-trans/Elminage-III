@@ -1,0 +1,122 @@
+[
+ {
+  "id": "RENKIN_TXT.CSV:1:1",
+  "en": "Air Fruit",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "RENKIN_TXT.CSV:1:3",
+  "en": "This here lets you breathe even when\nyou're underwater, see. With this, you\noughta be able to explore underwater\ndungeons, too.\n\nFrozen Elven Iron x Vectreim\nVectreim x Tri-Layer Orat",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "RENKIN_TXT.CSV:2:1",
+  "en": "Angel's Window",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "RENKIN_TXT.CSV:2:3",
+  "en": "When you go into a cave, this shows\nwhat's around you in a tiny window.\nIf you're confident you'll get lost,\nyou'd better make one.\n\nDvel Soft Steel x Frozen Elven Iron",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "RENKIN_TXT.CSV:3:1",
+  "en": "Rock Counter",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "RENKIN_TXT.CSV:3:3",
+  "en": "This tells you how many stone blocks\nthere are on the floor. Once you know\nhow many impassable blocks there are,\nwon't mapping get a lot easier?\n\nDvel Soft Steel x Tri-Layer Orat\nVectreim x Mazurite",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "RENKIN_TXT.CSV:4:1",
+  "en": "Dove Bell",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "RENKIN_TXT.CSV:4:3",
+  "en": "This drives off the enemies lying in\nwait beyond doors. Ring it once and\nevery enemy on the floor runs off...\nbut they're the ones who drop the\ntreasure chests, so...\n\nFrozen Elven Iron x Mazurite\nMazurite x Tri-Layer Orat",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "RENKIN_TXT.CSV:5:1",
+  "en": "Crow Bell",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "RENKIN_TXT.CSV:5:3",
+  "en": "This calls back the enemies lying in\nwait beyond doors. Ring it once and\nevery enemy on the floor comes back,\nbut fighting 'em all over again...\n\nDvel Soft Steel x Vectreim\nTri-Layer Orat x Milstone",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "RENKIN_TXT.CSV:6:1",
+  "en": "Sheep's Brush",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "RENKIN_TXT.CSV:6:3",
+  "en": "This marks where enemies lie in wait\nright on your map. Just carrying it\nhelps, so make at least one.\n\nDvel Soft Steel x Mazurite\nFrozen Elven Iron x Milstone",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "RENKIN_TXT.CSV:7:1",
+  "en": "Bone Slippers",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "RENKIN_TXT.CSV:7:3",
+  "en": "...If your party's wiped out with this\non you, it gets hauled back to town.\nWhat does? Your corpses, that's what.\nWell, make one as insurance.\n\nDvel Soft Steel x Milstone\nFrozen Elven Iron x Tri-Layer Orat",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "RENKIN_TXT.CSV:8:1",
+  "en": "Death Pinwheel",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "RENKIN_TXT.CSV:8:3",
+  "en": "When you meet enemies, this tells you\ntheir level. If the gap's too wide,\nrunning's an option too, y'know? You're\nstill young. Don't rush to your death.\n\nVectreim x Milstone",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "RENKIN_TXT.CSV:9:1",
+  "en": "Dice of Fate",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "RENKIN_TXT.CSV:9:3",
+  "en": "There are laws in this world, see,\nthat the likes of us can't fathom.\nThis shows 'em to you as numbers.\nWhat they're like? Go see for\nyourself, with your own eyes.\n\nMazurite x Milstone",
+  "max": 260,
+  "used": false
+ },
+ {
+  "id": "RENKIN_TXT.CSV:10:1",
+  "en": "Philos. Stone",
+  "max": 14,
+  "used": true
+ },
+ {
+  "id": "RENKIN_TXT.CSV:10:3",
+  "en": "The ultimate goal of alchemy -- this\nis it. But it can't be made the usual\nway. ...Let's see. Try a method\nthat's a bit on the dangerous side.\n\n??????????????",
+  "max": 260,
+  "used": false
+ }
+]
