@@ -5,6 +5,12 @@
   `Elminage3-English-v0.8.0.xdelta` against the Japanese ULJM05883 image
   (source SHA-256 b68ce890a8fe247c0d5f3fdc5e1682c52fa9d38f71d86bf2d5e8c03841ba454f, target SHA-256 0d79a40eea82a005852dcccefd15beeca7e60e601e15559a61e81abbab7b10f3); the patch was decoded again from the source image and
   matched the target size and hash.
+- Retro Trans Automatic: the release assets were rebuilt with `python -m retro_trans.release build`
+  (BUILD-MANIFEST.json schema 1, package ID PSP disc-id ULJM-05883, SHA256SUMS.txt, VALIDATION.json with a
+  verified round trip; the patch bytes differ from the first upload, source and target are unchanged), and
+  the game is registered in retro-trans-tools' game library (retro-trans/retro-trans-tools#3). The catalog
+  refresh lists v0.8.0, and the app's own recognize/plan/apply code turns the Japanese ISO into the exact
+  v0.8.0 image.
 - Repository: tools, docs and the English translation files only (`*.en.json` from tools/strip_jp.py,
   which now also scrubs Japanese quoted in notes and writes a terms-only glossary.en.json).
 
