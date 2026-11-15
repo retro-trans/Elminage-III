@@ -27,6 +27,7 @@ with DeltaPatcher or xdelta3. You need your own Japanese disc image.
 | Your source image | Patch |
 |---|---|
 | Japanese release, ULJM05883 | `Elminage3-English-v0.8.1.xdelta` |
+| English v0.8.0 image | `Elminage3-English-v0.8.0-to-v0.8.1.xdelta` |
 
 Check the source hashes in `README-v0.8.1.txt` if your patcher reports a mismatch; keep
 checksum verification enabled.

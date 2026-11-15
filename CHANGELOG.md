@@ -4,7 +4,9 @@
 - Released as `Elminage3-English-v0.8.1.xdelta` against the Japanese ULJM05883 image (source SHA-256
   b68ce890a8fe247c0d5f3fdc5e1682c52fa9d38f71d86bf2d5e8c03841ba454f, target SHA-256
   ee393e1ea012cb8c0eb0c6343f9483a8858867418f116347495e4bc5d98ea581), built with
-  `python -m retro_trans.release build` for Retro Trans Automatic.
+  `python -m retro_trans.release build` for Retro Trans Automatic. An upgrade patch
+  `Elminage3-English-v0.8.0-to-v0.8.1.xdelta` (28 KB, source_version 0.8.0) turns the v0.8.0 image
+  (SHA-256 0d79a40eea82a005852dcccefd15beeca7e60e601e15559a61e81abbab7b10f3) into the same v0.8.1 image.
 - Executable text references: tools/eboot_text.py paired each moved string's low half with the FIRST
   matching lui it found, so neighbouring address loads were mixed up (and compiler-hoisted luis in branch
   delay slots were missed). 47 references in v0.8.0 pointed at the wrong text, e.g. the trap report's
