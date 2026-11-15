@@ -57,9 +57,18 @@ def spans(t):
                 break
 
 
+# The game's CSV reader does not follow RFC-4180: its line reader drops every '"' (it only uses them to
+# join quoted multi-line cells) and its cell splitter cuts at every ',' -- even inside quotes. Some
+# original designer columns rely on that split (PLACE_NM col 2), so the reader is left as it is.
+# English commas and quote marks are written as 0x1F / 0x1E instead; the cell copy routine
+# (patches.csv_text, 0x08909B44) turns them back. Cells are then quoted only for line breaks.
+COMMA, QUOTE = '\x1f', '\x1e'
+
+
 def quote(s):
-    if any(c in s for c in ',"\r\n'):
-        return '"' + s.replace('"', '""') + '"'
+    s = s.replace(',', COMMA).replace('"', QUOTE)
+    if any(c in s for c in '\r\n'):
+        return '"' + s + '"'
     return s
 
 

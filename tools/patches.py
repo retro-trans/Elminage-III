@@ -1,5 +1,6 @@
 """All EBOOT code patches. apply_all(eb, opts) -> info dict (archives to rebuild, etc.)."""
 import os
+import struct
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -22,6 +23,7 @@ def apply_all(eb, opts):
         vwf.apply(eb, info)
         vwf.apply12(eb)
         vwf.apply_ticker(eb)             # pixel-based scrolling help text for VWF
+        vwf.apply_fit(eb)                # fit-to-width lists (Sound List, Music Folder) use VWF widths
         import name_entry
         name_entry.apply(eb)            # Latin-only name entry, VWF display, ASCII names
         if hd:
@@ -37,6 +39,8 @@ def apply_all(eb, opts):
             info['archives'].setdefault(arc, {}).update(files)
             print('    images: %s %d file(s)' % (arc, len(files)))
         text_checks(eb)
+        csv_text(eb)
+        alignment_letters(eb)
         import eboot_text
         for line in eboot_text.apply(eb)[:20]:
             print('   ', line)
@@ -72,3 +76,55 @@ def text_checks(eb):
     # '（' (reserved entries). The key is now ASCII '(' and the English names read '(Reserve)', so
     # compare 1 byte. Real hardware: one immediate.
     eb.asm(0x08840310, 'addiu $a2, $zero, 1', expect=1)     # was addiu a2, zero, 2
+
+
+def csv_text(eb):
+    """CSV cell copy (0x08909B44, the only routine that copies cell text): bytes 0x1F and 0x1E,
+    written by tools/csv_build.py for English ',' and '"', are stored as ',' and '"'.
+    The hook replaces the delimiter test of the copy loop (0x08909BEC..0x08909C00).
+    Real hardware: code in the cave only; the original data never contains 0x1E/0x1F.
+    """
+    eb.asm_alloc('''
+            lb $a2, 0x199c($v0)
+            sll $t0, $t1, 24
+            sra $t0, $t0, 24
+            beq $t0, $a2, cs_end
+            nop
+            beq $t0, $v1, cs_end
+            nop
+            addiu $at, $zero, 0x1f
+            bne $t0, $at, cs_q
+            addiu $at, $zero, 0x1e
+            b cs_st
+            addiu $t1, $zero, 0x2c
+        cs_q:
+            bne $t0, $at, cs_st
+            nop
+            addiu $t1, $zero, 0x22
+        cs_st:
+            sb $t1, 0($a0)
+            j 0x08909bd0
+            nop
+        cs_end:
+            j 0x08909c04
+            nop
+        ''', 'csv_cellcopy')
+    eb.asm(0x08909BEC, 'j 0x%08x; nop' % eb.symbols['csv_cellcopy'], expect=2)
+
+
+def alignment_letters(eb):
+    """Alignment names (table 0x08973424: 16-byte records, +0 name) read Good / Neutral / Evil on the
+    character sheet and in character creation. The item details screen draws the three names in
+    1-kanji slots (loop at 0x088EBE20, s3 = 0x08973434, stride 16, reads +0 only): it gets its own
+    copy of the three records whose names are the letters G / N / E.
+    Real hardware: data and two immediates; no layout change.
+    """
+    src = 0x08973434
+    recs = bytearray(eb.read(src, 48))
+    for k, letter in enumerate((b'G', b'N', b'E')):
+        p = eb.alloc(letter + bytes(3), align=4)
+        struct.pack_into('<I', recs, 16 * k, p)
+    t = eb.alloc(bytes(recs), align=4)
+    lo = t & 0xffff
+    eb.asm(0x088EBE18, 'lui $s3, 0x%x' % (((t + 0x8000) >> 16) & 0xffff), expect=1)
+    eb.asm(0x088EBE20, 'addiu $s3, $s3, %d' % (lo - 0x10000 if lo >= 0x8000 else lo), expect=1)

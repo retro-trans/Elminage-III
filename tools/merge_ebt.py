@@ -39,7 +39,7 @@ OVERRIDE = {
     'eb@0896ee54': 'Choose a command. Square: All-Out Attack, R: Command Repeat, L: Normal Mode    ',   # help ticker: trailing gap before it repeats
     'eb@0896eeb8': 'Choose a command. Square: All-Out Attack, R: Command Repeat, L: Action Order    ',   # help ticker: trailing gap before it repeats
     'eb@0895ef48': 'Choose the weather you want.    ',   # help ticker: trailing gap before it repeats
-    'eb@089733f4': 'G', 'eb@08973400': 'N', 'eb@08973410': 'E',   # item detail draws them at kanji-width slots             # strncmp key vs script line (patches.text_checks)
+    'eb@089733f4': 'Good', 'eb@08973400': 'Neutral', 'eb@08973410': 'Evil',   # item details use letters (patches.alignment_letters)             # strncmp key vs script line (patches.text_checks)
 }
 # Rows the slice filter dropped (1-kana race abbreviations, ebt slice_17 report; action-order marker
 # row 1049 next to 'A'). Written directly; all are 3-byte slots (2 ASCII + NUL).
@@ -51,6 +51,9 @@ EXTRA = {
     'eb@08973850': 'El', 'eb@08973860': 'Dw', 'eb@0897386c': 'Gn', 'eb@08973880': 'Ho',
     'eb@08973890': 'Fa', 'eb@089738a4': 'Wb', 'eb@089738cc': 'Dv', 'eb@089738e4': 'Og',
     'eb@089738f4': 'Gb', 'eb@08973948': 'Pr', 'eb@0897123c': 'M',
+    # weapon range (shop RAN column, table 0x08973CBC: full-width, half-width pairs): the shop draws the
+    # full-width Ｓ／Ｍ／Ｌ, which only exist in the pixel font; ASCII letters use the VWF font
+    'eb@08973c9c': 'S', 'eb@08973ca4': 'M', 'eb@08973cac': 'L',
 }
 # Referenced names the slice filter dropped (katakana-only 8-char strings); relocated if longer.
 EXTRA_REF = {

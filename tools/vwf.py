@@ -535,3 +535,40 @@ def apply_ticker(eb):
             move $s1, $zero
         ''').format(whi=whi, wlo=wlo, bhi=bhi, blo=blo), 'ticker_window')
     eb.asm(TICKER_HOOK, 'jal 0x%08x; nop; j 0x%08x; nop' % (eb.symbols['ticker_window'], TICKER_DRAW), expect=4)
+
+
+# ---------------------------------------------------------------------------------------------
+# Fit-to-width copy 0x0891B77C(dst, src, max_px, fullwidth_px, halfwidth_px): copies characters while
+# the running width fits. Callers (Sound List titles, Music Folder file names) pass halfwidth_px = 10,
+# the fixed width of the original font, so English stopped at 16 characters of a 160 px column.
+# With halfwidth_px == 10 the width now comes from the VWF table (HD half when the HD font is on).
+FIT_FN, FIT_JOIN = 0x0891B77C, 0x0891B7CC
+
+
+def apply_fit(eb):
+    v = eb.symbols['vwf_widths']
+    hi, lo = ((v + 0x8000) >> 16) & 0xffff, (v & 0xffff) - (0x10000 if v & 0x8000 else 0)
+    eb.asm_alloc(('''
+            bnez $t1, fit_fw
+            nop
+            addiu $at, $zero, 10
+            bne $t0, $at, fit_t0
+            nop
+''' + hdchk('$t8', 'fit_hd') + '''
+            sll $t8, $t8, 8
+            lui $t9, 0x{hi:x}
+            addiu $t9, $t9, {lo}
+            addu $t9, $t9, $t8
+            andi $t8, $t3, 0xff
+            addu $t9, $t9, $t8
+            lbu $v1, 0($t9)
+            j 0x{join:08x}
+            nop
+        fit_t0:
+            j 0x{join:08x}
+            move $v1, $t0
+        fit_fw:
+            j 0x{join:08x}
+            move $v1, $a3
+        ''').format(hi=hi, lo=lo, join=FIT_JOIN), 'vwf_fit')
+    eb.asm(FIT_FN + 0x44, 'j 0x%08x; nop; nop' % eb.symbols['vwf_fit'], expect=3)

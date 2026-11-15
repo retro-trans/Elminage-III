@@ -1,5 +1,35 @@
 # Changelog
 
+## 0.8.1 (2026-11-15)
+- Released as `Elminage3-English-v0.8.1.xdelta` against the Japanese ULJM05883 image (source SHA-256
+  b68ce890a8fe247c0d5f3fdc5e1682c52fa9d38f71d86bf2d5e8c03841ba454f, target SHA-256
+  ee393e1ea012cb8c0eb0c6343f9483a8858867418f116347495e4bc5d98ea581), built with
+  `python -m retro_trans.release build` for Retro Trans Automatic.
+- Executable text references: tools/eboot_text.py paired each moved string's low half with the FIRST
+  matching lui it found, so neighbouring address loads were mixed up (and compiler-hoisted luis in branch
+  delay slots were missed). 47 references in v0.8.0 pointed at the wrong text, e.g. the trap report's
+  "%s" and "Unidentified" (showed "amane", the tail of a credits name), battle lines ("Reflected!",
+  "had it nullified", "Resisted it", "was finished off"), target prompts, save/Memory Stick errors and
+  fortune-slip lines. New tools/repoint.py follows every path from each lui (branches, delay slots,
+  branch-likely, calls) to the instructions that read it and rewrites a lui only when all its readers
+  agree. Checked over every lui/reader pair in the game: all addresses now resolve as intended.
+- CSV commas and quotes: the game's CSV reader drops every '"' and splits at every ',' even inside quotes
+  (an original designer column relies on that), so English cells with commas were cut and shifted the
+  row ("Begone, Faint of Heart" became "Begone" and was hidden as a second-playthrough track, likewise
+  "O God, Save Us"; 3,237 rows had changed column counts). English ',' and '"' are now written as 0x1F /
+  0x1E and the game's cell copy (0x08909B44) turns them back (patches.csv_text). Checked in RAM.
+- Alignment: the names read Good / Neutral / Evil (character sheet value, character creation list)
+  instead of G / N / E; the item details screen (1-kanji slots, loop at 0x088EBE20) gets its own copy of
+  the alignment records with the letters G / N / E (patches.alignment_letters). The roster "G-Fig" column
+  and the letter shown before a personality comment keep their single letters (separate fields). Stat and
+  field label abbreviations (Rce, Aln, Cls, Luk, ...) kept by choice.
+- Shop: the RAN (range: Short / Medium / Long) column drew the full-width Ｓ／Ｍ／Ｌ, which only exist in
+  the pixel font; they are now ASCII letters in the VWF font. The category list reads "Access." (its own
+  pointer, eboot_text.PTR_OVERRIDE), so it no longer runs into the window border. Checked in play.
+- Sound List / Music Folder: the fit-to-width copy (0x0891B77C) counted 10 px per half-width character,
+  cutting English titles at 16 characters of the 160 px column; it now uses the VWF widths
+  (vwf.apply_fit): "Let's Play Together..." fits in full.
+
 ## 0.8.0 (2026-11-14, first public release)
 - First published build: the 0.2.5 work below, rebuilt as v0.8.0. Released as
   `Elminage3-English-v0.8.0.xdelta` against the Japanese ULJM05883 image
