@@ -105,10 +105,15 @@ def discover_port():
     if not pids:
         raise RuntimeError('project emulator not running')
     out = subprocess.run(['netstat', '-ano', '-p', 'TCP'], capture_output=True, text=True).stdout
-    for line in out.splitlines():
-        f = line.split()
-        if len(f) >= 5 and f[3] == 'LISTENING' and int(f[4]) in pids and f[1].startswith('0.0.0.0:'):
-            return int(f[1].rsplit(':', 1)[1])
+    listen = [(int(f[1].rsplit(':', 1)[1]), int(f[4])) for f in (l.split() for l in out.splitlines())
+              if len(f) >= 5 and f[3] == 'LISTENING' and f[1].startswith('0.0.0.0:') and f[4].isdigit()]
+    for port, pid in listen:
+        if pid in pids:
+            # another PPSSPP (another project) on the same port would receive our inputs: refuse
+            others = [p for q, p in listen if q == port and p not in pids]
+            if others:
+                raise RuntimeError('debugger port %d is shared with other process(es) %s' % (port, others))
+            return port
     raise RuntimeError('emulator has no listening port yet')
 
 

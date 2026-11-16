@@ -1,5 +1,35 @@
 # Changelog
 
+## 0.8.3 (2026-11-16)
+- Battle result ('Each surviving member gained ... EP / GP'): the numbers are drawn on their own over the
+  label template, padded to 10 characters with spaces ('%10llu'). With VWF a space (5 px) is narrower
+  than a digit (7-9 px), so the number's right edge moved with its digit count and ran into the EP / GP
+  labels. New vwf.apply_result_numbers: the three number draws (0x088BB004, 0x088BB0A0, 0x088BB0EC) go
+  through a stub that measures the line and shifts x so it ends at 15 space widths; the labels now sit
+  after 16 spaces (merge_ebt.OVERRIDE eb@0896ce6c, eb@0896cea8). Space and digit widths come from the
+  selected font (HD aware). Checked in the emulator by running the stub on sample numbers (1 to 8
+  digits, both fonts): every number ends at x 131, label at x 136. Not seen on a real battle result
+  screen (no encounter reached with the test save).
+  Real hardware: one stub in the code cave, called in place of the draw routine with the same arguments.
+
+## 0.8.2 (2026-11-16, not released on its own; included in v0.8.3)
+- Description boxes (events, Molder and hint text, alchemy items, bestiary, item index): the game cuts
+  these texts into fixed byte rows (28 bytes for events/alchemy, loop 0x08846CC4; 24 bytes for monster
+  and item text, loops 0x08860A84 / 0x08860FD8), so English words were split ("sight / ed"). The Japanese
+  laid its lines out by padding with spaces, because the CSV line reader drops line breaks inside cells;
+  the English line breaks were dropped the same way and glued words together ("tofind", "itslight").
+  New vwf.apply_wrap: each row is taken by wrap_line(dst, src, max_px), whole words while the VWF width
+  fits (events 224 px, descriptions 200 px; HD widths when the HD font is on), byte 0x0A forces a new row.
+  csv_build writes kept line breaks (blank lines, breaks after sentence-ending punctuation or a recipe
+  line) as 0x1D, which the cell copy (patches.csv_text) stores as 0x0A; breaks that only copied the
+  Japanese line layout become spaces, and line breaks in all other columns become spaces. Every
+  translated cell was simulated with both fonts: at most 13 rows for monster/item text (box: 13) and 10
+  for events/alchemy (10). MON_TEXT lore entries put 'Not for loan: ------.---' on one row; entry 319
+  shortened slightly (csvt overrides row 3634). Checked in play: event list text and item index text.
+  Not seen in play: bestiary text (no monsters in the test save; same code as the item text), alchemy.
+- tools/ppsspp_dbg.py: the project emulator uses its own debugger port (56531) and the tool refuses a
+  port shared with another process (another project's PPSSPP on the same port received our inputs).
+
 ## 0.8.1 (2026-11-15)
 - Released as `Elminage3-English-v0.8.1.xdelta` against the Japanese ULJM05883 image (source SHA-256
   b68ce890a8fe247c0d5f3fdc5e1682c52fa9d38f71d86bf2d5e8c03841ba454f, target SHA-256

@@ -10,6 +10,7 @@ what the game's fixed-size fields were sized for. Over-budget cells are reported
 """
 import json
 import os
+import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -62,7 +63,32 @@ def spans(t):
 # original designer columns rely on that split (PLACE_NM col 2), so the reader is left as it is.
 # English commas and quote marks are written as 0x1F / 0x1E instead; the cell copy routine
 # (patches.csv_text, 0x08909B44) turns them back. Cells are then quoted only for line breaks.
-COMMA, QUOTE = '\x1f', '\x1e'
+COMMA, QUOTE, NEWLINE = '\x1f', '\x1e', '\x1d'
+
+# The line reader also drops line breaks inside cells, so the Japanese description boxes were laid out
+# by byte count. These columns are now word-wrapped by pixel width in the game (vwf.apply_wrap); a line
+# break kept as NEWLINE (0x1D, stored as 0x0A by the cell copy) starts a new row. Breaks that only copy
+# the Japanese line layout (mid-sentence) become spaces; a blank line, a break after sentence-ending
+# punctuation and a break after a recipe line ('A x B') are kept. Other columns: every break is a space.
+WRAP_COLS = {('EVENT_TEXT.CSV', 6), ('EVENT_TEXT.CSV', 7), ('EVENT_TEXT.CSV', 8), ('RENKIN_TXT.CSV', 3),
+             ('MON_TEXT.CSV', 1), ('ITEM_TEXT.CSV', 1)}
+BREAK_AFTER = tuple('.!?:\'"~)-')
+RECIPE = re.compile(r'\S x \S')
+
+
+def flow(s, keep):
+    if not keep:
+        return re.sub(r' *\n+ *', ' ', s)
+    # restricted lore entries (MON_TEXT 315-331) open with 'Not for loan:' and a '------.---' line: one row
+    s = s.replace('Not for loan:\n------.---', 'Not for loan: ------.---')
+    paras = []
+    for p in re.split(r' *\n\s*\n *', s):
+        lines = [l.strip() for l in p.split('\n')]
+        acc = lines[0]
+        for prev, nxt in zip(lines, lines[1:]):
+            acc += (NEWLINE if prev.endswith(BREAK_AFTER) or RECIPE.search(prev) else ' ') + nxt
+        paras.append(acc)
+    return (NEWLINE * 2).join(paras)
 
 
 def quote(s):
@@ -87,7 +113,7 @@ def build_file(fname, entries, report):
         if not en:
             continue
         _, r, c = e['id'].rsplit(':', 2)
-        en = prepare(en)
+        en = flow(prepare(en), (fname, int(c)) in WRAP_COLS)
         if len(en.encode('cp932', 'replace')) > e['max']:
             report.append('%s: %d bytes > column max %d' % (e['id'], len(en.encode('cp932')), e['max']))
             continue

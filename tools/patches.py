@@ -24,6 +24,8 @@ def apply_all(eb, opts):
         vwf.apply12(eb)
         vwf.apply_ticker(eb)             # pixel-based scrolling help text for VWF
         vwf.apply_fit(eb)                # fit-to-width lists (Sound List, Music Folder) use VWF widths
+        vwf.apply_wrap(eb)               # event / alchemy / monster / item descriptions: pixel word wrap
+        vwf.apply_result_numbers(eb)     # battle result EP / GP: numbers right-aligned before the labels
         import name_entry
         name_entry.apply(eb)            # Latin-only name entry, VWF display, ASCII names
         if hd:
@@ -79,10 +81,11 @@ def text_checks(eb):
 
 
 def csv_text(eb):
-    """CSV cell copy (0x08909B44, the only routine that copies cell text): bytes 0x1F and 0x1E,
-    written by tools/csv_build.py for English ',' and '"', are stored as ',' and '"'.
+    """CSV cell copy (0x08909B44, the only routine that copies cell text): bytes 0x1F, 0x1E and
+    0x1D, written by tools/csv_build.py for English ',', '"' and a line break, are stored as ',', '"'
+    and 0x0A (the line reader drops real line breaks; vwf.apply_wrap breaks rows at 0x0A).
     The hook replaces the delimiter test of the copy loop (0x08909BEC..0x08909C00).
-    Real hardware: code in the cave only; the original data never contains 0x1E/0x1F.
+    Real hardware: code in the cave only; the original data never contains 0x1D-0x1F.
     """
     eb.asm_alloc('''
             lb $a2, 0x199c($v0)
@@ -98,9 +101,14 @@ def csv_text(eb):
             b cs_st
             addiu $t1, $zero, 0x2c
         cs_q:
+            bne $t0, $at, cs_n
+            addiu $at, $zero, 0x1d
+            b cs_st
+            addiu $t1, $zero, 0x22
+        cs_n:
             bne $t0, $at, cs_st
             nop
-            addiu $t1, $zero, 0x22
+            addiu $t1, $zero, 0x0a
         cs_st:
             sb $t1, 0($a0)
             j 0x08909bd0

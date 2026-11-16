@@ -572,3 +572,199 @@ def apply_fit(eb):
             move $v1, $a3
         ''').format(hi=hi, lo=lo, join=FIT_JOIN), 'vwf_fit')
     eb.asm(FIT_FN + 0x44, 'j 0x%08x; nop; nop' % eb.symbols['vwf_fit'], expect=3)
+
+
+# ---------------------------------------------------------------------------------------------
+# Description boxes. Three loops cut their text into fixed byte rows, which split English words:
+#   events + alchemy (0x08846CC4, 10 rows of 28 bytes at x 240; source s0/s4 + 0x22, both += 0x1C),
+#   monster text (0x08860A84) and item text (0x08860FD8): rows of 24 bytes at x 268, s2 = source,
+#   s1 = bytes left, until s1 <= 0.
+# Each row now comes from wrap_line(dst, src, max_px) -> v0 = bytes consumed: whole words while
+# the VWF width (HD half when the HD font is on) fits max_px, a full-width character counts 16 px
+# and may break anywhere, byte 0x0A forces a break, spaces after a break are skipped. The pixel
+# limits: events 224 px (the original 14 full-width characters), descriptions 200 px (box inner
+# width from x 268; the original 12 characters were 192 px).
+# Real hardware: code in the cave only, same registers and stack frames as the original loops.
+WRAP_EVENT, WRAP_EVENT_PX = 0x08846D08, 224
+WRAP_DESC, WRAP_DESC_PX = (0x08860A84, 0x08860FD8), 200
+
+
+def apply_wrap(eb):
+    v = eb.symbols['vwf_widths']
+    hi, lo = ((v + 0x8000) >> 16) & 0xffff, (v & 0xffff) - (0x10000 if v & 0x8000 else 0)
+    eb.asm_alloc((hdchk('$t6', 'wr_hd') + '''
+            sll $t6, $t6, 8
+            lui $t7, 0x{hi:x}
+            addiu $t7, $t7, {lo}
+            addu $t6, $t6, $t7
+            move $t0, $zero
+            move $t1, $zero
+            addiu $t2, $zero, -1
+        wr_loop:
+            addu $t7, $a1, $t0
+            lbu $t3, 0($t7)
+            beqz $t3, wr_end
+            addiu $at, $zero, 0x0a
+            beq $t3, $at, wr_nl
+            addiu $at, $zero, 0x20
+            bne $t3, $at, wr_ns
+            nop
+            move $t2, $t0
+        wr_ns:
+            sltiu $at, $t3, 0x81
+            bnez $at, wr_hw
+            sltiu $at, $t3, 0xa0
+            bnez $at, wr_fw
+            sltiu $at, $t3, 0xe0
+            bnez $at, wr_hw
+            sltiu $at, $t3, 0xfd
+            beqz $at, wr_hw
+            nop
+        wr_fw:
+            addiu $t4, $zero, 16
+            addiu $t5, $zero, 2
+            bgtz $t0, wr_fit
+            move $t2, $t0
+            b wr_fit
+            addiu $t2, $zero, -1
+        wr_hw:
+            addu $t7, $t6, $t3
+            lbu $t4, 0($t7)
+            addiu $t5, $zero, 1
+        wr_fit:
+            addu $t7, $t1, $t4
+            slt $at, $a2, $t7
+            beqz $at, wr_adv
+            nop
+            beqz $t0, wr_adv
+            nop
+            blez $t2, wr_hard
+            nop
+            b wr_skip
+            move $v0, $t2
+        wr_hard:
+            b wr_copy
+            move $v0, $t0
+        wr_skip:
+            addu $t7, $a1, $v0
+            lbu $t3, 0($t7)
+            addiu $at, $zero, 0x20
+            bne $t3, $at, wr_copy
+            nop
+            b wr_skip
+            addiu $v0, $v0, 1
+        wr_adv:
+            move $t1, $t7
+            b wr_loop
+            addu $t0, $t0, $t5
+        wr_nl:
+            b wr_cp0
+            addiu $v0, $t0, 1
+        wr_end:
+            move $v0, $t0
+        wr_cp0:
+            move $t8, $t0
+            b wr_cp
+            move $t9, $zero
+        wr_copy:
+            move $t8, $t2
+            bgtz $t2, wr_cp
+            move $t9, $zero
+            move $t8, $t0
+        wr_cp:
+            beq $t9, $t8, wr_done
+            addu $t7, $a1, $t9
+            lbu $t3, 0($t7)
+            addu $t7, $a0, $t9
+            sb $t3, 0($t7)
+            b wr_cp
+            addiu $t9, $t9, 1
+        wr_done:
+            addu $t7, $a0, $t8
+            jr $ra
+            sb $zero, 0($t7)
+        ''').format(hi=hi, lo=lo), 'wrap_line')
+    wl = eb.symbols['wrap_line']
+    # events / alchemy: the stub advances both source registers by (consumed - 0x1C)
+    eb.asm_alloc('''
+            addiu $sp, $sp, -16
+            sw $ra, 0($sp)
+            jal 0x{wl:08x}
+            nop
+            lw $ra, 0($sp)
+            addiu $sp, $sp, 16
+            addu $s0, $s0, $v0
+            addu $s4, $s4, $v0
+            addiu $s0, $s0, -0x1c
+            jr $ra
+            addiu $s4, $s4, -0x1c
+        '''.format(wl=wl), 'wrap_event')
+    _expect(eb, WRAP_EVENT, (0x0e205cd6, 0x2406001c, 0xa3a0003c))
+    _expect(eb, 0x08846D48, (0xa3a0003c,))
+    eb.asm(WRAP_EVENT, 'jal 0x%08x; addiu $a2, $zero, %d; nop' % (eb.symbols['wrap_event'], WRAP_EVENT_PX), expect=3)
+    eb.asm(0x08846D48, 'nop', expect=1)           # was sb zero, 0x3c(sp): cut the row at 28 bytes
+    for b in WRAP_DESC:
+        _expect(eb, b, (0x2a210019,))
+        _expect(eb, b + 0x24, (0x0e205cd6, 0x24060018, 0xa3a00028))
+        _expect(eb, b + 0x58, (0x2631ffe8, 0x26520018))
+        eb.asm(b, '''addiu $a0, $sp, 0x10
+                     move $a1, $s2
+                     jal 0x{wl:08x}
+                     addiu $a2, $zero, {px}
+                     addu $s2, $s2, $v0
+                     subu $s1, $s1, $v0
+                     addiu $s2, $s2, -0x18
+                     addiu $s1, $s1, 0x18
+                     nop; nop; nop; nop'''.format(wl=wl, px=WRAP_DESC_PX), expect=12)
+
+
+def _expect(eb, va, words):
+    got = tuple(eb.u32(va + 4 * i) for i in range(len(words)))
+    assert got == tuple(words), 'unexpected code at %08x: %s' % (va, ' '.join('%08x' % w for w in got))
+
+
+# ---------------------------------------------------------------------------------------------
+# Battle result ('Each surviving member gained / n EP / n GP'): the template with the EP / GP labels
+# is drawn first, then each number on its own ('\n%10llu', '\n\n%10llu') at the same x. With the
+# fixed 10 px cell the 10-character number ended one cell before the label; with VWF the padding
+# spaces are narrower than digits, so the right edge moved with the digit count and ran into the
+# label. The number draws now shift x so the line ends at RESULT_COLS space widths; the labels sit
+# after RESULT_COLS + 1 spaces (merge_ebt.OVERRIDE). Space width from the selected font (HD aware).
+# Real hardware: a stub in the cave around three calls to the draw routine, same arguments.
+RESULT_NUM_DRAWS = (0x088BB004, 0x088BB0A0, 0x088BB0EC)    # GP only; EP; GP (after EP)
+RESULT_COLS = 15
+DRAW_TEXT = 0x08876B7C
+
+
+def apply_result_numbers(eb):
+    v = eb.symbols['vwf_widths']
+    hi, lo = ((v + 0x8000) >> 16) & 0xffff, (v & 0xffff) - (0x10000 if v & 0x8000 else 0)
+    eb.asm_alloc((hdchk('$t6', 'rn_hd') + '''
+            sll $t6, $t6, 8
+            lui $t7, 0x{hi:x}
+            addiu $t7, $t7, {lo}
+            addu $t6, $t6, $t7
+            move $t7, $a1
+            move $t8, $zero
+        rn_loop:
+            lbu $t9, 0($t7)
+            beqz $t9, rn_end
+            addiu $t7, $t7, 1
+            addiu $at, $zero, 0x0a
+            beq $t9, $at, rn_loop
+            addu $t9, $t6, $t9
+            lbu $t9, 0($t9)
+            b rn_loop
+            addu $t8, $t8, $t9
+        rn_end:
+            lbu $t9, 0x20($t6)
+            addiu $at, $zero, {cols}
+            mult $t9, $at
+            mflo $at
+            subu $at, $at, $t8
+            j 0x{draw:08x}
+            addu $a3, $a3, $at
+        ''').format(hi=hi, lo=lo, cols=RESULT_COLS, draw=DRAW_TEXT), 'result_num')
+    for a in RESULT_NUM_DRAWS:
+        _expect(eb, a, (0x0e21dadf,))
+        eb.asm(a, 'jal 0x%08x' % eb.symbols['result_num'], expect=1)
