@@ -437,10 +437,16 @@ def apply(eb):
     for c in CURSOR_CALLS:
         eb.asm(c, 'jal 0x%08x' % eb.symbols['ne_cursor'], expect=1)
 
-    # confirm: buffer -> ASCII, trailing spaces trimmed; returns with v1 = mode, v0 = 0xa1
+    # confirm: buffer -> ASCII, trailing spaces trimmed; returns with v1 = mode, v0 = 0xa1.
+    # Not on the password screen (PASSWORD_MODE): the game compares the typed 2-byte cells with its
+    # full-width password strings, so converting them made every password fail.
     eb.asm_alloc('''
             addiu $sp, $sp, -0x10
             sw $ra, 0($sp)
+            lw $v1, 0x2e8($s0)
+            addiu $at, $zero, {pm}
+            beq $v1, $at, k_d
+            nop
             jal 0x{f:08x}
             addiu $a0, $s0, 8
             addiu $t3, $s0, 8
@@ -472,7 +478,7 @@ def apply(eb):
             lw $v1, 0x2e8($s0)
             jr $ra
             addiu $v0, $zero, 0xa1
-        '''.format(f=eb.symbols['ne_fw2hw']), 'ne_commit')
+        '''.format(f=eb.symbols['ne_fw2hw'], pm=PASSWORD_MODE), 'ne_commit')
     eb.asm(COMMIT_BR, 'bnel $v0, $zero, 0x%08x' % COMMIT_AT, expect=1)
     eb.asm(COMMIT_AT, 'jal 0x%08x' % eb.symbols['ne_commit'], expect=1)
 

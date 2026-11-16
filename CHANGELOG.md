@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.8.5 (2026-11-16)
+- Book of the Next Age passwords never worked (since v0.8.0): the name-entry confirm hook
+  (name_entry ne_commit, 0x08850BEC) converted the typed full-width cells to ASCII in every editor mode,
+  the password screen (mode 0x15C) included. Letters, digits and symbols became 1-byte characters, the
+  6-character groups shifted, and the comparison with the stored full-width passwords (0x08856AE4,
+  strcmp against the table at 0x0896401C) always failed ("Nothing happened."). The hook now leaves the
+  password screen's input unchanged. Checked in the emulator: the Lucky Bag password (table entry 8)
+  entered on the password screen and confirmed with the end key is accepted ("The Book of the Next Age
+  was bathed in light."). Medal passwords use the same input and confirm path (decoder 0x08896054,
+  unchanged); not tested with a real medal password.
+
+## 0.8.4 (2026-11-16, not released on its own; included in v0.8.5)
+- Bestiary, Karussa (MON_TEXT 139): the Japanese entry fills the column's whole 312 bytes and breaks off
+  mid-phrase in mock-archaic kana; the English copied that as "...this be ye thing called loue, i",
+  which read like a clipping bug. It now ends "...called loue..." (310 bytes; "loue, is it..." would be
+  317) so the trail-off reads as intended (csvt overrides row 3460). Checked in the built MON_TEXT.CSV;
+  not seen in play.
+
 ## 0.8.3 (2026-11-16)
 - Released as `Elminage3-English-v0.8.3.xdelta` against the Japanese ULJM05883 image (source SHA-256
   b68ce890a8fe247c0d5f3fdc5e1682c52fa9d38f71d86bf2d5e8c03841ba454f, target SHA-256
