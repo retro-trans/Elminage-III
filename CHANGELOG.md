@@ -1,13 +1,24 @@
 # Changelog
 
 ## 0.8.5 (2026-11-16)
+- Released as `Elminage3-English-v0.8.5.xdelta` against the Japanese ULJM05883 image (source SHA-256
+  b68ce890a8fe247c0d5f3fdc5e1682c52fa9d38f71d86bf2d5e8c03841ba454f, target SHA-256
+  8ff28aad2c1e7a9a0adac7aa280cfd4142fcea2aa59fcd4b0a4ce4792ddf5445), built with
+  `python -m retro_trans.release build` for Retro Trans Automatic. Upgrade patches
+  `Elminage3-English-v0.8.3-to-v0.8.5.xdelta` (7 KB, source_version 0.8.3, from SHA-256
+  9922d0f26e59aabaa125e0dd9ca95e87c7a1b49574fafba826a8a98261efb8e0),
+  `Elminage3-English-v0.8.1-to-v0.8.5.xdelta` (11 KB, source_version 0.8.1, from SHA-256
+  ee393e1ea012cb8c0eb0c6343f9483a8858867418f116347495e4bc5d98ea581) and
+  `Elminage3-English-v0.8.0-to-v0.8.5.xdelta` (31 KB, source_version 0.8.0, from SHA-256
+  0d79a40eea82a005852dcccefd15beeca7e60e601e15559a61e81abbab7b10f3) give the same v0.8.5 image. v0.8.5
+  also contains the 0.8.4 change below.
 - Book of the Next Age passwords never worked (since v0.8.0): the name-entry confirm hook
   (name_entry ne_commit, 0x08850BEC) converted the typed full-width cells to ASCII in every editor mode,
   the password screen (mode 0x15C) included. Letters, digits and symbols became 1-byte characters, the
   6-character groups shifted, and the comparison with the stored full-width passwords (0x08856AE4,
   strcmp against the table at 0x0896401C) always failed ("Nothing happened."). The hook now leaves the
-  password screen's input unchanged. Checked in the emulator: the Lucky Bag password (table entry 8)
-  entered on the password screen and confirmed with the end key is accepted ("The Book of the Next Age
+  password screen's input unchanged. Checked in the emulator: the Lucky Bag password (table entry 8),
+  written into the password screen's input buffer and confirmed with the end key, is accepted ("The Book of the Next Age
   was bathed in light."). Medal passwords use the same input and confirm path (decoder 0x08896054,
   unchanged); not tested with a real medal password.
 
