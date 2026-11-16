@@ -1,6 +1,15 @@
 # Changelog
 
 ## 0.8.3 (2026-11-16)
+- Released as `Elminage3-English-v0.8.3.xdelta` against the Japanese ULJM05883 image (source SHA-256
+  b68ce890a8fe247c0d5f3fdc5e1682c52fa9d38f71d86bf2d5e8c03841ba454f, target SHA-256
+  9922d0f26e59aabaa125e0dd9ca95e87c7a1b49574fafba826a8a98261efb8e0), built with
+  `python -m retro_trans.release build` for Retro Trans Automatic. Upgrade patches
+  `Elminage3-English-v0.8.1-to-v0.8.3.xdelta` (10 KB, source_version 0.8.1, from SHA-256
+  ee393e1ea012cb8c0eb0c6343f9483a8858867418f116347495e4bc5d98ea581) and
+  `Elminage3-English-v0.8.0-to-v0.8.3.xdelta` (31 KB, source_version 0.8.0, from SHA-256
+  0d79a40eea82a005852dcccefd15beeca7e60e601e15559a61e81abbab7b10f3) give the same v0.8.3 image. v0.8.3
+  also contains the 0.8.2 changes below.
 - Battle result ('Each surviving member gained ... EP / GP'): the numbers are drawn on their own over the
   label template, padded to 10 characters with spaces ('%10llu'). With VWF a space (5 px) is narrower
   than a digit (7-9 px), so the number's right edge moved with its digit count and ran into the EP / GP
