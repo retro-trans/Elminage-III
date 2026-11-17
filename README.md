@@ -10,7 +10,7 @@ but the game has not been played through to the end yet, and no human has proofr
 English against the Japanese. If you want to contribute to this project or the next in any
 way — be it bug reports, proofreading or playtesting — please join my Discord:
 
-**[discord.gg/MssepShjmB](https://discord.gg/MssepShjmB)**
+**[discord.gg/nZBZfTDfCP](https://discord.gg/nZBZfTDfCP)**
 
 ## Play it
 
