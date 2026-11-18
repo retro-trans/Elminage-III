@@ -1,8 +1,13 @@
 # Changelog
 
 ## 0.8.14 (2026-11-18)
-- Release. Also contains 0.8.6 to 0.8.13 below (0.8.11 to 0.8.13 were tried and undone, so their net
-  change is none).
+- Released as `Elminage3-English-v0.8.14.xdelta` against the Japanese ULJM05883 image (source SHA-256
+  b68ce890a8fe247c0d5f3fdc5e1682c52fa9d38f71d86bf2d5e8c03841ba454f, target SHA-256
+  534e8d758c7c8afab7478be6b7c393bbb00bc00203f31550f3c052b02a2ec1fd), built with
+  `python -m retro_trans.release build` for Retro Trans Automatic. Upgrade patch
+  `Elminage3-English-v0.8.5-to-v0.8.14.xdelta` (48 KB, source_version 0.8.5, from SHA-256
+  8ff28aad2c1e7a9a0adac7aa280cfd4142fcea2aa59fcd4b0a4ce4792ddf5445) gives the same image. v0.8.14 also
+  contains 0.8.6 to 0.8.13 below (0.8.11 to 0.8.13 were tried and undone; their net change is none).
 - Equip screen slot labels (Main ... Acc2) share one right edge. Acc1 ended 1 px short: the "1" glyph
   advances by one blank column more than its ink, and right alignment now uses the ink of the last letter
   (img_text, small font). Acc2 ended 2 px further right because the game draws that sprite off the grid of
