@@ -21,7 +21,7 @@ def apply_all(eb, opts):
                 orig = vwf.text_widths()
                 vwf.TEXT_WIDTHS = [max(a, b) for a, b in zip(orig, vwf.HD_WIDTHS)]
         vwf.apply(eb, info)
-        vwf.apply12(eb)
+        vwf.apply12(eb, info)
         vwf.apply_ticker(eb)             # pixel-based scrolling help text for VWF
         vwf.apply_fit(eb)                # fit-to-width lists (Sound List, Music Folder) use VWF widths
         vwf.apply_wrap(eb)               # event / alchemy / monster / item descriptions: pixel word wrap

@@ -673,6 +673,34 @@
    368,
    256,
    "fill:31,31,31,217"
+  ],
+  [
+   96,
+   116,
+   120,
+   128,
+   "fill:0,0,0,0"
+  ],
+  [
+   121,
+   116,
+   143,
+   128,
+   "fill:0,0,0,0"
+  ],
+  [
+   166,
+   116,
+   192,
+   128,
+   "fill:0,0,0,0"
+  ],
+  [
+   193,
+   116,
+   215,
+   128,
+   "fill:0,0,0,0"
   ]
  ],
  "labels": [
@@ -909,7 +937,7 @@
     12
    ],
    "jp": "種族",
-   "en": "Rce",
+   "en": "Race",
    "color": [
     248,
     218,
@@ -924,7 +952,7 @@
     12
    ],
    "jp": "性格",
-   "en": "Aln",
+   "en": "Align",
    "color": [
     248,
     218,
@@ -1209,7 +1237,7 @@
     12
    ],
    "jp": "ブレス",
-   "en": "Brth",
+   "en": "Breath",
    "color": [
     248,
     218,
@@ -1239,7 +1267,7 @@
     12
    ],
    "jp": "ドロー",
-   "en": "Drw",
+   "en": "Draw",
    "color": [
     248,
     218,
@@ -2704,6 +2732,98 @@
     ]
    ],
    "note": "monster-type code, stacked one letter per kanji (same codes as EL01_000)"
+  },
+  {
+   "rect": [
+    95,
+    116,
+    24,
+    12
+   ],
+   "jp": "ＡＣ (original English art)",
+   "en": "AC",
+   "align": "center",
+   "inset": 0,
+   "color": [
+    255,
+    224,
+    201
+   ],
+   "fonts": [
+    [
+     "12",
+     1
+    ]
+   ]
+  },
+  {
+   "rect": [
+    120,
+    116,
+    24,
+    12
+   ],
+   "jp": "ＨＰ (original English art)",
+   "en": "HP",
+   "align": "center",
+   "inset": 0,
+   "color": [
+    255,
+    224,
+    201
+   ],
+   "fonts": [
+    [
+     "12",
+     1
+    ]
+   ]
+  },
+  {
+   "rect": [
+    167,
+    116,
+    24,
+    12
+   ],
+   "jp": "ＡＣ (original English art)",
+   "en": "AC",
+   "align": "center",
+   "inset": 0,
+   "color": [
+    255,
+    224,
+    201
+   ],
+   "fonts": [
+    [
+     "12",
+     1
+    ]
+   ]
+  },
+  {
+   "rect": [
+    192,
+    116,
+    24,
+    12
+   ],
+   "jp": "ＨＰ (original English art)",
+   "en": "HP",
+   "align": "center",
+   "inset": 0,
+   "color": [
+    255,
+    224,
+    201
+   ],
+   "fonts": [
+    [
+     "12",
+     1
+    ]
+   ]
   }
  ]
 }

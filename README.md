@@ -14,7 +14,7 @@ way — be it bug reports, proofreading or playtesting — please join my Discor
 
 ## Play it
 
-The latest release is **[v0.8.5](https://github.com/retro-trans/Elminage-III/releases/tag/v0.8.5)**,
+The latest release is **[v0.8.14](https://github.com/retro-trans/Elminage-III/releases/tag/v0.8.14)**,
 a full patch for the Japanese release (**ULJM05883**): the whole script, menus, data
 tables, interface artwork, the title logo and the subtitled opening movie are in English, with a variable-width font and an optional HD font chosen
 when you start a new game.
@@ -26,18 +26,16 @@ with DeltaPatcher or xdelta3. You need your own Japanese disc image.
 
 | Your source image | Patch |
 |---|---|
-| Japanese release, ULJM05883 | `Elminage3-English-v0.8.5.xdelta` |
-| English v0.8.3 image | `Elminage3-English-v0.8.3-to-v0.8.5.xdelta` |
-| English v0.8.1 image | `Elminage3-English-v0.8.1-to-v0.8.5.xdelta` |
-| English v0.8.0 image | `Elminage3-English-v0.8.0-to-v0.8.5.xdelta` |
+| Japanese release, ULJM05883 | `Elminage3-English-v0.8.14.xdelta` |
+| English v0.8.5 image | `Elminage3-English-v0.8.5-to-v0.8.14.xdelta` |
 
-Check the source hashes in `README-v0.8.5.txt` if your patcher reports a mismatch; keep
+Check the source hashes in `README-v0.8.14.txt` if your patcher reports a mismatch; keep
 checksum verification enabled.
 
 For example:
 
 ```
-xdelta3 -d -s "Elminage III - Ankoku no Shito to Taiyou no Kyuuden (Japan).iso" Elminage3-English-v0.8.5.xdelta "Elminage III English v0.8.5.iso"
+xdelta3 -d -s "Elminage III - Ankoku no Shito to Taiyou no Kyuuden (Japan).iso" Elminage3-English-v0.8.14.xdelta "Elminage III English v0.8.14.iso"
 ```
 
 **Boot the new image fresh.** Old emulator save states keep the previous executable and
@@ -68,7 +66,7 @@ the formats are in **[docs/formats.md](docs/formats.md)**.
 python tools/extract_scp.py          # pull the script out of your own disc's SCP archive
 #   ... translate the "en" fields in work/translation/en/scp/*.json ...
 python tools/merge_all.py            # merge reviewed rows, EBOOT strings and data tables
-python tools/build.py 0.8.5          # build work/output/Elminage III (EN) v0.8.5.iso
+python tools/build.py 0.8.14         # build work/output/Elminage III (EN) v0.8.14.iso
 ```
 
 The script stays byte-for-byte in place: English goes into the freed string slots and a
@@ -100,7 +98,7 @@ from it in `work/source/` (`tools/extract_*.py`). Python 3.8+, with numpy, Pillo
 keystone-engine and capstone; ffmpeg for the movie; xdelta3 for patches.
 
 ```sh
-python tools/build.py 0.8.5                   # full build
+python tools/build.py 0.8.14                  # full build
 python tools/ppsspp_dbg.py start work/output/current.iso
 python tools/uv_probe.py ANIME/EL01_000.GIM   # which sprite rects a screen draws
 ```

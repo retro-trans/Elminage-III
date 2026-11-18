@@ -181,8 +181,11 @@ FW_SPACE = 0x0891BB94     # b next; addu s1,s1,v1   (v1 = font[4])
 DRAW_CELL = 0x0891BE50
 
 
-def apply12(eb):
+def apply12(eb, info=None):
     import font12
+    path = font12.build_sheet()          # Latin cells redrawn with the small label font (v0.8.9)
+    if info is not None:
+        info['archives'].setdefault('ANIME', {})['FONT12_12.GIM'] = open(path, 'rb').read()
     m = font12.metrics()
     tab = bytearray(256)
     for c in range(0x80):

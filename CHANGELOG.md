@@ -1,5 +1,94 @@
 # Changelog
 
+## 0.8.14 (2026-11-18)
+- Release. Also contains 0.8.6 to 0.8.13 below (0.8.11 to 0.8.13 were tried and undone, so their net
+  change is none).
+- Equip screen slot labels (Main ... Acc2) share one right edge. Acc1 ended 1 px short: the "1" glyph
+  advances by one blank column more than its ink, and right alignment now uses the ink of the last letter
+  (img_text, small font). Acc2 ended 2 px further right because the game draws that sprite off the grid of
+  the others; its label is moved 2 px left (new spec key "dx", EL01_000).
+- Checked in play: equip screen. Image data only.
+
+## 0.8.13 (2026-11-18, not released on its own; included in v0.8.14)
+- Back to the 0.8.10 small font: 1 px strokes, black inside the letters of the party bar names. The bold
+  font (0.8.12) and the clear letter holes (0.8.11) were tried and dropped; their code is removed. The
+  ISO is byte-identical to 0.8.10 (same SHA-256).
+
+## 0.8.12 (2026-11-18, not released on its own; included in v0.8.14)
+- Small font is bold, like the PS1 status text: each stroke is 1 px wider to the right, so letters and
+  advances grow by 1 px (img_text.BOLD, bolden()). Where widening would close a 1 px gap (the bar of G, K,
+  N, R, ...) that pixel is left out; m, w, M and W have hand-drawn bold forms (img_text.BOLD_GLYPHS, 7 px
+  wide). Applies to the UI labels and the party bar names (FONT12_12).
+- Five status screen labels are 1-2 px too wide in bold and stay at the regular weight (font '12r' in
+  the spec): Title, Align, Class, Name, Type.
+- Party bar names: the holes inside o, e, a, ... are black again (0.8.11 reverted); with the portrait
+  showing through, the 2 px holes made the letters look thin and broken.
+- Checked in play: status screen labels and party bar names. Image data only.
+
+## 0.8.11 (2026-11-18, not released on its own; included in v0.8.14)
+- Party bar names (FONT12_12): the black outline is drawn only around the outside of each letter. The
+  holes inside o, e, a, g, 8, B and similar letters are 2 px wide, so the 4-neighbour outline filled them
+  completely and they showed as solid black; they are now left transparent (font12._outside, a flood fill
+  from the cell border) and show the portrait behind. UI labels (drop shadow, no outline) are unchanged.
+- Checked in play: party bar names on the status screen. Image data only.
+
+## 0.8.10 (2026-11-18, not released on its own; included in v0.8.14)
+- Small font gets a top-to-bottom shade, like PS1 status text: full colour on the top rows, about 75 % at
+  the bottom (img_text.GRADIENT by cell row). UI labels: each row's colour is matched to the sheet's own
+  palette, so the middle rows lean slightly beige on the pink labels. Party bar names (FONT12_12): palette
+  entries 3-14, unused in the original sheet, hold a white -> grey ramp (255 -> 189) and each letter row
+  uses its own entry (font12.GRAD_BASE); the black outline is unchanged. The glyph routine passes a colour
+  to the quad draw (0x0891DF40), which should multiply over the ramp; tinted names were not checked.
+- Checked in play: status screen labels and party bar names show the shade. Image data only.
+
+## 0.8.9 (2026-11-18, not released on its own; included in v0.8.14)
+- The original English art labels LV, EP, HP, AC, GP (status screen, sheet EL01_000) and the two AC / HP
+  pairs on the item info sheet (EL02_000) are redrawn in the small label font with its shadow, so every
+  label on those screens uses one font. The art (9-15 px letters) is erased to transparent; the new labels
+  sit in the same 12px strips (EL01_000 rows 279 / 291, EL02_000 row 116), centred in the gap between
+  the neighbouring pieces.
+- Party bar names (and any other English drawn with FONT12_12): the cells the ASCII table 0x089749C8
+  points at are redrawn with the small label font in the sheet's own style (white letter, black
+  4-neighbour outline; font12.build_sheet -> work/font/FONT12_12.GIM, added to ANIME by vwf.apply12).
+  The 12px VWF widths are measured from the new sheet, 0 px extra spacing (the outlines keep 2 px between
+  strokes). Kana and kanji cells are unchanged. img_text's '12game' font still reads the original sheet.
+- Checked in play: status screen (Inspect at the tavern) shows LV/HP/AC/EP/GP in the small font, and the
+  party bar names (Grace, Kanosuke, Aruna, Meme, Green, Froila) in the new font, centred, nothing
+  clipped. The item info screen was not opened. Only image data and the VWF width table change.
+- Build: v0.8.7 and v0.8.8 kept as xdelta patches; the oldest three patches were dropped (10 kept).
+
+## 0.8.8 (2026-11-18, not released on its own; included in v0.8.14)
+- Small-label drop shadow was not visible in play (reported on v0.8.7): it was one pixel at (+1,+1) in
+  dark brown, which the sheet palette turned into (19,18,19), only about 20 levels below the dark status
+  panel (40,36,26), and the emulator's screen scaling blurred it away. Now black and three pixels (right,
+  below and diagonal: img_text.SHADOW_OFFS), still inside the letter's gap column and the 12px strip.
+  Checked in play on the status screen: the shadow reads (2,2,2) against the panel's (40,36,26).
+
+## 0.8.7 (2026-11-18, not released on its own; included in v0.8.14)
+- Small UI labels (the 12px labels redrawn into the EL01/EL02/EL03 and GR01 sheets: status screen, item
+  and monster info, equip compare, options, map legend, save/load panel) no longer use the game's
+  FONT12_12, whose Latin letters are thin and widely spaced. They use the hand-drawn proportional 12px
+  font from the Getter Robo Daikessen project (tools/fonts/gr_latin.txt, project original; caps rows 2-8,
+  descenders to row 10) with a drop shadow in the gap column after each letter
+  (tools/img_text.py FontGR; spec "font"/"fonts" '12' now means this font, the old one is '12game';
+  spec key "shadow": [r, g, b] or null). All 353 small labels fit with a 1 px gap (109 had none), and
+  "Title" and "Name" are no longer squeezed.
+- Full words where they now fit: status screen Race, Align, Class, Luck; equip compare Type; item info
+  Race, Align, Breath, Draw. Rows where some words still do not fit stay abbreviated (Mag/Pri/Alc/Sum,
+  Slp/Psn/...; Sts, Str, Rng).
+- Only image data changes (no code). Checked in play: save/load panel, status screen (Inspect at the
+  tavern) and equip screen show the new labels with the shadow, nothing clipped. The item and monster
+  info screens were not opened.
+
+## 0.8.6 (2026-11-17, not released on its own; included in v0.8.14)
+- Equip compare panel ("Now / After", 'Typ' column, type table 0x089731A0): 'Two-Handed' (85 px) and
+  'Accessory' (73 px) ran into the 'Rng' label, which leaves about 64 px. Now '2-Hand' (50 px;
+  merge_ebt.OVERRIDE eb@08973188, used only by this table) and 'Access.' (53 px; own pointers for the
+  table's two accessory entries, eboot_text.PTR_OVERRIDE 0x089731BC / 0x089731C0, as the shop list).
+  The item details screen (0x088EBB38) reads the same table and had the same overlap. Checked in play:
+  shop item details of the Mop (two-handed) show 'Typ 2-Hand' clear of 'Rng M'. The equip compare
+  panel was not opened.
+
 ## 0.8.5 (2026-11-16)
 - Released as `Elminage3-English-v0.8.5.xdelta` against the Japanese ULJM05883 image (source SHA-256
   b68ce890a8fe247c0d5f3fdc5e1682c52fa9d38f71d86bf2d5e8c03841ba454f, target SHA-256

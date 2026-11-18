@@ -904,6 +904,48 @@
    464,
    328,
    "fill:0,0,0,0"
+  ],
+  [
+   292,
+   279,
+   311,
+   291,
+   "fill:0,0,0,0"
+  ],
+  [
+   289,
+   291,
+   311,
+   303,
+   "fill:0,0,0,0"
+  ],
+  [
+   313,
+   291,
+   335,
+   303,
+   "fill:0,0,0,0"
+  ],
+  [
+   360,
+   291,
+   383,
+   303,
+   "fill:0,0,0,0"
+  ],
+  [
+   434,
+   291,
+   456,
+   303,
+   "fill:0,0,0,0"
+  ],
+  [
+   457,
+   291,
+   479,
+   303,
+   "fill:0,0,0,0"
   ]
  ],
  "labels": [
@@ -2757,7 +2799,7 @@
     12
    ],
    "jp": "種族",
-   "en": "Rce",
+   "en": "Race",
    "align": "center",
    "inset": 0,
    "color": [
@@ -2838,7 +2880,7 @@
     12
    ],
    "jp": "性格",
-   "en": "Aln",
+   "en": "Align",
    "align": "center",
    "inset": 0,
    "color": [
@@ -2865,7 +2907,7 @@
     12
    ],
    "jp": "職業",
-   "en": "Cls",
+   "en": "Class",
    "align": "center",
    "inset": 0,
    "color": [
@@ -3108,7 +3150,7 @@
     12
    ],
    "jp": "幸運",
-   "en": "Luk",
+   "en": "Luck",
    "align": "center",
    "inset": 0,
    "color": [
@@ -5107,6 +5149,7 @@
     12
    ],
    "en": "Acc2",
+   "dx": -2,
    "align": "right",
    "inset": 0,
    "color": [
@@ -5133,7 +5176,7 @@
     24,
     12
    ],
-   "en": "Typ",
+   "en": "Type",
    "align": "right",
    "inset": 0,
    "color": [
@@ -5314,6 +5357,144 @@
     ]
    ],
    "note": "cell measured in game (uv_probe, spell screen)"
+  },
+  {
+   "rect": [
+    288,
+    279,
+    24,
+    12
+   ],
+   "jp": "ＬＶ (original English art)",
+   "en": "LV",
+   "align": "center",
+   "inset": 0,
+   "color": [
+    255,
+    224,
+    201
+   ],
+   "fonts": [
+    [
+     "12",
+     1
+    ]
+   ]
+  },
+  {
+   "rect": [
+    288,
+    291,
+    24,
+    12
+   ],
+   "jp": "ＥＰ (original English art)",
+   "en": "EP",
+   "align": "center",
+   "inset": 0,
+   "color": [
+    255,
+    224,
+    201
+   ],
+   "fonts": [
+    [
+     "12",
+     1
+    ]
+   ]
+  },
+  {
+   "rect": [
+    312,
+    291,
+    24,
+    12
+   ],
+   "jp": "ＨＰ (original English art)",
+   "en": "HP",
+   "align": "center",
+   "inset": 0,
+   "color": [
+    255,
+    224,
+    201
+   ],
+   "fonts": [
+    [
+     "12",
+     1
+    ]
+   ]
+  },
+  {
+   "rect": [
+    360,
+    291,
+    22,
+    12
+   ],
+   "jp": "ＡＣ (original English art)",
+   "en": "AC",
+   "align": "center",
+   "inset": 0,
+   "color": [
+    255,
+    224,
+    201
+   ],
+   "fonts": [
+    [
+     "12",
+     1
+    ]
+   ]
+  },
+  {
+   "rect": [
+    434,
+    291,
+    23,
+    12
+   ],
+   "jp": "ＥＰ (original English art)",
+   "en": "EP",
+   "align": "center",
+   "inset": 0,
+   "color": [
+    255,
+    224,
+    201
+   ],
+   "fonts": [
+    [
+     "12",
+     1
+    ]
+   ]
+  },
+  {
+   "rect": [
+    457,
+    291,
+    23,
+    12
+   ],
+   "jp": "ＧＰ (original English art)",
+   "en": "GP",
+   "align": "center",
+   "inset": 0,
+   "color": [
+    255,
+    224,
+    201
+   ],
+   "fonts": [
+    [
+     "12",
+     1
+    ]
+   ]
   }
  ]
 }

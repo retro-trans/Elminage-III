@@ -18,7 +18,7 @@ path is inside the project is ever started/stopped.
 | `tools/call_func.py` | call a game function at a safe point (script dispatcher), restore all registers |
 | `tools/mips.py` | ELF loader, disassembly, xrefs, callers |
 | `tools/uv_probe.py` | overwrite a UI sheet in RAM with coordinate-coded colours; a screenshot then tells exactly which texels (sprite rects) a screen shows |
-| `tools/ui_regions.py`, `tools/img_text.py` | sprite regions of a GIM sheet; redraw baked-in text with the game font (specs in work/ui/specs) |
+| `tools/ui_regions.py`, `tools/img_text.py` | sprite regions of a GIM sheet; redraw baked-in text with the game's 16px font or, for 12px labels, the hand-drawn small font tools/fonts/gr_latin.txt with drop shadow (specs in work/ui/specs) |
 | `tools/prune_outputs.py` | after a build: older ISOs -> xdelta patches vs the original JP ISO (verified by SHA-256), max 10; rebuild with `work/xdelta/xdelta3-3.1.0-x86_64.exe -d -s "<JP ISO>" patches/<name>.xdelta <name>.iso` |
 | `tools/scp_sig.py`, `tools/scp_dbg.py` | derive VM operand signatures / show trail before a parse failure |
 

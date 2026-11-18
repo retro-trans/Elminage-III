@@ -43,6 +43,7 @@ OVERRIDE = {
     # right-aligned one space before them (vwf.apply_result_numbers)
     'eb@0896ce6c': 'Each surviving member gained\n' + ' ' * 16 + 'GP',
     'eb@0896cea8': 'Each surviving member gained\n' + ' ' * 16 + 'EP\n' + ' ' * 16 + 'GP',
+    'eb@08973188': '2-Hand',                      # equip compare 'Typ' column (table 0x089731A0): 'Two-Handed' ran into 'Rng'
     'eb@089733f4': 'Good', 'eb@08973400': 'Neutral', 'eb@08973410': 'Evil',   # item details use letters (patches.alignment_letters)             # strncmp key vs script line (patches.text_checks)
 }
 # Rows the slice filter dropped (1-kana race abbreviations, ebt slice_17 report; action-order marker

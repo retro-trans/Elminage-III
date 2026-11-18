@@ -116,6 +116,8 @@ PTR_OVERRIDE = {
     0x08973A18: 'Dm',
     0x08973A1C: 'Dragon',
     0x08973A2C: 'Mage',
+    0x089731BC: 'Access.',       # equip compare 'Typ' column (type table 0x089731A0, two accessory slots):
+    0x089731C0: 'Access.',       # 'Accessory' ran into the 'Rng' label
     0x08973C94: 'Access.',       # shop category list (0x08973C7C): 'Accessory' ran into the window border
     0x089735DC: 'Mage',          # class table (name, ?, abbreviation): 魔術師 is shared with tarot 'The Magician'
 }

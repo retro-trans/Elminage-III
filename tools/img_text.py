@@ -92,8 +92,8 @@ class Font12(Font):
         import font12
         # letter pixels only (the sheet carries a baked black outline; use `outline` to add one)
         self.g = {c: (g[:, :, 3].astype(np.float32) / 255.0) * (g[:, :, :3].mean(2) / 255.0)
-                  for c, g in font12.glyphs().items()}
-        m = font12.metrics(spacing=spacing, space=4)
+                  for c, g in font12.glyphs(font12.FONT).items()}
+        m = font12.metrics(spacing=spacing, space=4, path=font12.FONT)
         self.w = [12] * 256
         self.left = [0] * 256
         for c, (l, adv) in m.items():
@@ -117,6 +117,72 @@ class Font12(Font):
         return lines
 
 
+GR_FONT = os.path.join(ROOT, 'tools', 'fonts', 'gr_latin.txt')
+SHADOW = [0, 0, 0]             # default drop shadow colour of the small font (near-black in every sheet)
+# brightness of the letter colour by cell row (caps rows 2-8, descenders 9-10): full at the top, ~75 % at
+# the bottom, the ramp measured from the PS1 status text ("Lv01 Ex000": 246 -> 191) the user pointed at
+GRADIENT = [1.0, 1.0, 1.0, 0.97, 0.94, 0.91, 0.88, 0.85, 0.81, 0.77, 0.74, 0.74]
+SHADOW_OFFS = ((1, 0), (0, 1), (1, 1))   # right, down and diagonal: a 1 px diagonal alone vanishes when the
+                                         # emulator / PSP scales the dark panels (v0.8.7 check)
+
+
+class FontGR(Font):
+    """Small label font: hand-drawn proportional 12px Latin font with 1 px strokes (tools/fonts/gr_latin.txt,
+    taken from the Getter Robo Daikessen project, project original). Caps rows 2-8, x-height rows 4-8,
+    descenders rows 9-10, so a drop shadow 1 px right/down stays inside the 12 rows. Advance = ink width + 1: the
+    column after each letter holds its shadow, so the shadow costs no width."""
+    height = 12
+
+    def __init__(self, spacing=1):
+        self.g, self.w, self.left = {}, [0] * 256, [0] * 256
+        cur = None
+        for ln in open(GR_FONT, encoding='utf-8'):
+            ln = ln.rstrip('\n')
+            if ln.startswith('@'):
+                p = ln.split()
+                ch = ' ' if p[1] == 'space' else p[1]
+                adv = next((int(x[4:]) for x in p[3:] if x.startswith('adv=')), None)
+                cur = [ch, int(p[2]), [], adv]
+                self.g[ch] = cur
+            elif cur is not None and ln and set(ln) <= set('#.'):
+                cur[2].append(ln)
+        for ch, (_, top, rows, adv) in list(self.g.items()):
+            w = max((len(r) for r in rows), default=0)
+            a = np.zeros((12, max(w, 1)), np.float32)
+            for r, row in enumerate(rows):
+                a[top + r, :len(row)] = [1.0 if c == '#' else 0.0 for c in row]
+            self.g[ch] = a
+            # adv= in the file counts shadow column + gap (Getter layout); here the gap holds the shadow
+            self.w[ord(ch)] = (adv if adv is not None else w + 2) - 1
+
+    def glyph(self, c):
+        return self.g[c]
+
+    _grad = None
+
+    def _blend(self, img, x, y, g, color):
+        # letter colour fades down the cell (GRADIENT by cell row), like the Getter / PS1 status text
+        if self._grad is not None and list(color) == list(self._grad):
+            for r in range(g.shape[0]):
+                if g[r].any():
+                    c = [min(255, int(round(v * GRADIENT[r]))) for v in color]
+                    Font._blend(self, img, x, y + r, g[r:r + 1], c)
+            return
+        Font._blend(self, img, x, y, g, color)
+
+    def draw(self, img, x, y, s, color, outline=None, shadow=None):
+        if shadow is not None and outline is None:
+            for dx, dy in SHADOW_OFFS:
+                Font.draw(self, img, x + dx, y + dy, s, shadow)
+        self._grad = color
+        try:
+            Font.draw(self, img, x, y, s, color, outline)
+        finally:
+            self._grad = None
+
+    wrap = Font12.wrap
+
+
 def nearest_palette(rgba, pal):
     flat = rgba.reshape(-1, 4).astype(np.int32)
     p = pal.astype(np.int32)
@@ -129,12 +195,17 @@ def nearest_palette(rgba, pal):
 
 
 FONTS = {}
+# '12' in the specs means the small label font: the hand-drawn FontGR (v0.8.7). The game's own FONT12_12
+# (thin, widely spaced letters) stays available as '12game'.
+SMALL = {'12': FontGR, '12game': Font12}
 
 
 def get_font(name='16', spacing=1):
+    if name == '12':
+        spacing = 1                     # FontGR has one advance (the gap holds the shadow)
     key = (name, spacing)
     if key not in FONTS:
-        FONTS[key] = (Font12 if name == '12' else Font)(spacing)
+        FONTS[key] = SMALL.get(name, Font)(spacing)
     return FONTS[key]
 
 
@@ -181,6 +252,14 @@ def fit_font(s, w, prefs):
     return None
 
 
+def _draw(f, img, x, y, s, color, outline, st):
+    """Draw with the small font's drop shadow (spec key "shadow": [r, g, b], or null for none)."""
+    if isinstance(f, FontGR):
+        f.draw(img, x, y, s, color, outline, st.get('shadow', SHADOW))
+    else:
+        f.draw(img, x, y, s, color, outline)
+
+
 def build_entry(ent, font=None):
     src = os.path.join(ARC, ent['gim'].replace('/', os.sep))
     d = open(src, 'rb').read()
@@ -225,8 +304,11 @@ def build_entry(ent, font=None):
             tx = x + st.get('pad_l', 0) + (w - st.get('pad_l', 0) - st.get('pad_r', 0) - f.width(en)) // 2
         elif st.get('align') == 'right':      # last glyph's trailing spacing column stays blank
             tx = x + w - st.get('pad_r', 0) - st.get('inset', 4) // 2 - f.width(en) + 1
+            if isinstance(f, FontGR) and en:   # glyphs with adv= ('1') end in a blank column: align the ink
+                tx += f.w[ord(en[-1])] - f.g[en[-1]].shape[1] - 1
+        tx += st.get('dx', 0)                 # the game draws a few sprites off its grid (equip 'Acc2')
         ty = y + (h - f.height) // 2 + st.get('dy', 0)
-        f.draw(img, tx, ty, en, st.get('color', [255, 255, 255]), st.get('outline'))
+        _draw(f, img, tx, ty, en, st.get('color', [255, 255, 255]), st.get('outline'), st)
     for t in ent.get('text', []):
         f = get_font(t.get('font', '16'), t.get('spacing', 1)) if font is None or 'font' in t else font
         color = t.get('color', [235, 235, 235])
@@ -263,7 +345,7 @@ def build_entry(ent, font=None):
             x = t['x'] + ind
             if t.get('align') == 'center':
                 x = t['x'] + (t['w'] - f.width(s)) // 2
-            f.draw(img, x, y, s, color, t.get('outline'))
+            _draw(f, img, x, y, s, color, t.get('outline'), t)
             y += lh
         if y - lh + f.height > t.get('ymax', 10 ** 9):
             raise SystemExit('%s: text overflows (%d > %d)' % (ent['gim'], y - lh + f.height, t['ymax']))
