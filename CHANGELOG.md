@@ -1,6 +1,13 @@
 # Changelog
 
-## 0.8.23 (2026-11-20, not a release)
+## 0.8.23 (2026-11-20)
+- Released as `Elminage3-English-v0.8.23.xdelta` against the Japanese ULJM05883 image (source SHA-256
+  b68ce890a8fe247c0d5f3fdc5e1682c52fa9d38f71d86bf2d5e8c03841ba454f, target SHA-256
+  1ee49d123b2f90c4ff612c8eac828cecb18224fd82359c1d9f976d3042f2938b), built with
+  `python -m retro_trans.release build` for Retro Trans Automatic. Upgrade patch
+  `Elminage3-English-v0.8.14-to-v0.8.23.xdelta` (183 KB, source_version 0.8.14, from SHA-256
+  534e8d758c7c8afab7478be6b7c393bbb00bc00203f31550f3c052b02a2ec1fd) gives the same image. v0.8.23 also
+  contains 0.8.15 to 0.8.22 below (0.8.15 was undone by 0.8.16).
 - The menu confirm sound (O) plays at 50 % of its original volume. It is EL2PSP_SE_001, one of the 198
   VAG samples inside the executable (found in PPSSPP with a breakpoint on __sceSasSetVoice: O plays
   SE_001, cursor movement SE_003). tools/se_volume.py (new) adds 1 to the ADPCM shift of every frame,
@@ -9,7 +16,7 @@
   Same size and addresses, data only; every place that plays SE_001 is quieter, not only menus.
 - Checked: the patched sample is in memory after a fresh boot. Not listened to (emulator volume is zero).
 
-## 0.8.22 (2026-11-20, not a release)
+## 0.8.22 (2026-11-20, not released on its own; included in v0.8.23)
 The other two "severe" bugs on the wiki bug page (tools/bugfix.py).
 - Training Hall: swapping an NPC (unique character) with a player character turned the PC into an NPC
   and the unique character into a PC (wiki: then the NPC's personality comment, extra skill and face /
@@ -32,7 +39,7 @@ The other two "severe" bugs on the wiki bug page (tools/bugfix.py).
 - Fresh boot of v0.8.22: the NPC check is patched in memory and the map loads with the three walls.
   Real hardware: one instruction and three data bytes; no timing change.
 
-## 0.8.21 (2026-11-20, not a release)
+## 0.8.21 (2026-11-20, not released on its own; included in v0.8.23)
 - Freeze at the end of a battle when a level drain (e.g. Ulmakuru) leaves a character lost (original-game
   bug, wiki "severe"). Cause: at battle end, phase 14 sub-state 1 shows "<name> has been lost." and removes
   the character with 0x0887FB04; for a member of the current party that rebuilds the battle party
@@ -50,7 +57,7 @@ The other two "severe" bugs on the wiki bug page (tools/bugfix.py).
   battle, several characters lost at once, a lost unique character (the code path is the same).
 - Real hardware: about 0xD0 bytes of code and data in the code cave; no timing change.
 
-## 0.8.20 (2026-11-20, not a release)
+## 0.8.20 (2026-11-20, not released on its own; included in v0.8.23)
 Fixes for bugs of the original game (list: the Elminage III wiki bug page), first the small ones.
 - Event 56 "Crumbling Stone Tablet" was missing from the event list when the tablet (Konnu Plains Ruins
   B1F, script 02002, sets flag 0x20E) was read before the historian at the Santorea Academy faculty
@@ -71,7 +78,7 @@ Fixes for bugs of the original game (list: the Elminage III wiki bug page), firs
   Asunamuchi", one spelling "Mujirod Manuscript", correct Neutral armor and Boots texts).
 - Real hardware: script and data changes only.
 
-## 0.8.19 (2026-11-19, not a release)
+## 0.8.19 (2026-11-19, not released on its own; included in v0.8.23)
 - The 0.8.18 menu gradient only showed on the EL01_000 buttons (World Map, Inspect, Talk): every redrawn
   image is matched to its sheet's own 256-colour palette, and the town / shop / temple / castle /
   training hall sheets (EL02_001, EL02_002) have no warm whites (nearest to the cream 48 levels away),
@@ -82,7 +89,7 @@ Fixes for bugs of the original game (list: the Elminage III wiki bug page), firs
 - Checked in play: town menu (Zeppo's Inn ... Training Hall) and Kembeck's shop menu show the gradient.
   Temple, castle, training hall, battle and load menus were not opened in this build.
 
-## 0.8.18 (2026-11-19, not a release)
+## 0.8.18 (2026-11-19, not released on its own; included in v0.8.23)
 - Menu buttons in their normal state get the same white -> cream gradient (img_text.MENU_TOP /
   MENU_BOTTOM, rows 3-13). These are pre-drawn images, not run-time text, which is why the 0.8.15
   shadow never reached them. Rule (img_text.is_menu_normal): 16px font, light letters (every channel
@@ -94,7 +101,7 @@ Fixes for bugs of the original game (list: the Elminage III wiki bug page), firs
 - Checked in play: tavern menu and town menu (cream at the bottom of the letters, e.g. (239, 235, 216)
   -> (187, 177, 136) on the town buttons). Battle, temple, load and map buttons were not opened.
 
-## 0.8.17 (2026-11-19, not a release)
+## 0.8.17 (2026-11-19, not released on its own; included in v0.8.23)
 - Pixel text font ("Original pixel font"): white -> cream gradient, near-white (255, 252, 245) at the
   cap tops to cream (226, 206, 160) at the baseline, chosen from a mock-up of five colour ramps (a
   colour change shows on the nearly black panels where the 0.8.15 shade did not). tools/font_tint.py
@@ -105,12 +112,12 @@ Fixes for bugs of the original game (list: the Elminage III wiki bug page), firs
 - Checked in play with the pixel font (switched in memory; the test save uses the HD font): the help
   line reads (240, 237, 230) at the top to (212, 193, 150) at the bottom.
 
-## 0.8.16 (2026-11-19, not a release)
+## 0.8.16 (2026-11-19, not released on its own; included in v0.8.23)
 - Pixel text font shadow and shade (0.8.15) removed: the menu panels are nearly black (about RGB 30,24,23),
   so the black shadow did not show and the shade was hard to see. tools/font_fx.py is gone; vwf.apply
   puts the plain left-aligned sheet back. The ISO is byte-identical to the v0.8.14 release (same SHA-256).
 
-## 0.8.15 (2026-11-19, not a release)
+## 0.8.15 (2026-11-19, not released on its own; included in v0.8.23)
 - Pixel text font ("Original pixel font" at New Game; FONT10_16): black drop shadow 1 px right, below
   and diagonal, and a top-to-bottom shade (full colour at the cap tops, 74 % at the baseline), the same
   look as the small label font. Baked into a copy of the sheet (tools/font_fx.py ->
