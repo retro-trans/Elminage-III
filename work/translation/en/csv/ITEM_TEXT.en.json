@@ -8767,7 +8767,7 @@
  },
  {
   "id": "ITEM_TEXT.CSV:488:1",
-  "en": "The finest fried rice, cooked fast over high heat so every grain is separate. One bite feels like rice dancing in your mouth. As an item it can be sold to shops, but it will never be in stock.\nIt can be sold to shops, but it doesn't keep, so it will never be in stock.",
+  "en": "The finest fried rice, cooked fast over high heat so every grain is separate. One bite feels like rice dancing in your mouth.\nIt can be sold to shops, but it doesn't keep, so it will never be in stock.",
   "max": 312,
   "used": true
  },
@@ -8785,7 +8785,7 @@
  },
  {
   "id": "ITEM_TEXT.CSV:489:1",
-  "en": "Shortcake made with lavish amounts of the finest cream and the strawberries called the king of strawberries.\nAs an item it can be sold to shops, but it will never be in stock.\nIt can be sold to shops, but it doesn't keep, so it will never be in stock.",
+  "en": "Shortcake made with lavish amounts of the finest cream and the strawberries called the king of strawberries.\nIt can be sold to shops, but it doesn't keep, so it will never be in stock.",
   "max": 312,
   "used": true
  },

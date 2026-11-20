@@ -59,13 +59,20 @@ class Font:
         al = img[y0:y1, x0:x1, 3:4].astype(np.float32)
         img[y0:y1, x0:x1, 3:4] = np.maximum(al, a * 255).astype(np.uint8)
 
-    def draw(self, img, x, y, s, color, outline=None):
+    def draw(self, img, x, y, s, color, outline=None, rows=None):
+        """rows: optional letter colour per glyph row (MENU_GRADIENT); the outline stays one colour."""
         if outline is not None:
             for dx, dy in ((-1, 0), (1, 0), (0, -1), (0, 1), (-1, -1), (1, -1), (-1, 1), (1, 1)):
                 self.draw(img, x + dx, y + dy, s, outline)
         for c in s:
             if c != ' ':
-                self._blend(img, x - self.left[ord(c)], y, self.glyph(c), color)
+                g = self.glyph(c)
+                if rows is None:
+                    self._blend(img, x - self.left[ord(c)], y, g, color)
+                else:
+                    for r in range(g.shape[0]):
+                        if g[r].any():
+                            self._blend(img, x - self.left[ord(c)], y + r, g[r:r + 1], rows[r])
             x += self.w[ord(c)]
 
 
@@ -194,6 +201,30 @@ def nearest_palette(rgba, pal):
     return out.reshape(rgba.shape[:2])
 
 
+def fill_free_slots(pal, kept_idx, new_px, min_err=12):
+    """Palette entries no unchanged pixel uses are free: give them the redrawn colours the palette
+    matches worst (weighted by pixel count), so e.g. the cream menu gradient survives on sheets whose
+    palette has no warm whites (EL02_001 / EL02_002). Returns a new palette (RGBA8888 rows)."""
+    pal = pal.astype(np.int32).copy()
+    free = sorted(set(range(len(pal))) - set(np.unique(kept_idx).tolist()))
+    if not free:
+        return pal
+    cols, counts = np.unique(new_px.reshape(-1, 4).astype(np.int32), axis=0, return_counts=True)
+    best = np.sqrt(((cols[:, None, :] - pal[None, :, :]) ** 2).sum(2)).min(1)
+    used = set()
+    for slot in free:
+        score = counts * np.where(best > min_err, best, 0) ** 2
+        if used:
+            score[list(used)] = 0
+        k = int(score.argmax())
+        if score[k] <= 0:
+            break
+        pal[slot] = cols[k]
+        used.add(k)
+        best = np.minimum(best, np.sqrt(((cols - cols[k]) ** 2).sum(1)))
+    return pal
+
+
 FONTS = {}
 # '12' in the specs means the small label font: the hand-drawn FontGR (v0.8.7). The game's own FONT12_12
 # (thin, widely spaced letters) stays available as '12game'.
@@ -252,10 +283,36 @@ def fit_font(s, w, prefs):
     return None
 
 
+# Menu buttons in their normal state (16px font, light letters with a near-black outline, drawn on the
+# nearly black menu panels: town, tavern, temple, shop, battle commands, load menu, map places) get a
+# white -> cream gradient so they stand out; highlighted (coloured outline) and greyed states keep their
+# colours. Rows as tools/font_tint.py (pixel text font): cap tops rows 0-3, baseline row 13.
+MENU_TOP, MENU_BOTTOM = (255, 252, 245), (226, 206, 160)
+
+
+def menu_gradient(height=16):
+    rows = []
+    for r in range(height):
+        t = min(max((r - 3) / 10.0, 0.0), 1.0)
+        rows.append([int(round(a + (b - a) * t)) for a, b in zip(MENU_TOP, MENU_BOTTOM)])
+    return rows
+
+
+def is_menu_normal(f, color, outline, st):
+    """Spec key "gradient": true / false overrides the rule."""
+    if 'gradient' in st:
+        return bool(st['gradient'])
+    return (type(f) is Font and outline is not None and max(outline) <= 30
+            and min(color) >= 200)
+
+
 def _draw(f, img, x, y, s, color, outline, st):
-    """Draw with the small font's drop shadow (spec key "shadow": [r, g, b], or null for none)."""
+    """Draw with the small font's drop shadow (spec key "shadow": [r, g, b], or null for none), or the
+    menu gradient (is_menu_normal)."""
     if isinstance(f, FontGR):
         f.draw(img, x, y, s, color, outline, st.get('shadow', SHADOW))
+    elif is_menu_normal(f, color, outline, st):
+        f.draw(img, x, y, s, color, outline, rows=menu_gradient(f.height))
     else:
         f.draw(img, x, y, s, color, outline)
 
@@ -359,9 +416,18 @@ def build_entry(ent, font=None):
     pal = gim._colors(pr, img_pal['fmt'])
     changed = (img != rgba).any(2)
     new_idx = idx.copy()
+    pal_new = None
     if changed.any():
+        if img_pal['fmt'] == 3:
+            pal_new = fill_free_slots(pal, idx[~changed], img[changed])
+            pal = pal_new
         new_idx[changed] = nearest_palette(img[changed][None, :, :], pal)[0]
     out = gim.encode_index(d, new_idx)
+    if pal_new is not None:
+        out = bytearray(out)
+        o = gim.parse(bytes(out))[1]['data']
+        out[o:o + 4 * len(pal_new)] = pal_new.astype(np.uint8).tobytes()
+        out = bytes(out)
     open(os.path.join(OUT, name), 'wb').write(out)
     from PIL import Image
     Image.fromarray(pal[new_idx], 'RGBA').save(os.path.join(PREV, name.replace('.GIM', '.png')))

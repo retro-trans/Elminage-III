@@ -275,6 +275,46 @@ def inject_font_choice(pk):
     print('  font choice: %s +%x -> block @%x (%d bytes, var %d)' % (name, call - base, B - base, len(blob), var))
 
 
+# ---------------------------------------------------------------------------------------------
+# Fixes for bugs in the original scripts (docs: CHANGELOG). Each replaces the op at `site` (offset from
+# the sub-script base, original bytes `expect`) with a jump to a block in free text space of the same
+# file; the block holds `code` and jumps back to `back`. Code and jump offsets are u16 from the sub base.
+SCRIPT_FIXES = [
+    # Event 56 "Crumbling Stone Tablet" (EVENT_TEXT start flg_214b = flag 0x20D, end flg_214e = 0x210).
+    # Historian (Santorea Academy faculty building, 29006): flag 0x20E (tablet read, set by 02002) is
+    # checked before 0x20D (request accepted), so reading the tablet first finishes the event (0x210)
+    # without ever setting its start flag, and the event list never shows it. The 'told the historian'
+    # branch now also sets 0x20D (already set in the normal order).
+    dict(file='SCD08.BIN', sub='29006.bin', site=0x4C1, expect='40050010020100',
+         code='4005000d020100' '40050010020100', back=0x4C8, name='event 56 start flag'),
+]
+
+
+def inject_script_fixes(pk, fname):
+    for fx in SCRIPT_FIXES:
+        if fx['file'] != fname:
+            continue
+        sub = next((off, size) for n, off, size, _ in scp.parse_dir(bytes(pk.d)) if n == fx['sub'])
+        base = sub[0] + 4
+        site = base + fx['site']
+        exp = bytes.fromhex(fx['expect'])
+        assert bytes(pk.d[site:site + len(exp)]) == exp, 'unexpected bytes at %s +%x' % (fx['sub'], fx['site'])
+        assert len(exp) >= 5, 'site too small for a jump'
+        blob = bytes.fromhex(fx['code']) + bytes.fromhex('0a0100') + struct.pack('<H', fx['back'])
+        cand = [e for e in pk.free if (e[0] + 1) // 2 * 2 + len(blob) <= e[1]
+                and base < e[0] and e[1] <= base + 0xFFF0]
+        if not cand:
+            raise MemoryError('no free space for script fix: %s' % fx['name'])
+        ext = min(cand, key=lambda e: e[1] - e[0])
+        B = (ext[0] + 1) // 2 * 2
+        pk.d[B:B + len(blob)] = blob
+        ext[0] = B + len(blob)
+        if ext[1] - ext[0] < 6:
+            pk.free.remove(ext)
+        pk.d[site:site + 5] = bytes.fromhex('0a0100') + struct.pack('<H', B - base)   # rest of site: dead
+        print('  script fix: %s (%s +%x -> @%x)' % (fx['name'], fx['sub'], fx['site'], B - base))
+
+
 def build_file(fname, entries, font_choice=False):
     d = open(os.path.join(SRC, fname), 'rb').read()
     pk = Packer(d)
@@ -319,6 +359,7 @@ def build_file(fname, entries, font_choice=False):
         stats['translated'] += 1
     if font_choice and fname == FONT_CHOICE[0]:
         inject_font_choice(pk)
+    inject_script_fixes(pk, fname)
     # 4-byte slots need their text within +-16 KB: take a nearby free extent (whole body)
     for a, body in four:
         blob = body + bytes([0x1b, 0x00])

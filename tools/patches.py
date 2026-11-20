@@ -11,6 +11,11 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 def apply_all(eb, opts):
     info = {'archives': {}}
     no_install(eb)
+    screenshot_name(eb)
+    import bugfix
+    bugfix.apply(eb, info)               # original-game bug fixes (tools/bugfix.py)
+    import se_volume
+    se_volume.apply(eb)                  # quieter menu confirm sound
     if 'novwf' not in opts:
         import vwf
         hd = 'nohd' not in opts          # HD font sheet + New Game font choice (default: original)
@@ -47,6 +52,14 @@ def apply_all(eb, opts):
         for line in eboot_text.apply(eb)[:20]:
             print('   ', line)
     return info
+
+
+def screenshot_name(eb):
+    """Screenshots were saved as EL2SS_<date>_<time> (the Elminage 2 prefix left in the format string
+    'EL2SS_%02d%02d%02d_%02d...' at 0x08974280). Same length, so only the digit changes."""
+    va = 0x08974280
+    assert eb.read(va, 6) == b'EL2SS_', eb.read(va, 6)
+    eb.write(va + 2, b'3')
 
 
 def no_install(eb):

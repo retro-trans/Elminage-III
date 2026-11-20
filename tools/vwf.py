@@ -83,7 +83,10 @@ def apply(eb, info):
     path = FONT_NEW if os.path.exists(FONT_NEW) else FONT_SRC
     widths = measure(path)
     if path == FONT_NEW:
-        info['archives'].setdefault('ANIME', {})['FONT10_16.GIM'] = open(path, 'rb').read()
+        # the game gets a white -> cream copy (tools/font_tint.py); widths stay those of FONT_NEW
+        import font_tint
+        tint, _ = font_tint.build(path)
+        info['archives'].setdefault('ANIME', {})['FONT10_16.GIM'] = open(tint, 'rb').read()
     # [0:256] original font, [256:512] HD font (selected at run time, see hdchk)
     eb.alloc(bytes(widths) + bytes(HD_WIDTHS or widths), 'vwf_widths', align=16)
 

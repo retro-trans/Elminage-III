@@ -1,5 +1,128 @@
 # Changelog
 
+## 0.8.23 (2026-11-20, not a release)
+- The menu confirm sound (O) plays at 50 % of its original volume. It is EL2PSP_SE_001, one of the 198
+  VAG samples inside the executable (found in PPSSPP with a breakpoint on __sceSasSetVoice: O plays
+  SE_001, cursor movement SE_003). tools/se_volume.py (new) adds 1 to the ADPCM shift of every frame,
+  which halves the decoded sound exactly (decoded check: RMS ratio 0.50000, largest difference from half
+  the original 8.5 of 32768); one frame already at the largest shift has its nibbles halved instead.
+  Same size and addresses, data only; every place that plays SE_001 is quieter, not only menus.
+- Checked: the patched sample is in memory after a fresh boot. Not listened to (emulator volume is zero).
+
+## 0.8.22 (2026-11-20, not a release)
+The other two "severe" bugs on the wiki bug page (tools/bugfix.py).
+- Training Hall: swapping an NPC (unique character) with a player character turned the PC into an NPC
+  and the unique character into a PC (wiki: then the NPC's personality comment, extra skill and face /
+  style load could be edited). NPC status belongs to the roster slot (0x6C-0x6E), not the record. With
+  Square in a character list, the first pick was checked against NPC slots only in the Roster list; Edit
+  Profile also lists the NPCs, so picking the NPC first and a PC second swapped the two records. The check
+  now runs in every list (one instruction at 0x0884F5A0). Picking an NPC first now shows "An NPC's place
+  in the list can't be changed.", the same message as picking one second.
+- Checked in PPSSPP on the Training Hall with a test NPC written into slot 0x6C (the test save has no
+  unique characters yet). Reproduced on the old build: NPC first, then Hiyora -> the NPC record moved into
+  PC slot 9 and Hiyora into NPC slot 0x6C. With the fix: the message, no swap mode. Swapping two PCs in
+  Edit Profile still works. Not checked with a real unique character.
+- Wind Castle 2F (Delita): the three west-edge cells at x0, y7-9 had no outer wall (wiki: "can walk off
+  the map; may freeze or be lost in stone"). They get the outer wall (0xDE, type 6) the edge has just
+  north of them (PARTS/01_67.DAT, floor 53; data only). Every other open map edge on all 67 floors has a
+  cell event (an exit); these three were the only ones without one.
+- Not reproduced: in PPSSPP with floor 53's original map put in place of the current floor, the party
+  stopped at x0 when walking west (and at x19 walking east), so this build may already block leaving the
+  grid; the walls make the edge the same as every other one either way. Not checked on the real floor.
+- Fresh boot of v0.8.22: the NPC check is patched in memory and the map loads with the three walls.
+  Real hardware: one instruction and three data bytes; no timing change.
+
+## 0.8.21 (2026-11-20, not a release)
+- Freeze at the end of a battle when a level drain (e.g. Ulmakuru) leaves a character lost (original-game
+  bug, wiki "severe"). Cause: at battle end, phase 14 sub-state 1 shows "<name> has been lost." and removes
+  the character with 0x0887FB04; for a member of the current party that rebuilds the battle party
+  (0x088CB688), which resets the battle data block 0x08DF8298-0x08DF8A28 (0x088B97DC). The battle phase,
+  sub-state and lost list live in that block, so the phase fell to 0 (idle) before the battle could finish,
+  and the game sat on the battle background with an EMPTY slot, ignoring input. Fix (tools/bugfix.py,
+  new): the removal at 0x088D1380 only queues the character (lost_defer); the queue is run (lost_flush)
+  when the battle task finishes, at 0x088499F4 right before the hand-back to the dungeon (0x08876FC8).
+  The message, the slot clear and everything else in the loss step are unchanged.
+- Checked in PPSSPP on the Konnu Plains Ruins first battle (reached by playing the opening: town tour,
+  audience). Reproduced on the old build: Grace with Vitality 2 and one pending drain, battle won ->
+  "Grace's level dropped by 1.", then stuck (phase 0, battle flag still 1). With the fix: phases 14/1 ->
+  14/4 -> 23 -> 0, battle flag cleared, back in the dungeon with Grace removed and the party closed up;
+  walking and the map work. A normal battle ends exactly as before. Not checked: an actual Ulmakuru
+  battle, several characters lost at once, a lost unique character (the code path is the same).
+- Real hardware: about 0xD0 bytes of code and data in the code cave; no timing change.
+
+## 0.8.20 (2026-11-20, not a release)
+Fixes for bugs of the original game (list: the Elminage III wiki bug page), first the small ones.
+- Event 56 "Crumbling Stone Tablet" was missing from the event list when the tablet (Konnu Plains Ruins
+  B1F, script 02002, sets flag 0x20E) was read before the historian at the Santorea Academy faculty
+  building gave the request. The historian (29006) checks 0x20E before 0x20D (request taken = the
+  event's start flag, EVENT_TEXT flg_214b), so that order finished the event (0x210, flg_214e) without
+  a start flag: Fame and the completed count were given, but the list never showed it. The "told the
+  historian" branch now also sets 0x20D (text_build.SCRIPT_FIXES: the op at +0x4C1 jumps to a block in
+  free text space of SCD08, which sets 0x20D and 0x210 and returns to +0x4C8). Checked in the built
+  file; not played through (needs both places).
+- Screenshots are named EL3SS_<date>_<time> instead of the Elminage 2 prefix EL2SS_ (format string at
+  0x08974280, patches.screenshot_name). Checked in the built executable.
+- Fried Rice and Strawberry Shortcake descriptions said "can be sold to shops, but will never be in
+  stock" twice, as the Japanese does; the first copy is removed (csvt overrides rows 2134, 2135).
+- Checked, nothing to fix: every dungeon "Read it?" sign (8 scripts in SCD01/04/05) branches to the
+  text on Yes and away from it on No, and the same choice op drives the New Game font menu, which
+  works; the wiki's "the sign is read even after No" was not found in the scripts and needs a test in
+  play. The other typos the wiki lists are in the Japanese only (the English has "Heavenly Fiend
+  Asunamuchi", one spelling "Mujirod Manuscript", correct Neutral armor and Boots texts).
+- Real hardware: script and data changes only.
+
+## 0.8.19 (2026-11-19, not a release)
+- The 0.8.18 menu gradient only showed on the EL01_000 buttons (World Map, Inspect, Talk): every redrawn
+  image is matched to its sheet's own 256-colour palette, and the town / shop / temple / castle /
+  training hall sheets (EL02_001, EL02_002) have no warm whites (nearest to the cream 48 levels away),
+  so the cream rows fell back to grey-white. img_text.fill_free_slots now gives the palette entries no
+  unchanged pixel uses (6-13 per sheet here) to the redrawn colours the palette matches worst, weighted
+  by pixel count. Applies to every redrawn sheet; colours elsewhere can only get closer to the intended
+  ones. Sheets without free entries (EL02_003 battle, EL02_004 load: 1 each) already had close creams.
+- Checked in play: town menu (Zeppo's Inn ... Training Hall) and Kembeck's shop menu show the gradient.
+  Temple, castle, training hall, battle and load menus were not opened in this build.
+
+## 0.8.18 (2026-11-19, not a release)
+- Menu buttons in their normal state get the same white -> cream gradient (img_text.MENU_TOP /
+  MENU_BOTTOM, rows 3-13). These are pre-drawn images, not run-time text, which is why the 0.8.15
+  shadow never reached them. Rule (img_text.is_menu_normal): 16px font, light letters (every channel
+  >= 200) with a near-black outline (every channel <= 30); spec key "gradient" true/false overrides.
+  It catches 160 buttons in EL01_000 (tavern / camp menus), EL02_001 (town), EL02_002 (temple, shops,
+  castle), EL02_003 (battle commands), EL02_004 (load menu), EL03_003 / EL03_004 (map places). The
+  outline, the highlighted state (white, coloured outline, on the light bar) and the greyed state are
+  unchanged. The town / shop buttons were pale cyan (220, 240, 241) and are now white -> cream too.
+- Checked in play: tavern menu and town menu (cream at the bottom of the letters, e.g. (239, 235, 216)
+  -> (187, 177, 136) on the town buttons). Battle, temple, load and map buttons were not opened.
+
+## 0.8.17 (2026-11-19, not a release)
+- Pixel text font ("Original pixel font"): white -> cream gradient, near-white (255, 252, 245) at the
+  cap tops to cream (226, 206, 160) at the baseline, chosen from a mock-up of five colour ramps (a
+  colour change shows on the nearly black panels where the 0.8.15 shade did not). tools/font_tint.py
+  recolours a copy of the left-aligned sheet (work/font/FONT10_16_tint.GIM, put into ANIME by
+  vwf.apply); alpha is unchanged, so widths and shapes are the same; 180 of 256 palette entries. The HD
+  font is unchanged. The game multiplies the texture by the text colour, so greyed and coloured text
+  is tinted the same way (not checked in play).
+- Checked in play with the pixel font (switched in memory; the test save uses the HD font): the help
+  line reads (240, 237, 230) at the top to (212, 193, 150) at the bottom.
+
+## 0.8.16 (2026-11-19, not a release)
+- Pixel text font shadow and shade (0.8.15) removed: the menu panels are nearly black (about RGB 30,24,23),
+  so the black shadow did not show and the shade was hard to see. tools/font_fx.py is gone; vwf.apply
+  puts the plain left-aligned sheet back. The ISO is byte-identical to the v0.8.14 release (same SHA-256).
+
+## 0.8.15 (2026-11-19, not a release)
+- Pixel text font ("Original pixel font" at New Game; FONT10_16): black drop shadow 1 px right, below
+  and diagonal, and a top-to-bottom shade (full colour at the cap tops, 74 % at the baseline), the same
+  look as the small label font. Baked into a copy of the sheet (tools/font_fx.py ->
+  work/font/FONT10_16_fx.GIM, put into ANIME by vwf.apply); the VWF widths, the HD sheet and img_text
+  still read the plain sheet, so no width or layout changes. The right shadow uses the 1 px spacing
+  column each glyph already draws; shadow below row 15 (descenders) is cut by the cell. The text colour
+  multiplies the texture, so greyed text keeps its grey (checked) and the shadow stays black; coloured
+  text should keep its colour the same way (not checked).
+  Palette: 123 of 256 entries. The HD font is unchanged.
+- Checked in play with the pixel font (test save uses the HD font; switched in memory): tavern menu,
+  status screen values and the help line show the shadow and shade. Image data only.
+
 ## 0.8.14 (2026-11-18)
 - Released as `Elminage3-English-v0.8.14.xdelta` against the Japanese ULJM05883 image (source SHA-256
   b68ce890a8fe247c0d5f3fdc5e1682c52fa9d38f71d86bf2d5e8c03841ba454f, target SHA-256
