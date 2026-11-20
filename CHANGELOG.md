@@ -1,5 +1,60 @@
 # Changelog
 
+## 0.8.25 (2026-11-20, not a release)
+- Guard target cursor one place off (original-game bug, wiki): the ally list of the Guard target menu
+  is rebuilt from the living party and summons each time, and the menu opens on a remembered list
+  index (0x08E08A2C[mode]). After a revive or a summon (or a summon leaving) the list gains or loses an
+  entry before the last target, so the cursor opened on the neighbour. A wrapper around the menu call
+  (0x088E3070, ally picker 0x088E2EF8, also used by two other ally pickers) remembers the slot the
+  cursor was on and opens on that slot's new place; nothing changes if the cursor was moved or reset
+  elsewhere. Checked by running the game's code in a CPU emulator (Unicorn) with a stub menu: pick
+  slot 3 from [0 1 3], revive slot 2 -> opens on slot 3 (index 3, was index 2); summon leaves -> still
+  slot 3; cursor reset elsewhere -> unchanged. Not played (needs a battle with a revive).
+- Looked at, not fixed (each needs a game state the test save cannot reach, and a guess could break
+  the game):
+  - Instrument range in the armor slot: the attack routine (0x088C2514) checks main-weapon hits against
+    the main weapon's range and sub-slot hits, an instrument included, against the sub item's own range
+    (0x088BE23C, a1 = 2), so the path the wiki describes is elsewhere; needs a Bard with an instrument
+    in battle.
+  - Recorded-history enemy strength after a Dungeon Lord dungeon: needs a Dungeon Lord dungeon to find
+    the strength variable it leaves set.
+  - Floor master vanishing after a random battle on the same step: its handling is in the dungeon
+    scripts; needs a pursuing floor master.
+  - Holy zone time-over (Infinite Mana left on, Master Therion summon left out): the time limit is in
+    the zone's scripts; needs that battle.
+- Fresh boot of v0.8.25: the patch is in memory; the save loads.
+  Real hardware: about 0xF0 bytes of code and 0x100 bytes of data in the cave; one changed call.
+
+## 0.8.24 (2026-11-20, not a release)
+More bugs of the original game from the wiki bug list, the minor ones (tools/bugfix.py).
+- Revived at 0 HP: Rizefus in battle sets HP to max HP / 2, so a character drained to max HP 1 came back
+  alive with 0 HP. The half is now at least 1 (0x088D6604). Rizefus outside battle (rand 1-9, capped)
+  and Rizefade were already fine. Checked in the built executable; not played.
+- Extra Skill changed by a cancelled class change: picking the new class's Extra Skill wrote it into the
+  character at once (+0xDD), and No or Cross at "Change to this class?" kept it. The pick now saves the
+  old skill and the cancel path (0x08852B4C) puts it back. Checked in PPSSPP, hot-patched and again on
+  the v0.8.24 build: Grace Fighter -> Priest, skill picked (0x74 -> 0x6C), No -> 0x74 again; Cross too.
+- Command Repeat escaped from battles that forbid escape (a repeated Run let that character flee, so a
+  wiped party's escapee kept the event going). The single-character escape now fails for party slots
+  while the battle's no-escape flag (0x08DF8228 bit 0) is set; the whole-party escape already checked
+  it. Checked in the built executable; not played (needs a boss battle).
+- Spirit Pact + Command Repeat cast at the party: Spirit Pact turns a single/group elemental attack
+  spell into all-target at cast time, and an all-target spell reads its target as a side (300 = enemies,
+  anything else = the party). A repeated command entered before Spirit Pact was set kept its enemy
+  slot / group target, so it hit the party. Where Spirit Pact makes the range "all", the target is now
+  the enemy side (0x088D2DCC). Checked in the built executable; not played.
+- SP release changed the wrong copy: item SP effects that transform the item changed the first
+  inventory item with that id, not the one that released its SP (two Mantles of Depravity: the
+  unequipped one became the Black Dream Cloak). A wrapper around the 9 calls makes the search find the
+  item that released the SP. Checked by running the game's own code in a CPU emulator (Unicorn): with
+  copies at slots 1 and 3 and the SP from slot 3, the original changes slot 1, the fix slot 3.
+- Not fixed yet: instrument range in the armor slot (the sub-weapon range code already uses the
+  instrument's own range, so the wrong path is elsewhere; needs a Bard in battle to trace), floor
+  master vanishing, recorded-history enemy strength, Guard cursor shift, the time-over bugs in the
+  holy zone. They need a game state that reaches them (boss / Dungeon Lord / floor master).
+- Fresh boot of v0.8.24: all patches in memory; the save loads.
+  Real hardware: code in the cave (about 0x200 bytes) and a few changed instructions; no timing change.
+
 ## 0.8.23 (2026-11-20)
 - Released as `Elminage3-English-v0.8.23.xdelta` against the Japanese ULJM05883 image (source SHA-256
   b68ce890a8fe247c0d5f3fdc5e1682c52fa9d38f71d86bf2d5e8c03841ba454f, target SHA-256
