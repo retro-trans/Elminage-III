@@ -1,6 +1,13 @@
 # Changelog
 
-## 0.8.25 (2026-11-20, not a release)
+## 0.8.25 (2026-11-20)
+- Released as `Elminage3-English-v0.8.25.xdelta` against the Japanese ULJM05883 image (source SHA-256
+  b68ce890a8fe247c0d5f3fdc5e1682c52fa9d38f71d86bf2d5e8c03841ba454f, target SHA-256
+  d9ad5146d2cc840c928befe1fc33c51175237cd426bdb1b4ecb66a972f97c3d9), built with
+  `python -m retro_trans.release build` for Retro Trans Automatic. Upgrade patch
+  `Elminage3-English-v0.8.23-to-v0.8.25.xdelta` (9 KB, source_version 0.8.23, from SHA-256
+  1ee49d123b2f90c4ff612c8eac828cecb18224fd82359c1d9f976d3042f2938b) gives the same image. v0.8.25 also
+  contains 0.8.24 below.
 - Guard target cursor one place off (original-game bug, wiki): the ally list of the Guard target menu
   is rebuilt from the living party and summons each time, and the menu opens on a remembered list
   index (0x08E08A2C[mode]). After a revive or a summon (or a summon leaving) the list gains or loses an
@@ -25,7 +32,7 @@
 - Fresh boot of v0.8.25: the patch is in memory; the save loads.
   Real hardware: about 0xF0 bytes of code and 0x100 bytes of data in the cave; one changed call.
 
-## 0.8.24 (2026-11-20, not a release)
+## 0.8.24 (2026-11-20, not released on its own; included in v0.8.25)
 More bugs of the original game from the wiki bug list, the minor ones (tools/bugfix.py).
 - Revived at 0 HP: Rizefus in battle sets HP to max HP / 2, so a character drained to max HP 1 came back
   alive with 0 HP. The half is now at least 1 (0x088D6604). Rizefus outside battle (rand 1-9, capped)
